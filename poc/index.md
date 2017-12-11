@@ -1,4 +1,6 @@
 <!--Tasks:
+- add CC LICENSE to projects
+- define unique pool names
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
 - ajouter schémas table de jeu + système de jets de dés + cycle de jeu
@@ -131,7 +133,9 @@ Blabla       | Blabla       | Blabla
 Blabla       | Blabla       | Blabla
 :::
 
+::: stranger-things full-page-table on-new-page
 !!!include(character-sheet.md)!!!
+:::
 
 <style type="text/css">
 body { line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
@@ -147,7 +151,7 @@ table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; 
 .result table th:nth-child(2), .result table td:nth-child(2) { width: 4rem; }
 .result tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
 
-.full-page-table, .full-page-table table { width: 100%; border-style: hidden; }
+.full-page-table table { width: 100%; border-style: hidden; }
 .full-page-table th, .full-page-table td { border: 1px solid #ddd; }
 
 .traits { font-size: 3rem; }
