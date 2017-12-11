@@ -1,4 +1,4 @@
-<table class="stranger-things character-sheet full-page-table on-new-page"><tbody><tr><td>
+<table class="character-sheet full-page-table on-new-page"><tbody><tr><td>
   <span class="poolname">Curiosité / sens de l'observation</span>
   <p class="usage">En dépensant 1 jeton, vous pouvez créer une carte à partir de la description d'un autre joueur.</p>
   <p class="recup"><strong>+2 jetons</strong> chaque fois que c'est à vous de décrire un lieu</p>
