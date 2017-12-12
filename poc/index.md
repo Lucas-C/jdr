@@ -1,5 +1,4 @@
 <!--Tasks:
-- add CC LICENSE to projects
 - define unique pool names
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
@@ -133,7 +132,11 @@ Blabla       | Blabla       | Blabla
 Blabla       | Blabla       | Blabla
 :::
 
-::: stranger-things full-page-table on-new-page
+::: stranger-things character-sheet full-page-table on-new-page
+!!!include(character-sheet.md)!!!
+:::
+
+::: indiana-pulp-jones character-sheet full-page-table on-new-page
 !!!include(character-sheet.md)!!!
 :::
 
@@ -159,8 +162,15 @@ table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; 
 .traits th, .traits td { width: 33%; font-weight: normal; }
 .traits th::before, .traits td::before { content: 'Trait :\A'; white-space: pre; font-size: 1.5rem; font-style: italic; }
 
-.character-sheet tr { height: 20vw; }
-.poolname { font-size: 2rem; }
+.character-sheet { margin: 2rem auto; width: 50rem; height: 50rem; position: relative; border: 6px solid; border-image: url(border.png) 27 repeat; }
+.panel { width: 20rem; height: 20rem; padding: 1rem; position: absolute; }
+.panel-1 { top: 0; left: 0; }
+.panel-2 { top: 0; right: 0; }
+.panel-3 { bottom: 0; left: 0; }
+.panel-4 { bottom: 0; right: 0; }
+.poolname { font-size: 1.9rem; }
 .usage::before { content: 'Usage :\A'; white-space: pre; font-size: 1.5rem; font-style: bold; }
 .recup::before { content: 'Récupération :\A'; white-space: pre; font-size: 1.5rem; font-style: bold; }
+
+.indiana-pulp-jones { background: url('animal-1296937_1280.png') center no-repeat; background-size: 40%; }
 </style>
