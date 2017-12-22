@@ -14,6 +14,7 @@ TODO:
 - relire +puces / contact des PJs
 - https://www.youtube.com/watch?v=Sw2xMFYHxZI
 - https://bloodntongue.bandcamp.com/album/spaceship-graveyard
+- demander aux illustrateurs si OK d'utiliser leurs images
 Idées
 - "le seul moyen de passer ces radars longue portée serait de couper toute source d'énergie pendant 3 jours, en attendant que notre inertie initiale nous fasser traverser la zone surveillée"
 - Nauvoo : intended to be populated by thousands of Mormons and travel beyond The Sol System, to Tau Ceti
@@ -197,6 +198,11 @@ En fin de mission, tout le monde met cartes sur table, et selon les cachoteries 
 <figure>
   <img src="colie_wertz_00.jpg" alt="">
   <figcaption>Illustration de <a href="http://coliewertz.com/">Colie Wertz</a></figcaption>
+</figure>
+
+<figure>
+  <img src="mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg" alt="">
+  <figcaption>Illustration de <a href="http://www.mitchmalloyart.com">Mitchell Malloy/</a> <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
 
