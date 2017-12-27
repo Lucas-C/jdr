@@ -1,8 +1,10 @@
 <!--Tasks:
+- illus ?
 - define unique pool names
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
 - ajouter schémas table de jeu + système de jets de dés + cycle de jeu
+- utiliser story cubes ?
 - maqueter:
   * piste de progression vers objectif, avec piste de menace en parallèle, 2x fois + lente
   * grille de cartes vides
@@ -55,12 +57,22 @@ Ensuite, les effes varient selon le nombre de réussites obtenues,
 c'est-à-dire de dés dont la valeur de la face est supérieure ou égale à la difficulté:
 
 ::: result
-Nombre de réussites |      Résultat      |            Le PJ                                    |          Le MJ
-:------------------:|:------------------:|:---------------------------------------------------:|:--------------------------
-**0**               | Échec critique     |       Perd ses cartes.                              | Décrit un terrible échec **+** conserve ses cartes, et choisit au choix:<ul><li>d'avancer d'un cran la gauge de menace</li><li>d'incapaciter le PJ</li><li>de voler une carte au PJ</li></ul>
-**1**               | Râté mais...       | Perd ses cartes **MAIS** récupère les cartes du MJ. | Décrit un échec partiel. Si le PJ a perdu et/ou gagné des cartes objets, la description de la scène doit idéallement le justifier.
-**2**               | Réussi mais...     | Récupère les cartes du MJ **MAIS** perd ses cartes. | Décrit une réussite partielle.<br>Choisit au choix:<ul><li>d'avancer d'un cran la gauge de menace</li><li>incapaciter le PJ</li><li>voler une carte au PJ</li></ul>
-**3 ou plus**       | Réussite critique  | Récupère les cartes du MJ **+** conserve ses cartes, et choisit au choix:<ul><li></li></ul> | Décrit une réussite fantastique
+Nombre de réussites |      Résultat      |            Le PJ                                                          |          Le MJ
+:------------------:|:------------------:|:-------------------------------------------------------------------------:|:--------------------------
+**0**               | Échec critique     |       Perd ses cartes.                                                    | Décrit un terrible échec **+** conserve ses cartes, et choisit au choix:\
+                    |                    |                                                                           |\
+                    |                    |                                                                           | - d'avancer d'un cran la gauge de menace\
+                    |                    |                                                                           | - d'incapaciter le PJ\
+                    |                    |                                                                           | - de voler une carte au PJ
+**1**               | Râté mais...       | Perd ses cartes **MAIS** récupère les cartes du MJ.                       | Décrit un échec partiel. Si le PJ a perdu et/ou gagné des cartes objets, la description de la scène doit idéallement le justifier.
+**2**               | Réussi mais...     | Récupère les cartes du MJ **MAIS** perd ses cartes.                       | Décrit une réussite partielle.<br>Choisit au choix:\
+                    |                    |                                                                           | - d'avancer d'un cran la gauge de menace\
+                    |                    |                                                                           | - incapaciter le PJ\
+                    |                    |                                                                           | - voler une carte au PJ
+**3 ou plus**       | Réussite critique  | Récupère les cartes du MJ **+** conserve ses cartes, et choisit au choix: | Décrit une réussite fantastique\
+                    |                    | - ?                                                                       |
+
+
 :::
 
 ## Ce que doivent décrire les joueurs
