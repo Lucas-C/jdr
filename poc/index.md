@@ -1,5 +1,6 @@
 <!--Tasks:
 - illus ?
+- reprendre le principe de la Piste de PsiRun
 - define unique pool names
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
