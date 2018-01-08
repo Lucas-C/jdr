@@ -1,18 +1,18 @@
 <!--Tasks:
-- illus ?
-- reprendre le principe de la Piste de PsiRun
 - define unique pool names
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
-- ajouter schémas table de jeu + système de jets de dés + cycle de jeu
 - utiliser story cubes ?
+- reprendre le principe de la Piste de PsiRun
+- ajouter schémas table de jeu + système de jets de dés + cycle de jeu
 - maqueter:
   * piste de progression vers objectif, avec piste de menace en parallèle, 2x fois + lente
   * grille de cartes vides
   * fiche de rappel de cycle de jeu
   * fiche d'aventure: accroche + liste de lieux, avec chaque fois les cartes défaussés dedans
+- review sur r/RPGdesign (note: un post propose un template pour cela)
 *Inspis:* PsyRun
-*Inspis mise en page:* http://brunobord.github.io/lasers-et-sentiments/ & http://brunobord.github.io/ghostlines-fr/
+ToRead: https://www.reddit.com/r/RPGdesign/comments/45jyu0/meta_rpg_design_resources_megalist/
 -->
 
 :::: rules
@@ -145,11 +145,7 @@ Blabla       | Blabla       | Blabla
 Blabla       | Blabla       | Blabla
 :::
 
-::: stranger-things character-sheet full-page-table on-new-page
-!!!include(character-sheet.md)!!!
-:::
-
-::: indiana-pulp-jones character-sheet full-page-table on-new-page
+::: character-sheet full-page-table on-new-page
 !!!include(character-sheet.md)!!!
 :::
 
@@ -184,6 +180,4 @@ table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; 
 .poolname { font-size: 1.9rem; }
 .usage::before { content: 'Usage :\A'; white-space: pre; font-size: 1.5rem; font-style: bold; }
 .recup::before { content: 'Récupération :\A'; white-space: pre; font-size: 1.5rem; font-style: bold; }
-
-.indiana-pulp-jones { background: url('animal-1296937_1280.png') center no-repeat; background-size: 40%; }
 </style>
