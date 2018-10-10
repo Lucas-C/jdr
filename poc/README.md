@@ -1,6 +1,6 @@
 ## Generation
 
-    md2html index.md > index.html
+    md2html PorteObjectifCartes.md > PorteObjectifCartes.html
 
 ## Resources
 

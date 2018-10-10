@@ -1,5 +1,7 @@
 <!-- GENERATE HTML: md2html Dedale.md > Dedale.html
 ajouter une table d'évênements à Dédale, lorsque les joueurs y repassent, pour faire vivre le lieu
+mécanisme de sauvegarde jv-esque : permet de revenir en arrière en cas de mort / situation indésirable (avec limites, et pour tout le groupe)
+reprendre design & illus du jeu
 -->
 
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire

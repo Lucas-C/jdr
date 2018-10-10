@@ -145,8 +145,8 @@ Blabla       | Blabla       | Blabla
 Blabla       | Blabla       | Blabla
 :::
 
-::: character-sheet full-page-table on-new-page
-!!!include(character-sheet.md)!!!
+::: on-new-page
+!!!include(character-sheet.html)!!!
 :::
 
 <style type="text/css">
@@ -170,14 +170,4 @@ table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; 
 .traits tr { height: 20vw; }
 .traits th, .traits td { width: 33%; font-weight: normal; }
 .traits th::before, .traits td::before { content: 'Trait :\A'; white-space: pre; font-size: 1.5rem; font-style: italic; }
-
-.character-sheet { margin: 2rem auto; width: 50rem; height: 50rem; position: relative; border: 6px solid; border-image: url(border.png) 27 repeat; }
-.panel { width: 20rem; height: 20rem; padding: 1rem; position: absolute; }
-.panel-1 { top: 0; left: 0; }
-.panel-2 { top: 0; right: 0; }
-.panel-3 { bottom: 0; left: 0; }
-.panel-4 { bottom: 0; right: 0; }
-.poolname { font-size: 1.9rem; }
-.usage::before { content: 'Usage :\A'; white-space: pre; font-size: 1.5rem; font-style: bold; }
-.recup::before { content: 'Récupération :\A'; white-space: pre; font-size: 1.5rem; font-style: bold; }
 </style>

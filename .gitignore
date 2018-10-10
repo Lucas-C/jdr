@@ -1,4 +1,8 @@
-*.html
 *.pdf
+/Dedale.html
+/gdav/gdav.html
+/poc/PorteObjectifCartes.html
 /psirun/CR_2017-12-27_piste.png
 /psirun/rsync.include
+/scavengers/Scavengers.html
+__pycache__/
