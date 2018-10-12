@@ -2,18 +2,18 @@
     <div class="column table-row">
         <h3 class="table-row-name">L'obstacle est-il franchi ?</h3>
         <div class="row">
-            <div class="column corner-arrow">
+            <div class="column corner-arrow corner-arrow-left">
                 <div>non</div>
-                <div class="corner-arrow-pic corner-arrow-left"></div>
+                <div class="corner-arrow-pic"></div>
             </div>
             <div class="die-box-background die-box-top">
                 <div class="column die-box">
-                    <div>4+</div>
+                    <div class="die-box-big-text">4+</div>
                 </div>
             </div>
-            <div class="column corner-arrow">
+            <div class="column corner-arrow corner-arrow-right">
                 <div>oui</div>
-                <div class="corner-arrow-pic corner-arrow-right"></div>
+                <div class="corner-arrow-pic"></div>
             </div>
         </div>
     </div>
@@ -135,7 +135,7 @@
             <div class="row">
                 <div class="die-box-background die-box-bad-consequences">
                     <div class="column die-box">
-                        <div>5-</div>
+                        <div class="die-box-big-text">5-</div>
                     </div>
                 </div>
                 <div class="column effects-caption">
@@ -164,13 +164,28 @@
 </div>
 
 <style>
+@font-face {
+  font-family: 'Sicili';
+  src: url('fonts/Silici.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'SiciliBold';
+  src: url('fonts/SiliciBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'PoisonHope-Regular';
+  src: url('fonts/PoisonHope-Regular.ttf') format('truetype');
+}
+
+@page { margin: 10% }
+
 .resolution-table {
     --die-size: 6rem;
     --die-margin: .3rem; 
     --die-border-padding: .6rem; 
-    --table-row-name-height: 1.6rem; 
+    --table-row-name-height: 1.8rem; 
     --table-row-separator-margin: 1rem; 
-    width: 40rem;
+    width: 50rem;
     margin: 0 auto;
 }
 .column {
@@ -217,8 +232,9 @@
 .table-row-name {
     margin: 0;
     line-height: var(--table-row-name-height);
+    font-family: 'SiciliBold';
     font-style: italic;
-    font-size: 1rem;
+    font-size: 1.8rem;
     font-weight: 300;
 }
 .table-row-foldable {
@@ -227,6 +243,9 @@
     margin: calc( -1 * var(--table-row-separator-margin) ) 0;
     padding: var(--table-row-separator-margin) 0;
     justify-content: flex-end;
+    font-family: SiciliBold;
+    font-size: 2rem;
+    font-style: italic;
 }
 .die-box-background {
     padding: var(--die-margin);
@@ -238,7 +257,12 @@
     padding: var(--die-border-padding);
     background-size: cover;
     text-align: center;
+    font-family: 'MaryJaneMeade';
+    line-height: 1rem;
+}
+.die-box-big-text {
     font-size: 1.6rem;
+    padding-bottom: 0.5rem;
 }
 .die-box-with-ranges {
     font-size: .9rem;
@@ -247,23 +271,28 @@
     margin: 0 2rem;
     height: var(--die-size);
     justify-content: flex-end;
+    font-family: 'PoisonHope-Regular';
+    font-size: 1.3rem;
+    line-height: 1.3rem;
 }
 .corner-arrow-pic {
     width: 5rem;
     height: 4rem;
+    background-image: url(cdb-ad6.png);
     background-position: center;
     background-size: cover;
 }
+.corner-arrow-left { align-items: flex-start; }
+.corner-arrow-right { align-items: flex-end; }
 .effects-caption {
     height: var(--die-size);
     flex: 1;
     padding: .5rem;
     text-align: center;
-    font-size: .8rem;
+    font-size: 1rem;
 }
 
-.corner-arrow-right { background-image: url(cdb-ad6.png); }
-.corner-arrow-left { background-image: url(cdb-ad6.png); transform: scaleX(-1); }
+.corner-arrow-left .corner-arrow-pic { transform: scaleX(-1); }
 .die-box-top { background-color: lightblue; }
 .die-box-top > div { background-image: url(db37.png); }
 .die-box-side-effects { background-color: moccasin; }
