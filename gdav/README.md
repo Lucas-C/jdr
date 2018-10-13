@@ -1,3 +1,7 @@
+<!--
+TODO: get rid of PoisonHope-Regular font -> license is not cc / free of rights
+-->
+
 ## Generation
 
     md2html gdav.md > gdav.html
@@ -14,4 +18,5 @@
 
 Fonts:
 - [Sicili](http://behance.net/indieferdie) - BY-ND 3.0
-
+- [MaryJaneMeade](https://www.ffonts.net/Mary-Jane-Meade.font) by [Apostrophic Labs](http://web.archive.org/web/20030408055445/www.hardcovermedia.com/lab/Pages/info.html)
+- [PoisonHope-Regular](https://www.chrisvile.com/#!/Font-License-for-Poison-Hope/p/50838373) by Chris Vile, free for personal use

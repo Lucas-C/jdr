@@ -1,7 +1,6 @@
-# Amere victoires & Glorieuses defaites
+# Ameres victoires & Glorieuses defaites
 
 ::: rules
-## Principe
 Les joueurs incarnent les héros d'une saga épique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
@@ -11,7 +10,7 @@ où ils devront faire des choix cornéliens pour y apporter une conclusion.
 - des crayons
 - un jeton **Initiative** quelconque
 - des pions **Obstacle** quelconques (3x le nombre de joueurs)
-- une poignée de dés à 6 faces (`d6`):
+- une poignée de dés à 6 faces (_d6_):
 1 bleu, 5 blancs et 3 jaunes (peu importe la couleur de ces derniers vraiment,
 mais on considérera qu'ils sont jaunes dans ce qui suit).
 
@@ -63,7 +62,7 @@ Une fois ce souvenir décrit, il inscrit alors sur une carte le nom de cet objet
 et la place à côté de sa feuille de héro, en posant un d6 jaune dessus.
 
 3. Le joueur interrogé pioche alors **1 pion Obstacle**, puis interroge à son tour un autre joueur,
-qui a moins de 3 pions Obstacle, répétant les même étapes à partir de `1.`
+qui a moins de 3 pions Obstacle, reprennant à partir de l'étape **1** ci-dessus.
 
 Durant cette phase, le MJ n'a qu'un rôle d'arbitrage très réduit.
 Il peut en profiter pour noter des idées de **Scènes** à venir.

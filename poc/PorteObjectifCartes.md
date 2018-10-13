@@ -1,8 +1,7 @@
 <!--Tasks:
-- define unique pool names
+- finir de rédiger la FP (entre autres, définir des noms de pool uniques) & la table de résolution & l'étape de mise en place
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
-- utiliser story cubes ?
 - reprendre le principe de la Piste de PsiRun
 - ajouter schémas table de jeu + système de jets de dés + cycle de jeu
 - maqueter:
@@ -10,26 +9,41 @@
   * grille de cartes vides
   * fiche de rappel de cycle de jeu
   * fiche d'aventure: accroche + liste de lieux, avec chaque fois les cartes défaussés dedans
+  * choisir des polices plus attirantes
 - review sur r/RPGdesign (note: un post propose un template pour cela)
 *Inspis:* PsyRun
 ToRead: https://www.reddit.com/r/RPGdesign/comments/45jyu0/meta_rpg_design_resources_megalist/
 -->
 
-:::: rules
-# Règles
+# Porte / Objectif / Cartes
 
-## Mise en place
+:::: rules
+Dans ce jeu de rôle, les joueurs incarnent des personnages explorant un lieu avec un objectif précis en tête,
+comme par exemple trouver un objet, un endroit ou quelqu'un en particulier.
+
+### Matériel
+- un petit objet qui servira de "totem"
+- des pions (une vingtaine)
+- une demi-douzaine de dés à 6 faces (_d6_)
+
+
+## Règles
+Ce jeu est un **jeu de rôle**.
+Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
+
+### Mise en place
+MJ détaille l'univers de jeu.
 
 Création des PJs:
+- nom
 - choix de 2 Traits parmi:
 
-MJ définit la difficulté de l'objectif selon la durée de partie souhaitée
+Le MJ définit la difficulté de l'objectif selon la durée de partie souhaitée
 
-## Résumé du cycle de jeu
-
+### Résumé du cycle de jeu
 **Début:** Le joueur qui a le totem découvre le lieu et le décrit. Le joueur à sa droite dessine où il se situe sur la carte.
-Pour chaque créature, objet ou élement du décor décrit, le MJ peu créer une carte correspondante.
-Le totem est ensuite passé à gauche.
+Pour chaque créature, objet ou élement du décor décrit, le MJ peut créer une **Carte** correspondante.
+Le totem est ensuite transmis par le joueur à son voisin de gauche.
 
 Avec l'excitation de la découverte, les PJs ont une bouffe d'espoir/de motivation et gagnent chacun 2 pions à répartir dans leurs pools.
 
@@ -39,11 +53,11 @@ le MJ gagne autant de pions danger qu'il y a de PJs.
 **Fin:** Si les PJs ont découvert l'indice / objet / sortie secrètement choisie par le MJ,
 ils avancent d'un cran sur la piste de progression.
 
-## Résolution d'action
+### Résolution d'action
 **Difficulté de base: 2+**
 
 Le MJ augmente cette difficulté en dépensant des jetons de danger (max 2)
-ou des cartes, qui sont alors **mises en jeu**.
+ou des **Cartes**, qui sont alors **mises en jeu**.
 
 Les PJs déterminent quel joueur va lancer les dés.
 
@@ -52,56 +66,54 @@ mais il peut obtenir plus de dés:
 - si un de ses **Traits** s'applique à la situation
 - s'il dépense un point d'**Intrépide** (max 2)
 - si un autre PJ peut l'aider et dépense un point d'**Amitié** (max 1 par joueur)
-- s'il **met en jeu des cartes**
+- s'il **met en jeu des Cartes**
 
 Ensuite, les effes varient selon le nombre de réussites obtenues,
 c'est-à-dire de dés dont la valeur de la face est supérieure ou égale à la difficulté:
 
 ::: result
 Nombre de réussites |      Résultat      |            Le PJ                                                          |          Le MJ
-:------------------:|:------------------:|:-------------------------------------------------------------------------:|:--------------------------
-**0**               | Échec critique     |       Perd ses cartes.                                                    | Décrit un terrible échec **+** conserve ses cartes, et choisit au choix:\
-                    |                    |                                                                           |\
+--------------------|--------------------|---------------------------------------------------------------------------|---------------------------
+**0**               | Échec critique     |       Perd ses cartes.                                                    | Décrit un terrible échec **+** conserve ses Cartes, et choisit au choix:\
+                    |                    |                                                                           | \
                     |                    |                                                                           | - d'avancer d'un cran la gauge de menace\
                     |                    |                                                                           | - d'incapaciter le PJ\
-                    |                    |                                                                           | - de voler une carte au PJ
-**1**               | Râté mais...       | Perd ses cartes **MAIS** récupère les cartes du MJ.                       | Décrit un échec partiel. Si le PJ a perdu et/ou gagné des cartes objets, la description de la scène doit idéallement le justifier.
-**2**               | Réussi mais...     | Récupère les cartes du MJ **MAIS** perd ses cartes.                       | Décrit une réussite partielle.<br>Choisit au choix:\
+                    |                    |                                                                           | - de voler une Carte au PJ
+**1**               | Râté mais...       | Perd ses Cartes **MAIS** récupère les Cartes du MJ.                       | Décrit un échec partiel. Si le PJ a perdu et/ou gagné des Cartes "objet", la description de la scène doit expliquer comment.
+**2**               | Réussi mais...     | Récupère les Cartes du MJ **MAIS** perd ses Cartes.                       | Décrit une réussite partielle.<br>Choisit au choix:\
                     |                    |                                                                           | - d'avancer d'un cran la gauge de menace\
                     |                    |                                                                           | - incapaciter le PJ\
-                    |                    |                                                                           | - voler une carte au PJ
-**3 ou plus**       | Réussite critique  | Récupère les cartes du MJ **+** conserve ses cartes, et choisit au choix: | Décrit une réussite fantastique\
-                    |                    | - ?                                                                       |
-
+                    |                    |                                                                           | - voler une Carte au PJ
+**3 ou plus**       | Réussite critique  | Récupère les Cartes du MJ **+** conserve ses Cartes, et choisit au choix: | Décrit une réussite fantastique\
+                    |                    | - ?                                                                       | 
 
 :::
 
-## Ce que doivent décrire les joueurs
+### Ce que doivent décrire les joueurs
 
 - une description détaillée de ce qui s'offre à la vue des PJs
-- les objects visibles
-- les potentiels créatures
+- les créatures & objets visibles
 - la taille du lieu et ses limites (**obligatoire**)
 
-## Ce que le MJ doit ensuite indiquer
+### Ce que le MJ doit ensuite indiquer
 
-- les sorties potentielles (peuvent-être des **leurres**, d'autres peuvent encore être **cachées**,
+- les sorties potentielles (qui peuvent-être des **leurres**, ou bien **cachées**,
 mais il faut toujours qu'il soit possible aux PJs de quitter le lieu,
 quitte à ce que cela demande de l'astuce / des risques)
-- **secrètement**: il décide d'un **indice**, d'un **objet** ou d'une **sortie** dans ce lieu qui ferait progresser les joueurs vers leur objecti
+- **secrètement**: il décide d'un **indice**, d'un **objet** ou d'une **sortie** dans ce lieu qui ferait progresser les joueurs vers leur objectif
 
 ## Accroches
 
-### Stranger Things
-
-Les PJs sont des gamins en colo de vacance.
+### Goonies On The Run
+Les PJs sont des gamins en colonie de vacance.
 Tom, le petit frère d'un d'entre eux a perdu son ours peluche,
 et un autre PJ lui a fait la mauvaise blague de lui dire qu'il était dans le manoir abandonné à côté.
 
+Pensez à _Jumanji_, _Narnia_, _Stranger Things_...
+
 **Objectif:** retrouver Tom et son ours
 
-### Space cargo
-
+### Space Cargo
 Les PJs se réveillent dans des cuves, dand un pièce aux murs en métal,
 bardée de cables et d'électronique, avec une baie vitrée donnant sur le vide spatial.
 
@@ -121,7 +133,6 @@ ou
 **Objectif:** quitter ce vaisseau / cette station spatiale
 
 ### Indiana Pulp Jones
-
 Les PJs sont des archéologues / exporateurs / journalistes / romanciers / pilleurs de tombes
 en quête de ...
 
@@ -137,7 +148,7 @@ Quelques questions:
 
 ::::
 
-# Matériel
+# Traits
 ::: traits full-page-table on-new-page
 Baratineur   | Bon grimpeur | Blabla
 :-----------:|:------------:|:------------:
@@ -152,6 +163,7 @@ Blabla       | Blabla       | Blabla
 <style type="text/css">
 body { line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
 h1, h2, h3 { line-height: 1.2; }
+h1 { text-align: center; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; }
 table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; } td { padding: 5px; border-top: 1px solid #ddd; }
