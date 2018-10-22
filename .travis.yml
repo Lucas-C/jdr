@@ -1,0 +1,19 @@
+language: node_js
+
+cache:
+  directories:
+    - "node_modules"
+
+script:
+- npm install markdown-it markdown-it-anchor markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table minimist
+- wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
+- node md2html.js gdav/gdav.md > gdav/index.html
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  keep-history: true
+  on:
+    branch: master
+  target-branch: gh-pages
