@@ -1,19 +1,20 @@
 <!--
 - git add fonts
+- add schema
 - playtest #2
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus
 -->
-# Ameres victoires & Glorieuses defaites
+# Amères victoires & Glorieuses defaites
 
-<figure>
-  <img src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
-  <figcaption><a href="https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921">A New Kind Of Enemy by istayfrosti</a> - License <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
-</figure>
-
-:::: rules
+:::: rules block-centered limited-width
 Les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
+
+<figure class="block-centered">
+  <img src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
+  <figcaption><a href="https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921">A New Kind Of Enemy by istayfrosti</a> - License <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+</figure>
 
 ### Matériel requis
 - ce jeu imprimé (ou au moins la table de résolution)
@@ -309,29 +310,24 @@ Ensuite, en commençant par ces Héros,
 chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro au cours de cette scène et après,
 en complétant ce que le précédent vient de décrire.
 
-<img src="bone-1299051_1280.png">
+<img class="block-centered small-img" src="bone-1299051_1280.png">
+::::
+
+:::: on-new-page
+::: block-centered limited-width
+## Table de résolution
+<span class="speaks">Entre parenthèses et en vert</span> est indiqué QUI a la parole.
+:::
+!!!include(resolution-table.html)!!!
 ::::
 
 ::: on-new-page
-## Table de résolution
-Entre parenthèses et en vert est indiqué QUI a la parole.
-!!!include(resolution-table.html)!!!
+!!!include(hero-sheet.html)!!!
+!!!include(hero-sheet.html)!!!
 :::
-
 ::: on-new-page
 !!!include(hero-sheet.html)!!!
 !!!include(hero-sheet.html)!!!
-!!!include(hero-sheet.html)!!!
-!!!include(hero-sheet.html)!!!
-:::
-
-::: on-new-page headless-table attaches
-(attache) | (attache) | (attache)
-----------|-----------|-
-(attache) | (attache) | (attache)
-(attache) | (attache) | (attache)
-(attache) | (attache) | (attache)
-(attache) | (attache) | (attache)
 :::
 
 :::: on-new-page rules
@@ -428,13 +424,13 @@ body { font-size: .8rem; line-height: 1.6; font-family: sans-serif; color: #444;
 h2, h3 { line-height: 1.2; font-family: 'MaryJaneMeade'; }
 h1 { line-height: 1.2; font-family: 'PoisonHope-Regular'; text-align: center; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
-img { display: block; margin: 0 auto; max-width: 100%; }
+img { width: 100%; }
 @media print { .on-new-page { page-break-before: always; } }
 
-figure { max-width: 40rem; margin: 0 auto; }
-figcaption { text-align: center; }
-.rules { max-width: 40rem; margin: 40px auto; }
-.rules img { max-width: 10rem; margin: 0 auto; }
+.block-centered { display: block; margin: 0 auto; }
+.limited-width { max-width: 40rem; margin: 40px auto; }
+.small-img { max-width: 10rem; }
+figcaption { text-align: right; font-size: .6rem; }
 
 .rules table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
 .rules table p { margin: 0; }
@@ -465,35 +461,5 @@ figcaption { text-align: center; }
     color: white;
     font-size: .8rem;
     font-weight: bold;
-}
-
-/* hs = heroes summary */
-.hs table {
-    width: 100%;
-    border-spacing: 0; border-collapse: collapse; border-style: hidden;
-    page-break-inside: avoid;
-    font-size: 1rem;
-    font-family: 'MaryJaneMeade';
-    text-align: center;
-}
-.hs tr { height: 4rem; }
-.hs th, .hs td {
-    width: 40%;
-    border: 1px solid black;
-}
-.hs th:first-of-type, .hs td:first-of-type { width: 20%; }
-
-.attaches table {
-    width: 100%;
-    border-spacing: 0; border-collapse: collapse; border-style: hidden;
-    page-break-inside: avoid;
-    font-size: 1rem;
-    font-style: italic;
-}
-.attaches tr { height: 20rem; }
-.attaches th, .attaches td {
-    width: 33%; padding: 1rem;
-    border: 1px solid black;
-    vertical-align: top; text-align: right;
 }
 </style>
