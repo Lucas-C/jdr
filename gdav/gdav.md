@@ -2,6 +2,7 @@
 - git add fonts
 - add schema
 - playtest #2
+- get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus
 -->
 # Amères victoires & Glorieuses defaites

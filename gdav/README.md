@@ -1,6 +1,6 @@
-<!--
-TODO: get rid of PoisonHope-Regular font -> license is not cc / free of rights
--->
+## Version consultable en ligne et imprimable
+
+<https://lucas-c.github.io/jdr/gdav/>
 
 ## Generation
 
