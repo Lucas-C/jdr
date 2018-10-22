@@ -1,31 +1,34 @@
 <!--
-- redesigner table résolution, et rôle des Atouts
-- définir comment les PJs risquent / misent leurs Attaches & PAs pour accéder à la 2e section de la table
-- définir jokers, ex: allié à la rescousse
-- relire notes post-playtest #1
+- git add fonts
 - playtest #2
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus
 -->
 # Ameres victoires & Glorieuses defaites
 
+<figure>
+  <img src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
+  <figcaption><a href="https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921">A New Kind Of Enemy by istayfrosti</a> - License <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+</figure>
+
 :::: rules
-Les joueurs incarnent les héros d'une saga épique, au dernier chapitre de leur périple.
+Les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
 ### Matériel requis
 - ce jeu imprimé (ou au moins la table de résolution)
 - des crayons
-- des pions quelconques qui serviront de **Pierres du Destin** (2x le nombre de PJs)
-- une poignée de dés à 6 faces (_d6_):
-1 bleu, 5 blancs et 3 jaunes (peu importe la couleur de ces derniers vraiment,
-mais on considérera qu'ils sont jaunes dans ce qui suit).
+- des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs autour de la table)
+- 4 dés à 6 faces (_d6_) blancs, et 6 dés à 6 faces colorés
 
 
 
 ## Règles
 Ce jeu est un **jeu de rôle**.
 Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
+Abréviations employées :
+- MJ = Meneur de Jeu
+- PJ = Personnage d'un Joueur
 
 
 ### Schéma du déroulement de la partie
@@ -47,12 +50,13 @@ Il leur donne rapidement quelques éléments de la géographie, de l'histoire et
 de la technologie, des croyances, des factions, etc. de cet univers.
 
 
-### Création des Héros
-Chaque joueur inscrit sur sa feuille de Héro :
+### Création des Héros / Héroïnes
+Chaque joueur inscrit sur sa feuille de personnage :
 
 - son **nom**
-- son **Objectif** : la quête du Héro, ce qu'il tente d'accomplir.
-En manque d'inspiration ? Lancez _1d6_ et reporte toi à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+- son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
+
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
   + la vengeance : ... doit payer pour ...
   + libérer le peuple ... oprimé par ...
   + découvrir la vérité sur légende de / les évênements de ...
@@ -62,8 +66,9 @@ En manque d'inspiration ? Lancez _1d6_ et reporte toi à la liste suivante, en i
   + ramener à la vie ...
   + détrôner le tyran ...
 
+<!--
 - sa **Pierre Angulaire** : il s'agit de la raison de vivre - menacée au cours de la saga - ou de la valeur morale primordiale du Héro.
-En manque d'inspiration ? Lancez _1d6_ et reporte toi à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
   + est fidèle à son dieu
   + suit un code de l'honneur (ex: bushido)
   + ne jure que par l'argent
@@ -72,6 +77,7 @@ En manque d'inspiration ? Lancez _1d6_ et reporte toi à la liste suivante, en i
   + non violent
 
 En lien avec sa **Pierre Angulaire**, chaque joueur doit lister **deux choses que ne ferait jamais son Héro**.
+-->
 
 Si vous êtes en panne d'inspiration, la table suivante peut également vous donner des idées d'archétypes de personnages :
 ::: headless-table
@@ -84,18 +90,16 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 **6** | la veuve, qui a perdu son compagnon lors de ...
 :::
 
-Le MJ peut recopier ces informations dans le tableau récapitulatif fourni, pour lui servir d'aide mémoire.
-
 
 ### Résumé de la saga
 La partie commence alors que les Héros sont regroupés autour d'un feu.
-Un personnage ne payant pas de mine s'approche d'eux, curieux. Il a etendu parler de leurs exploits.
+Un personnage ne payant pas de mine s'approche d'eux, curieux. Il a entendu parler de leurs exploits.
 
 Ce personnage est le **PMJ**, le personnage du MJ, qui a un rôle uniquement dans cette phase d'introduction,
-et éventuellement dans la Scène finale.
+et éventuellement dans la **Scène finale**.
 
 Il peut s'agir d'un vagabond, d'un ménestrel, d'un moine scribe, d'un journaliste...
-N'importe qui à qui les Héros feraient suffisement confiance pour lui raconter quelques anecdotes de leurs aventures.
+N'importe qui à qui les Héros feront suffisement confiance pour lui raconter quelques anecdotes de leurs aventures.
 
 Durant cette phase, le MJ va donc, par l'intermédiaire de ce PMJ, interroger les joueurs sur le passé de leurs Héros.
 Pour eux, c'est l'occasion d'obtenir des **Atouts** et des **Attaches** au travers de **Flashbacks** (cf. section suivante).
@@ -103,7 +107,7 @@ Pour eux, c'est l'occasion d'obtenir des **Atouts** et des **Attaches** au trave
 Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro raconte **deux Flashbacks**.
 Les joueurs sont également encouragés à se poser des questions entre eux pour déclencher des Flashbacks :
 
-> Tu te souviens ... ?
+> Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la milice t'as défié en duel ?
 
 
 ### Flashbacks
@@ -127,19 +131,40 @@ Une fois la question énoncée, au joueur de répondre comme il l'entend.
 Il a néanmoins comme contrainte d'introduire deux élements dans sa narration :
 
 - un **Atout** : un objet ou une capacité qui rendent le Héro redoutable dans son domaine
-- une **Attache** de son Héro : un lieu, ou bien une ou plusieurs personnes auxquels il est très attaché.
-Une Attache déjà évoquée peut être ré-employée. Dans ce cas, indiquez sur la carte **x2**.
-
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+  * l'Héroïne possède une arme gigantesque / volante / les deux
+  * tout ce qui est vivant tombe en cendres lorsque l'Héroïne le touche
+  * l'Héroïne a la malédiction de la méduse : quiconque voit son visage est pétrifié
+  * l'Héroïne peut faire résonner sa voix dans la tête des gens
+  * l'Héroïne possède un livre capable de terroriser n'importe qui
+  * l'Héroïne peut invoquer un élément : foudre, vague de feu, tempête...
+  * l'Héroïne est capable de donner vie à la matière inerte
+  * l'Héroïne peut hypnotiser quiconque d'un regard
+- une **Attache** de son Héro : un objet, un lieu, ou bien une ou plusieurs personnes auxquels il est très attaché.
+Une Attache déjà évoquée peut être ré-employée. Dans ce cas, elle devient une Attache **forte**, indiquez-le la carte.
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+  * né d'un peuple esclave, le Héro se considère le frère de toute personne portant leur marque
+  * le Héro a perdu un frère / une soeur qu'il a juré de retrouver
+  * le Héro voue un respect infini à son Maître nommé ... qui lui a appris ...
+  * le Héro ne jure que par son dieu ...
+  * le Héro a fait la promesse de protéger la vallée dont il vient
+  * le Héro a juré de servir la Résistance
+  * le Héro a voué sa vie à l'armée
+  * ce pendentif est le dernier souvenir du Héro de sa mère
+  * le Héro à tout appris dans les livre de la bibliothèque de la Citadelle, qu'il a juré de protéger
 
 ### Le Pacte
 ::: float-right variant
 Dans les exemples fournis, les étapes du Pacte sont toutes identiques.
 On peut aussi décomposer la quête en étapes distinctes.
-Par exemple pour **trouver le trésor de ...** en 4 PdD : trouver des archives qui le mentionne ;
+Par exemple pour **trouver le trésor de ...** en 4 PdD : trouver des archives qui le mentionnent ;
 trouver un savant pour les traduire et situer le lieu ; le convaincre de le faire ; se rendre sur place.
 :::
+Le MJ définit alors le Pacte qu'il va sceller avec les Héros, c'est-à-dire une mission épique précise.
+Il doit donner lieu à des scènes héroïques, mais gardez en tête qu'il doit être réalisable en une session,
+qui à accélerer le rythme de l'histoire.
 
-Chaque Pacte doit pouvoir être accomplis en N étapes, N correspondant au double du nombre de PJs,
+Chaque Pacte doit pouvoir être accomplis en N étapes, N correspondant au nombre de PJs + 1,
 et donc au nombre de Pierres du Destin qui sera distribué.
 
 Vous pouvez, au choix, lancer _1d6_ dans l'une des tables suivantes,
@@ -192,7 +217,7 @@ Rêvélez alors votre nature aux Héros, à grand renforts d'effets spéciaux et
 Proposez-leur votre Pacte, ce qu'ils doivent accomplir pour vous et vos conditions,
 en échange de quoi ils obtiendront chacun ce qu'ils cherchent.
 
-Vous pouvez lâchez théatralement au centre de la table autant de **Pierres du Destin** que le double du nombre de PJs.
+Vous pouvez lâchez théatralement au centre de la table autant de **Pierres du Destin** que le nombre de PJs + 1.
 Ces pions symbolisent les objectifs à atteindre pour accomplir le Pacte.
 
 A partir de ce moment, vous pouvez d'or et déjà vous creuser la tête sur comment vous allez, lors de la Scène finale,
@@ -200,27 +225,59 @@ donner l'opportunité à tous les Héros d'accomplir leurs Objectifs en un seul 
 
 
 ### Jets de dés
-Dans la majorité des cas, le joueur lance **1d6 bleu + 2d6 blancs**
-et doit placer **3 dés dans la partie supérieure** de la table de résolution.
+Lorsqu'un Héro tente d'accomplir une action risquée, le joueur lance **3d6 blancs**.
 
-Cependant, si en franchissant l'obstacle concerné il est en mesure d'accomplir son **Objectif**,
-il faut alors plier la zone hachurée de la table de résolution, lancer **1d6 bleu + 3d6 blancs**
-et **en placer 4 dans la table**.
+S'il emploie certains de ses **Atouts** pour accomplir cette action,
+il ajoute **1d6 coloré par Atout employé**.
 
-Enfin, tous les joueurs ont la possibilité d'impliquer un (et un seul) de leurs **Compagnons** ou **Objets** dans l'action entreprise.
-Pour chaque **Compagnon** ou **Objet** qui aide à franchir l'obstacle, on rajoute **1d6 jaune** au lancer,
-qui servir de "joker" et pourra être placé à la place d'un dé bleur ou blanc dans la table.
-Attention néanmoins : si un **1** est obtenu pour ces dés jaunes, le **Compagnon** ou l'**Objet** concerné est perdu !
+Une fois les résultats obtenus, le joueur place ensuite 3 dés dans la partie supérieure de la **table de résolution**.
+Le dé placé au sommet de la table détermine:
+- le **résultat de l'action**, réussite sur un 5 ou un 6, échec sinon
+- dans **quelle colonne de la table placer les autres dés** : en cas de réussite les autres d6
+doivent être placés **tous à gauche ** dans la table, et **tous à droite** en cas d'échec
 
-Une fois le lancé effectué, un des d6 obtenus doit être placé au sommet de la table.
-Selon si ce dé est égale ou supérieur à 4, les 2 autres d6 (les 3 autres en cas d'Objectif atteignable)
-doivent être placés **tous à gauche ou à droite** dans la table.
+La deuxième ligne détermine les conséquences de l'action :
+- il peut s'agir d'une **réussite EPIQUE**, le joueur décrit alors comment son Héros accomplit son oeuvre avec panache
+- il peut s'agit d'une **complication** : que l'action soit réussie ou non, quelque chose tourne mal tout de même...
+Selon la colonne, le MJ ou n'importe quel autre joueur autour de la table a la parole pour décrire cette complication.
+- enfin, un **Flashback** peut être déclenché. Celui-ci est décrit une fois le résultat de l'action décrit.
+N'importe quel autre joueur pose alors une question sur son passé au joueur qui a fait le lancer, et on suit les même règles que les Flashback de début de partie.
 
-Une fois ce placement effectué, le joueur ayant effectué le jet décrit ce qui concerne la ligne **où a été placé le dé bleu**
-(_Obstacle franchi / Effet secondaire / Progression / Terribles conséquences_)
-tandis que le MJ décrit le reste des conséquences de l'action.
+La troisième ligne révèle de potentielles opportunités :
+- l'action peut se révéler **ouvrir une porte vers la réalisation du Pacte**.
+Au MJ d'expliquer alors comment cela avance les PJs rapidement vers une opportunité de retirer une Pierre du Destin.
+- l'action entreprise peut également donner une opportunité **à une autre Héro** :
+diversion, attaque combinée, bluff... le joueur explique quelle synergie est créée avec quel autre Héro.
+- le Héro peut être **incapacité** : assomé, immobilisé, paralysé, inconscient...
+Le MJ explique ce qui lui arrive.
+- enfin, le joueur peut obtenir une **Prouesse Héroïque**.
+Il pourra déclencher cet évênement une et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
+Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
+  * un personage allié surgit pour vous sauver la mise
+  * votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
+  * votre Héro se met dans une colère noire et terrorise tous les PNJs présents
+  * votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
+  * votre Héro survit miraculeusement à la mort
+  * les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
+  * votre Héro retourne son adversaire à sa cause
+  * un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez
+
 
 ### Retirer une Pierre du Destin
+Lorsqu'un Héro est en position d'accomplir une action qui pourrait lui permettre d'accomplir une étape du Pacte,
+il doit l'anoncer, et on replit alors la table de résolution.
+
+Il doit alors **mettre en jeu** une **Attache** forte.
+S'il n'en a pas, il ne pourra pas retirer de Pierre du Destin.
+
+Il lance alors **4d6 blancs**, plus d'éventuels dés supplémentaires en fonctions de ses Atouts,
+et place ses résultats dans la table repliée :
+- il risque de **perdre un Atout** : au joueur d'expliquer ce qui l'a rendu inutilisable
+- il peut être **incapacité**, et alors un autre Héro peut **prendre le relai**.
+Encore une fois, cet au joueur d'expliquer comment ce PJ a à son tour l'occasion de retirer une Pierre du Destin en accomplissant le Pacte.
+- enfin, il peut perdre sa mise. Son **Attache** peut être perdue sous ses yeux, si la situation le permet.
+Sinon, la balance karmique se mettra en mouvement plus tard,
+et le MJ devra introduire une rapide scène où le Héro apprend cette tragédie.
 
 ::: float-right variant
 Si jamais un Héro meurt en cours de partie, il pourra tout de même aider ses camarades par-delà la mort :
@@ -251,9 +308,13 @@ On effetue alors le ou les jets aléatoires requis pour déterminés les Héros 
 Ensuite, en commençant par ces Héros,
 chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro au cours de cette scène et après,
 en complétant ce que le précédent vient de décrire.
+
+<img src="bone-1299051_1280.png">
 ::::
 
 ::: on-new-page
+## Table de résolution
+Entre parenthèses et en vert est indiqué QUI a la parole.
 !!!include(resolution-table.html)!!!
 :::
 
@@ -262,15 +323,6 @@ en complétant ce que le précédent vient de décrire.
 !!!include(hero-sheet.html)!!!
 !!!include(hero-sheet.html)!!!
 !!!include(hero-sheet.html)!!!
-:::
-
-::: on-new-page hs
-Héro | Pierre angulaire | Objectif
------|------------------|-
- | | | |
- | | | |
- | | | |
- | | | |
 :::
 
 ::: on-new-page headless-table attaches
@@ -285,9 +337,12 @@ Héro | Pierre angulaire | Objectif
 :::: on-new-page rules
 ## Un univers créé en 90min
 
-Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table : le jeu vidéo _Dark Souls_, le manga _Berserk_, la série de romans _Les Annales de la Compagnie Noire_. L'ambiance générale sera donc de la "Dark Fantasy", tendant un peu vers le "Post-Apo" ou le "Steampunk".
+Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table :
+les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_, le manga _Berserk_, la série de romans _Les Annales de la Compagnie Noire_.
+L'ambiance générale sera donc de la "Dark Fantasy", tendant un peu vers le "Post-Apo" ou le "Steampunk".
 
-Par la suite, le MJ a surtout servi d'animateur, s'assurant que tout le monde ait la parole, que les idées convergeaient et que les différents aspects de l'univers étaient évoqués. Il était également scribe, prennant en note devant tout le monde les élements de l'univers établis collectivement.
+Par la suite, le MJ a surtout servi d'animateur, s'assurant que tout le monde ait la parole, que les idées convergeaient
+et que les différents aspects de l'univers étaient évoqués. Il était également scribe, prennant en note devant tout le monde les élements de l'univers établis collectivement.
 
 Le groupe a commencé à discuter sur la question de **la magie / technologie**.
 Après quelques échanges, et en gardant l'esprit du ["Oui et" du théatre d'impro](https://improetc.wordpress.com/2013/10/20/la-regle-du-oui/),
@@ -369,14 +424,17 @@ Il s'agissait uniquement de sources d'inspirations improvisées.
   src: url('fonts/MaryJaneMeade.ttf') format('truetype');
 }
 
-body { font-size: .8rem; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
+body { font-size: .8rem; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 1rem; text-align:justify; }
 h2, h3 { line-height: 1.2; font-family: 'MaryJaneMeade'; }
 h1 { line-height: 1.2; font-family: 'PoisonHope-Regular'; text-align: center; }
-blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
+blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
 img { display: block; margin: 0 auto; max-width: 100%; }
 @media print { .on-new-page { page-break-before: always; } }
 
-.rules { max-width: 650px; margin: 40px auto; }
+figure { max-width: 40rem; margin: 0 auto; }
+figcaption { text-align: center; }
+.rules { max-width: 40rem; margin: 40px auto; }
+.rules img { max-width: 10rem; margin: 0 auto; }
 
 .rules table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
 .rules table p { margin: 0; }
