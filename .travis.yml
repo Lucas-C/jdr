@@ -7,7 +7,7 @@ cache:
 script:
 - npm install markdown-it markdown-it-anchor markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table minimist
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
-- node md2html.js gdav/gdav.md > gdav/index.html
+- cd gdav && node ../md2html.js gdav.md > index.html
 
 deploy:
   provider: pages
