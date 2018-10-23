@@ -6,7 +6,7 @@
 -->
 # AMERES VICTOIRES & GLORIEUSES DEFAITES
 
-:::: rules block-centered limited-width
+:::: block-centered limited-width rules
 Les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
@@ -330,7 +330,7 @@ en complétant ce que le précédent vient de décrire.
 !!!include(hero-sheet.html)!!!
 :::
 
-:::: on-new-page rules
+:::: on-new-page block-centered limited-width rules
 ## Un univers créé en 90min
 
 Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table :
@@ -436,16 +436,16 @@ blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem
 img { width: 100%; }
 @media print { .on-new-page { page-break-before: always; } }
 
+figcaption { text-align: right; font-size: .6rem; }
 .block-centered { display: block; margin: 0 auto; }
 .limited-width { max-width: 40rem; margin: 40px auto; }
 .small-img { max-width: 10rem; }
-figcaption { text-align: right; font-size: .6rem; }
+.headless-table th { font-weight: normal; }
 
 .rules table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
 .rules table p { margin: 0; }
 .rules td, .rules th { padding: 5px 10px; }
 .rules td { border-top: 1px solid #ddd; }
-.headless-table th { font-weight: normal; }
 
 .float-right {
     float: right;
