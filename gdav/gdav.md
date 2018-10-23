@@ -1,11 +1,11 @@
 <!--
-- git add fonts
-- add schema
+- add img dice on h2
+- add schema déroulement
 - playtest #2
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus
 -->
-# Amères victoires & Glorieuses defaites
+# AMERES VICTOIRES & GLORIEUSES DEFAITES
 
 :::: rules block-centered limited-width
 Les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
@@ -21,7 +21,7 @@ où ils devront faire des choix cornéliens pour y apporter une conclusion.
 - ce jeu imprimé (ou au moins la table de résolution)
 - des crayons
 - des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs autour de la table)
-- 4 dés à 6 faces (_d6_) blancs, et 6 dés à 6 faces colorés
+- une dizaine de dés à 6 faces (_d6_)
 
 
 
@@ -59,14 +59,14 @@ Chaque joueur inscrit sur sa feuille de personnage :
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
 
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  + la vengeance : ... doit payer pour ...
-  + libérer le peuple ... oprimé par ...
-  + découvrir la vérité sur légende de / les évênements de ...
-  + retrouver le trésor perdu de ...
-  + lever la malédiction qui affecte ...
-  + découvrir la contrée mythique de ...
-  + ramener à la vie ...
-  + détrôner le tyran ...
+  1. la vengeance : ... doit payer pour ...
+  1. libérer le peuple ... oprimé par ...
+  1. découvrir la vérité sur légende de / les évênements de ...
+  1. retrouver le trésor perdu de ...
+  1. lever la malédiction qui affecte ...
+  1. découvrir la contrée mythique de ...
+  1. ramener à la vie ...
+  1. détrôner le tyran ...
 
 <!--
 - sa **Pierre Angulaire** : il s'agit de la raison de vivre - menacée au cours de la saga - ou de la valeur morale primordiale du Héro.
@@ -134,26 +134,26 @@ Il a néanmoins comme contrainte d'introduire deux élements dans sa narration :
 
 - un **Atout** : un objet ou une capacité qui rendent le Héro redoutable dans son domaine
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  * l'Héroïne possède une arme gigantesque / volante / les deux
-  * tout ce qui est vivant tombe en cendres lorsque l'Héroïne le touche
-  * l'Héroïne a la malédiction de la méduse : quiconque voit son visage est pétrifié
-  * l'Héroïne peut faire résonner sa voix dans la tête des gens
-  * l'Héroïne possède un livre capable de terroriser n'importe qui
-  * l'Héroïne peut invoquer un élément : foudre, vague de feu, tempête...
-  * l'Héroïne est capable de donner vie à la matière inerte
-  * l'Héroïne peut hypnotiser quiconque d'un regard
+  1. l'Héroïne possède une arme gigantesque / volante / les deux
+  1. tout ce qui est vivant tombe en cendres lorsque l'Héroïne le touche
+  1. l'Héroïne a la malédiction de la méduse : quiconque voit son visage est pétrifié
+  1. l'Héroïne peut faire résonner sa voix dans la tête des gens
+  1. l'Héroïne possède un livre capable de terroriser n'importe qui
+  1. l'Héroïne peut invoquer un élément : foudre, vague de feu, tempête...
+  1. l'Héroïne est capable de donner vie à la matière inerte
+  1. l'Héroïne peut hypnotiser quiconque d'un regard
 - une **Attache** de son Héro : un objet, un lieu, ou bien une ou plusieurs personnes auxquels il est très attaché.
 Une Attache déjà évoquée peut être ré-employée. Dans ce cas, elle devient une Attache **forte**, indiquez-le la carte.
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  * né d'un peuple esclave, le Héro se considère le frère de toute personne portant leur marque
-  * le Héro a perdu un frère / une soeur qu'il a juré de retrouver
-  * le Héro voue un respect infini à son Maître nommé ... qui lui a appris ...
-  * le Héro ne jure que par son dieu ...
-  * le Héro a fait la promesse de protéger la vallée dont il vient
-  * le Héro a juré de servir la Résistance
-  * le Héro a voué sa vie à l'armée
-  * ce pendentif est le dernier souvenir du Héro de sa mère
-  * le Héro à tout appris dans les livre de la bibliothèque de la Citadelle, qu'il a juré de protéger
+  1. né d'un peuple esclave, le Héro se considère le frère de toute personne portant leur marque
+  1. le Héro a perdu un frère / une soeur qu'il a juré de retrouver
+  1. le Héro voue un respect infini à son Maître nommé ... qui lui a appris ...
+  1. le Héro ne jure que par son dieu ...
+  1. le Héro a fait la promesse de protéger la vallée dont il vient
+  1. le Héro a juré de servir la Résistance
+  1. le Héro a voué sa vie à l'armée
+  1. ce pendentif est le dernier souvenir du Héro de sa mère
+  1. le Héro à tout appris dans les livre de la bibliothèque de la Citadelle, qu'il a juré de protéger
 
 ### Le Pacte
 ::: float-right variant
@@ -230,7 +230,7 @@ donner l'opportunité à tous les Héros d'accomplir leurs Objectifs en un seul 
 Lorsqu'un Héro tente d'accomplir une action risquée, le joueur lance **3d6 blancs**.
 
 S'il emploie certains de ses **Atouts** pour accomplir cette action,
-il ajoute **1d6 coloré par Atout employé**.
+il ajoute **1d6 par Atout employé**.
 
 Une fois les résultats obtenus, le joueur place ensuite 3 dés dans la partie supérieure de la **table de résolution**.
 Le dé placé au sommet de la table détermine:
@@ -255,14 +255,14 @@ Le MJ explique ce qui lui arrive.
 - enfin, le joueur peut obtenir une **Prouesse Héroïque**.
 Il pourra déclencher cet évênement une et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
 Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
-  * un personage allié surgit pour vous sauver la mise
-  * votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
-  * votre Héro se met dans une colère noire et terrorise tous les PNJs présents
-  * votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
-  * votre Héro survit miraculeusement à la mort
-  * les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
-  * votre Héro retourne son adversaire à sa cause
-  * un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez
+  1. un personage allié surgit pour vous sauver la mise
+  1. votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
+  1. votre Héro se met dans une colère noire et terrorise tous les PNJs présents
+  1. votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
+  1.* votre Héro survit miraculeusement à la mort
+  1. les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
+  1. votre Héro retourne son adversaire à sa cause
+  1. un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez
 
 
 ### Retirer une Pierre du Destin
@@ -273,7 +273,7 @@ Il doit alors **mettre en jeu** une **Attache** forte.
 S'il n'en a pas, il ne pourra pas retirer de Pierre du Destin.
 
 Il lance alors **4d6 blancs**, plus d'éventuels dés supplémentaires en fonctions de ses Atouts,
-et place ses résultats dans la table repliée :
+et place 4 dés parmi les résultats dans la table repliée :
 - il risque de **perdre un Atout** : au joueur d'expliquer ce qui l'a rendu inutilisable
 - il peut être **incapacité**, et alors un autre Héro peut **prendre le relai**.
 Encore une fois, cet au joueur d'expliquer comment ce PJ a à son tour l'occasion de retirer une Pierre du Destin en accomplissant le Pacte.
