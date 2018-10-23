@@ -1,5 +1,4 @@
 <!--
-- add img dice on h2
 - add schema déroulement
 - playtest #2
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
@@ -422,8 +421,17 @@ Il s'agissait uniquement de sources d'inspirations improvisées.
 }
 
 body { font-size: .8rem; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 1rem; text-align:justify; }
-h2, h3 { line-height: 1.2; font-family: 'MaryJaneMeade'; }
 h1 { line-height: 1.2; font-family: 'PoisonHope-Regular'; text-align: center; }
+h2, h3 { line-height: 1.2; font-family: 'MaryJaneMeade'; }
+h2:before {
+    content: '';
+    display: inline-block;
+    width: 3rem;
+    height: 2.7rem;
+    background-image: url(dice-575658_1280.png);
+    background-size: cover;
+    margin: .1rem;
+}
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
 img { width: 100%; }
 @media print { .on-new-page { page-break-before: always; } }
