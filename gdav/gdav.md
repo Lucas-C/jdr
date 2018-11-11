@@ -1,8 +1,13 @@
 <!--
 - add schema déroulement
-- playtest #2
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
+- playtest #3
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus
+
+# Playtest n°2: japon féodal fantastique
+- Hosiano - Découvir la contrée cachée de Blaitero - Attaches: village, défendre les faibles (pas employé) - Atouts: dexterité, stratège
+- Shigeru - Lever malédiction qui pèse sur son village - Attaches: village, ancien disciple - Atouts: bushido, amulette magique
+- Redishiro - Tuer le général Kemposhi - Attaches: sa femme disparue, legacy of his master - Atouts: sortilège de changement d'apparence, pouvoir de posession d'un corps
 -->
 # AMERES VICTOIRES & GLORIEUSES DEFAITES
 
@@ -103,7 +108,7 @@ Il peut s'agir d'un vagabond, d'un ménestrel, d'un moine scribe, d'un journalis
 N'importe qui à qui les Héros feront suffisement confiance pour lui raconter quelques anecdotes de leurs aventures.
 
 Durant cette phase, le MJ va donc, par l'intermédiaire de ce PMJ, interroger les joueurs sur le passé de leurs Héros.
-Pour eux, c'est l'occasion d'obtenir des **Atouts** et des **Attaches** au travers de **Flashbacks** (cf. section suivante).
+Pour eux, c'est l'occasion d'obtenir des **Atouts** au travers de **Flashbacks** (cf. section suivante).
 
 Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro raconte **deux Flashbacks**.
 Les joueurs sont également encouragés à se poser des questions entre eux pour déclencher des Flashbacks :
@@ -113,7 +118,7 @@ Les joueurs sont également encouragés à se poser des questions entre eux pour
 
 ### Flashbacks
 Les **Flashbacks** sont l'occasion pour les joueurs de décrire les aventures passées de leurs Héros,
-et notamment de définir leus **Attaches** et leurs **Atouts**.
+et notamment de définir leus **Atouts**.
 
 Une question est posée à un joueur sur le passé de son Héro.
 Une question personnalisée est idéale, en rebondissant sur ce qui a déjà dit,
@@ -129,30 +134,21 @@ mais la table suivante peut donner des idées en cas de panne d'inspiration, sur
 :::
 
 Une fois la question énoncée, au joueur de répondre comme il l'entend.
-Il a néanmoins comme contrainte d'introduire deux élements dans sa narration :
+Il a néanmoins comme contrainte d'introduire dans sa narration un **Atout** :
+un objet de grande valeur sentimentale rendant le Héro redoutable, ou un personnage l'accompagnant dans sa quête.
+Cet Atout a une histoire et a tant de valeur eux yeux du Héro que le perdre serait une stratégie.
 
-- un **Atout** : un objet ou une capacité qui rendent le Héro redoutable dans son domaine
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  1. l'Héroïne possède une arme gigantesque / volante / les deux
-  1. tout ce qui est vivant tombe en cendres lorsque l'Héroïne le touche
-  1. l'Héroïne a la malédiction de la méduse : quiconque voit son visage est pétrifié
-  1. l'Héroïne peut faire résonner sa voix dans la tête des gens
-  1. l'Héroïne possède un livre capable de terroriser n'importe qui
-  1. l'Héroïne peut invoquer un élément : foudre, vague de feu, tempête...
-  1. l'Héroïne est capable de donner vie à la matière inerte
-  1. l'Héroïne peut hypnotiser quiconque d'un regard
-- une **Attache** de son Héro : un objet, un lieu, ou bien une ou plusieurs personnes auxquels il est très attaché.
-Une Attache déjà évoquée peut être ré-employée. Dans ce cas, elle devient une Attache **forte**, indiquez-le la carte.
-En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  1. né d'un peuple esclave, le Héro se considère le frère de toute personne portant leur marque
-  1. le Héro a perdu un frère / une soeur qu'il a juré de retrouver
-  1. le Héro voue un respect infini à son Maître nommé ... qui lui a appris ...
-  1. le Héro ne jure que par son dieu ...
-  1. le Héro a fait la promesse de protéger la vallée dont il vient
-  1. le Héro a juré de servir la Résistance
-  1. le Héro a voué sa vie à l'armée
-  1. ce pendentif est le dernier souvenir du Héro de sa mère
-  1. le Héro à tout appris dans les livre de la bibliothèque de la Citadelle, qu'il a juré de protéger
+  1. l'Héroïne est accompagnée de son jeune disciple surdoué en ...
+  1. l'Héroïne possède un très vieux livre antique, précieux mais maudit, qu'elle a juré de ramener à la bibliothèque de la Citadelle au péril de sa vie
+  1. la foi de l'Héroïne en son dieu lui procure le pouvoir d'invoquer un élément : foudre, vague de feu, tempête...
+  1. née d'un peuple esclave, l'Héroïne est leur élue : elle a le don de faire entendre sa voix dans leur tête et a juré de les libérer
+  1. l'Héroïne est une redoutable guerrière au code de l'honneur strict comme le Bushido
+  1. en jurant de servir le démon-dieu ... l'Héroïne a obtenu la capacité de pouvoir hypnotiser quiconque d'un regard
+  1. l'Héroïne possède une arme gigantesque / volante / les deux : c'est la dernière restante du clan et son maître lui a confié
+  1. l'amulette que lui a donné sa mère, son dernier souvenir d'elle, permet à l'Héroïne de donner vie à la matière inerte
+  1. l'Héroïne est accompagnée d'un destrier / compagnon animal magique
+  1. pour garantir la survie de ... l'Héroïne porte une malédiction: tout ce qui est vivant tombe en cendres lorsqu'elle le touche
 
 ### Le Pacte
 ::: float-right variant
@@ -268,17 +264,15 @@ Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste su
 Lorsqu'un Héro est en position d'accomplir une action qui pourrait lui permettre d'accomplir une étape du Pacte,
 il doit l'anoncer, et on replit alors la table de résolution.
 
-Il doit alors **mettre en jeu** une **Attache** forte.
+Il doit alors **mettre en jeu** un **Atout**.
 S'il n'en a pas, il ne pourra pas retirer de Pierre du Destin.
 
 Il lance alors **4d6 blancs**, plus d'éventuels dés supplémentaires en fonctions de ses Atouts,
 et place 4 dés parmi les résultats dans la table repliée :
-- il risque de **perdre un Atout** : au joueur d'expliquer ce qui l'a rendu inutilisable
+- **un autre Héro peut perdre un Atout** : celui-ci est enlevé ou volé par une créature, qui peut alors éventuellement s'en servir
 - il peut être **incapacité**, et alors un autre Héro peut **prendre le relai**.
 Encore une fois, cet au joueur d'expliquer comment ce PJ a à son tour l'occasion de retirer une Pierre du Destin en accomplissant le Pacte.
-- enfin, il peut perdre sa mise. Son **Attache** peut être perdue sous ses yeux, si la situation le permet.
-Sinon, la balance karmique se mettra en mouvement plus tard,
-et le MJ devra introduire une rapide scène où le Héro apprend cette tragédie.
+- enfin, il peut **perdre l'Atout qu'il a misé** à jamais, détruit sous ses yeux
 
 ::: float-right variant
 Si jamais un Héro meurt en cours de partie, il pourra tout de même aider ses camarades par-delà la mort :
@@ -299,8 +293,8 @@ Ensuite, chaque joueur va miser secrètement pour la résolution qu'il souhaite 
 ------|-
 **2** | **Un Héro perd la vie**, tiré au hasard parmi les joueurs ayant choisi cette option. \
       | **Les Objectifs des autres Héros** sont accomplis.
-**3** | Pour les joueurs ayant choisi cette option, et uniquement eux, **leur Héro meurt mais accomplit son Objectif**.
-**4** | **Un seul Objectif** est accompli, tiré au hasard parmi les joueurs ayant choisi cette option.
+**3** | **Un seul Héro accomplit son objectif**. \
+      | Si plusieurs joueurs choisissent cette option, ce Héro est tiré au hasard parmi eux, mais **il y laisse alors la vie**
 :::
 
 Une fois les votes révélés, c'est **l'option de valeur la plus élevée** ayant reçu au moins un vote qui l'emporte.
