@@ -110,7 +110,7 @@ N'importe qui à qui les Héros feront suffisement confiance pour lui raconter q
 Durant cette phase, le MJ va donc, par l'intermédiaire de ce PMJ, interroger les joueurs sur le passé de leurs Héros.
 Pour eux, c'est l'occasion d'obtenir des **Atouts** au travers de **Flashbacks** (cf. section suivante).
 
-Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro raconte **deux Flashbacks**.
+Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro raconte **trois Flashbacks**.
 Les joueurs sont également encouragés à se poser des questions entre eux pour déclencher des Flashbacks :
 
 > Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la milice t'as défié en duel ?
