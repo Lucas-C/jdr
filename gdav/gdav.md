@@ -1,8 +1,9 @@
 <!--
+- étoffer Prouesses + 1 par PJ en début de partie ?
 - add schema déroulement
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - playtest #3
-- proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus
+- proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php
 
 # Playtest n°2: japon féodal fantastique
 - Hosiano - Découvir la contrée cachée de Blaitero - Attaches: village, défendre les faibles (pas employé) - Atouts: dexterité, stratège
