@@ -4,7 +4,7 @@
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - playtest #3
 - demander conseils mise en page à tante Murielle
-- proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php
+- proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
 
 # Playtest n°2: japon féodal fantastique
 - Hosiano - Découvir la contrée cachée de Blaitero - Attaches: village, défendre les faibles (pas employé) - Atouts: dexterité, stratège
