@@ -1,5 +1,4 @@
 <!--
-- étoffer Prouesses + 1 par PJ en début de partie ?
 - add schema déroulement
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - playtest #3
@@ -64,6 +63,7 @@ Chaque joueur inscrit sur sa feuille de personnage :
 
 - son **nom**
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
+- une **Prouesse héroïque**
 
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
   1. la vengeance : ... doit payer pour ...
@@ -99,6 +99,25 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 **6** | la veuve, qui a perdu son compagnon lors de ...
 :::
 
+
+### Prouesses héroïques
+
+Votre Héro peut déclencher cet évênement une seule et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
+Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
+  1. votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
+  1. votre Héro est capable de deviner les points faibles de ses adversaires.
+  Une fois dans la partie, demandez au MJ quelles sont les failles d'un enemi et il vous répondra honnêtement.
+  1. un personage allié surgit pour vous sauver la mise. Il vous devait bien ça. Pourquoi, et comment se fait-il qu'il soit ici ?
+  A vous de décider, ou de laisser la suite des évênements le réveler.
+  1. votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
+  1. votre Héro se met dans une colère noire et terrorise tous les PNJs présents
+  1. votre Héro est un fin statège capable d'anticiper les coups de ses adversaires.
+  Vous avez le droit de poser une question sur comment passer un obstacle au MJ et il vous répondra honnêtement.
+  1. votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
+  1. les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
+  1. votre Héro retourne son adversaire à sa cause. Quelle corde sensible parvient-il à toucher ? A vous de le décrire.
+  1. un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez.
+  A vous de décrire comment / pourquoi cela arrive.
 
 ### Résumé de la saga
 La partie commence alors que les Héros sont regroupés autour d'un feu.
@@ -251,16 +270,6 @@ diversion, attaque combinée, bluff... le joueur explique quelle synergie est cr
 - le Héro peut être **incapacité** : assomé, immobilisé, paralysé, inconscient...
 Le MJ explique ce qui lui arrive.
 - enfin, le joueur peut obtenir une **Prouesse Héroïque**.
-Il pourra déclencher cet évênement une et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
-Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
-  1. un personage allié surgit pour vous sauver la mise
-  1. votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
-  1. votre Héro se met dans une colère noire et terrorise tous les PNJs présents
-  1. votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
-  1.* votre Héro survit miraculeusement à la mort
-  1. les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
-  1. votre Héro retourne son adversaire à sa cause
-  1. un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez
 
 
 ### Retirer une Pierre du Destin

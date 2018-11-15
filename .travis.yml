@@ -17,3 +17,5 @@ deploy:
   on:
     branch: master
   target-branch: gh-pages
+
+# TODO: add step for releases that generate a PDF
