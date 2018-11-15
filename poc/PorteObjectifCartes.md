@@ -10,6 +10,10 @@
   * fiche de rappel de cycle de jeu
   * fiche d'aventure: accroche + liste de lieux, avec chaque fois les cartes défaussés dedans
   * choisir des polices plus attirantes
+- génération de monstre aléatoire ?
+  * 1d6 => type de monstre
+  * 1d6 => son objectif
+  * 1d6 => sa manière de s'opposer aux PJs
 - review sur r/RPGdesign (note: un post propose un template pour cela)
 *Inspis:* PsyRun
 ToRead: https://www.reddit.com/r/RPGdesign/comments/45jyu0/meta_rpg_design_resources_megalist/
