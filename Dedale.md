@@ -1,6 +1,8 @@
 <!-- GENERATE HTML: md2html Dedale.md > Dedale.html
 ajouter une table d'évênements à Dédale, lorsque les joueurs y repassent, pour faire vivre le lieu
 mécanisme de sauvegarde jv-esque : permet de revenir en arrière en cas de mort / situation indésirable (avec limites, et pour tout le groupe)
+proposer une table de génération de missions: universe + où se cache l'Antithée + plot twist
+-> et combiner avec squelette de meta campagne à l a Fils de Babel
 reprendre design & illus du jeu
 -->
 
