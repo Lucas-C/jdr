@@ -1,21 +1,29 @@
 language: node_js
-node_js: "8"
+node_js: '8'
 cache:
   directories:
-    - "node_modules"
-
-script:
-- npm install markdown-it markdown-it-anchor markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table minimist
+  - node_modules
+install:
+- npm install -g puppeteer-cli
+- npm install markdown-it markdown-it-anchor markdown-it-table-of-contents markdown-it-container
+  markdown-it-include markdown-it-multimd-table minimist
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
-- cd gdav && node ../md2html.js gdav.md > index.html
-
+script:
+- cd gdav
+- node ../md2html.js gdav.md > index.html
+- puppeteer print index.html gdav.pdf
 deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure, stolen from Nonogram
-  keep-history: true
-  on:
-    branch: master
-  target-branch: gh-pages
-
-# TODO: add step for releases that generate a PDF
+  - provider: pages
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure, stolen from Nonogram
+    keep-history: true
+    on:
+      branch: master
+    target-branch: gh-pages
+  - provider: releases
+    api_key:
+      secure: UzwlUeaL7rNwNOAUtaQd7rpIXXNHFWTUNy+24K+QXKF+XaPvaAjbkIIdWKPBgckM8zj0fdhRJRrgX+ceQint8jFsivalOR5YEEiPIJMAQenKb3YUMQLofzuTYJxbbTtHssEzknoukxMJqJaD9/7ibdOVBIrOz8Xv8BflaLS6e4/bJs9SBtRM6egdU4aORJFT6Z2RTQvH4DDMLryS4SEBCedt2C5GqXq7bJjfhHw0PFstc4iN3p0vg7lWLxlBV/fRNixL9f0ehnV0rfgkLXDDef3Eo90mfs6J5z2IFbsIm9U6qD8DaB3N6qJkZ/vEIkmVaAuP2134UowBtTmulKO3vcg6Oi4sdTMiuwHASx1Of6liltJYeclNZHQBRicIc0BjbpGsbFjNpAW9KNc2E7k+92878XPinIiE1Ns/DNhUXCaj2YiBVcblwShAel/8CfV/LyWV+U5jGrUErqQQaPO9kLMaZwO2Ni3d38tOyQGxX0v8OBwzBRABUnsASFfXFDN4Bnb8SGZEkr4/9Io8SE4E5CuM4uThQJ6jp1Gi4nNuZGeaU65ItJHApKh3RaAMYpaaP0LQo2sYNFfLuW9aOqQfmZwuk96asusRxu9foUKwLMuZJlUgfr/8eZxZaOc0bvJBy+Bp6/tYoLCKkSGUMN7HQkoOBwB7cErGSYGTz7DYxFc=
+    file: gdav.pdf
+    skip_cleanup: true
+    on:
+      tags: true
