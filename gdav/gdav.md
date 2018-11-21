@@ -6,7 +6,8 @@
 - playtest #3
 - demander conseils mise en page à tante Murielle
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
-- English version -> post on RPGDesign, http://story-games.com, DriveThruRPG
+- envisager publi & print-on-demande sur lulu, DriveThruRPG...
+- English version -> post on RPGDesign, http://story-games.com
 - mise en page: checkboxes customisés, auto-section avec markdown-it-header-sections, utilisation de MasonryJS ?
 
 # Playtest n°2: japon féodal fantastique
