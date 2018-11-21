@@ -1,5 +1,7 @@
 <!--
+- add mention of author, playtesters & license
 - add schema déroulement
+- add big tittle
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - playtest #3
 - demander conseils mise en page à tante Murielle
