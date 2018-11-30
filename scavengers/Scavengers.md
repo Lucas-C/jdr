@@ -17,6 +17,7 @@ TODO:
 - https://www.youtube.com/watch?v=Sw2xMFYHxZI
 - https://bloodntongue.bandcamp.com/album/spaceship-graveyard
 - demander aux illustrateurs si OK d'utiliser leurs images
+- partager avec Grégory Pogorzelski + Alex Loywick rapport à Into The Dark jdr
 Idées
 - "le seul moyen de passer ces radars longue portée serait de couper toute source d'énergie pendant 3 jours, en attendant que notre inertie initiale nous fasser traverser la zone surveillée"
 - Nauvoo : intended to be populated by thousands of Mormons and travel beyond The Sol System, to Tau Ceti
