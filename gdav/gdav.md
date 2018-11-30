@@ -106,6 +106,16 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 
 ### Prouesses héroïques
 
+<figure class="block-centered">
+  <img src="Ring44.jpg">
+  <figcaption><a href="https://commons.wikimedia.org/wiki/File:Ring44.jpg">Siegfried slays Fafner</a> - Arthur Rackham [Public domain]</figcaption>
+</figure>
+
+<!--figure class="block-centered">
+  <img src="Harold_S_Delay_-_Red_Nails_I.png">
+  <figcaption><a href="https://commons.wikimedia.org/wiki/File:Harold_S_Delay_-_Red_Nails_I.png">Red Nails I</a> - Harold S. Delay [Public domain]</figcaption>
+</figure-->
+
 Votre Héro peut déclencher cet évênement une seule et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
 Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
   1. votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
@@ -431,7 +441,15 @@ Il s'agissait uniquement de sources d'inspirations improvisées.
 }
 
 body { font-size: .8rem; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 1rem; text-align:justify; }
-h1 { line-height: 1.2; font-family: 'PoisonHope-Regular'; text-align: center; }
+h1 {
+    line-height: 1.2;
+    font-family: 'PoisonHope-Regular';
+    text-align: center;
+    display: block;
+    font-size: 5rem;
+    max-width: 50rem;
+    margin: 0 auto; margin-top: 5rem;
+}
 h2, h3 { line-height: 1.2; font-family: 'MaryJaneMeade'; }
 h2:before {
     content: '';
@@ -443,10 +461,10 @@ h2:before {
     margin: .1rem;
 }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
-img { width: 100%; }
+img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
+figcaption { text-align: center; font-size: .6rem; }
 @media print { .on-new-page { page-break-before: always; } }
 
-figcaption { text-align: right; font-size: .6rem; }
 .block-centered { display: block; margin: 0 auto; }
 .limited-width { max-width: 40rem; margin: 40px auto; }
 .small-img { max-width: 10rem; }
