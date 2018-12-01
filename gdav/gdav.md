@@ -1,8 +1,6 @@
 <!--
-- add mention of author, playtesters & license
-- add schema déroulement
-- add big tittle
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
+- uniformiser couleurs => plus de N&B ?
 - playtest #3
 - demander conseils mise en page à tante Murielle
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
@@ -22,10 +20,7 @@ Les joueurs incarnent les héros d'une saga épique et tragique, au dernier chap
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
-<figure class="block-centered">
-  <img src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
-  <figcaption><a href="https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921">A New Kind Of Enemy by istayfrosti</a> - License <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
-</figure>
+<img class="block-centered" alt="Illustration représentant un héro face à un dieu gigantestque dans les nuages" src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
 
 ### Matériel requis
 - ce jeu imprimé (ou au moins la table de résolution)
@@ -43,9 +38,9 @@ Abréviations employées :
 - PJ = Personnage d'un Joueur
 
 
-### Schéma du déroulement de la partie
+### Déroulement de la partie
 
-TODO
+![Schéma reprennant les grandes étapes d'une partie](gdav-flow.png)
 
 
 ### Choix d'un univers
@@ -104,17 +99,9 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 :::
 
 
-### Prouesses héroïques
+#### Prouesses héroïques
 
-<figure class="block-centered">
-  <img src="Ring44.jpg">
-  <figcaption><a href="https://commons.wikimedia.org/wiki/File:Ring44.jpg">Siegfried slays Fafner</a> - Arthur Rackham [Public domain]</figcaption>
-</figure>
-
-<!--figure class="block-centered">
-  <img src="Harold_S_Delay_-_Red_Nails_I.png">
-  <figcaption><a href="https://commons.wikimedia.org/wiki/File:Harold_S_Delay_-_Red_Nails_I.png">Red Nails I</a> - Harold S. Delay [Public domain]</figcaption>
-</figure-->
+<img class="block-centered" alt="Siegfried pourfendant le dragon Fafner" src="Ring44.jpg">
 
 Votre Héro peut déclencher cet évênement une seule et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
 Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
@@ -331,6 +318,35 @@ chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro 
 en complétant ce que le précédent vient de décrire.
 
 <img class="block-centered small-img" src="bone-1299051_1280.png">
+
+## Sources & remerciements
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+_Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
+sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+
+- le diagramme a été réalisé avec [draw.io](https://www.draw.io) - Apache 2.0 open-source license
+- les illustrations employées :
+  * [A New Kind Of Enemy](https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921) - Frosti - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+  * [Siegfried slays Fafner](https://commons.wikimedia.org/wiki/File:Ring44.jpg) - Arthur Rackham - Domaine public
+  * crâne courroné issu d'un dessin dans "Proverbial Philosophy in four series", Martin Tupper, 1881
+  * icône des dés trouvée sur [openclipart.org](https://openclipart.org/detail/210239/misc-dice) et issue du jeu vidéo [Glitch](https://www.glitchthegame.com/public-domain-game-art/) - Domaine public
+  * motifs des dés : [Brusheezy](https://www.brusheezy.com) ([bordures](https://www.brusheezy.com/brushes/58857-20-decorative-border-ps-brushes-abr-vol-2) - [flèches](https://www.brusheezy.com/brushes/18267-arrow-doodles-brushes)) - Brusheezy Standard License
+  * les icônes du diagramme proviennent de [game-icons.net](https://game-icons.net):
+    + [Star swirl icon](https://game-icons.net/lorc/originals/star-swirl.html) de [Lorc](http://lorcblog.blogspot.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+    + [Grim reaper icon](https://game-icons.net/lorc/originals/grim-reaper.html) de [Lorc](http://lorcblog.blogspot.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+    + [Swordman icon](https://game-icons.net/cathelineau/originals/swordman.html) de Cathelineau - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+    + [Spell book icon](https://game-icons.net/delapouite/originals/spell-book.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+    + [Shaking hands icon](https://game-icons.net/delapouite/originals/shaking-hands.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+    + [Mighty force icon](https://game-icons.net/delapouite/originals/mighty-force.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- polices :
+  * [Sicili](http://behance.net/indieferdie) - BY-ND 3.0
+  * [MaryJaneMeade](https://www.ffonts.net/Mary-Jane-Meade.font) par [Apostrophic Labs](http://web.archive.org/web/20030408055445/www.hardcovermedia.com/lab/Pages/info.html)
+  * [PoisonHope-Regular](https://www.chrisvile.com/#!/Font-License-for-Poison-Hope/p/50838373) par Chris Vile, gratuit pour utilisation personnelle
+
+Un énorme **MERCI** à mes relecteurs & _playtesteurs_ :
+Matthieu, Simon, Cédric, Henri, Thomas.
+Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sans vos précieux retours !
 ::::
 
 :::: on-new-page
@@ -475,6 +491,11 @@ figcaption { text-align: center; font-size: .6rem; }
 .rules td, .rules th { padding: 5px 10px; }
 .rules td { border-top: 1px solid #ddd; }
 
+.float-left {
+    float: left;
+    max-width: 50%;
+    margin-right: 1rem;
+}
 .float-right {
     float: right;
     max-width: 50%;
