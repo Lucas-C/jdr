@@ -1,6 +1,8 @@
 <!--
 - get rid of PoisonHope-Regular font -> license is not cc / free of rights
 - uniformiser couleurs => plus de N&B ?
+- styler titres & tables
+- landscape layout
 - playtest #3
 - demander conseils mise en page à tante Murielle
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php

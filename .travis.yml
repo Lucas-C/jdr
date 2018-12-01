@@ -27,6 +27,7 @@ deploy:
     skip_cleanup: true
     on:
       tags: true
+      condition: "$TRAVIS_TAG =~ ^gdav-.*$"
 notifications:
   email:
     on_success: never
