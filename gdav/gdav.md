@@ -52,7 +52,7 @@ Les termes avec des majuscules correspondent à des éléments de la mécanique 
 ::: float-right variant
 Vous pouvez aussi décider de créer un univers collectivement en début de partie !
 
-Vous trouverez à la fin de ce document un exemple d'univers créé ainsi durant une partie de _playtest_,
+Vous trouverez [à la fin de ce document](#un-univers-cr%C3%A9%C3%A9-en-90min) un exemple d'univers créé ainsi durant une partie de _playtest_,
 avec quelques indications sur la manière dont on s'y est pris.
 :::
 
@@ -391,11 +391,14 @@ Un énorme **MERCI** à mes relecteurs & _playtesteurs_ :
 Matthieu, Simon, Cédric, Henri, Thomas.
 Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sans vos précieux retours !
 
+Mes inspirations notables : [PsiRun](https://chezsoi.org/lucas/blog/tag/psirun.html) de Meguey Baker pour sa table de résolution géniale;
+les [jeux de rôle monopage](http://troplongpaslu.fr) pour la profusion de table aléatoires;
+le manga _Berserk_ ainsi que les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_ pour l'univers que j'avais initialement en tête pour le jeu.
+
 ## Un univers créé en 90min
 
-Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table :
-les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_, le manga _Berserk_, la série de romans _Les Annales de la Compagnie Noire_.
-L'ambiance générale sera donc de la "Dark Fantasy", tendant un peu vers le "Post-Apo" ou le "Steampunk".
+Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table,
+déterminant que le genre serait celui de la "Dark Fantasy", tendant un peu vers le "Post-Apo" ou le "Steampunk".
 
 Par la suite, le MJ a surtout servi d'animateur, s'assurant que tout le monde ait la parole, que les idées convergeaient
 et que les différents aspects de l'univers étaient évoqués. Il était également scribe, prenant en note devant tout le monde les éléments de l'univers établis collectivement.
@@ -407,7 +410,7 @@ nous établissons ceci :
 > Il existe une forme de magie qui permet de donner vie aux machines - et donc une conscience et des sentiments, par le Verbe.
 > Les magiciens la pratiquant forment une caste de parias, les Machinistes.
 > Ils ont une particularité invisible : leur sang est bleu. D'ailleurs, cette capacité est héréditaire mais peut aussi se transmettre par une cérémonie d'échange du sang.
-> Une organisation secrète, l'Engrenages (avec un S) lutte pour les défendre et les réunir, avec à leur tête l'Horloger.
+> Une organisation secrète, l'Engrenages (avec un S... parce que) lutte pour les défendre et les réunir, avec à leur tête l'Horloger.
 
 On imagine alors une **faction antagoniste** :
 
@@ -442,7 +445,7 @@ Nous avons conclu en définissant une poignée de **villes importantes** :
 > La Tour Sombre est l'unique Tour construite de mémoire d'homme, où les Machinistes ont le pouvoir.
 
 Enfin, lorsqu'un peu plus tard les joueurs créent leur personnages, la question s'est posée de déterminer leur activité,
-et s'ils appartenaient à l'une ou l'autre des factions que nous avions défini ensemble.
+et s'ils appartenaient à l'une ou l'autre des factions que nous avions défini.
 Comme ils n'arrivaient pas à se décider, nous avons convenu d'établir en 2 minutes des tables aléatoires !
 
 ::: float-right
@@ -465,8 +468,7 @@ d6 | Origine
 5  | aristocrate des Tours
 6  | Enfoui
 
-Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant être contraints par eux !
-Il s'agissait uniquement de sources d'inspirations improvisées.
+Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant se sentir contraints par eux.
 ::::
 
 
