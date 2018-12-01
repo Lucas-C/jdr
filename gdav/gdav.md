@@ -1,8 +1,7 @@
 <!--
-- get rid of PoisonHope-Regular font -> license is not cc / free of rights
-- uniformiser couleurs => plus de N&B ?
-- styler titres & tables
-- landscape layout
+- uniformiser couleurs => diagramme, table de résolution, illustrations...
+- styler tables
+- landscape layout ?
 - playtest #3
 - demander conseils mise en page à tante Murielle
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
@@ -15,35 +14,34 @@
 - Shigeru - Lever malédiction qui pèse sur son village - Attaches: village, ancien disciple - Atouts: bushido, amulette magique
 - Redishiro - Tuer le général Kemposhi - Attaches: sa femme disparue, legacy of his master - Atouts: sortilège de changement d'apparence, pouvoir de posession d'un corps
 -->
-# AMERES VICTOIRES & GLORIEUSES DEFAITES
+# Ameres Victoires & Glorieuses Defaites
 
 :::: block-centered limited-width rules
-Les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
+Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
 <img class="block-centered" alt="Illustration représentant un héro face à un dieu gigantestque dans les nuages" src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
 
-### Matériel requis
-- ce jeu imprimé (ou au moins la table de résolution)
-- des crayons
-- des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs autour de la table)
-- une dizaine de dés à 6 faces (_d6_)
-
-
-
-## Règles
-Ce jeu est un **jeu de rôle**.
+### Jeu de rôle ?
 Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
 Abréviations employées :
 - MJ = Meneur de Jeu
 - PJ = Personnage d'un Joueur
 
+### Ce dont vous aurez besoin
+- un MJ + 2 à 4 autre joueurs
+- entre 2h et 4h devant vous
+- ce jeu imprimé (au moins la table de résolution)
+- une dizaine de dés à 6 faces (_d6_)
+- des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs autour de la table)
+- des crayons
 
-### Déroulement de la partie
+## Déroulement de la partie
 
 ![Schéma reprennant les grandes étapes d'une partie](gdav-flow.png)
 
+Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.
 
 ### Choix d'un univers
 ::: float-right variant
@@ -101,7 +99,7 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 :::
 
 
-#### Prouesses héroïques
+### Prouesses héroïques
 
 <img class="block-centered" alt="Siegfried pourfendant le dragon Fafner" src="Ring44.jpg">
 
@@ -259,7 +257,7 @@ Le dé placé au sommet de la table détermine:
 doivent être placés **tous à gauche ** dans la table, et **tous à droite** en cas d'échec
 
 La deuxième ligne détermine les conséquences de l'action :
-- il peut s'agir d'une **réussite EPIQUE**, le joueur décrit alors comment son Héros accomplit son oeuvre avec panache
+- il peut s'agir d'une **réussite ÉPIQUE**, le joueur décrit alors comment son Héros accomplit son oeuvre avec panache
 - il peut s'agit d'une **complication** : que l'action soit réussie ou non, quelque chose tourne mal tout de même...
 Selon la colonne, le MJ ou n'importe quel autre joueur autour de la table a la parole pour décrire cette complication.
 - enfin, un **Flashback** peut être déclenché. Celui-ci est décrit une fois le résultat de l'action décrit.
@@ -328,23 +326,21 @@ _Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
 sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 - le diagramme a été réalisé avec [draw.io](https://www.draw.io) - Apache 2.0 open-source license
-- les illustrations employées :
+- les illustrations du jeu :
   * [A New Kind Of Enemy](https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921) - Frosti - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
   * [Siegfried slays Fafner](https://commons.wikimedia.org/wiki/File:Ring44.jpg) - Arthur Rackham - Domaine public
-  * crâne courroné issu d'un dessin dans "Proverbial Philosophy in four series", Martin Tupper, 1881
-  * icône des dés trouvée sur [openclipart.org](https://openclipart.org/detail/210239/misc-dice) et issue du jeu vidéo [Glitch](https://www.glitchthegame.com/public-domain-game-art/) - Domaine public
+  * crâne courroné issu de "Proverbial Philosophy in four series", Martin Tupper, 1881
   * motifs des dés : [Brusheezy](https://www.brusheezy.com) ([bordures](https://www.brusheezy.com/brushes/58857-20-decorative-border-ps-brushes-abr-vol-2) - [flèches](https://www.brusheezy.com/brushes/18267-arrow-doodles-brushes)) - Brusheezy Standard License
-  * les icônes du diagramme proviennent de [game-icons.net](https://game-icons.net):
+  * les icônes du diagramme proviennent de [game-icons.net](https://game-icons.net) :
     + [Star swirl icon](https://game-icons.net/lorc/originals/star-swirl.html) de [Lorc](http://lorcblog.blogspot.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
     + [Grim reaper icon](https://game-icons.net/lorc/originals/grim-reaper.html) de [Lorc](http://lorcblog.blogspot.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
     + [Swordman icon](https://game-icons.net/cathelineau/originals/swordman.html) de Cathelineau - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
     + [Spell book icon](https://game-icons.net/delapouite/originals/spell-book.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
     + [Shaking hands icon](https://game-icons.net/delapouite/originals/shaking-hands.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
     + [Mighty force icon](https://game-icons.net/delapouite/originals/mighty-force.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- polices :
-  * [Sicili](http://behance.net/indieferdie) - BY-ND 3.0
-  * [MaryJaneMeade](https://www.ffonts.net/Mary-Jane-Meade.font) par [Apostrophic Labs](http://web.archive.org/web/20030408055445/www.hardcovermedia.com/lab/Pages/info.html)
-  * [PoisonHope-Regular](https://www.chrisvile.com/#!/Font-License-for-Poison-Hope/p/50838373) par Chris Vile, gratuit pour utilisation personnelle
+- les polices employées :
+  * [FFF Tusj](http://www.formfett.net/tusj-one-handwritten-font/) par Magnus Cederholm - Free for commercial use
+  * [DampfPlatz](http://moorstation.org/typoasis/designers/lloyd/blackjewels/index.htm) par Paul Lloyd - Free for commercial use
 
 Un énorme **MERCI** à mes relecteurs & _playtesteurs_ :
 Matthieu, Simon, Cédric, Henri, Thomas.
@@ -449,35 +445,36 @@ Il s'agissait uniquement de sources d'inspirations improvisées.
 
 
 <style>
-@font-face {
-  font-family: 'PoisonHope-Regular';
-  src: url('fonts/PoisonHope-Regular.ttf') format('truetype');
+@font-face { /* OK max 2.5rem */
+  font-family: FFF_Tusj;
+  src: url('fonts/FFF_Tusj.ttf') format('truetype');
 }
-@font-face {
-  font-family: 'MaryJaneMeade';
-  src: url('fonts/MaryJaneMeade.ttf') format('truetype');
+@font-face { /* OK pas FULLCAPS, gère pas accents, mieux que DeutscheZierschrift */
+  font-family: DampfPlatz;
+  src: url('fonts/DampfPlatz.ttf') format('truetype');
 }
 
-body { font-size: .8rem; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 1rem; text-align:justify; }
+body {
+    font-size: .9rem;
+    line-height: 1.6;
+    font-family: sans-serif;
+    color: #444; padding:0 1rem;
+    text-align:justify;
+    /* Making font rendering prettier: */
+    text-rendering: optimizeLegibility !important;
+}
 h1 {
     line-height: 1.2;
-    font-family: 'PoisonHope-Regular';
+    font-family: DampfPlatz;
     text-align: center;
     display: block;
     font-size: 5rem;
     max-width: 50rem;
     margin: 0 auto; margin-top: 5rem;
 }
-h2, h3 { line-height: 1.2; font-family: 'MaryJaneMeade'; }
-h2:before {
-    content: '';
-    display: inline-block;
-    width: 3rem;
-    height: 2.7rem;
-    background-image: url(dice-575658_1280.png);
-    background-size: cover;
-    margin: .1rem;
-}
+h2, h3, h4 { font-family: FFF_Tusj; }
+h2 { line-height: 1.2; font-size: 2em; }
+h3 { line-height: 1.2; font-size: 1.5em; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
 img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
 figcaption { text-align: center; font-size: .6rem; }
@@ -510,7 +507,7 @@ figcaption { text-align: center; font-size: .6rem; }
     max-width: 16rem;
     border: 2px solid #444;
     padding: 0 .5rem;
-    font-size: .7rem;
+    font-size: .8rem;
 }
 .variant:before {
     content: 'Variante';

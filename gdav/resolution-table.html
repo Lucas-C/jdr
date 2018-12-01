@@ -118,17 +118,13 @@
 </div>
 
 <style>
-@font-face {
-  font-family: 'Sicili';
-  src: url('fonts/Silici.ttf') format('truetype');
+@font-face { /* OK max 2.5rem */
+  font-family: FFF_Tusj;
+  src: url('fonts/FFF_Tusj.ttf') format('truetype');
 }
-@font-face {
-  font-family: 'SiciliBold';
-  src: url('fonts/SiliciBold.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'PoisonHope-Regular';
-  src: url('fonts/PoisonHope-Regular.ttf') format('truetype');
+@font-face { /* OK pas FULLCAPS, gère pas accents, mieux que DeutscheZierschrift */
+  font-family: DampfPlatz;
+  src: url('fonts/DampfPlatz.ttf') format('truetype');
 }
 
 @page { margin: 10% }
@@ -187,7 +183,7 @@
 .table-row-name {
     margin: 0;
     line-height: var(--table-row-name-height);
-    font-family: 'SiciliBold';
+    font-family: FFF_Tusj;
     font-style: italic;
     font-size: 1.8rem;
     font-weight: 300;
@@ -197,7 +193,7 @@
     background: repeating-linear-gradient(-45deg, white, white 10px, #eee 10px, #eee 13px);
     margin: calc( -1 * var(--table-row-separator-margin) ) 0;
     padding: var(--table-row-separator-margin) 0;
-    font-family: SiciliBold;
+    font-family: DampfPlatz;
     font-size: 1.6rem;
     font-style: italic;
     text-align: center;
@@ -212,7 +208,7 @@
     padding: var(--die-border-padding);
     background-size: cover;
     text-align: center;
-    font-family: 'MaryJaneMeade';
+    font-family: DampfPlatz;
     line-height: 1rem;
 }
 .die-box-big-text {
@@ -226,8 +222,8 @@
     margin: 0 2rem;
     height: var(--die-size);
     justify-content: flex-end;
-    font-family: 'PoisonHope-Regular';
-    font-size: 1.3rem;
+    font-family: DampfPlatz;
+    font-size: 1.6rem;
     line-height: 1.3rem;
 }
 .corner-arrow-pic {
