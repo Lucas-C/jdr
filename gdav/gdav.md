@@ -37,7 +37,15 @@ Voici quelques abréviations employées par la suite :
 
 ## Déroulement de la partie
 
-<img class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="gdav-flow.png">
+<img id="game-flow-toc" class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="gdav-flow.png" usemap="#toc">
+<map name="toc">
+  <area shape="circle" coords="81,82,80" href="#choix-dun-univers" alt="Choix d'un univers"/>
+  <area shape="circle" coords="299,82,80" href="#creation-des-heros-heroines" alt="Création des Héros / Héroïnes"/>
+  <area shape="circle" coords="524,82,80" href="#resume-de-la-saga" alt="Résumé de la saga"/>
+  <area shape="circle" coords="524,288,80" href="#le-pacte" alt="Le Pacte"/>
+  <area shape="circle" coords="299,288,80" href="#jets-de-des" alt="Les Pierres du Destin"/>
+  <area shape="circle" coords="81,288,80" href="#scene-finale" alt="Scène finale"/>
+</map>
 
 Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.
 
@@ -93,9 +101,9 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 ::: headless-table
 1  | la guerrière qui survécu à trop de batailles, vu trop de morts, et à juré de ...
 ---|-
-2  | la (quasi ?) dernière survivante de son peuple, qui s'est fait...
+2  | la (quasi ?) dernière survivante de son peuple, qui a tragiquement...
 3  | la voleuse au grand coeur, qui a un faible pour ...
-4  | l'héroïne qui déjà sauvé mainte fois son peuple, tirée de sa retraite pour ...
+4  | l'héroïne qui a déjà sauvé mainte fois son peuple, tirée de sa retraite pour ...
 5  | la paria, rejetée par les siens à cause de ...
 6  | la veuve, qui a perdu son compagnon lors de ...
 :::
@@ -543,3 +551,6 @@ figcaption { text-align: center; font-size: .6rem; }
     font-weight: bold;
 }
 </style>
+<script src="jquery-3.3.1.min.js"></script>
+<script src="jquery.maphilight.js"></script>
+<script>$('#game-flow-toc').maphilight()</script>
