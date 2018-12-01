@@ -1,8 +1,6 @@
 language: node_js
 node_js: '8'
-cache:
-  directories:
-  - node_modules
+cache: npm
 install:
 - npm install -g puppeteer-cli
 - npm install markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
