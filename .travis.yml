@@ -28,7 +28,7 @@ deploy:
       condition: "$TRAVIS_TAG =~ ^gdav-.*$"
     skip_cleanup: true
     script: mv gdav.pdf $TRAVIS_TAG.pdf
-    file: gdav-$TRAVIS_TAG.pdf
+    file: $TRAVIS_TAG.pdf
 notifications:
   email:
     on_success: never
