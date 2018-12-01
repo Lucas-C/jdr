@@ -1,11 +1,10 @@
 <!--
-- landscape layout ?
 - playtest #3
+- make a 2 columns PDF -> "page-break-inside: avoid" does not work on images...
 - demander conseils mise en page à tante Murielle
-- proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
+- proposer sur forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
 - envisager publi & print-on-demande sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
-- mise en page: checkboxes customisés, auto-section avec markdown-it-header-sections, utilisation de MasonryJS ?
 
 # Playtest n°2: japon féodal fantastique
 - Hosiano - Découvir la contrée cachée de Blaitero - Attaches: village, défendre les faibles (pas employé) - Atouts: dexterité, stratège
@@ -358,7 +357,7 @@ en complétant ce que le précédent vient de décrire.
 !!!include(hero-sheet.html)!!!
 </div>
 
-:::: block-centered limited-width rules
+:::: on-new-page block-centered limited-width rules
 ## Sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
@@ -391,9 +390,7 @@ sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
 Un énorme **MERCI** à mes relecteurs & _playtesteurs_ :
 Matthieu, Simon, Cédric, Henri, Thomas.
 Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sans vos précieux retours !
-::::
 
-:::: on-new-page block-centered limited-width rules
 ## Un univers créé en 90min
 
 Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table :
@@ -501,6 +498,7 @@ h1 {
     max-width: 50rem;
     margin: 4rem auto; margin-bottom: -2rem;
 }
+@media print { h1 { margin-top: 0; } }
 h2, h3, h4 { font-family: FFF_Tusj; }
 h2 { line-height: 1.2; font-size: 2em; }
 h3 { line-height: 1.2; font-size: 1.5em; }
@@ -510,7 +508,7 @@ figcaption { text-align: center; font-size: .6rem; }
 @media print { .on-new-page { page-break-before: always; } }
 
 .block-centered { display: block; margin: 0 auto; }
-.limited-width { max-width: 40rem; margin: 2.5rem auto; }
+.limited-width { max-width: 60rem; margin: 2.5rem auto; }
 .small-img { max-width: 10rem; }
 .medium-img { max-width: 30rem; }
 .headless-table th { font-weight: normal; }
@@ -535,7 +533,7 @@ figcaption { text-align: center; font-size: .6rem; }
     clear: both;
 }
 .variant {
-    max-width: 16rem;
+    max-width: 20rem;
     border: 2px solid #444;
     padding: 0 .5rem;
     font-size: .8rem;
