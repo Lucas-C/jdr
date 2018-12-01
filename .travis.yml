@@ -5,8 +5,8 @@ cache:
   - node_modules
 install:
 - npm install -g puppeteer-cli
-- npm install markdown-it markdown-it-anchor markdown-it-table-of-contents markdown-it-container
-  markdown-it-include markdown-it-multimd-table minimist
+- npm install markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
+  markdown-it-container markdown-it-include markdown-it-multimd-table minimist
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - cd gdav
