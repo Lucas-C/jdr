@@ -1,7 +1,7 @@
 <!--
 - uniformiser couleurs => diagramme, table de résolution, illustrations...
-- styler tables
 - landscape layout ?
+- styler tables
 - playtest #3
 - demander conseils mise en page à tante Murielle
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
@@ -21,11 +21,11 @@ Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique 
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
-<img class="block-centered" alt="Illustration représentant un héro face à un dieu gigantestque dans les nuages" src="a_new_kind_of_enemy_by_istayfrosti-d6qhogh.jpg">
+<img class="block-centered" alt="Stormchaser Proving Grounds" src="stormchaser_proving_grounds_by_halycon450_dav4fd5-fullview.jpg">
 
 ### Jeu de rôle ?
 Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
-Abréviations employées :
+Voici quelques abréviations employées par la suite :
 - MJ = Meneur de Jeu
 - PJ = Personnage d'un Joueur
 
@@ -34,12 +34,12 @@ Abréviations employées :
 - entre 2h et 4h devant vous
 - ce jeu imprimé (au moins la table de résolution)
 - une dizaine de dés à 6 faces (_d6_)
-- des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs autour de la table)
+- des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs)
 - des crayons
 
 ## Déroulement de la partie
 
-![Schéma reprennant les grandes étapes d'une partie](gdav-flow.png)
+<img class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="gdav-flow.png">
 
 Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.
 
@@ -63,6 +63,8 @@ Chaque joueur inscrit sur sa feuille de personnage :
 - son **nom**
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
 - une **Prouesse héroïque**
+
+<img class="block-centered" alt=" Elaina (Court Attire I) " src="elaina__court_attire_i__by_halycon450_dc9dj12-fullview.png">
 
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
   1. la vengeance : ... doit payer pour ...
@@ -101,7 +103,7 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 
 ### Prouesses héroïques
 
-<img class="block-centered" alt="Siegfried pourfendant le dragon Fafner" src="Ring44.jpg">
+<img class="block-centered medium-img" alt="Royal Mistwalker" src="royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
 
 Votre Héro peut déclencher cet évênement une seule et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
 Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
@@ -136,7 +138,9 @@ Pour eux, c'est l'occasion d'obtenir des **Atouts** au travers de **Flashbacks**
 Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro raconte **trois Flashbacks**.
 Les joueurs sont également encouragés à se poser des questions entre eux pour déclencher des Flashbacks :
 
-> Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la milice t'as défié en duel ?
+> Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la garde t'as défié en duel ?
+
+<img class="block-centered medium-img" alt="Coalescence of Immemorial Nightmares - Yodth" src="coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview.png">
 
 
 ### Flashbacks
@@ -221,6 +225,8 @@ En fonction du pacte et de l'univers, déterminez l'identité secrète de votre 
 - un être illuminé, ayant accédé au statut de conscience supérieure (ex: Anciens dans SG1, fantôme de jedi...)
 :::
 
+<img class="block-centered" alt="Schismatic Astronomer" src="schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
+
 ::: float-right variant
 Il est également tout à fait possible d'établir le Pacte comme une règle de jeu "méta",
 sans incidence dans l'univers de la partie et donc sans PMJ personnifiant cet accord tacite.
@@ -250,7 +256,7 @@ Lorsqu'un Héro tente d'accomplir une action risquée, le joueur lance **3d6 bla
 S'il emploie certains de ses **Atouts** pour accomplir cette action,
 il ajoute **1d6 par Atout employé**.
 
-Une fois les résultats obtenus, le joueur place ensuite 3 dés dans la partie supérieure de la **table de résolution**.
+Une fois les résultats obtenus, le joueur place ensuite 3 dés dans la partie supérieure de la **[table de résolution](#table-de-resolution)**.
 Le dé placé au sommet de la table détermine:
 - le **résultat de l'action**, réussite sur un 5 ou un 6, échec sinon
 - dans **quelle colonne de la table placer les autres dés** : en cas de réussite les autres d6
@@ -274,8 +280,11 @@ Le MJ explique ce qui lui arrive.
 
 
 ### Retirer une Pierre du Destin
+
+<img class="block-centered medium-img" alt="Plague-ridden Sentinel" src="plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
+
 Lorsqu'un Héro est en position d'accomplir une action qui pourrait lui permettre d'accomplir une étape du Pacte,
-il doit l'anoncer, et on replit alors la table de résolution.
+il doit l'anoncer, et on replie alors la table de résolution.
 
 Il doit alors **mettre en jeu** un **Atout**.
 S'il n'en a pas, il ne pourra pas retirer de Pierre du Destin.
@@ -298,6 +307,8 @@ Lorsque la dernière pierre de Destin a été défaussée, le MJ introduit la **
 Comme promis au début de la partie, cette scène doit être l'occasion pour tous les Héros d'accomplir leurs **Objectifs**.
 Le MJ décrit le lieu, les personnages présents et brièvement comment les Héros sont arrivés ici pendant cette ellipse temporelle.
 
+<img class="block-centered medium-img" alt="Lightless Conspirators" src="lightless_conspirators_by_halycon450_dcaa0qm-fullview.png">
+
 Ensuite, chaque joueur va miser secrètement pour la résolution qu'il souhaite pour cette scène parmi les choix suivant :
 
 ::: headless-table
@@ -318,7 +329,22 @@ chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro 
 en complétant ce que le précédent vient de décrire.
 
 <img class="block-centered small-img" src="bone-1299051_1280.png">
+::::
 
+:::: on-new-page
+::: block-centered limited-width
+## Table de résolution
+<span class="speaks">Entre parenthèses et en vert</span> est indiqué QUI a la parole.
+:::
+!!!include(resolution-table.html)!!!
+::::
+
+::: on-new-page
+!!!include(hero-sheet.html)!!!
+!!!include(hero-sheet.html)!!!
+:::
+
+:::: block-centered limited-width rules
 ## Sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
@@ -326,9 +352,15 @@ _Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
 sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 - le diagramme a été réalisé avec [draw.io](https://www.draw.io) - Apache 2.0 open-source license
-- les illustrations du jeu :
-  * [A New Kind Of Enemy](https://www.deviantart.com/istayfrosti/art/A-New-Kind-Of-Enemy-407291921) - Frosti - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-  * [Siegfried slays Fafner](https://commons.wikimedia.org/wiki/File:Ring44.jpg) - Arthur Rackham - Domaine public
+- la plupart des illustrations sont issues du _King's Court_ de [Ramirez de Souza](https://www.deviantart.com/halycon450) et [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) :
+  * [Stormchaser Proving Grounds](https://www.deviantart.com/halycon450/art/Stormchaser-Proving-Grounds-656936393)
+  * [Elaina (Court Attire I)](https://www.deviantart.com/halycon450/art/Elaina-Court-Attire-I-741341846)
+  * [Royal Mistwalker](https://www.deviantart.com/halycon450/art/Royal-Mistwalker-752957922)
+  * [Coalescence of Immemorial Nightmares - Yodth](https://www.deviantart.com/halycon450/art/Coalescence-of-Immemorial-Nightmares-Yodth-744365909)
+  * [Schismatic Astronomer](https://www.deviantart.com/halycon450/art/Schismatic-Astronomer-662020562)
+  * [Plague-ridden Sentinel](https://www.deviantart.com/halycon450/art/Plague-ridden-Sentinel-758686059)
+  * [Lightless Conspirators](https://www.deviantart.com/halycon450/art/Lightless-Conspirators-742857790)
+- les autres illustrations du jeu :
   * crâne courroné issu de "Proverbial Philosophy in four series", Martin Tupper, 1881
   * motifs des dés : [Brusheezy](https://www.brusheezy.com) ([bordures](https://www.brusheezy.com/brushes/58857-20-decorative-border-ps-brushes-abr-vol-2) - [flèches](https://www.brusheezy.com/brushes/18267-arrow-doodles-brushes)) - Brusheezy Standard License
   * les icônes du diagramme proviennent de [game-icons.net](https://game-icons.net) :
@@ -346,23 +378,6 @@ Un énorme **MERCI** à mes relecteurs & _playtesteurs_ :
 Matthieu, Simon, Cédric, Henri, Thomas.
 Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sans vos précieux retours !
 ::::
-
-:::: on-new-page
-::: block-centered limited-width
-## Table de résolution
-<span class="speaks">Entre parenthèses et en vert</span> est indiqué QUI a la parole.
-:::
-!!!include(resolution-table.html)!!!
-::::
-
-::: on-new-page
-!!!include(hero-sheet.html)!!!
-!!!include(hero-sheet.html)!!!
-:::
-::: on-new-page
-!!!include(hero-sheet.html)!!!
-!!!include(hero-sheet.html)!!!
-:::
 
 :::: on-new-page block-centered limited-width rules
 ## Un univers créé en 90min
@@ -470,7 +485,7 @@ h1 {
     display: block;
     font-size: 5rem;
     max-width: 50rem;
-    margin: 0 auto; margin-top: 5rem;
+    margin: 4rem auto; margin-bottom: -2rem;
 }
 h2, h3, h4 { font-family: FFF_Tusj; }
 h2 { line-height: 1.2; font-size: 2em; }
@@ -481,8 +496,9 @@ figcaption { text-align: center; font-size: .6rem; }
 @media print { .on-new-page { page-break-before: always; } }
 
 .block-centered { display: block; margin: 0 auto; }
-.limited-width { max-width: 40rem; margin: 40px auto; }
+.limited-width { max-width: 40rem; margin: 2.5rem auto; }
 .small-img { max-width: 10rem; }
+.medium-img { max-width: 30rem; }
 .headless-table th { font-weight: normal; }
 
 .rules table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
