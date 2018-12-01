@@ -1,7 +1,5 @@
 <!--
-- uniformiser couleurs => diagramme, table de résolution, illustrations...
 - landscape layout ?
-- styler tables
 - playtest #3
 - demander conseils mise en page à tante Murielle
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ & forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
@@ -58,23 +56,25 @@ de la technologie, des croyances, des factions, etc. de cet univers.
 
 
 ### Création des Héros / Héroïnes
-Chaque joueur inscrit sur sa feuille de personnage :
+Chaque joueur inscrit sur sa [feuille de personnage](#hero-sheet) :
 
 - son **nom**
+- une **Prouesse héroïque** qu'il pourra utiliser dans la partie.
+Elles sont décrites dans la sectionsuivante.
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
-- une **Prouesse héroïque**
-
-<img class="block-centered" alt=" Elaina (Court Attire I) " src="elaina__court_attire_i__by_halycon450_dc9dj12-fullview.png">
-
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  1. la vengeance : ... doit payer pour ...
-  1. libérer le peuple ... oprimé par ...
-  1. découvrir la vérité sur légende de / les évênements de ...
-  1. retrouver le trésor perdu de ...
-  1. lever la malédiction qui affecte ...
-  1. découvrir la contrée mythique de ...
-  1. ramener à la vie ...
-  1. détrôner le tyran ...
+::: headless-table
+1  | la vengeance : ... doit payer pour ...
+---|-
+2  | libérer le peuple ... oprimé par ...
+3  | découvrir la vérité sur légende de / les évênements de ...
+4  | retrouver le trésor perdu de ...
+5  | lever la malédiction qui affecte ...
+6  | découvrir la contrée mythique de ...
+7  | ramener à la vie ...
+8  | détrôner le tyran ...
+
+<img class="block-centered" alt="Elaina (Court Attire I)" src="elaina__court_attire_i__by_halycon450_dc9dj12-fullview.png">
 
 <!--
 - sa **Pierre Angulaire** : il s'agit de la raison de vivre - menacée au cours de la saga - ou de la valeur morale primordiale du Héro.
@@ -91,13 +91,13 @@ En lien avec sa **Pierre Angulaire**, chaque joueur doit lister **deux choses qu
 
 Si vous êtes en panne d'inspiration, la table suivante peut également vous donner des idées d'archétypes de personnages :
 ::: headless-table
-**1** | la guerrière qui survécu à trop de batailles, vu trop de morts, et à juré de ...
-------|-
-**2** | la (quasi ?) dernière survivante de son peuple, qui s'est fait...
-**3** | la voleuse au grand coeur, qui a un faible pour ...
-**4** | l'héroïne qui déjà sauvé mainte fois son peuple, tirée de sa retraite pour ...
-**5** | la paria, rejetée par les siens à cause de ...
-**6** | la veuve, qui a perdu son compagnon lors de ...
+1  | la guerrière qui survécu à trop de batailles, vu trop de morts, et à juré de ...
+---|-
+2  | la (quasi ?) dernière survivante de son peuple, qui s'est fait...
+3  | la voleuse au grand coeur, qui a un faible pour ...
+4  | l'héroïne qui déjà sauvé mainte fois son peuple, tirée de sa retraite pour ...
+5  | la paria, rejetée par les siens à cause de ...
+6  | la veuve, qui a perdu son compagnon lors de ...
 :::
 
 
@@ -107,20 +107,23 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 
 Votre Héro peut déclencher cet évênement une seule et unique fois dans la partie. A lui de le décrire avec moults effets spéciaux.
 Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédement :
-  1. votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
-  1. votre Héro est capable de deviner les points faibles de ses adversaires.
-  Une fois dans la partie, demandez au MJ quelles sont les failles d'un enemi et il vous répondra honnêtement.
-  1. un personage allié surgit pour vous sauver la mise. Il vous devait bien ça. Pourquoi, et comment se fait-il qu'il soit ici ?
-  A vous de décider, ou de laisser la suite des évênements le réveler.
-  1. votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
-  1. votre Héro se met dans une colère noire et terrorise tous les PNJs présents
-  1. votre Héro est un fin statège capable d'anticiper les coups de ses adversaires.
-  Vous avez le droit de poser une question sur comment passer un obstacle au MJ et il vous répondra honnêtement.
-  1. votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
-  1. les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
-  1. votre Héro retourne son adversaire à sa cause. Quelle corde sensible parvient-il à toucher ? A vous de le décrire.
-  1. un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez.
-  A vous de décrire comment / pourquoi cela arrive.
+::: headless-table
+1  | votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
+---|-
+2  | votre Héro est capable de deviner les points faibles de ses adversaires. \
+   | Une fois dans la partie, demandez au MJ quelles sont les failles d'un enemi et il vous répondra honnêtement.
+3  | un personage allié surgit pour vous sauver la mise. Il vous devait bien ça. Pourquoi, et comment se fait-il qu'il soit ici ? \
+   | A vous de décider, ou de laisser la suite des évênements le réveler.
+4  | votre Héro triomphe d'un adversaire ou d'un obstacle et obtient immédiatement le respect absolu de tous les PNJs présents
+5  | votre Héro se met dans une colère noire et terrorise tous les PNJs présents
+6  | votre Héro est un fin statège capable d'anticiper les coups de ses adversaires. \
+   | Vous avez le droit de poser une question sur comment passer un obstacle au MJ et il vous répondra honnêtement.
+7  | votre Héro devient BERSERK : dans quelques secondes, il attaquera le personnage le plus proche jusqu'à le rendre inconscient
+8  | les lamentations de votre Héro donnent lieu à un miracle : quelqu'un est ramené à la vie, des chaînes sont brisées, un PNJ retrouve la raison...
+9  | votre Héro retourne son adversaire à sa cause. Quelle corde sensible parvient-il à toucher ? A vous de le décrire.
+10 | un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez. \
+   | A vous de décrire comment / pourquoi cela arrive.
+:::
 
 ### Résumé de la saga
 La partie commence alors que les Héros sont regroupés autour d'un feu.
@@ -140,7 +143,7 @@ Les joueurs sont également encouragés à se poser des questions entre eux pour
 
 > Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la garde t'as défié en duel ?
 
-<img class="block-centered medium-img" alt="Coalescence of Immemorial Nightmares - Yodth" src="coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview.png">
+<img class="block-centered" alt="Coalescence of Immemorial Nightmares - Yodth" src="coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview.png">
 
 
 ### Flashbacks
@@ -151,13 +154,13 @@ Une question est posée à un joueur sur le passé de son Héro.
 Une question personnalisée est idéale, en rebondissant sur ce qui a déjà dit,
 mais la table suivante peut donner des idées en cas de panne d'inspiration, surtout en début de partie :
 ::: headless-table
-**1** | Pourquoi les habitants de ... te haïssent autant / te considèrent comme leur héro ?
-------|-
-**2** | La rumeur court que tu possèdes une artefact unique... De quoi s'agit-il et comment l'as-tu obtenu ?
-**3** | La rumeur court que tu possèdes une capacité unique... De quoi s'agit-il et comment l'as-tu obtenue ?
-**4** | Qui a été ton maître et t'a appris tout ce que tu sais ?
-**5** | Quelle personne est chère à ton coeur ?
-**6** | Il paraît que quelqu'un te traque et veut ta peau. Qui-est-ce et pourquoi ?
+1  | Pourquoi les habitants de ... te haïssent autant / te considèrent comme leur héro ?
+---|-
+2  | La rumeur court que tu possèdes une artefact unique... De quoi s'agit-il et comment l'as-tu obtenu ?
+3  | La rumeur court que tu possèdes une capacité unique... De quoi s'agit-il et comment l'as-tu obtenue ?
+4  | Qui a été ton maître et t'a appris tout ce que tu sais ?
+5  | Quelle personne est chère à ton coeur ?
+6  | Il paraît que quelqu'un te traque et veut ta peau. Qui-est-ce et pourquoi ?
 :::
 
 Une fois la question énoncée, au joueur de répondre comme il l'entend.
@@ -166,16 +169,19 @@ un objet de grande valeur sentimentale rendant le Héro redoutable, ou un person
 Cet Atout a une histoire et a tant de valeur eux yeux du Héro que le perdre serait une stratégie.
 
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
-  1. l'Héroïne est accompagnée de son jeune disciple surdoué en ...
-  1. l'Héroïne possède un très vieux livre antique, précieux mais maudit, qu'elle a juré de ramener à la bibliothèque de la Citadelle au péril de sa vie
-  1. la foi de l'Héroïne en son dieu lui procure le pouvoir d'invoquer un élément : foudre, vague de feu, tempête...
-  1. née d'un peuple esclave, l'Héroïne est leur élue : elle a le don de faire entendre sa voix dans leur tête et a juré de les libérer
-  1. l'Héroïne est une redoutable guerrière au code de l'honneur strict comme le Bushido
-  1. en jurant de servir le démon-dieu ... l'Héroïne a obtenu la capacité de pouvoir hypnotiser quiconque d'un regard
-  1. l'Héroïne possède une arme gigantesque / volante / les deux : c'est la dernière restante du clan et son maître lui a confié
-  1. l'amulette que lui a donné sa mère, son dernier souvenir d'elle, permet à l'Héroïne de donner vie à la matière inerte
-  1. l'Héroïne est accompagnée d'un destrier / compagnon animal magique
-  1. pour garantir la survie de ... l'Héroïne porte une malédiction: tout ce qui est vivant tombe en cendres lorsqu'elle le touche
+::: headless-table
+1  | l'Héroïne est accompagnée de son jeune disciple surdoué en ...
+---|-
+2  | l'Héroïne possède un très vieux livre antique, précieux mais maudit, qu'elle a juré de ramener à la bibliothèque de la Citadelle au péril de sa vie
+3  | la foi de l'Héroïne en son dieu lui procure le pouvoir d'invoquer un élément : foudre, vague de feu, tempête...
+4  | née d'un peuple esclave, l'Héroïne est leur élue : elle a le don de faire entendre sa voix dans leur tête et a juré de les libérer
+5  | l'Héroïne est une redoutable guerrière au code de l'honneur strict comme le Bushido
+6  | en jurant de servir le démon-dieu ... l'Héroïne a obtenu la capacité de pouvoir hypnotiser quiconque d'un regard
+7  | l'Héroïne possède une arme gigantesque / volante / les deux : c'est la dernière restante du clan et son maître lui a confié
+8  | l'amulette que lui a donné sa mère, son dernier souvenir d'elle, permet à l'Héroïne de donner vie à la matière inerte
+9  | l'Héroïne est accompagnée d'un destrier / compagnon animal magique
+10 | pour garantir la survie de ... l'Héroïne porte une malédiction: tout ce qui est vivant tombe en cendres lorsqu'elle le touche
+:::
 
 ### Le Pacte
 ::: float-right variant
@@ -196,27 +202,27 @@ ou bien simplement vous en inspirer pour proposer un Pacte aux joueurs,
 en vous basant sur leurs Objectifs pour trouver celui qui y correspond le mieux.
 
 ::: float-right floats-clear
-d6    | Pactes pour une partie "musclée"
-------|-
-**1** | Mettre à terre les Colossants Vivants
-**2** | Assassiner les responsable de la tragédie de ...
-**3** | Occire les commandants de l'armée ...
-**4** | Capturer les dieux élémentaires protecteur de ...
-**5** | Faire prisonnier les chefs de la résistance à ...
-**6** | Libérer les villes occupées par ...
+d6 | Pactes pour une partie "musclée"
+---|-
+1  | Mettre à terre les Colossants Vivants
+2  | Assassiner les responsable de la tragédie de ...
+3  | Occire les commandants de l'armée ...
+4  | Capturer les dieux élémentaires protecteur de ...
+5  | Faire prisonnier les chefs de la résistance à ...
+6  | Libérer les villes occupées par ...
 :::
 
-d6    | Idées de pactes
-------|-
-**1** | Rassembler les os du dernier des dragons, transformés en reliques vénérées / armes / artefacts magiques
-**2** | Convaincre les anciens héros de sortir de leur retraite pour affronter ...
-**3** | Obtenir l'approbation / le vote des seigneurs pour appuyer votre demande au roi de ...
-**4** | Rassembler les informations suffisantes (manuscrits, témoignages...) pour accomplir le rituel de ...
-**5** | Retracer le parcours du légendaire ..., étape après étape, pour comprendre qui l'a amené à ...
-**6** | Obtenir les aveux des commanditaires de ...
+d6 | Idées de pactes
+---|-
+1  | Rassembler les os du dernier des dragons, transformés en reliques vénérées / armes / artefacts magiques
+2  | Convaincre les anciens héros de sortir de leur retraite pour affronter ...
+3  | Obtenir l'approbation / le vote des seigneurs pour appuyer votre demande au roi de ...
+4  | Rassembler les informations suffisantes (manuscrits, témoignages...) pour accomplir le rituel de ...
+5  | Retracer le parcours du légendaire ..., étape après étape, pour comprendre qui l'a amené à ...
+6  | Obtenir les aveux des commanditaires de ...
 
 ::: floats-clear
-En fonction du pacte et de l'univers, déterminez l'identité secrète de votre PMJ qui convient le mieux :
+En fonction du pacte et de l'univers, choisissez l'identité secrète de votre PMJ :
 - un mystérieux commanditaire souhaitant engager les Héros
 - un puissant sorcier
 - un dieu (de la Mort, de la Ruse, de la Justice...) mettant au défi les Héros, ou complotant contre un autre dieu
@@ -281,7 +287,7 @@ Le MJ explique ce qui lui arrive.
 
 ### Retirer une Pierre du Destin
 
-<img class="block-centered medium-img" alt="Plague-ridden Sentinel" src="plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
+<img class="block-centered" alt="Plague-ridden Sentinel" src="plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
 
 Lorsqu'un Héro est en position d'accomplir une action qui pourrait lui permettre d'accomplir une étape du Pacte,
 il doit l'anoncer, et on replie alors la table de résolution.
@@ -307,18 +313,18 @@ Lorsque la dernière pierre de Destin a été défaussée, le MJ introduit la **
 Comme promis au début de la partie, cette scène doit être l'occasion pour tous les Héros d'accomplir leurs **Objectifs**.
 Le MJ décrit le lieu, les personnages présents et brièvement comment les Héros sont arrivés ici pendant cette ellipse temporelle.
 
-<img class="block-centered medium-img" alt="Lightless Conspirators" src="lightless_conspirators_by_halycon450_dcaa0qm-fullview.png">
+<img class="block-centered" alt="Lightless Conspirators" src="lightless_conspirators_by_halycon450_dcaa0qm-fullview.png">
 
 Ensuite, chaque joueur va miser secrètement pour la résolution qu'il souhaite pour cette scène parmi les choix suivant :
 
 ::: headless-table
-**1** | **Tous les Objectifs** sont accomplis, mais **deux Héros y laissent la vie**.\
-      | Ils sont tirés au hasard parmi les joueurs ayant choisi cette option
-------|-
-**2** | **Un Héro perd la vie**, tiré au hasard parmi les joueurs ayant choisi cette option. \
-      | **Les Objectifs des autres Héros** sont accomplis.
-**3** | **Un seul Héro accomplit son objectif**. \
-      | Si plusieurs joueurs choisissent cette option, ce Héro est tiré au hasard parmi eux, mais **il y laisse alors la vie**
+1  | **Tous les Objectifs** sont accomplis, mais **deux Héros y laissent la vie**.\
+   | Ils sont tirés au hasard parmi les joueurs ayant choisi cette option
+---|-
+2  | **Un Héro perd la vie**, tiré au hasard parmi les joueurs ayant choisi cette option. \
+   | **Les Objectifs des autres Héros** sont accomplis.
+3  | **Un seul Héro accomplit son objectif**. \
+   | Si plusieurs joueurs choisissent cette option, ce Héro est tiré au hasard parmi eux, mais **il y laisse alors la vie**
 :::
 
 Une fois les votes révélés, c'est **l'option de valeur la plus élevée** ayant reçu au moins un vote qui l'emporte.
@@ -339,10 +345,10 @@ en complétant ce que le précédent vient de décrire.
 !!!include(resolution-table.html)!!!
 ::::
 
-::: on-new-page
+<div id="hero-sheet" class="on-new-page">
 !!!include(hero-sheet.html)!!!
 !!!include(hero-sheet.html)!!!
-:::
+</div>
 
 :::: block-centered limited-width rules
 ## Sources & remerciements
@@ -352,14 +358,14 @@ _Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
 sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 - le diagramme a été réalisé avec [draw.io](https://www.draw.io) - Apache 2.0 open-source license
-- la plupart des illustrations sont issues du _King's Court_ de [Ramirez de Souza](https://www.deviantart.com/halycon450) et [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) :
-  * [Stormchaser Proving Grounds](https://www.deviantart.com/halycon450/art/Stormchaser-Proving-Grounds-656936393)
-  * [Elaina (Court Attire I)](https://www.deviantart.com/halycon450/art/Elaina-Court-Attire-I-741341846)
-  * [Royal Mistwalker](https://www.deviantart.com/halycon450/art/Royal-Mistwalker-752957922)
-  * [Coalescence of Immemorial Nightmares - Yodth](https://www.deviantart.com/halycon450/art/Coalescence-of-Immemorial-Nightmares-Yodth-744365909)
-  * [Schismatic Astronomer](https://www.deviantart.com/halycon450/art/Schismatic-Astronomer-662020562)
-  * [Plague-ridden Sentinel](https://www.deviantart.com/halycon450/art/Plague-ridden-Sentinel-758686059)
-  * [Lightless Conspirators](https://www.deviantart.com/halycon450/art/Lightless-Conspirators-742857790)
+- la plupart des illustrations sont de [Ramirez de Souza](https://www.deviantart.com/halycon450) et sont [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) :
+  * [King's Court: Stormchaser Proving Grounds](https://www.deviantart.com/halycon450/art/Stormchaser-Proving-Grounds-656936393)
+  * [King's Court: Elaina (Court Attire I)](https://www.deviantart.com/halycon450/art/Elaina-Court-Attire-I-741341846)
+  * [King's Court: Royal Mistwalker](https://www.deviantart.com/halycon450/art/Royal-Mistwalker-752957922)
+  * [King's Court: Coalescence of Immemorial Nightmares - Yodth](https://www.deviantart.com/halycon450/art/Coalescence-of-Immemorial-Nightmares-Yodth-744365909)
+  * [King's Court: Schismatic Astronomer](https://www.deviantart.com/halycon450/art/Schismatic-Astronomer-662020562)
+  * [King's Court: Plague-ridden Sentinel](https://www.deviantart.com/halycon450/art/Plague-ridden-Sentinel-758686059)
+  * [King's Court: Lightless Conspirators](https://www.deviantart.com/halycon450/art/Lightless-Conspirators-742857790)
 - les autres illustrations du jeu :
   * crâne courroné issu de "Proverbial Philosophy in four series", Martin Tupper, 1881
   * motifs des dés : [Brusheezy](https://www.brusheezy.com) ([bordures](https://www.brusheezy.com/brushes/58857-20-decorative-border-ps-brushes-abr-vol-2) - [flèches](https://www.brusheezy.com/brushes/18267-arrow-doodles-brushes)) - Brusheezy Standard License
@@ -390,7 +396,7 @@ Par la suite, le MJ a surtout servi d'animateur, s'assurant que tout le monde ai
 et que les différents aspects de l'univers étaient évoqués. Il était également scribe, prennant en note devant tout le monde les élements de l'univers établis collectivement.
 
 Le groupe a commencé à discuter sur la question de **la magie / technologie**.
-Après quelques échanges, et en gardant l'esprit du ["Oui et" du théatre d'impro](https://improetc.wordpress.com/2013/10/20/la-regle-du-oui/),
+Après quelques échanges, et en gardant l'esprit du ["Oui et" du théatre d'improvisation](https://improetc.wordpress.com/2013/10/20/la-regle-du-oui/),
 nous établissons ceci :
 
 > Il existe une forme de magie qui permet de donner vieaux machines - et donc une conscience et des sentiments, par le Verbe.
@@ -505,6 +511,7 @@ figcaption { text-align: center; font-size: .6rem; }
 .rules table p { margin: 0; }
 .rules td, .rules th { padding: 5px 10px; }
 .rules td { border-top: 1px solid #ddd; }
+.rules tr > td:first-child, .rules tr > th:first-child { font-weight: bold; }
 
 .float-left {
     float: left;
