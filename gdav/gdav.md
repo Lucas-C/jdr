@@ -49,7 +49,7 @@ Voici quelques abréviations employées par la suite :
 Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.
 
 ### Choix d'un univers
-::: float-right variant
+::: float-right insert variant
 Vous pouvez aussi décider de créer un univers collectivement en début de partie !
 
 Vous trouverez [à la fin de ce document](#un-univers-cr%C3%A9%C3%A9-en-90min) un exemple d'univers créé ainsi durant une partie de _playtest_,
@@ -69,7 +69,16 @@ Chaque joueur inscrit sur sa [feuille de personnage](#hero-sheet) :
 - une **Prouesse héroïque** qu'il pourra utiliser dans la partie.
 Elles sont décrites dans la section suivante.
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
-En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
+::: float-right insert random-tables
+A plusieur reprises dans ce jeu, vous aurez à lancer _1d6_ puis à vous reporter à une table "en ignorant les lignes déjà obtenues".
+La 1ère fois c'est très simple, reportez simplement le résultat de votre dé dans la table,
+puis **cochez** la ligne correspondante.
+La prochaine fois qu'un joueur fera un jet dedans, il "sautera" cette ligne pour déterminer la nouvelle ligne obtenue.
+
+Si par exemple vous aviez obtenu un **3** sur votre dé, et que le joueur suivant obtient un **5**,
+il lira ce qui se trouve dans la **6e** ligne.
+:::
 ::: headless-table
 1  | la vengeance : ... doit payer pour ...
 ---|-
@@ -85,7 +94,7 @@ En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en
 
 <!--
 - sa **Pierre Angulaire** : il s'agit de la raison de vivre - menacée au cours de la saga - ou de la valeur morale primordiale du Héro.
-En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
   + est fidèle à son dieu
   + suit un code de l'honneur (ex: bushido)
   + ne jure que par l'argent
@@ -113,7 +122,7 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 <img class="block-centered medium-img" alt="Royal Mistwalker" src="royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
 
 Votre Héro peut déclencher cet événement une seule et unique fois dans la partie. A lui de le décrire avec moult effets spéciaux.
-Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris précédemment :
+Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: headless-table
 1  | votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
 ---|-
@@ -175,7 +184,7 @@ Il a néanmoins comme contrainte d'introduire dans sa narration un **Atout** :
 un objet de grande valeur sentimentale rendant le Héro redoutable, ou un personnage l'accompagnant dans sa quête.
 Cet Atout a une histoire et a tant de valeur eux yeux du Héro que le perdre serait une stratégie.
 
-En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les choix déjà pris par les autres joueurs :
+En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: headless-table
 1  | l'Héroïne est accompagnée de son jeune disciple surdoué en ...
 ---|-
@@ -191,10 +200,10 @@ En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en
 :::
 
 ### Le Pacte
-::: float-right variant
-Dans les exemples fournis, les étapes du Pacte sont toutes identiques.
-On peut aussi décomposer la quête en étapes distinctes.
-Par exemple pour **trouver le trésor de ...** en 4 PdD : trouver des archives qui le mentionnent ;
+::: float-right insert variant
+Dans les exemples fournis, les étapes du Pacte ont toutes la même structure.
+Il aussi possible de décomposer la quête en phases plus variées.
+Par exemple pour **trouver le trésor de ...** en 4 étapes : trouver des archives qui le mentionnent ;
 trouver un savant pour les traduire et situer le lieu ; le convaincre de le faire ; se rendre sur place.
 :::
 Le MJ définit alors le Pacte qu'il va sceller avec les Héros, c'est-à-dire une mission épique précise.
@@ -240,7 +249,7 @@ En fonction du pacte et de l'univers, choisissez l'identité secrète de votre P
 
 <img class="block-centered" alt="Schismatic Astronomer" src="schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
 
-::: float-right variant
+::: float-right insert variant
 Il est également tout à fait possible d'établir le Pacte comme une règle de jeu "méta",
 sans incidence dans l'univers de la partie et donc sans PMJ personnifiant cet accord tacite.
 Le MJ s'adresse alors aux joueurs et non aux PJs, telle une [Moire](https://fr.wikipedia.org/wiki/Moires) tissant leur destins...
@@ -309,7 +318,7 @@ et place 4 dés parmi les résultats dans la table repliée :
 Encore une fois, cet au joueur d'expliquer comment ce PJ a à son tour l'occasion de retirer une Pierre du Destin en accomplissant le Pacte.
 - enfin, il peut **perdre l'Atout qu'il a misé** à jamais, détruit sous ses yeux
 
-::: float-right variant
+::: float-right insert variant
 Si jamais un Héro meurt en cours de partie, il pourra tout de même aider ses camarades par-delà la mort :
 une fois par demi-heure, il peut accorder un bonus d'_1d6_ supplémentaire au jet d'un joueur.
 :::
@@ -365,24 +374,22 @@ _Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
 sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 - le diagramme a été réalisé avec [draw.io](https://www.draw.io) - Apache 2.0 open-source license
-- la plupart des illustrations sont de [Ramirez de Souza](https://www.deviantart.com/halycon450) et sont [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) :
-  * [King's Court: Stormchaser Proving Grounds](https://www.deviantart.com/halycon450/art/Stormchaser-Proving-Grounds-656936393)
-  * [King's Court: Elaina (Court Attire I)](https://www.deviantart.com/halycon450/art/Elaina-Court-Attire-I-741341846)
-  * [King's Court: Royal Mistwalker](https://www.deviantart.com/halycon450/art/Royal-Mistwalker-752957922)
-  * [King's Court: Coalescence of Immemorial Nightmares - Yodth](https://www.deviantart.com/halycon450/art/Coalescence-of-Immemorial-Nightmares-Yodth-744365909)
-  * [King's Court: Schismatic Astronomer](https://www.deviantart.com/halycon450/art/Schismatic-Astronomer-662020562)
-  * [King's Court: Plague-ridden Sentinel](https://www.deviantart.com/halycon450/art/Plague-ridden-Sentinel-758686059)
-  * [King's Court: Lightless Conspirators](https://www.deviantart.com/halycon450/art/Lightless-Conspirators-742857790)
+- la plupart des illustrations proviennent du projet _King's Court_ de [Ramirez de Souza](https://www.deviantart.com/halycon450) et sont [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) :
+  [Stormchaser Proving Grounds](https://www.deviantart.com/halycon450/art/Stormchaser-Proving-Grounds-656936393),
+  [Elaina (Court Attire I)](https://www.deviantart.com/halycon450/art/Elaina-Court-Attire-I-741341846),
+  [Royal Mistwalker](https://www.deviantart.com/halycon450/art/Royal-Mistwalker-752957922),
+  [Coalescence of Immemorial Nightmares - Yodth](https://www.deviantart.com/halycon450/art/Coalescence-of-Immemorial-Nightmares-Yodth-744365909),
+  [Schismatic Astronomer](https://www.deviantart.com/halycon450/art/Schismatic-Astronomer-662020562),
+  [Plague-ridden Sentinel](https://www.deviantart.com/halycon450/art/Plague-ridden-Sentinel-758686059)
+  et [Lightless Conspirators](https://www.deviantart.com/halycon450/art/Lightless-Conspirators-742857790)
 - les autres illustrations du jeu :
   * crâne couronné issu de "Proverbial Philosophy in four series", Martin Tupper, 1881
   * motifs des dés : [Brusheezy](https://www.brusheezy.com) ([bordures](https://www.brusheezy.com/brushes/58857-20-decorative-border-ps-brushes-abr-vol-2) - [flèches](https://www.brusheezy.com/brushes/18267-arrow-doodles-brushes)) - Brusheezy Standard License
-  * les icônes du diagramme proviennent de [game-icons.net](https://game-icons.net) :
-    + [Star swirl icon](https://game-icons.net/lorc/originals/star-swirl.html) de [Lorc](http://lorcblog.blogspot.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-    + [Grim reaper icon](https://game-icons.net/lorc/originals/grim-reaper.html) de [Lorc](http://lorcblog.blogspot.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-    + [Swordman icon](https://game-icons.net/cathelineau/originals/swordman.html) de Cathelineau - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-    + [Spell book icon](https://game-icons.net/delapouite/originals/spell-book.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-    + [Shaking hands icon](https://game-icons.net/delapouite/originals/shaking-hands.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-    + [Mighty force icon](https://game-icons.net/delapouite/originals/mighty-force.html) de [Delapuite](https://delapouite.com/) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+  * les icônes du diagramme proviennent de [game-icons.net](https://game-icons.net) et sont toutes [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/):
+    [Star swirl icon](https://game-icons.net/lorc/originals/star-swirl.html) et [Grim reaper icon](https://game-icons.net/lorc/originals/grim-reaper.html) de [Lorc](http://lorcblog.blogspot.com);
+    [Spell book icon](https://game-icons.net/delapouite/originals/spell-book.html), [Shaking hands icon](https://game-icons.net/delapouite/originals/shaking-hands.html)
+    et [Mighty force icon](https://game-icons.net/delapouite/originals/mighty-force.html) de [Delapuite](https://delapouite.com/);
+    [Swordman icon](https://game-icons.net/cathelineau/originals/swordman.html) de Cathelineau.
 - les polices employées :
   * [FFF Tusj](http://www.formfett.net/tusj-one-handwritten-font/) par Magnus Cederholm - Free for commercial use
   * [DampfPlatz](http://moorstation.org/typoasis/designers/lloyd/blackjewels/index.htm) par Paul Lloyd - Free for commercial use
@@ -533,13 +540,13 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
 .floats-clear {
     clear: both;
 }
-.variant {
+.insert {
     max-width: 20rem;
     border: 2px solid #444;
     padding: 0 .5rem;
     font-size: .8rem;
 }
-.variant:before {
+.insert:before {
     content: 'Variante';
     display: block;
     margin: 0 -.5rem;
@@ -548,6 +555,12 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
     color: white;
     font-size: .8rem;
     font-weight: bold;
+}
+.variant:before {
+    content: 'Variante';
+}
+.random-tables:before {
+    content: 'Tables aléatoires';
 }
 </style>
 <script src="jquery-3.3.1.min.js"></script>
