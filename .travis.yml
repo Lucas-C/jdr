@@ -3,13 +3,18 @@ node_js: '8'
 cache: npm
 install:
 - npm install -g puppeteer-cli
-- npm install markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
-  markdown-it-container markdown-it-include markdown-it-multimd-table minimist
+- npm install minimist markdown-it markdown-it-anchor markdown-it-checkbox markdown-it-header-sections
+  markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - cd gdav
 - node ../md2html.js gdav.md > index.html
-- [[ $TRAVIS_TAG =~ ^gdav ]] && puppeteer print index.html $TRAVIS_TAG.pdf
+- [[ $TRAVIS_TAG =~ ^gdav ]] && puppeteer print index.html ../$TRAVIS_TAG.pdf
+- cd -
+- cd latour
+- node ../md2html.js latour.md > index.html
+- [[ $TRAVIS_TAG =~ ^latour ]] && puppeteer print index.html ../$TRAVIS_TAG.pdf
+- cd -
 deploy:
   - provider: pages
     skip-cleanup: true
