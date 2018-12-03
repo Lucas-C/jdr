@@ -1,8 +1,13 @@
 <!--
 - playtest #3
+- com' sur:
+  * [ ] https://www.casusno.fr
+  * [ ] http://lesateliersimaginaires.com/forum/index.php
+  * [ ] http://www.silentdrift.net/forum/index.php
+  * [ ] http://www.subasylum.com/Antoniobay/viewforum.php
+- à Noël demander conseils mise en page à tante Murielle
 - make a 2 columns PDF -> "page-break-inside: avoid" does not work on images...
-- demander conseils mise en page à tante Murielle
-- proposer sur forum casus & http://lesateliersimaginaires.com/forum/index.php & http://www.silentdrift.net/forum/index.php & http://www.subasylum.com/Antoniobay/viewforum.php
+- si besoin: 5 badges -> https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
 - envisager publi & print-on-demande sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
 

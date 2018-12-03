@@ -7,6 +7,7 @@ install:
   markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
+- node md2html.js index.md > index.html
 - cd gdav
 - node ../md2html.js gdav.md > index.html
 - if [[ $TRAVIS_TAG =~ ^gdav ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
