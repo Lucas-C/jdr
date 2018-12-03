@@ -31,22 +31,24 @@ d6 | COMMENT ÊTES-VOUS ARRIVÉ LÀ-HAUT ?
 :::: grid-item
 d6 | PJ: QUEL EST TON SECRET ?
 ---|-
-1  | vous avez un petit parachute !
-2  | vous avez des explosifs !
-3  | votre fiancée / fils est prisonnier dans la tour !
-4  | vous avez un allié dans la tour ! De qui s'agit-il ?
-5  | vous avez un pouvoir psi ! Définissez-le maintenant.
-6  | vous êtes un ripoux ! Quel est votre véritable objectif ?
+1  | tu as un petit parachute !
+2  | tu as des explosifs !
+3  | ta fiancée / ton fils est prisonnier dans la tour !
+4  | tu as un allié dans la tour ! De qui s'agit-il ?
+5  | tu as un pouvoir psi ! Définis-le maintenant.
+6  | tu es ripoux ! Quel est ton véritable objectif ?
+
+Si ton secret comporte une question, inscrit la réponse sur ta feuille de PJ.
 ::::
 ::::grid-item
-## La Tour
+## MJ: La Tour
 - #étages = **1d6** + #joueurs + 2
-- dessinez-la sur une feuille,
+- dessine-la sur une feuille,
 de manière à ce qu'il soit possible de placer 5 dés sur chaque étage
-- lorsque les PJs arrivent dans un étage, déteminez secrètement le nombre de pièces occupées:
-1d6 - 1. Lancez ensuite autant de d6 : chacun représente le nombre de truands par pièce.
-Placez ces dés sur le dessin au fure et à mesure que les PJs explorent l'étage
-- si au moins un dé est égal au nombre de pièces occupées, lancez un dé dans la table suivante :
+- lorsque les PJs arrivent dans un étage, détemine secrètement le nombre de pièces occupées:
+1d6 - 1. Lance ensuite autant de d6 : chacun représente le nombre de truands par pièce.
+Place ces dés sur le dessin au fure et à mesure que les PJs explorent l'étage
+- si au moins un dé est égal au nombre de pièces occupées, lance un dé dans la table suivante :
 d6 | MJ: QU'Y A-T-IL A CET ÉTAGE ?
 ---|-
 1  | que des civils
@@ -126,6 +128,8 @@ choisis une capacité dans cette liste:
 - intimide l'ennemi pour qu'il baisse les armes et se rende
 - réalise une acroboatie à la Sam Fisher : grand écart dans un corridor,
 longer une corniche d'immeuble...
+- utilise un ennemi comme bouclier humain pour traverser une pièce sans crainte
+- crée une diversion qui attire toutes les personnes de l'étage quelque part
 
 Lorsque tu l'utilises, lance un **d6** : sur un <span class="dice">⚀</span> ça tourne mal !
 Le Mj décrit ce qu'il se passe.
