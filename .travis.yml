@@ -12,6 +12,9 @@ script:
 - node ../md2html.js gdav.md > index.html
 - if [[ $TRAVIS_TAG =~ ^gdav ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
+- cd latour
+- node ../md2html.js latour.md > index.html
+- cd -
 deploy:
   - provider: pages
     skip-cleanup: true
