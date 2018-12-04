@@ -1,6 +1,5 @@
 <!--
 - ajouter lien vers plans encoupe d'immeubles
-- ajouter mention auteur + license + ressources
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ 
 -->
 # LA TOUR
@@ -144,10 +143,16 @@ d6 | MJ: SURPRISE !
 3  | l'objectif change d'étage
 4  | des truands ligotés dans un étage déjà traversé se libèrent
 5  | un civil est en danger
-6  | toutes les armes à feu s'enraillent
+6  | un sniper canarde les PJs
 ::::
 :::::
+::: footer
+Un jeu de Lucas Cimon - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
+[Photo](https://commons.wikimedia.org/wiki/File:2008_Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata_2013-03-03_5464.JPG) de Biswarup Ganguly, Wikimedia
+
+Polices: [Phage](https://www.behance.net/gallery/27095667/Phage-Free-Font) de Mehmet Reha Tugcu - [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld
+:::
 
 <style>
 @font-face {
@@ -161,7 +166,7 @@ d6 | MJ: SURPRISE !
 
 body {
     font-family: "Courier New", Courier, monospace;
-    font-size: .5rem;
+    font-size: 1rem;
     line-height: 1.6;
     color: #444;
     /* Should make font rendering prettier: */
@@ -169,17 +174,16 @@ body {
 }
 h1 {
     font-family: PhageRough;
-    font-size: 3rem;
+    font-size: 5rem;
     line-height: 1.2;
     text-align: center;
     display: block;
     margin: 0 auto;
 }
-@media print { h1 { font-size: 1rem; } }
-body > section { max-width: 40rem; margin: 0 auto; }
+body > section { max-width: 80rem; margin: 0 auto; position: relative; }
 img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
 table { border-spacing: 0; border-collapse: collapse; table-layout: fixed; }
-h2, thead { font-family: GabrieleL; font-size: 1em; }
+h2, thead { font-family: GabrieleL; font-size: 1rem; }
 td, th { padding: .2rem; }
 td { border-top: 1px solid #ccc; }
 tr > td:first-child, tr > th:first-child { font-weight: bold; }
@@ -187,14 +191,27 @@ ul { margin-left: -1.5rem; }
 
 .grid { max-width: 80rem; margin: 0 auto; }
 .grid-item { width: 30%; padding: .2rem; box-shadow: 1px 1px 2px #555; }
-.dice { font-size: 1.3rem; line-height: .6; vertical-align: bottom; }
+.dice { font-size: 2rem; line-height: .6; vertical-align: bottom; }
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.footer p { margin: 0; }
+
+/* Add this when converting to PDF: * /
+h1 { font-size: 1rem; }
+body, h2, thead { font-family: GabrieleL; font-size: .5rem; }
+.dice { font-size: 1.3rem; }
+body > section { max-width: 40rem; }
+/**/
 </style>
-<script src="imagesloaded.pkgd.min.js"></script>
-<script src="packery.pkgd.min.js"></script>
+<script src="libs/imagesloaded.pkgd.min.js"></script>
+<script src="libs/packery.pkgd.min.js"></script>
 <script>
 var pckry = new Packery('.grid', {
   percentPosition: true,
-  gutter: 10
+  gutter: 10 // Remove this when converting to PDF
 });
 imagesLoaded('img', () => pckry.layout());
 </script>
