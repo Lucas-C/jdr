@@ -23,7 +23,7 @@ Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique 
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
-<img class="block-centered" alt="Stormchaser Proving Grounds" src="stormchaser_proving_grounds_by_halycon450_dav4fd5-fullview.jpg">
+<img class="block-centered" alt="Stormchaser Proving Grounds" src="img/stormchaser_proving_grounds_by_halycon450_dav4fd5-fullview.jpg">
 
 ### Jeu de rôle ?
 Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
@@ -41,7 +41,7 @@ Voici quelques abréviations employées par la suite :
 
 ## Déroulement de la partie
 
-<img id="game-flow-toc" class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="gdav-flow.png" usemap="#toc">
+<img id="game-flow-toc" class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="img/gdav-flow.png" usemap="#toc">
 <map name="toc">
   <area shape="circle" coords="81,82,80" href="#choix-dun-univers" alt="Choix d'un univers"/>
   <area shape="circle" coords="299,82,80" href="#creation-des-heros-heroines" alt="Création des Héros / Héroïnes"/>
@@ -95,7 +95,7 @@ il lira ce qui se trouve dans la **6e** ligne.
 7  | ramener à la vie ...
 8  | détrôner le tyran ...
 
-<img class="block-centered" alt="Elaina (Court Attire I)" src="elaina__court_attire_i__by_halycon450_dc9dj12-fullview.png">
+<img class="block-centered" alt="Elaina (Court Attire I)" src="img/elaina__court_attire_i__by_halycon450_dc9dj12-fullview.png">
 
 <!--
 - sa **Pierre Angulaire** : il s'agit de la raison de vivre - menacée au cours de la saga - ou de la valeur morale primordiale du Héro.
@@ -124,7 +124,7 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 
 ### Prouesses héroïques
 
-<img class="block-centered medium-img" alt="Royal Mistwalker" src="royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
+<img class="block-centered medium-img" alt="Royal Mistwalker" src="img/royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
 
 Votre Héro peut déclencher cet événement une seule et unique fois dans la partie. A lui de le décrire avec moult effets spéciaux.
 Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
@@ -164,7 +164,7 @@ Les joueurs sont également encouragés à se poser des questions entre eux pour
 
 > Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la garde t'as défié en duel ?
 
-<img class="block-centered" alt="Coalescence of Immemorial Nightmares - Yodth" src="coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview.png">
+<img class="block-centered" alt="Coalescence of Immemorial Nightmares - Yodth" src="img/coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview.png">
 
 
 ### Flashbacks
@@ -252,7 +252,7 @@ En fonction du pacte et de l'univers, choisissez l'identité secrète de votre P
 - un être illuminé, ayant accédé au statut de conscience supérieure (ex: Anciens dans SG1, fantôme de jedi...)
 :::
 
-<img class="block-centered" alt="Schismatic Astronomer" src="schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
+<img class="block-centered" alt="Schismatic Astronomer" src="img/schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
 
 ::: float-right insert variant
 Il est également tout à fait possible d'établir le Pacte comme une règle de jeu "méta",
@@ -308,7 +308,7 @@ Le MJ explique ce qui lui arrive.
 
 ### Retirer une Pierre du Destin
 
-<img class="block-centered" alt="Plague-ridden Sentinel" src="plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
+<img class="block-centered" alt="Plague-ridden Sentinel" src="img/plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
 
 Lorsqu'un Héro est en position d'accomplir une action qui pourrait lui permettre d'accomplir une étape du Pacte,
 il doit l'annoncer, et on replie alors la table de résolution.
@@ -334,7 +334,7 @@ Lorsque la dernière pierre de Destin a été défaussée, le MJ introduit la **
 Comme promis au début de la partie, cette scène doit être l'occasion pour tous les Héros d'accomplir leurs **Objectifs**.
 Le MJ décrit le lieu, les personnages présents et brièvement comment les Héros sont arrivés ici pendant cette ellipse temporelle.
 
-<img class="block-centered" alt="Lightless Conspirators" src="lightless_conspirators_by_halycon450_dcaa0qm-fullview.png">
+<img class="block-centered" alt="Lightless Conspirators" src="img/lightless_conspirators_by_halycon450_dcaa0qm-fullview.png">
 
 Ensuite, chaque joueur va miser secrètement pour la résolution qu'il souhaite pour cette scène parmi les choix suivant :
 
@@ -355,7 +355,7 @@ Ensuite, en commençant par ces Héros,
 chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro au cours de cette scène et après,
 en complétant ce que le précédent vient de décrire.
 
-<img class="block-centered small-img" src="bone-1299051_1280.png">
+<img class="block-centered small-img" src="img/bone-1299051_1280.png">
 ::::
 
 :::: on-new-page
@@ -568,6 +568,6 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
     content: 'Tables aléatoires';
 }
 </style>
-<script src="jquery-3.3.1.min.js"></script>
-<script src="jquery.maphilight.js"></script>
+<script src="libs/jquery-3.3.1.min.js"></script>
+<script src="libs/jquery.maphilight.js"></script>
 <script>$('#game-flow-toc').maphilight()</script>
