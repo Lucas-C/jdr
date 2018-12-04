@@ -498,7 +498,8 @@ body {
     font-size: .9rem;
     line-height: 1.6;
     font-family: sans-serif;
-    color: #444; padding:0 1rem;
+    color: #444;
+    padding:0 1rem;
     text-align:justify;
     /* Making font rendering prettier: */
     text-rendering: optimizeLegibility !important;

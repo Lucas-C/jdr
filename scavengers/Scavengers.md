@@ -1,26 +1,16 @@
-<!--
-jeter un oeil à Shadows Over Sol free rpg pdf
-
-taule spaciale
-
-    
-Pincée de mysticisme / dieux sanglants de l'univers
-membres d'un équipage maudit, certains amnésiques, accomplissent la volonté de ...
-cultes, rituels...
-
-
-injection de liquide dans le corps pour résister aux sauts
-
-
-TODO:
+<!-- Tasks:
+- relire PDF original
 - relire +puces / contact des PJs
-- https://www.youtube.com/watch?v=Sw2xMFYHxZI
 - https://bloodntongue.bandcamp.com/album/spaceship-graveyard
-- récupérer autres illus Eclipse Phase de ImagesLibresDeDroits.md + demander aux illustrateurs si OK d'utiliser leurs images ?
+- trouver polices sympas
+- ajouter schema représentant quand utiliser quelle table dans une partie
+- correction orthographique
+- mise en page
 - partager avec Grégory Pogorzelski + Alex Loywick rapport à Into The Dark jdr
-Idées
+
+Idées en vrac:
+- + de xenobio !
 - "le seul moyen de passer ces radars longue portée serait de couper toute source d'énergie pendant 3 jours, en attendant que notre inertie initiale nous fasser traverser la zone surveillée"
-- Nauvoo : intended to be populated by thousands of Mormons and travel beyond The Sol System, to Tau Ceti
 - flic infiltré / ex-flic
 - thème : guerre d'indépendance
 - "space natives" : ne peuvent pas descendre sur une planète, gravité trop forte
@@ -41,87 +31,38 @@ Then more recordings are discovered, showing that mother and her baby in a panic
 >The fact that she refuses to take off her suit and the soft chittering noises she sometimes makes inside are somewhat worrying, though..."
 - "The life support system is clogged and emits a highly corrosive gas across the ship. The group can find a way to counteract the gas to allow them to move withouth the risk of damaging their own suits, or they can try to repair the system to allow easier access."
 - lights out
+- taule spaciale
+- Pincée de mysticisme / dieux sanglants de l'univers
+  membres d'un équipage maudit, certains amnésiques, accomplissent la volonté de ...
+  cultes, rituels...
+- injection de liquide dans le corps pour résister aux sauts
 -->
 
-::: toc
-[[toc]]
-:::
+# Scavengers: anomalies nauchoresques
 
-# ADJ
+<figure>
+  <img src="mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg" alt="">
+  <figcaption>Illustration de <a href="http://www.mitchmalloyart.com">Mitchell Malloy/</a> <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
 
-Cette aide de jeu est une boîte à outils pour raconter de **belles histoires** avec le jdr **Scavengers**.
+Ceci est une aide de jeu pour **Scavengers**, le jeu de rôle de Grégory Pogorzelski :<br>
+<http://awarestudios.blogspot.com/2014/01/scavengers.html>
 
-Elle se veut fidèle à l'ambiance du jeu de [Greg Pogorzelski](https://awarestudios.blogspot.fr/2014/01/scavengers.html) :
-un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur, et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.
-Pour le reste, elle pioche allégrement dans des inspirations comme l'anime Cowboy Bebop, les séries Firefly, Babylon 5 & The Expanse, le manga Planètes, la BD John Prophet, le jeu vidéo Dead Space ou encore les films Alien ou Seul sur mars.
+Elle se veut fidèle à l'ambiance originale :
+joueur un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
+et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.
 
-En partant du principe qu'impliquer vos joueurs émotionnellement et lier le passé & les motivations de leurs personnages aux enjeux de vos scénarios permet de créer des histoires mémorables,
-nous proposons un **compas d'humeurs** et des **souvenirs à rebours**.
+Elle pioche allégrement dans des inspirations comme l'anime Cowboy Bebop, les séries Firefly & The Expanse,
+le court métrage Scavengers de Bennett & Huettner, le manga Planètes, la BD John Prophet, le jeu vidéo Dead Space
+ou encore les films Alien et Seul sur mars.
 
-Afin de donner une âme au vaisseau des Scavengers, plus fidèle compagnon de route des PJs, nous proposons une **feuille de vaisseau** ainsi qu'une **table d'anomalies nauchoresques**.
-
-Enfin, pour rajouter des rebondissements aléatoires - sur le même principe simple des "tables à d6" que le jdr original - et forcer le MC à improviser un peu, nous proposons un mécanisme de **cachoteries** de mission, avec notament des **contrats bonus**, ainsi que des **immprévus de voyages**.
-
-
-## Compa d'humeurs
-
-Définit les obsessions courantes
-
-Nostalgie/se sent vieux/souvenirs qui hantent
-Matérialisme/accumulation d'objets/fétichisme du vaisseau
-Fascination du cosmos
-Dans le fuite perpétuelle de qqch
-
-Besoin de solitude. Ex: passerelle Babylon 5
-Dur à cuire
-Obsédé par un objet / une musique
-Retro: samurai/western/gothique/égypte antique
-Risque-tout
-Sursaut de morale / idéologie : "On va sauver ces immigrés putain !"
-Besoin de contact avec la nature / envie de jardiner / tailler un bonzaï
-
-
-## Souvenirs à rebours
-
-Questions -> si un joueur trouve un lien entre un élément de l'histoire en court qui y répond => +1 XP
-Cette réponse doit être mise en scène dans un dialogue avec un PJ ou un PNJ.
-
-Par exemple, 
-- explique l'origine d'un objet qu'il posède / dans le vaisseau
-- souvenir en rapport avec un lieu
-
-Une règle : "rester dans le personnage" le temps de la scène.
-
-Les questions:
-
-- pourquoi être devenu charognard de l'espace ?
-- où avez-vous appris à piloter ?
-- d'où provient cette cicatrice / ce tatouage ?
-- qui vous est redevable, et pourquoi ?
-- qui est mort devant vous ?
-- qui a été votre mentor dans votre spécialité ?
-- qui vous a tragiquement déçu / trahis / volé ?
-- quelle prouesse/situation vous a rendu célèbre un jour ?
-- comment ce plan parfait pour gagner plein de cash a mal fini ?
-
-
-## Feuille de vaisseau
-
-- fiche de vaisseau
-  * nom
-  * comment le démarrer ? -> clef mécanique ou "combine douloureuse"
-  * "casino", putes, dernier téléporteur
-  * fonctionnement en/hors atmosphère, système d'attache : magnétique, flotteurs, roues...
-  * FTL / boucliers
-
-| d6 | Fonction originale du vaisseau
-|----|-
-|  1 | Militaire
-|  2 | Cargo (transport de personnel, bétail et/ou de marchandises)
-|  3 | Minier
-|  4 | Scientifique (exploration & expérimentations)
-|  5 | Dépannage
-|  6 | Tourisme
+Cette aide de jeu contient:
+- une **table d'anomalies nauchoresques**
+- des **souvenirs à rebours**, pour lier le passé & les motivations de vos personnages
+- une **feuille de vaisseau** afin de donner une âme au plus fidèle compagnon de route des Scavengers
+- un **compas d'humeurs**
+- des **cachoteries** de mission, des **contrats bonus** et des **imprévus de voyages**,
+pour rajouter des rebondissements aléatoires et forcer le MC à improviser un peu, sur le même principe que le JdR original.
 
 
 ## Table d'anomalies nauchoresques
@@ -129,8 +70,8 @@ Les questions:
 **Nauchoresque**, adj. : relatif aux vaisseaux spatiaux. Du grec _naûs_, le navire, et _khoros_, l'espace.
 
 Tout plein d'idées de symptômes étranges que peut présenter la vieille carcasse flottante dans laquelle naviguent vos Scavengers.
-Toutes les idées proviennent de ce thread 4chan : http://suptg.thisisnotatrueending.com/archive/26937160/.
-D'autres inspis : https://4archive.org/board/tg/thread/48337300
+Elles proviennent toutes de ce thread 4chan : <http://suptg.thisisnotatrueending.com/archive/26937160/>.
+Pour encore plus d'idées inspirées : <https://4archive.org/board/tg/thread/48337300>
 
 <u>Utilisation :</u> 1d4 pour les dizaines et 1d10 pour les unités, ou choissisez une catégorie, lancez un d20... et débrouillez-vous.
 
@@ -178,6 +119,49 @@ D'autres inspis : https://4archive.org/board/tg/thread/48337300
 | 40 | misc:gravité artificielle   | La salle de vie principale se retourne à 180° toutes les 12 heures. L'équipage s'est adapté en installant un filet de sécurité et en soudant tous les meubles au sol / au plafond.
 
 
+## Souvenirs à rebours
+
+Questions -> si un joueur trouve un lien entre un élément de l'histoire en court qui y répond => +1 XP
+Cette réponse doit être mise en scène dans un dialogue avec un PJ ou un PNJ.
+
+Par exemple, 
+- explique l'origine d'un objet qu'il posède / dans le vaisseau
+- souvenir en rapport avec un lieu
+
+Une règle : "rester dans le personnage" le temps de la scène.
+
+Les questions:
+
+- pourquoi être devenu charognard de l'espace ?
+- où avez-vous appris à piloter ?
+- d'où provient cette cicatrice / ce tatouage ?
+- qui vous est redevable, et pourquoi ?
+- qui est mort devant vous ?
+- qui a été votre mentor dans votre spécialité ?
+- qui vous a tragiquement déçu / trahis / volé ?
+- quelle prouesse/situation vous a rendu célèbre un jour ?
+- comment ce plan parfait pour gagner plein de cash a mal fini ?
+
+
+## Feuille de vaisseau
+
+- fiche de vaisseau
+  * nom
+  * comment le démarrer ? -> clef mécanique ou "combine douloureuse"
+  * "casino", putes, dernier téléporteur
+  * fonctionnement en/hors atmosphère, système d'attache : magnétique, flotteurs, roues...
+  * FTL / boucliers
+
+| d6 | Fonction originale du vaisseau
+|----|-
+|  1 | Militaire
+|  2 | Cargo (transport de personnel, bétail et/ou de marchandises)
+|  3 | Minier
+|  4 | Scientifique (exploration & expérimentations)
+|  5 | Dépannage
+|  6 | Tourisme
+
+
 ## Table de cachoteries en mission
 
 Chaque PJ tire 2d6 (1 pour les dizaines, 1 pour les unités) et consulte cette table. Poker face !
@@ -201,11 +185,6 @@ En fin de mission, tout le monde met cartes sur table, et selon les cachoteries 
 <figure>
   <img src="colie_wertz_00.jpg" alt="">
   <figcaption>Illustration de <a href="http://coliewertz.com/">Colie Wertz</a></figcaption>
-</figure>
-
-<figure>
-  <img src="mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg" alt="">
-  <figcaption>Illustration de <a href="http://www.mitchmalloyart.com">Mitchell Malloy/</a> <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
 
@@ -334,6 +313,24 @@ Autres:
   <img src="fd_side_back_lit02_by_2buiart-d7bwx6s.jpg" alt="">
   <figcaption>Artwork pour Titanfall 2 par <a href="https://www.artstation.com/artist/hethe"> Hethe Srodawa</a></figcaption>
 </figure>
+
+
+## Compa d'humeurs
+
+Définit les obsessions courantes
+
+Nostalgie/se sent vieux/souvenirs qui hantent
+Matérialisme/accumulation d'objets/fétichisme du vaisseau
+Fascination du cosmos
+Dans le fuite perpétuelle de qqch
+
+Besoin de solitude. Ex: passerelle Babylon 5
+Dur à cuire
+Obsédé par un objet / une musique
+Retro: samurai/western/gothique/égypte antique
+Risque-tout
+Sursaut de morale / idéologie : "On va sauver ces immigrés putain !"
+Besoin de contact avec la nature / envie de jardiner / tailler un bonzaï
 
 
 # Scénario : Avis de péremption sur magenta48
@@ -492,13 +489,28 @@ Selon comment le groupe des PJs, cette fiche peut servir de justification à ce 
 </figure>
 
 
-
 <style type="text/css">
-body { margin: 40px auto; max-width: 650px; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
-h1, h2, h3 { line-height: 1.2; }
+body {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    font-family: sans-serif;
+    color: #444;
+    padding:0 1rem;
+    text-align:justify;
+    /* Making font rendering prettier: */
+    text-rendering: optimizeLegibility !important;
+}
+h1 {
+    line-height: 1.2;
+    text-align: center;
+    display: block;
+    font-size: 3rem;
+    margin: 2rem auto;
+}
+
+body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; }
 figcaption { font-size: x-small; text-align: center; }
 table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; } td { padding: 5px; border-top: 1px solid #ddd; } tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
-@media (min-width: 1278px) { .toc { position: fixed; left: 0; width: 25%; font-size: small; } }
 </style>

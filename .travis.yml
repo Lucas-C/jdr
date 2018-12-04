@@ -15,6 +15,10 @@ script:
 - cd latour
 - node ../md2html.js latour.md > index.html
 - cd -
+- cd scavengers
+- node ../md2html.js Scavengers.md > index.html
+- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- cd -
 before_deploy: rm -rf node_modules/
 deploy:
   - provider: pages
