@@ -15,6 +15,7 @@ script:
 - cd latour
 - node ../md2html.js latour.md > index.html
 - cd -
+before_deploy: rm -rf node_modules/
 deploy:
   - provider: pages
     skip-cleanup: true
