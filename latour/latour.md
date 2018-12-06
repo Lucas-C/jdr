@@ -1,5 +1,6 @@
 <!--
 - ajouter lien vers plans encoupe d'immeubles
+- + conseiller BO the Raid
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ 
 -->
 # LA TOUR

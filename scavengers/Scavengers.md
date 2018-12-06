@@ -1,9 +1,14 @@
 <!-- Tasks:
-- relire PDF original
+- notes pour article blog: premier jeu PbtA auquel j'ai joué !
+
 - relire +puces / contact des PJs
 - https://bloodntongue.bandcamp.com/album/spaceship-graveyard
-- trouver polices sympas
 - ajouter schema représentant quand utiliser quelle table dans une partie
+Icones:
+  * https://game-icons.net/delapouite/originals/solar-system.html
+  * https://game-icons.net/delapouite/originals/astronaut-helmet.html
+  * https://game-icons.net/lorc/originals/space-suit.html
+  * https://game-icons.net/delapouite/originals/spaceship.html ?
 - correction orthographique
 - mise en page
 - partager avec Grégory Pogorzelski + Alex Loywick rapport à Into The Dark jdr
@@ -41,7 +46,7 @@ Then more recordings are discovered, showing that mother and her baby in a panic
 # Scavengers: anomalies nauchoresques
 
 <figure>
-  <img src="mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg" alt="">
+  <img src="img/mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg">
   <figcaption>Illustration de <a href="http://www.mitchmalloyart.com">Mitchell Malloy/</a> <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
@@ -183,7 +188,7 @@ Transmettez ensuite secrètement votre résultat au MC : si néanmoins la table 
 En fin de mission, tout le monde met cartes sur table, et selon les cachoteries le MJ révèle ce qu'il advient.
 
 <figure>
-  <img src="colie_wertz_00.jpg" alt="">
+  <img src="img/colie_wertz_00.jpg">
   <figcaption>Illustration de <a href="http://coliewertz.com/">Colie Wertz</a></figcaption>
 </figure>
 
@@ -211,7 +216,7 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 |   6 | 
 
 <figure>
-  <img src="sergey_grechanyuk_01.jpg" alt="">
+  <img src="img/sergey_grechanyuk_01.jpg">
   <figcaption>Illustration de <a href="https://www.artstation.com/artist/grekgss">Sergey Grechanyuk</a></figcaption>
 </figure>
 
@@ -267,7 +272,7 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 |  6 | Abordage ! Les pirates tentent de pénétrer directement dans le vaisseau
 
 <figure>
-  <img src="sergey_grechanyuk_02.jpg" alt="">
+  <img src="img/sergey_grechanyuk_02.jpg">
   <figcaption>Illustration de <a href="https://www.artstation.com/artist/grekgss">Sergey Grechanyuk</a></figcaption>
 </figure>
 
@@ -310,7 +315,7 @@ Autres:
 | enfant de salaud        | 
 
 <figure>
-  <img src="fd_side_back_lit02_by_2buiart-d7bwx6s.jpg" alt="">
+  <img src="img/fd_side_back_lit02_by_2buiart-d7bwx6s.jpg">
   <figcaption>Artwork pour Titanfall 2 par <a href="https://www.artstation.com/artist/hethe"> Hethe Srodawa</a></figcaption>
 </figure>
 
@@ -336,7 +341,7 @@ Besoin de contact avec la nature / envie de jardiner / tailler un bonzaï
 # Scénario : Avis de péremption sur magenta48
 
 <figure>
-  <img src="papillons.jpg" alt="">
+  <img src="img/papillons.jpg">
   <figcaption><a href="http://vonnowak.com/?p=21194"><cite>Of Butterflies & Astronauts</cite></a> de Markus Nowak, réalisé avec Blender & Photoshop</figcaption>
 </figure>
 
@@ -484,12 +489,20 @@ Selon comment le groupe des PJs, cette fiche peut servir de justification à ce 
 ## Jam #3
 
 <figure>
-  <img src="vivement_la_retraite.jpg" alt="">
+  <img src="img/vivement_la_retraite.jpg">
   <figcaption>Couverture de <a href="http://coloneltonymoore.com/covers-fear-agent/">Fear Agent</a> par Tony Moore</figcaption>
 </figure>
 
 
 <style type="text/css">
+@font-face {
+  font-family: Cornerstone;
+  src: url('fonts/Cornerstone.ttf') format('truetype');
+}
+@font-face {
+  font-family: Marske;
+  src: url('fonts/Marske.otf') format('truetype');
+}
 body {
     font-size: 1.1rem;
     line-height: 1.6;
@@ -501,13 +514,14 @@ body {
     text-rendering: optimizeLegibility !important;
 }
 h1 {
+    font-family: Marske;
     line-height: 1.2;
     text-align: center;
     display: block;
-    font-size: 3rem;
+    font-size: 4rem;
     margin: 2rem auto;
 }
-
+h2, h3, h4 { font-family: Cornerstone; }
 body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; }
