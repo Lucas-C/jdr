@@ -62,15 +62,24 @@ le court métrage Scavengers de Bennett & Huettner, le manga Planètes, la BD Jo
 ou encore les films Alien et Seul sur mars.
 
 Cette aide de jeu contient:
-- une **table d'anomalies nauchoresques**
-- des **souvenirs à rebours**, pour lier le passé & les motivations de vos personnages
-- une **feuille de vaisseau** afin de donner une âme au plus fidèle compagnon de route des Scavengers
-- un **compas d'humeurs**
+- quelques éléments de [description de votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#table-danomalies-nauchoresques),
+afin de donner une âme au plus fidèle compagnon de route des Scavengers
+- une règle optionnelle, les [souvenirs à rebours](#souvenirs-a-rebours), pour que le passé de vos personnages se rappelle à eux
+- une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour ...
 - des **cachoteries** de mission, des **contrats bonus** et des **imprévus de voyages**,
 pour rajouter des rebondissements aléatoires et forcer le MC à improviser un peu, sur le même principe que le JdR original.
 
 
-## Table d'anomalies nauchoresques
+## Dessine-moi un vaisseau
+
+* **Quelle était sa fonction originale ?** Au choix ou au hasard : ~~⚀~~militaire, ~~⚁~~cargo (transport de personnel, bétail et/ou marchandises), ~~⚂~~minier, ~~⚃~~scientifique, ~~⚄~~dépannage ou ~~⚅~~tourisme
+* **De quoi est-il équipé ?** 2 au choix ou au hasard : ~~⚀~~missiles leures, ~~⚁~~bouclier champ de force, ~~⚂~~propulsion warp, ~~⚃~~prototype de téléporteur, ~~⚄~~drone ou ~~⚅~~bras mécanique et magnétique
+* **Quelles pièces spéciales y a-t-il dans le vaisseau ?** 2 au choix ou au hasard : ~~⚀~~mini-casino, ~~⚁~~piscine, ~~⚂~~salle de réalité virtuelle, ~~⚃~~chambre cryogénique, ~~⚄~~serre ou ~~⚅~~bibliothèque
+* **Comment se démarre-t-il ?** Par exemple, avec une unique clef mécanique. Ou en connectant 2 fils sous la console.
+* **Quel est son nom ?**
+
+
+### Table d'anomalies nauchoresques
 
 **Nauchoresque**, adj. : relatif aux vaisseaux spatiaux. Du grec _naûs_, le navire, et _khoros_, l'espace.
 
@@ -116,15 +125,15 @@ Pour encore plus d'idées inspirées : <https://4archive.org/board/tg/thread/483
 | 32 | ordinateur de bord          | "Suis mon conseil : ne parle pas à l'ordinateur de bord. Jamais, si possible, mais surtout, surtout, ne lui dit rien de personnel. Il a l'air normal au début, mais il devient rapidement familier et flippant, et il te déclare sa flamme et là ça pare COMPLETEMENT en vrille et il t'espionne à travers les caméras de sécurité, il te chuchote des choses quand tu dors ou il vérouille le sas quand tu essaie de sortir du vaisseau..."
 | 33 | ordinateur de bord          | La commande d'auto-destruction est activée par la voix via un mot très commun (sugestions: "vaisseau", "xénomorphe", "station"...). Impossible de le changer. L'auto-destruction peut être annulée vocalement dans les 5 secondes suivant l'activation, après il reste 1min pour la désactiver manuellement dans le cockpit.
 | 34 | ordinateur de bord          | "L'ordinateur de bord fonctionne avec un ancien OS que personne ne connait. La langue ressemble à du grec ancien. Toute tentative de s'en débarasser a échoué. Lorsqu'on croit l'avoir éradiqué de tous les disques durs, il se réinstalle quelque part ailleurs sur ce foutu vaisseau. Une fois, à terre, un ingénieur avait formatté TOUS les appareils du vaisseau, pour finalement se rendre compte, trop tard, qu'il restait un backup dans la machine à café. Mais bon dieu, pourquoi est-ce qu'elle était connectée à l'ordinateur de bord ?? Et sérieusement, qu'est-ce que c'est que ce Windows 95 ?"
-| 35 | misc:contrebande/psy        | "L'odeur ? Ah oui. On a essayé de planquer un psy dans un comportiment caché une fois... Il a eu une sorte de crise lors du déphasage et il s'est explosé la tête. Littéralement. On a viré le corps et nettoyé autant qu'on pouvait, mais l'odeur ne veut pas partir."
-| 36 | misc:téléportation          | Le vaisseau contient l'_unique et dernière porte de téléportation_ connue d'un réseau en comportant autrefois des milliers. Elle a l'air en parfait état de fonctionnement, mais sa console indique être en liaison avec une autre porte quelque part, et personne n'ose l'utiliser...
-| 37 | misc:gravité artificielle   | La gravité artificielle suit un léger gradient; le poids des occupants varie de plus ou moins 30kg entre l'avant et l'arrière du vaisseau.
-| 38 | misc:xénomorphes            | Cachée dans une enfractuosité au-dessus d'une couchette est cachée une photo d'une espèce xénomorphe. L'équipage soupçonne qu'il s'agit d'une photo pornographique mais l'anatomie incompréhensible de l'espèce qui y figure rend tout verdict définitif impossible.
-| 39 | misc:hyperespace/paranormal | Durant les sauts en hyperespace des rais de lumière filtrent constamment à travers la coque, même dans les coins les plus sombres de la galaxie. Parfois, on entend presque des voix.
-| 40 | misc:gravité artificielle   | La salle de vie principale se retourne à 180° toutes les 12 heures. L'équipage s'est adapté en installant un filet de sécurité et en soudant tous les meubles au sol / au plafond.
+| 35 | autre:contrebande / psy     | "L'odeur ? Ah oui. On a essayé de planquer un psy dans un comportiment caché une fois... Il a eu une sorte de crise lors du déphasage et il s'est explosé la tête. Littéralement. On a viré le corps et nettoyé autant qu'on pouvait, mais l'odeur ne veut pas partir."
+| 36 | autre:téléportation         | Le vaisseau contient l'_unique et dernière porte de téléportation_ connue d'un réseau en comportant autrefois des milliers. Elle a l'air en parfait état de fonctionnement, mais sa console indique être en liaison avec une autre porte quelque part, et personne n'ose l'utiliser...
+| 37 | autre:gravité artificielle  | La gravité artificielle suit un léger gradient; le poids des occupants varie de plus ou moins 30kg entre l'avant et l'arrière du vaisseau.
+| 38 | autre:xénomorphes           | Cachée dans une enfractuosité au-dessus d'une couchette est cachée une photo d'une espèce xénomorphe. L'équipage soupçonne qu'il s'agit d'une photo pornographique mais l'anatomie incompréhensible de l'espèce qui y figure rend tout verdict définitif impossible.
+| 39 | autre:warp / paranormal     | Durant les sauts en hyperespace des rais de lumière filtrent constamment à travers la coque, même dans les coins les plus sombres de la galaxie. Parfois, on entend presque des voix.
+| 40 | autre:gravité artificielle  | La salle de vie principale se retourne à 180° toutes les 12 heures. L'équipage s'est adapté en installant un filet de sécurité et en soudant tous les meubles au sol / au plafond.
 
 
-## Souvenirs à rebours
+## Souvenirs a rebours
 
 Questions -> si un joueur trouve un lien entre un élément de l'histoire en court qui y répond => +1 XP
 Cette réponse doit être mise en scène dans un dialogue avec un PJ ou un PNJ.
@@ -148,23 +157,22 @@ Les questions:
 - comment ce plan parfait pour gagner plein de cash a mal fini ?
 
 
-## Feuille de vaisseau
+## Compas d'humeurs
 
-- fiche de vaisseau
-  * nom
-  * comment le démarrer ? -> clef mécanique ou "combine douloureuse"
-  * "casino", putes, dernier téléporteur
-  * fonctionnement en/hors atmosphère, système d'attache : magnétique, flotteurs, roues...
-  * FTL / boucliers
+Définit les obsessions courantes
 
-| d6 | Fonction originale du vaisseau
-|----|-
-|  1 | Militaire
-|  2 | Cargo (transport de personnel, bétail et/ou de marchandises)
-|  3 | Minier
-|  4 | Scientifique (exploration & expérimentations)
-|  5 | Dépannage
-|  6 | Tourisme
+Nostalgie/se sent vieux/souvenirs qui hantent
+Matérialisme/accumulation d'objets/fétichisme du vaisseau
+Fascination du cosmos
+Dans le fuite perpétuelle de qqch
+
+Besoin de solitude. Ex: passerelle Babylon 5
+Dur à cuire
+Obsédé par un objet / une musique
+Retro: samurai/western/gothique/égypte antique
+Risque-tout
+Sursaut de morale / idéologie : "On va sauver ces immigrés putain !"
+Besoin de contact avec la nature / envie de jardiner / tailler un bonzaï
 
 
 ## Table de cachoteries en mission
@@ -221,7 +229,7 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 </figure>
 
 
-## Table d'imprévus de voyage
+## Table d'imprevus de voyage
 
 1 chance sur 6 à chaque aller ou retour de mission :
 
@@ -233,6 +241,8 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 |  4 | Anomalie
 |  5 | Débris spatiaux
 |  6 | Rencontre
+
+[intru](https://tvtropes.org/pmwiki/pmwiki.php/Main/DropPod)
 
 
 | d6 | Souvenirs-Souvenirs
@@ -277,7 +287,7 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 </figure>
 
 
-## Table de résolution des cachoteries
+## Table de resolution des cachoteries
 
 **Réservé au MC !**
 
@@ -320,25 +330,7 @@ Autres:
 </figure>
 
 
-## Compa d'humeurs
-
-Définit les obsessions courantes
-
-Nostalgie/se sent vieux/souvenirs qui hantent
-Matérialisme/accumulation d'objets/fétichisme du vaisseau
-Fascination du cosmos
-Dans le fuite perpétuelle de qqch
-
-Besoin de solitude. Ex: passerelle Babylon 5
-Dur à cuire
-Obsédé par un objet / une musique
-Retro: samurai/western/gothique/égypte antique
-Risque-tout
-Sursaut de morale / idéologie : "On va sauver ces immigrés putain !"
-Besoin de contact avec la nature / envie de jardiner / tailler un bonzaï
-
-
-# Scénario : Avis de péremption sur magenta48
+# Scenario : Avis de peremption sur magenta48
 
 <figure>
   <img src="img/papillons.jpg">
@@ -403,7 +395,7 @@ il leur proposera éventuellement du troc, ayant en sa possession des données _
   5-6. usure du métal => la passerelle s'écroule
   décharge électrique: ta radio est HS
 
-## Points d'entrée
+## Points d'entree
 - les docks (déjà occupés)
 - la passerelle des nouveaux arrivants, à mis-chemin de la tour de contrôle
 
@@ -521,7 +513,13 @@ h1 {
     font-size: 4rem;
     margin: 2rem auto;
 }
-h2, h3, h4 { font-family: Cornerstone; }
+h2, h3, h4 {
+    font-family: Cornerstone;
+    border-bottom: 4px solid black;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+s { text-decoration: none; font-size: 2rem; line-height: .9; vertical-align: bottom; }
 body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; }

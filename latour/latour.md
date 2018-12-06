@@ -80,7 +80,7 @@ Digne d'un film de John Woo | 4
 Ensuite, lance autant de **d6** que la caractéristique qui correspond à ton action.
 Si aucune ne convient, lance un seul dé.
 Si au moins un dé est **supérieur** à la difficulté, c'est réussi.
-Si tu obtiens au moins un <span class="die">⚅</span>, c'est une réussite critique.
+Si tu obtiens au moins un ~~⚅~~, c'est une réussite critique.
 En combat, cela signifie que tu as été tellement rapide que tu peux immédiatement réaliser un nouveau mouvement,
 avant que tes adversaires ne puissent réagir !
 
@@ -117,7 +117,7 @@ Lorsque vous voulez sécuriser une pièce à plusieurs,
 lancez autant de **d6** que de PJs, **+1d6** si vous entrez simultanément par 2 accès.
 La difficulté est le nombre d'ennemis présents.
 En cas d'échec, ça tourne mal ! Sinon, à vous de décrire.
-Attention: s'il y a des ennemis dans les pièces voisines et que vous n'obtenez pas un seul <span class="die">⚅</span>,
+Attention: s'il y a des ennemis dans les pièces voisines et que vous n'obtenez pas un seul ~~⚅~~,
 ils sont alertés !
 ::::
 ::::grid-item
@@ -130,18 +130,16 @@ change de capacité spéciale :
 - utilise un ennemi comme bouclier pour avancer sans crainte des balles
 - crée une diversion attirant quelque part tout le monde à cet étage 
 
-Lorsque tu l'utilises, lance un **d6** : sur un <span class="die">⚀</span> ça tourne mal !
+Lorsque tu l'utilises, lance un **d6** : sur un ~~⚀~~ ça tourne mal !
 Le MJ décrit ce qu'il se passe.
 Sinon, c'est réussi, décrit ton action.
-S'il n'y a aucun <span class="die">⚅</span>, tu ne peux plus utiliser cette capacité à cet étage.
+S'il n'y a aucun ~~⚅~~, tu ne peux plus utiliser cette capacité à cet étage.
 ::::
 :::: grid-item
-**MJ**: Les truands sont <span class="die">⚀</span>assoupis, <span class="die">⚁</span>cachés,
-<span class="die">⚂</span>paniqués, <span class="die">⚃</span>agressifs,
-<span class="die">⚄</span>lâches voir même <span class="die">⚅</span>stupides.
-Ils ont <span class="die">⚀</span>des machettes, <span class="die">⚁</span>des revolvers,
-<span class="die">⚂</span>des tonfas, <span class="die">⚃</span>des uzis,
-ou <span class="die">⚄/⚅</span>simplements leurs poings.
+**MJ**: Les truands sont ~~⚀~~assoupis, ~~⚁~~cachés,
+~~⚂~~paniqués, ~~⚃~~agressifs, ~~⚄~~lâches voir même ~~⚅~~stupides.
+Ils ont ~~⚀~~des machettes, ~~⚁~~des revolvers,
+~~⚂~~des tonfas, ~~⚃~~des uzis, ou ~~⚄/⚅~~simplements leurs poings.
 d6 | MJ: SURPRISE !
 ---|-
 1  | l'accès pour descendre est bloqué
@@ -196,10 +194,10 @@ td { border-top: 1px solid #ccc; }
 tr > td:first-child, tr > th:first-child { font-weight: bold; }
 ul { margin: .4rem 0; margin-left: -1.5rem; }
 p { margin: .4rem 0; }
+s { text-decoration: none; font-size: 2rem; line-height: .6; vertical-align: bottom; }
 
 .grid { max-width: 80rem; margin: 0 auto; }
 .grid-item { width: 30%; padding: .2rem; box-shadow: 1px 1px 2px #555; }
-.die { font-size: 2rem; line-height: .6; vertical-align: bottom; }
 .footer {
     position: absolute;
     left: 0;
@@ -210,7 +208,7 @@ p { margin: .4rem 0; }
 /* Add this when converting to PDF: * /
 h1 { font-size: 1rem; }
 body, h2, thead { font-family: GabrieleL; font-size: .5rem; }
-.die { font-size: 1.3rem; }
+s { font-size: 1.3rem; }
 body > section { max-width: 40rem; }
 img { max-height: 16rem; }
 /**/

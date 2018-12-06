@@ -5,6 +5,7 @@ install:
 - npm install -g puppeteer-cli
 - npm install minimist markdown-it markdown-it-anchor markdown-it-checkbox markdown-it-header-sections
   markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table
+  markdown-it-smartarrows
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - node md2html.js index.md > index.html
