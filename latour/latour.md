@@ -46,7 +46,7 @@ puis inscrit la réponse à la question sur ta feuille de PJ.
 - #étages = **1d6** + #joueurs + 2
 - dessine-la sur une feuille,
 de manière à ce qu'il soit possible de placer 5 dés sur chaque étage
-- lorsque les PJs arrivent dans un étage, détermine secrètement le nombre de pièces occupées: **1d6** - 1.
+- à chaque nouvel étage, détermine le nombre de pièces occupées: **1d6** - 1.
 Lance ensuite autant de **d6** : chacun représente le nombre de truands par pièce.
 Place ces dés sur le dessin au fur et à mesure de l'exploration
 - si un dé est égal au 1er **d6** lancé :
@@ -80,7 +80,7 @@ Digne d'un film de John Woo | 4
 Ensuite, lance autant de **d6** que la caractéristique qui correspond à ton action.
 Si aucune ne convient, lance un seul dé.
 Si au moins un dé est **supérieur** à la difficulté, c'est réussi.
-Si tu obtiens au moins un <span class="dice">⚅</span>, c'est une réussite critique.
+Si tu obtiens au moins un <span class="die">⚅</span>, c'est une réussite critique.
 En combat, cela signifie que tu as été tellement rapide que tu peux immédiatement réaliser un nouveau mouvement,
 avant que tes adversaires ne puissent réagir !
 
@@ -117,26 +117,31 @@ Lorsque vous voulez sécuriser une pièce à plusieurs,
 lancez autant de **d6** que de PJs, **+1d6** si vous entrez simultanément par 2 accès.
 La difficulté est le nombre d'ennemis présents.
 En cas d'échec, ça tourne mal ! Sinon, à vous de décrire.
-Attention: s'il y a des ennemis dans les pièces voisines et que vous n'obtenez pas un seul <span class="dice">⚅</span>,
+Attention: s'il y a des ennemis dans les pièces voisines et que vous n'obtenez pas un seul <span class="die">⚅</span>,
 ils sont alertés !
 ::::
 ::::grid-item
 ## PJ: S.W.A.P.
-À chaque fois que tu changes d'étage,
-choisis une capacité dans cette liste:
+À chaque fois que tu progresses d'un étage,
+change de capacité spéciale :
 - élimine un ou plusieurs adversaires à travers une cloison
 - intimide l'ennemi pour qu'il baisse les armes et se rende
-- réalise une acrobatie à la Sam Fisher : grand écart dans un corridor,
-longe une corniche...
+- réalise une acrobatie à la Sam Fisher : grand écart dans un corridor, longe une corniche...
 - utilise un ennemi comme bouclier pour avancer sans crainte des balles
 - crée une diversion attirant quelque part tout le monde à cet étage 
 
-Lorsque tu l'utilises, lance un **d6** : sur un <span class="dice">⚀</span> ça tourne mal !
+Lorsque tu l'utilises, lance un **d6** : sur un <span class="die">⚀</span> ça tourne mal !
 Le MJ décrit ce qu'il se passe.
 Sinon, c'est réussi, décrit ton action.
-S'il n'y a aucun <span class="dice">⚅</span>, tu ne peux plus utiliser cette capacité à cet étage.
+S'il n'y a aucun <span class="die">⚅</span>, tu ne peux plus utiliser cette capacité à cet étage.
 ::::
 :::: grid-item
+**MJ**: Les truands sont <span class="die">⚀</span>assoupis, <span class="die">⚁</span>cachés,
+<span class="die">⚂</span>paniqués, <span class="die">⚃</span>agressifs,
+<span class="die">⚄</span>lâches voir même <span class="die">⚅</span>stupides.
+Ils ont <span class="die">⚀</span>des machettes, <span class="die">⚁</span>des revolvers,
+<span class="die">⚂</span>des tonfas, <span class="die">⚃</span>des uzis,
+ou <span class="die">⚄/⚅</span>simplements leurs poings.
 d6 | MJ: SURPRISE !
 ---|-
 1  | l'accès pour descendre est bloqué
@@ -152,7 +157,8 @@ Un jeu de Lucas Cimon - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 [Photo](https://commons.wikimedia.org/wiki/File:2008_Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata_2013-03-03_5464.JPG) de Biswarup Ganguly, Wikimedia
 
-Polices: [Phage](https://www.behance.net/gallery/27095667/Phage-Free-Font) de Mehmet Reha Tugcu - [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld
+Polices: [Phage](https://www.behance.net/gallery/27095667/Phage-Free-Font) de Mehmet Reha Tugcu
+<br>& [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld
 :::
 
 <style>
@@ -184,15 +190,16 @@ h1 {
 body > section { max-width: 80rem; margin: 0 auto; position: relative; }
 img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
 table { border-spacing: 0; border-collapse: collapse; table-layout: fixed; }
-h2, thead { font-family: GabrieleL; font-size: 1rem; }
+h2, thead { font-family: GabrieleL; font-size: 1rem; margin: .4rem 0; }
 td, th { padding: .2rem; }
 td { border-top: 1px solid #ccc; }
 tr > td:first-child, tr > th:first-child { font-weight: bold; }
-ul { margin-left: -1.5rem; }
+ul { margin: .4rem 0; margin-left: -1.5rem; }
+p { margin: .4rem 0; }
 
 .grid { max-width: 80rem; margin: 0 auto; }
 .grid-item { width: 30%; padding: .2rem; box-shadow: 1px 1px 2px #555; }
-.dice { font-size: 2rem; line-height: .6; vertical-align: bottom; }
+.die { font-size: 2rem; line-height: .6; vertical-align: bottom; }
 .footer {
     position: absolute;
     left: 0;
@@ -203,8 +210,9 @@ ul { margin-left: -1.5rem; }
 /* Add this when converting to PDF: * /
 h1 { font-size: 1rem; }
 body, h2, thead { font-family: GabrieleL; font-size: .5rem; }
-.dice { font-size: 1.3rem; }
+.die { font-size: 1.3rem; }
 body > section { max-width: 40rem; }
+img { max-height: 16rem; }
 /**/
 </style>
 <script src="libs/imagesloaded.pkgd.min.js"></script>
