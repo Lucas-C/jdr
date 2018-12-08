@@ -1,6 +1,7 @@
 <!--
 - playtest #3
 - com' sur:
+  * [x] https://www.500nuancesdegeek.fr
   * [ ] https://www.casusno.fr
   * [ ] http://lesateliersimaginaires.com/forum/index.php
   * [ ] http://www.silentdrift.net/forum/index.php
@@ -26,7 +27,8 @@ où ils devront faire des choix cornéliens pour y apporter une conclusion.
 <img class="block-centered" alt="Stormchaser Proving Grounds" src="img/stormchaser_proving_grounds_by_halycon450_dav4fd5-fullview.jpg">
 
 ### Jeu de rôle ?
-Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
+Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/)
+ou [ce micro-JdR explicatif de Epidiah Ravachol](https://dig1000holes.files.wordpress.com/2013/04/qequjdr.pdf).
 Voici quelques abréviations employées par la suite :
 - MJ = Meneur de Jeu
 - PJ = Personnage d'un Joueur
@@ -43,12 +45,12 @@ Voici quelques abréviations employées par la suite :
 
 <img id="game-flow-toc" class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="img/gdav-flow.png" usemap="#toc">
 <map name="toc">
-  <area shape="circle" coords="81,82,80" href="#choix-dun-univers" alt="Choix d'un univers"/>
-  <area shape="circle" coords="299,82,80" href="#creation-des-heros-heroines" alt="Création des Héros / Héroïnes"/>
-  <area shape="circle" coords="524,82,80" href="#resume-de-la-saga" alt="Résumé de la saga"/>
-  <area shape="circle" coords="524,288,80" href="#le-pacte" alt="Le Pacte"/>
-  <area shape="circle" coords="299,288,80" href="#jets-de-des" alt="Les Pierres du Destin"/>
-  <area shape="circle" coords="81,288,80" href="#scene-finale" alt="Scène finale"/>
+  <area shape="circle" coords="87,86,85" href="#choix-dun-univers" alt="Choix d'un univers"/>
+  <area shape="circle" coords="318,86,85" href="#creation-des-heros-heroines" alt="Création des Héros / Héroïnes"/>
+  <area shape="circle" coords="555,86,85" href="#resume-de-la-saga" alt="Résumé de la saga"/>
+  <area shape="circle" coords="555,308,85" href="#le-pacte" alt="Le Pacte"/>
+  <area shape="circle" coords="318,308,85" href="#jets-de-des" alt="Les Pierres du Destin"/>
+  <area shape="circle" coords="87,308,85" href="#scene-finale" alt="Scène finale"/>
 </map>
 
 Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.

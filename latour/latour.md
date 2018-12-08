@@ -140,11 +140,11 @@ d6 | MJ: SURPRISE !
 :::: footer
 Un jeu de Lucas Cimon - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
-Merci à Henri & Matthieu pour le _playtest_ et vos suggestions inspirées
+Merci à Henri & Matthieu pour le _playtest_ et vos suggestions inspirées.
 
-[Photo](https://commons.wikimedia.org/wiki/File:2008_Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata_2013-03-03_5464.JPG) de Biswarup Ganguly, Wikimedia
+[Photo](https://commons.wikimedia.org/wiki/File:2008_Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata_2013-03-03_5464.JPG) de Biswarup Ganguly, Wikimedia.
 Polices: [Phage](https://www.behance.net/gallery/27095667/Phage-Free-Font) de Mehmet Reha Tugcu
-& [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld
+& [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld.
 ::::
 :::::
 

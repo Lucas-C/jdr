@@ -33,7 +33,8 @@ comme par exemple trouver un objet, un endroit ou quelqu'un en particulier.
 
 ## Règles
 Ce jeu est un **jeu de rôle**.
-Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/).
+Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/),
+ou [ce micro-JdR explicatif de Epidiah Ravachol](https://dig1000holes.files.wordpress.com/2013/04/qequjdr.pdf).
 
 ### Mise en place
 MJ détaille l'univers de jeu.
