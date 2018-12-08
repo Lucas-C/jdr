@@ -1,8 +1,3 @@
-<!--
-- ajouter lien vers plans en coupe d'immeubles
-- + conseiller BO the Raid
-- proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ 
--->
 # LA TOUR
 Vous venez d'arriver au sommet de La Tour, l'immeuble le plus dangereux du pays, sous l'emprise du gang Takoyashi.
 Vous formez une équipe d'opérations spéciales aguerrie, équipée pour l'assaut et experte en arts martiaux.
@@ -196,7 +191,7 @@ s { text-decoration: none; font-size: 2rem; line-height: .6; vertical-align: bot
 .footer p { margin: 0; }
 .columns ul { columns: 2; }
 
-/* Add this when converting to PDF: */
+/* Add this when converting to PDF: * /
 h1 { font-size: 1rem; }
 body, h2, thead { font-family: GabrieleL; font-size: .52rem; }
 s { font-size: 1.3rem; }
@@ -209,7 +204,7 @@ img { max-height: 16rem; }
 <script>
 var pckry = new Packery('.grid', {
   percentPosition: true,
-  gutter: 5 // Remove this when converting to PDF
+  gutter: 5
 });
 imagesLoaded('img', () => pckry.layout());
 </script>

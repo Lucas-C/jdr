@@ -568,6 +568,9 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
 .random-tables:before {
     content: 'Tables aléatoires';
 }
+
+/* Optimisation manuelle de la mise en page PDF: */
+#deroulement-de-la-partie, #flashbacks { page-break-before: always; }
 </style>
 <script src="libs/jquery-3.3.1.min.js"></script>
 <script src="libs/jquery.maphilight.js"></script>
