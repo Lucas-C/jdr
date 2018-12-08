@@ -1,21 +1,23 @@
 <!--
-- ajouter lien vers plans encoupe d'immeubles
+- ajouter lien vers plans en coupe d'immeubles
 - + conseiller BO the Raid
 - proposer sur http://troplongpaslu.fr/proposer-un-jeu-de-role-court/ 
 -->
 # LA TOUR
-Vous venez d'arriver au sommet de La Tour, l'immeuble le plus mal fâmé du pays.
-Vous formez une équipe d'opérations spéciales aguérie, équipée pour l'assaut et entrainée au combat urbain.
-Votre plan : descendre étage après étage jusqu'au rez-de-chaussé, en accomplissant votre mission en chemin...
+Vous venez d'arriver au sommet de La Tour, l'immeuble le plus dangereux du pays, sous l'emprise du gang Takoyashi.
+Vous formez une équipe d'opérations spéciales aguerrie, équipée pour l'assaut et experte en arts martiaux.
+Votre tactique : sécuriser le bâtiment pièce par pièce, étage après étage, en appréhendant tout individu hostile.
+
+_Ce jeu de rôle vous propose de jouer une partie dans la veine des films d'arts martiaux indonésiens comme The Raid_
 ::::: grid
 :::: grid-item
 d6 | POURQUOI ÊTES-VOUS ICI ?
 ---|-
 1  | interpeller Mako, le boss de la sinistre mafia _kali_
-2  | effectuer une saisie de drogue au cœur stratégique du cartel
+2  | effectuer une saisie de drogue au cœur du cartel
 3  | exfiltrer Tao, votre indic' finalement prêt à témoigner
 4  | empêcher l'exécution du juge Dembé, kidnappé il y a quelques heures
-5  | obtenir des preuves compromettantes dans le coffre de Mako
+5  | obtenir des preuves de corruption dans le coffre de Mako
 6  | démanteler un atelier de fabrication de bombes
 ::::
 :::: grid-item
@@ -32,42 +34,35 @@ d6 | COMMENT ÊTES-VOUS ARRIVÉ LÀ-HAUT ?
 d6 | PJ: QUEL EST TON SECRET ?
 ---|-
 1  | tu es ripoux ! Quel est ton véritable objectif ?
-2  | tu es addict. Qu'est-ce que le maque provoque chez toi ?
-3  | ton fils est prisonnier ici ! Pourquoi ?
+2  | tu as une vendetta à régler ici. Avec qui et pourquoi ?
+3  | ton fils junkie est ici ! Que comptes-tu faire ?
 4  | un des truand est ton ami ! De qui s'agit-il ?
-5  | tu sais qu'il y a un ripoux parmis vous. Comment le démasquer ?
-6  | tu as un pouvoir psi ! Lequel ?
+5  | il y a un ripoux parmi vous. Comment le démasquer ?
+6  | tu es sur la sellette. Pourquoi ? Aucune bavure ne doit avoir lieu
 
 Lance un dé secrètement dans cette table,
 puis inscrit la réponse à la question sur ta feuille de PJ.
 ::::
 ::::grid-item
-## MJ: La Tour
-- #étages = **1d6** + #joueurs + 2
-- dessine-la sur une feuille,
-de manière à ce qu'il soit possible de placer 5 dés sur chaque étage
-- à chaque nouvel étage, détermine le nombre de pièces occupées: **1d6** - 1.
-Lance ensuite autant de **d6** : chacun représente le nombre de truands par pièce.
-Place ces dés sur le dessin au fur et à mesure de l'exploration
-- si un dé est égal au 1er **d6** lancé :
 d6 | MJ: QU'Y A-T-IL A CET ÉTAGE ?
 ---|-
-1  | >50% des murs n'ont pas été finis
-2  | un dojo
+1  | un bar à hôtesses et son _peep-show_
+2  | un labo, rempli d'ustensiles et de produits chimiques
 3  | des bains-douches abandonnés
 4  | un atelier clandestin d'enfants
 5  | des logements de civils
-6  | le QG des truands
+6  | un dojo, le QG des truands
 ![La Tour](Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata.png)
 ::::
 ::::grid-item
-## PJ: Tes caracs
-Répartis 1 / 2 / 2 / 4 parmis :
+## PJ: Tes caractéristiques
+Répartis 1 / 2 / 2 / 3 parmi :
+:::columns
 - commander
 - close combat
 - furtivité
 - mitrailler
-
+:::
 Lorsque tu réalises une action risquée, fais un jet.
 Le MJ commence par déterminer la difficulté :
 
@@ -80,84 +75,83 @@ Digne d'un film de John Woo | 4
 Ensuite, lance autant de **d6** que la caractéristique qui correspond à ton action.
 Si aucune ne convient, lance un seul dé.
 Si au moins un dé est **supérieur** à la difficulté, c'est réussi.
-Si tu obtiens au moins un ~~⚅~~, c'est une réussite critique.
-En combat, cela signifie que tu as été tellement rapide que tu peux immédiatement réaliser un nouveau mouvement,
+Si tu obtiens au moins un ~~⚅~~, c'est une réussite critique, **le joueur décrit son action**.
+En combat, cela signifie que tu es tellement rapide que tu peux immédiatement réaliser un nouveau mouvement,
 avant que tes adversaires ne puissent réagir !
-
-En cas d'échec lors d'un jet de combat, tu gagnes 1 point d'Adrénaline.
-Lance un dé dans cette table :
-
-d6 | PJ: Ouille !
+::::
+::::grid-item
+## PJ: Opérateur radio
+Dans un immeuble proche, un agent spécial armé d'un fusil sniper vous accompagne durant votre progression :
+d6 | Meï Ling
+---|-
+1  | « Des renforts arrivent, ils sont trop nombreux ! »
+2  | « L'objectif change d'étage »
+3  | « L'escouade Bravo2 a besoin d'assistance plus bas»
+4  | « L'accès pour descendre est bloqué, passez par... »
+5  | « Des cibles neutralisées ont été libérées, et arrivent vers vous »
+6  | « Allez-y, je vous couvre »
+::::
+::::grid-item
+Les voies d'accès entre les étages:
+~~⚀~~l'escalier, ~~⚁~~la cage d'ascenseur, ~~⚂~~un échafaudage à l'extérieur,
+~~⚃~~un trou dans le sol, ~~⚄~~ ou encore ~~⚅~~.
+::::
+::::grid-item
+## PJ: En difficulté
+En cas d'échec lors d'un jet de combat, lance un dé dans cette table :
+d6 |
 ---|-
 1  | Tu perds ton arme
-2  | Ton arme s'enraille définitevement
+2  | Ton arme s’enraille définitivement
 3  | Tu es coincé par un meuble
 4  | Un ennemi te maîtrise
 5  | Tu es projeté a l'extérieur !
 6  | Tu es blessé
 7  | Tu perds un membre
-8  | Tu meurs
+8  | Tu prends un coup fatal. Tu ne sortiras pas de La Tour vivant.
 
 Note sur ta feuille de perso le nombre de fois où tu as utilisé cette table.
 La prochaine fois, additionne ce chiffre à ton résultat avant de te reporter à cette table.
 ::::
 ::::grid-item
-## PJ: Adrénaline
-Lorsque ça devient chaud, et que la tension monte pour ton personnage,
-demande au MJ si tu peux prendre 1 **point d'Adrénaline**.
+<!-- Movie Moves -->
+## PJ: Cascades & plans d’anthologie
+_Cette liste doit être en évidence devant les joueurs tout au long de la partie._
 
-Tu peux utiliser 1 point d'Adrénaline (ou plusieurs) après n'importe quel jet pour changer la face d'un dé d'un point.
-::::
-::::grid-item
-## PJ: Assaut de groupe
-Votre tactique éprouvée est de sécuriser le bâtiment pièce par pièce,
-en appréhendant par surprise tout individu armé, le plus discrètement possible.
-
-Lorsque vous voulez sécuriser une pièce à plusieurs,
-lancez autant de **d6** que de PJs, **+1d6** si vous entrez simultanément par 2 accès.
-La difficulté est le nombre d'ennemis présents.
-En cas d'échec, ça tourne mal ! Sinon, à vous de décrire.
-Attention: s'il y a des ennemis dans les pièces voisines et que vous n'obtenez pas un seul ~~⚅~~,
-ils sont alertés !
-::::
-::::grid-item
-## PJ: S.W.A.P.
-À chaque fois que tu progresses d'un étage,
-change de capacité spéciale :
-- élimine un ou plusieurs adversaires à travers une cloison
-- intimide l'ennemi pour qu'il baisse les armes et se rende
-- réalise une acrobatie à la Sam Fisher : grand écart dans un corridor, longe une corniche...
-- utilise un ennemi comme bouclier pour avancer sans crainte des balles
-- crée une diversion attirant quelque part tout le monde à cet étage 
-
-Lorsque tu l'utilises, lance un **d6** : sur un ~~⚀~~ ça tourne mal !
-Le MJ décrit ce qu'il se passe.
-Sinon, c'est réussi, décrit ton action.
-S'il n'y a aucun ~~⚅~~, tu ne peux plus utiliser cette capacité à cet étage.
+Vous obtenez **1d6** supplémentaires quand:
+- vous entrez simultanément dans une pièce pour la sécuriser
+- vous réalisez une acrobatie
+- vous utilisez les objets autour pour vous battre : chaises, frigo...
+- vous attaquez des adversaires à travers une cloison
+- vous affrontez deux adversaires, en passant de l'un à l'autre
 ::::
 :::: grid-item
 **MJ**: Les truands sont ~~⚀~~assoupis, ~~⚁~~cachés,
 ~~⚂~~paniqués, ~~⚃~~agressifs, ~~⚄~~lâches voir même ~~⚅~~stupides.
+
 Ils ont ~~⚀~~des machettes, ~~⚁~~des revolvers,
-~~⚂~~des tonfas, ~~⚃~~des uzis, ou ~~⚄/⚅~~simplements leurs poings.
+~~⚂~~des tonfas, ~~⚃~~des uzis, ou ~~⚄/⚅~~simplement leurs poings.
+::::
+:::: grid-item
 d6 | MJ: SURPRISE !
 ---|-
-1  | l'accès pour descendre est bloqué
-2  | toutes les lampes s'éteignent 
-3  | l'objectif change d'étage
-4  | des truands ligotés dans un étage déjà traversé se libèrent
-5  | un civil est en danger
-6  | un sniper canarde les PJs
+1  | l'objectif n'est pas ici, on a envoyé les PJs au casse-pipe !
+2  | un civil est pris dans une fusillade
+3  | un truand propose sa coopération en échange de sa protection
+4  | un civil cache les PJs ou leur montre un autre accès
+5  | toutes les lampes s'éteignent
+6  | un séisme secoue La Tour
 ::::
-:::::
-::: footer
+:::: footer
 Un jeu de Lucas Cimon - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
-[Photo](https://commons.wikimedia.org/wiki/File:2008_Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata_2013-03-03_5464.JPG) de Biswarup Ganguly, Wikimedia
+Merci à Henri & Matthieu pour le _playtest_ et vos suggestions inspirées
 
+[Photo](https://commons.wikimedia.org/wiki/File:2008_Fire_Ravaged_Part_-_Nandram_Market_-_Brabourne_Road_-_Kolkata_2013-03-03_5464.JPG) de Biswarup Ganguly, Wikimedia
 Polices: [Phage](https://www.behance.net/gallery/27095667/Phage-Free-Font) de Mehmet Reha Tugcu
-<br>& [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld
-:::
+& [Gabriele](https://www.1001fonts.com/gabriele-font.html) de Andreas Höfeld
+::::
+:::::
 
 <style>
 @font-face {
@@ -198,16 +192,13 @@ s { text-decoration: none; font-size: 2rem; line-height: .6; vertical-align: bot
 
 .grid { max-width: 80rem; margin: 0 auto; }
 .grid-item { width: 30%; padding: .2rem; box-shadow: 1px 1px 2px #555; }
-.footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
+.footer { width: 30%; }
 .footer p { margin: 0; }
+.columns ul { columns: 2; }
 
-/* Add this when converting to PDF: * /
+/* Add this when converting to PDF: */
 h1 { font-size: 1rem; }
-body, h2, thead { font-family: GabrieleL; font-size: .5rem; }
+body, h2, thead { font-family: GabrieleL; font-size: .52rem; }
 s { font-size: 1.3rem; }
 body > section { max-width: 40rem; }
 img { max-height: 16rem; }
@@ -218,7 +209,7 @@ img { max-height: 16rem; }
 <script>
 var pckry = new Packery('.grid', {
   percentPosition: true,
-  gutter: 10 // Remove this when converting to PDF
+  gutter: 5 // Remove this when converting to PDF
 });
 imagesLoaded('img', () => pckry.layout());
 </script>
