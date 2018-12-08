@@ -187,7 +187,7 @@ mais la table suivante peut donner des idées en cas de panne d'inspiration, sur
 Une fois la question énoncée, au joueur de répondre comme il l'entend.
 Il a néanmoins comme contrainte d'introduire dans sa narration un **Atout** :
 un objet de grande valeur sentimentale rendant le Héro redoutable, ou un personnage l'accompagnant dans sa quête.
-Cet Atout a une histoire et a tant de valeur eux yeux du Héro que le perdre serait une stratégie.
+Cet Atout a une histoire et a tant de valeur eux yeux du Héro que le perdre serait une tragédie.
 
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: headless-table
@@ -294,7 +294,7 @@ La deuxième ligne détermine les conséquences de l'action :
 - il peut s'agit d'une **complication** : que l'action soit réussie ou non, quelque chose tourne mal tout de même...
 Selon la colonne, le MJ ou n'importe quel autre joueur autour de la table a la parole pour décrire cette complication.
 - enfin, un **Flashback** peut être déclenché. Celui-ci est décrit une fois le résultat de l'action décrit.
-N'importe quel autre joueur pose alors une question sur son passé au joueur qui a fait le lancer, et on suit les même règles que les Flashback de début de partie.
+N'importe quel autre joueur pose alors une question sur son passé au joueur qui a fait le lancé, et on suit les même règles que les Flashback de début de partie.
 
 La troisième ligne révèle de potentielles opportunités :
 - l'action peut se révéler **ouvrir une porte vers la réalisation du Pacte**.
@@ -349,7 +349,7 @@ Ensuite, chaque joueur va miser secrètement pour la résolution qu'il souhaite 
 :::
 
 Une fois les votes révélés, c'est **l'option de valeur la plus élevée** ayant reçu au moins un vote qui l'emporte.
-On effectue alors le ou les jets aléatoires requis pour déterminés les Héros / Objectifs concernés.
+On effectue alors le ou les jets aléatoires requis pour déterminer les Héros / Objectifs concernés.
 
 Ensuite, en commençant par ces Héros,
 chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro au cours de cette scène et après,
