@@ -1,4 +1,5 @@
 <!-- Tasks:
+- ajouter license & noms relecteurs
 - notes pour article blog: premier jeu PbtA auquel j'ai joué !
 
 - relire +puces / contact des PJs
@@ -10,11 +11,9 @@ Icones:
   * https://game-icons.net/lorc/originals/space-suit.html
   * https://game-icons.net/delapouite/originals/spaceship.html ?
 - correction orthographique
-- mise en page
 - partager avec Grégory Pogorzelski + Alex Loywick rapport à Into The Dark jdr
 
 Idées en vrac:
-- + de xenobio !
 - "le seul moyen de passer ces radars longue portée serait de couper toute source d'énergie pendant 3 jours, en attendant que notre inertie initiale nous fasser traverser la zone surveillée"
 - flic infiltré / ex-flic
 - thème : guerre d'indépendance
@@ -62,24 +61,31 @@ le court métrage Scavengers de Bennett & Huettner, le manga Planètes, la BD Jo
 ou encore les films Alien et Seul sur mars.
 
 Cette aide de jeu contient:
-- quelques éléments de [description de votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#table-danomalies-nauchoresques),
+- quelques éléments de [description de votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#anomalies-nauchoresques),
 afin de donner une âme au plus fidèle compagnon de route des Scavengers
-- une règle optionnelle, les [souvenirs à rebours](#souvenirs-a-rebours), pour que le passé de vos personnages se rappelle à eux
-- une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour ...
-- des **cachoteries** de mission, des **contrats bonus** et des **imprévus de voyages**,
-pour rajouter des rebondissements aléatoires et forcer le MC à improviser un peu, sur le même principe que le JdR original.
+- une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour interprêter différement vos personnages
+- des [cachoteries](#cachoteries) de mission, incluant des [contrats bonus](#contrats-bonus)
+- et enfin des [imprévus de voyages](#imprevus-de-voyage), pour rajouter des rebondissements aléatoires et forcer le MC à improviser un peu
 
 
 ## Dessine-moi un vaisseau
 
 * **Quelle était sa fonction originale ?** Au choix ou au hasard : ~~⚀~~militaire, ~~⚁~~cargo (transport de personnel, bétail et/ou marchandises), ~~⚂~~minier, ~~⚃~~scientifique, ~~⚄~~dépannage ou ~~⚅~~tourisme
-* **De quoi est-il équipé ?** 2 au choix ou au hasard : ~~⚀~~missiles leures, ~~⚁~~bouclier champ de force, ~~⚂~~propulsion warp, ~~⚃~~prototype de téléporteur, ~~⚄~~drone ou ~~⚅~~bras mécanique et magnétique
+* **De quoi est-il équipé ?** 2 au choix ou au hasard : ~~⚀~~missiles leures, ~~⚁~~bouclier champ de force, ~~⚂~~propulsion warp, ~~⚃~~rayon tractant magnétique, ~~⚄~~drone d'exploration ou ~~⚅~~bras mécanique et foret minier
 * **Quelles pièces spéciales y a-t-il dans le vaisseau ?** 2 au choix ou au hasard : ~~⚀~~mini-casino, ~~⚁~~piscine, ~~⚂~~salle de réalité virtuelle, ~~⚃~~chambre cryogénique, ~~⚄~~serre ou ~~⚅~~bibliothèque
 * **Comment se démarre-t-il ?** Par exemple, avec une unique clef mécanique. Ou en connectant 2 fils sous la console.
 * **Quel est son nom ?**
 
+Pour peaufiner, quelques questions inspirées du [Vast & Starlit](https://dig1000holes.wordpress.com/vast-starlit/) de Epidiah Ravachol:
+- dans quelles situations votre vaisseau est-il un peu capricieux ?
+- qu'est-ce qu'il lui manque et qui vous serait parfois utile ?
 
-### Table d'anomalies nauchoresques
+Pour chaque PJ, répondez à ces questions :
+- en quoi te sens-tu à la maison dans ce vaisseau ?
+- dans quelle endroit du vaisseau aimes-tu parfois t'isoler ?
+
+
+### Anomalies nauchoresques
 
 **Nauchoresque**, adj. : relatif aux vaisseaux spatiaux. Du grec _naûs_, le navire, et _khoros_, l'espace.
 
@@ -87,113 +93,151 @@ Tout plein d'idées de symptômes étranges que peut présenter la vieille carca
 Elles proviennent toutes de ce thread 4chan : <http://suptg.thisisnotatrueending.com/archive/26937160/>.
 Pour encore plus d'idées inspirées : <https://4archive.org/board/tg/thread/48337300>
 
-<u>Utilisation :</u> 1d4 pour les dizaines et 1d10 pour les unités, ou choissisez une catégorie, lancez un d20... et débrouillez-vous.
+<u>Utilisation :</u> 1d6 pour les dizaines et un autre pour les unités.
+Ou choissisez une catégorie, et une anomalie dedans.
 
-|  # | Type d'anomalie             | Description
-|----|-----------------------------|-
-|  1 | bricolage                   | "Ouais, je me suis retrouvé à court de cables alors j'ai branché la machine à café en coupe-circuit du système d'éclairage. Faut juste que t'attende qu'il ait fini de décanter pour te connecter à l'Extranet."
-|  2 | bricolage                   | Une poignée de porte a été remplacée par une vieille pince à vis solidement accrochée au pignon de la serrure.
-|  3 | bricolage                   | La lumière rouge d'alarme ne veut plus s'éteindre. Elle a été recouvrte d'une boîte clouée au mur.
-|  4 | bricolage                   | "Attention à cette plaque au sol, elle n'est pas vissée. Il y'a un vérin en-dessous qui n'arrêtait pas de sauter. On a décidé que la dévisser serait plus simple que de réparer le vérin..."
-|  5 | bricolage                   | Un panneau de contrôle entier dans le cockpit a été remplacé par une plaque de tôle lisse. Comme tout le reste de la pièce est recouvert de diodes et de boutons, ce panneau vierge est plutôt suspect...
-|  6 | bricolage                   | La salle du réacteur est à moitié remplie d'un liquide très corrosif. Comme c'est le seule passage pour effectuer des opérations de maintenance critiques, l'équipage utilise deux petites barques pour traverser ce "lac".
-|  7 | bricolage                   | Le réfrigérateur est en réalité une nacelle de secours. Il a une réserve d'oxygène et doit probablement être toujours fonctionnel.
-|  8 | bricolage                   | Toutes les lampes du vaisseau sont branchées en parallèle. Si l'une d'entre elles saute ou est dévissée, tout le vaisseau est plongé dans le noir.
-|  9 | bricolage                   | Il y a un interrupteur sous le siège du pilote. Personne ne sait exactement ce qu'il fait, mais il est relié au moteur principal et à tous les sas vers l'extérieur.
-| 10 | dégradation                 | "Le système de navigation veut nous faire passer par le système Sol encore une fois ? Il déconne des fois, ouais... donne-lui juste un coup de pied."
-| 11 | dégradation                 | "A cause de bouts de plastique dans le sas, il fait un bruit de pet à chaque fois qu'on l'utilise. C'est un peu gênant, mais pas dangereux."
-| 12 | dégradation                 | Les dalles du sol de la soute ne sont pas exactement à niveau : tout ce qui est posé au sol a tendance à glisser dans le même coin.
-| 13 | dégradation                 | "Il y a des rats dans le vaisseau, qui sait de quoi ils se nourissent... Vraiment, ils n'essaient même pas de nous piquer de la bouffe ! Un biologiste de passage a dit une fois que c'était une espèce disparue."
-| 14 | dégradation                 | Régulièrement, le vaisseau perd des morceaux de moteur au décolage. Parfois, une bonne âme vous renvoie ces pièces par colis.
-| 15 | dégradation                 | La trappe de la nacelle de survie a un digicode. Personne ne se souvient de la combinaison.
-| 16 | dégradation                 | A chaque fois vaisseau rentre dans l'atmosphère un conduit d'aération se met à produire de la fumée. Et vous n'avez aucune idée d'où ça vient.
-| 17 | dégradation                 | Quoi que tu fasses, ne commande jamais de chocolat chaud au distributeur dans la coursive arrière. Jamais, sous AUCUN prétexte.
-| 18 | dégradation                 | Le vaisseau diffuse un appel à la prière d'une religion inconnue tous les soirs, dans une langue inconnue.
-| 19 | dégradation                 | Si le vaisseau détecte la présence d'un feu dans une pièce (une cigarette trop proche d'un détecteur peut suffire), il ferme et vérouille les accès à la pièce, et vide son contenu dans l'espace pour éteindre l'incendie. Il est possible d'interrompre manuellement cette procédure, mais il faut être très, très rapide.
-| 20 | dégradation                 | Il y a un bouton en évidence sur une console du cockpit qui ne sert absolument à rien. Appuyer dessus a cependant des conséquences inattendues : durant les 24 heures suivantes, chaque utilisation d'un appareil électrique entraine une petite mais désagréable décharge électrique.
-| 21 | dégradation                 | "Ouais je sais, l'armoire à pharmacie contient un robot médical. Docteur tu parles. N'essaie JAMAIS de soigner qui que ce soit avec. Quelle que soit la gravité de la blessure, ça vaudra toujours mieux que ce qu'il te fera."
-| 22 | paranormal                  | "Les filtres à air fonctionnenet simplement mieux quand je brûle un peu d'encens de citrouille. J'imagine que l'odeur calme les nerfs de cette vieille carcasse."
-| 23 | paranormal                  | Une partie de la coque a dû être déchirée il y a longtemps, et des pièces de métal recouvertes de graffiti ont été utilisé pour la réparation. Ces graffitis comportent visiblement des mots, mais ils sont indéchiffrables, et on jurerait qu'ils changent parfois...
-| 24 | paranormal                  | A chaque fois que le vaisseau atterrit, quelle que soit l'heure, il attire des chats. Parfois ils se faufilent à l'intérieur pour chaparder un truc. Vous ouvrez un compartiment, il y a un chat qui y dort. La lumière saute, vous vérifiez la prise, et c'est un chat qui l'a débranché.
-| 25 | paranormal                  | Une nuit par semaine une collection de rats morts, cafards et petits oiseaux est arrangée en trophé devant la porte du capitaine. Le scanner n'indique la présence d'aucun chat à bord.
-| 26 | paranormal                  | Les occupants du vaisseau ont une chance sur 6 à chaque fois qu'ils s'endorment de faire des rêves étranges où ils sont des occupants du vaisseau d'il y a bien longtemps, parfois engagés dans des batailles spatiales... Ils se réveillent alors dans un endroit différent du vaisseau : près du réacteur en position méditative, prostré dans un casier, assis à un poste de pilotage...
-| 27 | paranormal                  | Le fenêtre dans pièce de vie montre toujours une magnifique vue de l'espace. Même à terre.
-| 28 | armement                    | "Pourquoi est-ce qu'on a un missile nucléaire dans une boîte en plomb au niveau de la 2e tourelle ??" "Le siège du poste de tir a pêté en plein combat, patron. Il a dit qu'il avait pris la première caisse qu'il a pu trouver pour le remplacer."
-| 29 | armement                    | "Un ancien pilote a planqué tout un paquet d'armes à travers tout le vaisseau. On en découvre constamment, et généralement lorsqu'on reçoit un client dans le vaisseau."
-| 30 | armement                    | Les kits de secours ne contiennent que des armes à feu chargées. Par paranoïa ou fatalisme. Ils n'ont qu'une munition pour éviter toute mutinerie.
-| 31 | ordinateur de bord          | L'ordinateur de bord reporte tout ce que fait l'équipage. TOUT. "Le capitaine Denvers est entré sur le point." "OK tout le monde, préparez-vous à-" "L'enseigne Willis se curre le nez."
-| 32 | ordinateur de bord          | "Suis mon conseil : ne parle pas à l'ordinateur de bord. Jamais, si possible, mais surtout, surtout, ne lui dit rien de personnel. Il a l'air normal au début, mais il devient rapidement familier et flippant, et il te déclare sa flamme et là ça pare COMPLETEMENT en vrille et il t'espionne à travers les caméras de sécurité, il te chuchote des choses quand tu dors ou il vérouille le sas quand tu essaie de sortir du vaisseau..."
-| 33 | ordinateur de bord          | La commande d'auto-destruction est activée par la voix via un mot très commun (sugestions: "vaisseau", "xénomorphe", "station"...). Impossible de le changer. L'auto-destruction peut être annulée vocalement dans les 5 secondes suivant l'activation, après il reste 1min pour la désactiver manuellement dans le cockpit.
-| 34 | ordinateur de bord          | "L'ordinateur de bord fonctionne avec un ancien OS que personne ne connait. La langue ressemble à du grec ancien. Toute tentative de s'en débarasser a échoué. Lorsqu'on croit l'avoir éradiqué de tous les disques durs, il se réinstalle quelque part ailleurs sur ce foutu vaisseau. Une fois, à terre, un ingénieur avait formatté TOUS les appareils du vaisseau, pour finalement se rendre compte, trop tard, qu'il restait un backup dans la machine à café. Mais bon dieu, pourquoi est-ce qu'elle était connectée à l'ordinateur de bord ?? Et sérieusement, qu'est-ce que c'est que ce Windows 95 ?"
-| 35 | autre:contrebande / psy     | "L'odeur ? Ah oui. On a essayé de planquer un psy dans un comportiment caché une fois... Il a eu une sorte de crise lors du déphasage et il s'est explosé la tête. Littéralement. On a viré le corps et nettoyé autant qu'on pouvait, mais l'odeur ne veut pas partir."
-| 36 | autre:téléportation         | Le vaisseau contient l'_unique et dernière porte de téléportation_ connue d'un réseau en comportant autrefois des milliers. Elle a l'air en parfait état de fonctionnement, mais sa console indique être en liaison avec une autre porte quelque part, et personne n'ose l'utiliser...
-| 37 | autre:gravité artificielle  | La gravité artificielle suit un léger gradient; le poids des occupants varie de plus ou moins 30kg entre l'avant et l'arrière du vaisseau.
-| 38 | autre:xénomorphes           | Cachée dans une enfractuosité au-dessus d'une couchette est cachée une photo d'une espèce xénomorphe. L'équipage soupçonne qu'il s'agit d'une photo pornographique mais l'anatomie incompréhensible de l'espèce qui y figure rend tout verdict définitif impossible.
-| 39 | autre:warp / paranormal     | Durant les sauts en hyperespace des rais de lumière filtrent constamment à travers la coque, même dans les coins les plus sombres de la galaxie. Parfois, on entend presque des voix.
-| 40 | autre:gravité artificielle  | La salle de vie principale se retourne à 180° toutes les 12 heures. L'équipage s'est adapté en installant un filet de sécurité et en soudant tous les meubles au sol / au plafond.
-
-
-## Souvenirs a rebours
-
-Questions -> si un joueur trouve un lien entre un élément de l'histoire en court qui y répond => +1 XP
-Cette réponse doit être mise en scène dans un dialogue avec un PJ ou un PNJ.
-
-Par exemple, 
-- explique l'origine d'un objet qu'il posède / dans le vaisseau
-- souvenir en rapport avec un lieu
-
-Une règle : "rester dans le personnage" le temps de la scène.
-
-Les questions:
-
-- pourquoi être devenu charognard de l'espace ?
-- où avez-vous appris à piloter ?
-- d'où provient cette cicatrice / ce tatouage ?
-- qui vous est redevable, et pourquoi ?
-- qui est mort devant vous ?
-- qui a été votre mentor dans votre spécialité ?
-- qui vous a tragiquement déçu / trahis / volé ?
-- quelle prouesse/situation vous a rendu célèbre un jour ?
-- comment ce plan parfait pour gagner plein de cash a mal fini ?
+|  # | Type d'anomalie    | Description
+|----|--------------------|-
+| 11 | bricolage          | « Ouais, je me suis retrouvé à court de cables alors j'ai branché la machine à café en coupe-circuit du système d'éclairage. Faut juste que t'attendes qu'il ait fini de décanter pour te connecter à l'Extranet. »
+| 12 | bricolage          | Une poignée de porte a été remplacée par une vieille pince à vis solidement accrochée au pignon de la serrure.
+| 13 | bricolage          | Un panneau de contrôle entier dans le cockpit a été remplacé par une plaque de tôle lisse. Comme tout le reste de la pièce est recouvert de diodes et de boutons, ce panneau vierge est plutôt suspect...
+| 14 | bricolage          | Le réfrigérateur est en réalité une nacelle de secours. Il a une réserve d'oxygène et doit probablement être toujours fonctionnel.
+| 15 | bricolage          | Toutes les lampes du vaisseau sont branchées en série. Si l'une d'entre elles saute ou est dévissée, tout le vaisseau est plongé dans le noir.
+| 16 | bricolage          | Il y a un interrupteur sous le siège du pilote. Personne ne sait exactement ce qu'il fait, mais il est relié au moteur principal et à tous les sas vers l'extérieur.
+| 21 | dégradation        | La lumière rouge d'alarme ne veut plus s'éteindre. Elle a été recouverte d'une boîte clouée au mur.
+| 22 | dégradation        | La salle du réacteur est à moitié remplie d'un liquide très corrosif. Comme c'est le seul passage pour effectuer des opérations de maintenance critiques, l'équipage utilise deux petites barques pour traverser ce "lac".
+| 23 | dégradation        | « Le système de navigation veut nous faire passer par le système Sol encore une fois ? Il déconne des fois, ouais... donne-lui juste un coup de pied. »
+| 24 | dégradation        | « A cause de bouts de plastique dans le sas, il fait un bruit de pet à chaque fois qu'on l'utilise. C'est un peu gênant, mais pas dangereux. »
+| 25 | dégradation        | Les dalles du sol de la soute ne sont pas exactement à niveau : tout ce qui est posé au sol a tendance à glisser dans le même coin.
+| 26 | dégradation        | « Il y a des rats dans le vaisseau. Qui sait de quoi ils se nourissent... Vraiment, ils n'essaient même pas de nous piquer de la bouffe ! Un biologiste de passage a dit une fois que c'était une espèce disparue. »
+| 31 | dégradation        | La trappe de la nacelle de survie a un digicode. Personne ne se souvient de la combinaison.
+| 32 | dégradation        | À chaque fois que le vaisseau rentre dans l'atmosphère, un conduit d'aération se met à produire de la fumée. Et vous n'avez aucune idée d'où ça vient.
+| 33 | dégradation        | Le vaisseau diffuse un appel à la prière d'une religion inconnue tous les soirs, dans une langue inconnue.
+| 34 | dégradation        | Si le vaisseau détecte la présence d'un feu dans une pièce (une cigarette trop proche d'un détecteur peut suffire), il ferme et vérouille les accès à la pièce, et vide son contenu dans l'espace pour éteindre l'incendie. Il est possible d'interrompre manuellement cette procédure, mais il faut être très, très rapide.
+| 35 | dégradation        | Il y a un bouton en évidence sur une console du cockpit qui ne sert absolument à rien. Appuyer dessus a cependant des conséquences inattendues : durant les 24 heures suivantes, chaque utilisation d'un appareil électrique entraine une petite mais désagréable décharge électrique.
+| 36 | dégradation        | « Ouais je sais, l'armoire à pharmacie contient un robot médical. Docteur tu parles. N'essaie JAMAIS de soigner qui que ce soit avec. Quelle que soit la gravité de la blessure, ça vaudra toujours mieux que ce qu'il te fera. »
+| 41 | paranormal         | « Les filtres à air fonctionnent simplement mieux quand je brûle un peu d'encens de citrouille. J'imagine que l'odeur calme les nerfs de cette vieille carcasse. »
+| 42 | paranormal         | Une partie de la coque a dû être déchirée il y a longtemps, et des pièces de métal recouvertes de graffiti ont été utilisées pour la réparation. Ces graffitis comportent visiblement des mots, mais ils sont indéchiffrables, et on jurerait qu'ils changent parfois...
+| 43 | paranormal         | A chaque fois que le vaisseau atterrit, quelle que soit l'heure, il attire des chats. Parfois ils se faufilent à l'intérieur pour chaparder un truc. Vous ouvrez un compartiment, il y a un chat qui y dort. La lumière saute, vous vérifiez la prise, et c'est un chat qui l'a débranché.
+| 44 | paranormal         | Une nuit par semaine une collection de rats morts, cafards et petits oiseaux est arrangée en trophé devant la porte du capitaine. Le scanner n'indique la présence d'aucun chat à bord.
+| 45 | paranormal         | Les occupants du vaisseau ont une chance sur 6 à chaque fois qu'ils s'endorment de faire des rêves étranges où ils sont les anciens occupants du vaisseau, il y a bien longtemps. Parfois ces rêves incluent des batailles spatiales. Ils se réveillent ensuite dans un endroit différent du vaisseau : près du réacteur en position méditative, prostré dans un casier, assis à un poste de pilotage...
+| 46 | paranormal         | Le fenêtre dans la pièce de vie montre toujours une magnifique vue de l'espace. Même à terre.
+| 51 | armement           | « Pourquoi est-ce qu'on a un missile nucléaire dans une boîte en plomb au niveau de la 2e tourelle ?? » « Le siège du poste de tir a pêté en plein combat, patron. Il a dit qu'il avait pris la première caisse qu'il a pu trouver pour le remplacer. »
+| 52 | armement           | « Un ancien pilote a planqué tout un paquet d'armes à travers tout le vaisseau. On en découvre constamment, et généralement lorsqu'on reçoit un client dans le vaisseau. »
+| 53 | armement           | Les kits de secours ne contiennent que des armes à feu chargées. Par paranoïa ou fatalisme. Ils n'ont qu'une munition pour éviter toute mutinerie.
+| 54 | ordinateur de bord | « Suis mon conseil : ne parle pas à l'ordinateur de bord. Jamais, si possible, mais surtout, surtout, ne lui dit rien de personnel. Il a l'air normal au début, mais il devient rapidement familier et flippant, et il te déclare sa flamme et là ça pare COMPLÈTEMENT en vrille et il t'espionne à travers les caméras de sécurité, il te chuchote des choses quand tu dors ou il vérouille le sas quand tu essaie de sortir du vaisseau... »
+| 55 | ordinateur de bord | La commande d'auto-destruction est activée par la voix via un mot très commun (sugestions: "vaisseau", "xénomorphe", "station"...). Impossible de le changer. L'auto-destruction peut être annulée vocalement dans les 5 secondes suivant l'activation, après il reste 1min pour la désactiver manuellement dans le cockpit.
+| 56 | ordinateur de bord | « L'ordinateur de bord fonctionne avec un ancien OS que personne ne connait. La langue ressemble à du grec ancien. Toute tentative de s'en débarasser a échoué. Lorsqu'on croit l'avoir éradiqué de tous les disques durs, il se réinstalle quelque part ailleurs sur ce foutu vaisseau. Une fois, à terre, un ingénieur avait formatté TOUS les appareils du vaisseau, pour finalement se rendre compte, trop tard, qu'il restait un backup dans la machine à café. Mais bon dieu, pourquoi est-ce qu'elle était connectée à l'ordinateur de bord ?? Et sérieusement, qu'est-ce que c'est que ce Windows 95 ? »
+| 61 | autre              | « L'odeur ? Ah oui. On a essayé de planquer un psi dans un comportiment caché une fois... Il a eu une sorte de crise lors du déphasage et il s'est explosé la tête. Littéralement. On a viré le corps et nettoyé autant qu'on pouvait, mais l'odeur ne veut pas partir. »
+| 62 | autre              | Le vaisseau contient l'_unique et dernière porte de téléportation_ connue d'un réseau en comportant autrefois des milliers. Elle a l'air en parfait état de fonctionnement, mais sa console indique être en liaison avec une autre porte quelque part, et personne n'ose l'utiliser...
+| 63 | autre              | La gravité artificielle suit un léger gradient; le poids des occupants varie de plus ou moins 30kg entre l'avant et l'arrière du vaisseau.
+| 64 | autre              | Cachée dans une enfractuosité au-dessus d'une couchette est cachée une photo d'une espèce xénomorphe. L'équipage soupçonne qu'il s'agit d'une photo pornographique mais l'anatomie incompréhensible de l'espèce qui y figure rend tout verdict définitif impossible.
+| 65 | autre              | Durant les sauts en hyperespace des rais de lumière filtrent constamment à travers la coque, même dans les coins les plus sombres de la galaxie. Parfois, on entend presque des voix.
+| 66 | autre              | La salle de vie principale se retourne à 180° toutes les 12 heures. L'équipage s'est adapté en installant un filet de sécurité et en soudant tous les meubles au sol / au plafond.
 
 
 ## Compas d'humeurs
 
-Définit les obsessions courantes
+Cette règle optionnelle vous suggère des **contraintes créatives pour interprêter vos personnages** différement.
 
-Nostalgie/se sent vieux/souvenirs qui hantent
-Matérialisme/accumulation d'objets/fétichisme du vaisseau
-Fascination du cosmos
-Dans le fuite perpétuelle de qqch
+Le but est de bousculer vos habitudes de jeu : et si durant cette séance vous expérimentiez un rôle qui vous est peu familier ?
+Inspirez-vous de ces acteurs de théatre ou de cinéma, capables de joueur des personnages aux antipodes les uns des autres.
+Et si vous vous mettiez dans la peau d'un personnage altruisite, ou au contraire agressif pour une fois ?
 
-Besoin de solitude. Ex: passerelle Babylon 5
-Dur à cuire
-Obsédé par un objet / une musique
-Retro: samurai/western/gothique/égypte antique
-Risque-tout
-Sursaut de morale / idéologie : "On va sauver ces immigrés putain !"
-Besoin de contact avec la nature / envie de jardiner / tailler un bonzaï
+Il ne s'agit pas de fixer de manière définitive le caractère de votre personnage - rien avoir par exemple avec l'alignement de D&D -
+mais de **définir aléatoirement son humeur le temps d'une session** de jeu.
+
+Et puis vivre dans une boîte de conserve au milieu du vide spatial 24h/24, 7j/7, forcément ça a tendance a provoquer des sautes d'humeur.
+
+<figure>
+  <img src="img/papillons.jpg">
+  <figcaption><a href="http://vonnowak.com/?p=21194"><cite>Of Butterflies & Astronauts</cite></a> de Markus Nowak, réalisé avec Blender & Photoshop</figcaption>
+</figure>
+
+**La règle:** en début de séance, les joueurs qui le souhaitent peuvent lancer 1d6 dans la table suivante.
+Vous pouvez :
+
+- soit utiliser le même résultat dans les deux tables. Elles sont "alignées" pour correspondre assez naturellement.
+- soit lancer un second dé pour l'autre table. Il vous faudra alors faire preuve d'un peu plus d'imagination et de gymnastique mentale
+pour que les deux coïncident, mais le jeu en vaut la chandelle !
+
+Vous êtes complètement libres de relancer un jet qui ne vous inspire pas,
+de vous en lasser en cours de partie et de décider de ne plus en tenir compte,
+ou encore de refaire un jet plus tard dans la session, par exemple lorsque vous hésitez sur la conduite à adopter.
+
+::: float-right
+| 1d6 | Votre attitude en conséquence
+|-----|-
+|   1 | Fuir en avant, être évasif, couper court aux discussions
+|   2 | Être en colère, agressif, chercher un coupable et lui faire payer
+|   3 | Se persuader et persuader les autres que vous êtes un dur à cuire, solide comme un roc
+|   4 | Faire de l'humour, être piquant ou sarcastique
+|   5 | Être obsédé par une mélodie ou fétichiste d'un objet, se trouver une nouvelle passion exotique (japon féodal / western / Égypte...)
+|   6 | Prendre des risques absurdes, tout mettre en jeu dans la balance
+:::
+
+| 1d6 | Ce besoin insatisfait qui vous démange
+|-----|-
+|   1 | Explorer de nouveaux lieux, découvrir de mystérieux artefacts et des créatures aliens
+|   2 | Exercer votre liberté, braver les interdits, refuser l'authorité
+|   3 | Être altruiste, transmettre l'espoir, s'assurer qu'il y a une justice
+|   4 | Se détendre, se reposer, prendre du bon temps, profiter avec un peu de légereté
+|   5 | Être nostalgique, revenir sur son passé et clôturer certaines histoires
+|   6 | Être en contact avec la nature, jardiner, être faciné par le cosmos, philosopher
 
 
-## Table de cachoteries en mission
+> Au mieu de la partie, le personnage de Tom, un vieux cosmonaute russe nommé Yuri,
+> se retrouve confronté à un dilemne moral : l'équipage vient de réaliser que l'énorme cargaison
+> qu'ils viennent d'intercepter était destinée à un vaisseau de réfugiés, dérivant actuellement vers une ceinture astéroïdes.
 
-Chaque PJ tire 2d6 (1 pour les dizaines, 1 pour les unités) et consulte cette table. Poker face !
-Si la cachoterie implique un autre membre de l'équipage, tirez aléatoirement aux dés de qui il s'agit.
-Transmettez ensuite secrètement votre résultat au MC : si néanmoins la table indique de ne pas transmettre le vrai réultat, remplacez votre 1er dé par un 4, 5 ou 6.
+> Il joue d'ordinaire son personnage de manière assez cynique, mais décide de lancer un dé dans la table ci-dessus
+> pour voir ce qui en retourne cete fois. Il obtient un 3, et décide d'avoir un sursaut d'empathie : « On va sauver ces réfugiés putain ! »
+
+Une autre occasion idéale pour consulter cette table est lorsqu'un **deuil** survient,
+suite au décès d'un PJ ou d'un PNJ.
+
+Côté MC, prennez bonne note de ces besoins insatisfaits pour pouvoir tendre des perches aux joueurs durant la partie !
+
+Enfin, si vous souhaitez des idées d'éléments de votre passé qui reviennent vous hanter :
+
+| 1d6 | Souvenirs, souvenirs
+|-----|-
+|   1 | Qui t'as appris les ficelles du métier ? Ou à piloter ? Ou à te battre ?
+|   2 | Qui t'es redevable, et pourquoi ? Ou bien est-ce l'inverse ?
+|   3 | Quelle prouesse / situation t'as rendu célèbre un jour ?
+|   4 | Qui t'as tragiquement déçu / trahis / volé ?
+|   5 | Comment ce plan parfait pour gagner plein de cash a mal fini ?
+|   6 | Qui est mort sous tes yeux ?
+
+
+## Cachoteries
+
+Cette règle optionnelle fournit une table aléatoire d'objectifs individuels secrets pour les PJs,
+certains connus du MC et d'autres non.
+
+Chaque PJ tire 2d6 de couleurs différentes, un pour les dizaines et un pour les unités, puis consulte la table ci-dessous.
+Surtout, restez impassible ! Ne laissez rien transparaître dans vos réactions.
+
+Si la cachoterie implique un autre membre de l'équipage, tirez aléatoirement avec 1d6 de qui il s'agit.
+Transmettez ensuite secrètement votre résultat au MC, **sauf** si la table indique de ne pas transmettre le vrai réultat.
+Dans ce cas prétendez que vous avez eu un 4, 5 ou 6.
 
 | 2d6 distincts | Transmettre le vrai résultat au MC ? | Description
 |---------------|--------------------------------------|-
-|      1-*      |                  Oui                 | Votre contact vous propose de gagner 2-cash en accomplissant un contrat bonus. cf. table correspondante
-|      2-1      |                  Non                 | Vous découvrez un fichier sur l'ordinateur de bord / un message audio indiquant qu'un autre membre de l'équipage vient d'être diagnostiqué d'un "cancer de l'espace", très fréquent dans votre milieu.
-|      2-2      |                  Non                 | Lors de votre dernier arrêt à Point Central, vous avez eu une aventure avec un proche d'un autre membre de l'équipage. Soeur, ex-copine, fille, mère... à vous de voir qui et comment !
-|      2-3      |                  Non                 | Lors de votre dernier arrêt à Point Central, vous avez attrapé la nano-gale : un parasite urticant, très contagieux mais relativemetn bénin. Comme il y aurait un risque que ce parasite se transmette aux ordinateurs de bord, vous devriez rester en quarantaine à Point Central, mais vous avez préféré garder ça secret...
-|      2-4      |                  Non                 | Vous avez entendu dire que sur cette mission il y aurait également l'enfant de salaud qui buté où provoqué la mort d'un de vos proches. A vous de décider de quel PNJ il s'agir au cour de la mission, de déterminer ce qu'il vous a fait, et le moment opportun de le liquider ou de l'estropier.
-|      2-5      |                  Non                 | 
-|      2-6      |                  Non                 | 
-|      3-*      |                  Oui                 | Transmettez au MC votre tirage de dés.
-|    4/5/6-*    |                  Oui                 | Rien.
+|      1-*      |                  Oui                 | Votre contact vous propose de gagner 2-cash en accomplissant un contrat bonus. Le MC vous donnera le détail de l'offre en se reportant à la section suivante.
+|      2-1      |                  Non                 | Vous avez appris que durant cette mission votre frère (ou soeur) sera de la partie. Vous ne vous parlez plus beaucoup, mais la famille c'est sacré pour vous. À vous de décider de quel PNJ il s'agit au cours de la partie, et de l'aider du mieux que vous pouvez. Même si ça ça doit se faire au détriment de votre équipage...
+|      2-2      |                  Non                 | Lors de votre dernier arrêt à Point Central, _quelque chose_ est rentré en vous. À vous de définir quoi exactement et comment, mais vous allez devoir trouver un xénobiologiste très vite, sans affoler vos coéquipiers...
+|      2-3      |                  Non                 | Vous découvrez un fichier audio d'un médecin sur l'ordinateur de bord, indiquant qu'un autre membre de l'équipage vient d'être diagnostiqué d'un "cancer de l'espace". À vous de définir qui, et de trouver un moment pour aborder le sujet avec elle ou lui durant la partie. Délicat, surtout qu'il n'a pas encore eu le message...
+|      2-4      |                  Non                 | Lors de votre dernier arrêt à Point Central, vous avez échappé par miracle à une mort atroce, grâce à un inconnu qui vous a sauvé en y laissant sa vie. Vous vous êtes juré de rendre la pareille bientôt, pour équilibrer la balance karmique... sans nécesseraiement y laisser la vie. La prochaine fois que quelqu'un est sur le point de mourir, et qu'il ne le mérite pas selon vous, vous donnerez tout ce que vous avez pour le sauver.
+|      2-5      |                  Non                 | Vous avez appris que durant cette mission vous pourriez croiser l'enfant de salaud qui a buté où provoqué la mort d'un de vos proches. À vous de décider de quel PNJ il s'agit au cour de la partie, de déterminer ce qu'il vous a fait, et le moment opportun de le liquider ou de lui faire payer. Pas d'hésitation !
+|      2-6      |                  Non                 | Lors de votre dernier arrêt à Point Central, un de vos contacts vous a appris que vous vous étiez fait voler 1d6-cash... par un de vos coéquipiers ! À vous de décider qui et comment il s'y est pris, mais il ne sait pas que vous avez découvert le pot aux roses. Confrontez-le durant la partie, idéalement lorsque sa vie sera entre vos mains...
+|      3-*      |                  Oui                 | Transmettez au MC la valeur du second dé.
+|    4/5/6-*    |                  Oui                 | Rien. Pas de cachoteries pour vous cette fois-ci ! Comme il faut que vous ayez l'air de lire quelque chose en étant concentré pendant quelques minutes, histoire de semer le doute autour de la table, voici une énigme: le pape en a un mais ne l’utilise pas; ton père en a un et ta mère l’emploi; les nones n’en ont pas besoin; le mari de ton amie en a un aussi et ton amie l’a adopté. Qui suis-je ?
 
-En fin de mission, tout le monde met cartes sur table, et selon les cachoteries le MJ révèle ce qu'il advient.
+
+**MC** : assurez-vous de prendre systématiquement au moins une personne en apparté à cette phase, pour semer le doute.
+
+En fin de mission, tout le monde met cartes sur table, et révèle quelle cachoterie il avait éventuellement tiré.
 
 <figure>
   <img src="img/colie_wertz_00.jpg">
@@ -201,27 +245,16 @@ En fin de mission, tout le monde met cartes sur table, et selon les cachoteries 
 </figure>
 
 
-## Table de contrats bonus
+### Contrats bonus
 
-|  contact         | Description
+|  Contact         | Description
 |------------------|-
-| Armatech         | Tester (ou faire tester) une arme à feu de point subsonique, fonctionnant dans l'espace et générant un rayon de chaleur aussi brûlant que de la lave. A tester sur dans l'espace sur un vaisseau et en atmosphère artificielle sur un humain.
-| Marché noir      | Tester (ou faire tester) une drogue inconnue. Peut-être d'origine xénomorphe. Observer les effets sur au moins 3 jours. +1 cash si testé sur un 2e cobaye
-| Caifu Xiaoyin    | Une valise à livrer.
-| Steiner & Wilson | Tester un additif de carurant
-| Legion           | Introduire un virus dans l'ordinateur de quelqu'un.
-| Transmed         | Récupérer un prélèvement de peau et de sang d'un individu.
-
-Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le résultat de votre 2e d6 dans cette table :
-
-| 1d6 | Description
-|-----|-
-|   1 | Tester (ou faire tester) de la caféine de synthèse, bien + forte
-|   2 | Cargaison secrète... Au MC de déterminer le destinataire. 1d6 -> 1 = de la drogue d'origine pharmacomédicale ; 2 = des données ; 3 = un migrant ; 4 = un criminel recherché ; 5 = un animal ; 6 = un xénomorphe
-|   3 | 
-|   4 | 
-|   5 | 
-|   6 | 
+| Armatech         | Tester (ou faire tester) une arme à feu de point subsonique, fonctionnant dans l'espace et générant un rayon de chaleur aussi brûlant que de la lave. A tester dans l'espace sur un vaisseau et en atmosphère artificielle sur un humain.
+| Marché noir      | Tester (ou faire tester) une drogue inconnue. Peut-être d'origine xénomorphe. Observer les effets sur au moins 3 jours. +1 cash si testé sur un second cobaye
+| Steiner & Wilson | Tester un additif de carburant, un prototype tout juste stable, et raporter vos observations après au moins une semaine.
+| Caifu Xiaoyin    | Une cargaison confidentielle à livrer. Le MC vous indique où et comment.
+| Transmed         | Récupérer un prélèvement de peau et de sang d'un individu. Le MC vous indique qui.
+| Legion           | Introduire une clef informatique dans un ordinateur, et ramener la clef. Le MC vous indique où.
 
 <figure>
   <img src="img/sergey_grechanyuk_01.jpg">
@@ -229,30 +262,15 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 </figure>
 
 
-## Table d'imprevus de voyage
+## Imprevus de voyage
 
-1 chance sur 6 à chaque aller ou retour de mission :
+| d6    | Description
+|-------|-
+| 1     | Anomalie spatiale
+| 2     | Débris spatiaux
+| 3     | Rencontre
+| 4-5-6 | Pas d'imprévu
 
-| d6 | Description
-|----|-
-|  1 | Nouvelle anomalie nauchoresque
-|  2 | Contrôle des douanes
-|  3 | Abordage
-|  4 | Anomalie
-|  5 | Débris spatiaux
-|  6 | Rencontre
-
-[intru](https://tvtropes.org/pmwiki/pmwiki.php/Main/DropPod)
-
-
-| d6 | Souvenirs-Souvenirs
-|----|-
-|  1 | A point central, une ancienne connaissance demande un coup demain: ...
-|  2 | A point central, quelqu'un réclame des comptes à un PJ: ...
-|  3 | 
-|  4 | 
-|  5 | 
-|  6 | 
 
 | d6 | Anomalies spatiales
 |----|-
@@ -263,6 +281,7 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 |  5 | 
 |  6 | 
 
+
 | d6 | Débris spatiaux
 |----|-
 |  1 | Une nacelle de sauvetage, vide, mais avec des dizaines de bâtons gravés à l'intérieur, comme pour décompter des jours...
@@ -272,14 +291,15 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 |  5 | 
 |  6 | 
 
+
 | d6 | Rencontre
 |----|-
-|  1 | Vieux Scavenger en panne. Seul dans son vaisseau. Prétend s'être fait enlever par des aliens une fois. 
+|  1 | Vieux Scavenger en panne. Seul dans son vaisseau. Prétend s'être fait enlevé par des aliens une fois. 
 |  2 | Equipage entier en stase. Si inspecté, le mécanisme de stase se révèle disfonctionnel. Le réveil ne s'est pas déclenché comme prévu il y a plusieurs mois et la moitié de l'équipe est déjà mort.
-|  3 | Scavenger appelle à l'aide car il est attaqué
+|  3 | Un Scavenger appelle à l'aide car il est attaqué par des pirates
 |  4 | Course de vaisseaux
 |  5 | Abordage ! Une fausse épave abandonnée sert de piège.
-|  6 | Abordage ! Les pirates tentent de pénétrer directement dans le vaisseau
+|  6 | Contrôle des douanes !
 
 <figure>
   <img src="img/sergey_grechanyuk_02.jpg">
@@ -291,20 +311,7 @@ Si ce ce contrat a déjà été réalisé dans la partie, reportez plutôt le r�
 
 **Réservé au MC !**
 
-Contrats:
-
-|     Description         | Résolution
-|-------------------------|-
-| arme à feu subsonique   | 2d6 à chaque usage -> sur un double il y a un disfonctionnement : 1-2 = surchauffe, l'arme devient si chaude qu'elle traverse le métal ; 3-4 = recul non-amorti, casse le bras de son utilisateur ; 5-6 = détonation suffisante pour fissurer le verre, même dans l'espace !
-| drogue inconnue         | 1d6 une seule fois -> 1 = la drogue ne fait rien ; 2 = le cobaye se met à communiquer dans une langue que lui seul comprend, sans le réaliser ; 3 = l'organisme du cobaye se met à fonctionner 2x plus vite ; 4 = le cobaye a l'impression de voir le futur, mais il s'agit en réalité d'hallucinations ; 5 = le cobaye ne sent plus la douleur ; 6 = le cobaye devient capable de détecter la présence d'or à moins de 100m de lui
-| valise                  | Au MC de déterminer qui est la personne à qui la livrer selon la mission. 1d6 -> 1 = elle n'est pas au rdv ; 2 = un mercenaire va tenter de récupérer la valise avant le rdv ; 3 = même chose, mais en + il a butté le destinataire ; sinon = rien. Si la valise est ouverte, son contenu se détruit et le Caifu Xiaoyin mettra un contrat sur la tête du PJ.
-| additif de carburant    | 1d6 -> 1 = aucun effet notable ; 2 = l'additif encrasse le moteur, qui commence a avoir des râtés ; 3 = l'additif créé un trou dans la coque, par où s'échappe le carburant ; 4 = l'additif accélère discrètement mais efficicement le moteur - cependant, en cas d'entrée dans une atmosphère, il porte à ébulition le réservoir ; 5 = l'additif entraîne des accélérations saccadées de 30s ; 6 = le moteur s'emballe, impossible de l'arrêter par des moyens standards !
-| virus informatique      | Au MC de déterminer de quel ordinateur il s'agit. Cela peut-être l'ordinateur d'une station spatiale, celui d'un drone, celui - personnel - d'un riche négociant...
-| prélèvement peau & sang | Au MC de déterminer qui est la personne. De manière générale c'est un responsable hiérarchique. Suggestions : 1 = chef de la sécurité ; 2 = directeur scientifique ; 3 = 
-| caféine de synthèse     | 1d6 nuits sans sommeil, puis tombe en catatonie, à un moment inopportun et sans prévenir, pour 24h
-| cargaison secrète       | 
-
-Effet inconnu du PJ:
+Cachoterie inconnue du PJ :
 
 | {2d6} | Description
 |-------|-
@@ -315,14 +322,18 @@ Effet inconnu du PJ:
 |  3-5  | 
 |  3-6  | 
 
-Autres:
 
-|     Description         | Résolution
+| Contrat bonus           | Détails & mauvaises surprises
 |-------------------------|-
-| cancer de l'espace      | 
-| aventure au port        | 
-| nano-gale               | 
-| enfant de salaud        | 
+| Arme à feu subsonique   | 2d6 à chaque usage, sur un double il y a un disfonctionnement : ~~⚀~~ / ~~⚁~~ → surchauffe, l'arme devient si chaude qu'elle traverse le métal ; ~~⚂~~ / ~~⚃~~ → recul non-amorti, casse le bras de son utilisateur ; ~~⚄~~ / ~~⚅~~ → détonation suffisante pour fissurer le verre, même dans l'espace !
+| Drogue inconnue         | 1d6 une seule fois : ~~⚀~~ la drogue ne fait rien ; ~~⚁~~ le cobaye se met à communiquer dans une langue que lui seul comprend, sans le réaliser ; ~~⚂~~ l'organisme du cobaye se met à fonctionner deux fois plus vite ; ~~⚃~~ le cobaye a l'impression de voir le futur, mais il s'agit en réalité d'hallucinations ; ~~⚄~~ le cobaye ne sent plus la douleur ; ~~⚅~~ le cobaye devient capable de détecter les formes de vie humaines & xénos à moins de 100m de lui
+| Additif de carburant    | 1d6 à chaque long voyage ou prise de vitesse : ~~⚀~~ aucun effet notable ; ~~⚁~~ l'additif encrasse le moteur, qui commence a avoir des râtés ; ~~⚂~~ l'additif créé un trou dans la coque, par où s'échappe le carburant ; ~~⚃~~ l'additif accélère discrètement mais efficacement le moteur - cependant, en cas d'entrée dans une atmosphère, il porte à ébulition le réservoir ; ~~⚄~~ l'additif entraîne des accélérations saccadées de 30s ; ~~⚅~~ le moteur s'emballe, impossible de l'arrêter par des moyens standards !
+| Cargaison secrète       | 1d6 détermine ce qu'il se passe lors de la transaction : ~~⚀~~ personne n'est  au rdv ; ~~⚁~~ un mercenaire va tenter de récupérer la valise avant le rdv ; ~~⚂~~ même principe, mais il se fait passer pour le destinataire après l'avoir éliminé ; sinon tout se passe bien. \
+|                         | En réalité il s'agit : ~~⚀~~de drogue d'origine pharmacomédicale ; ~~⚁~~de données confidentielles cryptées, impliquants des gros bonnets pour corruption ; ~~⚂~~d'un migrant ; ~~⚃~~d'un criminel recherché ; ~~⚄~~d'un animal dont l'espèce est éteinte ; ~~⚅~~ d'un xénomorphe.
+| Prélèvement peau & sang | Cible : ~~⚀~~ / ~~⚁~~ un scientifique dont le cadavre flotte dans la prochaine épave cible des PJs ; ~~⚃~~ / ~~⚂~~ un xénomorphe "inofensif" dans la prochaine épave cible des PJs ; ~~⚄~~ le chef des concurrents des PJs durant leur prochaine mission ; ~~⚅~~ un des autres membres d'équipage.
+| Plug & Play             | Objectif : la salle des serveurs ~~⚀~~ d'une station essence spatiale ; ~~⚁~~ d'un poste des douanes ; ~~⚂~~ d'une casse spatiale sous la coupe de la mafia ; ~~⚃~~ d'un spatio-port commercial ; ~~⚄~~ / ~~⚅~~ d'une épave. \
+|                         | Effet de l'insertion de la clef : ~~⚀~~coupure de courant générale dans la station / le vaisseau ; ~~⚁~~ vol de données confidentielles ; ~~⚂~~ introduction d'un virus, un cheval de troie, dans le système ; ~~⚃~~ les systèmes de sécurité du lieu se mettent à tirer sur tout ce qui bouge ; ~~⚄~~ un détournement massif d'argent qui force le lieu a fermer ses portes ; ~~⚅~~ l'intrusion informatique est détectée !
+
 
 <figure>
   <img src="img/fd_side_back_lit02_by_2buiart-d7bwx6s.jpg">
@@ -331,11 +342,6 @@ Autres:
 
 
 # Scenario : Avis de peremption sur magenta48
-
-<figure>
-  <img src="img/papillons.jpg">
-  <figcaption><a href="http://vonnowak.com/?p=21194"><cite>Of Butterflies & Astronauts</cite></a> de Markus Nowak, réalisé avec Blender & Photoshop</figcaption>
-</figure>
 
 Ceci est une mission pour [Scavengers](http://awarestudios.blogspot.fr/2014/01/scavengers.html).
 
@@ -348,7 +354,7 @@ D'après un indic chez leur constructeur OMEGACORP - le filet de sécurité de m
 ## Menaces
 
 - anomalie: artefact xénomorphe qui change tout en glace en présence de CO2
-- concurrents: déjà sur place, sont venu pour un échange -> rançon d'une cargaison de boarx volés qui ne va pas bien se passer
+- concurrents: déjà sur place, sont venu pour un échange → rançon d'une cargaison de boarx volés qui ne va pas bien se passer
   * d'un côté, côté docks de commerce, Damian Nyourk, propriétaire des boarx et gangster retord. Il est officiellement accompagné de 2 hommes de main, mais 4 autres se sont infiltrés dans le vaisseau
   * de l'autre, côté docks miniers, Omar Doolin et son clan, contrebandiers loyaux mais brutaux
 
@@ -524,5 +530,24 @@ body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; }
 figcaption { font-size: x-small; text-align: center; }
-table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; } td { padding: 5px; border-top: 1px solid #ddd; } tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
+table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
+td { padding: 5px; border-top: 1px solid #ddd; }
+tr > td:first-child { font-weight: bold; width: 2rem; }
+tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
+
+#contrats-bonus th:first-child { width: 10rem; text-align: center; }
+
+.float-left {
+    float: left;
+    max-width: 50%;
+    margin-right: 1rem;
+}
+.float-right {
+    float: right;
+    max-width: 50%;
+    margin-left: 1rem;
+}
+.floats-clear {
+    clear: both;
+}
 </style>

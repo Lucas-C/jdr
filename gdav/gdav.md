@@ -2,13 +2,11 @@
 - playtest #3
 - com' sur:
   * [x] https://www.500nuancesdegeek.fr
-  * [ ] https://www.casusno.fr
-  * [ ] http://lesateliersimaginaires.com/forum/index.php
-  * [ ] http://www.silentdrift.net/forum/index.php
-  * [ ] http://www.subasylum.com/Antoniobay/viewforum.php
+  * [x] http://www.taverneproduction.com/forum/
+  * [x] https://www.casusno.fr
+  * [ ] http://www.subasylum.com/Antoniobay/viewforum.php?f=3
 - à Noël demander conseils mise en page à tante Murielle
-- make a 2 columns PDF -> "page-break-inside: avoid" does not work on images...
-- si besoin: 5 badges -> https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
+- 5 badges à utiliser si besoin: https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
 - envisager publi & print-on-demande sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
 
@@ -405,7 +403,7 @@ Un énorme **MERCI** à mes relecteurs & _playtesteurs_ :
 Matthieu, Simon, Cédric, Henri, Thomas.
 Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sans vos précieux retours !
 
-Mes inspirations notables : [PsiRun](https://chezsoi.org/lucas/blog/tag/psirun.html) de Meguey Baker pour sa table de résolution géniale;
+Mes inspirations notables : [Psi*Run](https://chezsoi.org/lucas/blog/tag/psirun.html) de Meguey Baker pour sa table de résolution géniale;
 les [jeux de rôle monopage](http://troplongpaslu.fr) pour la profusion de table aléatoires;
 le manga _Berserk_ ainsi que les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_ pour l'univers que j'avais initialement en tête pour le jeu.
 
@@ -521,7 +519,6 @@ h2 { line-height: 1.2; font-size: 2em; }
 h3 { line-height: 1.2; font-size: 1.5em; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
 img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
-@media print { .on-new-page { page-break-before: always; } }
 
 .block-centered { display: block; margin: 0 auto; }
 .limited-width { max-width: 60rem; margin: 2.5rem auto; }
@@ -571,6 +568,7 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
     content: 'Tables aléatoires';
 }
 
+@media print { .on-new-page { page-break-before: always; } }
 /* Optimisation manuelle de la mise en page PDF: */
 #deroulement-de-la-partie, #flashbacks { page-break-before: always; }
 </style>
