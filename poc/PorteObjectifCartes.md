@@ -170,7 +170,7 @@ body { line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; t
 h1, h2, h3 { line-height: 1.2; }
 h1 { text-align: center; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
-img { display: block; margin: 0 auto; max-width: 100%; }
+img { display: block; margin: 0 auto; max-width: 100%; page-break-before: always; }
 table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; } td { padding: 5px; border-top: 1px solid #ddd; }
 @media print { .on-new-page { page-break-before: always; } }
 

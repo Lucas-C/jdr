@@ -518,7 +518,7 @@ h2, h3, h4 { font-family: FFF_Tusj; }
 h2 { line-height: 1.2; font-size: 2em; }
 h3 { line-height: 1.2; font-size: 1.5em; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
-img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
+img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; page-break-before: always; }
 
 .block-centered { display: block; margin: 0 auto; }
 .limited-width { max-width: 60rem; margin: 2.5rem auto; }

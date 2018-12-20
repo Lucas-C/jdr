@@ -175,7 +175,7 @@ h1 {
     margin: 0 auto;
 }
 body > section { max-width: 80rem; margin: 0 auto; position: relative; }
-img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; }
+img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; page-break-before: always; }
 table { border-spacing: 0; border-collapse: collapse; table-layout: fixed; }
 h2, thead { font-family: GabrieleL; font-size: 1rem; margin: .4rem 0; }
 td, th { padding: .2rem; }
