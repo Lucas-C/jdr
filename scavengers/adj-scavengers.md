@@ -2,7 +2,8 @@
 - relire +puces / contact des PJs
 - ajouter license & noms relecteurs
 - correction orthographique
-- virer artworks non CC
+- tutoiement / vouvoiement ?
+- demander autorisation artistes pour illus non CC + CC ND Cosmic Oddity ou les virer
 - ? ajouter schema représentant quand utiliser quelle table dans une partie
 Icones:
   * https://game-icons.net/delapouite/originals/solar-system.html
@@ -11,6 +12,7 @@ Icones:
   * https://game-icons.net/delapouite/originals/spaceship.html ?
 - article blog:
   + premier jeu PbtA auquel j'ai joué !
+  + rpg-bonhomme sheet
   + https://bloodntongue.bandcamp.com/album/spaceship-graveyard
   + chartopia tables
     * https://chartopia.d12dev.com/en/chart/2769/
@@ -45,12 +47,14 @@ comme [Mothership](http://www.tuesdayknightgames.com/mothership/) de Sean McCoy 
 Cette aide de jeu contient:
 - quelques éléments de [description de votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#anomalies-nauchoresques),
 afin de donner une âme au plus fidèle compagnon de route des Scavengers
+- des [_playbooks_ & TOCs](#playbooks-tocs) pour vos personnages
 - une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour varier vos interprétations de personnages
 - des [cachoteries](#cachoteries) de mission, incluant des [contrats bonus](#contrats-bonus)
 - et enfin des [imprévus de voyages](#imprevus-de-voyage) listant des rebondissements aléatoires,
 certains tendant vers l'[horreur cosmique](#horreur-cosmique)
 
-Pour les anglophones, je recommande également chaudement les tables d10 créées par la communauté Discord Mothership [#hive-mind](https://chezsoi.org/lucas/blog/mothership-hive-mind.html).
+Pour les anglophones interesséx par toujours plus d'inspirations pour ce genre d'univers de jeu,
+je vous recommande également chaudement les tables d10 créées par la communauté Discord Mothership [#hive-mind](https://chezsoi.org/lucas/blog/mothership-hive-mind.html).
 
 
 ## Dessine-moi un vaisseau
@@ -83,7 +87,7 @@ Ou choissisez une catégorie, et une anomalie dedans.
 
 | d66| Type d'anomalie    | Description
 |----|--------------------|-
-| 11 | bricolage          | « Ouais, je me suis retrouvé à court de cables alors j'ai branché la machine à café en coupe-circuit du système d'éclairage. Faut juste que t'attendes qu'il ait fini de décanter pour te connecter à l'Extranet. »
+| 11 | bricolage          | « Ouais, je me suis retrouvé à court de cables alors j'ai branché la machine à café en coupe-circuit du système d'éclairage. Faut juste que t'attendes qu'il ait fini de décanter pour te connecter à l'Hypernet. »
 | 12 | bricolage          | Une poignée de porte a été remplacée par une vieille pince à vis solidement accrochée au pignon de la serrure.
 | 13 | bricolage          | Un panneau de contrôle entier dans le cockpit a été remplacé par une plaque de tôle lisse. Comme tout le reste de la pièce est recouvert de diodes et de boutons, ce panneau vierge est plutôt suspect...
 | 14 | bricolage          | Le réfrigérateur est en réalité une nacelle de secours. Il a une réserve d'oxygène et doit probablement être toujours fonctionnel.
@@ -106,19 +110,204 @@ Ou choissisez une catégorie, et une anomalie dedans.
 | 43 | paranormal         | A chaque fois que le vaisseau atterrit, quelle que soit l'heure, il attire des chats. Parfois ils se faufilent à l'intérieur pour chaparder un truc. Vous ouvrez un compartiment, il y a un chat qui y dort. La lumière saute, vous vérifiez la prise, et c'est un chat qui l'a débranché.
 | 44 | paranormal         | Une nuit par semaine une collection de rats morts, cafards et petits oiseaux est arrangée en trophé devant la porte du capitaine. Le scanner n'indique la présence d'aucun chat à bord.
 | 45 | paranormal         | Les occupants du vaisseau ont une chance sur 6 à chaque fois qu'ils s'endorment de faire des rêves étranges où ils sont les anciens occupants du vaisseau, il y a bien longtemps. Parfois ces rêves incluent des batailles spatiales. Ils se réveillent ensuite dans un endroit différent du vaisseau : près du réacteur en position méditative, prostré dans un casier, assis à un poste de pilotage...
-| 46 | paranormal         | Le fenêtre dans la pièce de vie montre toujours une magnifique vue de l'espace. Même à terre.
+| 46 | paranormal         | La fenêtre dans la pièce de vie montre toujours une magnifique vue de l'espace. Même à terre.
 | 51 | armement           | « Pourquoi est-ce qu'on a un missile nucléaire dans une boîte en plomb au niveau de la 2e tourelle ?? » « Le siège du poste de tir a pêté en plein combat, patron. Il a dit qu'il avait pris la première caisse qu'il a pu trouver pour le remplacer. »
 | 52 | armement           | « Un ancien pilote a planqué tout un paquet d'armes à travers tout le vaisseau. On en découvre constamment, et généralement lorsqu'on reçoit un client dans le vaisseau. »
 | 53 | armement           | Les kits de secours ne contiennent que des armes à feu chargées. Par paranoïa ou fatalisme. Ils n'ont qu'une munition pour éviter toute mutinerie.
-| 54 | ordinateur de bord | « Suis mon conseil : ne parle pas à l'ordinateur de bord. Jamais, si possible, mais surtout, surtout, ne lui dit rien de personnel. Il a l'air normal au début, mais il devient rapidement familier et flippant, et il te déclare sa flamme et là ça pare COMPLÈTEMENT en vrille et il t'espionne à travers les caméras de sécurité, il te chuchote des choses quand tu dors ou il vérouille le sas quand tu essaie de sortir du vaisseau... »
-| 55 | ordinateur de bord | La commande d'auto-destruction est activée par la voix via un mot très commun (sugestions: "vaisseau", "xénomorphe", "station"...). Impossible de le changer. L'auto-destruction peut être annulée vocalement dans les 5 secondes suivant l'activation, après il reste 1min pour la désactiver manuellement dans le cockpit.
-| 56 | ordinateur de bord | « L'ordinateur de bord fonctionne avec un ancien OS que personne ne connait. La langue ressemble à du grec ancien. Toute tentative de s'en débarasser a échoué. Lorsqu'on croit l'avoir éradiqué de tous les disques durs, il se réinstalle quelque part ailleurs sur ce foutu vaisseau. Une fois, à terre, un ingénieur avait formatté TOUS les appareils du vaisseau, pour finalement se rendre compte, trop tard, qu'il restait un backup dans la machine à café. Mais bon dieu, pourquoi est-ce qu'elle était connectée à l'ordinateur de bord ?? Et sérieusement, qu'est-ce que c'est que ce Windows 95 ? »
+| 54 | ordinateur de bord | La commande d'auto-destruction est activée par la voix via un mot très commun (sugestions: "vaisseau", "xénomorphe", "station"...). Impossible de le changer. L'auto-destruction peut être annulée vocalement dans les 5 secondes suivant l'activation, après il reste 1min pour la désactiver manuellement dans le cockpit.
+| 55 | ordinateur de bord | « L'ordinateur de bord fonctionne avec un ancien OS que personne ne connait. La langue ressemble à du grec ancien. Toute tentative de s'en débarasser a échoué. Lorsqu'on croit l'avoir éradiqué de tous les disques durs, il se réinstalle quelque part ailleurs sur ce foutu vaisseau. Une fois, à terre, un ingénieur avait formatté TOUS les appareils du vaisseau, pour finalement se rendre compte, trop tard, qu'il restait un backup dans la machine à café. Mais bon dieu, pourquoi est-ce qu'elle était connectée à l'ordinateur de bord ?? Et sérieusement, qu'est-ce que c'est que ce Windows 95 ? »
+| 56 | autre              | Un arbre xeno a poussé le long du réacteur puis s'est développé à travers les parois d'une partie du vaisseau. Il ressemble à un chêne très clasique mais est capable de pousser sur du métal et en l'absence d'oxygène. Plusieurs de ses branches noueuses et son feuillage aux couleurs changeantes selon la saison sont visibles à l'extérieur de la coque.
 | 61 | autre              | « L'odeur ? Ah oui. On a essayé de planquer un psi dans un comportiment caché une fois... Il a eu une sorte de crise lors du déphasage et il s'est explosé la tête. Littéralement. On a viré le corps et nettoyé autant qu'on pouvait, mais l'odeur ne veut pas partir. »
 | 62 | autre              | Le vaisseau contient l'_unique et dernière porte de téléportation_ connue d'un réseau en comportant autrefois des milliers. Elle a l'air en parfait état de fonctionnement, mais sa console indique être en liaison avec une autre porte quelque part, et personne n'ose l'utiliser...
 | 63 | autre              | La gravité artificielle suit un léger gradient; le poids des occupants varie de plus ou moins 30kg entre l'avant et l'arrière du vaisseau.
 | 64 | autre              | Cachée dans une enfractuosité au-dessus d'une couchette est cachée une photo d'une espèce xénomorphe. L'équipage soupçonne qu'il s'agit d'une photo pornographique mais l'anatomie incompréhensible de l'espèce qui y figure rend tout verdict définitif impossible.
 | 65 | autre              | Durant les sauts en hyperespace des rais de lumière filtrent constamment à travers la coque, même dans les coins les plus sombres de la galaxie. Parfois, on entend presque des voix.
 | 66 | autre              | La salle de vie principale se retourne à 180° toutes les 12 heures. L'équipage s'est adapté en installant un filet de sécurité et en soudant tous les meubles au sol / au plafond.
+
+
+## Playbooks & TOCs
+Voici quelques _playbooks_ minimalistes fortement inspirés ce ceux d'_Apocalypse World_,
+pour proposer aux joueurs quelques actions supplémentaires et plus d'opportunités de gagner de l'XP.
+
+<!-- Design resources:
+- lien PDF Apocalypse World VF: http://bah.editions.over-blog.com/pages/Apocalypse_World-6685272.html
+VO: http://apocalypse-world.com/ApocalypseWorldBasicRefbook2ndEd.pdf
+- https://buriedwithoutceremony.com/little-games/simple-world
+- http://www.story-games.com/forums/discussion/18311/apocalypse-world-writing-playbooks
+- https://nerdwerds.blogspot.com/2017/08/apocalypse-world-actual-playbooks.html
+-->
+
+Tous les joueurs qui le souhaitent peuvent tout d'abord tirer au hasard un TOC :
+
+|  1d6  | Trouble Obsessionnel Compulsif
+|-------|-
+| ~~⚀~~ | **maniaque du rangement** : sait exactement où tout se situes sur son vaisseau, mais est très inconfortable (-1 aux jets) dès que quelque chose traine ou n'est pas placé au bon endroit.
+| ~~⚁~~ | dans l'espace, est **constamment accroché par un cable de sécurité** à une paroi. Se déplace toujours comme sur une _via ferrata_, en basculant un par un ses mousquetons de rivets en crochets d'arrimage.
+| ~~⚃~~ | **ne supporte pas le silence**, écoute de la musique partout, tout le temps.
+| ~~⚂~~ | **ne supporte pas l'obscurité** et porte systématiquement des LEDs sur ses vêtements, ainsi que plusieurs lampes de poche sur elle / lui.
+| ~~⚄~~ | **ne fait pas confiance aux systèmes informatiques** et prévoie donc toujours une solution "manuelle" pour activer toutes les fonctions du vaisseau. Et au passage se débrouille très mal avec les systèmes informatiques.
+| ~~⚅~~ | a toujours **le visage caché** par un masque à oxygène, un casque, des lunettes de pilotes, etc. Prétend que c'est pour protéger ses yeux des rayons solaires et ses voies respiratoires des micro particules.
+
+Les joueurs gagnent +1 XP par mission où ils ont utilisé leur TOC pour **mettre leur personnage en difficulté**.
+
+Ensuite, si vous décidez d'utiliser les _playbooks_ ci-dessous, proposez à vos joueurs de choisir un de ces archétypes
+à la création de leur personnage.
+
+### VETERAN PACIFISTE
+
+Tu as participé à une sale guerre. Peut-être que tu n'étais pas dans le camp des gagnants.
+Peut-être as-tu réalisé que ton camp n'était pas le plus moralement éthique.
+En tout cas tu as acquis un sacré sang froid, une tripotée de cauchemars récurrents et désormais les militaires te donnent de l'urticaire.
+
+**Progression**: +1 XP à chaque fois que tu arranges pacifiquement une situation tendue avec des PNJs : concurrents, contacts, authorités, civils...
++2 XP si à la fin de la mission il/elle(s) te sont redevables.
+
+**Actions**: Choisis-en 3 parmis les suivantes.
+Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+
+#### FAIRE LE POINT
+**Quand tu fais le point sur une situation tendue ou que tu évalues tes options**,
+lance 2 dés + **Vif**. Sur un succès, tu peux poser des questions au MC.
+Si tu agis en prenant la réponse du MC en considération, tu reçois +1 au prochain jet.
+Sur 10+, tu peux poser 3 questions. Sur 7-9, 1 seule :
+- quelle est ma meilleure échappatoire / entrée / manière de le contourner ? 
+- quel adversaire me semble le moins dangereux ? 
+- quel adversaire est mon plus gros problème ? 
+- à quoi devrais-je faire attention ? 
+- où se trouve réellement mon adversaire ? 
+- qui a l’avantage ici ? 
+
+#### SOINS D'URGENCE
+**Quand tu tentes de stabiliser une blessure que vient de recevoir une personnage**,
+lance 2 dés + **Fin**. Sur 7-9, choisis 1 option ci-dessous. Sur 10+, choisis-en 2 :
+- le moniteur de santé du personnage s'améliore d'un cran
+- le personnage reprend connaissance
+- le personnage peut se déplacer ou être transporté sans risque
+
+Ajoutes **+1** à ton jet si tu disposes d'un kit de premiers soins.
+
+En cas d'échec, la situation impose que tu restes à côté du personnage pendant plusieurs minutes,
+pour compresser une plaie / lui faire un massage cardiaque / le maintenir éveillé même s'il délire.
+
+#### AS DU PILOTAGE
+**Quand tu réalises une manoeuvre spatiale délicate avec ton vaisseau**,
+ajoute **+1** à ton jet pour la _Jouer en finesse_. En cas de réussite, tu as ces options supplémentaires au choix :
+- en conséquence, des vaisseaux adverses se percutent ou se tirent dessus
+- si cette manoeuvre était préparatoire à une autre action, celle-ci bénéficie d'un bonus de **+2**
+
+En cas d'échec, ton vaisseau subit une avarie handicapante.
+
+Être un _as du pilotage_ permet également d'avoir un bonus de **+1** en cas de _décollage urgent_.
+
+#### SELF-DEFENSE
+**Quand quelqu'un te menace d'une arme, tente de te ligoter ou de t'attaquer au corps à corps**,
+lance 2 dés + **Dur**. Sur 7-9, au choix, tu l'immobilises ou tu le désarmes.
+Sur 10+, au choix, tu lui prends son arme ou il perd conscience, assomé ou suffoqué.
+En cas d'échec, il te voit venir et est plus rapide : _risque ta santé_ ou prend une _Condition_.
+
+#### CANARDER
+**Quand tu te serts d'armes à feu** ou leurs équivalents spatiaux,
+ajoute **+1** à ton jet pour _utiliser la manière forte_. En cas de réussite, tu as ces options supplémentaires au choix,
+et tu peux en sélectionner une de plus :
+- tu impressionnes, effrayes ou désarçonnes tes ennemis, qui reculent ou restent en retrait
+- tu couvres quelqu'un (ce peut être toi-même), lui permettant de se déplacer sans risque d'être touché dans une fusillade
+- tu touches un composant électronique ou un système de survie qui entraine une avarie de vaisseau ou une fuite d'air
+
+
+### CONTREBANDIER ROUBLARD
+
+**Progression**: +1 XP à chaque fois que tu arnaques / pièges / ruses avec un PNJ : concurrents, contacts, authorités, civils...
++2 XP s'ils ne se rendent même pas compte que tu es responsable.
+
+**Actions**: Choisis-en 3 parmis les suivantes.
+Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+
+#### BARATINEUR
+pour gagner du temps
+TODO: liste à choix
+
+#### CERNER QUELQU’UN 
+**Quand tu essaies de cerner quelqu’un lors d’une situation tendue**, 
+lance 2 dés + **Fin**. Pendant que tu discutes avec lui, tu peux lui poser 3 questions (sur 10+) ou 1 seule (sur 7-9) :
+- est-ce que ton personnage dit la vérité ?
+- qu’est-ce que ton personnage ressent vraiment ? 
+- qu’est-ce que ton personnage a l’intention de faire ? 
+- qu’est-ce que ton personnage espère que je fasse ? 
+- comment est-ce que je peux convaincre ton personnage de \_\_\_ ? 
+
+#### LES YEUX SUR LA PORTE
+annonce ton échappatoire et lance les 2 dés + **Vif**.
+Sur 10+ tu es déjà parti. Sur 7-9 tu restes ou tu pars, mais si tu pars ça te coûte :
+tu laisses quelque chose derrière toi ou tu prends quelque chose avec toi, et le MC te 
+dit quoi. Sur un échec, tu es pris sur le fait, un pied dehors et un pied dedans.
+
+#### REPUTATION
+**Quand tu rencontres quelqu’un qui t’a l’air important**, tu peux, si tu veux, lancer 2 dés + nombre de contacts.
+Sur une réussite, il a entendu parler de toi, et tu décides de ce qu’il a entendu : le MC le fera réagir en conséquences.
+Sur 10+ tu prends un +1 au prochain jet quand tu auras affaire à lui.
+Sur un échec, il a entendu parler de toi, mais le MC décide de ce qu’il a entendu.
+
+#### CYBER-CB
+**Quand tu demandes un conseil via ton holo-casque sur le forum #scavenge de l'Hypernet**,
+demande à cette communauté de vieux baroudeurs ce qu’ils pensent être la meilleure chose à faire, et le MC te le dit.
+Si tu suis le conseil, prends +1 à tous les jets de dés que tu fais en le suivant.
+Si tu suis les conseils mais que malgré tout tu n’atteins pas ton objectif, + 1XP.
+
+**Quand tu souhaites te renseigner sur quelqu'un, un lieu ou techno**,
+lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question :
+- How are they doing? what’s up with them? 
+- What or who do they love best?
+- Who do they know, like and/or trust?
+- When next should I expect to see them?
+- How could I get to them, physically or emotionally?
+
+Sur un échec, demande toujours mais des personnes concernées sont informées de tes recherches...
+
+
+### EXPLORATEUR TECHNOPHILE
+
+**Progression**: +1 XP à chaque fois que tu découvres un lieu / artefact / alien inconnu.
++2 XP si tu ramènes des preuves de cette découverte à Point Central. Et pas juste des photos, personne n'y fait plus confiance.
+
+**Actions**: Choisis-en 3 parmis les suivantes.Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+
+#### AFFINITE XENO
+**Quand tu entres en contact avec un alien ou que tu manipules un artefact xeno**,
+lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question : 
+
+
+#### NATIF DE L'ESPACE
+A toujours vécu dans un vaisseau, et connait tous leurs recoins et astuces de fonctionnement.
+
+#### BRICOLAGE DE FORTUNE
+TODO: liste à choix
+
+#### MECANO
+**Quand tu te retranches dans ton atelier et que tu te consacres à bricoler quelque chose ou à étudier un truc quelconque**,
+décide quoi et dis le au MC. Le MC te répondra « d’accord, pas de problème, mais... » puis entre 1 à 4 de ces trucs ci-dessous : 
+- ça va prendre des heures / des jours / des semaines / des mois de boulot 
+- tu vas devoir choper / construire / réparer / comprendre \_\_\_ avant
+- tu vas avoir besoin de \_\_\_ pour te filer un coup de main 
+- ça va te coûter une tétrachiée de pièces détachées 
+- le mieux que tu puisses faire c’est une version merdique, faiblarde et bancale 
+- ça veut dire prendre de gros risques pour ton vaisseau, ton équpage et toi-même 
+- tu vas devoir ajouter \_\_\_ à ton atelier avant 
+- tu vas devoir tenter le coup plusieurs / des douzaines / des centaines de fois
+- tu vas devoir démonter et récupérer les pièces de \_\_\_ pour le faire
+
+Le MC peut les articuler avec un «et» ou se sentir magnanime et ajouter un «ou».
+
+#### LES CHOSES ME PARLENT
+**Dès que tu manipules ou que tu examines un objet intéressant**, lance 2 dés + **Fin**.
+Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question : 
+- qui s’est servi de cet objet en dernier avant moi ? 
+- qui a fabriqué ça ? 
+- si quelqu’un a eu des émotions fortes près de cet objet, lesquelles ? 
+- quels mots a-t-on prononcés récemment près de cet objet ? 
+- qu’est-ce qu’on a fait à, ou avec cet objet récemment ? 
+- qu’est-ce qui cloche dans cet objet et comment je peux l’arranger ? 
+
+Sur un échec, fais comme si tu avais ouvert ton cerveau au maelström et que tu avais raté le jet.
 
 
 ## Compas d'humeurs
@@ -207,7 +396,7 @@ Si la cachoterie implique un autre membre de l'équipage, déterminez aléatoire
 Transmettez ensuite secrètement votre résultat au MC, **sauf** si la table indique de ne pas le faire dans la 2e colonne.
 Dans ce cas, dites au MC que vous avez obtenu un 5 ou un 6.
 
-|  2d6  | Transmettre le vrai résultat au MC ? | Description
+|  d66  | Transmettre le vrai résultat au MC ? | Description
 |-------|--------------------------------------|-
 |  1-*  |                  Oui                 | Votre contact vous propose de gagner 2-cash en accomplissant un contrat bonus. Le MC vous donnera le détail de l'offre en se reportant à la section suivante.
 |  2-1  |                  Non                 | Vous avez appris que durant cette mission votre frère (ou soeur) sera de la partie. Vous ne vous parlez plus beaucoup, mais la famille c'est sacré pour vous. À vous de décider de quel PNJ il s'agit au cours de la partie, et de l'aider du mieux que vous pouvez. Même si ça ça doit se faire au détriment de votre équipage...
@@ -294,28 +483,32 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 | 3     | Rencontre
 | 4-5-6 | Pas d'imprévu
 
+<figure>
+  <img src="img/sergey_grechanyuk_02.jpg">
+  <figcaption>Illustration de <a href="https://www.artstation.com/artist/grekgss">Sergey Grechanyuk</a></figcaption>
+</figure>
 
 | d6 | Anomalies spatiales
 |----|-
-|  1 | Vaisseau frôle une pieuvre spatiale alien -> swap PJs vers la gauche autour de la table
+|  1 | Le vaisseau des PJs frôle une pieuvre spatiale alien géante -> swap PJs vers la gauche autour de la table. L'effet s'inversera si les PJs retrouvent le mollusque
 |  2 | Le vaisseau traverse une zone qui empêche les systèmes électriques de fonctionner. Plus aucune lumière n'y passe : plongés dans l'obscurité totale, les PJs vont devoir trouver une solution pour en sortir... puis naviguer à tâtons, au petit-bonheur-la-chance (suggestion : propulsion au gaz)
 |  3 | De la pluie. Qui s'intensifie. Si les PJs ne décampent pas rapidement, ils réaliseront que la force exercée par cette averse dévie le vaisseau, qui finira par être projeté contre une surface invisible et molle. La pluie ne traversant pas cette membrane, le vaisseau finira sous l'eau. Mais est-ce vraiment de l'eau ? Après un certain temps, un fort courant déplace le vaisseau, pour finalement le projeter dans le vide de l'espace.
-|  4 | 
-|  5 | 
-|  6 | 
+|  4 | Peu après que les instruments de navigation deviennent incohérents, les PJs réalisent qu'ils sont bloqués dans une boucle spatiale de la taille d'un petit système solaire : ils ne cessent de revenir au même endroits. 1d6 autres vaisseaux sont égalements piégés. S'ils sont malins, ils réaliseront qu'au centre de cette "poche" se situe un nuage de déchets largué par un autre vaisseau, dans lesquels flotte un artefact alien ramené par un archéologue de ce navire. Mais comment le désactiver ?
+|  5 | L'interaction gravitionnelle devient plus intense dans la zone, plaquant tous les objets et personnes à bord du vaisseau aux parois, et faisant même basculer certains interrupteurs entrainant l'extinction du moteur.
+|  6 | Soudain, quelque chose à l'autre bout de la galaxie déclenche un phénomène colossal : d'intenses rayons lumineux se forment entre **toutes** les étoiles, deux à deux, de l'univers entier. Et forcément cet entrelac de rayons est très dense là où navigue le vaisseau des PJs, les forçant à une manoeuvre d'urgence pour ne pas finir grillé, puis à reconsidérer leur plan de vol tant il est désormais impossible de voyager en ligne droite... Peut-être vont-ils d'ailleurs manquer de carburant, et une leur seul recours sera une trajectoire catapultée, réacteurs éteints, autour de plusieurs planètes ?
 
 
 | d6 | Débris spatiaux
 |----|-
 |  1 | Une nacelle de sauvetage, vide, mais avec des dizaines de bâtons gravés à l'intérieur, comme pour décompter des jours...
 |  2 | Une torpille autoguidée se réveille soudain de sa torpeur centenaire, et se dirige vers le vaisseau des PJs 
-|  3 | Le vaisseau traverse une pluie d'astéroïdes : le simulateur de gravité est HS, et le niveau d'oxygène commence à baisser dramatiquement...
-|  4 | 
-|  5 | 
-|  6 | Les débris d'une sonde Voyager, et plus particulièrement [son disque d'or](https://fr.wikipedia.org/wiki/Voyager_Golden_Record) d'une valeur... inestimable. Qu'est-ce que les PJs décideront d'en faire ?
+|  3 | Le vaisseau est heurté par une pluie de petis astéroïdes magnétiques. Alors que le vaisseau se recouvre de roches se fixant à et enfonçant la coque par magnétisme, le simulateur de gravité est HS, et le niveau d'oxygène commence à baisser dramatiquement...
+|  4 | Un champ de glaçons. Des monticules d'eau glacée, allant du petit flocon à l'iceberg, dérivant à vitesses variables dans le vide. En cas d'impact, certains explosent et se révèlent conteni de l'hélium.
+|  5 | Les débris d'une sonde Voyager, et plus particulièrement [son disque d'or](https://fr.wikipedia.org/wiki/Voyager_Golden_Record) d'une valeur... inestimable. Qu'est-ce que les PJs décideront d'en faire ?
+|  6 | Des coques vides de mollusques gigantesques, par dizaines
 
 
-| d6 | Rencontre
+| d6 | Rencontres
 |----|-
 |  1 | Le vaisseau des PJs est assaillis de message d'appel à l'aide : un vaisseau-prison dans la zone vient d'éjecter ses centaines de capsules de survie. Dilemne : les PJs vu l'autonomie des capsules, les PJs n'auront pas le temps de tous les sauver, et leur vaisseau n'a pas de toutes façons pas assez de resources pour autant de passagers.
 |  2 | Equipage entier en stase. Si inspecté, le mécanisme de stase se révèle disfonctionnel. Le réveil ne s'est pas déclenché comme prévu il y a plusieurs mois et la moitié de l'équipe est déjà mort.
@@ -324,15 +517,13 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 |  5 | Abordage ! Des pirates attaques le vaisseau des PJs pendant qu'ils explorent une épave abandonnée servant d'appat.
 |  6 | Contrôle des douanes !
 
-<figure>
-  <img src="img/sergey_grechanyuk_02.jpg">
-  <figcaption>Illustration de <a href="https://www.artstation.com/artist/grekgss">Sergey Grechanyuk</a></figcaption>
-</figure>
-
 
 ### Horreur cosmique
 
-![](img/dao7mee-1d5a04c0-df8a-49e0-91c2-7e4a3e0c930b.jpg)
+<figure>
+  <img src="img/dao7mee-1d5a04c0-df8a-49e0-91c2-7e4a3e0c930b.jpg">
+  <figcaption><a href="https://www.deviantart.com/lieutenant-america/art/Cosmic-Oddity-645328166">Cosmic Oddity</a> de Lieutenant-America - <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></figcaption>
+</figure>
 
 + après sauvetage du navire, leur capitaine les invite à festoyer pour les remercier, et en profiter pour négocier de l'échange de marchandises
 + 2 membres de l'équipage ont l'air louche vis-à-vis des PJs. A y regarder de plus prêt, ils sont terrifiés...
@@ -395,12 +586,13 @@ h1 {
     font-size: 4rem;
     margin: 2rem auto;
 }
-h2, h3, h4 {
-    font-family: Cornerstone;
+h2, h3, h4, h5 { font-family: Cornerstone; }
+h2, h3 {
     border-bottom: 4px solid black;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
 }
+h4, h5 { margin: 2rem 0 -1rem; }
 h2:first-child { border: none; text-align: center; }
 s { text-decoration: none; font-size: 2rem; line-height: .9; vertical-align: bottom; }
 body > section { max-width: 60rem; margin: 0 auto; }
