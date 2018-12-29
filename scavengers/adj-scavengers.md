@@ -3,7 +3,7 @@
 - ajouter license & noms relecteurs
 - correction orthographique
 - tutoiement / vouvoiement ?
-- demander autorisation artistes pour illus non CC + CC ND Cosmic Oddity ou les virer
+- demander autorisation artistes pour 4 illus Sergey Grechanyuk + 1 illus Markus Nowak + Cosmic Oddity ou les virer
 - ? ajouter schema représentant quand utiliser quelle table dans une partie
 Icones:
   * https://game-icons.net/delapouite/originals/solar-system.html
@@ -27,7 +27,7 @@ Icones:
 
 <figure>
   <img src="img/mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg">
-  <figcaption>Illustration de <a href="http://www.mitchmalloyart.com">Mitchell Malloy/</a> <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+  <figcaption><a href="https://mitchmalloy.artstation.com/projects/rKbBO">Eclipse Phase - Unwinding</a> de Mitchell Malloy - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
 Ceci est une aide de jeu pour **Scavengers**, le jeu de rôle de Grégory Pogorzelski :<br>
@@ -82,6 +82,11 @@ Tout plein d'idées de symptômes étranges que peut présenter la vieille carca
 Elles proviennent toutes de ce thread 4chan : <http://suptg.thisisnotatrueending.com/archive/26937160/>.
 Pour encore plus d'idées inspirées : <https://4archive.org/board/tg/thread/48337300>
 
+<figure>
+  <img src="img/imperial_cruiser_by_jimhatama_d4lii0v-pre.jpg">
+  <figcaption><a href="https://www.deviantart.com/jimhatama/art/Imperial-cruiser-277999807">Imperial cruiser</a> de JimHatama - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
+
 <u>Utilisation :</u> 1d6 pour les dizaines et un autre pour les unités.
 Ou choissisez une catégorie, et une anomalie dedans.
 
@@ -126,6 +131,7 @@ Ou choissisez une catégorie, et une anomalie dedans.
 
 
 ## Playbooks & TOCs
+
 Voici quelques _playbooks_ minimalistes fortement inspirés ce ceux d'_Apocalypse World_,
 pour proposer aux joueurs quelques actions supplémentaires et plus d'opportunités de gagner de l'XP.
 
@@ -154,6 +160,11 @@ Ensuite, si vous décidez d'utiliser les _playbooks_ ci-dessous, proposez à vos
 à la création de leur personnage.
 
 ### VETERAN PACIFISTE
+
+<figure>
+  <img src="img/anti_materiel_by_fernand0fc_dbkaqcc-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Anti-Materiel-699220956">Anti-Materiel</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+</figure>
 
 Tu as participé à une sale guerre. Peut-être que tu n'étais pas dans le camp des gagnants.
 Peut-être as-tu réalisé que ton camp n'était pas le plus moralement éthique.
@@ -184,20 +195,21 @@ lance 2 dés + **Fin**. Sur 7-9, choisis 1 option ci-dessous. Sur 10+, choisis-e
 - le personnage reprend connaissance
 - le personnage peut se déplacer ou être transporté sans risque
 
-Ajoutes **+1** à ton jet si tu disposes d'un kit de premiers soins.
+Ajoute **+1** à ton jet si tu disposes d'un kit de premiers soins.
 
 En cas d'échec, la situation impose que tu restes à côté du personnage pendant plusieurs minutes,
 pour compresser une plaie / lui faire un massage cardiaque / le maintenir éveillé même s'il délire.
 
 #### AS DU PILOTAGE
 **Quand tu réalises une manoeuvre spatiale délicate avec ton vaisseau**,
-ajoute **+1** à ton jet pour la _Jouer en finesse_. En cas de réussite, tu as ces options supplémentaires au choix :
+ajoute **+1** à ton jet pour la _Jouer en finesse_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
 - en conséquence, des vaisseaux adverses se percutent ou se tirent dessus
 - si cette manoeuvre était préparatoire à une autre action, celle-ci bénéficie d'un bonus de **+2**
 
 En cas d'échec, ton vaisseau subit une avarie handicapante.
 
-Être un _as du pilotage_ permet également d'avoir un bonus de **+1** en cas de _décollage urgent_.
+Être un _as du pilotage_ permet également d'avoir un bonus de **+1** au jet en cas de _décollage urgent_.
 
 #### SELF-DEFENSE
 **Quand quelqu'un te menace d'une arme, tente de te ligoter ou de t'attaquer au corps à corps**,
@@ -207,14 +219,19 @@ En cas d'échec, il te voit venir et est plus rapide : _risque ta santé_ ou pre
 
 #### CANARDER
 **Quand tu te serts d'armes à feu** ou leurs équivalents spatiaux,
-ajoute **+1** à ton jet pour _utiliser la manière forte_. En cas de réussite, tu as ces options supplémentaires au choix,
-et tu peux en sélectionner une de plus :
+ajoute **+1** à ton jet pour _utiliser la manière forte_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
 - tu impressionnes, effrayes ou désarçonnes tes ennemis, qui reculent ou restent en retrait
 - tu couvres quelqu'un (ce peut être toi-même), lui permettant de se déplacer sans risque d'être touché dans une fusillade
 - tu touches un composant électronique ou un système de survie qui entraine une avarie de vaisseau ou une fuite d'air
 
 
 ### CONTREBANDIER ROUBLARD
+
+<figure>
+  <img src="img/a_dude_with_power_armor_by_fernand0fc_dblnmmd-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/A-dude-with-power-armor-701502277">A dude with power armor</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+</figure>
 
 **Progression**: +1 XP à chaque fois que tu arnaques / pièges / ruses avec un PNJ : concurrents, contacts, authorités, civils...
 +2 XP s'ils ne se rendent même pas compte que tu es responsable.
@@ -265,6 +282,11 @@ Sur un échec, demande toujours mais des personnes concernées sont informées d
 
 
 ### EXPLORATEUR TECHNOPHILE
+
+<figure>
+  <img src="img/moebius_retro_space_helmet_by_fernand0fc_dchrbh5-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Moebius-retro-space-helmet-755422169">Moebius retro space helmet</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+</figure>
 
 **Progression**: +1 XP à chaque fois que tu découvres un lieu / artefact / alien inconnu.
 +2 XP si tu ramènes des preuves de cette découverte à Point Central. Et pas juste des photos, personne n'y fait plus confiance.
@@ -325,7 +347,7 @@ Et puis vivre dans une boîte de conserve au milieu du vide spatial 24h/24, 7j/7
 
 <figure>
   <img src="img/papillons.jpg">
-  <figcaption><a href="http://vonnowak.com/?p=21194"><cite>Of Butterflies & Astronauts</cite></a> de Markus Nowak, réalisé avec Blender & Photoshop</figcaption>
+  <figcaption><a href="http://vonnowak.com/?p=21194"><cite>Of Butterflies & Astronauts</cite></a> de Markus Nowak</figcaption>
 </figure>
 
 **La règle:** en début de séance, les joueurs qui le souhaitent peuvent lancer 1d6 dans la table suivante.
@@ -392,6 +414,11 @@ certains connus du MC et d'autres non.
 Entre chaque mision, lorsque les PJs sont à Point Central, chaque joueur tire 2d6 de couleurs différentes, un pour les dizaines et un pour les unités, puis consulte la table ci-dessous.
 Surtout, restez impassible ! Ne laissez rien transparaître dans vos réactions.
 
+<figure>
+  <img src="img/sergey-grechanyuk-work-02-08-sm.jpg">
+  <figcaption><a href="https://www.artstation.com/artwork/L6Yrl">Smugglers Harbor</a> de Sergey Grechanyuk</figcaption>
+</figure>
+
 Si la cachoterie implique un autre membre de l'équipage, déterminez aléatoirement avec 1d6 de qui il s'agit.
 Transmettez ensuite secrètement votre résultat au MC, **sauf** si la table indique de ne pas le faire dans la 2e colonne.
 Dans ce cas, dites au MC que vous avez obtenu un 5 ou un 6.
@@ -414,8 +441,8 @@ Dans ce cas, dites au MC que vous avez obtenu un 5 ou un 6.
 En fin de mission, tout le monde met cartes sur table, et révèle quelle cachoterie il avait éventuellement tiré.
 
 <figure>
-  <img src="img/colie_wertz_00.jpg">
-  <figcaption>Illustration de <a href="http://coliewertz.com/">Colie Wertz</a></figcaption>
+  <img src="img/sergey-grechanyuk-rise-and-shine.jpg">
+  <figcaption><a href="https://www.artstation.com/artwork/L89Gw">Rise and shine</a> de Sergey Grechanyuk</figcaption>
 </figure>
 
 
@@ -435,7 +462,7 @@ une femme avec un symbiote xéno, visiblement en détresse / mourante, confie au
 
 <figure>
   <img src="img/sergey_grechanyuk_01.jpg">
-  <figcaption>Illustration de <a href="https://www.artstation.com/artist/grekgss">Sergey Grechanyuk</a></figcaption>
+  <figcaption><a href="https://www.artstation.com/artwork/g5NDx">Kepler</a> de Sergey Grechanyuk</figcaption>
 </figure>
 
 
@@ -456,8 +483,8 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 |  3-6  | "Skynet" : pour une raison inconnue, l'IA basique du vaisseau a classifié le PJ comme "présence hostile". À la moindre opportunité, elle va tenter de l'éliminer : ~~⚀~~ ouverture de sas alors que la combinaison du PJ est ouverte ; ~~⚁~~ fermeture brutale de porte anti-incendie sur son passage ; ~~⚂~~ le verre d'eau servi à la machine est en fait... de l'acide, puis lorsqu'il/elle le remarque, la gravité artificielle se coupe ; ~~⚃~~ le harnais / ceinture de sécurité du PJ refuse de s'enclencher ; ~~⚅~~ la gravité s'incline alors que le PJ est dans une très longue coursive ; ~~⚄~~ une alarme réveille le PJ dans son sommeil - et seulement lui - pour le conduire en salle des machines dans une section où la radioactivité est très importante, sans qu'il n'y ait le moindre incident technique réel.
 
 <figure>
-  <img src="img/fd_side_back_lit02_by_2buiart-d7bwx6s.jpg">
-  <figcaption>Artwork pour Titanfall 2 par <a href="https://www.artstation.com/artist/hethe"> Hethe Srodawa</a></figcaption>
+  <img src="img/helmet_concepts_by_akol3850_d8xlw40-fullview.png">
+  <figcaption><a href="https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128">Helmet concepts</a> de akol3850 - <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a></figcaption>
 </figure>
 
 | Contrat bonus           | Détails & mauvaises surprises
@@ -483,10 +510,6 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 | 3     | Rencontre
 | 4-5-6 | Pas d'imprévu
 
-<figure>
-  <img src="img/sergey_grechanyuk_02.jpg">
-  <figcaption>Illustration de <a href="https://www.artstation.com/artist/grekgss">Sergey Grechanyuk</a></figcaption>
-</figure>
 
 | d6 | Anomalies spatiales
 |----|-
@@ -497,6 +520,10 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 |  5 | L'interaction gravitionnelle devient plus intense dans la zone, plaquant tous les objets et personnes à bord du vaisseau aux parois, et faisant même basculer certains interrupteurs entrainant l'extinction du moteur.
 |  6 | Soudain, quelque chose à l'autre bout de la galaxie déclenche un phénomène colossal : d'intenses rayons lumineux se forment entre **toutes** les étoiles, deux à deux, de l'univers entier. Et forcément cet entrelac de rayons est très dense là où navigue le vaisseau des PJs, les forçant à une manoeuvre d'urgence pour ne pas finir grillé, puis à reconsidérer leur plan de vol tant il est désormais impossible de voyager en ligne droite... Peut-être vont-ils d'ailleurs manquer de carburant, et une leur seul recours sera une trajectoire catapultée, réacteurs éteints, autour de plusieurs planètes ?
 
+<figure>
+  <img style="filter: contrast(.85)" src="img/sergey_grechanyuk_02.jpg">
+  <figcaption><a href="https://www.artstation.com/artwork/o9BZq">Abandoned Space Ship</a> de Sergey Grechanyuk</figcaption>
+</figure>
 
 | d6 | Débris spatiaux
 |----|-
@@ -507,6 +534,10 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 |  5 | Les débris d'une sonde Voyager, et plus particulièrement [son disque d'or](https://fr.wikipedia.org/wiki/Voyager_Golden_Record) d'une valeur... inestimable. Qu'est-ce que les PJs décideront d'en faire ?
 |  6 | Des coques vides de mollusques gigantesques, par dizaines
 
+<figure>
+  <img src="img/d1cqogk-a9b1b1ad-6633-466b-b093-23a4ca86a4d0.jpg">
+  <figcaption><a href="https://www.deviantart.com/jimhatama/art/Fireworks-81866324">Fireworks</a> de JimHatama - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
 
 | d6 | Rencontres
 |----|-
@@ -523,6 +554,16 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 <figure>
   <img src="img/dao7mee-1d5a04c0-df8a-49e0-91c2-7e4a3e0c930b.jpg">
   <figcaption><a href="https://www.deviantart.com/lieutenant-america/art/Cosmic-Oddity-645328166">Cosmic Oddity</a> de Lieutenant-America - <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></figcaption>
+</figure>
+
+<figure>
+  <img src="img/say_cheese_by_free4fireyoutube_d9zxc1w-pre.jpg">
+  <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Say-Cheese-604537412">Say Cheese</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
+
+<figure>
+  <img src="img/warm_up_doodle___generic_monster_portrait___by_free4fireyoutube_db8sd0g-pre.jpg">
+  <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Warm-up-Doodle-Generic-monster-portrait-679888096">Generic monster portrait</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
 + après sauvetage du navire, leur capitaine les invite à festoyer pour les remercier, et en profiter pour négocier de l'échange de marchandises
@@ -558,6 +599,11 @@ banging her hand against the bulkhead in desperation, there's a weird movement i
 - Pincée de mysticisme / dieux sanglants de l'univers
   membres d'un équipage maudit, certains amnésiques, accomplissent la volonté de ...
   cultes, rituels...
+
+<figure>
+  <img src="img/d3bkj3c-62b60bbc-e3dc-487d-837c-07ed83aecaf6.jpg">
+  <figcaption><a href="https://www.deviantart.com/jimhatama/art/ISS-Whitebird-200832168">ISS Whitebird</a> de JimHatama - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
 
 <style type="text/css">
 @font-face {
@@ -599,10 +645,12 @@ body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 40rem; page-break-before: always; }
 figcaption { font-size: x-small; text-align: center; }
-table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
+table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; margin: 0 auto; }
 td { padding: 5px; border-top: 1px solid #ddd; }
 tr > td:first-child { font-weight: bold; width: 2rem; }
 tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
+
+#playbooks-tocs figure { max-width: 20rem; float: left; margin: 1rem; }
 
 #cachoteries table thead { text-align: center; }
 
