@@ -4,7 +4,6 @@
 - correction orthographique
 - tutoiement / vouvoiement ?
 - demander autorisation artistes pour 4 illus Sergey Grechanyuk + 1 illus Markus Nowak + Cosmic Oddity ou les virer
-- ? ajouter schema représentant quand utiliser quelle table dans une partie
 Icones:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
@@ -12,7 +11,7 @@ Icones:
   * https://game-icons.net/delapouite/originals/spaceship.html ?
 - article blog:
   + premier jeu PbtA auquel j'ai joué !
-  + rpg-bonhomme sheet
+  + rpg-bonhomme sheet -> https://chezsoi.org/lucas/jdr/rpg-bonhomme/?layout=Scavengers&name=yuri_pashlov
   + https://bloodntongue.bandcamp.com/album/spaceship-graveyard
   + chartopia tables
     * https://chartopia.d12dev.com/en/chart/2769/
@@ -149,8 +148,8 @@ Tous les joueurs qui le souhaitent peuvent tout d'abord tirer au hasard un TOC :
 |-------|-
 | ~~⚀~~ | **maniaque du rangement** : sait exactement où tout se situes sur son vaisseau, mais est très inconfortable (-1 aux jets) dès que quelque chose traine ou n'est pas placé au bon endroit.
 | ~~⚁~~ | dans l'espace, est **constamment accroché par un cable de sécurité** à une paroi. Se déplace toujours comme sur une _via ferrata_, en basculant un par un ses mousquetons de rivets en crochets d'arrimage.
-| ~~⚃~~ | **ne supporte pas le silence**, écoute de la musique partout, tout le temps.
-| ~~⚂~~ | **ne supporte pas l'obscurité** et porte systématiquement des LEDs sur ses vêtements, ainsi que plusieurs lampes de poche sur elle / lui.
+| ~~⚂~~ | **ne supporte pas le silence**, écoute de la musique partout, tout le temps.
+| ~~⚃~~ | **ne supporte pas l'obscurité** et porte systématiquement des LEDs sur ses vêtements, ainsi que plusieurs lampes de poche sur elle / lui.
 | ~~⚄~~ | **ne fait pas confiance aux systèmes informatiques** et prévoie donc toujours une solution "manuelle" pour activer toutes les fonctions du vaisseau. Et au passage se débrouille très mal avec les systèmes informatiques.
 | ~~⚅~~ | a toujours **le visage caché** par un masque à oxygène, un casque, des lunettes de pilotes, etc. Prétend que c'est pour protéger ses yeux des rayons solaires et ses voies respiratoires des micro particules.
 
@@ -162,8 +161,8 @@ Ensuite, si vous décidez d'utiliser les _playbooks_ ci-dessous, proposez à vos
 ### VETERAN PACIFISTE
 
 <figure>
-  <img src="img/anti_materiel_by_fernand0fc_dbkaqcc-fullview.jpg">
-  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Anti-Materiel-699220956">Anti-Materiel</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+  <img src="img/a_dude_with_power_armor_by_fernand0fc_dblnmmd-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/A-dude-with-power-armor-701502277">A dude with power armor</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
 </figure>
 
 Tu as participé à une sale guerre. Peut-être que tu n'étais pas dans le camp des gagnants.
@@ -173,13 +172,34 @@ En tout cas tu as acquis un sacré sang froid, une tripotée de cauchemars récu
 **Progression**: +1 XP à chaque fois que tu arranges pacifiquement une situation tendue avec des PNJs : concurrents, contacts, authorités, civils...
 +2 XP si à la fin de la mission il/elle(s) te sont redevables.
 
-**Actions**: Choisis-en 3 parmis les suivantes.
+**Actions**: Choisis-en 3 parmis celles décrites ci-dessous.
 Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+
+<p class="floats-clear"></p>
+
+#### AS DU PILOTAGE
+**Quand tu réalises une manoeuvre spatiale délicate avec ton vaisseau**,
+ajoute **+1** à ton jet pour la _jouer en finesse_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
+- en conséquence, des vaisseaux adverses se percutent ou se tirent dessus
+- si cette manoeuvre était préparatoire à une autre action, celle-ci bénéficie d'un bonus de **+2**
+
+En cas d'échec, ton vaisseau subit une avarie handicapante.
+
+Être un _as du pilotage_ permet également d'avoir un bonus de **+1** au jet en cas de _décollage urgent_.
+
+#### CANARDER
+**Quand tu te sers d'armes à feu** ou leurs équivalents spatiaux,
+ajoute **+1** à ton jet pour _utiliser la manière forte_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
+- tu impressionnes, effrayes ou désarçonnes tes ennemis, qui reculent ou restent en retrait
+- tu couvres quelqu'un (ce peut être toi-même), lui permettant de se déplacer sans risque d'être touché dans une fusillade
+- tu touches un composant électronique ou un système de survie qui entraine une avarie de vaisseau ou une fuite d'air
 
 #### FAIRE LE POINT
 **Quand tu fais le point sur une situation tendue ou que tu évalues tes options**,
 lance 2 dés + **Vif**. Sur un succès, tu peux poser des questions au MC.
-Si tu agis en prenant la réponse du MC en considération, tu reçois +1 au prochain jet.
+Si tu agis en prenant la réponse du MC en considération, tu reçois **+1** au prochain jet.
 Sur 10+, tu peux poser 3 questions. Sur 7-9, 1 seule :
 - quelle est ma meilleure échappatoire / entrée / manière de le contourner ? 
 - quel adversaire me semble le moins dangereux ? 
@@ -187,6 +207,12 @@ Sur 10+, tu peux poser 3 questions. Sur 7-9, 1 seule :
 - à quoi devrais-je faire attention ? 
 - où se trouve réellement mon adversaire ? 
 - qui a l’avantage ici ? 
+
+#### SELF-DEFENSE
+**Quand quelqu'un te menace d'une arme, tente de te ligoter ou de t'attaquer au corps à corps**,
+lance 2 dés + **Dur**. Sur 10+, au choix, tu l'immobilises ou tu le désarmes.
+Sur 7-9, au choix, tu le désarmes mais il t'immobilise, ou bien tu évites juste son coup / son tir en esquivant / plongeant à couvert.
+En cas d'échec, il te voit venir et est plus rapide : _risque ta santé_ ou prend une _Condition_.
 
 #### SOINS D'URGENCE
 **Quand tu tentes de stabiliser une blessure que vient de recevoir une personnage**,
@@ -200,48 +226,35 @@ Ajoute **+1** à ton jet si tu disposes d'un kit de premiers soins.
 En cas d'échec, la situation impose que tu restes à côté du personnage pendant plusieurs minutes,
 pour compresser une plaie / lui faire un massage cardiaque / le maintenir éveillé même s'il délire.
 
-#### AS DU PILOTAGE
-**Quand tu réalises une manoeuvre spatiale délicate avec ton vaisseau**,
-ajoute **+1** à ton jet pour la _Jouer en finesse_.
-En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
-- en conséquence, des vaisseaux adverses se percutent ou se tirent dessus
-- si cette manoeuvre était préparatoire à une autre action, celle-ci bénéficie d'un bonus de **+2**
-
-En cas d'échec, ton vaisseau subit une avarie handicapante.
-
-Être un _as du pilotage_ permet également d'avoir un bonus de **+1** au jet en cas de _décollage urgent_.
-
-#### SELF-DEFENSE
-**Quand quelqu'un te menace d'une arme, tente de te ligoter ou de t'attaquer au corps à corps**,
-lance 2 dés + **Dur**. Sur 7-9, au choix, tu l'immobilises ou tu le désarmes.
-Sur 10+, au choix, tu lui prends son arme ou il perd conscience, assomé ou suffoqué.
-En cas d'échec, il te voit venir et est plus rapide : _risque ta santé_ ou prend une _Condition_.
-
-#### CANARDER
-**Quand tu te serts d'armes à feu** ou leurs équivalents spatiaux,
-ajoute **+1** à ton jet pour _utiliser la manière forte_.
-En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
-- tu impressionnes, effrayes ou désarçonnes tes ennemis, qui reculent ou restent en retrait
-- tu couvres quelqu'un (ce peut être toi-même), lui permettant de se déplacer sans risque d'être touché dans une fusillade
-- tu touches un composant électronique ou un système de survie qui entraine une avarie de vaisseau ou une fuite d'air
-
 
 ### CONTREBANDIER ROUBLARD
 
 <figure>
-  <img src="img/a_dude_with_power_armor_by_fernand0fc_dblnmmd-fullview.jpg">
-  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/A-dude-with-power-armor-701502277">A dude with power armor</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
+  <img src="img/anti_materiel_by_fernand0fc_dbkaqcc-fullview.jpg">
+  <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Anti-Materiel-699220956">Anti-Materiel</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
 </figure>
 
-**Progression**: +1 XP à chaque fois que tu arnaques / pièges / ruses avec un PNJ : concurrents, contacts, authorités, civils...
-+2 XP s'ils ne se rendent même pas compte que tu es responsable.
+Le secret dans ce métier, c'est que les épaves que vous pillez n'ont pas de valeur intrinsèque.
+Ce qui compte vraiment, c'est que ce que vous en ramenez intéresse vos acheteurs.
+Et plus le butin **leur** paraît précieux, mieux c'est pour toi.
+Tant mieux si c'est enjolivé. Parfait s'il y a de la compétition pour la marchandise, ça fait monter les prix.
+Et tant pis si ton receleur réalise a posteriori qu'il s'est fait rouler, tant que ta réputation n'en souffre pas.
 
-**Actions**: Choisis-en 3 parmis les suivantes.
+**Progression**: +1 XP à chaque fois que tu arnaques / pièges / ruses avec un PNJ : concurrents, contacts, authorités, civils...
++2 XP s'ils ne se rend même pas compte que tu es responsable.
+
+**Actions**: Choisis-en 3 parmis celles décrites ci-dessous.
 Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
 
+<p class="floats-clear"></p>
+
 #### BARATINEUR
-pour gagner du temps
-TODO: liste à choix
+**Quand tu cherches à gagner du temps ou à embobiner quelqu'un**,
+lance 2 dés + **Fin**. Sur 7-9, choisis 1 option ci-dessous. Sur 10+, choisis-en 2 :
+- la personne n'est plus attentive à ce qui se passe autour d'elle
+- la personne se sent redevable envers toi
+- la personne crois sans réserves une chose au choix que tu lui racontes sur toi
+- tu insuffles à la personne le sentiment que tu souhaites : amusé, inquiet, méfiant ou en colère cotre quelqu'un...
 
 #### CERNER QUELQU’UN 
 **Quand tu essaies de cerner quelqu’un lors d’une situation tendue**, 
@@ -252,8 +265,24 @@ lance 2 dés + **Fin**. Pendant que tu discutes avec lui, tu peux lui poser 3 qu
 - qu’est-ce que ton personnage espère que je fasse ? 
 - comment est-ce que je peux convaincre ton personnage de \_\_\_ ? 
 
+#### CYBER-CB
+**Quand tu demandes un conseil via ton holo-casque sur le forum #scavenge de l'Hypernet**,
+demande à cette communauté de vieux baroudeurs ce qu’ils pensent être la meilleure chose à faire, et le MC te le dit.
+Si tu suis le conseil, prends **+1** à tous les jets de dés que tu fais en le suivant.
+Si tu suis les conseils mais que malgré tout tu n’atteins pas ton objectif, +1 XP.
+
+**Quand tu souhaites te renseigner sur quelqu'un, un lieu ou une techno via le forum #scavenge de l'Hypernet**,
+lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question :
+- Est-ce/il/elle dangereux ? Si oui pourquoi ?
+- Qu'est-ce qui se trame de louche à ce/son propos ?
+- Est-ce que ça/il/elle peut me rapporter du cash ? Si oui comment ?
+- Comment l'approcher ?
+
+Sur un échec, demande toujours mais des personnes concernées sont informées de tes recherches...
+
 #### LES YEUX SUR LA PORTE
-annonce ton échappatoire et lance les 2 dés + **Vif**.
+Tu es toujours sur le qui-vive, et tu as toujours à l'esprit une solution pour prendre la poudre d'escampette.
+**Quand tu souhaites disparaître en vitesse d'une situation tendue**, annonce ton échappatoire et lance 2 dés + **Vif**.
 Sur 10+ tu es déjà parti. Sur 7-9 tu restes ou tu pars, mais si tu pars ça te coûte :
 tu laisses quelque chose derrière toi ou tu prends quelque chose avec toi, et le MC te 
 dit quoi. Sur un échec, tu es pris sur le fait, un pied dehors et un pied dedans.
@@ -261,24 +290,8 @@ dit quoi. Sur un échec, tu es pris sur le fait, un pied dehors et un pied dedan
 #### REPUTATION
 **Quand tu rencontres quelqu’un qui t’a l’air important**, tu peux, si tu veux, lancer 2 dés + nombre de contacts.
 Sur une réussite, il a entendu parler de toi, et tu décides de ce qu’il a entendu : le MC le fera réagir en conséquences.
-Sur 10+ tu prends un +1 au prochain jet quand tu auras affaire à lui.
+Sur 10+ tu prends un **+1** au prochain jet quand tu auras affaire à lui.
 Sur un échec, il a entendu parler de toi, mais le MC décide de ce qu’il a entendu.
-
-#### CYBER-CB
-**Quand tu demandes un conseil via ton holo-casque sur le forum #scavenge de l'Hypernet**,
-demande à cette communauté de vieux baroudeurs ce qu’ils pensent être la meilleure chose à faire, et le MC te le dit.
-Si tu suis le conseil, prends +1 à tous les jets de dés que tu fais en le suivant.
-Si tu suis les conseils mais que malgré tout tu n’atteins pas ton objectif, + 1XP.
-
-**Quand tu souhaites te renseigner sur quelqu'un, un lieu ou techno**,
-lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question :
-- How are they doing? what’s up with them? 
-- What or who do they love best?
-- Who do they know, like and/or trust?
-- When next should I expect to see them?
-- How could I get to them, physically or emotionally?
-
-Sur un échec, demande toujours mais des personnes concernées sont informées de tes recherches...
 
 
 ### EXPLORATEUR TECHNOPHILE
@@ -288,21 +301,41 @@ Sur un échec, demande toujours mais des personnes concernées sont informées d
   <figcaption><a href="https://www.deviantart.com/fernand0fc/art/Moebius-retro-space-helmet-755422169">Moebius retro space helmet</a> de Fernand0FC - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
 </figure>
 
+Ton truc à toi, c'est les mécanismes.
+Electriques, photoniques, fossiles, high tech, xénos...
+Plus c'est étrange et ingénieux, plus tu prends ton pied.
+Ta soif de découvertes te pousse à accepter des contrats toujours plus louches et plus risqués aux limites de l'univers connu.
+
 **Progression**: +1 XP à chaque fois que tu découvres un lieu / artefact / alien inconnu.
 +2 XP si tu ramènes des preuves de cette découverte à Point Central. Et pas juste des photos, personne n'y fait plus confiance.
 
-**Actions**: Choisis-en 3 parmis les suivantes.Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+**Actions**: Choisis-en 3 parmis celles décrites ci-dessous. Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+
+<p class="floats-clear"></p>
 
 #### AFFINITE XENO
 **Quand tu entres en contact avec un alien ou que tu manipules un artefact xeno**,
 lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question : 
+- comment ça fonctionne, dans les grandes lignes ?
+- est-ce dangereux ? Si oui pourquoi ?
+- y en a-t-il d'autres ?
 
-
-#### NATIF DE L'ESPACE
-A toujours vécu dans un vaisseau, et connait tous leurs recoins et astuces de fonctionnement.
+Sur un échec, le MC te fait un sale coup.
 
 #### BRICOLAGE DE FORTUNE
-TODO: liste à choix
+**Quand tu cherches à rafistoler ou désactiver un objet ou un système**,
+ajoute **+1** à ton jet pour la _jouer en finesse_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
+- ton bricolage tiendra au moins une heure
+- ton bricolage fonctionnera sans mauvaise suprise de dysfonctionnement
+
+Ajoute **+1** si tu as avec toi ta trousse à outil antigrav massive.
+
+#### PAS DE VELOURS
+**Quand tu cherches à te déplacer discrètement, sans attirer l'attention de quelqu'un ou quelque chose**,
+lance 2 dés + **Vif**. Sur 10+, rien ni personne ne te remarque. Sur 7-9, en continuant tu risques de te faire repérer :
+fais demi-tour maintenant sans être detecté, ou continue en espérant avoir assez de réflexe pour réagir quand tu seras découvert.
+Sur un échec, l'alerte est donnée.
 
 #### MECANO
 **Quand tu te retranches dans ton atelier et que tu te consacres à bricoler quelque chose ou à étudier un truc quelconque**,
@@ -319,17 +352,12 @@ décide quoi et dis le au MC. Le MC te répondra « d’accord, pas de problème
 
 Le MC peut les articuler avec un «et» ou se sentir magnanime et ajouter un «ou».
 
-#### LES CHOSES ME PARLENT
-**Dès que tu manipules ou que tu examines un objet intéressant**, lance 2 dés + **Fin**.
-Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question : 
-- qui s’est servi de cet objet en dernier avant moi ? 
-- qui a fabriqué ça ? 
-- si quelqu’un a eu des émotions fortes près de cet objet, lesquelles ? 
-- quels mots a-t-on prononcés récemment près de cet objet ? 
-- qu’est-ce qu’on a fait à, ou avec cet objet récemment ? 
-- qu’est-ce qui cloche dans cet objet et comment je peux l’arranger ? 
-
-Sur un échec, fais comme si tu avais ouvert ton cerveau au maelström et que tu avais raté le jet.
+#### NATIF DE L'ESPACE
+Tu as vécu toute ta vie dans un vaisseau, et tu connais tous leurs recoins, tous leurs caprices de fonctionnement.
+Ton sens de l'orientation en trois dimensions est imparable, et tu sais toujours parfaitement te situer et retrouver ta direction dans un vaisseau.
+Au besoin tu trouveras toujours une planque dans une coursive, dissmulé derrière un panneau de métal que personne ne pensait amovible.
+De l'intérieur, tu es capable de provoquer des pannes qui prendront des heures à être diagnostiquées pour permettre au vaisseau de repartir.
+Enfin, tu as un bonus de **+1** à tous tes jets de **Dur** pour résister aux pénuries spatiales : de nourriture, de chaleur, d'oxygène, de gravité...
 
 
 ## Compas d'humeurs
@@ -365,24 +393,24 @@ Une occasion idéale pour consulter cette table en partie est lorsqu'un **deuil*
 suite au décès d'un PJ ou d'un PNJ.
 
 ::: float-right
-| 1d6 | Votre attitude en conséquence
-|-----|-
-|   1 | Fuir en avant, être évasif, couper court aux discussions
-|   2 | Être en colère, agressif, chercher un coupable et lui faire payer
-|   3 | Se persuader et persuader les autres que vous êtes un dur à cuire, solide comme un roc
-|   4 | Faire de l'humour, être piquant ou sarcastique
-|   5 | Être obsédé par une mélodie ou fétichiste d'un objet, se trouver une nouvelle passion exotique (japon féodal / western / Égypte...)
-|   6 | Prendre des risques absurdes, tout mettre en jeu dans la balance
+|  1d6  | Votre attitude en conséquence
+|-------|-
+| ~~⚀~~ | Fuir en avant, être évasif, couper court aux discussions
+| ~~⚁~~ | Être en colère, agressif, chercher un coupable et lui faire payer
+| ~~⚂~~ | Se persuader et persuader les autres que vous êtes un dur à cuire, solide comme un roc
+| ~~⚃~~ | Faire de l'humour, être piquant ou sarcastique
+| ~~⚄~~ | Être obsédé par une mélodie ou fétichiste d'un objet, se trouver une nouvelle passion exotique (japon féodal / western / Égypte...)
+| ~~⚅~~ | Prendre des risques absurdes, tout mettre en jeu dans la balance
 :::
 
-| 1d6 | Ce besoin insatisfait qui vous démange
-|-----|-
-|   1 | Explorer de nouveaux lieux, découvrir de mystérieux artefacts et des créatures aliens
-|   2 | Exercer votre liberté, braver les interdits, refuser l'authorité
-|   3 | Être altruiste, transmettre l'espoir, s'assurer qu'il y a une justice
-|   4 | Se détendre, se reposer, prendre du bon temps, profiter avec un peu de légereté
-|   5 | Être nostalgique, revenir sur son passé et clôturer certaines histoires
-|   6 | Être en contact avec la nature, jardiner, être faciné par le cosmos, philosopher
+|  1d6  | Ce besoin insatisfait qui vous démange
+|-------|-
+| ~~⚀~~ | Explorer de nouveaux lieux, découvrir de mystérieux artefacts et des créatures aliens
+| ~~⚁~~ | Exercer votre liberté, braver les interdits, refuser l'authorité
+| ~~⚂~~ | Être altruiste, transmettre l'espoir, s'assurer qu'il y a une justice
+| ~~⚃~~ | Se détendre, se reposer, prendre du bon temps, profiter avec un peu de légereté
+| ~~⚄~~ | Être nostalgique, revenir sur son passé et clôturer certaines histoires
+| ~~⚅~~ | Être en contact avec la nature, jardiner, être faciné par le cosmos, philosopher
 
 
 > Au mieu de la partie, le personnage de Tom, un vieux cosmonaute russe nommé Yuri,
@@ -396,14 +424,14 @@ Côté MC, prennez bonne note de ces besoins insatisfaits pour pouvoir tendre de
 
 Enfin, si vous souhaitez des idées d'éléments de votre passé qui reviennent vous hanter :
 
-| 1d6 | Souvenirs, souvenirs
-|-----|-
-|   1 | Qui t'as appris les ficelles du métier ? Ou à piloter ? Ou à te battre ?
-|   2 | Qui t'es redevable, et pourquoi ? Ou bien est-ce l'inverse ?
-|   3 | Quelle prouesse / situation t'as rendu célèbre un jour ?
-|   4 | Qui t'as tragiquement déçu / trahis / volé ?
-|   5 | Comment ce plan parfait pour gagner plein de cash a mal fini ?
-|   6 | Qui est mort sous tes yeux ?
+|  1d6  | Souvenirs, souvenirs
+|-------|-
+| ~~⚀~~ | Qui t'as appris les ficelles du métier ? Ou à piloter ? Ou à te battre ?
+| ~~⚁~~ | Qui t'es redevable, et pourquoi ? Ou bien est-ce l'inverse ?
+| ~~⚂~~ | Quelle prouesse / situation t'as rendu célèbre un jour ?
+| ~~⚃~~ | Qui t'as tragiquement déçu / trahis / volé ?
+| ~~⚄~~ | Comment ce plan parfait pour gagner plein de cash a mal fini ?
+| ~~⚅~~ | Qui est mort sous tes yeux ?
 
 
 ## Cachoteries
@@ -423,17 +451,17 @@ Si la cachoterie implique un autre membre de l'équipage, déterminez aléatoire
 Transmettez ensuite secrètement votre résultat au MC, **sauf** si la table indique de ne pas le faire dans la 2e colonne.
 Dans ce cas, dites au MC que vous avez obtenu un 5 ou un 6.
 
-|  d66  | Transmettre le vrai résultat au MC ? | Description
-|-------|--------------------------------------|-
-|  1-*  |                  Oui                 | Votre contact vous propose de gagner 2-cash en accomplissant un contrat bonus. Le MC vous donnera le détail de l'offre en se reportant à la section suivante.
-|  2-1  |                  Non                 | Vous avez appris que durant cette mission votre frère (ou soeur) sera de la partie. Vous ne vous parlez plus beaucoup, mais la famille c'est sacré pour vous. À vous de décider de quel PNJ il s'agit au cours de la partie, et de l'aider du mieux que vous pouvez. Même si ça ça doit se faire au détriment de votre équipage...
-|  2-2  |                  Non                 | Lors de votre dernier arrêt à Point Central, _quelque chose_ est rentré en vous. À vous de définir quoi exactement et comment, mais vous allez devoir trouver un xénobiologiste très vite, sans affoler vos coéquipiers...
-|  2-3  |                  Non                 | Vous découvrez un fichier audio d'un médecin sur l'ordinateur de bord, indiquant qu'un autre membre de l'équipage vient d'être diagnostiqué d'un "cancer de l'espace". À vous de définir qui, et de trouver un moment pour aborder le sujet avec elle ou lui durant la partie. Délicat, surtout qu'il n'a pas encore eu le message...
-|  2-4  |                  Non                 | Lors de votre dernier arrêt à Point Central, vous avez échappé par miracle à une mort atroce, grâce à un inconnu qui vous a sauvé en y laissant sa vie. Vous vous êtes juré de rendre la pareille bientôt, pour équilibrer la balance karmique... sans nécesseraiement y laisser la vie. La prochaine fois que quelqu'un est sur le point de mourir, et qu'il ne le mérite pas selon vous, vous donnerez tout ce que vous avez pour le sauver.
-|  2-5  |                  Non                 | Vous avez appris que durant cette mission vous pourriez croiser l'enfant de salaud qui a buté où provoqué la mort d'un de vos proches. À vous de décider de quel PNJ il s'agit au cour de la partie, de déterminer ce qu'il vous a fait, et le moment opportun de le liquider ou de lui faire payer. Pas d'hésitation !
-|  2-6  |                  Non                 | Lors de votre dernier arrêt à Point Central, un de vos contacts vous a appris que vous vous étiez fait voler 1d6-cash... par un de vos coéquipiers ! À vous de décider qui et comment il s'y est pris, mais il ne sait pas que vous avez découvert le pot aux roses. Confrontez-le durant la partie, idéalement lorsque sa vie sera entre vos mains...
-| 3/4-* |                  Oui                 | Vous ne saurez pas ce qui se trame ! Transmettez au MC votre résultat aux dés.
-| 5/6-* |                  Oui                 | Rien. Pas de cachoteries pour vous cette fois-ci ! Comme il faut que vous ayez l'air de lire quelque chose en étant concentré pendant quelques minutes, histoire de semer le doute autour de la table, voici une énigme: le pape en a un mais ne l’utilise pas; ton père en a un et ta mère l’emploi; les nones n’en ont pas besoin; le mari de ton amie en a un aussi et ton amie l’a adopté. Qui suis-je ?
+|  d66          | Transmettre le vrai résultat au MC ? | Description
+|---------------|--------------------------------------|-
+| ~~⚀~~-*       |                  Oui                 | Votre contact vous propose de gagner 2-cash en accomplissant un contrat bonus. Le MC vous donnera le détail de l'offre en se reportant à la section suivante.
+| ~~⚁~~-~~⚀~~   |                  Non                 | Vous avez appris que durant cette mission votre frère (ou soeur) sera de la partie. Vous ne vous parlez plus beaucoup, mais la famille c'est sacré pour vous. À vous de décider de quel PNJ il s'agit au cours de la partie, et de l'aider du mieux que vous pouvez. Même si ça ça doit se faire au détriment de votre équipage...
+| ~~⚁~~-~~⚁~~   |                  Non                 | Lors de votre dernier arrêt à Point Central, _quelque chose_ est rentré en vous. À vous de définir quoi exactement et comment, mais vous allez devoir trouver un xénobiologiste très vite, sans affoler vos coéquipiers...
+| ~~⚁~~-~~⚂~~   |                  Non                 | Vous découvrez un fichier audio d'un médecin sur l'ordinateur de bord, indiquant qu'un autre membre de l'équipage vient d'être diagnostiqué d'un "cancer de l'espace". À vous de définir qui, et de trouver un moment pour aborder le sujet avec elle ou lui durant la partie. Délicat, surtout qu'il n'a pas encore eu le message...
+| ~~⚁~~-~~⚃~~   |                  Non                 | Lors de votre dernier arrêt à Point Central, vous avez échappé par miracle à une mort atroce, grâce à un inconnu qui vous a sauvé en y laissant sa vie. Vous vous êtes juré de rendre la pareille bientôt, pour équilibrer la balance karmique... sans nécesseraiement y laisser la vie. La prochaine fois que quelqu'un est sur le point de mourir, et qu'il ne le mérite pas selon vous, vous donnerez tout ce que vous avez pour le sauver.
+| ~~⚁~~-~~⚄~~   |                  Non                 | Vous avez appris que durant cette mission vous pourriez croiser l'enfant de salaud qui a buté où provoqué la mort d'un de vos proches. À vous de décider de quel PNJ il s'agit au cour de la partie, de déterminer ce qu'il vous a fait, et le moment opportun de le liquider ou de lui faire payer. Pas d'hésitation !
+| ~~⚁~~-~~⚅~~   |                  Non                 | Lors de votre dernier arrêt à Point Central, un de vos contacts vous a appris que vous vous étiez fait voler 1d6-cash... par un de vos coéquipiers ! À vous de décider qui et comment il s'y est pris, mais il ne sait pas que vous avez découvert le pot aux roses. Confrontez-le durant la partie, idéalement lorsque sa vie sera entre vos mains...
+| ~~⚂~~/~~⚃~~-* |                  Oui                 | Vous ne saurez pas ce qui se trame ! Transmettez au MC votre résultat aux dés.
+| ~~⚄~~/~~⚅~~-* |                  Oui                 | Rien. Pas de cachoteries pour vous cette fois-ci ! Comme il faut que vous ayez l'air de lire quelque chose en étant concentré pendant quelques minutes, histoire de semer le doute autour de la table, voici une énigme: le pape en a un mais ne l’utilise pas; ton père en a un et ta mère l’emploi; les nones n’en ont pas besoin; le mari de ton amie en a un aussi et ton amie l’a adopté. Qui suis-je ?
 
 
 **MC** : assurez-vous de prendre systématiquement au moins une personne en apparté à cette phase, pour semer le doute.
@@ -473,14 +501,14 @@ une femme avec un symbiote xéno, visiblement en détresse / mourante, confie au
 Cachoterie inconnue du PJ : si le premier dé transmis par le joueur est un 4, faites monter la sauce mais aucune mauvaise surprise ne couve.
 Si c'est un 3, reportez la valeur du second dé dans cette table :
 
-|  d6   | Description
+|  1d6  | Description
 |-------|-
-|  3-1  | "Lebowski" : un recouvreur de dettes est aux trousses du PJ. Il le traquera jusqu'à trouver une opportunité de le braquer pour le secouer un peu... avant de réaliser que ce n'est pas la bonne personne.
-|  3-2  | "Ein" : le PJ va rencontrer un chien, abandonné sur une épave ou en détresse, qui va se montrer extrèmement affectueux envers lui. Et bien plus intelligent que la moyenne.
-|  3-3  | "Kovacs" : Le PJ est victime d'un vol d'identité. Le prochain scanner / contrôle risque de mal se passer. Va-t-il essayer de retrouver le voleur, ou bien tenter d'obtenir de faux papiers ?
-|  3-4  | "Mimic" : un parasite xénomorphe tente de prendre la place du PJ. Au milieu d'une mission, lorsque le PJ est seul avec un autre PJ, prennez-en le contrôle pour qu'il attaque ce dernier. L'autre PJ réalise alors que ce n'est pas une créature humaine, et le vrai PJ pourra être retrouvé prisonnier dans un cocon dans sa cabine.
-|  3-5  | "Pschit" : lors de sa prochaine sortie en combinaison spatiale, un trou va se former dans son dos. Oui, juste là où il ne peut l'atteindre. "Opération panique" donc, pour que les PJs trouvent une solution d'urgence !
-|  3-6  | "Skynet" : pour une raison inconnue, l'IA basique du vaisseau a classifié le PJ comme "présence hostile". À la moindre opportunité, elle va tenter de l'éliminer : ~~⚀~~ ouverture de sas alors que la combinaison du PJ est ouverte ; ~~⚁~~ fermeture brutale de porte anti-incendie sur son passage ; ~~⚂~~ le verre d'eau servi à la machine est en fait... de l'acide, puis lorsqu'il/elle le remarque, la gravité artificielle se coupe ; ~~⚃~~ le harnais / ceinture de sécurité du PJ refuse de s'enclencher ; ~~⚅~~ la gravité s'incline alors que le PJ est dans une très longue coursive ; ~~⚄~~ une alarme réveille le PJ dans son sommeil - et seulement lui - pour le conduire en salle des machines dans une section où la radioactivité est très importante, sans qu'il n'y ait le moindre incident technique réel.
+| ~~⚀~~ | "Lebowski" : un recouvreur de dettes est aux trousses du PJ. Il le traquera jusqu'à trouver une opportunité de le braquer pour le secouer un peu... avant de réaliser que ce n'est pas la bonne personne.
+| ~~⚁~~ | "Ein" : le PJ va rencontrer un chien, abandonné sur une épave ou en détresse, qui va se montrer extrèmement affectueux envers lui. Et bien plus intelligent que la moyenne.
+| ~~⚂~~ | "Kovacs" : Le PJ est victime d'un vol d'identité. Le prochain scanner / contrôle risque de mal se passer. Va-t-il essayer de retrouver le voleur, ou bien tenter d'obtenir de faux papiers ?
+| ~~⚃~~ | "Mimic" : un parasite xénomorphe tente de prendre la place du PJ. Au milieu d'une mission, lorsque le PJ est seul avec un autre PJ, prennez-en le contrôle pour qu'il attaque ce dernier. L'autre PJ réalise alors que ce n'est pas une créature humaine, et le vrai PJ pourra être retrouvé prisonnier dans un cocon dans sa cabine.
+| ~~⚄~~ | "Pschit" : lors de sa prochaine sortie en combinaison spatiale, un trou va se former dans son dos. Oui, juste là où il ne peut l'atteindre. "Opération panique" donc, pour que les PJs trouvent une solution d'urgence !
+| ~~⚅~~ | "Skynet" : pour une raison inconnue, l'IA basique du vaisseau a classifié le PJ comme "présence hostile". À la moindre opportunité, elle va tenter de l'éliminer : ~~⚀~~ ouverture de sas alors que la combinaison du PJ est ouverte ; ~~⚁~~ fermeture brutale de porte anti-incendie sur son passage ; ~~⚂~~ le verre d'eau servi à la machine est en fait... de l'acide, puis lorsqu'il/elle le remarque, la gravité artificielle se coupe ; ~~⚃~~ le harnais / ceinture de sécurité du PJ refuse de s'enclencher ; ~~⚅~~ la gravité s'incline alors que le PJ est dans une très longue coursive ; ~~⚄~~ une alarme réveille le PJ dans son sommeil - et seulement lui - pour le conduire en salle des machines dans une section où la radioactivité est très importante, sans qu'il n'y ait le moindre incident technique réel.
 
 <figure>
   <img src="img/helmet_concepts_by_akol3850_d8xlw40-fullview.png">
@@ -503,50 +531,50 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 
 À chaque trajet entre deux lieux dans l'espace, le MC peut lancer 1d6 dans cette table:
 
-| d6    | Description
+|  1d6              | Description
+|-------------------|-
+| ~~⚀~~             | Anomalie spatiale
+| ~~⚁~~             | Débris spatiaux
+| ~~⚂~~             | Rencontre
+| ~~⚃~~/~~⚄~~/~~⚅~~ | Pas d'imprévu
+
+
+|  1d6  | Anomalies spatiales
 |-------|-
-| 1     | Anomalie spatiale
-| 2     | Débris spatiaux
-| 3     | Rencontre
-| 4-5-6 | Pas d'imprévu
-
-
-| d6 | Anomalies spatiales
-|----|-
-|  1 | Le vaisseau des PJs frôle une pieuvre spatiale alien géante -> swap PJs vers la gauche autour de la table. L'effet s'inversera si les PJs retrouvent le mollusque
-|  2 | Le vaisseau traverse une zone qui empêche les systèmes électriques de fonctionner. Plus aucune lumière n'y passe : plongés dans l'obscurité totale, les PJs vont devoir trouver une solution pour en sortir... puis naviguer à tâtons, au petit-bonheur-la-chance (suggestion : propulsion au gaz)
-|  3 | De la pluie. Qui s'intensifie. Si les PJs ne décampent pas rapidement, ils réaliseront que la force exercée par cette averse dévie le vaisseau, qui finira par être projeté contre une surface invisible et molle. La pluie ne traversant pas cette membrane, le vaisseau finira sous l'eau. Mais est-ce vraiment de l'eau ? Après un certain temps, un fort courant déplace le vaisseau, pour finalement le projeter dans le vide de l'espace.
-|  4 | Peu après que les instruments de navigation deviennent incohérents, les PJs réalisent qu'ils sont bloqués dans une boucle spatiale de la taille d'un petit système solaire : ils ne cessent de revenir au même endroits. 1d6 autres vaisseaux sont égalements piégés. S'ils sont malins, ils réaliseront qu'au centre de cette "poche" se situe un nuage de déchets largué par un autre vaisseau, dans lesquels flotte un artefact alien ramené par un archéologue de ce navire. Mais comment le désactiver ?
-|  5 | L'interaction gravitionnelle devient plus intense dans la zone, plaquant tous les objets et personnes à bord du vaisseau aux parois, et faisant même basculer certains interrupteurs entrainant l'extinction du moteur.
-|  6 | Soudain, quelque chose à l'autre bout de la galaxie déclenche un phénomène colossal : d'intenses rayons lumineux se forment entre **toutes** les étoiles, deux à deux, de l'univers entier. Et forcément cet entrelac de rayons est très dense là où navigue le vaisseau des PJs, les forçant à une manoeuvre d'urgence pour ne pas finir grillé, puis à reconsidérer leur plan de vol tant il est désormais impossible de voyager en ligne droite... Peut-être vont-ils d'ailleurs manquer de carburant, et une leur seul recours sera une trajectoire catapultée, réacteurs éteints, autour de plusieurs planètes ?
+| ~~⚀~~ | Le vaisseau des PJs frôle une pieuvre spatiale alien géante -> swap PJs vers la gauche autour de la table. L'effet s'inversera si les PJs retrouvent le mollusque
+| ~~⚁~~ | Le vaisseau traverse une zone qui empêche les systèmes électriques de fonctionner. Plus aucune lumière n'y passe : plongés dans l'obscurité totale, les PJs vont devoir trouver une solution pour en sortir... puis naviguer à tâtons, au petit-bonheur-la-chance (suggestion : propulsion au gaz)
+| ~~⚂~~ | De la pluie. Qui s'intensifie. Si les PJs ne décampent pas rapidement, ils réaliseront que la force exercée par cette averse dévie le vaisseau, qui finira par être projeté contre une surface invisible et molle. La pluie ne traversant pas cette membrane, le vaisseau finira sous l'eau. Mais est-ce vraiment de l'eau ? Après un certain temps, un fort courant déplace le vaisseau, pour finalement le projeter dans le vide de l'espace.
+| ~~⚃~~ | Peu après que les instruments de navigation deviennent incohérents, les PJs réalisent qu'ils sont bloqués dans une boucle spatiale de la taille d'un petit système solaire : ils ne cessent de revenir au même endroits. 1d6 autres vaisseaux sont égalements piégés. S'ils sont malins, ils réaliseront qu'au centre de cette "poche" se situe un nuage de déchets largué par un autre vaisseau, dans lesquels flotte un artefact alien ramené par un archéologue de ce navire. Mais comment le désactiver ?
+| ~~⚄~~ | L'interaction gravitionnelle devient plus intense dans la zone, plaquant tous les objets et personnes à bord du vaisseau aux parois, et faisant même basculer certains interrupteurs entrainant l'extinction du moteur.
+| ~~⚅~~ | Soudain, quelque chose à l'autre bout de la galaxie déclenche un phénomène colossal : d'intenses rayons lumineux se forment entre **toutes** les étoiles, deux à deux, de l'univers entier. Et forcément cet entrelac de rayons est très dense là où navigue le vaisseau des PJs, les forçant à une manoeuvre d'urgence pour ne pas finir grillé, puis à reconsidérer leur plan de vol tant il est désormais impossible de voyager en ligne droite... Peut-être vont-ils d'ailleurs manquer de carburant, et une leur seul recours sera une trajectoire catapultée, réacteurs éteints, autour de plusieurs planètes ?
 
 <figure>
   <img style="filter: contrast(.85)" src="img/sergey_grechanyuk_02.jpg">
   <figcaption><a href="https://www.artstation.com/artwork/o9BZq">Abandoned Space Ship</a> de Sergey Grechanyuk</figcaption>
 </figure>
 
-| d6 | Débris spatiaux
-|----|-
-|  1 | Une nacelle de sauvetage, vide, mais avec des dizaines de bâtons gravés à l'intérieur, comme pour décompter des jours...
-|  2 | Une torpille autoguidée se réveille soudain de sa torpeur centenaire, et se dirige vers le vaisseau des PJs 
-|  3 | Le vaisseau est heurté par une pluie de petis astéroïdes magnétiques. Alors que le vaisseau se recouvre de roches se fixant à et enfonçant la coque par magnétisme, le simulateur de gravité est HS, et le niveau d'oxygène commence à baisser dramatiquement...
-|  4 | Un champ de glaçons. Des monticules d'eau glacée, allant du petit flocon à l'iceberg, dérivant à vitesses variables dans le vide. En cas d'impact, certains explosent et se révèlent conteni de l'hélium.
-|  5 | Les débris d'une sonde Voyager, et plus particulièrement [son disque d'or](https://fr.wikipedia.org/wiki/Voyager_Golden_Record) d'une valeur... inestimable. Qu'est-ce que les PJs décideront d'en faire ?
-|  6 | Des coques vides de mollusques gigantesques, par dizaines
+|  1d6  | Débris spatiaux
+|-------|-
+| ~~⚀~~ | Une nacelle de sauvetage, vide, mais avec des dizaines de bâtons gravés à l'intérieur, comme pour décompter des jours...
+| ~~⚁~~ | Une torpille autoguidée se réveille soudain de sa torpeur centenaire, et se dirige vers le vaisseau des PJs 
+| ~~⚂~~ | Le vaisseau est heurté par une pluie de petis astéroïdes magnétiques. Alors que le vaisseau se recouvre de roches se fixant à et enfonçant la coque par magnétisme, le simulateur de gravité est HS, et le niveau d'oxygène commence à baisser dramatiquement...
+| ~~⚃~~ | Un champ de glaçons. Des monticules d'eau glacée, allant du petit flocon à l'iceberg, dérivant à vitesses variables dans le vide. En cas d'impact, certains explosent et se révèlent conteni de l'hélium.
+| ~~⚄~~ | Les débris d'une sonde Voyager, et plus particulièrement [son disque d'or](https://fr.wikipedia.org/wiki/Voyager_Golden_Record) d'une valeur... inestimable. Qu'est-ce que les PJs décideront d'en faire ?
+| ~~⚅~~ | Des coques vides de mollusques gigantesques, par dizaines
 
 <figure>
   <img src="img/d1cqogk-a9b1b1ad-6633-466b-b093-23a4ca86a4d0.jpg">
   <figcaption><a href="https://www.deviantart.com/jimhatama/art/Fireworks-81866324">Fireworks</a> de JimHatama - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
-| d6 | Rencontres
-|----|-
-|  1 | Le vaisseau des PJs est assaillis de message d'appel à l'aide : un vaisseau-prison dans la zone vient d'éjecter ses centaines de capsules de survie. Dilemne : les PJs vu l'autonomie des capsules, les PJs n'auront pas le temps de tous les sauver, et leur vaisseau n'a pas de toutes façons pas assez de resources pour autant de passagers.
-|  2 | Equipage entier en stase. Si inspecté, le mécanisme de stase se révèle disfonctionnel. Le réveil ne s'est pas déclenché comme prévu il y a plusieurs mois et la moitié de l'équipe est déjà mort.
-|  3 | Un Scavenger appelle à l'aide car il est attaqué par des pirates. Ce n'est pas un piège, il s'agit d'un vieil homme solitaire dont le vaisseau est désormais en panne. Il prétend s'être fait enlevé par des aliens une fois. 
-|  4 | Des transporteurs spaciaux font grève et on formé un blocus autour de Point Central
-|  5 | Abordage ! Des pirates attaques le vaisseau des PJs pendant qu'ils explorent une épave abandonnée servant d'appat.
-|  6 | Contrôle des douanes !
+|  1d6  | Rencontres
+|-------|-
+| ~~⚀~~ | Le vaisseau des PJs est assaillis de message d'appel à l'aide : un vaisseau-prison dans la zone vient d'éjecter ses centaines de capsules de survie. Dilemne : les PJs vu l'autonomie des capsules, les PJs n'auront pas le temps de tous les sauver, et leur vaisseau n'a pas de toutes façons pas assez de resources pour autant de passagers.
+| ~~⚁~~ | Equipage entier en stase. Si inspecté, le mécanisme de stase se révèle disfonctionnel. Le réveil ne s'est pas déclenché comme prévu il y a plusieurs mois et la moitié de l'équipe est déjà mort.
+| ~~⚂~~ | Un Scavenger appelle à l'aide car il est attaqué par des pirates. Ce n'est pas un piège, il s'agit d'un vieil homme solitaire dont le vaisseau est désormais en panne. Il prétend s'être fait enlevé par des aliens une fois. 
+| ~~⚃~~ | Des transporteurs spaciaux font grève et on formé un blocus autour de Point Central
+| ~~⚄~~ | Abordage ! Des pirates attaques le vaisseau des PJs pendant qu'ils explorent une épave abandonnée servant d'appat.
+| ~~⚅~~ | Contrôle des douanes !
 
 
 ### Horreur cosmique
