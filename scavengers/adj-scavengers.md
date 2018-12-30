@@ -3,20 +3,13 @@
 - ajouter license & noms relecteurs
 - correction orthographique
 - tutoiement / vouvoiement ?
-- demander autorisation artistes pour 4 illus Sergey Grechanyuk + 1 illus Markus Nowak + Cosmic Oddity ou les virer
+- img alts
+- demander autorisation artistes pour 4 illus Sergey Grechanyuk + 1 illus Markus Nowak
 Icones:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
   * https://game-icons.net/lorc/originals/space-suit.html
   * https://game-icons.net/delapouite/originals/spaceship.html ?
-- article blog:
-  + premier jeu PbtA auquel j'ai joué !
-  + rpg-bonhomme sheet -> https://chezsoi.org/lucas/jdr/rpg-bonhomme/?layout=Scavengers&name=yuri_pashlov
-  + https://bloodntongue.bandcamp.com/album/spaceship-graveyard
-  + chartopia tables
-    * https://chartopia.d12dev.com/en/chart/2769/
-    * https://imaginaryhallways.blogspot.com/2018/12/d66-sci-fi-horror-room-details.html?m=1
-    * https://chartopia.d12dev.com/en/search/?q=Spaceship
 - partager avec Grégory Pogorzelski + Alex Loywick rapport à Into The Dark jdr
 -->
 
@@ -36,23 +29,23 @@ Elle se veut fidèle à l'ambiance originale :
 jouer un équipage de baroudeurs spatiaux, explorant épave après épave, essuyant coup dur après coup dur,
 et rêvant d'un jour trouver LA pépite qui leur permettra de raccrocher, enfin.
 
-Elle pioche allégrement dans des inspirations comme l'anime Cowboy Bebop, les séries Firefly & The Expanse,
-le court métrage Scavengers de Bennett & Huettner, le manga Planètes, la BD John Prophet, le jeu vidéo Dead Space
-ou encore les films Alien et Seul sur mars.
-
 Comme elle contient surtout des tables aléatoires, elle peut sans doute également servir à d'autres jeux de rôles,
 comme [Mothership](http://www.tuesdayknightgames.com/mothership/) de Sean McCoy ou [Into The Dark](http://livresdelours.blogspot.com/search/label/Into%20the%20Dark) d'Alexandre 'Kobayashi' Jeannette.
 
 Cette aide de jeu contient:
-- quelques éléments de [description de votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#anomalies-nauchoresques),
+- de quoi [décrire votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#anomalies-nauchoresques),
 afin de donner une âme au plus fidèle compagnon de route des Scavengers
 - des [_playbooks_ & TOCs](#playbooks-tocs) pour vos personnages
-- une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour varier vos interprétations de personnages
+- une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour varier vos interprétations
 - des [cachoteries](#cachoteries) de mission, incluant des [contrats bonus](#contrats-bonus)
 - et enfin des [imprévus de voyages](#imprevus-de-voyage) listant des rebondissements aléatoires,
 certains tendant vers l'[horreur cosmique](#horreur-cosmique)
 
-Pour les anglophones interesséx par toujours plus d'inspirations pour ce genre d'univers de jeu,
+Quelques oeuvres qui m'ont inspiré : l'anime Cowboy Bebop, les séries Firefly & The Expanse,
+le court métrage Scavengers de Bennett & Huettner, le manga Planètes, la BD John Prophet, le jeu vidéo Dead Space
+ou encore les films Alien et Seul sur mars.
+
+Pour les anglophones interessés par toujours plus d'inspirations pour ce genre d'univers de jeu,
 je vous recommande également chaudement les tables d10 créées par la communauté Discord Mothership [#hive-mind](https://chezsoi.org/lucas/blog/mothership-hive-mind.html).
 
 
@@ -172,7 +165,7 @@ En tout cas tu as acquis un sacré sang froid, une tripotée de cauchemars récu
 **Progression**: +1 XP à chaque fois que tu arranges pacifiquement une situation tendue avec des PNJs : concurrents, contacts, authorités, civils...
 +2 XP si à la fin de la mission il/elle(s) te sont redevables.
 
-**Actions**: Choisis-en 3 parmis celles décrites ci-dessous.
+**Actions**: Choisis-en 2 parmis celles décrites ci-dessous.
 Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
 
 <p class="floats-clear"></p>
@@ -243,7 +236,7 @@ Et tant pis si ton receleur réalise a posteriori qu'il s'est fait rouler, tant 
 **Progression**: +1 XP à chaque fois que tu arnaques / pièges / ruses avec un PNJ : concurrents, contacts, authorités, civils...
 +2 XP s'ils ne se rend même pas compte que tu es responsable.
 
-**Actions**: Choisis-en 3 parmis celles décrites ci-dessous.
+**Actions**: Choisis-en 2 parmis celles décrites ci-dessous.
 Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
 
 <p class="floats-clear"></p>
@@ -309,7 +302,7 @@ Ta soif de découvertes te pousse à accepter des contrats toujours plus louches
 **Progression**: +1 XP à chaque fois que tu découvres un lieu / artefact / alien inconnu.
 +2 XP si tu ramènes des preuves de cette découverte à Point Central. Et pas juste des photos, personne n'y fait plus confiance.
 
-**Actions**: Choisis-en 3 parmis celles décrites ci-dessous. Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
+**Actions**: Choisis-en 2 parmis celles décrites ci-dessous. Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
 
 <p class="floats-clear"></p>
 
@@ -579,42 +572,48 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 
 ### Horreur cosmique
 
-<figure>
-  <img src="img/dao7mee-1d5a04c0-df8a-49e0-91c2-7e4a3e0c930b.jpg">
-  <figcaption><a href="https://www.deviantart.com/lieutenant-america/art/Cosmic-Oddity-645328166">Cosmic Oddity</a> de Lieutenant-America - <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></figcaption>
-</figure>
+Voici 6 courtes amorces scénaristiques pour faire trembler vos joueurs
+et faire glisser lentement le ton de vos parties vers l'horreur indicible...
 
-<figure>
-  <img src="img/say_cheese_by_free4fireyoutube_d9zxc1w-pre.jpg">
-  <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Say-Cheese-604537412">Say Cheese</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
-</figure>
-
-<figure>
-  <img src="img/warm_up_doodle___generic_monster_portrait___by_free4fireyoutube_db8sd0g-pre.jpg">
-  <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Warm-up-Doodle-Generic-monster-portrait-679888096">Generic monster portrait</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
-</figure>
-
+#### Final feast
 + après sauvetage du navire, leur capitaine les invite à festoyer pour les remercier, et en profiter pour négocier de l'échange de marchandises
 + 2 membres de l'équipage ont l'air louche vis-à-vis des PJs. A y regarder de plus prêt, ils sont terrifiés...
-+ en fait il s'agit des seuls rescapés de l'équipage initial, qui s'est fait bouloté par des canibales !
++ en fait il s'agit des seuls rescapés de l'équipage initial, qui s'est fait bouloté par des canibales mystiques,
+vénérant & accomplissent la volonté de dieux sanglants de l'univers via leurs rituels sacrificatoires
 
+#### Intruders !
 + le vaisseau entre dans une zone de silence !
 + plus personne ne peut parler à haute voix des actions de son perso en jeu, tout doit être écrit sur le papier au MJ
 + de plus, les PJs ne se voient plus sous leur apparence normale, mais comme des monstres les uns vis à vis des autres !
 
+<figure id="say-cheese">
+  <img src="img/say_cheese_by_free4fireyoutube_d9zxc1w-pre.jpg">
+  <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Say-Cheese-604537412">Say Cheese</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
+
+<!--figure>
+  <img src="img/warm_up_doodle___generic_monster_portrait___by_free4fireyoutube_db8sd0g-pre.jpg">
+  <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Warm-up-Doodle-Generic-monster-portrait-679888096">Generic monster portrait</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure-->
+
+#### Edge of tomorrow
 + archéologue à bord -> leur montre un artefact étrange
 + assaut de pirates -> ile meurent tous !
 + un jour sans fin
 
-+ Vos radars détectent un étrange artefact : une colonne d'un mètre de large se dresse devant le vaisseau, apparement en os. Impossible de remonter à l'une ou l'autre de ses origines. 
--> au départ radars détecten matière organique : des tripes et des boyaux flottent dans l'espace
--> si les PJs s'attardent, une hélice géante s'approche à grande vitesse vers eux le long du boyaux
+#### Space backbone
+Vos radars détectent un étrange artefact : une colonne d'un mètre de large se dresse devant le vaisseau, apparement en os. Impossible de remonter à l'une ou l'autre de ses origines. 
+au départ radars détecten matière organique : des tripes et des boyaux flottent dans l'espace
+si les PJs s'attardent, une hélice géante s'approche à grande vitesse vers eux le long du boyaux
 
-- "First there's a creepy noise loop transmitted over emergency beacon frequencies or played over the intercom upon arrival.
-Then the noise is dissected and revealed to be a garbled and distorted lullaby recorded by a mother on board to put her baby to bed.
-Then more recordings are discovered, showing that mother and her baby in a panic, running, screaming silently as there is no audio,
-banging her hand against the bulkhead in desperation, there's a weird movement in the corridor behind them, and the feed cuts."
-- "The doors open, the first sign of properly working systems since the party came aboard
+#### Last record
+>First there's a creepy noise loop transmitted over emergency beacon frequencies or played over the intercom upon arrival.
+>Then the noise is dissected and revealed to be a garbled and distorted lullaby recorded by a mother on board to put her baby to bed.
+>Then more recordings are discovered, showing that mother and her baby in a panic, running, screaming silently as there is no audio,
+>banging her hand against the bulkhead in desperation, there's a weird movement in the corridor behind them, and the feed cuts."
+
+#### Salutary help
+>The doors open, the first sign of properly working systems since the party came aboard
 >There's a woman in an EVA suit sitting at the communications booth
 >the glare visor is down
 >there are no lights on. 
@@ -624,9 +623,6 @@ banging her hand against the bulkhead in desperation, there's a weird movement i
 >The walls or viewscreens are covered in images of Earth, Earth's colonies and of Humanity in general, all suggesting that the woman craves freedom.
 >She seems genuinely nice, if just a little bit too eager to please the PCs and help them along in trying to escape, begging that they take her with them.
 >The fact that she refuses to take off her suit and the soft chittering noises she sometimes makes inside are somewhat worrying, though..."
-- Pincée de mysticisme / dieux sanglants de l'univers
-  membres d'un équipage maudit, certains amnésiques, accomplissent la volonté de ...
-  cultes, rituels...
 
 <figure>
   <img src="img/d3bkj3c-62b60bbc-e3dc-487d-837c-07ed83aecaf6.jpg">
@@ -660,6 +656,7 @@ h1 {
     font-size: 4rem;
     margin: 2rem auto;
 }
+h2 { margin-top: 6rem; }
 h2, h3, h4, h5 { font-family: Cornerstone; }
 h2, h3 {
     border-bottom: 4px solid black;
@@ -678,11 +675,13 @@ td { padding: 5px; border-top: 1px solid #ddd; }
 tr > td:first-child { font-weight: bold; width: 2rem; }
 tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
 
-#playbooks-tocs figure { max-width: 20rem; float: left; margin: 1rem; }
+#playbooks-tocs figure, #playbooks-%26-tocs figure { max-width: 20rem; float: left; margin: 1rem; }
 
 #cachoteries table thead { text-align: center; }
 
 #contrats-bonus th:first-child { width: 10rem; text-align: center; }
+
+#say-cheese img { max-height: 25rem; }
 
 .float-left {
     float: left;
@@ -694,7 +693,5 @@ tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
     max-width: 50%;
     margin-left: 1rem;
 }
-.floats-clear {
-    clear: both;
-}
+.floats-clear { clear: both; }
 </style>
