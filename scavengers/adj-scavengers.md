@@ -1,4 +1,5 @@
 <!-- Tasks:
+- article blog: reco illus Remember Me Paul Chadeisson -> https://www.artstation.com/pao/albums/672547
 - attendre autorisation des 2 artistes
 - ajouter noms relecteurs
 Icônes:
