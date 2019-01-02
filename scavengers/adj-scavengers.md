@@ -1,13 +1,11 @@
 <!-- Tasks:
-- article blog: reco illus Remember Me Paul Chadeisson -> https://www.artstation.com/pao/albums/672547
-- attendre autorisation des 2 artistes
-- ajouter noms relecteurs
+- attendre autorisation des 2 artistes & retours relecteurs (puis ajouter leurs noms en remerciements)
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
   * https://game-icons.net/lorc/originals/space-suit.html
   * https://game-icons.net/delapouite/originals/spaceship.html ?
-- partager avec Grégory Pogorzelski + Alex Loywick rapport à Into The Dark jdr
+- partager avec Alex Loywick rapport à Into The Dark jdr
 -->
 
 # Scavengers: anomalies nauchoresques
@@ -130,6 +128,22 @@ VO: http://apocalypse-world.com/ApocalypseWorldBasicRefbook2ndEd.pdf
 - https://buriedwithoutceremony.com/little-games/simple-world
 - http://www.story-games.com/forums/discussion/18311/apocalypse-world-writing-playbooks
 - https://nerdwerds.blogspot.com/2017/08/apocalypse-world-actual-playbooks.html
+- Inverse World playbooks: http://cloud.ombreport.info/index.php/s/f2eZDZDHpnw4yjL#pdfviewer
+  * Keeper of Curios: You keep a collection of strange and rare curiosities, which follow some sort of theme - 
+masks, small dinosaurs, mechanical replicas of insects. Your collection is 5-weight, and
+contains a variety of useful things collected throughout your travels.
+Record your collection's Theme: ___________________________________________
+Choose one or two to describe your collection's Look: Amazing, Bizarre, Complex, Historic, Impractical, Mysterious, Simple, Surreal, Whimsical
+When you take a few moments to dig through your collection for something useful, 
+describe what you're looking for and what you want it to do. You can potentially have 
+anything on hand, but the GM will tell you one to four of the following:
+• It is either consumable or faulty, and will only work once
+• It was not intended to be used for this
+• It will take a lot of time and effort to use properly
+• It won't work unless you _____
+• The curio's effects are incredibly specific
+• You get something close to what you want, but not quite
+• You'll need help from _____ to use it safely
 -->
 
 Tous les joueurs qui le souhaitent peuvent tout d'abord tirer au hasard un TOC :
@@ -148,6 +162,7 @@ Les joueurs gagnent +1 XP par mission où ils ont utilisé leur TOC pour **mettr
 Ensuite, si vous décidez d'utiliser les _playbooks_ ci-dessous, proposez à vos joueurs de choisir un de ces archétypes
 à la création de leur personnage.
 
+::: playbook
 ### VETERAN PACIFISTE
 
 <figure>
@@ -167,26 +182,11 @@ Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
 
 <p class="floats-clear"></p>
 
-#### AS DU PILOTAGE
-**Quand tu réalises une manœuvre spatiale délicate avec ton vaisseau**,
-ajoute **+1** à ton jet pour la _jouer en finesse_.
-En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
-- en conséquence, des vaisseaux adverses se percutent ou se tirent dessus
-- si cette manœuvre était préparatoire à une autre action, celle-ci bénéficie d'un bonus de **+2**
+#### [ ]  A LA RESCOUSSE
+**Quand tu débarques en fanfare au dernier moment pour sauver la mise**,
+toi-même et tous ceux qui t'assistent gagnez **+1** aux jets suivants tant que vous bénéficiez de l'effet de surprise.
 
-En cas d'échec, ton vaisseau subit une avarie handicapante.
-
-Être un _as du pilotage_ permet également d'avoir un bonus de **+1** au jet en cas de _décollage urgent_.
-
-#### CANARDER
-**Quand tu te sers d'armes à feu** ou leurs équivalents spatiaux,
-ajoute **+1** à ton jet pour _utiliser la manière forte_.
-En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
-- tu impressionnes, effrayes ou désarçonnes tes ennemis, qui reculent ou restent en retrait
-- tu couvres quelqu'un (ce peut être toi-même), lui permettant de se déplacer sans risque d'être touché dans une fusillade
-- tu touches un composant électronique ou un système de survie qui entraîne une avarie de vaisseau ou une fuite d'air
-
-#### FAIRE LE POINT
+#### [ ]  FAIRE LE POINT
 **Quand tu fais le point sur une situation tendue ou que tu évalues tes options**,
 lance 2 dés + **Vif**. Sur un succès, tu peux poser des questions au MC.
 Si tu agis en prenant la réponse du MC en considération, tu reçois **+1** au prochain jet.
@@ -198,14 +198,14 @@ Sur 10+, tu peux poser 3 questions. Sur 7-9, 1 seule :
 - où se trouve réellement mon adversaire ? 
 - qui a l’avantage ici ? 
 
-#### SELF-DEFENSE
+#### [ ]  SELF-DEFENSE
 **Quand quelqu'un te menace d'une arme, tente de te ligoter ou de t'attaquer au corps à corps**,
 lance 2 dés + **Dur**. Sur 10+, au choix, tu l'immobilises ou tu le désarmes.
 Sur 7-9, au choix, tu le désarmes mais il t'immobilise, ou bien tu évites juste son coup / son tir en esquivant / plongeant à couvert.
 En cas d'échec, il te voit venir et est plus rapide : _risque ta santé_ ou prend une _Condition_.
 
-#### SOINS D'URGENCE
-**Quand tu tentes de stabiliser une blessure que vient de recevoir une personnage**,
+#### [ ]  SOINS D'URGENCE
+**Quand tu tentes de stabiliser une blessure que vient de recevoir un personnage**,
 lance 2 dés + **Fin**. Sur 7-9, choisis 1 option ci-dessous. Sur 10+, choisis-en 2 :
 - le moniteur de santé du personnage s'améliore d'un cran
 - le personnage reprend connaissance
@@ -216,8 +216,10 @@ Ajoute **+1** à ton jet si tu disposes d'un kit de premiers soins.
 En cas d'échec, la situation impose que tu restes à côté du personnage pendant plusieurs minutes,
 pour compresser une plaie / lui faire un massage cardiaque / le maintenir éveillé même s'il délire.
 
+:::
 
-### CONTREBANDIER ROUBLARD
+::: playbook
+### CONTREBANDIER CHARISMATIQUE
 
 <figure>
   <img alt="Une jeunne femme armée d'un fusil plasma" src="img/anti_materiel_by_fernand0fc_dbkaqcc-fullview.jpg">
@@ -238,7 +240,7 @@ Remplir ta jauge d'expérience te permettra d'en acquérir une autre.
 
 <p class="floats-clear"></p>
 
-#### BARATINEUR
+#### [ ]  BARATINEUR
 **Quand tu cherches à gagner du temps ou à embobiner quelqu'un**,
 lance 2 dés + **Fin**. Sur 7-9, choisis 1 option ci-dessous. Sur 10+, choisis-en 2 :
 - la personne n'est plus attentive à ce qui se passe autour d'elle
@@ -246,44 +248,31 @@ lance 2 dés + **Fin**. Sur 7-9, choisis 1 option ci-dessous. Sur 10+, choisis-e
 - la personne crois sans réserves une chose au choix que tu lui racontes sur toi
 - tu insuffles à la personne le sentiment que tu souhaites : amusé, inquiet, méfiant ou en colère cotre quelqu'un...
 
-#### CERNER QUELQU’UN 
+#### [ ]  CERNER QUELQU’UN
 **Quand tu essaies de cerner quelqu’un lors d’une situation tendue**, 
 lance 2 dés + **Fin**. Pendant que tu discutes avec lui, tu peux lui poser 3 questions (sur 10+) ou 1 seule (sur 7-9) :
 - est-ce que ton personnage dit la vérité ?
 - qu’est-ce que ton personnage ressent vraiment ? 
 - qu’est-ce que ton personnage a l’intention de faire ? 
 - qu’est-ce que ton personnage espère que je fasse ? 
-- comment est-ce que je peux convaincre ton personnage de \_\_\_ ? 
+- comment est-ce que je peux convaincre ton personnage de \_\_\_ ?
 
-#### CYBER-CB
-**Quand tu demandes un conseil via ton holo-casque sur le forum #scavenge de l'Hypernet**,
-demande à cette communauté de vieux baroudeurs ce qu’ils pensent être la meilleure chose à faire, et le MC te le dit.
-Si tu suis le conseil, prends **+1** à tous les jets de dés que tu fais en le suivant.
-Si tu suis les conseils mais que malgré tout tu n’atteins pas ton objectif, +1 XP.
+#### [ ]  COMMANDER
+**Quand tu donnes un ordre à des PNJs non-hostiles**, lance 2 dés + **Dur**.
+Sur 10+, ils t'obéissent du mieux qu'ils peuvent. Sur 7-9, le MC choisit parmi :
+- ils le font, mais pas très bien ou pas exactement comme tu voulais
+- ils t'offrent quelque chose qu'ils pensent que tu veux
+- ils s'arrêtent de faire ce qu'ils faisaient t'accordent leur attention
 
-**Quand tu souhaites te renseigner sur quelqu'un, un lieu ou une techno via le forum #scavenge de l'Hypernet**,
-lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question :
-- Est-ce/il/elle dangereux ? Si oui pourquoi ?
-- Qu'est-ce qui se trame de louche à ce/son propos ?
-- Est-ce que ça/il/elle peut me rapporter du cash ? Si oui comment ?
-- Comment l'approcher ?
-
-Sur un échec, demande toujours mais des personnes concernées sont informées de tes recherches...
-
-#### LES YEUX SUR LA PORTE
-Tu es toujours sur le qui-vive, et tu as toujours à l'esprit une solution pour prendre la poudre d'escampette.
-**Quand tu souhaites disparaître en vitesse d'une situation tendue**, annonce ton échappatoire et lance 2 dés + **Vif**.
-Sur 10+ tu es déjà parti. Sur 7-9 tu restes ou tu pars, mais si tu pars ça te coûte :
-tu laisses quelque chose derrière toi ou tu prends quelque chose avec toi, et le MC te 
-dit quoi. Sur un échec, tu es pris sur le fait, un pied dehors et un pied dedans.
-
-#### REPUTATION
+#### [ ]  REPUTATION
 **Quand tu rencontres quelqu’un qui t’a l’air important**, tu peux, si tu veux, lancer 2 dés + nombre de contacts.
 Sur une réussite, il a entendu parler de toi, et tu décides de ce qu’il a entendu : le MC le fera réagir en conséquences.
 Sur 10+ tu prends un **+1** au prochain jet quand tu auras affaire à lui.
 Sur un échec, il a entendu parler de toi, mais le MC décide de ce qu’il a entendu.
 
+:::
 
+::: playbook
 ### EXPLORATEUR TECHNOPHILE
 
 <figure>
@@ -303,7 +292,7 @@ Ta soif de découvertes te pousse à accepter des contrats toujours plus louches
 
 <p class="floats-clear"></p>
 
-#### AFFINITE XENO
+#### [ ]  AFFINITE XENO
 **Quand tu entres en contact avec un alien ou que tu manipules un artefact xeno**,
 lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question : 
 - comment ça fonctionne, dans les grandes lignes ?
@@ -312,7 +301,7 @@ lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 1
 
 Sur un échec, le MC te fait un sale coup.
 
-#### BRICOLAGE DE FORTUNE
+#### [ ]  BRICOLAGE DE FORTUNE
 **Quand tu cherches à rafistoler ou désactiver un objet ou un système**,
 ajoute **+1** à ton jet pour la _jouer en finesse_.
 En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
@@ -321,13 +310,28 @@ En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en 
 
 Ajoute **+1** si tu as avec toi ta trousse à outil antigrav massive.
 
-#### PAS DE VELOURS
-**Quand tu cherches à te déplacer discrètement, sans attirer l'attention de quelqu'un ou quelque chose**,
-lance 2 dés + **Vif**. Sur 10+, rien ni personne ne te remarque. Sur 7-9, en continuant tu risques de te faire repérer :
-fais demi-tour maintenant sans être détecté, ou continue en espérant avoir assez de réflexe pour réagir quand tu seras découvert.
-Sur un échec, l'alerte est donnée.
+#### [ ]  INSAISISSABLE
+Tu as vécu ta vie de vaisseau en vaisseau, et tu as joué plusieurs fois les passagers clandestins.
+Il t'est même arrivé d'être le seul éveillé pendant de longs mois alors que l'équipage était en stase.
 
-#### MECANO
+En conséquence tu connais tous leurs recoins, toutes les planques qu'ils recèlent,
+et tu as toujours à l'esprit une solution pour prendre la poudre d'escampette.
+Au besoin tu trouveras toujours une cache dans une coursive, dissimulé derrière un panneau de métal que personne ne pensait amovible.
+
+Dans un vaisseau ou une station spaciale, **quand tu souhaites disparaître en vitesse d'une situation tendue**,
+annonce ton échappatoire et lance 2 dés + **Vif**.
+Sur 10+ tu es déjà parti. Sur 7-9 tu restes ou tu pars, mais si tu pars ça te coûte :
+tu laisses quelque chose derrière toi ou tu prends quelque chose avec toi, et le MC te 
+dit quoi. Sur un échec, tu es pris sur le fait, un pied dehors et un pied dedans.
+
+Idem, dans un vaisseau ou une station spaciale, **quand tu souhaites te planquer ou dissimuler quelque chose**,
+annonce ton plan et si un personnage fouille les lieux, lance 2 dés + **Fin**.
+Sur 10+ personne ne découvrira jamais cette planque.
+Sur 7-9 tu réalises que quelque chose risque de mettre la puce à l'oreille des curieux : tu as laissé des traces, quelque chose dépasse ou fait du bruit...
+Tu peux décider de bondir maintenant et avoir l'avantage de la surprise, ou tu peux attendre de voir comment la situation évolue.
+Sur un échec, ta cache est découverte.
+
+#### [ ]  MECANO
 **Quand tu te retranches dans ton atelier et que tu te consacres à bricoler quelque chose ou à étudier un truc quelconque**,
 décide quoi et dis le au MC. Le MC te répondra « d’accord, pas de problème, mais... » puis entre 1 à 4 de ces trucs ci-dessous : 
 - ça va prendre des heures / des jours / des semaines / des mois de boulot 
@@ -342,12 +346,64 @@ décide quoi et dis le au MC. Le MC te répondra « d’accord, pas de problème
 
 Le MC peut les articuler avec un «et» ou se sentir magnanime et ajouter un «ou».
 
-#### NATIF DE L'ESPACE
-Tu as vécu toute ta vie dans un vaisseau, et tu connais tous leurs recoins, tous leurs caprices de fonctionnement.
-Ton sens de l'orientation en trois dimensions est imparable, et tu sais toujours parfaitement te situer et retrouver ta direction dans un vaisseau.
-Au besoin tu trouveras toujours une planque dans une coursive, dissimulé derrière un panneau de métal que personne ne pensait amovible.
-De l'intérieur, tu es capable de provoquer des pannes qui prendront des heures à être diagnostiquées pour permettre au vaisseau de repartir.
-Enfin, tu as un bonus de **+1** à tous tes jets de **Dur** pour résister aux pénuries spatiales : de nourriture, de chaleur, d'oxygène, de gravité...
+:::
+
+::: playbook
+### ACTIONS SPACIALES SUPPLEMENTAIRES
+Chaque joueur peut en sélectionner une au choix dans cette liste :
+
+#### [ ]  AS DU PILOTAGE
+**Quand tu réalises une manœuvre spatiale délicate avec ton vaisseau**,
+ajoute **+1** à ton jet pour la _jouer en finesse_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
+- en conséquence, des vaisseaux adverses se percutent ou se tirent dessus
+- si cette manœuvre était préparatoire à une autre action, celle-ci bénéficie d'un bonus de **+2**
+
+En cas d'échec, ton vaisseau subit une avarie handicapante.
+
+Être un _as du pilotage_ permet également d'avoir un bonus de **+1** au jet en cas de _décollage urgent_.
+
+#### [ ]  CANARDER
+**Quand tu te sers d'armes à feu** ou leurs équivalents spatiaux,
+ajoute **+1** à ton jet pour _utiliser la manière forte_.
+En cas de réussite, tu as ces options supplémentaires au choix, et tu peux en sélectionner une de plus :
+- tu impressionnes, effrayes ou désarçonnes tes ennemis, qui reculent ou restent en retrait
+- tu couvres quelqu'un (ce peut être toi-même), lui permettant de se déplacer sans risque d'être touché dans une fusillade
+- tu touches un composant électronique ou un système de survie qui entraîne une avarie de vaisseau ou une fuite d'air
+
+#### [ ]  CYBER-CB
+**Quand tu demandes un conseil via ton holo-casque sur le forum #scavenge de l'Hypernet**,
+demande à cette communauté de vieux baroudeurs ce qu’ils pensent être la meilleure chose à faire, et le MC te le dit.
+Si tu suis le conseil, prends **+1** à tous les jets de dés que tu fais en le suivant.
+Si tu suis les conseils mais que malgré tout tu n’atteins pas ton objectif, +1 XP.
+
+**Quand tu souhaites te renseigner sur quelqu'un, un lieu ou une techno via le forum #scavenge de l'Hypernet**,
+lance 2 dés + **Fin**. Sur un succès, tu peux poser des questions au MC. Sur 10+, 2 questions. Sur 7-9, 1 question :
+- Est-ce/il/elle dangereux ? Si oui pourquoi ?
+- Qu'est-ce qui se trame de louche à ce/son propos ?
+- Est-ce que ça/il/elle peut me rapporter du cash ? Si oui comment ?
+- Comment l'approcher ?
+
+Sur un échec, demande toujours mais des personnes concernées sont informées de tes recherches...
+
+#### [ ]  PAS DE VELOURS
+**Quand tu cherches à te déplacer discrètement, sans attirer l'attention de quelqu'un ou quelque chose**,
+lance 2 dés + **Vif**. Sur 10+, rien ni personne ne te remarque. Sur 7-9, en continuant tu risques de te faire repérer :
+fais demi-tour maintenant sans être détecté, ou continue en espérant avoir assez de réflexe pour réagir quand tu seras découvert.
+Sur un échec, l'alerte est donnée.
+
+#### [ ]  PROGRESSION EN TERRAIN HOSTILE
+Que tu te frayes un chemin à coups de basters ou que tu cavales en mode parkour,
+**quand tu traverses rapidement une zone occupée par des ennemis**, lance 2 dés + **Vif**.
+Sur 10+, tu obtiens 3 points. Sur 7-9, seulement 2. Sur 6-, tu en obtiens 1 mais le MC en gagne également 1 qu'il peut utiliser en faveur de vos adversaires.
+Dépense 1 point n'importe quand pour :
+- Eviter ou te débarasser d'un ennemi et continuer à progresser
+- Traverser un obstacle ou passer un ennemi sur ton chemin en utilisant ton élan pour faire un cascade
+- Grimper quelque part hors de portée ou de vue
+- Créer une distraction pour occuper un ennemi
+- Attirer l'attention de tes adversaires vers d'autres personnages, ou au contraire vers toi pour qu'ils ignorent tes alliés
+
+:::
 
 
 ## Compas d'humeurs
