@@ -1,11 +1,14 @@
 <!-- Tasks:
+- ajouter liseré + page break aux playbooks
 - attendre autorisation des 2 artistes & retours relecteurs (puis ajouter leurs noms en remerciements)
+Alt img: http://www.eclipsephase.com/sites/default/files/Spacewalk_final.jpg
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
   * https://game-icons.net/lorc/originals/space-suit.html
   * https://game-icons.net/delapouite/originals/spaceship.html ?
 - partager avec Alex Loywick rapport à Into The Dark jdr
+- notifier illustrateurs de l'utilisation de leurs oeuvres
 -->
 
 # Scavengers: anomalies nauchoresques

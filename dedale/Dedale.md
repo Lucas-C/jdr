@@ -4,6 +4,7 @@ mécanisme de sauvegarde jv-esque : permet de revenir en arrière en cas de mort
 proposer une table de génération de missions: universe + où se cache l'Antithée + plot twist
 -> et combiner avec squelette de meta campagne à l a Fils de Babel
 reprendre design & illus du jeu
+https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f
 -->
 
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire
