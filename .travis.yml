@@ -27,8 +27,7 @@ script:
 - cd -
 - cd scavengers
 - node ../md2html.js adj-scavengers.md > index.html
-#- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then
-- if true; then TRAVIS_TAG=adj-scavengers;
+- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then
     puppeteer print index.html ../$TRAVIS_TAG-tmp.pdf;
     pdfjam ../$TRAVIS_TAG-tmp.pdf --nup 2x1 --landscape --outfile ../$TRAVIS_TAG.pdf;
     rm ../$TRAVIS_TAG-tmp.pdf;
