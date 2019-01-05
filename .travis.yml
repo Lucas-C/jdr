@@ -4,8 +4,9 @@ cache: npm
 addons:
   apt:
     packages:
-      - texlive-extra-utils
       - ghostscript
+      - texlive-latex-recommended
+      - texlive-extra-utils
 install:
 - npm install -g puppeteer-cli
 - npm install minimist markdown-it markdown-it-anchor markdown-it-checkbox markdown-it-header-sections
@@ -28,7 +29,7 @@ script:
 - cd scavengers
 - node ../md2html.js adj-scavengers.md > index.html
 #- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then
-- if true; then
+- if true; then TRAVIS_TAG=adj-scavengers;
     puppeteer print index.html ../$TRAVIS_TAG-tmp.pdf;
     pdfjam ../$TRAVIS_TAG-tmp.pdf --nup 2x1 --landscape --outfile ../$TRAVIS_TAG.pdf;
     rm ../$TRAVIS_TAG-rmp.pdf;
