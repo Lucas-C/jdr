@@ -1,7 +1,4 @@
 <!-- Tasks:
-- ajouter liseré + page break aux playbooks
-- attendre autorisation des 2 artistes & retours relecteurs (puis ajouter leurs noms en remerciements)
-Alt img: http://www.eclipsephase.com/sites/default/files/Spacewalk_final.jpg
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
@@ -423,9 +420,13 @@ mais de **définir aléatoirement son humeur le temps d'une session** de jeu.
 Et puis vivre dans une boîte de conserve au milieu du vide spatial 24h/24, 7j/7, forcément ça a tendance a provoquer des sautes d'humeur.
 
 <figure>
+  <img alt="Vue lontaine de deux vaisseaux à proximité d'une planète orange" src="img/d3bkj3c-62b60bbc-e3dc-487d-837c-07ed83aecaf6.jpg">
+  <figcaption><a href="https://www.deviantart.com/jimhatama/art/ISS-Whitebird-200832168">ISS Whitebird</a> de JimHatama - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
+<!--figure>
   <img alt="Un homme en combinaison de cosmonaute, le casque brisé et des papillons jaunes volant autour de lui" src="img/papillons.jpg">
   <figcaption><a href="http://vonnowak.com/?p=21194"><cite>Of Butterflies & Astronauts</cite></a> de Markus Nowak</figcaption>
-</figure>
+</figure-->
 
 **La règle:** en début de séance, les joueurs qui le souhaitent peuvent lancer 1d6 dans la table suivante.
 Vous pouvez :
@@ -491,10 +492,10 @@ certains connus du MC et d'autres non.
 Entre chaque mission, lorsque les PJs sont à Point Central, chaque joueur tire 2d6 de couleurs différentes, un pour les dizaines et un pour les unités, puis consulte la table ci-dessous.
 Surtout, restez impassible ! Ne laissez rien transparaître dans vos réactions.
 
-<figure>
+<!--figure>
   <img alt="Une barge approche un ponton au sein d'un archipel de vaisseau en vol stationnaire autour d'une planète" src="img/sergey-grechanyuk-work-02-08-sm.jpg">
   <figcaption><a href="https://www.artstation.com/artwork/L6Yrl">Smugglers Harbor</a> de Sergey Grechanyuk</figcaption>
-</figure>
+</figure-->
 
 Si la cachotterie implique un autre membre de l'équipage, déterminez aléatoirement avec 1d6 de qui il s'agit.
 Transmettez ensuite secrètement votre résultat au MC, **sauf** si la table indique de ne pas le faire dans la 2e colonne.
@@ -518,9 +519,13 @@ Dans ce cas, dites au MC que vous avez obtenu un 5 ou un 6.
 En fin de mission, tout le monde met cartes sur table, et révèle quelle cachotterie il avait éventuellement tiré.
 
 <figure>
+  <img alt="Cosmonautes dans unchamp d'astéroïdes" src="img/Spacewalk_final.jpg">
+  <figcaption><a href="http://eclipsephase.com/spacewalk-artwork">Spacewalk Artwork</a> de Opus Artz, pour le jeu Eclipse Phase - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+</figure>
+<!--figure>
   <img alt="Un homme s'extrait d'une cuve dans une coursive de vaisseau, des cables encore plentés dans la peau" src="img/sergey-grechanyuk-rise-and-shine.jpg">
   <figcaption><a href="https://www.artstation.com/artwork/L89Gw">Rise and shine</a> de Sergey Grechanyuk</figcaption>
-</figure>
+</figure-->
 
 
 ### Contrats bonus
@@ -537,10 +542,10 @@ En fin de mission, tout le monde met cartes sur table, et révèle quelle cachot
 Si le PJ a déjà rempli le contrat bonus de son contact :
 une femme avec un symbiote xéno, visiblement en détresse / mourante, confie au PJ un mystérieux artefact, en lui demandant de le ramener d'où il vient.
 
-<figure>
+<!--figure>
   <img alt="Des astronautes en combinaison montent à bord d'un vaisseau spatial dans un hangar" src="img/sergey_grechanyuk_01.jpg">
   <figcaption><a href="https://www.artstation.com/artwork/g5NDx">Kepler</a> de Sergey Grechanyuk</figcaption>
-</figure>
+</figure-->
 
 
 ### MC : RESOLUTION DES CACHOTTERIES
@@ -597,10 +602,10 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 | ~~⚄~~ | L'interaction gravitationnelle devient plus intense dans la zone, plaquant tous les objets et personnes à bord du vaisseau aux parois, et faisant même basculer certains interrupteurs entraînant l'extinction du moteur.
 | ~~⚅~~ | Soudain, quelque chose à l'autre bout de la galaxie déclenche un phénomène colossal : d'intenses rayons lumineux se forment entre **toutes** les étoiles, deux à deux, de l'univers entier. Et pas d'bol, cet entrelacs de rayons est très dense là où navigue le vaisseau des PJs, les forçant à une manœuvre d'urgence pour ne pas finir grillé, puis à reconsidérer leur plan de vol tant il est désormais impossible de voyager en ligne droite... Peut-être vont-ils d'ailleurs manquer de carburant, et leur seul recours sera une trajectoire catapultée, réacteurs éteints, autour de plusieurs planètes ?
 
-<figure>
+<!--figure>
   <img alt="Un vaisseau s'approche d'une épave spatiale" style="filter: contrast(.85)" src="img/sergey_grechanyuk_02.jpg">
   <figcaption><a href="https://www.artstation.com/artwork/o9BZq">Abandoned Space Ship</a> de Sergey Grechanyuk</figcaption>
-</figure>
+</figure-->
 
 |  1d6  | Débris spatiaux
 |-------|-
@@ -719,11 +724,6 @@ Elle semble extrêmement gentille, bien que très pressée que les PJs l'emmène
 Les accents parfois étrangement rauques dans sa voix, et le fait que sa visière soit opaque
 et qu'elle ne veuille pas enlever sa combinaison sont toutefois légèrement inquiétants...
 
-<figure>
-  <img alt="Vue lontaine de deux vaisseaux à proximité d'une planète orange" src="img/d3bkj3c-62b60bbc-e3dc-487d-837c-07ed83aecaf6.jpg">
-  <figcaption><a href="https://www.deviantart.com/jimhatama/art/ISS-Whitebird-200832168">ISS Whitebird</a> de JimHatama - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
-</figure>
-
 
 ### Licence & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
@@ -771,21 +771,16 @@ h2:first-child { border: none; text-align: center; }
 s { text-decoration: none; font-size: 2rem; line-height: .9; vertical-align: bottom; }
 body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
-img { display: block; margin: 0 auto; max-width: 100%; max-height: 40rem; page-break-before: always; }
+img { display: block; margin: 0 auto; max-width: 100%; max-height: 40rem; break-inside: avoid; }
 figcaption { font-size: x-small; text-align: center; }
 table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; margin: 0 auto; }
 td { padding: 5px; border-top: 1px solid #ddd; }
 tr > td:first-child { font-weight: bold; width: 2rem; }
 tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
 
-#playbooks-et-tocs figure { max-width: 20rem; float: left; margin: 1rem; }
-
-#cachotteries table thead { text-align: center; }
-
-#contrats-bonus th:first-child { width: 10rem; text-align: center; }
-
-#say-cheese img { max-height: 25rem; }
-
+.playbook {
+    break-inside: avoid;
+}
 .float-left {
     float: left;
     max-width: 50%;
@@ -797,4 +792,12 @@ tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
     margin-left: 1rem;
 }
 .floats-clear { clear: both; }
+
+#playbooks-et-tocs figure { max-width: 20rem; float: left; margin: 1rem; }
+
+#cachotteries table thead { text-align: center; }
+
+#contrats-bonus th:first-child { width: 10rem; text-align: center; }
+
+#say-cheese img { max-height: 25rem; }
 </style>

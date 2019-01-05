@@ -66,7 +66,7 @@ Les exo-armures des Chimères sont dotées de générateurs holographiques
 capables de leur donner une apparence humaine. Cette projection se nomme **Psyché**.
 Elle ne permet pas de contact préhensible
 - -1 / création
-- Presence max = 8
+- Psychée max = 8
 - -1 / min si projetee a distance
 - -1 par comportment non realiste
 - -1 par modification d'apparence
@@ -112,17 +112,17 @@ d8 |
 
 **Férocité:** 
 
-**Présence:**
+**Humain:**
 
 **Vivacité:**
-
-**Armure:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 **Désavantage:** sa Psychée ne lui procure pas de couverture, il est systématiquement touché en cas d'attaque
 
 **Souvenirs:**
 
-**Exo-armure:**
+**Psychée:**
+
+**Exo-armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
 
 **Mouvements tactiques:** déplacement furtif - pénétrer dans une pièce en éliminant toute menace - parkour - sniper - tir de barrage
 </dl>
@@ -134,17 +134,17 @@ d8 |
 
 **Férocité:** 
 
-**Présence:**
+**Humain:**
 
 **Vivacité:**
-
-**Armure:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 **Désavantage:**
 
 **Souvenirs:**
 
-**Exo-armure:**
+**Psychée:**
+
+**Exo-armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
 
 **Mouvements tactiques:** déplacement furtif - pénétrer dans une pièce en éliminant toute menace - parkour - sniper - tir de barrage
 :::
@@ -155,15 +155,17 @@ d8 |
 
 **Férocité:** 
 
-**Présence:**
+**Humain:**
 
 **Vivacité:**
 
-**Armure:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+**Armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
 
 **Désavantage:** très lent lorsqu'il se déplace au sol, ne peut ps courir
 
 **Souvenirs:**
+
+**Psychée:**
 
 **Exo-armure:**
 
@@ -176,15 +178,17 @@ d8 |
 
 **Férocité:** 
 
-**Présence:**
+**Humain:**
 
 **Vivacité:**
 
-**Armure:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+**Armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
 
 **Désavantage:**
 
 **Souvenirs:**
+
+**Psychée:**
 
 **Exo-armure:**
 
@@ -217,11 +221,29 @@ cible éliminée, objectif atteind, menace écartée...
 ::::
 :::: grid-item
 ### Scènes
-Intro:
-    > Ok, l'enregistrement a démarré. Nous sommes le <date>.
-    > Ceci est la première opération sur le terrain de l'unité tactique Chimera.
-    > Soldat \_\_\_, êtes vous opérationnel ?
-    > Êtes-vous prêt à accomplir votre mission, et à obéir scrupuleusement à mes ordres ?
+::::
+:::: grid-item
+#### Intro
+> Ok, l'enregistrement a démarré. Nous sommes le <date>.
+> Ceci est la première opération sur le terrain de l'unité tactique Chimera.
+> Soldat \_\_\_, êtes vous opérationnel ?
+> Êtes-vous prêt à accomplir votre mission, et à obéir scrupuleusement à mes ordres ?
+::::
+:::: grid-item
+#### Mission 1 : Coulé par le fond
+**Ordres**:
+- couler le cargo "C'est Assez"
+- ne laisser aucune trace de combat
+- détruire le salle de serveurs informatiques à bord
+
+**Obstacles & cas de conscience**:
+- réfugiés à bord
+- 2 molosses
+- canon à harpons
+- abrite refuge flottant pour animaux "L'Arche de Noë"
+- marin avec lance à eau
+::::
+:::: grid-item
 Cas de conscience scénaristiques:
     civils
     femme avec bébé

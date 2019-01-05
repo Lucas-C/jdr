@@ -185,7 +185,7 @@ h2, h3, h4 {
 s { text-decoration: none; font-size: 2rem; line-height: .9; vertical-align: bottom; }
 body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
-img { display: block; margin: 0 auto; max-width: 100%; page-break-before: always; }
+img { display: block; margin: 0 auto; max-width: 100%; break-inside: avoid; }
 figcaption { font-size: x-small; text-align: center; }
 table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
 td { padding: 5px; border-top: 1px solid #ddd; }

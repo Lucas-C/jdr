@@ -1,6 +1,11 @@
 language: node_js
 node_js: '8'
 cache: npm
+addons:
+  apt:
+    packages:
+      - texlive-extra-utils
+      - ghostscript
 install:
 - npm install -g puppeteer-cli
 - npm install minimist markdown-it markdown-it-anchor markdown-it-checkbox markdown-it-header-sections
@@ -22,7 +27,12 @@ script:
 - cd -
 - cd scavengers
 - node ../md2html.js adj-scavengers.md > index.html
-- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+#- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then
+- if true; then
+    puppeteer print index.html ../$TRAVIS_TAG-tmp.pdf;
+    pdfjam ../$TRAVIS_TAG-tmp.pdf --nup 2x1 --landscape --outfile ../$TRAVIS_TAG.pdf;
+    rm ../$TRAVIS_TAG-rmp.pdf;
+  fi
 - cd -
 before_deploy: rm -rf node_modules/
 deploy:

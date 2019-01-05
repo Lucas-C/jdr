@@ -517,7 +517,7 @@ Le système est le même pour les Machines, sans besoin de simulateur.
 body { max-width: 60rem; margin: 40px auto; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
 h1, h2, h3 { line-height: 1.2; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
-img { display: block; margin: 0 auto; max-width: 100%; page-break-before: always; }
+img { display: block; margin: 0 auto; max-width: 100%; break-inside: avoid; }
 figcaption { font-size: x-small; text-align: center; }
 table { margin: 0 auto; border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
 tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
