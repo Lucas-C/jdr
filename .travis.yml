@@ -8,9 +8,9 @@ addons:
       - texlive-extra-utils
 install:
 - npm install -g puppeteer-cli
-- npm install minimist markdown-it markdown-it-anchor markdown-it-checkbox markdown-it-header-sections
-  markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table
-  markdown-it-smartarrows
+- npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
+  markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows
+  git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - node md2html.js index.md > index.html
@@ -27,11 +27,7 @@ script:
 - cd -
 - cd scavengers
 - node ../md2html.js adj-scavengers.md > index.html
-- if [[ $TRAVIS_TAG =~ ^scavengers ]]; then
-    puppeteer print index.html ../$TRAVIS_TAG-tmp.pdf;
-    pdfjam ../$TRAVIS_TAG-tmp.pdf --nup 2x1 --landscape --outfile ../$TRAVIS_TAG.pdf;
-    rm ../$TRAVIS_TAG-tmp.pdf;
-  fi
+- if [[ $TRAVIS_TAG =~ ^adj-scavengers ]]; then ./gen_pdf.sh $TRAVIS_TAG.pdf; fi
 - cd -
 before_deploy: rm -rf node_modules/
 deploy:

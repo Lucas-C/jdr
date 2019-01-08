@@ -1,21 +1,20 @@
 <!-- Tasks:
+- partager avec Alex Loywick rapport à Into The Dark jdr
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
   * https://game-icons.net/lorc/originals/space-suit.html
   * https://game-icons.net/delapouite/originals/spaceship.html ?
-- partager avec Alex Loywick rapport à Into The Dark jdr
-- notifier illustrateurs de l'utilisation de leurs oeuvres
 -->
 
 # Scavengers: anomalies nauchoresques
-
-## PISTES DE SCENARIOS & REGLES OPTIONNELLES
 
 <figure>
   <img alt="Un équipage de vaisseau spatial de 4 membres, dont un singe, discute autour d'une table ronde projetant un holocube" src="img/mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg">
   <figcaption><a href="https://mitchmalloy.artstation.com/projects/rKbBO">Eclipse Phase - Unwinding</a> de Mitchell Malloy - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
+
+## PISTES DE SCENARIOS & REGLES OPTIONNELLES
 
 Ceci est une aide de jeu pour **Scavengers**, le jeu de rôle de Grégory Pogorzelski :<br>
 <http://awarestudios.blogspot.com/2014/01/scavengers.html>
@@ -31,7 +30,7 @@ Cette aide de jeu contient:
 - de quoi [décrire votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#anomalies-nauchoresques),
 afin de donner une âme au plus fidèle compagnon de route des Scavengers
 - des [_playbooks_ & TOCs](#playbooks-et-tocs) pour vos personnages
-- une règle optionnelle, le [compas d'humeurs](#compas-dhumeurs), pour varier vos interprétations
+- une règle optionnelle, le [compas d'humeurs](#compas-d-humeurs), pour varier vos interprétations
 - des [cachotteries](#cachotteries) de mission, incluant des [contrats bonus](#contrats-bonus)
 - et enfin des [imprévus de voyages](#imprevus-de-voyage) listant des rebondissements aléatoires,
 certains tendant vers l'[horreur cosmique](#horreur-cosmique)
@@ -778,9 +777,7 @@ td { padding: 5px; border-top: 1px solid #ddd; }
 tr > td:first-child { font-weight: bold; width: 2rem; }
 tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
 
-.playbook {
-    break-inside: avoid;
-}
+.atomic-section { break-inside: avoid; }
 .float-left {
     float: left;
     max-width: 50%;
@@ -800,4 +797,32 @@ tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
 #contrats-bonus th:first-child { width: 10rem; text-align: center; }
 
 #say-cheese img { max-height: 25rem; }
+
+@media print {
+    h1 { margin: 8rem 0; }
+    body { font-size: 1rem; }
+    s { font-size: 1.8rem; }
+    #anomalies-nauchoresques img { max-height: 16rem; } /* To start table on next page */
+    #say-cheese img { display: none; } /* Tmp hack to fit on 15 pages: remove this if content change */
+}
 </style>
+<script>
+[].forEach.call(document.getElementsByTagName('section'), section => {
+    var lvl2Headers = section.getElementsByTagName('h2')
+    var lvl3Headers = section.getElementsByTagName('h3')
+    var hasHeader = lvl2Headers.length > 0 || lvl3Headers.length > 0
+    if (!hasHeader || lvl2Headers.length > 0 && lvl3Headers.length > 0) {
+        return
+    }
+    var hasBigTable = [].some.call(section.getElementsByTagName('table'), table => table.getElementsByTagName("tr").length > 7)
+    if (section.getElementsByTagName('table').length > 1 || hasBigTable) {
+        return
+    }
+    if (section.textContent.length > 4000) {
+        return
+    }
+    section.classList.add('atomic-section');
+    // Visual debug:
+    //section.style.backgroundColor = '#'+((1<<24)*Math.random()|0).toString(16); 
+})
+</script>
