@@ -1,7 +1,6 @@
 <!--
 Gradient de couleur pour bandeau noir
 Éthon -> bof nom (2 occurences)
-Souvenirs
 Code moral:
     Loyauté (envers créateurs / patrie ?)
     Tuer
@@ -23,6 +22,7 @@ Envies des PJs: -> objectifs gagnés lorsque jauge papillon remplie ?
     Être traité en égaux des hommes
     Vengeance
 Idées de mise en page
+    image de d8 + indiquer en préambule qu'il en faut pour jouer
     image de background
     zones textes arrondies et à l'opacité légèrement différente par rapport au fond
     traits reliants certaines caracs
@@ -112,7 +112,7 @@ Tout personnage sans armure est immédiatment mis K.O. lorsqu'il reçoit un dég
 
 **Désavantage:** sa Psychée ne lui procure pas de couverture, il est systématiquement touché en cas d'attaque
 
-**Souvenirs:**
+**Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -140,7 +140,7 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **Désavantage:**
 
-**Souvenirs:**
+**Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -167,7 +167,7 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **Désavantage:** très lent lorsqu'il se déplace au sol, ne peut pas courir
 
-**Souvenirs:**
+**Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -194,7 +194,7 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **Désavantage:**
 
-**Souvenirs:**
+**Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -223,9 +223,18 @@ Ils y ont leur quartiers personnels, une salle d'entrainement, etc.
 ### PNJs
 	homme de main ("G") → devient gorille à la fin
 	le jeune garçon blond et son pickup
-    véto
+    jeune homme véto
+    vieille femme cyberscientifique
     technicien / coordinateur radio
     femme major sévère (seule fiable ?)
+::::
+:::: grid-item
+### Vos souvenirs
+Chaque joueur répond à l'une de ces questions concernant votre groupe,
+en précisant en quoi son personnage est particulièrement concerné par ce souvenir :
+- qui considérez-vous comme votre père / mère / sauveur, et pourquoi ?
+- quel était votre jeu favori entre vous lorsque vous étiez plus jeunes ?
+- 
 ::::
 :::: grid-item
 ### Vocabulaire déshumanisant

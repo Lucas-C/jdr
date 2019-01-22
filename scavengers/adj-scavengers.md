@@ -1,5 +1,4 @@
 <!-- Tasks:
-- partager avec Alex Loywick rapport à Into The Dark jdr
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html

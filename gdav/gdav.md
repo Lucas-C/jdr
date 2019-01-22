@@ -1,19 +1,52 @@
 <!--
-- playtest #3
+- inclure feedbacks playtest #3 :
+  * insister sur la dimension tactique de choisir une mauvaise issue à une jet
+  * transformer les prouesses en "jokers" plus _freeform_ permettant aux joueurs d'introduire de nouveaux éléments à l'histoire, ainsi que +1 dé au jet
+  * modifier la table de résolution pour faire intervenir des Atouts encore non employés dans l'histoire
 - com' sur:
   * [x] https://www.500nuancesdegeek.fr
   * [x] http://www.taverneproduction.com/forum/
   * [x] https://www.casusno.fr
   * [ ] http://www.subasylum.com/Antoniobay/viewforum.php?f=3
-- à Noël demander conseils mise en page à tante Murielle
 - 5 badges à utiliser si besoin: https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
 - envisager publi & print-on-demande sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
 
-# Playtest n°2: japon féodal fantastique
+# Playtest n°1: Cédric, Matthieu, Simon - univers inventé
+
+# Playtest n°2: Henri, Loïc, Thomas - japon féodal fantastique
 - Hosiano - Découvir la contrée cachée de Blaitero - Attaches: village, défendre les faibles (pas employé) - Atouts: dexterité, stratège
 - Shigeru - Lever malédiction qui pèse sur son village - Attaches: village, ancien disciple - Atouts: bushido, amulette magique
 - Redishiro - Tuer le général Kemposhi - Attaches: sa femme disparue, legacy of his master - Atouts: sortilège de changement d'apparence, pouvoir de posession d'un corps
+
+# Playtest n°3: Loïc & Matthieu - univers inventé
+- Univers:
+  * inspis légendes arthuriennes, robin des bois
+  * magie: légendaire -> sorcières, fées, etc.
+  * géographie: archipel
+  * factions: ordre Balaguère, Royaume Frye, Baronnies, marchands de la Hanse...
+  * créatures: peuple loup, peuple aquatique d'humanoïdes à branchies
+  * dieux & légendes: esprit loup, esprit des vents (calme mais colérique, aigri car oublié, tombé dans l'oubli),
+  dieu de la mer & de la mort, les Patriaches (premiers hommes)
+  * antagoniste qui se dessine à travers les flashbacks: Baron Kottler, actuellement régent de l'île Sud
+- Héros:
+  * Eric: veut libérer l'île Hopling de l'envahisseur, et en particulier le baron Kottler.
+  Atouts: capitaine Huygens, qui se révelera un pianiste émérite; peau d'homme-loup; épée-foudre du patriarche Sicarius
+  * Sig: veut libérer son peuple des Hommes-Vers
+  Atouts: armure du dieu du vent; potion de bile de maquereau; oiseau des dieux
+- Pacte: Angus, Patriarche du peuple des mers, les envoie former une alliance en ralliant 3 autres Patriarches:
+  Rowa, du peuple loup; Senett des Femmes-Hurondelles; Jaco, roi des pirates.
+- Feedbacks:
+  * prépa longue
+  * flashbacks sympas - Suggestion: selection parmis choix multiples
+  * dans la 2e partie de la table de résolution, un échec a peu d'intérêt
+  suggestion: insister sur la dimension tactique de choisir une mauvaise issue à une jet
+  * prouesses héroïques pas employées
+  -> les transformer en "jokers" plus _freeform_ permettant aux joueurs d'introduire de nouveaux éléments à l'histoire, ainsi que +1 dé au jet
+  * les élements narratifs introduits par les jets de dés ne nuisent pas à la cohérence de l'histoire
+  * bon ressenti "amère victoire"
+  * suggestion: les Atouts pourraient fournir un bonus dans la scène finale
+  * idée: modifier la table de résolution pour faire intervenir des Atouts encore non employés dans l'histoire
 -->
 # Ameres Victoires & Glorieuses Defaites
 
@@ -68,9 +101,13 @@ de la technologie, des croyances, des factions, etc. de cet univers.
 
 
 ### Création des Héros / Héroïnes
-Chaque joueur inscrit sur sa [feuille de personnage](#hero-sheet) :
+Chaque joueur va incarner un **héro** ou une **héroïne**,
+aux capacités surhumaines et déjà renommé comme une légende vivante pour ses exploits.
+
+Inscrivez sur votre [feuille de personnage](#hero-sheet) :
 
 - son **nom**
+- son **apparence**
 - une **Prouesse héroïque** qu'il pourra utiliser dans la partie.
 Elles sont décrites dans la section suivante.
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
