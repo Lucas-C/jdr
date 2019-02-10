@@ -1,8 +1,4 @@
 <!--
-- inclure feedbacks playtest #3 :
-  * insister sur la dimension tactique de choisir une mauvaise issue à une jet
-  * transformer les prouesses en "jokers" plus _freeform_ permettant aux joueurs d'introduire de nouveaux éléments à l'histoire, ainsi que +1 dé au jet
-  * modifier la table de résolution pour faire intervenir des Atouts encore non employés dans l'histoire
 - com' sur:
   * [x] https://www.500nuancesdegeek.fr
   * [x] http://www.taverneproduction.com/forum/
@@ -51,7 +47,7 @@
 # Ameres Victoires & Glorieuses Defaites
 
 :::: block-centered limited-width rules
-Dans ce court jeu de rôle, les joueurs incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
+Dans ce court jeu de rôle, les joueurs incarnent les héro·ïnes d'une saga épique et tragique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
@@ -69,7 +65,7 @@ Voici quelques abréviations employées par la suite :
 - entre 2h et 4h devant vous
 - ce jeu imprimé (au moins la table de résolution)
 - une dizaine de dés à 6 faces (_d6_)
-- des pions quelconques qui serviront de **Pierres du Destin** (autant que de joueurs)
+- des pions quelconques qui serviront à représenter les **jalons du Pacte** (autant que de joueurs)
 - des crayons
 
 ## Déroulement de la partie
@@ -77,11 +73,11 @@ Voici quelques abréviations employées par la suite :
 <img id="game-flow-toc" class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="img/gdav-flow.png" usemap="#toc">
 <map name="toc">
   <area shape="circle" coords="87,86,85" href="#choix-dun-univers" alt="Choix d'un univers"/>
-  <area shape="circle" coords="318,86,85" href="#creation-des-heros-heroines" alt="Création des Héros / Héroïnes"/>
-  <area shape="circle" coords="555,86,85" href="#resume-de-la-saga" alt="Résumé de la saga"/>
-  <area shape="circle" coords="555,308,85" href="#le-pacte" alt="Le Pacte"/>
-  <area shape="circle" coords="318,308,85" href="#jets-de-des" alt="Les Pierres du Destin"/>
-  <area shape="circle" coords="87,308,85" href="#scene-finale" alt="Scène finale"/>
+  <area shape="circle" coords="318,86,85" href="#cr-ation-des-h-ro--nes" alt="Création des Héro·ïnes"/>
+  <area shape="circle" coords="555,86,85" href="#r-sum--de-la-saga" alt="Résumé de la saga"/>
+  <area shape="circle" coords="555,308,85" href="#le-pacte" alt="Établissement du Pacte"/>
+  <area shape="circle" coords="318,308,85" href="#jets-de-d-s" alt="Réalisation du Pacte"/>
+  <area shape="circle" coords="87,308,85" href="#sc-ne-finale" alt="Scène finale"/>
 </map>
 
 Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.
@@ -100,7 +96,7 @@ Il leur donne rapidement quelques éléments de la géographie, de l'histoire et
 de la technologie, des croyances, des factions, etc. de cet univers.
 
 
-### Création des Héros / Héroïnes
+### Création des Héro·ïnes
 Chaque joueur va incarner un **héro** ou une **héroïne**,
 aux capacités surhumaines et déjà renommé comme une légende vivante pour ses exploits.
 
@@ -108,8 +104,8 @@ Inscrivez sur votre [feuille de personnage](#hero-sheet) :
 
 - son **nom**
 - son **apparence**
-- une **Prouesse héroïque** qu'il pourra utiliser dans la partie.
-Elles sont décrites dans la section suivante.
+- un **Noeud du Destin** qu'il pourra utiliser dans la partie.
+Ils sont décrits dans la section suivante.
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: float-right insert random-tables
@@ -153,18 +149,14 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 ---|-
 2  | la (quasi ?) dernière survivante de son peuple, qui a tragiquement...
 3  | la voleuse au grand cœur, qui a un faible pour ...
-4  | l'héroïne qui a déjà sauvé mainte fois son peuple, tirée de sa retraite pour ...
+4  | l'héro·ïne qui a déjà sauvé mainte fois son peuple, tirée de sa retraite pour ...
 5  | la paria, rejetée par les siens à cause de ...
 6  | la veuve, qui a perdu son compagnon lors de ...
 :::
 
-
+<!--
 ### Prouesses héroïques
 
-<img class="block-centered medium-img" alt="Royal Mistwalker" src="img/royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
-
-Votre Héro peut déclencher cet événement une seule et unique fois dans la partie. A lui de le décrire avec moult effets spéciaux.
-Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: headless-table
 1  | votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
 ---|-
@@ -182,21 +174,52 @@ Pour déterminer de quoi il s'agit, lancez _1d6_ et reportez-vous à la liste su
 10 | un Atout de votre Héro devient surpuissant : vous pouvez désormais ajouter 2d6 quand vous l'employez. \
    | A vous de décrire comment / pourquoi cela arrive.
 :::
+-->
+
+### Noeuds du Destin
+
+<img class="block-centered" alt="Plague-ridden Sentinel" src="img/plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
+
+Les Noeuds représentent la capacité des Héro·ïnes à influer sur le Destin.
+À modifier le déroulement de l'histoire pour que le "hasard" les avantage,
+en provoquant l'apparition d'événements ou d'alliés inattendus.
+
+Chaque Noeud n'est utilisable qu'une seule et unique fois dans la partie.
+Vous pouvez le déclencher à n'importe quel moment, et décrire de quelle manière il se manifeste dans la scène en cours.
+Vous avez toute liberté pour décrire avec fracas l'arrivée, l'origine ou les motivations de nouveaux personnages,
+mais une fois votre description terminée le MJ aura tout contrôle sur eux.
+Enfin, vous disposez d'un bonus d'**1d6 supplémentaire** à votreu prochain jet de dé si votre Héro·ïne tourne cet événement à son avantage.
+
+A la création vous n'en disposez que d'un seul. Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
+
+::: headless-table
+1  | un personnage du passé d'un·e Héro·ïne intervient, lui rappelant une dette ou un engagement.
+---|-
+2  | introduisez dans l'histoire un moyen de transport non encore mentionné.
+3  | un personnage retourne sa veste et change de camp : pourquoi ?
+4  | introduisez une malédiction ou un sortilège affectant un lieu; \
+   | si vous jouez dans un univers sans magie, il s'agit d'une expérimentation high-tech qui a mal tourné.
+5  | un ou plusieurs personnages surgissent et bousculent l'équilibre d'un conflit; à vous de définir qui et leurs intentions.
+6  | introduisez un nouveau puissant artefact.
+7  | décrivez un effet de foule de votre choix : colère, terreur, mobilisation, vivas...
+8  | introduisez une créature monstrueuse ou mythique, à travers une légende, un obstacle ou directement dans l'action.
+9  | une puissance divine ou surnaturelle intervient; décrivez comment et pourquoi.
+:::
 
 ### Résumé de la saga
-La partie commence alors que les Héros sont regroupés autour d'un feu.
+La partie commence alors que les Héro·ïnes sont regroupés autour d'un feu.
 Un personnage ne payant pas de mine s'approche d'eux, curieux. Il a entendu parler de leurs exploits.
 
 Ce personnage est le **PMJ**, le personnage du MJ, qui a un rôle uniquement dans cette phase d'introduction,
 et éventuellement dans la **Scène finale**.
 
 Il peut s'agir d'un vagabond, d'un ménestrel, d'un moine scribe, d'un journaliste...
-N'importe qui à qui les Héros feront suffisamment confiance pour lui raconter quelques anecdotes de leurs aventures.
+N'importe qui à qui les Héro·ïnes feront suffisamment confiance pour lui raconter quelques anecdotes de leurs aventures.
 
-Durant cette phase, le MJ va donc, par l'intermédiaire de ce PMJ, interroger les joueurs sur le passé de leurs Héros.
+Durant cette phase, le MJ va donc, par l'intermédiaire de ce PMJ, interroger les joueurs sur le passé de leurs Héro·ïnes.
 Pour eux, c'est l'occasion d'obtenir des **Atouts** au travers de **Flashbacks** (cf. section suivante).
 
-Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro raconte **trois Flashbacks**.
+Le PMJ va donc animer la discussion, pour faire en sorte que chaque Héro·ïne raconte **trois Flashbacks**.
 Les joueurs sont également encouragés à se poser des questions entre eux pour déclencher des Flashbacks :
 
 > Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la garde t'as défié en duel ?
@@ -205,14 +228,14 @@ Les joueurs sont également encouragés à se poser des questions entre eux pour
 
 
 ### Flashbacks
-Les **Flashbacks** sont l'occasion pour les joueurs de décrire les aventures passées de leurs Héros,
+Les **Flashbacks** sont l'occasion pour les joueurs de décrire les aventures passées de leurs Héro·ïnes,
 et notamment de définir leurs **Atouts**.
 
-Une question est posée à un joueur sur le passé de son Héro.
+Une question est posée à un joueur sur le passé de son Héro·ïne.
 Une question personnalisée est idéale, en rebondissant sur ce qui a déjà dit,
 mais la table suivante peut donner des idées en cas de panne d'inspiration, surtout en début de partie :
 ::: headless-table
-1  | Pourquoi les habitants de ... te haïssent autant / te considèrent comme leur héro ?
+1  | Pourquoi les habitants de ... te haïssent autant / te considèrent comme leur héro·ïne ?
 ---|-
 2  | La rumeur court que tu possèdes une artefact unique... De quoi s'agit-il et comment l'as-tu obtenu ?
 3  | La rumeur court que tu possèdes une capacité unique... De quoi s'agit-il et comment l'as-tu obtenue ?
@@ -223,37 +246,37 @@ mais la table suivante peut donner des idées en cas de panne d'inspiration, sur
 
 Une fois la question énoncée, au joueur de répondre comme il l'entend.
 Il a néanmoins comme contrainte d'introduire dans sa narration un **Atout** :
-un objet de grande valeur sentimentale rendant le Héro redoutable, ou un personnage l'accompagnant dans sa quête.
-Cet Atout a une histoire et a tant de valeur eux yeux du Héro que le perdre serait une tragédie.
+un objet de grande valeur sentimentale rendant l'Héro·ïne redoutable, ou un personnage l'accompagnant dans sa quête.
+Cet Atout a une histoire et a tant de valeur eux yeux de l'Héro·ïne que le perdre serait une tragédie.
 
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: headless-table
-1  | l'Héroïne est accompagnée de son jeune disciple surdoué en ...
+1  | l'Héro·ïne est accompagnée de son jeune disciple surdoué en ...
 ---|-
-2  | l'Héroïne possède un très vieux livre antique, précieux mais maudit, qu'elle a juré de ramener à la bibliothèque de la Citadelle au péril de sa vie
-3  | la foi de l'Héroïne en son dieu lui procure le pouvoir d'invoquer un élément : foudre, vague de feu, tempête...
-4  | née d'un peuple esclave, l'Héroïne est leur élue : elle a le don de faire entendre sa voix dans leur tête et a juré de les libérer
-5  | l'Héroïne est une redoutable guerrière au code de l'honneur strict comme le Bushido
-6  | en jurant de servir le démon-dieu ... l'Héroïne a obtenu la capacité de pouvoir hypnotiser quiconque d'un regard
-7  | l'Héroïne possède une arme gigantesque / volante / les deux : c'est la dernière restante du clan et son maître lui a confié
-8  | l'amulette que lui a donné sa mère, son dernier souvenir d'elle, permet à l'Héroïne de donner vie à la matière inerte
-9  | l'Héroïne est accompagnée d'un destrier / compagnon animal magique
-10 | pour garantir la survie de ... l'Héroïne porte une malédiction: tout ce qui est vivant tombe en cendres lorsqu'elle le touche
+2  | l'Héro·ïne possède un très vieux livre antique, précieux mais maudit, qu'elle a juré de ramener à la bibliothèque de la Citadelle au péril de sa vie
+3  | la foi de l'Héro·ïne en son dieu lui procure le pouvoir d'invoquer un élément : foudre, vague de feu, tempête...
+4  | née d'un peuple esclave, l'Héro·ïne est leur élue : elle a le don de faire entendre sa voix dans leur tête et a juré de les libérer
+5  | l'Héro·ïne est une redoutable guerrière au code de l'honneur strict comme le Bushido
+6  | en jurant de servir le démon-dieu ... l'Héro·ïne a obtenu la capacité de pouvoir hypnotiser quiconque d'un regard
+7  | l'Héro·ïne possède une arme gigantesque / volante / les deux : c'est la dernière restante du clan et son maître lui a confié
+8  | l'amulette que lui a donné sa mère, son dernier souvenir d'elle, permet à l'Héro·ïne de donner vie à la matière inerte
+9  | l'Héro·ïne est accompagnée d'un destrier / compagnon animal magique
+10 | pour garantir la survie de ... l'Héro·ïne porte une malédiction: tout ce qui est vivant tombe en cendres lorsqu'elle le touche
 :::
 
 ### Le Pacte
 ::: float-right insert variant
-Dans les exemples fournis, les étapes du Pacte ont toutes la même structure.
+Dans les exemples fournis, les jalons du Pacte ont toutes la même structure.
 Il aussi possible de décomposer la quête en phases plus variées.
 Par exemple pour **trouver le trésor de ...** en 4 étapes : trouver des archives qui le mentionnent ;
 trouver un savant pour les traduire et situer le lieu ; le convaincre de le faire ; se rendre sur place.
 :::
-Le MJ définit alors le Pacte qu'il va sceller avec les Héros, c'est-à-dire une mission épique précise.
+Le MJ définit alors le Pacte qu'il va sceller avec les Héro·ïnes, c'est-à-dire une mission épique précise.
 Il doit donner lieu à des scènes héroïques, mais gardez en tête qu'il doit être réalisable en une session,
 qui à accélerer le rythme de l'histoire.
 
-Chaque Pacte doit pouvoir être accomplis en N étapes, N correspondant au nombre de PJs + 1,
-et donc au nombre de Pierres du Destin qui sera distribué.
+Chaque Pacte doit pouvoir être accomplis en N jalons, N correspondant au nombre de PJs + 1,
+et donc au nombre de jetons de jalons du Pacte qui sera distribué.
 
 Vous pouvez, au choix, lancer _1d6_ dans l'une des tables suivantes,
 ou bien simplement vous en inspirer pour proposer un Pacte aux joueurs,
@@ -281,11 +304,11 @@ d6 | Idées de pactes
 
 ::: floats-clear
 En fonction du pacte et de l'univers, choisissez l'identité secrète de votre PMJ :
-- un mystérieux commanditaire souhaitant engager les Héros
+- un mystérieux commanditaire souhaitant engager les Héro·ïnes
 - un puissant sorcier
-- un dieu (de la Mort, de la Ruse, de la Justice...) mettant au défi les Héros, ou complotant contre un autre dieu
-- un démon tentateur, intéressé par les âmes des Héros
-- un ange, interdit d'intervenir directement dans les affaires des mortels, mais recrutant les Héros néanmoins 
+- un dieu (de la Mort, de la Ruse, de la Justice...) mettant au défi les Héro·ïnes, ou complotant contre un autre dieu
+- un démon tentateur, intéressé par les âmes des Héro·ïnes
+- un ange, interdit d'intervenir directement dans les affaires des mortels, mais recrutant les Héro·ïnes néanmoins 
 - un être illuminé, ayant accédé au statut de conscience supérieure (ex: Anciens dans SG1, fantôme de jedi...)
 :::
 
@@ -296,100 +319,116 @@ Il est également tout à fait possible d'établir le Pacte comme une règle de 
 sans incidence dans l'univers de la partie et donc sans PMJ personnifiant cet accord tacite.
 Le MJ s'adresse alors aux joueurs et non aux PJs, telle une [Moire](https://fr.wikipedia.org/wiki/Moires) tissant leur destins...
 
-De même, le lien entre le **Pacte** et les **Objectifs** des Héros peut être plus ou moins cohérent,
+De même, le lien entre le **Pacte** et les **Objectifs** des Héro·ïnes peut être plus ou moins cohérent,
 selon votre inspiration du moment. Idéalement ils sont intimement liés, le Pacte formant les étapes nécessaires
-pour que les Héros accomplissent leurs Objectifs. Mais tant pis si le lien est ténu,
+pour que les Héro·ïnes accomplissent leurs Objectifs. Mais tant pis si le lien est ténu,
 après tout les mystérieux plans du tout puissant PMJ sont insondables...
 :::
 
-Révélez alors votre nature aux Héros, à grand renforts d'effets spéciaux et de miracles.
+Révélez alors votre nature aux Héro·ïnes, à grand renforts d'effets spéciaux et de miracles.
 
 Proposez-leur votre Pacte, ce qu'ils doivent accomplir pour vous et vos conditions,
 en échange de quoi ils obtiendront chacun ce qu'ils cherchent.
 
-Vous pouvez lâchez théâtralement au centre de la table autant de **Pierres du Destin** que le nombre de PJs + 1.
+Vous pouvez lâchez théâtralement au centre de la table autant de jetons symbolisant les **jalonss du Pacte** que le nombre de PJs + 1.
 Ces pions symbolisent les objectifs à atteindre pour accomplir le Pacte.
 
 A partir de ce moment, vous pouvez d'or et déjà vous creuser la tête sur comment vous allez, lors de la Scène finale,
-donner l'opportunité à tous les Héros d'accomplir leurs Objectifs en un seul lieu...
+donner l'opportunité à tous les Héro·ïnes d'accomplir leurs Objectifs en un seul lieu...
 
 
 ### Jets de dés
-Lorsqu'un Héro tente d'accomplir une action risquée, le joueur lance **3d6 blancs**.
+Lorsqu'un·e Héro·ïne tente d'accomplir une action risquée, le joueur lance **3d6 blancs**.
 
 S'il emploie certains de ses **Atouts** pour accomplir cette action,
 il ajoute **1d6 par Atout employé**.
 
 Une fois les résultats obtenus, le joueur place ensuite 3 dés dans la partie supérieure de la **[table de résolution](#table-de-resolution)**.
 Le dé placé au sommet de la table détermine:
-- le **résultat de l'action**, réussite sur un 5 ou un 6, échec sinon
+- le **résultat de l'action** : réussite sur un 5 ou un 6, échec sinon
 - dans **quelle colonne de la table placer les autres dés** : en cas de réussite les autres d6
-doivent être placés **tous à gauche ** dans la table, et **tous à droite** en cas d'échec
+  doivent être placés **tous à gauche ** dans la table, et **tous à droite** en cas d'échec.
+
+  Notez qu'il peut être stratégique de parfois choisir qu'une action échoue
+  afin d'obtenir des avantages uniquement présents dans la colonne de droite.
 
 La deuxième ligne détermine les conséquences de l'action :
-- il peut s'agir d'une **réussite ÉPIQUE**, le joueur décrit alors comment son Héros accomplit son œuvre avec panache
-- il peut s'agit d'une **complication** : que l'action soit réussie ou non, quelque chose tourne mal tout de même...
-Selon la colonne, le MJ ou n'importe quel autre joueur autour de la table a la parole pour décrire cette complication.
-- enfin, un **Flashback** peut être déclenché. Celui-ci est décrit une fois le résultat de l'action décrit.
-N'importe quel autre joueur pose alors une question sur son passé au joueur qui a fait le lancé, et on suit les même règles que les Flashback de début de partie.
+- si un dé de valeur 4, 5 ou 6 est placé ici :
+  * en cas de succès de l'action entreprise, il s'agit d'une **réussite ÉPIQUE** !
+    Au joueur de décrire comment son Héro·ïne accomplit son objectif avec panache
+  * en cas d'échec de l'action, et si l'Héro·ïne possède un Atout qu'il n'a pas encoré employé,
+    il révèle celui-ci et évite le pire ce faisant ! Au joueur de décrire comment il s'en sort _in extremis_.
 
-La troisième ligne révèle de potentielles opportunités :
+    Si l'Héro·ïne a déjà employé une fois tous ces Atouts, il peut **obtenir un nouvel Atout**.
+    Selon la situationn il peut s'agir d'un artefact présent dans les lieux, d'une arme volée à un adversaire,
+    ou encore d'un objet que l'Héro·ïne possédait déjà, et dont un Flashback expliquera l'origine.
+    En pratique, avant la description du MJ du résultat de l'action, les autres joueurs émettent leurs propositions,
+    et le joueur ayant effectué le jet choisit parmis elles. Si l'option "Flashback" est retenue, la manière dont l'Atout a été
+    acquis est décrite dans la scène suivante, pour ne pas casser le rythme de l'action.
+- sinon, si le dé est de valeur 1, 2 ou 3, il s'agit d'une **complication** : que l'action soit réussie ou non,
+  quelque chose tourne mal tout de même...
+  Selon la colonne, le MJ ou n'importe quel autre joueur autour de la table a la parole pour décrire cette complication.
+
+La troisième ligne révèle de potentielles opportunités. Selon si l'action est réussie à la valeur du dé placé ici :
 - l'action peut se révéler **ouvrir une porte vers la réalisation du Pacte**.
-Au MJ d'expliquer alors comment cela avance les PJs rapidement vers une opportunité de retirer une Pierre du Destin.
-- l'action entreprise peut également donner une opportunité **à une autre Héro** :
-diversion, attaque combinée, bluff... le joueur explique quelle synergie est créée avec quel autre Héro.
-- le Héro peut être **incapacité** : assommé, immobilisé, paralysé, inconscient...
-Le MJ explique ce qui lui arrive.
-- enfin, le joueur peut obtenir une **Prouesse Héroïque**.
+  Au MJ d'expliquer alors comment cela avance les PJs rapidement vers une opportunité d'accomplir un jalon du Pacte.
+- l'action entreprise peut également donner une opportunité **à un·e autre Héro·ïne** :
+  diversion, attaque combinée, bluff... le joueur explique quelle synergie est créée avec quel autre Héro·ïne.
+- le joueur peut obtenir un nouveau **Noeud du Destin**, aléatoirement en effectuant le même jet qu'à la création de son Héro·ïne.
+- enfin l'Héro·ïne peut être **incapacité** : assommé, immobilisé, paralysé, inconscient...
+  Le MJ explique ce qui lui arrive.
 
 
-### Retirer une Pierre du Destin
+### Accomplir un jalon du Pacte
 
-<img class="block-centered" alt="Plague-ridden Sentinel" src="img/plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
+<img class="block-centered medium-img" alt="Royal Mistwalker" src="img/royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
 
-Lorsqu'un Héro est en position d'accomplir une action qui pourrait lui permettre d'accomplir une étape du Pacte,
+Lorsqu'un·e Héro·ïne est en position d'accomplir une action qui pourrait lui permettre d'accomplir un jalon du Pacte,
 il doit l'annoncer, et on replie alors la table de résolution.
 
 Il doit alors **mettre en jeu** un **Atout**.
-S'il n'en a pas, il ne pourra pas retirer de Pierre du Destin.
+S'il n'en a pas, il ne pourra pas accomplir de jalon du Pacte.
 
 Il lance alors **4d6 blancs**, plus d'éventuels dés supplémentaires en fonctions de ses Atouts,
 et place 4 dés parmi les résultats dans la table repliée :
-- **un autre Héro peut perdre un Atout** : celui-ci est enlevé ou volé par une créature, qui peut alors éventuellement s'en servir
-- il peut être **incapacité**, et alors un autre Héro peut **prendre le relais**.
-Encore une fois, cet au joueur d'expliquer comment ce PJ a à son tour l'occasion de retirer une Pierre du Destin en accomplissant le Pacte.
+- **un·e autre Héro·ïne peut perdre un Atout** : celui-ci est enlevé ou volé par une créature, qui peut alors éventuellement s'en servir
+- il peut être **incapacité**, et alors un·e autre Héro·ïne peut **prendre le relais**.
+Encore une fois, c'est au joueur d'expliquer comment ce PJ a désormais l'occasion d'accomplir un jalon du Pacte.
 - enfin, il peut **perdre l'Atout qu'il a misé** à jamais, détruit sous ses yeux
 
+Si le dé placé dans la première ligne indique une réussite,
+alors le jalon est accomplit, et les joueurs retirent un des jetons correspondant du centre de la table.
+
 ::: float-right insert variant
-Si jamais un Héro meurt en cours de partie, il pourra tout de même aider ses camarades par-delà la mort :
+Si jamais un·e Héro·ïne meurt en cours de partie, il pourra tout de même aider ses camarades par-delà la mort :
 une fois par demi-heure, il peut accorder un bonus d'_1d6_ supplémentaire au jet d'un joueur.
 :::
 
 ### Scène finale
-Lorsque la dernière pierre de Destin a été défaussée, le MJ introduit la **Scène finale**.
+Lorsque le dernier jeton de jalon du Pacte a été défaussé, le MJ introduit la **Scène finale**.
 
-Comme promis au début de la partie, cette scène doit être l'occasion pour tous les Héros d'accomplir leurs **Objectifs**.
-Le MJ décrit le lieu, les personnages présents et brièvement comment les Héros sont arrivés ici pendant cette ellipse temporelle.
+Comme promis au début de la partie, cette scène doit être l'occasion pour tous les Héro·ïnes d'accomplir leurs **Objectifs**.
+Le MJ décrit le lieu, les personnages présents et brièvement comment les Héro·ïnes sont arrivés ici pendant cette ellipse temporelle.
 
 <img class="block-centered" alt="Lightless Conspirators" src="img/lightless_conspirators_by_halycon450_dcaa0qm-fullview.png">
 
 Ensuite, chaque joueur va miser secrètement pour la résolution qu'il souhaite pour cette scène parmi les choix suivant :
 
 ::: headless-table
-1  | **Tous les Objectifs** sont accomplis, mais **deux Héros y laissent la vie**.\
+1  | **Tous les Objectifs** sont accomplis, mais **deux Héro·ïnes y laissent la vie**.\
    | Ils sont tirés au hasard parmi les joueurs ayant choisi cette option
 ---|-
-2  | **Un Héro perd la vie**, tiré au hasard parmi les joueurs ayant choisi cette option. \
-   | **Les Objectifs des autres Héros** sont accomplis.
-3  | **Un seul Héro accomplit son objectif**. \
-   | Si plusieurs joueurs choisissent cette option, ce Héro est tiré au hasard parmi eux, mais **il y laisse alors la vie**
+2  | **Un·e Héro·ïne perd la vie**, tiré au hasard parmi les joueurs ayant choisi cette option. \
+   | **Les Objectifs des autres Héro·ïnes** sont accomplis.
+3  | **Un·e seul·e Héro·ïne accomplit son objectif**. \
+   | Si plusieurs joueurs choisissent cette option, ce·tte Héro·ïne est tiré au hasard parmi eux, mais **il y laisse alors la vie**
 :::
 
 Une fois les votes révélés, c'est **l'option de valeur la plus élevée** ayant reçu au moins un vote qui l'emporte.
-On effectue alors le ou les jets aléatoires requis pour déterminer les Héros / Objectifs concernés.
+On effectue alors le ou les jets aléatoires requis pour déterminer les Héro·ïnes / Objectifs concernés.
 
-Ensuite, en commençant par ces Héros,
-chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro au cours de cette scène et après,
+Ensuite, en commençant par ces Héro·ïnes,
+chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro·ïne au cours de cette scène et après,
 en complétant ce que le précédent vient de décrire.
 
 <img class="block-centered small-img" src="img/bone-1299051_1280.png">

@@ -22,23 +22,19 @@
         <h3 class="table-row-name">Effet ?</h3>
         <div class="row">
             <div class="column effects-caption">
-                <div>EPIQUE ! <span class="speaks">(PJ)</span></div>
-                <hr class="line-fading">
-                <div>-</div>
+                <div>réussite <strong>épique !</strong> <span class="speaks">(PJ)</span> <br>&nbsp;</div>
                 <hr class="line-fading">
                 <div>complication... <span class="speaks">(MJ)</span></div>
             </div>
             <div class="die-box-background die-box-effect">
-                <div class="column die-box die-box-with-ranges">
-                    <div>5 - 6</div>
-                    <div>4</div>
+                <div class="column die-box">
+                    <div>4 - 5 - 6</div>
                     <div>1 - 2 - 3</div>
                 </div>
             </div>
             <div class="column effects-caption">
-                <div>Flashback <span class="speaks">(J → J)</span></div>
-                <hr class="line-fading">
-                <div>-</div>
+                <div><strong>sauvé</strong> par Atout inutilisé <span class="speaks">(J)</span> <br>
+                <strong>ou</strong> gain d'Atout <span class="speaks">(J → J)</span></div>
                 <hr class="line-fading">
                 <div>complication... <span class="speaks">(autre J)</span></div>
             </div>
@@ -56,14 +52,14 @@
                 <div>-</div>
             </div>
             <div class="die-box-background die-box-opportunity">
-                <div class="column die-box die-box-with-ranges">
+                <div class="column die-box">
                     <div>6</div>
                     <div>4 - 5</div>
                     <div>1 - 2 - 3</div>
                 </div>
             </div>
             <div class="column effects-caption">
-                <div>+1 Prouesse Héroïque <span class="speaks">(J)</span></div>
+                <div>+1 Noeud du Destin <span class="speaks">(J)</span></div>
                 <hr class="line-fading">
                 <div>-</div>
                 <hr class="line-fading">
@@ -130,13 +126,14 @@
 @page { margin: 10% }
 
 .resolution-table {
-    --die-size: 6rem;
+    --die-size: 8rem;
     --die-margin: .3rem; 
-    --die-border-padding: .6rem; 
+    --die-border-padding: 1rem; 
     --table-row-name-height: 1.8rem; 
     --table-row-separator-margin: 1rem; 
     width: 50rem;
     margin: 0 auto;
+    font-family: Georgia, serif;
 }
 .column {
     display: flex;
@@ -146,6 +143,7 @@
     flex-shrink: 0;
 }
 .row {
+    width: 80%;
     display: flex;
     flex-flow: row;
     align-items: center;
@@ -193,8 +191,7 @@
     background: repeating-linear-gradient(-45deg, white, white 10px, #eee 10px, #eee 13px);
     margin: calc( -1 * var(--table-row-separator-margin) ) 0;
     padding: var(--table-row-separator-margin) 0;
-    font-family: DampfPlatz;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     font-style: italic;
     text-align: center;
 }
@@ -210,13 +207,10 @@
     text-align: center;
     font-family: DampfPlatz;
     line-height: 1rem;
+    font-size: 1.6rem;
 }
 .die-box-big-text {
-    font-size: 1.6rem;
-    padding-bottom: 0.5rem;
-}
-.die-box-with-ranges {
-    font-size: .9rem;
+    font-size: 2.5rem;
 }
 .corner-arrow {
     margin: 0 2rem;
