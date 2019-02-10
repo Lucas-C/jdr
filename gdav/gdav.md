@@ -481,6 +481,11 @@ le manga _Berserk_ ainsi que les jeux vidéo _Dark Souls_ et _Shadow of the Colo
 !!!include(hero-sheet.html)!!!
 </div>
 
+<div id="hero-sheet" class="on-new-page">
+!!!include(hero-sheet.html)!!!
+!!!include(hero-sheet.html)!!!
+</div>
+
 <!--
 :::: on-new-page block-centered limited-width rules
 ## Un univers créé en 90min
