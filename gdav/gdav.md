@@ -80,7 +80,7 @@ Voici quelques abréviations employées par la suite :
   <area shape="circle" coords="87,308,85" href="#sc-ne-finale" alt="Scène finale"/>
 </map>
 
-Les termes avec des majuscules correspondent à des éléments de la mécanique de jeu.
+<div class="web-only">Vous pouvez vous rendre aux sections correspondantes en cliquant sur les cercles ci-dessus.</div>
 
 ### Choix d'un univers
 ::: float-right insert variant
@@ -107,6 +107,8 @@ Inscrivez sur votre [feuille de personnage](#hero-sheet) :
 - un **Noeud du Destin** qu'il pourra utiliser dans la partie.
 Ils sont décrits dans la section suivante.
 - son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
+Il doit être ambitieux mais réalisable durant la partie.
+
 En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 ::: float-right insert random-tables
 A plusieur reprises dans ce jeu, vous aurez à lancer _1d6_ puis à vous reporter à une table "en ignorant les lignes déjà obtenues".
@@ -483,6 +485,7 @@ Mes inspirations notables : [Psi*Run](https://chezsoi.org/lucas/blog/tag/psirun.
 les [jeux de rôle monopage](http://troplongpaslu.fr) pour la profusion de table aléatoires;
 le manga _Berserk_ ainsi que les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_ pour l'univers que j'avais initialement en tête pour le jeu.
 
+<!--
 ## Un univers créé en 90min
 
 Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table,
@@ -557,8 +560,8 @@ d6 | Origine
 6  | Enfoui
 
 Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant se sentir contraints par eux.
+-->
 ::::
-
 
 <style>
 @font-face { /* OK max 2.5rem */
@@ -644,7 +647,10 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; break-
     content: 'Tables aléatoires';
 }
 
-@media print { .on-new-page { page-break-before: always; } }
+@media print {
+  .on-new-page { page-break-before: always; }
+  .web-only { display: none; }
+}
 /* Optimisation manuelle de la mise en page PDF: */
 #deroulement-de-la-partie, #flashbacks { page-break-before: always; }
 </style>
