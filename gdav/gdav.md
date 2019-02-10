@@ -51,7 +51,7 @@ Dans ce court jeu de rôle, les joueurs incarnent les héro·ïnes d'une saga é
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
 
-<img class="block-centered" alt="Stormchaser Proving Grounds" src="img/stormchaser_proving_grounds_by_halycon450_dav4fd5-fullview.jpg">
+<img id="top-img" class="block-centered" alt="Stormchaser Proving Grounds" src="img/stormchaser_proving_grounds_by_halycon450_dav4fd5-fullview.jpg">
 
 ### Jeu de rôle ?
 Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définition du JdR de la FFJdR](http://www.ffjdr.org/ce-devez-savoir-jeu-role/definitions-du-jeu-role/)
@@ -61,12 +61,10 @@ Voici quelques abréviations employées par la suite :
 - PJ = Personnage d'un Joueur
 
 ### Ce dont vous aurez besoin
-- un MJ + 2 à 4 autre joueurs
-- entre 2h et 4h devant vous
-- ce jeu imprimé (au moins la table de résolution)
+- un MJ + 2 à 4 autre joueurs, et entre 2h et 4h devant vous
+- ce jeu imprimé (au moins la table de résolution et les feuilles de personnage) et des crayons
 - une dizaine de dés à 6 faces (_d6_)
 - des pions quelconques qui serviront à représenter les **jalons du Pacte** (autant que de joueurs)
-- des crayons
 
 ## Déroulement de la partie
 
@@ -314,7 +312,7 @@ En fonction du pacte et de l'univers, choisissez l'identité secrète de votre P
 - un être illuminé, ayant accédé au statut de conscience supérieure (ex: Anciens dans SG1, fantôme de jedi...)
 :::
 
-<img class="block-centered" alt="Schismatic Astronomer" src="img/schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
+<img id="pmj" class="block-centered" alt="Schismatic Astronomer" src="img/schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
 
 ::: float-right insert variant
 Il est également tout à fait possible d'établir le Pacte comme une règle de jeu "méta",
@@ -327,7 +325,7 @@ pour que les Héro·ïnes accomplissent leurs Objectifs. Mais tant pis si le lie
 après tout les mystérieux plans du tout puissant PMJ sont insondables...
 :::
 
-Révélez alors votre nature aux Héro·ïnes, à grand renforts d'effets spéciaux et de miracles.
+Révélez alors votre nature aux Héro·ïnes, à grand renforts d'effets spéciaux.
 
 Proposez-leur votre Pacte, ce qu'ils doivent accomplir pour vous et vos conditions,
 en échange de quoi ils obtiendront chacun ce qu'ils cherchent.
@@ -381,9 +379,9 @@ La troisième ligne révèle de potentielles opportunités. Selon si l'action es
   Le MJ explique ce qui lui arrive.
 
 
-### Accomplir un jalon du Pacte
-
 <img class="block-centered medium-img" alt="Royal Mistwalker" src="img/royal_mistwalker_by_halycon450_dcgai1u-fullview.png">
+
+### Accomplir un jalon du Pacte
 
 Lorsqu'un·e Héro·ïne est en position d'accomplir une action qui pourrait lui permettre d'accomplir un jalon du Pacte,
 il doit l'annoncer, et on replie alors la table de résolution.
@@ -434,22 +432,7 @@ chaque joueur prend alors la parole pour décrire ce qu'il advient de son Héro�
 en complétant ce que le précédent vient de décrire.
 
 <img class="block-centered small-img" src="img/bone-1299051_1280.png">
-::::
 
-:::: on-new-page
-::: block-centered limited-width
-## Table de résolution
-<span class="speaks">Entre parenthèses et en vert</span> est indiqué QUI a la parole.
-:::
-!!!include(resolution-table.html)!!!
-::::
-
-<div id="hero-sheet" class="on-new-page">
-!!!include(hero-sheet.html)!!!
-!!!include(hero-sheet.html)!!!
-</div>
-
-:::: on-new-page block-centered limited-width rules
 ## Sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
@@ -484,8 +467,22 @@ Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sa
 Mes inspirations notables : [Psi*Run](https://chezsoi.org/lucas/blog/tag/psirun.html) de Meguey Baker pour sa table de résolution géniale;
 les [jeux de rôle monopage](http://troplongpaslu.fr) pour la profusion de table aléatoires;
 le manga _Berserk_ ainsi que les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_ pour l'univers que j'avais initialement en tête pour le jeu.
+::::
+
+:::: on-new-page
+::: block-centered limited-width
+## Table de résolution
+:::
+!!!include(resolution-table.html)!!!
+::::
+
+<div id="hero-sheet">
+!!!include(hero-sheet.html)!!!
+!!!include(hero-sheet.html)!!!
+</div>
 
 <!--
+:::: on-new-page block-centered limited-width rules
 ## Un univers créé en 90min
 
 Le MJ a commencé par lister **quelques sources d'inspirations** connues des joueurs autour de la table,
@@ -560,8 +557,8 @@ d6 | Origine
 6  | Enfoui
 
 Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant se sentir contraints par eux.
--->
 ::::
+-->
 
 <style>
 @font-face { /* OK max 2.5rem */
@@ -648,8 +645,16 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; break-
 }
 
 @media print {
-  .on-new-page { page-break-before: always; }
+  h1 { font-size: 4.5rem; }
+  #top-img { max-height: 18rem; }
+  #d-roulement-de-la-partie > div:nth-of-type(1) { max-height: 20rem; }
+  div { background-repeat: no-repeat; } /* in order to fix glith with #game-flow-toc rendering */
   .web-only { display: none; }
+  #pmj { max-height: 24rem; }
+  #jets-de-d-s { page-break-before: always; }
+  #jets-de-d-s img { max-height: 22rem; }
+  #accomplir-un-jalon-du-pacte { page-break-before: always; }
+  .on-new-page { page-break-before: always; }
 }
 /* Optimisation manuelle de la mise en page PDF: */
 #deroulement-de-la-partie, #flashbacks { page-break-before: always; }
