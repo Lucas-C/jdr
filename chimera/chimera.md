@@ -30,11 +30,12 @@ Proposer sur http://troplongpaslu.fr
 -->
 # ![Logo papillon Chimera](img/Butterfly_Logo.jpg)
 ::: center-text
-_Ce jeu de rôle vous propose d'incarner des personnages inspirés des BDs [We3](https://en.wikipedia.org/wiki/We3) et [Idoles](https://www.bedetheque.com/serie-11587-BD-Idoles.html).
-Des animaux cybernétiques à l'intelligence augmentée, créés par l'armée pour accomplir ses basses oeuvres.
-Surentrainés, surarmés et dotés de camouflages tactiques.
+_Dans ce jeu de rôle vous incarnez des animaux cybernétiques à l'intelligence augmentée, créés par l'homme pour accomplir ses basses oeuvres.
+Entrainés par l'armée, surarmés et dotés de camouflages tactiques.
 Plus performants que des drones, et sans scrupules humains.
 En théorie._
+
+Ces personnages sont inspirés des BDs [We3](https://en.wikipedia.org/wiki/We3) et [Idoles](https://www.bedetheque.com/serie-11587-BD-Idoles.html).
 :::
 
 ::::: grid
@@ -51,7 +52,7 @@ En cas de double :
 d8 | Conséquence sur le résultat de l'action
 ---|-
 1-2| L'instinct prend le dessus: tu hurles, fuis, couines, grognes ou charges.\
-   | Tu continues ainsi que tu ne réussis pas un jet de ...
+   | Tu continues ainsi tant que tu ne réussis pas un jet de _Soldat d'élite_
 3-4| Réussite de justesse / échec de peu
 5-6| Oui mais ... / Non mais ...
 7-8| Spectaculaire
@@ -63,21 +64,21 @@ Elle est branchée directement dans leur corps via divers cables, mais ne le rec
 elle n'est pas tant là pour les protéger que pour les dissimuler grâce à la **Psychée** projetée,
 et pour leurs fournir des « améliorations » létales.
 
-De plus, les Chimères sont équipées de **lunettes de vision thermique**,
+Les Chimères sont également toutes équipées de **lunettes de vision thermique**,
 leur permettant de déceler toute présence humaine à 50m à travers tout bâtiment.
 
-Enfin, leur exo-armures comporte une caméra, constament allumée pour que leurs officiers coordinateurs les supervisent,
+Enfin, leur exo-armure comporte une caméra, constament allumée pour que leurs officiers coordinateurs les supervisent,
 ainsi qu'une radio leur permettant de communiquer entre eux et avec ces même officiers.
-Sans elle, ils sont capables de se comprendre uniquement entre eux par grigenements, et de manière très limitée.
+Sans elle, ils sont capables de se comprendre uniquement entre eux par grogenements, et de manière très limitée.
 ::::
 :::: grid-item
 ### Psyché
-Telle est le nom de la projection capable de leur donner une apparence humaine,
-produite par le générateur holographiques de leurs exo-armures.
+Telle est le nom de la projection néo-lographique capable de leur donner une apparence humaine.
+Elle est produite par un générateur au sein de leurs exo-armures.
 Elle ne permet pas de contact préhensible mais peut projeter indéfiniment leur image "usuelle" d'humain qu'ils emploient.
-En entamant sa réserve d'énergie (de 8 unités), un contrôle plus fin est possible :
+En entamant sa réserve d'énergie (de 8 unités), une Chimère peut exercer un contrôle plus fin dessus :
 - -1 unité / min pour adopter une autre apparence, par exemple terrifiante ou celle d'un autre humain
-- -1 unité / min pour projeter l'hologramme à distance, à portée de vue
+- -1 unité / min pour projeter l'image à distance, à portée de vue
 - -1 unité / min pour adopter un camouflage mimétique invisible
 
 Cette réserve se regénère à raison d'1 unité / 5 min sans aucune projection.
@@ -88,8 +89,8 @@ Quand les Chimères ont leur Psyché activée, en dehors d'Arcas à la carrure m
 et de simplement traverser la projection au-dessus de leur tête. Le joueur lance 1d8 : sur **5+** l'attaque échoue ainsi,
 mais sur un **8** l'attaquant comprend qu'il s'agit d'une projection et ne se trompera plus.
 
-Une attaque par balle ou arme tranchante fait 1 dégât. Une explosion fait 2 dégâts.
-Les Chimères possède une armure qui absorde les dégâts, mais qui s'abimera au fur et à mesure.
+Une attaque par balle ou arme tranchante fait **1 dégât**. Une explosion fait **2 dégâts**.
+Les Chimères possèdent une armure qui absorde les dégâts, mais qui s'abimera au fur et à mesure.
 Tout personnage sans armure est immédiatment mis K.O. lorsqu'il reçoit un dégât.
 ::::
 :::::
@@ -115,6 +116,7 @@ Tout personnage sans armure est immédiatment mis K.O. lorsqu'il reçoit un dég
 **Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+_Protection_: aucune
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Exo-armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
@@ -143,6 +145,7 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 **Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+_Protection_: 5+
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Exo-armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
@@ -170,6 +173,7 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 **Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+_Protection_: 5+
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Exo-armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
@@ -197,6 +201,7 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 **Souvenir:**
 
 **Psychée:** [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+_Protection_: 5+
 _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Exo-armure:** [ ] endommagée [ ] transpercée [ ] panne sévère [ ] majoritairement dysfonctionnelle [ ] hors service
@@ -218,6 +223,25 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 ### QG
 Camouflée comme une entreprise d'horticulture.
 Ils y ont leur quartiers personnels, une salle d'entrainement, etc.
+
+![](img/dreamed_greenhouse.jpg)
+<!-- https://commons.wikimedia.org/wiki/File:Greenhouse_draft_-_Godwin,_Adams_-_05.png -->
+
+![](img/dreamed_greenhouse2.jpg)
+<!-- https://www.flickr.com/photos/internetarchivebookimages/16674790952/ -->
+
+![](img/dreamed_greenhouse3.jpg)
+<!-- https://commons.wikimedia.org/wiki/File:Greenhouse_draft_-_Godwin,_Adams_-_01.png -->
+
+![](img/Chemical_Laboratory_room_Wellcome_L0041460.jpg)
+<!-- https://commons.wikimedia.org/wiki/File:Chemical_Laboratory_room_Wellcome_L0041460.jpg -->
+
+![](img/lost-places-1549096_1280.jpg)
+
+![](img/lab-mouse-top-view-2817117_640.png)
+<!-- Both: Pixabay CC0 -->
+
+
 ::::
 :::: grid-item
 ### PNJs
