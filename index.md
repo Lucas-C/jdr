@@ -5,5 +5,3 @@ Voici la liste des jeux de rôle hebergés ici:
 - [Chimera](chimera)
 - [La Tour](latour)
 - [Scavengers: Anomalies nauchoresques](scavengers)
-
-<!-- Ajouter ces liens dans signature Casusno -->
