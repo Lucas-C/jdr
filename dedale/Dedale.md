@@ -2,9 +2,22 @@
 ajouter une table d'évênements à Dédale, lorsque les joueurs y repassent, pour faire vivre le lieu
 mécanisme de sauvegarde jv-esque : permet de revenir en arrière en cas de mort / situation indésirable (avec limites, et pour tout le groupe)
 proposer une table de génération de missions: universe + où se cache l'Antithée + plot twist
--> et combiner avec squelette de meta campagne à l a Fils de Babel
+-> et combiner avec squelette de meta campagne à la Fils de Babel
 reprendre design & illus du jeu
 https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f
+
+Scénario one-shot narratif:
+- le scénario est découpé en scènes d'actions débutant "in media res"
+- entre chaque scène, le MJ fait un tour de table pour déterminer comment le scénario avance, et les joueurs répondent comme ils souhaitent
+  * comme saviez-vous que le rendez-vous aurait lieu ici
+  * 
+- le MJ a à sa disposition des papiers "secret agenda / objectifs de subconcient" qu'ils peut donner aux joueurs:
+  * sauver ce PNJ récurrent pour qui tu éprouves... de la sympathie
+  * en apprendre plus sur le passé de cet Anthtitée
+  * extraire comme skillpack les compétences de combat d'une cible particulièrement redoutable
+- idée de scénario:
+  * leur ancien "block leader" devient rogue
+  * 
 -->
 
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire

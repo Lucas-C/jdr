@@ -233,13 +233,26 @@ Ils y ont leur quartiers personnels, une salle d'entrainement, etc.
 ![](img/dreamed_greenhouse3.jpg)
 <!-- https://commons.wikimedia.org/wiki/File:Greenhouse_draft_-_Godwin,_Adams_-_01.png -->
 
-![](img/Chemical_Laboratory_room_Wellcome_L0041460.jpg)
+![](img/dreamed_lab.jpg)
 <!-- https://commons.wikimedia.org/wiki/File:Chemical_Laboratory_room_Wellcome_L0041460.jpg -->
 
+![](img/dreamed_lab2.jpg)
+<!-- https://wellcomecollection.org/works/rykseq9s -->
+
+![](img/dreamed_hospital.jpg)
+<!-- https://wellcomecollection.org/works/hjg9ktps -->
+
+![](img/dreamed_glassroof.jpg)
+<!-- https://www.maxpixel.net/Plants-Garden-Vault-Black-White-Ceiling-652455 -->
+
+![](img/dreamed_glassroof2.jpg)
+<!-- https://pxhere.com/en/photo/1497273 -->
+
 ![](img/lost-places-1549096_1280.jpg)
+<!-- https://pixabay.com/fr/endroits-perdus-vieux-carie-ruine-1549096/ -->
 
 ![](img/lab-mouse-top-view-2817117_640.png)
-<!-- Both: Pixabay CC0 -->
+<!-- https://pixabay.com/fr/laboratoire-de-souris-vue-de-dessus-2817117/ -->
 
 
 ::::
@@ -273,13 +286,22 @@ cible éliminée, objectif atteind, menace écartée...
 > Ceci est la première opération sur le terrain de l'unité tactique Chimera.
 > Soldat \_\_\_, êtes vous opérationnel ?
 > Êtes-vous prêt à accomplir votre mission, et à obéir scrupuleusement à mes ordres ?
+
+Test de missiles guidés
+Enchainement sur mission n°1 en feignant que ce n'était pas prévu...
 ::::
 :::: grid-item
 #### Mission 1 : Coulé par le fond
+
+![](https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/f1/1a/62/f11a624051a77c665f7bd643fbaba64a.jpg)
+<!-- Alt: https://cmn-group.com/wp-content/uploads/2014/09/blueprint2.jpg -->
+
++ canot de sauvetage
+
 **Ordres**:
-- couler le cargo "C'est Assez"
-- ne laisser aucune trace de combat
-- détruire le salle de serveurs informatiques à bord
+- détruire le salle de serveurs informatiques du cargo "C'est Assez"
+- ne laisser aucune trace de combat ni témoins.
+Couler le navire en haute mer s'il le faut
 
 **Obstacles & cas de conscience**:
 - réfugiés à bord
@@ -295,9 +317,10 @@ Cas de conscience scénaristiques:
     tuer d'autres animaux
     couler bateau Greenpeace
     éliminer une autre Chimère qui tente de s'échapper
-    -> secret: pour s'enfuir, il faut détruire drones-relais puis désactiver chirurgicalement implant radio
+    -> leur révèle secret: pour s'enfuir, il faut détruire drones-relais puis désactiver chirurgicalement implant radio
 S'ils se rebellent: militaires désactiveront la détection de présence d'humains dans leurs lunettes de vision thermique,
 les destabilisant énormément
+
 Secret: ne sont pas des animaux doués de consciences, leur exoarmure contient un cerveau humain
 ::::
 :::: grid-item
@@ -349,6 +372,7 @@ body {
     color: #444;
     /* Should make font rendering prettier: */
     text-rendering: optimizeLegibility !important;
+    margin: 0;
 }
 h2, h3, thead {
     font-family: JMLetter;
@@ -367,8 +391,16 @@ dt { font-weight: bold; }
 p { margin: .4rem 0; }
 
 .center-text { text-align: center; }
-.grid { max-width: 80rem; margin: 0 auto; }
-.grid-item { width: 30%; padding: .2rem; box-shadow: 1px 1px 2px #555; }
+.grid {
+    max-width: 80rem;
+    margin: 0 auto;
+    background-image: url('img/background_map1.png');
+    /* https://commons.wikimedia.org/wiki/File:Central_Service_Complex_and_Historic_Lodging_Area_Site_Plan_-_Camp_Curry,_Curry_Village,_Mariposa_County,_CA_HALS_CA-65_(sheet_5_of_6).png */
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 0 50vw rgba(255, 255, 255, 0.8) inset;
+}
+.grid-item { width: 49%; padding: .2rem; box-shadow: 1px 1px 2px #555; }
 .hand-fingerprints { background-color: black; }
 .hand-fingerprints img { max-height: 6rem; }
 .headless-table th { font-weight: normal; }

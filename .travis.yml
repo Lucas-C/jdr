@@ -14,6 +14,7 @@ install:
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - node md2html.js index.md > index.html
+- node md2html.js LeDernierCaféSurLaGauche.md > LeDernierCaféSurLaGauche.html
 - cd chimera
 - node ../md2html.js chimera.md > index.html
 - if [[ $TRAVIS_TAG =~ ^chimera ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi

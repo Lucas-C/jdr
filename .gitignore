@@ -1,6 +1,6 @@
 __pycache__/
 *.pdf
-/Dedale.html
+/dedale/Dedale.html
 /chimera/chimera.html
 /gdav/gdav.html
 /latour/latour.html
@@ -9,5 +9,6 @@ __pycache__/
 /psirun/CR_2017-12-27.html
 /psirun/CR_2017-12-27_piste.png
 /psirun/rsync.include
-/scavengers/Scavengers.html
 /scavengers/adj-scavengers.html
+/CommeDesLarmesDePluie.html
+/LeDernierCaféSurLaGauche.html
