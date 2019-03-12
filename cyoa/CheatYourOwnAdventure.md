@@ -25,6 +25,7 @@ Tout d'abord, rassemblez quatre dés à six faces.
 Ensuite, jetez-les pour déterminer le titre de votre livre.
 Assurez-vous de le lire à haute voix avec un ton dramatique !
 
+::: scroll
 2.  | La Forêt
 ----|-
 3.  | Les Cavernes
@@ -52,7 +53,7 @@ Assurez-vous de le lire à haute voix avec un ton dramatique !
 10. | de Glace !
 11. | de Feu !
 12. | de la Puanteur Éternelle !
-
+:::
 ---
 
 ### Pas inspiré pour débuter l'histoire ? Lisez ceci à voix haute
@@ -134,7 +135,7 @@ Ajoutez un mystérieux vieil homme, des monstres et des pièges évidents !
 body {
   max-width: 46rem;
   margin: 0 auto;
-  padding: 4rem;
+  padding: 0 4rem;
   font-family: Calibri,Arial,sans-serif;
   font-size: 1.1rem;
   line-height: 1.4;
@@ -144,37 +145,57 @@ h1, h2 {
   font-size: 2.5rem;
   text-align: center;
 }
-h2 { font-size: 2rem; }
-h3, .h3 {
-  margin-left: 2rem;
+@media print { h1 { margin: 6rem 0; } }
+h2 {
+  font-size: 2rem;
   margin-bottom: 0;
+}
+@media print { h2 { margin-top: 8rem; } }
+h3, .h3 {
   font-family: Ringbearer;
   font-size: 1.4rem;
+  margin-left: 2rem;
+  margin-bottom: 0;
 }
 img {
   display: block;
   margin: 0 auto;
+  max-width: 30%;
 }
-#commencer-la-partie {
+.scroll {
   background-image: url(scroll.png);
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position-y: 7rem;
+  background-position-y: -2.5rem;
+  padding: 2rem;
 }
-table { padding: 2.5rem 0; }
+@media print {
+  .scroll {
+    background-position-y: -1rem;
+    background-position-x: -3.5rem;
+    background-size: 120%;
+  }
+}
+table {
+  padding: 2.5rem 0;
+  break-inside: avoid;
+}
 table:first-of-type {
   float: left;
-  margin-left: 8rem;
+  margin-left: 9rem;
   margin-right: 3rem;
 }
+@media print { table:first-of-type { margin-left: 3rem; } }
 table:nth-of-type(2) {
   margin-left: 3rem;
   margin-right: 3rem;
 }
+@media print { table:nth-of-type(2) { margin-right: 0; } }
 .and {
   float: left;
   font-size: 4rem;
   margin-top: 9rem;
+  margin-left: -2rem;
   margin-right: 1rem;
 }
 th { font-weight: normal; }
@@ -191,8 +212,9 @@ section { position: relative; }
   transform-origin: 50% 50%;
   position: absolute;
   top: 0;
-  left: 10%;
+  left: 5vw;
 }
+@media print { .cheat { left: 2vw; } }
 .float-right {
   float: right;
   margin-left: 1rem;
