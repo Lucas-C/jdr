@@ -7,6 +7,8 @@ Traduction d'[un jeu de Shane Mclean](http://cheatyourownadventure.co.uk) par Lu
 
 _Pour trois joueurs ou plus (idéalement quatre ou cinq)_
 
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
+
 ---
 
 _Vous ouvrez impatiemment le livre à la page 1 et débutez un voyage fait de “ rendez-vous en page ... ” et de choix cornéliens.
@@ -104,7 +106,7 @@ La difficulté augmente, faites en sorte votre histoire le reflète.
 La partie s'arrête après le 12e choix de page.
 Le dernier Lecteur raconte alors un court épilogue.
 
-::: float-right insert
+::: insert
 <header class="h3">Conseils de jeu</header>
 Le Lecteur doit toujours s'exprimer à la seconde personne :
 “ vous descendez le tunnel ” ou “ vous affrontez le gobelin ”.
@@ -215,11 +217,9 @@ section { position: relative; }
   left: 5vw;
 }
 @media print { .cheat { left: 2vw; } }
-.float-right {
+.insert {
   float: right;
   margin-left: 1rem;
-}
-.insert {
   border: 2px solid #444;
   padding: 0 .5rem;
 }
