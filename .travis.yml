@@ -15,6 +15,9 @@ install:
 script:
 - node md2html.js index.md > index.html
 - node md2html.js LeDernierCaféSurLaGauche.md > LeDernierCaféSurLaGauche.html
+- cd cyoa
+- node ../md2html.js CheatYourOwnAdventure.md > index.html
+- cd -
 - cd chimera
 - node ../md2html.js chimera.md > index.html
 - if [[ $TRAVIS_TAG =~ ^chimera ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
