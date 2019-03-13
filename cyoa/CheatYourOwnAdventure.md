@@ -3,7 +3,7 @@
 
 _Le Jdr Dont Vous Êtes Le Héros_
 
-Traduction d'[un jeu de Shane Mclean](http://cheatyourownadventure.co.uk) par Lucas Cimon, avec une variante de la règle du lancé de dé.
+Traduction d'[un jeu de Shane Mclean](http://cheatyourownadventure.co.uk) par [Lucas Cimon](https://chezsoi.org/lucas/blog/), avec une variante de la règle du lancé de dé.
 
 _Pour trois joueurs ou plus (idéalement quatre ou cinq)_
 
@@ -80,7 +80,7 @@ Soyez concis et dynamiques, sans être trop précis. Laissez aux autres joueurs 
 
 Lorsque le Lecteur a terminé sa description c'est au tour des autres joueurs.
 Chacun d'eux présente alors une option au Lecteur, sur le modèle de
-“ Pour faire xxxxxx allez en page xx. ” Choisissez un numéro de page à deux chiffres entre 1 et 6.
+“ Pour faire xxx allez en page xx. ” Choisissez un numéro de page à deux chiffres entre 1 et 6.
 
 Le Lecteur passe alors les dés au joueur avec l'option la plus drôle ou intéressante.
 Celui-ci lance ensuite 4d6 pour déterminer si ce choix est mortel :
@@ -178,6 +178,7 @@ img {
     background-size: 120%;
   }
 }
+p { break-inside: avoid; }
 table {
   padding: 2.5rem 0;
   break-inside: avoid;
