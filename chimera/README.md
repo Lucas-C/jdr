@@ -4,8 +4,8 @@
 
 ## Génération
 
-    md2html chimera.md > chimera.html
+    md2html chimera.md > index.html
 
 ## Développement avec livereload
 
-    ./watch_and_serve.py
+    ../watch_and_serve.py

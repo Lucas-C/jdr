@@ -4,8 +4,8 @@
 
 ## Generation
 
-    md2html gdav.md > gdav.html
+    md2html gdav.md > index.html
 
 ## Dev with livereload
 
-    ./watch_and_serve.py
+    ../watch_and_serve.py

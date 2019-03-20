@@ -1,10 +1,10 @@
 ## Generation
 
-    md2html PorteObjectifCartes.md > PorteObjectifCartes.html
+    md2html PorteObjectifCartes.md > index.html
 
 ## Dev with livereload
 
-    ./watch_and_serve.py
+    ../watch_and_serve.py
 
 ## Resources
 

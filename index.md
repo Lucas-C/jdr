@@ -1,8 +1,8 @@
 Voici la liste des jeux de rôle hebergés ici:
 
+- [La Tour](latour)
+- [Amères Victoires & Glorieuses Défaites](gdav)
+- [Scavengers: Anomalies nauchoresques](scavengers)
 - [Cheat Your Own Adventure](cyoa)
 - [Le dernier café sur la gauche](LeDernierCaféSurLaGauche.html)
-- [Amères Victoires & Glorieuses Défaites](gdav)
-- [Chimera](chimera)
-- [La Tour](latour)
-- [Scavengers: Anomalies nauchoresques](scavengers)
+- [Plus de place e Enfer](plus-de-place-en-enfer)

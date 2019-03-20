@@ -12,9 +12,13 @@ Une version PDF peut être générée facilement avec NodeJS:
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Le contenu de ce dépôt est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
 
 <!--
-Ideas for JS animations to integrate:
-- https://www.dwitter.net/d/1494
-- https://www.dwitter.net/d/888
-- https://www.dwitter.net/d/1231
-- https://www.dwitter.net/d/4509
+Ideas:
+- https://css-tricks.com/almanac/properties/s/shape-outside/ -> limited to float right / left
+- JS animations to integrate:
+  * https://www.dwitter.net/d/1494
+  * https://www.dwitter.net/d/888
+  * https://www.dwitter.net/d/1231
+  * https://www.dwitter.net/d/4509
+Cool manuscript fonts:
+- https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1
 -->

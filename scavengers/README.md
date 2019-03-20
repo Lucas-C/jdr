@@ -4,8 +4,8 @@
 
 ## Génération
 
-    md2html Scavengers.md > Scavengers.html
+    md2html Scavengers.md > index.html
 
 ## Développement avec livereload
 
-    ./watch_and_serve.py
+    ../watch_and_serve.py
