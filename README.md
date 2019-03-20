@@ -1,11 +1,16 @@
 [![](https://travis-ci.org/Lucas-C/jdr.svg?branch=master)](https://travis-ci.org/Lucas-C/jdr)
 
-La plupart des prototypes dans ce repo reposent sur le script NodeJS [md2html](https://github.com/Lucas-C/linux_configuration/blob/master/bin/md2html.js) pour générer une version HTML à partir de la version Markdown.
+La plupart des prototypes dans ce repo reposent sur le script NodeJS [md2html](https://github.com/Lucas-C/linux_configuration/blob/master/bin/md2html.js)
+pour générer une version HTML à partir de la version Markdown.
 
 Une version PDF peut être générée facilement avec NodeJS:
 
     npm install -g puppeteer-cli
     puppeteer print $infile.html $outfile.pdf
+
+## Développement avec livereload
+
+    ./watch_and_serve.py
 
 ## License
 

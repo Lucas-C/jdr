@@ -17,6 +17,9 @@
 - review sur r/RPGdesign (note: un post propose un template pour cela)
 *Inspis:* PsyRun
 ToRead: https://www.reddit.com/r/RPGdesign/comments/45jyu0/meta_rpg_design_resources_megalist/
+
+Resources:
+- `border.png` : [from openclipart](https://openclipart.org/detail/76285/geometricborder) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 -->
 
 # Porte / Objectif / Cartes
