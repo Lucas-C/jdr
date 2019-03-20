@@ -4,6 +4,8 @@
 Un jdr multi-MJs de survie et d'horreur par Grant Howitt
 
 Pour plus de jeux, rendez-vous sur [patreon.com/gshowitt](https://patreon.com/gshowitt)
+
+Traduit de l'anglais par Lucas Cimon: [chezsoi.org](https://chezsoi.org)
 :::
 :::: columns
 
@@ -186,7 +188,7 @@ section { break-inside: avoid; }
 }
 .rate-this {
   float: right;
-  width: 15rem;
+  max-width: 25%;
   border: solid #444 2px;
   padding: .5rem;
 }

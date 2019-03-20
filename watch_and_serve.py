@@ -18,7 +18,7 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         cmd = shell('md2html ' + base_md_filename, cwd=cwd, output=output)
         server.watch(md_filename, cmd)
         for html_filename in glob(folder + '/*.html'):
-            if html_filename.replace('.html', '.md') not in md_filenames:
+            if not html_filename.endswith('/index.html') and html_filename.replace('.html', '.md') not in md_filenames:
                 print('Watching', html_filename)
                 server.watch(html_filename, cmd)
 server.serve(root=SCRIPT_DIR)
