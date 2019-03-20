@@ -1,12 +1,14 @@
 ::: title
 # Plus de place en Enfer
 ![](img/skull-title.png)
-Un jdr multi-MJs de survie et d'horreur par Grant Howitt
+Un jdr multi-MJs de survie et d'horreur par [Grant Howitt](https://rowanrookanddecard.com/product/no-more-room-in-hell/)
 
 Pour plus de jeux, rendez-vous sur [patreon.com/gshowitt](https://patreon.com/gshowitt)
 
-Traduit de l'anglais par Lucas Cimon: [chezsoi.org](https://chezsoi.org)
+Traduit par Lucas Cimon : [chezsoi.org](https://chezsoi.org)
+
 :::
+
 :::: columns
 
 ## Ils sont là dehors pour nous choper, on doit s'échapper !
@@ -55,6 +57,7 @@ Où sommes-nous et dans quel état est le monde ?
 ::: rate-this
 Répartissez les scores 5, 4, 3, 2 comme vous le souhaitez ↵
 :::
+
 **HATE:** Tuer, détruire, intimider
 
 **PEUR:** Fuir, se défendre, se cacher, mentir
@@ -94,30 +97,36 @@ MJ, si cela a du sens dans l'histoire, faites changer d'état à un personnage q
 Si vous atteignez le 3e stade d'une piste d'état, votre personnage disparaît.
 
 ::: conditions
+
 contusionné [ ]
-
-acculé [ ]
-
-secoué [ ]
-
-énervé [ ]
 
 → saigne [ ]
 
-→ piégé [ ]
-
-→ paniqué [ ]
-
-→ furieux [ ]
-
 → fracturé [ ]
+
+
+acculé [ ]
+
+→ piégé [ ]
 
 → pris [ ]
 
+
+secoué [ ]
+
+→ paniqué [ ]
+
 → insensible [ ]
 
+
+énervé [ ]
+
+→ furieux [ ]
+
 → enragé [ ]
+
 :::
+
 ::::
 
 <style>
@@ -127,22 +136,22 @@ secoué [ ]
 }
 
 body {
-    font-family: GunnyRewritten;
-    font-size: 1.4rem;
-    color: #444;
-    /* Should make font rendering prettier: */
-    text-rendering: optimizeLegibility !important;
-    max-width: 80rem;
-    margin: 2rem auto;
+  font-family: GunnyRewritten;
+  font-size: 1.4rem;
+  color: #444;
+  /* Should make font rendering prettier: */
+  text-rendering: optimizeLegibility !important;
+  max-width: 80rem;
+  margin: 2rem auto;
 }
 p { margin: 0; }
 h1 {
-    font-size: 3rem;
-    margin: 0;
-    margin-right: 5rem;
-    line-height: 1;
-    border-bottom: 5px double;
-    margin-bottom: 1rem;
+  font-size: 3rem;
+  margin: 0;
+  margin-right: 5rem;
+  line-height: 1;
+  border-bottom: 5px double;
+  margin-bottom: 1rem;
 }
 h2 {
   font-size: 1em;
@@ -212,10 +221,23 @@ hr:after {
 .conditions {
   border: solid #444 2px;
   padding: .5rem;
-  columns: 3;
-  column-gap: 0;
+  display: flex;
+  flex-flow: row wrap;
   margin: 0 auto;
   text-align: right;
+}
+.conditions > p { flex: 1 0 33%; }
+input[type="checkbox"] {
+  position: absolute; /* take it out of document flow */
+  opacity: 0;         /* hide it */
+}
+input[type="checkbox"] + label:before {
+  content: '';
+  display: inline-block;
+  width: .8rem;
+  height: .8rem;
+  border: solid 1px #444;
+  margin-left: .5rem;
 }
 @media screen {
   .conditions {

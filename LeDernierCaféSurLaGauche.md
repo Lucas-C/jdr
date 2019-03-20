@@ -1,6 +1,6 @@
 # Le dernier café sur la gauche
 
-_Traduction du jeu [The last coffeeshop on the left](http://www.cheatyourownadventure.co.uk/downloads/last-coffee.pdf) de Shane Mclean par [Lucas Cimon](https://chezsoi.org/lucas/blog/)_
+_Traduction du jeu [The last coffeeshop on the left](http://www.cheatyourownadventure.co.uk/downloads/last-coffee.pdf) de Shane Mclean par Lucas Cimon : [chezsoi.org](https://chezsoi.org)
 
 _Un jeu sans meneur, pour 3 à 5 joueurs et 1h à 2h de partie_
 
