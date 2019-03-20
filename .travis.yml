@@ -39,6 +39,7 @@ script:
 - node ../md2html.js adj-scavengers.md > index.html
 - if [[ $TRAVIS_TAG =~ ^adj-scavengers ]]; then ./gen_pdf.sh index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
+- git add -f */index.html
 before_deploy: rm -rf node_modules/
 deploy:
   - provider: pages
