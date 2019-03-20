@@ -5,4 +5,4 @@ Voici la liste des jeux de rôle hebergés ici:
 - [Scavengers: Anomalies nauchoresques](scavengers)
 - [Cheat Your Own Adventure](cyoa)
 - [Le dernier café sur la gauche](LeDernierCaféSurLaGauche.html)
-- [Plus de place e Enfer](plus-de-place-en-enfer)
+- [Plus de place en Enfer](plus-de-place-en-enfer)

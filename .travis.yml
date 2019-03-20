@@ -29,6 +29,9 @@ script:
 - cd latour
 - node ../md2html.js latour.md > index.html
 - cd -
+- cd plus-de-place-en-enfer
+- node ../md2html.js plus-de-place-en-enfer.md > index.html
+- cd -
 - cd scavengers
 - node ../md2html.js adj-scavengers.md > index.html
 - if [[ $TRAVIS_TAG =~ ^adj-scavengers ]]; then ./gen_pdf.sh index.html ../$TRAVIS_TAG.pdf; fi
