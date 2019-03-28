@@ -38,7 +38,7 @@ Une fois que vous êtes MJ, restez le jusqu'à ce que quelqu'un effectue un jet 
 ## Mise en place
 Amenez le groupe à répondre aux questions liées à votre Principe.
 
-**HATE:** Pourquoi essaient-ils de vous blesser ?
+**HAINE:** Pourquoi essaient-ils de vous blesser ?
 Qui nous serait capable de nous jeter en pâture,
 et pourquoi ne l'ont-ils pas encore fait ?
 
@@ -58,7 +58,7 @@ Où sommes-nous et dans quel état est le monde ?
 Répartissez les scores 5, 4, 3, 2 comme vous le souhaitez ↵
 :::
 
-**HATE:** Tuer, détruire, intimider
+**HAINE:** Tuer, détruire, intimider
 
 **PEUR:** Fuir, se défendre, se cacher, mentir
 

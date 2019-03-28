@@ -268,7 +268,7 @@ img { max-height: 4.5rem; }
   width: 40%;
 }
 #vous-aimez-au-point-d-en-tre-d-pendant {
-  top: 11rem;
+  top: 12rem;
   width: 30%;
 }
 #qui-sont-les-autres- {
@@ -297,7 +297,7 @@ img { max-height: 4.5rem; }
 }
 #que-resentent-les-pnjs-envers-vous- > .roll-when { top: 5rem; }
 #manifestation {
-  top: 22.2rem;
+  top: 23.2rem;
   left: 50%;
   width: 30%;
 }
@@ -307,9 +307,10 @@ img { max-height: 4.5rem; }
 }
 #quand-vous-agissez-ou-qu-on-agit-contre-vous-et-que-vous-r-sistez-lancez-un-d6 > .roll-when { top: 7.5rem; width: 33%; }
 #feuille-de-personnage- {
-  top: 33.3rem;
+  top: 34.3rem;
   right: 0;
   width: 45%;
+  line-height: 1.2;
 }
 #carte-du-village {
   top: 42rem;
