@@ -15,6 +15,9 @@ install:
 script:
 - node md2html.js index.md > index.html
 - node md2html.js LeDernierCaféSurLaGauche.md > LeDernierCaféSurLaGauche.html
+- cd 2200_le_jugement_des_dieux
+- node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
+- cd -
 - cd cyoa
 - node ../md2html.js CheatYourOwnAdventure.md > index.html
 - cd -

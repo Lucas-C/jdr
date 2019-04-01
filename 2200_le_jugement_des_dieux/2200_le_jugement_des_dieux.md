@@ -1,3 +1,8 @@
+<!-- Todo:
+- ajouter fonts
+- ajouter images
+- faire tenir sur 2 pages
+-->
 # 2200: le jugement des dieux
 _Il y a quelques instants encore, vous étiez vivant.
 Maitenant vous êtes assis dans une petite salle d'attente.
@@ -9,6 +14,8 @@ Là où se jouera votre après-vie._
 Un jeu de rôle sans meneur pour 4 joueurs par Lucas Cimon.
 Il nécessite deux dés à 8 faces et quelques pions quelconques, par exemple des billes d'aquarium.
 Un sablier peut également être utile.
+
+:::: content
 
 ## Synopsis
 Vous allez chacun jouer un dieu, ancien ou moderne,
@@ -69,7 +76,9 @@ Décrivez ce petit aperçu de Paradis.
 - On aperçoit également « l'autre lieu », celui de la punition et du châtiment.
 Quel pièce ou lieu peut-on distinguer ? Est-ce désert ?
 Décrivez ce petit aperçu d'Enfer.
-- 
+- Enfin, une vue aérienne d'une ville contemporaine est visible.
+Comment se nomme cette ville ?
+Décrivez-la.
 
 Cet ordre de réponse aux questions déterminera également l'ordre de passage en jugement des joueurs.
 
@@ -85,21 +94,21 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 1. Enki
 2. Alcide
 3. Jill
-4. Ivan
+4. Channon
 5. John
-6. 
-7. 
-8. 
+6. Rose
+7. Julien
+8. Oona
 
 **Nom**
 1. Bilal
 2. Nikopol
 3. Bioskop
-4. Vabek
+4. Yarrow
 5. Difool
-6. 
-7. 
-8. 
+6. Walker
+7. Solédango
+8. Sarango
 
 **Milieu d'origine**
 1. Ouvrier dans l'industrie métalurgique ou les mines
@@ -111,36 +120,25 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 7. Station spatiale
 8. Androïde ou transhumain
 
-**Caractère**
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
+**Réputation**
+1. Manipulateur
+2. Violent
+3. Amoral
+4. Opportuniste
+5. Dépravé
+6. Fachiste
+7. Nihiliste
+8. Tamagochiste
 
 **Domaine d'activité**
 1. Élu parlementaire
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-**Attitude**
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+2. Homme de main d'une mafia
+3. Scientifique bani
+4. Astronaute
+5. Inspecteur de police
+6. Journaliste
+7. Militant subversif
+8. Prêtre d'un dieu oublié
 
 ## Le jugement
 Le joueur à la gauche du Mortel interprête le Passeur quelques instants.
@@ -166,41 +164,31 @@ Le Mortel a 5min pour parler librement.
 Il peut mentionner tout ce qu'il souhaite de sa vie passée.
 
 ### Les accusations
-Tour de table en commençant à gauche du Mortel
+Tour de table en commençant à gauche du Mortel.
 
-Vous pouvez vous inspirer des tables suivantes :
+Un événement où ses actions (ou son inaction) ont eu de graves conséquences.
+A-t-il été témoin / victime / commis un crime ?
+Quel choix a-t-il fait ?
 
-**Concerne les actes commis lors d'un événement**
-1. a été victime d'un crime
-2. a été témoin d'un crime
-3. a permis un crime
-4. a commis un crime
-5. la révolte des androïdes mineurs de métaux rares de 2196
-6. le coup d'état corporatiste de 2183
-7. les vagues de délation et d'expulsion pour crime de solidarité de 2191
-8. les 10 jours de pénuries de mai 2188
+Vous pouvez vous inspirer des événements de la table ci-dessous :
 
-Idées en vrac, scandale pharmaco / alimentaire, drogues, précogs, pollution, monde virtuel
+1.  le scandale des effets secondaires du Solivox de 2186
+2.  les vagues de délation et d'expulsion pour crime de solidarité de 2191
+3.  les 10 jours de black-out électronique de mai 2188
+4.  la « dernière marée noire » de 2179
+5.  l'épidémie de narcolepsie de 2176
+6.  l'affaire du tueur en série virtuel de 2194
+7.  le coup d'état corporatiste de 2183
+8.  l'affaire du serial killer des mondes virtuels de 2194
+9.  les psychotropes de synthèse procurant des capacités de précognition
+10. la révolte des androïdes mineurs de métaux rares de 2196
+11. la lutte pour les droits civiques des clones de 2192
+12. la seconde guerre froide du milieu du XXIIe siècle
+13. l'arrivée de réfugiés aliens en 2199
 
-**Dans un lieu**
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
-**Avec**
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+Pour tirez un événement au hasard dans cette table,
+lancez un d8 et reportez le résultat dedans,
+en sautant par-dessus ceux déjà utilisés dans la partie.
 
 En tant que dieu omniscient, décrivez quel comportement du Mortel vous avez été témoin.
 
@@ -248,13 +236,16 @@ De plus, si le vote final est négatif, ce dieu pourra imposera un châtiment su
 Les dieux révèlent simultanément leur main droite.
 Si au moins 2 jetons sont révélés, l'âme du Mortel est sauvée.
 
+::::
+
 ## License & sources
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
 Ce jeu est sous license [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog>
 
-Inspirations : les BDs d'Enki Bilal, Sandman & American Gods de Neil Gaiman, les jeux de rôle Urban Armies et Le Dernier Café Sur la Droite.
+Inspirations : beaucoup de BDs (que vous pouvez vous amuser à retrouver à partir de la table de noms de Mortel)
+ainsi que les jeux de rôle Urban Armies et Le Dernier Café Sur la Droite.
 
 <style type="text/css">
 body {
@@ -262,12 +253,15 @@ body {
   margin: 0 auto;
   padding: 4rem;
   font-family: Calibri,Arial,sans-serif;
-  font-size: 1.1rem;
+  font-size: .8rem;
   line-height: 1.4;
 }
 h1 {
   text-transform: uppercase;
   font-size: 2.5rem;
 }
+section { break-inside: avoid; }
+.content {
+  columns: 2;
+}
 </style>
-
