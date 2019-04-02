@@ -1,8 +1,3 @@
-<!-- Todo:
-- ajouter fonts
-- ajouter images
-- faire tenir sur 2 pages
--->
 # 2200: le jugement des dieux
 _Il y a quelques instants encore, vous étiez vivant.
 Maitenant vous êtes assis dans une petite salle d'attente.
@@ -15,7 +10,7 @@ Un jeu de rôle sans meneur pour 4 joueurs par Lucas Cimon.
 Il nécessite deux dés à 8 faces et quelques pions quelconques, par exemple des billes d'aquarium.
 Un sablier peut également être utile.
 
-:::: content
+:::: bicolumned
 
 ## Synopsis
 Vous allez chacun jouer un dieu, ancien ou moderne,
@@ -25,12 +20,14 @@ Peut-être les dieux de la mort changent-ils avec les siècles ?
 Quoi qu'il en soit, vous avez vos propres critères pour juger des actions des hommes,
 de leur karma et de la valeur de leur âme.
 
+![](img/tensei-inktober2017-crumbling-mask.jpg)
+
 Tour à tour, vous allez mettre de côté votre rôle divin pour incarner un mortel
 dont les actions seront passées au jugement par un panel de 3 dieux.
 Sa vie s'est déroulé au XXIIe siècle, dans le future de notre monde actuel,
 devenu légèrement cyberpunk et dystopique.
 
-## Dieux & déesses
+## Dieux et deesses
 Tirez au hasard quel est votre **domaine**, et quelle **ligne de conduite** vous jugez.
 Si l'un de vos résultats a déjà été obtenus par un autre joueur,
 choisissez ce qu'il vous plait. N'hésitez pas non plus à adopter un choix
@@ -64,6 +61,9 @@ Vous pouvez mentionner si vous êtes vénéré quelque part et/ou quels pouvoirs
 N'oubliez pas votre stature de dieu durant toute la cérémonie du jugement :
 vous êtes au-dessus des Mortels et ils doivent s'adresser avec déférance envers vous.
 
+<img class="big" src="img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg">
+
+
 ## Le tribunal
 Lancez chacun un dé, et départagez les égalités.
 Du résultat le plus petit au plus élevé, répondez chacun à l'une de ces questions en détails :
@@ -90,6 +90,7 @@ puis les amène au tribunal et à leur destination finale.
 Ne créez votre Mortel que lorsque c'est votre tour d'être jugé.
 Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 
+::: tricolumned
 **Prénom**
 1. Enki
 2. Alcide
@@ -110,16 +111,6 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 7. Solédango
 8. Sarango
 
-**Milieu d'origine**
-1. Ouvrier dans l'industrie métalurgique ou les mines
-2. Bourgeoisie aisée des plus hauts gratte ciels
-3. Ghetto de cité flottante
-4. Hippie protecteur des dernières forêts
-5. Religieux boudhiste ou hindou
-6. Marin passeur de réfugiés climatiques
-7. Station spatiale
-8. Androïde ou transhumain
-
 **Réputation**
 1. Manipulateur
 2. Violent
@@ -129,6 +120,17 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 6. Fachiste
 7. Nihiliste
 8. Tamagochiste
+:::
+
+**Milieu d'origine**
+1. Ouvrier dans l'industrie métalurgique ou les mines
+2. Bourgeoisie aisée des plus hauts gratte ciels
+3. Ghetto de cité flottante
+4. Hippie protecteur des dernières forêts
+5. Religieux boudhiste ou hindou
+6. Marin passeur de réfugiés climatiques
+7. Station spatiale
+8. Androïde ou transhumain
 
 **Domaine d'activité**
 1. Élu parlementaire
@@ -140,6 +142,8 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 7. Militant subversif
 8. Prêtre d'un dieu oublié
 
+![](img/the_gulls_cyberpunk_by_dumaker_d1p4yqe-pre.jpg)
+
 ## Le jugement
 Le joueur à la gauche du Mortel interprête le Passeur quelques instants.
 Il invite le Mortel à le suivre dans le tribunal, où il lui énonce les titres des dieux qui y siègent,
@@ -149,7 +153,8 @@ Si vous disposez d'un sablier, mettez-le à la disposition des dieux :
 dès que l'un d'eux estime que le Mortel arrive au terme de son temps de parole,
 il peut renverser le sablier devant lui, puis l'interrompre lorsqu'il sera écoulé.
 
-### La nécrologie
+### La necrologie
+<img class="float-right" src="img/halloween_series_3_by_dumaker_d1osqbi-pre2.jpg">
 Tour de table en commençant à gauche du Mortel
 
 - naissance et enfance
@@ -192,8 +197,12 @@ en sautant par-dessus ceux déjà utilisés dans la partie.
 
 En tant que dieu omniscient, décrivez quel comportement du Mortel vous avez été témoin.
 
-### Le réquisitoire
+![](img/untitled_by_auto_spiral_dcbmu6s-pre2.jpg)
+
+### Le requisitoire
 Le Mortel a 5-10min pour se défendre des accusations qui ont été formulées.
+
+![](img/furia_by_dumaker_d1p2gr9-pre.jpg)
 
 ### Le conciliabule
 Les dieux décident de leur verdict en considérant les actions du Mortel
@@ -212,20 +221,23 @@ Les dieux peuvent échanger brièvement entre eux leurs points de vue.
 Une fois leur décision prise, ils passent au vote : ils prennent chacun un des jetons au centre de la table.
 Ils le placent dans leur main **droite** pour sauver l'âme du Mortel, et dans la **gauche** sinon.
 
-### La prise à partie
+### La prise a partie
+<img class="float-right" src="img/cyberpunk_the_others_by_dumaker_d1p673o-pre.jpg">
+
 Une fois la décision des dieux prise,
 le Mortel peut réclamer à un dieu en particulier d'accomplir un défi de son choix pour prouver sa valeur,
 ou bien lui demander de consulter l'audience du tribunal,
 ou encore d'écouter le témoignage d'un Mortel qu'il a aidé ou sauvé.
 
 Le dieu pris à partie est libre de refuser.
-S'il accept, à lui d'énoncer les termes du challenge.
+S'il accepte, à lui d'énoncer les termes du challenge.
 
 Une fois celui-ci établit, chacun des deux autres dieux choisit un chiffre distinct entre 1 et 8.
 Puis le Mortel à son tour choisit 3 chiffres distincts et différents de ceux des dieux.
 Les 3 chiffres restant seront ceux du dieu pris à partie.
 
 Le joueur incarnant le Mortel décrit alors comment il s'y prend pour relever le challenge.
+
 Il lance ensuite un dé :
 - s'il obtient un de ses chiffres, c'est une **réussite** !
 Il « achète » le vote du dieu défié.
@@ -236,18 +248,38 @@ De plus, si le vote final est négatif, ce dieu pourra imposera un châtiment su
 Les dieux révèlent simultanément leur main droite.
 Si au moins 2 jetons sont révélés, l'âme du Mortel est sauvée.
 
-::::
+<img class="big" src="img/tensei-inktober2017-whitelady.jpg">
 
-## License & sources
+## License et sources
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-
 Ce jeu est sous license [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
 Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog>
 
-Inspirations : beaucoup de BDs (que vous pouvez vous amuser à retrouver à partir de la table de noms de Mortel)
+<u>Polices :</u> [HACKED](https://hackedfont.com) par David Libeau.
+
+<u>Illustrations :</u>
+- deux dessins d'[Elliot Jolivet aka Tenseï réalisés lors d'Inktober 2017](https://www.behance.net/gallery/58695271/InkTober-2017)
+- [untitled by auto-spiral](https://www.deviantart.com/auto-spiral/art/untitled-745135444) - [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [donde deje la llave](https://www.deviantart.com/dumaker/art/donde-deje-la-llave-63000642),
+[The gulls cyberpunk](https://www.deviantart.com/dumaker/art/The-gulls-cyberpunk-102688214),
+[Halloween Series 3](https://www.deviantart.com/dumaker/art/Halloween-Series-3-102117438),
+[Furia](https://www.deviantart.com/dumaker/art/Furia-102571605),
+& [Cyberpunk The Others](https://www.deviantart.com/dumaker/art/Cyberpunk-The-Others-102745716)
+de [Dumaker](https://www.deviantart.com/dumaker)
+<!--  - [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) -->
+
+<u>Inspirations :</u> beaucoup de BDs (que vous pouvez vous amuser à retrouver à partir de la table de noms de Mortel)
 ainsi que les jeux de rôle Urban Armies et Le Dernier Café Sur la Droite.
 
+::::
+
 <style type="text/css">
+@font-face {
+  font-family: HACKED;
+  src: url('fonts/HACKED.ttf') format('truetype');
+}
+
 body {
   max-width: 46rem;
   margin: 0 auto;
@@ -256,12 +288,38 @@ body {
   font-size: .8rem;
   line-height: 1.4;
 }
+h1, h2, h3, h4 {
+  font-family: HACKED;
+  margin-bottom: 0;
+  clear: both;
+}
 h1 {
   text-transform: uppercase;
-  font-size: 2.5rem;
+  font-size: 5rem;
+  text-align: center;
+  line-height: 1;
+  margin: 0;
 }
+p, ol, ul { margin: .3rem 0; }
 section { break-inside: avoid; }
-.content {
+.bicolumned {
   columns: 2;
+  padding-top: 1rem;
 }
+.tricolumned {
+  columns: 3;
+  padding-top: 1rem;
+  padding-right: 4rem;
+}
+img {
+  display: block;
+  max-height: 12rem;
+  max-width: 80%;
+  margin: 0 auto;
+}
+img.big {
+  max-height: 16rem;
+}
+.float-left {float: left;}
+.float-right {float: right;}
 </style>
