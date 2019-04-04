@@ -2,13 +2,13 @@
 _Il y a quelques instants encore, vous étiez vivant.
 Maitenant vous êtes assis dans une petite salle d'attente.
 Le Purgatoire, d'après l'inscription que vous distinguez à l'envers sur la porte vitrée.
-Vous attendez impatiement que le petit homme à la veste grise de l'accueil
+Vous attendez impatiement que le petit homme avec la veste grise de l'accueil
 vous fasse signe d'entrer dans la pièce à côté.
 Là où se jouera votre après-vie._
 
 Un jeu de rôle sans meneur pour 4 joueurs par Lucas Cimon.
-Il nécessite deux dés à 8 faces et quelques pions quelconques, par exemple des billes d'aquarium.
-Un sablier peut également être utile.
+Il nécessite deux dés à 8 faces et quelques pions quelconques, par exemple des billes d'aquarium,
+et optionnellement un sablier.
 
 :::: bicolumned
 
@@ -22,9 +22,9 @@ de leur karma et de la valeur de leur âme.
 
 ![](img/tensei-inktober2017-crumbling-mask.jpg)
 
-Tour à tour, vous allez mettre de côté votre rôle divin pour incarner un mortel
-dont les actions seront passées au jugement par un panel de 3 dieux.
-Sa vie s'est déroulé au XXIIe siècle, dans le future de notre monde actuel,
+Durant la prtie, tour à tour, vous allez mettre de côté votre rôle divin pour incarner un Mortel
+dont les actions seront passées au crible par un panel de 3 dieux.
+Sa vie s'est déroulé au XXIIe siècle, dans le futur de notre monde actuel,
 devenu légèrement cyberpunk et dystopique.
 
 ## Dieux et deesses
@@ -59,26 +59,32 @@ Décrivez enfin chacun votre apparence aux autres joueurs.
 Vous pouvez mentionner si vous êtes vénéré quelque part et/ou quels pouvoirs vous sont attribués.
 
 N'oubliez pas votre stature de dieu durant toute la cérémonie du jugement :
-vous êtes au-dessus des Mortels et ils doivent s'adresser avec déférance envers vous.
-
-<img class="big" src="img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg">
+vous êtes au-dessus des mortels et ils doivent s'adresser avec déférance envers vous.
 
 
 ## Le tribunal
+<img class="big" src="img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg">
+
 Lancez chacun un dé, et départagez les égalités.
 Du résultat le plus petit au plus élevé, répondez chacun à l'une de ces questions en détails :
-- À quoi ressemble la salle du jugement ?
-S'agit-il d'un lieu très commun urbain ? Ou un palace ?
-Décrivez où se tiennent les dieux et le mortel.
-- Du tribunal on aperçoit la « destination heureuse ».
-Est-ce à travers une porte, via un écran de TV, ou autrement ?
+
+1. Depuis le tribunal on peut admirer une vue aérienne d'une ville contemporaine.
+Comment se nomme cette ville ?
+Décrivez-la en esquissant rapidement quelques lieux ou quartiers notoires.
+
+2. Depuis le tribunal toujours, on peut entrevoir la « destination heureuse ».
+Qu'est-ce qui s'en dégage qui attire autant les mortels ?
 Décrivez ce petit aperçu de Paradis.
-- On aperçoit également « l'autre lieu », celui de la punition et du châtiment.
+
+3. On discerne également « l'autre lieu », celui de la punition et du châtiment.
 Quel pièce ou lieu peut-on distinguer ? Est-ce désert ?
 Décrivez ce petit aperçu d'Enfer.
-- Enfin, une vue aérienne d'une ville contemporaine est visible.
-Comment se nomme cette ville ?
-Décrivez-la.
+
+4. Enfin, à quoi ressemble la salle du jugement ?
+S'agit-il d'un lieu banal ? Ou bien un palace ?
+Décrivez où se tiennent les dieux et le Mortel,
+et comment il est possible d'apercevoir les lieux précédement décrits :
+à travers un fenêtre, l'entrebaillement d'une porte, via un vieil écran cathodique, ou autrement ?
 
 Cet ordre de réponse aux questions déterminera également l'ordre de passage en jugement des joueurs.
 
@@ -147,7 +153,7 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 ## Le jugement
 Le joueur à la gauche du Mortel interprête le Passeur quelques instants.
 Il invite le Mortel à le suivre dans le tribunal, où il lui énonce les titres des dieux qui y siègent,
-puis l'introduit à l'assemblée.
+en mentionnant leurs **domaines** et **lignes de conduite**, puis l'introduit à l'assemblée.
 
 Si vous disposez d'un sablier, mettez-le à la disposition des dieux :
 dès que l'un d'eux estime que le Mortel arrive au terme de son temps de parole,
@@ -155,11 +161,11 @@ il peut renverser le sablier devant lui, puis l'interrompre lorsqu'il sera écou
 
 ### La necrologie
 <img class="float-right" src="img/halloween_series_3_by_dumaker_d1osqbi-pre2.jpg">
-Tour de table en commençant à gauche du Mortel
 
-- naissance et enfance
-- faits marquants
-- fin de vie et mort
+En commençant à gauche du Mortel, chaque dieu résume brièvement un pan de sa vie :
+- sa naissance et son enfance
+- 2-3 faits marquants de sa vie
+- les circonstances de sa mort
 
 ### Le plaidoyer
 Le dieu en face du Mortel lui explique ce qui va se jouer ici,
@@ -168,10 +174,9 @@ et l'invite à s'exprimer, à leur exposer pourquoi il mérite une après-vie he
 Le Mortel a 5min pour parler librement.
 Il peut mentionner tout ce qu'il souhaite de sa vie passée.
 
-### Les accusations
-Tour de table en commençant à gauche du Mortel.
-
-Un événement où ses actions (ou son inaction) ont eu de graves conséquences.
+### Les fautes
+En commençant à gauche du Mortel, chaque dieu expose un événement
+où ses actions (ou son inaction) ont eu de graves conséquences.
 A-t-il été témoin / victime / commis un crime ?
 Quel choix a-t-il fait ?
 
@@ -195,18 +200,25 @@ Pour tirez un événement au hasard dans cette table,
 lancez un d8 et reportez le résultat dedans,
 en sautant par-dessus ceux déjà utilisés dans la partie.
 
-En tant que dieu omniscient, décrivez quel comportement du Mortel vous avez été témoin.
+En tant que dieu omniscient, décrivez le comportement du Mortel dont vous avez été témoin,
+et en quoi il vous paraît condamnable.
 
 ![](img/untitled_by_auto_spiral_dcbmu6s-pre2.jpg)
 
 ### Le requisitoire
-Le Mortel a 5-10min pour se défendre des accusations qui ont été formulées.
+Le Mortel a 5-10min pour se défendre des trois mise en accusation divines.
+
+Son but est de convaincre ses juges que dans l'ensemble il a vécu sa vie
+dans l'alignement des valeurs des dieux.
+Il peut enjoliver les événements qu'il a vécu tant qu'il le souhaite,
+mais attention à ne pas mentir car les dieux sont omniscients et n'hésiteront pas
+à la punir pour une telle offense.
 
 ![](img/furia_by_dumaker_d1p2gr9-pre.jpg)
 
 ### Le conciliabule
 Les dieux décident de leur verdict en considérant les actions du Mortel
-vis à vis de leur domaine et de la ligne de conduite qui leur ait chère.
+vis à vis de leur domaine et de la ligne de conduite qui leur est chère.
 Ils prennent l'ensemble des faits évoqués en considération :
 si la réponse du Mortel aux accusations des autres dieux plait à un dieu,
 libre a lui de le sauver.
@@ -216,10 +228,12 @@ vis à vis de son domaine, tant qu'il reste constant entre les jugements.
 Un dieu de l'argent peut tout à fait considérer qu'il s'agit d'une force corruptrice
 et que les plus nobles des Mortels sont ceux qui y résistent.
 
-Les dieux peuvent échanger brièvement entre eux leurs points de vue.
+Les dieux peuvent échanger brièvement entre eux leurs points de vue,
+voir défendre un Mortel qu'ils apprécient face aux autres divinités.
 
 Une fois leur décision prise, ils passent au vote : ils prennent chacun un des jetons au centre de la table.
-Ils le placent dans leur main **droite** pour sauver l'âme du Mortel, et dans la **gauche** sinon.
+Ils le placent ensuite secrètement dans leur main **droite** pour sauver l'âme du Mortel,
+et dans la **gauche** sinon.
 
 ### La prise a partie
 <img class="float-right" src="img/cyberpunk_the_others_by_dumaker_d1p673o-pre.jpg">
@@ -239,10 +253,11 @@ Les 3 chiffres restant seront ceux du dieu pris à partie.
 Le joueur incarnant le Mortel décrit alors comment il s'y prend pour relever le challenge.
 
 Il lance ensuite un dé :
-- s'il obtient un de ses chiffres, c'est une **réussite** !
-Il « achète » le vote du dieu défié.
-- sinon, le dieu correspondant est libre de changer son vote s'il le souhaite.
-De plus, si le vote final est négatif, ce dieu pourra imposera un châtiment supplémentaire.
+- s'il obtient un des chiffres qu'il s'est choisi, c'est une **réussite** !
+Il « achète » le vote du dieu défié, qui met son jeton dans sa main droite.
+- sinon, le dieu correspondant au chiffre obtenu a alors le choix de changer son vote s'il le souhaite.
+De plus, si le vote final est négatif, ce dieu pourra imposera un châtiment supplémentaire
+au Mortel, un suplice sisyphéen de son goût.
 
 ### La sentence
 Les dieux révèlent simultanément leur main droite.
@@ -301,6 +316,7 @@ h1 {
   margin: 0;
 }
 p, ol, ul { margin: .3rem 0; }
+ol, ul { padding-inline-start: 1rem; }
 section { break-inside: avoid; }
 .bicolumned {
   columns: 2;
@@ -308,9 +324,9 @@ section { break-inside: avoid; }
 }
 .tricolumned {
   columns: 3;
-  padding-top: 1rem;
-  padding-right: 4rem;
+  padding: 1rem;
 }
+.tricolumned > * { margin: 0; }
 img {
   display: block;
   max-height: 12rem;
