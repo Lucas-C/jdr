@@ -39,10 +39,10 @@ Une fois que vous êtes MJ, restez le jusqu'à ce que quelqu'un effectue un jet 
 Amenez le groupe à répondre aux questions liées à votre Principe.
 
 **HAINE:** Pourquoi essaient-ils de vous blesser ?
-Qui nous serait capable de nous jeter en pâture,
+Qui serait capable de nous jeter en pâture,
 et pourquoi ne l'ont-ils pas encore fait ?
 
-**PEUR:** Pourquoi sont-ils terrifiants ?
+**PEUR:** Pourquoi sont-ils terrifiant ?
 Qui peut nous aider, et de quoi ont-ils besoin ?
 
 **FAIM:** De quoi avez-vous besoin là tout de suite ?

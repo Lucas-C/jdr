@@ -33,7 +33,7 @@ Faites en sorte de les rendre réalistes. Chaque personne ne doit être choisi q
 
 ## == Étape 3 ==
 Bien, voici le hic : ce café est le dernier arrêt sur le chemin pour l'Enfer. Tout le monde ici a commis quelque chose qui l'a damné.
-Il est temps de déterminer quoi. Chaque joueur (à nouveau, peu importe l'ordre) choisit une personnage et explique ce qu'il a fait pour mériter
+Il est temps de déterminer quoi. Chaque joueur (à nouveau, peu importe l'ordre) choisit un personnage et explique ce qu'il a fait pour mériter
 un aller-simple pour la damnation éternelle. Ne choisissez pas le personnage que vous avez introduit, ni celui que vous avez décrit en détails ensuite.
 Exprimez-vous comme si vous étiez ce personnage : “ OK, j'ai une confession à faire ”.
 Utilisez la première personne, en ajoutant quelques tics de langage si vous le souhaitez.
