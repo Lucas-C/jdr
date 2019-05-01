@@ -15,7 +15,7 @@ Vous attendez impatiemment que le petit homme avec la veste grise de l'accueil
 vous fasse signe d'entrer dans la pièce à côté.
 Là où se jouera votre après-vie._
 
-Un jeu de rôle sans meneur pour 3 ou 4 joueurs sans préparation nécessaire.
+Un jeu de rôle sans meneur pour 3 ou 4 joueurs, sans préparation nécessaire.
 Il comporte très peu de jets mais nécessite deux dés à 8 faces, quelques pions quelconques,
 et optionnellement un sablier.
 
@@ -32,7 +32,7 @@ Et selon votre décision elle finira en Enfer ou au Paradis.
 
 ![](img/tensei-inktober2017-crumbling-mask.jpg)
 
-Durant la partie, tour à tour, vous allez mettre de côté votre rôle divin pour incarner un Mortel
+Tour à tour, vous allez mettre de côté votre rôle divin pour incarner un Mortel
 dont les actions seront passées au crible par un panel de dieux.
 Sa vie s'est déroulé au XXIIe siècle, dans le futur de notre monde actuel,
 devenu légèrement cyberpunk et dystopique.
