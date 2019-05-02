@@ -251,3 +251,6 @@ Combats épiques dans cathédrales/bâtiments religieux: harpons géants, bâtim
 http://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=38
 
 homme au masque de fer
+
+combats épiques dans cathédrales / bâtiments religieux: harpons géants, batiments qui s'écroulent...
+combat sur falaise de calcaire

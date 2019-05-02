@@ -55,15 +55,32 @@ Totalement clostromane et agoraphobe, seule une sortie par les égouts, le métr
 ## Les théories
 N'oubliez pas qu’un indice peut servir plus d’une seule théorie. Deux joueurs peuvent ainsi s’arranger pour qu’un indice leur convienne tous deux. On considèrera qu’un indice convenant **par hasard** à une autre théorie que celle de celui qui l’a composé ne sera pas valable que pour ce dernier.
 
-Survivant | Couleur du pion | Indices | Litres de sang
-----------|-----------------|---------|-
-Le flic   |                 |         |
-La pouffe |                 |         |
-La brute  |                 |         |
-Le geek   |                 |         |
-Le goth   |                 |         |
+Survivant | Couleur du pion | Indices | Litres de sang |
+----------|-----------------|---------|----------------|
+Le flic   |                 |         |                |
+La pouffe |                 |         |                |
+La brute  |                 |         |                |
+Le geek   |                 |         |                |
+Le goth   |                 |         |                |
 
-<style>
-table th:nth-child(2) { width 50%; }
+<style type="text/css">
+body {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 4rem;
+  font-family: Calibri,Arial,sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+h1 {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+h2 { font-size: 1.5rem; }
+blockquote { font-style: italic; padding-left: 1rem; }
+table { border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-inside: avoid; }
+td, th { border: 1px solid #ddd; }
+td { padding: 2rem; }
+table th:nth-child(3) { width: 60%; }
 </style>
-

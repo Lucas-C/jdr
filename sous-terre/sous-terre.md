@@ -1,26 +1,25 @@
 <!--
-glossaire: relique vs artefact
-- prendre inspi sur Vermines + InCognito pour équipement
+voc: relique vs artefact
 -->
 # Sous terre
 
-Un jeu de rôle pour un meneur et 3 joueurs, sans préparation nécessaire,
-nécessitant 2 dés à 6 faces et quelques pions quelconques.
+Un jeu de rôle d'aventure et d'exploration, pour un meneur et 3 joueurs, sans préparation nécessaire.
+Il nécessite 2 dés à 6 faces et quelques pions quelconques.
 
 **Univers** : suite à une catastrophe il y a bientôt un siècle, ce qui reste de l'humanité est réfugiée sous terre,
-dans des tunnels.
+dans un vaste réseau de tunnels.
+\+ mention saison Pollen & Skavens
 
 **Objectif des PJs** :
-la nuit dernière, Damian, votre chef-sorcier, est mort de ses blessures.
-Avant de rendre son dernier souffle, et face au danger imminent qui menace votre communauté,
-son dernier commandement fut de vous envoyer dans l'Agartha,
+la nuit dernière, Damian, votre chef-sorcier, est mort de blessures infligés lors d'une attaque de Skavens.
+Avant de rendre son dernier souffle, son dernier commandement fut de vous envoyer dans l'Agartha,
 la dangereuse zone "instable", parcouru d'une étrange énergie, le Vril, pour une mission :
-1. un artefact suffisament puisant pour les aider à repousser les Skavens, les homme-rats prêts à vous attaquer
-1. retrouver Erik, le fils de Damian, qui n'est pas revenu de la dernière expédition là-bas, avant de déplacer la communauté
-1. vous infiltrer derrière les lignes ennemis et semer la panique chez les Skavens, les homme-rats prêts à vous attaquer
-1. trouver une source de nourriture près de laquelle votre communauté pourrait s'installer
-1. traquer le Skaven qui l'a mortellement blessé, et récupérer le collier de pouvoir qu'il lui a volé
-1. placer son corps embaumé dans la crypte de ses ancêtres, sans quoi il risque de revenir d'entre les morts
+- ~~⚀~~ retrouver Erik, son fils, qui n'est pas encore revenu d'une expédition là-bas, avant de déplacer la communauté
+- ~~⚁~~ un artefact suffisament puisant pour les aider à repousser les Skavens
+- ~~⚂~~ vous infiltrer derrière les lignes ennemis et semer la panique chez les Skavens
+- ~~⚃~~ trouver une source de nourriture près de laquelle votre communauté pourrait s'installer
+- ~~⚄~~ traquer le Skaven qui l'a mortellement blessé, et récupérer le collier de pouvoir qu'il lui a volé
+- ~~⚅~~ placer son corps embaumé dans la crypte de ses ancêtres, sans quoi il risque de revenir d'entre les morts
 
 Et il faut faire vite, c'est le début de la saison rouge...
 
@@ -45,15 +44,13 @@ Talents: 4 au choix
 - escalader
 - combattre
 - s'orienter (cartographeur)
-- connaissance des reliques (archéocollecteur)
+- étudier les reliques (archéocollecteur)
 - intimider
 - soigner
 - pister
 - sprinter / parkour
-- fort
+- être fort
 - tromper
-
-Playtesteurs +1 de leur sugegstion
 
 Impulses: cf. feuille
 Donne +2 au jet qui s'ensuit
@@ -69,11 +66,9 @@ Règles: cf . feuille + légende des lieux
   en restant sur place -> paradoxe
 
 9 directions scénaristiques (1er coche si checkboxes, sinon poser jeton dessus lorsque actif):
-* (central) progression vers objectif des PJs :
-[ ] indice, piste
-[ ] confirmation/infirmation + indication précise
-[ ] lieu découvert, mais il reste un obstacle / comment s'y prendre ?
-* pair / impair : blessure / décès dans les 10 prochain minutes
+* (central) au choix
+* reorg tunnels due au Vril -> Pair/impar : suppression edge / map OU swap 2 lieux
+* on/off -> sources de lumière
 * Skavens : 1 des PJs peut faire 1 jet pour les repérer
 [ ] juste des rats
 [ ] éclaireur Skaven -> même type de rencontre tant que PJs pas repérés, ou éclaireur éliminé avant de prévenir sa meute
@@ -92,7 +87,6 @@ Visible mais trop tard : (pair / impair) fourmi géante / Skaven digérée
 [ ] se manifeste physiquement pour aider PJs
 [ ] sauve un PJ
 * mysticisme : cf. table
-* nouveau lieu : cf. table
 * anomalies Vril : cf. table
 * rencontre -> cf. table
 
@@ -146,13 +140,10 @@ Après créa:
 1. métal : coursives, escaliers, cables, rembardes...
 -> pas Pollen
 
-1d6 anomalies Vril :
-1. éboulement / réorganisation des tunnels => Pair/impar : suppression edge / map OU swap 2 lieux
-1. idem
-1. idem
-1. décharge de Vril -> Pair / impair : sol électrique / devient temporairement liquide -> se réfugier sur surface non conductrice
-1. gravité change de direction -> attachez-vous !
-1. une tempête, avec un vent extrèmement violent, et une chance sur deux (pair / impair)
+1d6/2 anomalies Vril :
+- ~~⚀~~ ~~⚁~~ décharge de Vril -> Pair / impair : sol électrique / devient temporairement liquide -> se réfugier sur surface non conductrice
+- ~~⚂~~ ~~⚃~~ gravité change de direction -> attachez-vous !
+- ~~⚄~~ ~~⚅~~ une tempête, avec un vent extrèmement violent, et une chance sur deux (pair / impair)
 de provoquer l'arrivée d'eau : Pair / impair : s'écoule d'en haut / monte par le bas
 
 1d6 rencontre :
@@ -194,50 +185,51 @@ Pair / impair -> peut communiquer / muet ou incompréhensible
 Attitude : ~~⚀~~folie (pair / impair -> douce / dangereuse), ~~⚁~~bienveillant, ~~⚂~~agressif & parano,
 ~~⚃~~souhaite les accompagner, ~~⚄~~les piège pour les voler, ~~⚅~~.
 
-:::: grid
-::: grid-item
+:::: narrative-axes
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
 
-::: grid-item
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
 
-::: grid-item
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
 
-::: grid-item
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
 
-::: grid-item
-| | | |
-|-|-|-|
-| | | |
-| | | |
+::: grid-box
+|             | ~~⚀~~ ~~⚁~~ | ~~⚂~~ ~~⚃~~ | ~~⚄~~ ~~⚅~~ |
+|-------------|-------------|-------------|-------------|
+| ~~⚀~~ ~~⚁~~ |             |             |             |
+| ~~⚂~~ ~~⚃~~ |             | Au choix    |             |
+| ~~⚄~~ ~~⚅~~ |             |             |             |
 :::
 
-::: grid-item
-- [ ] blabla
-- [ ] blabla
-:::
-
-::: grid-item
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
 
-::: grid-item
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
 
-::: grid-item
+::: grid-box
+- [ ] blabla
+- [ ] blabla
+:::
+
+::: grid-box
 - [ ] blabla
 - [ ] blabla
 :::
@@ -288,26 +280,8 @@ Music ([playlist Youtube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kauLu
 * Wardruna - Völuspá
 * Ryuichi Sakamoto - The Revenant Main Theme
 
+
 <style type="text/css">
-.grid { display: flex; flex-wrap: wrap; }
-.grid-item {
-  flex: 1 0 33%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.grid-item > *,
-.impulses ul {
-  list-style: none;
-  padding-inline-start: 0;
-}
-.impulses { columns: 6; }
-s { text-decoration: none; font-size: 1.2rem; line-height: .8; vertical-align: bottom; }
-.impulses s {
-  display: block;
-  font-size: 1.8rem;
-  text-align: center;
-}
 body {
   max-width: 36rem;
   margin: 0 auto;
@@ -316,6 +290,7 @@ body {
   font-size: .8rem;
   line-height: 1.4;
 }
+section { break-inside: avoid; }
 h1, h2, h3 {
   margin-bottom: 0;
   clear: both;
@@ -331,74 +306,112 @@ h2 { font-size: 1.7rem; }
 h3 { font-size: 1.4rem; }
 p, ol, ul { margin: .3rem 0; }
 ol, ul { padding-inline-start: 1rem; }
-section { break-inside: avoid; position: relative; /* for JSPlumb */ }
+s { text-decoration: none; font-size: 1.2rem; line-height: .8; vertical-align: bottom; }
 table {
   border-spacing: 0;
   border-collapse: collapse;
+  border-style: hidden; /* supprime les bordures autour du tableau */
   margin: 0 auto;
+  page-break-inside: avoid;
 }
-th, td { width: 4rem; height: 4rem; padding: 0; border: 1px solid black; }
+th, td {
+  padding: 0;
+  border: 1px solid black;
+}
+
+.narrative-axes {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative; /* pour JSPlumb */
+}
+.narrative-axes table, .narrative-axes thead, .narrative-axes tbody { width: 100%; }
+.narrative-axes th:first-child, .narrative-axes td {
+  width: 25%;
+  height: 0;
+  padding-bottom: 25%; /* pour forcer un ratio carré */
+}
+.narrative-axes th, .narrative-axes td:first-child, .narrative-axes tr:nth-child(2) td:nth-of-type(3) { padding-bottom: 0; }
+.grid-box {
+  flex: 1 0 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grid-box > *,
+.impulses ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
+.impulses { columns: 6; }
+.impulses s {
+  display: block;
+  font-size: 1.8rem;
+  text-align: center;
+}
 </style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.9.2/js/jsplumb.js"></script>
+
+<link rel="stylesheet" type="text/css" href="libs/jsplumbtoolkit-defaults-2.9.2.css">
+<script src="libs/jsplumb-2.9.2.js"></script>
 <script>
 jsPlumb.ready(function() {
-    jsPlumb.setContainer(document.querySelector('section'));
+    jsPlumb.setContainer(document.querySelector('.narrative-axes'));
+    var paintStyle = { stroke:'#456' };
+    var endpointStyle = { radius: 5, fill: '#456' };
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(1) > *'),
-        target: document.querySelector('thead > tr:nth-of-type(1) > th:nth-child(1)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(1) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(1) td:nth-child(2)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Bottom', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(2) > *'),
-        target: document.querySelector('thead > tr:nth-of-type(1) > th:nth-child(2)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(2) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(1) td:nth-of-type(3)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Bottom', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(3) > *'),
-        target: document.querySelector('thead > tr:nth-of-type(1) > th:nth-child(3)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(3) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(1) td:nth-of-type(4)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Bottom', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(4) > *'),
-        target: document.querySelector('tbody > tr:nth-of-type(1) > td:nth-child(1)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(4) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(2) td:nth-of-type(2)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Right', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(6) > *'),
-        target: document.querySelector('tbody > tr:nth-of-type(1) > td:nth-child(3)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(6) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(2) td:nth-of-type(4)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Left', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(7) > *'),
-        target: document.querySelector('tbody > tr:nth-of-type(2) > td:nth-child(1)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(7) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(3) td:nth-of-type(2)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Top', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(8) > *'),
-        target: document.querySelector('tbody > tr:nth-of-type(2) > td:nth-child(2)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(8) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(3) td:nth-of-type(3)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Top', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
     jsPlumb.connect({
-        source: document.querySelector('.grid-item:nth-of-type(9) > *'),
-        target: document.querySelector('tbody > tr:nth-of-type(2) > td:nth-child(3)'),
-        connector: 'Straight',
+        source: document.querySelector('.narrative-axes .grid-box:nth-of-type(9) > *'),
+        target: document.querySelector('.narrative-axes tr:nth-child(3) td:nth-of-type(4)'),
+        connector: 'Straight', paintStyle: paintStyle,
         anchors: ['Top', 'Center'],
-        endpoints: ['Blank', 'Dot']
+        endpoints: ['Blank', 'Dot'], endpointStyle: endpointStyle,
     });
 }); 
 </script>
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.9.2/css/jsplumbtoolkit-defaults.css">
