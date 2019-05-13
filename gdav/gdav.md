@@ -8,6 +8,8 @@
 - envisager publi & print-on-demande sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
 
+https://www.deviantart.com/halycon450/art/Cursebound-Knight-796429742?src=MC_deviation_stack
+
 # Playtest n°1: Cédric, Matthieu, Simon - univers inventé
 
 # Playtest n°2: Henri, Loïc, Thomas - japon féodal fantastique

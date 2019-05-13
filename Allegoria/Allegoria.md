@@ -1,3 +1,5 @@
+https://www.deviantart.com/mrdream/art/Gundead-99215790
+
 cf. MIND MAP !!
 
 Polices FP : Wartorn, Rosewood Std Regular, Orator Std, OCR A Std

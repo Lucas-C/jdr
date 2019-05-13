@@ -1,4 +1,6 @@
-<!-- Tasks:
+<!--
+https://www.deviantart.com/fernand0fc/art/A-laser-rifle-730311561
+
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html

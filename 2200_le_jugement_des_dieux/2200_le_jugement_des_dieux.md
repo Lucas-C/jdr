@@ -1,5 +1,6 @@
 <!--
 * illustrations + thématiques ? balance, marteau de juge...
+* alt illus: https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits
 
 # Playtest n°1 avec Henri & Loïc :
 - risque d'être trop long pour 4 joueurs, à 3 pas mal
