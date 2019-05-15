@@ -1,9 +1,9 @@
 <!--Todo:
-* liste des théories
 * playtest
-* export PDF
+* commentaire sur https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453
+* publi sur tl;dr
 
-Extension ennemis spécifiques (initialement sugegstion/variante "ouverte") :
+Extension ennemis spécifiques (initialement suggestion/variante "ouverte") :
 * scientifiques possédant de quoi se soigner (récupérer un litre de sang)
 * soldats sans pitié tirant en priorité sur les zombies
 * alien ayant une chance sur 6 de se dupliquer à chaque tour
@@ -18,17 +18,17 @@ Une blonde pulpeuse à hauts talons apparaît à la lueur blafarde des néons d'
 Soudain, une forme voûtée se dessine à l'extrémité de la ruelle. Elle émet un grognement rauque.
 La jeune femme sursaute et s'élance de nouveau dans une fuite éperdue… pour trébucher sur un câble, entraînant la chute d’un projecteur. 
 
-> "Coupez ! C’est pas vrai, quels acteurs lamentables… Aidez au moins Brenda à se relever !
-> Bon, la maquilleuse rajoute fissa quelques lambeaux de peau à Tony et on la refait. Et je veux encore plus de ketchup cette fois !"
+> « Coupez ! C’est pas vrai, quels acteurs lamentables… Aidez au moins Brenda à se relever !
+> Bon, la maquilleuse rajoute fissa quelques lambeaux de peau à Tony et on la refait. Et je veux encore plus de ketchup cette fois ! »
 
 ![](cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg)
 
 ## Qu'est-ce que c'est que ce truc ?
-_Les Non-Morts_ est un court jeu compétitif faisant la part belle à l'imagination, à mi-chemin entre jeu de société et jeu rôle,
-dans une ambiance de film de mort-vivants raté.
+_Les Non-Morts_ est un court jeu compétitif faisant la part belle à l'imagination, à mi-chemin entre jeu de société et jeu rôle sans meneur,
+dans une ambiance de film de mort-vivants de série Z.
 
 Au cours de la partie, les joueurs vont dessiner collectivement le plan d'un lieu,
-et décrire les actions d'une poignée de survivant tentant de survivre à une marée de zombies.
+et décrire les actions d'une poignée de survivants tentant de survivre à une marée de zombies.
 
 Pour y jouer, vous aurez besoin de plusieurs dés traditionnels à six faces (des "d6"),
 de 5 pions de couleurs différentes, de plusieurs dizaines de jetons quelconques pour représenter les mort-vivants,
@@ -40,8 +40,10 @@ Tantôt scénariste tantôt réalisateur, chacun des joueurs va devoir user de s
 
 Pour y parvenir, il devra glisser subrepticement des indices entre les mains des protagonistes qui survivront à l’horreur de cette nuit.
 Pas évident dans un navet horrifique de série Z !
-En plus, la production a imposé une co-écriture et une co-réalisation du film avec d’autres minables qui se croent les nouveaux un Spielberg ou Carpenter…
+En plus, la production a imposé une co-écriture et une co-réalisation du film avec d’autres minables qui se croient les nouveaux un Spielberg ou Carpenter…
 et ces ratés ne veulent pas de votre théorie !
+
+![](TCP_Zombie_6.jpg)
 
 ## Début du jeu
 Les joueurs se mettent d’accord sur un lieu : manoir, supermarché, bateau, bibliothèque…
@@ -79,6 +81,8 @@ Une fois ces jets effectués, le joueur fait se déplacer **1 à 4 zombies** dan
 Enfin, il doit **rajouter 1 à 4 non-morts** dans n’importe quelle pièce en décrivant son/leur arrivée et en plaçant un jeton pour chaque zombie.
 Le total des mort-vivants déplacés et rajoutés doit faire **5**.
 
+![](TCP_Zombie_3.jpg)
+
 ### Jouer les survivants
 - pour **un jeton**, un joueur peut déplacer durant son tour jusqu’à **deux survivants** dans une pièce adjacente **ne contenant pas de zombies**.
 Si toutes les pièces adjacentes contiennent des non-morts, cette dernière restriction ne s'applique pas.
@@ -99,13 +103,11 @@ massacre de figurants en arrière plan par des zombies ne s’intéressant pas a
 conception d’une barricade empêchant tout passage, découverte d’un nécessaire de soin par un survivant, gros zombie se régénérant…
 Cet événement ne permettra pas pour autant de ralentir les zombies !
 
-A moins qu'au moins deux autres joueurs autour de la table s'opposent à cet évenement, il a lieu.
+A moins qu'au moins deux autres joueurs autour de la table s'opposent à cet événement, il a lieu.
 Un joueur peut vendre sa voix en imposant qu’un certain nombre de jetons soient dépensés pour réaliser cet événement,
 ces jetons pouvant être payés par plusieurs joueurs.
 
 ## Les survivants
-![](TCP_Zombie_1.jpg)
-
 Au nombre de cinq, ils seront représentés durant la partie par des pions de couleurs distinctes.
 Pour chaque personnage, leur nombre initial de litres de sang est indiqué entre parenthèses :
 
@@ -114,8 +116,6 @@ Malheureusement blessé à la jambe, deux jetons sont nécessaires pour le dépl
 
 - **⚁ La pouffe** (2L), complètement hystérique, peut hurler à en déchirer les tympans pourris des zombies,
 les obligeant à reculer dans une pièce adjacente. Cet événement coûte 3 jetons mais peut être payé par plusieurs joueurs.
-
-![](TCP_Zombie_3.jpg)
 
 - **⚂ Le geek** (4L), paranoïaque obsédé par l’informatique et la théorie du complot, est capable de transformer n’importe quel objet du quotidien
 en preuve de l’existence du surnaturel. Pour autant de jetons qu’il a d’adversaires, un joueur peut,
@@ -126,8 +126,6 @@ Totalement claustromane et agoraphobe, seule une sortie par les égouts, le mét
 - **⚃ ⚄ La brute** (6L), athlète tout en muscles, est déterminée à se sortir de ce piège.
 Ses cris de rage et ses insultes vexent néanmoins terriblement les non-morts qui en font une cible privilégiée.
 
-![](TCP_Zombie_6.jpg)
-
 - **Le goth** (4L) possède un visage blafard et une démarche voûtée qui le font passer pour un non-mort aux yeux des autres zombies.
 Il ne peut ainsi être blessé qu'en s'enfuyant d'une pièce. Légèrement dérangé, seule la présence des autres
 lui permet de rester maître de ses esprits : isolé, il se transforme immédiatement en tueur fou,
@@ -137,6 +135,8 @@ l’équivalent d’un zombie composé d’autant de jetons qu’il lui restait 
 Un survivant qui perd son dernier litre de fluide vital meurt en répandant des gerbes de sang, et si possible de manière ridicule.
 Le joueur actif dessine alors son cadavre sur le plan : attirés comme des mouches par cette source de nourriture,
 plus aucun zombie **ne quittera cette pièce**.
+
+![](TCP_Zombie_1.jpg)
 
 ## Fin de partie
 Le jeu s'arrête dès qu'**un survivant s’échappe avec au moins trois indices** confirmant la théorie d’un joueur.
@@ -160,15 +160,26 @@ La transformation est lente et il ne peut ainsi perdre plus d’un litre de sang
 Considérez chaque case comme une immense pièce, et « activez-les » progressivement, en ajoutant à chaque fois un lieu notable :
 hôtel de ville, caserne de pompiers, cinéma, parc...
 
-## Feuille de partie
+## À imprimer
 
-| Dé       | Survivant | Capacités              | Couleur du pion | Indices | Litres de sang perdus |
-|----------|-----------|------------------------|-----------------|---------|-----------------------|
-|  ⚀       | Le flic   | armé (-1J) & lent (2J) |                 |         |                  / 4L |
-|  ⚁       | La pouffe | hurler (3J)            |                 |         |                  / 2L |
-|  ⚂       | Le geek   | théories & agoraphobe  |                 |         |                  / 4L |
-| ⚃&nbsp;⚄ | La brute  |                        |                 |         |                  / 6L |
-|          | Le goth   | tueur fou si isolé     |                 |         |                  / 4L |
+### Les théories sur l'origine des zombies
+
+| **Infecté**             <br> un virus militaire, une bactérie inconnue... ou un champi
+|-
+| **Magie noire**         <br> une malédiction démoniaque ou un mauvais sort
+| **Parasite alien**      <br> une créature insectoïde à l'intérieur du corps
+| **Cyber borgs**         <br> des nanomachines maléfiques semi-intelligentes
+| **Mutants nucléaires**  <br> des radiations expérimentales qui ramolissent le cerveauuuuu
+
+### Feuille de partie
+
+| Dé       | Survivant | Capacités              | Couleur du pion | Indices | Litres de sang
+|----------|-----------|------------------------|-----------------|---------|-
+|  ⚀       | Le flic   | armé (-1J) & lent (2J) |                 |         | ▢ ▢ ▢ ▢
+|  ⚁       | La pouffe | hurler (3J)            |                 |         | ▢ ▢
+|  ⚂       | Le geek   | théories & agoraphobe  |                 |         | ▢ ▢ ▢ ▢
+| ⚃&nbsp;⚄ | La brute  |                        |                 |         | ▢ ▢ ▢ ▢ ▢ ▢
+|          | Le goth   | tueur fou si isolé     |                 |         | ▢ ▢ ▢ ▢
 
 ### Licence et sources
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
@@ -190,24 +201,32 @@ body {
   font-size: 1.1rem;
   line-height: 1.4;
 }
-h1 {
-  font-size: 2.5rem;
-  text-transform: uppercase;
-  text-align: center;
-}
+h1 { font-size: 2.5rem; text-transform: uppercase; text-align: center; }
 h2, h3 { margin-bottom: 0; margin-top: 1.5rem; }
 h2 { font-size: 1.5rem; }
 h3 { font-size: 1.2rem; }
+section { break-inside: avoid; }
 p { margin: .5rem 0; }
 blockquote { font-style: italic; padding-left: 1rem; }
-#les-non-morts img { display: block; margin: 0 auto; max-width: 25rem; }
-#les-survivants img { max-width: 8rem; float: right; }
+img { display: block; margin: 0 auto; max-width: 10rem; }
+#les-non-morts > p > img { max-width: 25rem; }
 #licence-et-sources img { float: left; margin: 0 .5rem; }
 table { border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-inside: avoid; }
 td, th { border: 1px solid #ddd; }
-td { padding: 2rem 0; text-align: center }
-table td:first-child { font-size: 2rem; }
-table td:nth-child(2) { width: 10%; }
-table th:nth-child(5) { width: 60%; }
-table td:last-child { text-align: right; }
+td { padding: 2rem 0; text-align: center; }
+#les-th-ories-sur-l-origine-des-zombies table { width: 80%; margin: 0 auto; }
+#les-th-ories-sur-l-origine-des-zombies th { font-weight: normal; padding: 2rem 0; text-align: center; }
+#feuille-de-partie td:first-child { font-size: 2rem; }
+#feuille-de-partie td:nth-child(2) { width: 10%; font-weight: bold; }
+#feuille-de-partie th:nth-child(5) { width: 60%; }
+#feuille-de-partie td:last-child { text-align: right; }
+@media print {
+  #les-non-morts > p > img { max-width: 20rem; }
+}
 </style>
+<script>
+// On duplique la première colonne du tableau des théories :
+document.querySelectorAll('#les-th-ories-sur-l-origine-des-zombies tr').forEach(tr =>
+    tr.appendChild(tr.children[0].cloneNode(/*deep=*/true))
+)
+</script>
