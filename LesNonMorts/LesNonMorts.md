@@ -1,7 +1,7 @@
 <!--Todo:
-* playtest
+* playtest + ajouter remerciement
 * commentaire sur https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453
-* publi sur tl;dr
+* publi sur tl;pl
 
 Extension ennemis spécifiques (initialement suggestion/variante "ouverte") :
 * scientifiques possédant de quoi se soigner (récupérer un litre de sang)
@@ -189,8 +189,10 @@ Si vous le testez, songez à me laisser un petit commentaire sur <https://chezso
 
 Toutes les illustration sont [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) :
 la première est de [Danyael Lopes](https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453),
-celles en noir & blanc sont de [Jeff Preston](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits).
+celles en noir & blanc sont de [Jeff Preston](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits)
+et celle-ci dessous est de [Austin criterion](https://en.wikipedia.org/wiki/File:Night_of_The_Living_Dead_-_2017_Poster.jpg).
 
+![](Night_of_The_Living_Dead.jpg)
 
 <style type="text/css">
 body {
@@ -209,8 +211,8 @@ section { break-inside: avoid; }
 p { margin: .5rem 0; }
 blockquote { font-style: italic; padding-left: 1rem; }
 img { display: block; margin: 0 auto; max-width: 10rem; }
-#les-non-morts > p > img { max-width: 25rem; }
-#licence-et-sources img { float: left; margin: 0 .5rem; }
+#les-non-morts > p > img, #licence-et-sources > p > img { max-width: 25rem; }
+#licence-et-sources a img { float: left; margin: 0 .5rem; }
 table { border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-inside: avoid; }
 td, th { border: 1px solid #ddd; }
 td { padding: 2rem 0; text-align: center; }
@@ -222,6 +224,7 @@ td { padding: 2rem 0; text-align: center; }
 #feuille-de-partie td:last-child { text-align: right; }
 @media print {
   #les-non-morts > p > img { max-width: 20rem; }
+  #licence-et-sources p img { margin: 5rem auto; }
 }
 </style>
 <script>

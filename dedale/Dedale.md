@@ -1,13 +1,10 @@
 <!-- GENERATE HTML: md2html Dedale.md > Dedale.html
 
-https://www.google.fr/search?tbm=isch&q=site%3Awww.flickr.com%2Fphotos%2Fpapamichalopoulos+%22cyborg%22
-
 ajouter une table d'évênements à Dédale, lorsque les joueurs y repassent, pour faire vivre le lieu
 mécanisme de sauvegarde jv-esque : permet de revenir en arrière en cas de mort / situation indésirable (avec limites, et pour tout le groupe)
 proposer une table de génération de missions: universe + où se cache l'Antithée + plot twist
 -> et combiner avec squelette de meta campagne à la Fils de Babel
 reprendre design & illus du jeu
-https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f
 
 Scénario one-shot narratif:
 - le scénario est découpé en scènes d'actions débutant "in media res"
@@ -22,6 +19,23 @@ Scénario one-shot narratif:
   * leur ancien "block leader" devient rogue
   * 
 -->
+# Dédale
+
+<https://www.behance.net/gallery/41177771/Difend-System-failure-Ep>
+
+![](d2cg1ic-1b39e6fd-9299-4dad-b56e-2778cbc1b765.jpg)
+<https://www.deviantart.com/jimhatama/art/armor-pilot-141836196>
+![](d2o54wj-a8425d09-39b3-4021-ad4c-dab19800f773.jpg)
+<https://www.deviantart.com/jimhatama/art/fgffgfgh-163362761>
+![](d38rckh-caf5978e-3e78-471b-a481-3a6af1b9b4a7.jpg)
+<https://www.deviantart.com/jimhatama/art/fjfgk-196111457>
+![](TCPCyberpunk4.jpg)
+![](TCPCyberpunk6.jpg)
+![](TCPCyberpunk9.jpg)
+![](https://i.redd.it/jdons4ciozs21.jpg)
+<https://www.reddit.com/r/deepdream/comments/bejdm7/soma_2015_game_image_style/>
+Dataface : <https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f>
+Papamichalopoulos: <https://www.google.fr/search?tbm=isch&q=site%3Awww.flickr.com%2Fphotos%2Fpapamichalopoulos+%22cyborg%22>
 
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire
 (celle des Machines étant sans faille, la limitation en nombre et en valeur de Skillpacks est oubliée) pourraient disparaître.

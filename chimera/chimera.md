@@ -27,6 +27,17 @@ Idées de mise en page
     zones textes arrondies et à l'opacité légèrement différente par rapport au fond
     traits reliants certaines caracs
 Proposer sur http://troplongpaslu.fr
+
+Inspis
+https://www.artstation.com/artwork/8d3Xm
+https://www.artstation.com/artwork/4LAnn
+https://www.artstation.com/artwork/Q0lEE
+
+https://www.behance.net/gallery/57662329/Neurostealer
+
+https://steamcommunity.com/app/464060/discussions/0/2765630416809926149/
+
+rand cop from img/behance_platigeimage_cyberpunk_2077_cc-by-nc.jpg
 -->
 # ![Logo papillon Chimera](img/Butterfly_Logo.jpg)
 ::: center-text
@@ -254,6 +265,8 @@ Ils y ont leur quartiers personnels, une salle d'entrainement, etc.
 ![](img/lab-mouse-top-view-2817117_640.png)
 <!-- https://pixabay.com/fr/laboratoire-de-souris-vue-de-dessus-2817117/ -->
 
+![](https://i.redd.it/aw1hsb9viut21.jpg)
+<!-- https://www.reddit.com/r/deepdream/comments/bg4fku/human_machine/ -->
 
 ::::
 :::: grid-item
@@ -295,6 +308,8 @@ Enchainement sur mission n°1 en feignant que ce n'était pas prévu...
 
 ![](https://i0.wp.com/s-media-cache-ak0.pinimg.com/originals/f1/1a/62/f11a624051a77c665f7bd643fbaba64a.jpg)
 <!-- Alt: https://cmn-group.com/wp-content/uploads/2014/09/blueprint2.jpg -->
+
+![](img/behance_platigeimage_cyberpunk_2077_cc-by-nc.jpg)
 
 + canot de sauvetage
 
