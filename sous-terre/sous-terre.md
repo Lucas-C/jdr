@@ -6,38 +6,11 @@
 - règles de navigation dans les tunnels : PAS découverte des lieux au hasard ? subcarto en connaissent au moins 1 ou 2 de nom ?
 - gimmicks/manie : juron ; bricoler / activer reliques ; explorer passages secrets & lieux inaccessibles
   => lorsqu'appliqué, n'importe quel joueur autour de la table peut lancer 1d6 -> si impair +1 jeton bravoure pour le PJ
-- mécanique de jeu pour Ombre & Lumières
+- mécanique de jeu pour Rats & Lumière
 
 # RAF: mise en forme
 - pronoms à rendre + inclusifs
 - indiquer "confidentiel" sur les pages réservées au MJt
-
-
-## Puzzles
-
-Idées en vrac:
-- PJs découvrent 1 à 3 mots magiques (qu'ils inventent _in game_) qui chacun déclenche un effet différent
-- portes activables à l'énonciation d'un mot magique
-- basé sur contrôle du niveau d'eau
-- se jeter dans le vide
-- magie qui transforme la pierre en autre chose
-- colosse à vaincre dans une salle
-- énigme de réflection de la lumière
-- pattern/format commun à plusieurs mécanismes : suite de 3 à 6 d6 (diégétique : indique placement de doigts de la main, 6 => paume)
-- grille de sudoku sans lignes, avec des points représentant des d6
-
-Tom Hermans advice:
-  * A puzzle should be inviting and rewarding
-  * Use the smallest amount of space and puzzle pieces for the puzzle will work
-  * by teaching new things in every levels, puzzles become much more focused and elegant
-  * Puzzles should be a little bit inaccessible if they want to evoke a feeling of mystery and sensation to drive the player
-  * + continuity & foreshadowing
-
-Mes contraintes créatives:
-  * _environmental_ + se baser sur la faune / flore
-  * la majorité des puzzles ne doit pas nécessiter d'item mais une simple connaissance des règles / de l'environnement / de mots magiques
-  * faire découvrir aux joueurs des "raccourcis" pour des tâches laborieuses
-  * certaines énigmes seront visuelles et incluses dans le jeu
 
 # Playtest n°1 ~4h30
 * ++mystères & énigmes (ex: tapis de mousse collante)
@@ -138,7 +111,7 @@ Voici quelques abréviations employées par la suite :
 Suite à une catastrophe il y a bientôt un siècle, ce qui reste de l'humanité s'est réfugiée sous terre,
 dans un vaste réseau de tunnels.
 
-\+ mention Vril, saison rouge / Pollen & Skavens
+\+ mention Vril, saison rouge / Pollen & rats... + rumeur Skaven mais personne survécu
 
 \+ on y marchande en faisant du troc ou avec de l'or
 
@@ -516,7 +489,12 @@ tunnel en partie effondré dont on apperçoit l'autre côté
 :::
 
 ::: open-problem
+chaines auxquelles sont suspendues des lumières / miroirs,
+à tirer / rompre / auxquelles se balancer
+:::
 
+::: open-problem
+statue animée gardienne d'un lieu
 :::
 
 ::: puzzle
@@ -557,7 +535,7 @@ Pour chacune prévoir un compteur de progression
 |-------------|---------------------|------------------|-------------------|
 | ~~⚀~~ ~~⚁~~ |**Fantômes**         |**Reorg tunnels** |**Rencontre**      |
 | ~~⚂~~ ~~⚃~~ |**Vestiges**         | Au choix         |**Saison rouge**   |
-| ~~⚄~~ ~~⚅~~ |**Ombres & lumières**|**Danger naturel**| **Menace Skaven** |
+| ~~⚄~~ ~~⚅~~ |**Rats & lumière**   |**Danger naturel**| **Menace Skaven** |
 :::
 
 Notez que dans cette table les scores les plus élévés,
@@ -589,7 +567,9 @@ Damian
 ::::
 
 ::: narrative-axe
-#### Ombres & lumières
+#### Rats & lumière
+- effrayés par lumière
++ attirés par spores bleus
 :::
 
 :::: narrative-axe
@@ -767,6 +747,7 @@ Exemples de « thématique » : relique, bassins, colosses, lieux, mots magiques
 | ~~⚅~~ | 1 arc & quelques flêches     |                           |                  |
 
 \+ grapin
+\+ appât à râts
 
 (si résultat déjà obtenu, lire le suivant dans la liste)
 
@@ -795,6 +776,7 @@ apparence (et où les trouver) x effet:
 - creuse des tunnels en un clin d'oeil
 :::
 
+flûte pour rats
 
 ## En mode campaggne
 :::rule-focus
@@ -818,6 +800,9 @@ et même d'énigmes, de Reliques ou de mots magiques
 
 
 ### L'explication
+**Qui a laissé tous ces indices, toutes ces marques pour aider à résoudre les étranges mécanismes de l'Agartha ?**
+Les PJs ! Dans des incarnations antérieures. Certaines ont été effacées par le temps,
+d'autres ont une tournure d'énigme simplement parce que le <archétype> est farceur !
 
 
 ### Ce qui change et ce qui ne change pas à chaque session
@@ -841,6 +826,9 @@ D'une inondation massive.
 
 
 ## FAQ
+
+### Est-il possible de changer de groupe de joueurs entre 2 sessions ?
+Oui absolument !
 
 ### Comment gérer la mort et les blessures ?
 Comme il s'agit d'une histoire collective, les PJs verront toujours le danger venir.
@@ -919,7 +907,7 @@ Merci à Estelle, Henri & Matthieu pour le playtest !
 - les illustrations de Andrzej Dybowski pour le jeu Metro Exodus : https://dybowski.artstation.com/albums/1334366
 
 **Inspirations :** les jeux de rôle PbtA, Lady Blackbird, l'Île Mystérieuse, Warhammer pour les Skavens,
-les jeux vidéo Tomb Raider & Left 4 Dead pour le groupe soudé et complémentaire,
+les jeux vidéo Tomb Raider & Left 4 Dead pour le groupe soudé et complémentaire, et A Plague Tale pour la mécanique de la lumière et des rats,
 le mange Dédale de Takamichi,
 la série "The Lost Room" pour les reliques, ces articles de Dark Roasted Blend pour l'ambiance :
 [Underground Cities and Bunkers: Living Down Below](http://www.darkroastedblend.com/2009/05/underground-cities-and-bunkers-living.html),

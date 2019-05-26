@@ -227,6 +227,7 @@ td { padding: 2rem 0; text-align: center; }
   #licence-et-sources p img { margin: 5rem auto; }
 }
 </style>
+
 <script>
 // On duplique la première colonne du tableau des théories :
 document.querySelectorAll('#les-th-ories-sur-l-origine-des-zombies tr').forEach(tr =>

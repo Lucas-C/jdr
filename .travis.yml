@@ -18,8 +18,11 @@ script:
 - cd 2200_le_jugement_des_dieux
 - node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
 - cd -
-- cd cyoa
+- cd CheatYourOwnAdventure
 - node ../md2html.js CheatYourOwnAdventure.md > index.html
+- cd -
+- cd DungeonHeartHeroesAndSpells
+- node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
 - cd -
 - cd chimera
 - node ../md2html.js chimera.md > index.html
@@ -45,7 +48,7 @@ script:
 - node ../md2html.js sous-terre.md > index.html
 - cd -
 - cd scavengers
-- node ../md2html.js adj-scavengers.md > index.html
+- node ../md2html.js scavengers.md > index.html
 - if [[ $TRAVIS_TAG =~ ^adj-scavengers ]]; then ./gen_pdf.sh index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - rm .gitignore
