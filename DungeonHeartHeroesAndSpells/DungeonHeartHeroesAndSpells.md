@@ -33,6 +33,10 @@ Cette extension a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](h
 
 Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org>
 
+Les illustrations sont de Ramirez de Souza aka Halycon450 :
+[Abjurer](https://www.deviantart.com/halycon450/art/Abjurer-63552719) & [Yvonne](https://www.deviantart.com/halycon450/art/Yvonne-599290877)
+\- [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 Merci à Thomas, Henri & Matthieu pour le playtest !
 
 
