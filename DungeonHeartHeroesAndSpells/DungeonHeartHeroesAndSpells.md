@@ -1,25 +1,26 @@
 <!--
-* Illus ?
-* Mention auteur & license
+- moins de choix ?
+- XP cerveau trop balèze
+- XP Squelette lui permet de faire des jets : capacité permet cumul des effets des menaces dans une pièce
+- modifier liens entres pièces
+- ré-allouer types d'emplacements ?
+
+* trouver illus
+* ajouter lien trad Fr
 * Inclure map Matt ?
-
-Questions:
-* Battements de cœur peuvent être dépensés n'importe quand ?
-* Salle du trésor gratuite ?
-
-Inspis : Crawl, Dungeon Keepers & Donjon Clefs en Main (page 58 pour générer des monstres)
 -->
 # Dungeon Hearts : Heroes & Spells
 
+Ceci est une extension pour la version 1.6 du jeu de rôle monopage [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart).
+
+Pour plus de contexte je vous invite à lire [cet article de mon blog](https://chezsoi.org/lucas/blog/dungeon-heart.html).
+
 Cette extension requiert 1d12 (un dé à douze faces).
 
-Tout d'abord, voici un générateur d'aventuriers que je vous recommande : http://www.dmheroes.com
-
 Ensuite, voici le principe de cette extension : après le premier assaut d'aventuriers,
-un joueur au hasard lance un dé dans la table d'événements aléatoires ci-dessous,
-puis **doit** sélectionner une des options, si c'est possible et qu'il en reste.
+les joueurs lancent chacun leur tour un dé dans la table d'événements aléatoires ci-dessous,
+puis **doivent** sélectionner une des options, si c'est possible et qu'il en reste.
 Chaque option ne peut être sélectionnée qu'une fois par [ ].
-Après l'assaut suivant, c'est au joueur à sa gauche de lancer un dé dans cette table, et ainsi de suite.
 
 Pour chaque capacité utilisable une seule fois par phase d'invasion,
 notez un bâton sur votre feuille lorsque vous l'employez, et barrez-le au début de la phase suivante.
@@ -113,6 +114,15 @@ Pour 3 autres XPs, vous pouvez désormais choisir **3 options** bonus.
 Pour 3 autres XPs, vos nouveaux pièges combinent désormais les **3 types**.
 :::
 
+### Licence & sources
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+Cette extension a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org>
+
+Merci à Thomas, Henri & Matthieu pour le playtest !
+
+
 <style type="text/css">
 @font-face {
   font-family: AndadaRegular;
@@ -138,6 +148,7 @@ s { text-decoration: none; font-size: 2rem; line-height: .8; vertical-align: bot
 table { width: 100%; border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-inside: avoid; }
 td, th { border: 2px solid #444; padding: .5rem; text-align: center; }
 .choices th, .choices tr:nth-child(2) { font-weight: bold; }
+.license img { float: left; padding-right: .5rem; }
 </style>
 
 <script>

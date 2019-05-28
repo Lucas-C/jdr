@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>puzzles</title>
-</head>
-<body>
 <!--
-Ce fichier doit être exporté en PDF en 2x2 par A4
+Ce fichier doit être exporté en PDf en 2x2 par A4
 
 Idées en vrac:
 - PJs découvrent 1 à 3 mots magiques (qu'ils inventent _in game_) qui chacun déclenche un effet différent
@@ -19,8 +12,6 @@ Idées en vrac:
 - pattern/format commun à plusieurs mécanismes : suite de 3 à 6 d6 (diégétique : indique placement de doigts de la main, 6 => paume)
 - grille de sudoku sans lignes, avec des points représentant des d6
 - pierre de rosette pour décrypter symbole chiffres <-> dés
-- fragment de verres comportant _dice dots_ -> tangram avec 2e solution en overlappant pièces
-- POURQUOI ces portes étaient accessible par code ??
 
 Idées nécessitant un illustrateur / un peu de boulot de graphisme :
 - palissade grillagée avec des trous correspondant à des faces de d6 (inspi The Witness)
@@ -39,60 +30,15 @@ Mes contraintes créatives:
   * faire découvrir aux joueurs des "raccourcis" pour des tâches laborieuses
   * certaines énigmes seront visuelles et incluses dans le jeu
 -->
-<table>
-<thead>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>6</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td>6</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-</tbody>
-</table>
+
+1|2|3|4|5|6
+-|-|-|-|-|-
+2|3|4|5|6|1
+3|4|5|6|1|2
+4|5|6|1|2|3
+5|6|1|2|3|4
+6|1|2|3|4|5
+
 <script>
 const SIZE = 6;
 const DICE_SETUPS = {
@@ -149,10 +95,9 @@ document.querySelectorAll('tr > *').forEach(cell => {
     cell.parentNode.removeChild(cell)
 });
 </script>
+
 <style>
 table { border-spacing: .2rem; }
 td { width: 1rem; height: 1rem; border-radius: 1rem; padding: 0; }
 .filled { background-color: black; }
 </style>
-</body>
-</html>

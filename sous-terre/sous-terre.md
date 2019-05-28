@@ -79,6 +79,7 @@ Certaines URLs génrées sont incompatibles avec celles produites par md2html, e
 
 <!-- Not-CC, inspi seulement: -->
 <img class="no-max-width" src="img/surreal_valley_by_matchack_d5mjv2f-pre.jpg">
+<img src="img/DonatoGiancola_Cartographer.jpg">
 <img src="img/illus_descente.jpg"><!-- FROM: http://www.aka-games.fr -->
 <img src="img/big-bad-rat_by_scebiqu.jpg">
 <img class="no-max-width" src="img/237.jpg">
