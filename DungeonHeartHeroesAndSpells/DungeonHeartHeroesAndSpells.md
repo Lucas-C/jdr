@@ -1,15 +1,15 @@
 <!--
-- moins de choix ?
-- XP cerveau trop balèze
-- XP Squelette lui permet de faire des jets : capacité permet cumul des effets des menaces dans une pièce
-- modifier liens entres pièces
-- ré-allouer types d'emplacements ?
-
-* trouver illus
 * ajouter lien trad Fr
 * Inclure map Matt ?
 -->
 # Dungeon Hearts : Heroes & Spells
+
+![](abjurer_by_halycon450.png)
+<!--
+![](aggron_stonebreak_the_ogre_magi_by_halycon450.png)
+![](charlotte_by_halycon450.png)
+![](eastern_fighter_by_halycon450.png)
+-->
 
 Ceci est une extension pour la version 1.6 du jeu de rôle monopage [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart).
 
@@ -17,13 +17,24 @@ Pour plus de contexte je vous invite à lire [cet article de mon blog](https://c
 
 Cette extension requiert 1d12 (un dé à douze faces).
 
-Ensuite, voici le principe de cette extension : après le premier assaut d'aventuriers,
+Voici le principe de cette extension : entre chaque assaut d'aventuriers,
 les joueurs lancent chacun leur tour un dé dans la table d'événements aléatoires ci-dessous,
 puis **doivent** sélectionner une des options, si c'est possible et qu'il en reste.
 Chaque option ne peut être sélectionnée qu'une fois par [ ].
 
-Pour chaque capacité utilisable une seule fois par phase d'invasion,
+Pour chaque capacité "utilisable une seule fois par phase d'invasion",
 notez un bâton sur votre feuille lorsque vous l'employez, et barrez-le au début de la phase suivante.
+
+![](yvonne_by_halycon450.png)
+
+### Licence & sources
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+Cette extension a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org>
+
+Merci à Thomas, Henri & Matthieu pour le playtest !
+
 
 ::: choices
 | ~~⚀~~ Héros      | ~~⚁~~ Monstres   | ~~⚂~~ Boss fights
@@ -46,17 +57,14 @@ Choisissez l'un d'eux pour la prochaine phase d'invasion :
 :::
 
 ::: td1
-Si un choix est suivi d'une mention entre parenthèses, il ne peut être sélectionné que si cette condition est remplie :
-- [ ] [ ] **Rixe entre monstres** : dans une pièce au choix contenant un nombre pair de monstres, la moitié sont ratatinés par leurs voisins.
-_(nécessite qu'au moins un monstre décède)_
-- [ ] **Grève générale** : vos monstres refusent de travailler pendant 1d6 / 2 tours.
-_(nécessite au moins un monstre)_
+Vous ne pouvez choisir un option qui n'aura aucun effet :
+- [ ] [ ] **Rixe entre monstres** : un montre tue un monstre dans la même pièce ou une pièce voisine.
+- [ ] **Grève générale** : vos monstres refusent de travailler pendant 1d3 tours.
 - [ ] **Rage destructrice** : un monstre de votre choix se met à détruire toutes les énigmes et pièges sur son passage,
 à commencer par ceux de sa pièce.
 Tant qu'une salle adjacente contient un piège ou une énigme, il s'y rend et les détruits. Choisissez la pièce s'il y a plusieurs options.
 Le monstre s'installe dans le dernier emplacement visité.
-_(nécessite qu'au moins un piège soit détruit ainsi)_
-- [ ] **Dragon** : ce nouvel arrivant s'installe dans la salle du trésor.
+- [ ] **Dragon** : ce nouvel arrivant s'installe dans une salle au choix contenant un trésor.
 C'est un monstre à 5d6 qui occupe tous les emplacements et détruit ce qui s'y trouvait.
 - [ ] **Passage secret** : des monstres on construit un passage secret pour sortir de la salle du trésor afin de le piller à votre insu.
 Placez la sortie de ce passage dans une pièce au choix de manière à ce qu'il fasse gagner du temps aux aventuriers.
@@ -84,19 +92,20 @@ Ils sont uniques et ne peuvent être échangés ni prêtés.
 Décrivez la nature de l'objet qui possède ce pouvoir, et comment votre Gardien l'obtient :
 - [ ] [ ] **Arme** : procure +3 au d12 du Gardien lors des _boss fight_
 - [ ] [ ] **Armure** : permet de ne payer qu'un battement de cœur par blessure lors des _boss fight_
-- [ ] **Bâton magique** : baguette ou sceptre, cela vous permet de lancer un dé à chaque fois que **Cerveau**
+- [ ] **Bâton magique** : baguette ou sceptre, vous permet de lancer un dé à chaque fois que **Cerveau**
 lance un Sortilège : si c'est impair, le sort peut être réutilisé.
-- [ ] **Cape d'invisibilité** : si vous vous portez volontaire pour un _boss fight_,
-vous pouvez choisir de ne pas le résoudre à l'entrée des aventuriers dans le donjon,
-mais au moment où vous le souhaitez durant l'invasion, entre 2 pièces.
+- [ ] **Cape d'invisibilité** : lorsque vous participez à un _boss fight_,
+vous pouvez choisir de le résoudre après l'entrée des aventuriers dans le donjon,
+quand vous le souhaitez durant l'invasion, entre 2 pièces.
+- [ ] [ ] **Excavatrice** : les pièces coûtent ❤ de moins à construire à **Squelette**.
 - [ ] [ ] [ ] **Potion** : une fois par phase d'invasion, vous pouvez relancer un dé.
 :::
 
 ::: td4
 Ils ne sont utilisables qu'**une fois dans la partie**, et seul **Cerveau** sait les invoquer. C'est lui qui décide quand les employer.
 Choisissez un enchantement et décrivez comment votre Gardien le découvre :
-- [ ] [ ] **Confusion** : choisissez la pièce où ils se déplacent ensuite, quitte à faire demi-tour.
-- [ ] [ ] **Flashback** : après le jet d'entrée des aventuriers dans une pièce, relancez les dés.
+- [ ] [ ] **Confusion** : choisissez librement la prochaine pièce où se déplacent les aventuriers.
+- [ ] [ ] **Flashback** : relancez les dés d'un jet d'entrée des aventuriers dans une pièce.
 - [ ] [ ] **Gigantisme** : distribuez 2 augmentation de puissance de monstre _(+1 dé)_.
 - [ ] [ ] **Nécromancie** : rescucitez un monstre auquel vous aviez donné un nom, et placez-le dans l'emplacement de votre choix.
 - [ ] [ ] **Oracle** : changez le résultat d'un dé qui vient d'être lancé.
@@ -104,8 +113,9 @@ Choisissez un enchantement et décrivez comment votre Gardien le découvre :
 
 ::: td5
 Gagnez **+1 XP**. 3 XPs vous permettent de débloquer un pouvoir :
-- **Squelette** : les pièces ne vous coûtent plus que ❤❤ à construire.
-Pour 3 autres XPs, elles ne coûtent plus que ❤.
+- **Squelette**, au choix :
+  * pour ❤ vous pouvez optimiser une pièce : vous lancez désormais tous les dés d'un coup, et tous les effets des menaces s'appliquent sur chacun
+  * durant la phase de préparation, vous pouvez réordonner les liens entre vos pièces
 - **Moelle** : vous pouvez librement réorganiser vos monstres à chaque phase de préparation
 - **Cerveau** : lorsqu'un aventurier est victime d'une énigme,
 vous pouvez choisir **2 options** bonus dans la liste.
@@ -113,14 +123,6 @@ Pour 3 autres XPs, vous pouvez désormais choisir **3 options** bonus.
 - **Pancreas** : les nouveaux pièges que vous construisez combinent **2 types**.
 Pour 3 autres XPs, vos nouveaux pièges combinent désormais les **3 types**.
 :::
-
-### Licence & sources
-<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-Cette extension a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
-
-Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org>
-
-Merci à Thomas, Henri & Matthieu pour le playtest !
 
 
 <style type="text/css">
@@ -141,14 +143,21 @@ body {
   line-height: 1.4;
 }
 h1 { font-family: BreatheFireII; font-size: 2.5rem; text-transform: uppercase; text-align: center; }
-section { break-inside: avoid; }
-li { list-style-type: none; text-align: left; }
 ul { padding-inline-start: 0; display: flex; flex-flow: column; align-items: start; }
+li { list-style-type: none; text-align: left; }
+li ul { padding-inline-start: 1rem; }
+li li { list-style-type: disc; }
 s { text-decoration: none; font-size: 2rem; line-height: .8; vertical-align: bottom; } /* dices */
+img { float: left; padding-right: .5rem; }
+p:nth-child(8) > img { float: right; }
 table { width: 100%; border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-inside: avoid; }
 td, th { border: 2px solid #444; padding: .5rem; text-align: center; }
 .choices th, .choices tr:nth-child(2) { font-weight: bold; }
-.license img { float: left; padding-right: .5rem; }
+@media print {
+  body { font-size: .55rem; }
+  img { max-height: 30rem; }
+  p:nth-child(8) > img { max-height: 20rem; }
+}
 </style>
 
 <script>
