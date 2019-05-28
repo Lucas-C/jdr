@@ -156,6 +156,18 @@ img { float: left; padding-right: .5rem; }
 p:nth-child(8) > img { float: right; }
 table { width: 100%; border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-inside: avoid; }
 td, th { border: 2px solid #444; padding: .5rem; text-align: center; }
+input[type="checkbox"] {
+  position: absolute; /* take it out of document flow */
+  opacity: 0;         /* hide it */
+}
+input[type="checkbox"] + label:before {
+  content: '';
+  display: inline-block;
+  width: .8rem;
+  height: .8rem;
+  border: solid 1px #444;
+  margin: 0 .2rem;
+}
 .choices th, .choices tr:nth-child(2) { font-weight: bold; }
 @media print {
   body { font-size: .55rem; }
