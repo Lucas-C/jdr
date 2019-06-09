@@ -61,18 +61,18 @@ Choisissez l'un d'eux pour la prochaine phase d'invasion :
 :::
 
 ::: td1
-Vous ne pouvez choisir un option qui n'aura aucun effet :
+Vous ne pouvez choisir une option qui n'aura aucun effet :
 - [ ] [ ] **Rixe entre monstres** : un montre tue un monstre dans la même pièce ou une pièce voisine.
 - [ ] **Grève générale** : vos monstres refusent de travailler pendant 1d3 tours.
 - [ ] **Rage destructrice** : un monstre de votre choix se met à détruire toutes les énigmes et pièges sur son passage,
 à commencer par ceux de sa pièce.
-Tant qu'une salle adjacente contient un piège ou une énigme, il s'y rend et les détruits. Choisissez la pièce s'il y a plusieurs options.
+Tant qu'une salle adjacente contient un piège ou une énigme, il s'y rend et les détruit. Choisissez la pièce s'il y a plusieurs options.
 Le monstre s'installe dans le dernier emplacement visité.
 - [ ] **Dragon** : ce nouvel arrivant s'installe dans une salle au choix contenant un trésor.
 C'est un monstre à 5d6 qui occupe tous les emplacements et détruit ce qui s'y trouvait.
-- [ ] **Passage secret** : des monstres on construit un passage secret pour sortir de la salle du trésor afin de le piller à votre insu.
+- [ ] **Passage secret** : des monstres ont construit un passage secret pour sortir de la salle du trésor afin de le piller à votre insu.
 Placez la sortie de ce passage dans une pièce au choix de manière à ce qu'il fasse gagner du temps aux aventuriers.
-Il ne peut pas être emprunté que pour **sortir** de la salle du trésor.
+Il ne peut être emprunté que pour **sortir** de la salle du trésor.
 - [ ] **Inondation** : à force de creuser, un de vos monstres provoque une arrivée massive d'eau ou de lave,
 détruisant 2 emplacements dans la même pièce ou 2 pièces adjacentes.
 :::
@@ -102,7 +102,7 @@ lance un Sortilège : si c'est impair, le sort peut être réutilisé.
 vous pouvez choisir de le résoudre après l'entrée des aventuriers dans le donjon,
 quand vous le souhaitez durant l'invasion, entre 2 pièces.
 - [ ] [ ] **Excavatrice** : les pièces coûtent ❤ de moins à construire à **Squelette**.
-- [ ] [ ] [ ] **Potion** : une fois par phase d'invasion, vous pouvez relancer un dé.
+- [ ] [ ] [ ] **Potion** : une fois par phase d'invasion, vous pouvez relancer un dé que vous avez lancé.
 :::
 
 ::: td4
