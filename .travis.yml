@@ -23,6 +23,7 @@ script:
 - cd -
 - cd DungeonHeartHeroesAndSpells
 - node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
+- node ../md2html.js DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
 - cd -
 - cd chimera
 - node ../md2html.js chimera.md > index.html

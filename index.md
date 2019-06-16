@@ -9,6 +9,6 @@ Les jeux de rôle hebergés ici:
 - [Plus de place en Enfer](plus-de-place-en-enfer)
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux)
 - [Les Non-morts](LesNonMorts)
-- [Dungeon Heart : Heroes & Spells (fr)](DungeonHeartHeroesAndSpells)
+- [Dungeon Heart : Heroes & Spells (fr)](DungeonHeartHeroesAndSpells) [(fr)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
