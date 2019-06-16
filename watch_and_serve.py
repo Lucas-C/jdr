@@ -21,4 +21,10 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         if not html_filename.endswith('/index.html') and html_filename.replace('.html', '.md') not in md_filenames:
             print('Watching', html_filename)
             server.watch(html_filename, cmd)
+    for css_filename in glob(folder + '/*.css'):
+        print('Watching', css_filename)
+        server.watch(css_filename, cmd)
+    for js_filename in glob(folder + '/*.js'):
+        print('Watching', js_filename)
+        server.watch(js_filename, cmd)
 server.serve(root=SCRIPT_DIR)

@@ -125,3 +125,8 @@ Départ, abrités près d'oasis
 → train déraille
 Arrivée possédés → sel + réfugiés dans eau
 
+
+## Bande Son
+- le générique de Firefly
+- la BO du jeu Bastion
+- [Emancipator Old Devil](https://www.youtube.com/watch?v=YcNvrXais3g)

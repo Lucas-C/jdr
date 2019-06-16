@@ -21,12 +21,36 @@ Envies des PJs: -> objectifs gagnés lorsque jauge papillon remplie ?
     Liberté de choix
     Être traité en égaux des hommes
     Vengeance
+Idées inspirées du manga Ghost In The Shell
+    camouflage optique fonctionne moins bien sous la pluie
+    orque-cyborg
+    vocabulaire militaro-cyber-futuriste -> en fournir un panel
+    "virus usurpateur d'identité couplé avec un génome"
+    hacking de corps en temps réels avec barrières défensives (pare-feu), contre-mesures automatisées, ghost-contrôleur...
+    tous les corps ont des inputs/outputs relativement compatible, et il est possible d'effectuer des "plongées" dedans
+    drones fuchikoma
+    techno-thriller
+    en terme de combats, les Chimères anticipent en général tous les mouvements de l'ennemi via leurs capteurs et leurs modules tactiques
+        elles ont X battements d'avance, puis à chaque échec de jet cet avantage peut diminuer à cause d'une complication / mouvement ennemi non anticipé
+        + combiner avec mesure tempo ? Adagio / Allegro / Presto ?
 Idées de mise en page
     image de d8 + indiquer en préambule qu'il en faut pour jouer
     image de background
     zones textes arrondies et à l'opacité légèrement différente par rapport au fond
     traits reliants certaines caracs
+Idées pour website dédié
+    image avec des yeux rouges en fond se met à s'animer après 1min
+    lettre du texte se mettent à se déplacer pour former un mot au bout d'1min
 Proposer sur http://troplongpaslu.fr
+
+CC: https://www.deviantart.com/karbik/art/Connection-Lost-767305950
+CC: https://www.deviantart.com/teayaa/art/EoH-CONCEPT-ART-X-PHOTOBASHING-TEST-2017-770024035
+CC: https://www.deviantart.com/nicosaba/art/047838-636166426
+https://www.deviantart.com/nicosaba/art/Amarant-537482895
+https://www.deviantart.com/nicosaba/art/Lemurian-seed-536179176
+https://www.deviantart.com/nicosaba/art/Test-451555461
+https://www.deviantart.com/nicosaba/art/19084-392852934
+https://www.deviantart.com/nicosaba/art/--252716701
 
 Inspis
 https://www.artstation.com/artwork/8d3Xm
@@ -48,7 +72,8 @@ Entrainés par l'armée, surarmés et dotés de camouflages tactiques.
 Plus performants que des drones, et sans scrupules humains.
 En théorie._
 
-Ces personnages sont inspirés des BDs [We3](https://en.wikipedia.org/wiki/We3) et [Idoles](https://www.bedetheque.com/serie-11587-BD-Idoles.html).
+Ces personnages sont inspirés des BDs [We3](https://en.wikipedia.org/wiki/We3), [Idoles](https://www.bedetheque.com/serie-11587-BD-Idoles.html)
+et _Ghost in The Shell_.
 :::
 
 ::::: grid

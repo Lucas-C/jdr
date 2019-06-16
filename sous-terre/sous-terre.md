@@ -1,4 +1,6 @@
 <!--
+Inviter Nico Laurenti à playtest
+
 # RAF: définir MVP prochaine partie
 - fiche de PJ imprimable (talents imposés ?)
 - règles PNJs finies
@@ -778,6 +780,7 @@ apparence (et où les trouver) x effet:
 :::
 
 flûte pour rats
+relique pour tempo-magus lui permettant de figer un objet dans le temps, pour le rérienter afin qu'il poursuive ensuite sa trajectoire <!-- inspi Zelda Breath of the wild -->
 
 ## En mode campaggne
 :::rule-focus
@@ -949,7 +952,7 @@ h1, h2, h3, h4 {
 }
 h1 {
   font-family: Odachi;
-  font-size: 5rem;
+  font-size: 3rem;
   text-align: center;
   margin: 2rem;
 }
