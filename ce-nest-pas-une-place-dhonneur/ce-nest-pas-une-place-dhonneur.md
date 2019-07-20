@@ -10,7 +10,7 @@ Vous pouvez porter le masque de n'importe quel autre dieu :_
 
 <br>
 
-Celui qui voit tous les chemins, **GYLD**, dont l'authorité était absolue.
+Celui qui voit tous les chemins, **GYLD**, dont l’autorité était absolue.
 
 Le donneur de vie, **FYRVOS**, dont le sang était le plus doux des nectars.
 
@@ -22,7 +22,7 @@ Le tisseur d'obscurité, **YBRAND**, dont la cape était la nuit étoilée.
 
 <br>
 
-_Je vais vous poser des questions, and vous me direz ce qu'accomplirent les dieux
+_Je vais vous poser des questions, et vous me direz ce qu'accomplirent les dieux
 dans ces temps anciens. Vous êtes un médium pour leurs rêves immortels.
 Ces rêves nous diront où nous rendre pour trouver leur arche._
 
@@ -44,7 +44,7 @@ CHUTE : L'arche argentée accoste sur nos côtes
 
 <br>
 
-Quand vous parlez durant votre pélerinage dans le _Maintenant_,
+Quand vous parlez durant votre pèlerinage dans le _Maintenant_,
 décrivez les actions de votre dieu à la troisième personne du passé.
 Vous êtes une glorieuse créature aux pouvoirs inimaginables,
 et vous commandez au cosmos.
@@ -94,11 +94,11 @@ Marshall **STEIN**, officier de sécurité, salement blessé lors de la catastro
 
 **QUE S'EST-IL PASSÉ ?**
 
-1. Des robotos moissonneurs détraqués, broyant la matière organique pour en tirer du carburant
-2. Une brêche du confinement nucléaire, des vagues mortelles s'engouffrent et décapent les corridors
-3. Des abbérations de terraformation, des tentatucles de carbone gris broyant l'armature
+1. Des robots moissonneurs détraqués, broyant la matière organique pour en tirer du carburant
+2. Une brèche du confinement nucléaire, des vagues mortelles s'engouffrent et décapent les corridors
+3. Des aberrations de terraformation, des tentacules de carbone gris broyant l'armature
 4. Folie infectieuse, un murmure aiguisé et argenté venu de l'obscurité entre les étoiles
-5. Des manifestations spectrales, des fantômes affâmés régnent sur le vaisseau
+5. Des manifestations spectrales, des fantômes affamés règnent sur le vaisseau
 6. Défaillance du système de clonage, des humanoïdes à la peau transparente mettent tout en pièce en hurlant
 
 <br>
@@ -111,20 +111,20 @@ Quand vous agissez sur l'_Alestras_ dans le _Alors_, décrivez les actions de vo
 à la première personne du présent.
 Montrez-nous ce qui s'est vraiment passé et traduisez les visions divines en événements réels.
 Alors que vous approchez du moment où vous avez tiré votre carte dans le _Maintenant_,
-retournez-la et intérprêtez le résultat selon ce tableau :
+retournez-la et interprétez le résultat selon ce tableau :
 
 <br>
 
 **A-5** Votre peur prend le dessus, vous échouez. _Le MJ raconte._
 
-**6-9** Vous réusissez, mais le prix est élevé. _Le MJ raconte._
+**6-9** Vous réussissez, mais le prix est élevé. _Le MJ raconte._
 
-**6-9** Vous réusissez sans conséquence majeure. _Vous racontez._
+**6-9** Vous réussissez sans conséquence majeure. _Vous racontez._
 
 <br>
 
 Une fois que vous avez expliqué ce qui s'est vraiment passé sur le vaisseau,
-retournez au _Maintenant_ et interprêtez le rêve suivant.
+retournez au _Maintenant_ et interprétez le rêve suivant.
 
 <br>
 
