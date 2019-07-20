@@ -1,6 +1,6 @@
 ## Genius Loci
 Un jeu de rôle à propos de dieux mineurs par [Grant Howitt](https://rowanrookanddecard.com/product/genius-loci/) & Chris Taylor, 2017 -
-Traduit par Lucas Cimon : [chezsoi.org](https://chezsoi.org/lucas/blog/tag/jdr.html)
+Traduit par [Lucas Cimon @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/jdr.html)
 
 ## Description
 Vous êtes un dieu mineur, un genius loci, dans un paisible village du sud de l'Angleterre des années 60.

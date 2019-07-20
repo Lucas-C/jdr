@@ -5,7 +5,7 @@ Un jdr multi-MJs de survie et d'horreur par [Grant Howitt](https://rowanrookandd
 
 Pour plus de jeux, rendez-vous sur [patreon.com/gshowitt](https://patreon.com/gshowitt)
 
-Traduit par Lucas Cimon : [chezsoi.org](https://chezsoi.org/lucas/blog/tag/jdr.html)
+Traduit par [Lucas Cimon @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/jdr.html)
 
 :::
 

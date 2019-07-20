@@ -8,7 +8,9 @@ Une version PDF peut être générée facilement avec NodeJS:
     npm install -g puppeteer-cli
     puppeteer print $infile.html $outfile.pdf
 
-## Développement avec livereload
+## Serveur local de développement
+
+Nécessite Python et la lib `livereload`
 
     ./watch_and_serve.py
 

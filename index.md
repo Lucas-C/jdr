@@ -1,11 +1,11 @@
-Mes crations de jeux de rôle hebergées ici:
+Mes créations de jeux de rôle hebergées ici:
 
 - [La Tour](latour)
 - [Amères Victoires & Glorieuses Défaites](gdav)
 - [Scavengers: Anomalies nauchoresques](scavengers)
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux)
 - [Les Non-morts](LesNonMorts)
-- [Dungeon Heart : Heroes & Spells (fr)](DungeonHeartHeroesAndSpells) [(en)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
+- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(EN version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
 

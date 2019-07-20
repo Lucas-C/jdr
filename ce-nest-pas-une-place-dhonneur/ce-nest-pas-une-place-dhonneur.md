@@ -132,6 +132,11 @@ QUAND IL N'Y A PLUS DE RÊVE À INTERPRÊTER, vous vous écrasez sur HX-9,
 en maudissant tous ceux qui oseraient vous approcher.
 ::::
 
+:::: footer
+Traduction du jeu [_This Is Not A Place Of Honour_ de Grant Howitt](https://gshowitt.itch.io/this-is-not-a-place-of-honour)
+par [Lucas Cimon](https://chezsoi.org/lucas/blog/tag/jdr.html).
+::::
+
 <style>
 body {
   font-family: Arial;
@@ -141,6 +146,7 @@ body {
   max-width: 80rem;
   margin: 2rem auto;
   display: flex;
+  position: relative;
 }
 p { margin: 0; }
 ol { padding: 0 .8rem; margin: 0; }
@@ -153,5 +159,11 @@ ol { padding: 0 .8rem; margin: 0; }
   }
   h2 { margin-bottom: .5rem; }
   img { max-width: 6rem; }
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  max-width: 50%;
+  font-size: 70%;
 }
 </style>
