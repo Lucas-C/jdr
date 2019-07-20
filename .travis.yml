@@ -25,6 +25,10 @@ script:
 - node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
 - node ../md2html.js DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
 - cd -
+- cd ce-nest-pas-une-place-dhonneur
+- node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
+- if [[ $TRAVIS_TAG =~ ^ce-nest-pas-une-place-dhonneur ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- cd -
 - cd chimera
 - node ../md2html.js chimera.md > index.html
 - if [[ $TRAVIS_TAG =~ ^chimera ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi

@@ -185,7 +185,7 @@ hôtel de ville, caserne de pompiers, cinéma, parc...
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog>
+Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>
 
 Toutes les illustration sont [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) :
 la première est de [Danyael Lopes](https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453),

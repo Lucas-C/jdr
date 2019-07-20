@@ -1,4 +1,3 @@
-<!-- vérifier monopage OK -->
 # Dungeon Hearts <hr> Heroes & Spells
 
 ![](aggron_stonebreak_the_ogre_magi_by_halycon450.png)
@@ -20,7 +19,7 @@ Les deux première cases du tableau amènent des complications pour les joueurs,
 <a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 Cette extension a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org>
+Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>
 
 L'illustration est de Ramirez de Souza aka Halycon450 :
 [Aggron Stonebreak, the Ogre Magi](https://www.deviantart.com/halycon450/art/Aggron-Stonebreak-the-Ogre-Magi-328201376)

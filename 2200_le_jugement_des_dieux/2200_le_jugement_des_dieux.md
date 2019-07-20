@@ -318,7 +318,7 @@ Les phases de Conciliabule & Prise à partie se déroulent à l'identique.
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog>
+Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>
 
 Merci à Henri & Loïc pour le playtest !
 
