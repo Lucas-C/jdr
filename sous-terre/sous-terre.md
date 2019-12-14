@@ -13,6 +13,7 @@ Inviter Nico Laurenti à playtest
 # RAF: mise en forme
 - pronoms à rendre + inclusifs
 - indiquer "confidentiel" sur les pages réservées au MJt
+- cacher un msg dans FP avec font https://www.fontspace.com/gutenberg-labo/gl-dancingmen
 
 # Playtest n°1 ~4h30
 * ++mystères & énigmes (ex: tapis de mousse collante)
@@ -234,6 +235,8 @@ ou simplement qu'il les chasse colériquement, ses paroles et actions suffiront 
 :::
 
 - **Peut orienter les PJs vers 1 indice** :
+
+- **Si la conversation tourne court avec les PJs, que ceux-ci ne savent pas quoi dire** :
 
 - **Connaissance de l'environnement** : 1 _move_ qu'il connait et quel les PJs pourront apprendre en l'observant (ex: gousses de pollen vert pour ralentir chutes)
 

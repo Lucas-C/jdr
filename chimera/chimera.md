@@ -57,11 +57,18 @@ https://www.artstation.com/artwork/8d3Xm
 https://www.artstation.com/artwork/4LAnn
 https://www.artstation.com/artwork/Q0lEE
 
+https://fauux.neocities.org/headless.html
+
+https://www.flickr.com/photos/kk/6863477149/in/photolist-bsv7CV-7wedxQ-rZPzJ-BseS2w-7dEo14-brMxYR-r2P69j-89CBD5-VR7YA9-7dJfHq-btWZ2a-u6kWc-8p6RzJ-6VDYsQ-WVoyMF-3ojpK3-6ZTg2X-4ZspsG-7dEkJk-q6Mjxe-6VzTii-kBrLyc-q8Fe4q-51R9cp-bt6WCn-5Tv45h-7semtQ-4ZobpX-89CzJo-qMsJ3-8AaSq8-GJKbhb-4ZoasP-p3X3u2-aqF16r-qadTH4-4Jz86c-btXyZe-4Jz8uz-yby7V-VPpvom-8p6PWs-7wefrL-8p6Qdm-51VmEy-rkLpqE-btX5Dk-bsJFfe-pPnFHi-pSEGsJ/
+
 https://www.behance.net/gallery/57662329/Neurostealer
 
 https://steamcommunity.com/app/464060/discussions/0/2765630416809926149/
 
 Neotokyo OST: https://www.youtube.com/watch?v=408tWOubRDM -> ou plutôt pour Dedale ?
+
+https://unsplash.com/photos/iO5z78REHhQ & https://unsplash.com/photos/TaY3ZSJig-U
+https://unsplash.com/collections/3436786/china-town-japanese
 
 rand cop from img/behance_platigeimage_cyberpunk_2077_cc-by-nc.jpg
 -->

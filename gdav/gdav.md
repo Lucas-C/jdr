@@ -192,7 +192,7 @@ Chaque Noeud n'est utilisable qu'une seule et unique fois dans la partie.
 Vous pouvez le déclencher à n'importe quel moment, et décrire de quelle manière il se manifeste dans la scène en cours.
 Vous avez toute liberté pour décrire avec fracas l'arrivée, l'origine ou les motivations de nouveaux personnages,
 mais une fois votre description terminée le MJ aura tout contrôle sur eux.
-Enfin, vous disposez d'un bonus d'**1d6 supplémentaire** à votreu prochain jet de dé si votre Héro·ïne tourne cet événement à son avantage.
+Enfin, vous disposez d'un bonus d'**1d6 supplémentaire** à votre prochain jet de dé si votre Héro·ïne tourne cet événement à son avantage.
 
 A la création vous n'en disposez que d'un seul. Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
 

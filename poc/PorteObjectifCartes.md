@@ -1,5 +1,6 @@
 <!--Tasks:
 - finir de rédiger la FP (entre autres, définir des noms de pool uniques) & la table de résolution & l'étape de mise en place
+- à quoi sert la gauge de menace ?
 - comment les PJs récupèrent des points de pool ?
 - comment gérer PJs incapacités ? séparés ?
 - reprendre le principe de la Piste de PsiRun
@@ -15,7 +16,7 @@
   * 1d6 => son objectif
   * 1d6 => sa manière de s'opposer aux PJs
 - review sur r/RPGdesign (note: un post propose un template pour cela)
-*Inspis:* PsyRun
+*Inspis:* Psi*Run
 ToRead: https://www.reddit.com/r/RPGdesign/comments/45jyu0/meta_rpg_design_resources_megalist/
 
 Resources:
@@ -25,8 +26,8 @@ Resources:
 # Porte / Objectif / Cartes
 
 :::: rules
-Dans ce jeu de rôle, les joueurs incarnent des personnages explorant un lieu avec un objectif précis en tête,
-comme par exemple trouver un objet, un endroit ou quelqu'un en particulier.
+Dans ce jeu de rôle, les joueurs incarnent des personnages explorant un lieu inconnu mais labyrinthique,
+avec un objectif précis en tête, comme par exemple trouver un objet, un endroit ou quelqu'un en particulier.
 
 ### Matériel
 - un petit objet qui servira de "totem"
@@ -40,7 +41,7 @@ Si vous ne connaissez pas encore ce type de jeu, commencez par lire [la définit
 ou [ce micro-JdR explicatif de Epidiah Ravachol](https://dig1000holes.files.wordpress.com/2013/04/qequjdr.pdf).
 
 ### Mise en place
-MJ détaille l'univers de jeu.
+Le MJ détaille l'univers de jeu.
 
 Création des PJs:
 - nom
@@ -174,7 +175,8 @@ h1, h2, h3 { line-height: 1.2; }
 h1 { text-align: center; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
 img { display: block; margin: 0 auto; max-width: 100%; break-inside: avoid; }
-table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; } td { padding: 5px; border-top: 1px solid #ddd; }
+table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
+td { padding: 5px; border-top: 1px solid #ddd; text-align: left; }
 @media print { .on-new-page { page-break-before: always; } }
 
 .rules { max-width: 650px; margin: 40px auto; }
@@ -191,3 +193,4 @@ table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; 
 .traits th, .traits td { width: 33%; font-weight: normal; }
 .traits th::before, .traits td::before { content: 'Trait :\A'; white-space: pre; font-size: 1.5rem; font-style: italic; }
 </style>
+

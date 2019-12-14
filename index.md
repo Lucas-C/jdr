@@ -8,6 +8,8 @@ Mes créations de jeux de rôle hebergées ici:
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(EN version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
+<!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
+<!-- [EscapeGame](EscapeGame) -->
 
 ### Traductions
 

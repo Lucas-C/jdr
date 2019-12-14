@@ -36,6 +36,7 @@ Scénario one-shot narratif:
 <https://www.reddit.com/r/deepdream/comments/bejdm7/soma_2015_game_image_style/>
 Dataface : <https://cloud.blender.org/p/gallery/593c073939e6a909cfaea54f>
 Papamichalopoulos: <https://www.google.fr/search?tbm=isch&q=site%3Awww.flickr.com%2Fphotos%2Fpapamichalopoulos+%22cyborg%22>
+<https://www.behance.net/gallery/35219899/Totemum> <https://www.behance.net/gallery/66321395/Dilekil-Komposit-01> <https://www.behance.net/gallery/37179805/Numerika>
 
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire
 (celle des Machines étant sans faille, la limitation en nombre et en valeur de Skillpacks est oubliée) pourraient disparaître.
