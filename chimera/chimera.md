@@ -52,6 +52,8 @@ https://www.deviantart.com/nicosaba/art/Test-451555461
 https://www.deviantart.com/nicosaba/art/19084-392852934
 https://www.deviantart.com/nicosaba/art/--252716701
 
+Font: [CyberGotica](https://www.dafont.com/cibergotica.font?l[]=10&l[]=1)
+
 Inspis
 https://www.artstation.com/artwork/8d3Xm
 https://www.artstation.com/artwork/4LAnn
