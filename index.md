@@ -11,6 +11,9 @@ Mes créations de jeux de rôle hebergées ici:
 <!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
 <!-- [EscapeGame](EscapeGame) -->
 
+Pour plus de détails, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+
+
 ### Traductions
 
 Jeux de Grant Howitt :
