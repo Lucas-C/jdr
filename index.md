@@ -24,12 +24,12 @@ Jeux de Shane Mclean :
 - [Cheat Your Own Adventure](CheatYourOwnAdventure)
 - [Le dernier café sur la gauche](LeDernierCaféSurLaGauche.html)
 
-Dungeon Heart :
+[Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
 
-- [PDF 1.7 Mo](https://chezsoi.org/lucas/blog/images/jdr/Dungeon Heart B&W v1.6 fr.pdf)
-- [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon Heart B&W v1.6 fr.fodg)
+- [PDF 1.7 Mo](https://chezsoi.org/lucas/blog/images/jdr/Dungeon%20Heart%20B%26W%20v1.6%20fr.pdf)
+- [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon%20Heart%20B%26W%20v1.6%20fr.fodg)
 
-Run. Die. Repeat :
+[Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
 
 - [PDF 37 Ko](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
 - [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
