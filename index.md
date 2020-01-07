@@ -23,3 +23,13 @@ Jeux de Shane Mclean :
 
 - [Cheat Your Own Adventure](CheatYourOwnAdventure)
 - [Le dernier café sur la gauche](LeDernierCaféSurLaGauche.html)
+
+Dungeon Heart :
+
+- [PDF 1.7 Mo](https://chezsoi.org/lucas/blog/images/jdr/Dungeon Heart B&W v1.6 fr.pdf)
+- [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon Heart B&W v1.6 fr.fodg)
+
+Run. Die. Repeat :
+
+- [PDF 37 Ko](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
+- [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
