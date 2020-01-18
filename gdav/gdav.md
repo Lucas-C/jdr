@@ -1,16 +1,25 @@
 <!--
+- travailler un peu plus la mise en page
+- univers « prêt à jouer » avec Thème, PMJ & Pacte
+  * pour découvrir Dark Souls, mentionner les intro des 3 jeux Dark Souls (surtout la 1ère)
+    & http://www.chroniques-ludiques.fr/dark-souls-analyse-et-explication-de-lhistoire-et-de-son-univers/
+    & https://www.warlegend.net/dark-souls-on-vous-explique-l-histoire-avant-dark-souls-iii/
+    & https://darksouls.fandom.com/wiki/Dark_Souls_Wiki
+  * illus:
+    + Ingward: https://zsharpgetsdull.tumblr.com/post/130456124287/inktober-4-ingward-of-dark-souls-holding-the
+    + Patches: https://www.zerochan.net/Patches+%28Dark+Souls%29
 - com' sur:
   * [x] https://www.500nuancesdegeek.fr
   * [x] http://www.taverneproduction.com/forum/
   * [x] https://www.casusno.fr
   * [ ] http://www.subasylum.com/Antoniobay/viewforum.php?f=3
-- 5 badges à utiliser si besoin: https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
 - envisager publi & print-on-demande sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
 
 Autres illus ambiance Dark Souls:
 - https://www.deviantart.com/halycon450/art/Cursebound-Knight-796429742?src=MC_deviation_stack
 - [Artem Demura](https://www.artstation.com/stargrave)
+- 5 badges à utiliser si besoin: https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
 
 # Playtest n°1: Cédric, Matthieu, Simon - univers inventé
 
@@ -47,6 +56,9 @@ Autres illus ambiance Dark Souls:
   * bon ressenti "amère victoire"
   * suggestion: les Atouts pourraient fournir un bonus dans la scène finale
   * idée: modifier la table de résolution pour faire intervenir des Atouts encore non employés dans l'histoire
+
+# Playtest n°4: Héritiers de Dumnacus
+
 -->
 # Ameres Victoires & Glorieuses Defaites
 
