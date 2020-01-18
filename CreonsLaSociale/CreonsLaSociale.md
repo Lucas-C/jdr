@@ -1,24 +1,24 @@
 <!-- Next:
-- continuer à prendre l'inspi pour les Moves:
-  * Guide de création à l'apocalypse : http://www.pbta.fr/apocalypse-2/les-jeux-pbta-en-vf/
-  * PDF Braquage en Plein Jour
-  * http://buriedwithoutceremony.com/wp-content/uploads/2017/07/simple-world.pdf
+- finir les Moves:
 - définir les participants aux négos & leurs comportements / tactiques
 - clarifier et mettre au propre les éléments de négo
 - développer la dimension uchronique
 - mettre en forme les FPs
-- demander de l'aide sur un forum pour la mise en page ?
+- demander de l'aide sur un forum pour la mise en page ? (inspi Daylight Robbery)
+- ajouter Objectifs & Principes, en se basant sur le "Guide de création à l'apocalypse" ?
+- demander à quelqu'un avec un smartphone de gender-swap les personnages (avec Snapchat / Face app)
+- mentionner "Guide de création à l'apocalypse" de Bastien Acritarche Wauthoz en remerciement
 - idée de variante "blackOps": [MICE](https://en.wikipedia.org/wiki/Motives_for_spying), écoutes, pression politique, séduction, ...
 -->
 
 Créons la Sociale
 =================
 
-> Dans ce court jeu de rôle, retracez la mise en place de la Sécurité Sociale en 6 mois,
+> Dans ce court jeu de rôle, retracez la mise en place de la Sécurité Sociale,
 > dans une histoire légèrement uchronique au lendemain la 2e guerre mondiale.
 
 > Incarnez les pères fondateurs de cette nouvelle invention sociale,
-> mandatés par ordonnance par le libérateur de la nation, Charles De Gaulle,
+> mandatés par le libérateur de la nation, Charles De Gaulle,
 > pour construire par la voie politique ce nouveau système qui permettra aux français,
 > de « vivre sans l’angoisse du lendemain, de la maladie ou de l’accident de travail,
 > en cotisant selon ses moyens et en recevant selon ses besoins. »
@@ -35,6 +35,8 @@ Ils sont tous membres du gouvernement provisoire de la République française :
 
 ### Alexandre/a Parodi
 <!-- https://www.ordredelaliberation.fr/fr/compagnons/alexandre-parodi -->
+<img class="portrait" src="img/AlexandreParodi.jpg">
+
 Ministre du travail et de la sécurité sociale.
 Héro de la libération, nom de code _Quartus_ puis _Cérat_ dans la résistance.
 
@@ -47,21 +49,29 @@ tu es en retard à cause d'une réunion de crise secrète avec Le Général...),
 gagnes un bonus de **+?? à ??** pour le reste de la négociation.
 
 ### Ambroise/ine Croizat
+<img class="portrait" src="img/Ambroise_Croizat.jpg"><!-- Source: Wikipedia -->
+
 Élu communiste influent à l'assemblée constituante
 
 _Moves_:
 
 - **éditorial dans _L'Humanité_**.
-<!-- ajouter un illus de UNE du journal -->
+<div class="editos">
+  <img class="edito" src="img/LHumanité-non-on-ne-touchera-pas-a-la-secu.png">
+  <img class="edito" src="img/LHumanité-loi-Croizat-placera-la-France-au-1er-rang.png">
+</div>
+
 Avec 29% des voies au parti communiste durant les dernière élections, votre message est certain d'avoir un écho chez les français.
 Lance 2 dés + **Éloquent**. Sur **10+**, choisis deux conséquences dans la liste-ci-dessous. Sur **7-9**, une seule :
-
-  * discrédite un de tes adversaires politiques, accusé d'aller à l'encontre d'un idéal socialiste
+  * met en avant un des éléments constitutifs fort du projet de Sécurité Sociale :
+    celui-ci pourra difficilement être attaqué par l'opposition dans la prochaine phase de négociation
   * l'opinion publique augmente de 10% en faveur du projet de sécurité sociale
 
 - **5 millions d'adhérents à la CGT**: **??**
 
 ### Pierre/ette Laroque
+<img class="portrait" src="img/PierreLaroque.jpg">
+
 Membre du Conseil d'Etat, nommé Directeur général de la Sécurité sociale depuis le 5 octobre 1944.
 Spécialiste du droit administratif
 
@@ -74,22 +84,28 @@ _Moves_:
   * qu’est-ce que ton personnage espère que je fasse ?
   * comment est-ce que je peux convaincre ton personnage de ____ ?
 
-### François/e Builloux
-<!-- Inspi Georges Buisson & François Billoux -->
+### George/tte Buisson
+<!-- + inspi François Billoux -->
+<img class="portrait" src="img/François_Billoux.png"><!-- Source: Wikipedia -->
+
 Ministre de la santé publique
 
 ---
 
+**Rêves**:
+- cotiser selon ses moyens et recevoir selon ses besoins
+- instaurer une nouvelle société plus juste et solidaire, portée par les idéaux de la Résistance
+- la retraite ne sera plus l'antichambre de la mort mais une nouvelle étape de la vie
+- que plus aucun camarade ouvrier ne craigne le spectre de la maladie ou de l'accident de travail
+- mettre à l'abri du besoin les familles des travailleurs en instaurant une entraide nationnale
+
 **Stats**
 - **Éloquent** : charisme, force de conviction, capacité à convaincre les foules
 - **Influent** : contacts, réseaux d'information 
-- **Stratège** : connaissance du monde politique, 
+- **Stratège** : connaissance du monde politique & des arcanes législatives
 
-**Rêves**:
-- cotiser selon ses moyens et recevoir selon ses besoins
-- que plus aucun camarade ouvrier ne craigne le spectre de la maladie ou de l'accident de travail
-- instaurer une solidarité nationnale qui mette à l'abri du besoin les familles des travailleurs
-- la retraite ne sera plus l'antichambre de la mort mais une nouvelle étape de la vie
+Exemples d'actions / _moves_ de base ?
+
 
 **_Moves_** à répartir entre PJs :
 - **réseau d'amis politiques** t'apportant de précieux renseignement : lance 2 dés + **Influent**. Sur un succès, tu peux poser des questions à la MJ.
@@ -106,14 +122,21 @@ Sur 10+, tu peux poser 2 questions. Sur 7-9, 1 seule :
 Nomme-le et la MJ te donnera son conseil. Si tu suis le conseil, prends +1 à tous les jets de dés que tu fais en le suivant.
 - **appui politique** : lance lance 2 dés + **Influent**. En cas de réussite, choisis un allié politique qui participe à tes côtés à la négociation.
 Sur 10+, il soutient entièrement ta position et tes arguments. Sur 7-9, il y a au moins un point de la négociation sur lequel il n'est pas de ton côté.
-- **ça marche ailleurs** : la MJ détermine lequel des pays suivant admire le plus ton interlocuteur : l'Allemagne (sécurité sociale de Bismarck en 1983), l'Angleterre (_National Insurance_ en 1911 & rapport Beveridge de 1942),
-les USA (_New Deal_ de Roosevelt) ou l'Union Soviétique (article 120 de la Constitution de 1936).
+- **ça marche ailleurs** : la MJ détermine lequel des pays suivant admire le plus ton interlocuteur :
+l'Angleterre (_National Insurance_ en 1911 & rapport Beveridge de 1942), les USA (_New Deal_ de Roosevelt & projet de loi Wagner-Murray-Dingell),
+ou l'Union Soviétique (article 120 de la Constitution de 1936).
 Si tu devines correctement, tu gagnes **+??**.
+<!-- + l'Allemagne (sécurité sociale de Bismarck en 1983)
+« BUISSON rappelle l'élan qui entraîne les peuples vers l'organisation généralisée de la sécurité sociale.
+Les exemples britannique (Beveridge) controversé par les « conservateurs entêtés à la défense de leurs privilèges sociaux », américain (Wagner-Murray-Dingell),
+canadien (plan Marsh), néo-zélandais, suisse, belge, d'Afrique australe, d'Amérique du sud sont évoqués. Il rappelle l'effort de ROOSEVELT et de l'URSS
+qui même pendant la guerre a développé le système des assurances sociales que gèrent les syndicats ouvriers. » -->
 - **titiller la ferveur idéologique** : la MJ détermine à quel Rêve ton interlocuteur est le plus sensible.
 Si tu deviné juste, tu obtiens un bonus de **+??**
 
-## Uchronie décidée collectivement
-Une technologique en particulier s'est développée :
+## Uchronie
+<!-- inclure des illus pour chaque -->
+Une technologique en particulier s'est développée, décidée d'un commun accord par toutes les joueuses ou tirée au hasard :
 - ~~⚀~~: les micros & télécoms instantannés
 - ~~⚁~~: 
 - ~~⚂~~: 
@@ -171,6 +194,9 @@ sur la feuille symbolisant le nouveau système de sécurité sociale
 Un _Move_ employé durant une phase ne pourra pas être employé à nouveau dans la suivante.
 
 ### Prologue : à la veille de la libération de Paris
+
+![](img/Secu-FermonsLesPortesDeLaMisere.jpg)
+
 **18 août 1944, au soir**
 
 Il y a quelque semaines, les troupes américaines ont débarqués en Normandie.
@@ -205,25 +231,29 @@ Quelques phrases d'accroche :
 ### Juin 1945
 Ça y est, la France est libérée !
 
+![](img/ParisSeLibere.jpg)
+
 Le contexte :
 
-- 31 août 1944 : le GPRF s'installe à Paris
+- 31 août 1944 : le Gouvernement Provisoire de la République Française (GPRF) s'installe à Paris
 - 2 septembre : premier conseil des ministres du GPRF à Paris
 - 5 octobre : les femmes obtiennent le droit de vote
 - 7 novembre : séance inaugurale de l'Assemblée consultative provisoire installée au Palais du Luxembourg à Paris,
   représentant les mouvements résistants, les partis politiques et les territoires engagés dans la guerre au côté des Alliés
 - 14 décembre : nationalisation des ressources énergétiques
-- 10 decembre 1944, signature à Moscou par De Gaulle & Georges Bidault avec Staline et son bras droit Molotov du pacte d'assistance franco-soviétique,
-après une semaine de séjour et des négociations tendues
+- 10 decembre 1944, signature à Moscou par De Gaulle & Georges Bidault avec Staline & son bras droit Molotov du pacte d'assistance franco-soviétique
 - 16 janvier 1945 : nationalisation des usines Renault
+<!-- Historiquement :
 - 22 février : création des comités d'entreprise
+-->
 - 29 avril : élection municipales
 - 7 & 8 mai 1945 : Capitulation de l'Allemagne
 
 #### Négociation
-Enjeu : faire adopter l'ordonnance par vote de l'Assemblée consultative cet été
+**Enjeu :** faire adopter l'ordonnance par vote de l'Assemblée consultative cet été
+& bonus : création des comités d'entreprise
 
-Participants: négocier des points critiques du contenu de l'ordonnance avec des membres influents de la Commission consultative de la Sécurité Sociale
+**Participants :** négocier des points critiques du contenu de l'ordonnance avec des membres influents de la Commission consultative de la Sécurité Sociale
 
 - un médecin
 - un parlementaire
@@ -245,9 +275,9 @@ Parodi laisse sa place à Croizat comme ministre, et devient le 1er ambassadeur 
 Inflation ++
 
 #### Négociation
-Enjeu : mettre en place les caisses primaires de sécurité sociale et d’allocations familiales
+**Enjeu :** mettre en place les caisses primaires de sécurité sociale et d’allocations familiales
 
-Participants: des représentants de la CGT qu'il faut convaincre d'investir toutes leurs ressources dans cet effort de création
+**Participants :** des représentants de la CGT qu'il faut convaincre d'investir toutes leurs ressources dans cet effort de création
 
 - 
 
@@ -257,6 +287,7 @@ Le contexte :
 
 - 19 janvier 1946 : Démission du général de Gaulle ! -> nouveau gouvernement, présidé par Félix Gouin, alors président de l'Assemblée
 - 8 avril : nationalisation du gaz et de l'électricité de France, création d'EDF & GDF
+- un projet de nouvelle Constitution est débattu
 <!-- Historiquement :
 - 25 février : Rétablissement de la semaine de 40 heures, abrogée pendant le régime de Vichy
 - 25 avril : vote de la loi n° 46-835 de nationalisation des grandes compagnies d'Assurance
@@ -265,9 +296,9 @@ Le contexte :
 -->
 
 #### Négociation
-Enjeu : faire adopter la loi de nationalisation des grandes compagnies de l'Assurance, ainsi que la loi de généralisation de la sécurité sociale
+**Enjeu :** faire adopter la loi de nationalisation des grandes compagnies de l'Assurance, ainsi que la loi de généralisation de la sécurité sociale
 
-Participants : quelques membres de l’Assemblée constituante dont le vote sera crucial
+**Participants :** quelques membres de l’Assemblée constituante dont le vote sera crucial
 
 - 
 
@@ -288,12 +319,12 @@ Le contexte :
 -->
 
 #### Négociation
-Enjeu : faire adopter à l'Assemblée Constituante l'extension des allocations familiales, la création de la médecine du travail
+**Enjeu :** faire adopter à l'Assemblée Constituante l'extension des allocations familiales, la création de la médecine du travail
 & en bonus avoir une mention sur « la protection de la santé » dans la Constitution de la IVe République,
 le tout avant l'avènement de la IVe République
 <!-- conditions de la rédaction de la Constitution : https://www.france-libre.net/le-preambule-de-la-constitution-de-1946/ -->
 
-Participants :
+**Participants :**
 
 -
 
@@ -302,6 +333,8 @@ Participants :
 La IVe République Française est née !
 
 > En 1946, le revenu salarié d’une famille de trois enfants (la moyenne dans les familles populaires) est constitué pour plus de la moitié par des allocations familiales
+
+![](img/affiche-grandes-lois-sociales-pcf.jpg)
 
 
 ## Éléments constitutifs du projet de Sécurité Sociale
@@ -344,7 +377,7 @@ heures de délégation des salariés élus + droit de consultation / information
 - s'il te semble que les PJs sont désemparés,
 introduit une scène où De Gaulle les convie dans son bureau
 pour remettre les choses au point
-- lors de la 3e phase de jeu, si tu penses que la situation s'y prête bien et que tu souhaites semer un peu la zizanie,
+- lors de la 3e phase de jeu (avril 1946), si tu penses que la situation s'y prête bien et que tu souhaites semer un peu la zizanie,
 fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la table des négociations :
 > Tu rencontres confidentiellement quelques ministres et une poignée de fidèles alliés politiques :
 > le projet de Constitution de Félix Gouin sera bientôt rejeté, et en conséquence ce dernier va très probablement démissioner.
@@ -396,13 +429,16 @@ ol, ul { padding-inline-start: 1rem; }
 section { break-inside: avoid; }
 img {
   display: block;
-  max-height: 12rem;
+  max-height: 25rem;
   max-width: 100%;
   margin: 0 auto;
 }
+img.portrait { max-height: 12rem; }
+img.edito { max-width: 20rem; }
+.editos { display: flex; }
 s { /* dices */
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   line-height: .8;
   vertical-align: bottom;
 }
