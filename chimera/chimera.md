@@ -33,6 +33,11 @@ Idées inspirées du manga Ghost In The Shell
     en terme de combats, les Chimères anticipent en général tous les mouvements de l'ennemi via leurs capteurs et leurs modules tactiques
         elles ont X battements d'avance, puis à chaque échec de jet cet avantage peut diminuer à cause d'une complication / mouvement ennemi non anticipé
         + combiner avec mesure tempo ? Adagio / Allegro / Presto ?
+Autres idées sur l'univers
+    alt au body-hacking, lors d'event récent: une équipe de cyb-hackers gouvernementaux a "simplement" hijacké la radio interne
+        d'une foule de personnes dans le personne, se basant sur leur profil psychologique issu des réseaux sociaux pour les manipuler /
+        faire pression sur eux, et en bénéficiant du réseau de caméras et de l'effet de mouton de masse, leur a fait prendre le contrôle
+        du gouvernement local
 Idées de mise en page
     image de d8 + indiquer en préambule qu'il en faut pour jouer
     image de background
@@ -51,6 +56,9 @@ https://www.deviantart.com/nicosaba/art/Lemurian-seed-536179176
 https://www.deviantart.com/nicosaba/art/Test-451555461
 https://www.deviantart.com/nicosaba/art/19084-392852934
 https://www.deviantart.com/nicosaba/art/--252716701
+https://www.deviantart.com/zapdosify/art/Best-guns-in-the-business-733183585
+https://www.deviantart.com/loomingcolumn/art/Ying-Yang-Mentality-328736932
+https://www.deviantart.com/loomingcolumn/art/Vitality-VELJEBIV-BioMech-316975117
 
 Font: [CyberGotica](https://www.dafont.com/cibergotica.font?l[]=10&l[]=1)
 

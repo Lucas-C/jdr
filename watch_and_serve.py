@@ -1,10 +1,19 @@
 #!/usr/bin/env python3
 from glob import glob
 from os import listdir
-from os.path import basename, dirname, isdir
-from livereload import Server, shell
+from os.path import basename, dirname, isdir, splitext
+from unittest.mock import patch
+
+from livereload.server import Server, StaticFileHandler, shell
 
 SCRIPT_DIR = dirname(__file__)
+
+class CustomStaticFileHandler(StaticFileHandler):
+    'Adds UTF charset to COntent-Type header for HTML files'
+    def get_content_type(self):
+        if splitext(self.absolute_path)[1] == '.html':
+            return 'text/html; charset=utf-8'
+        return super().get_content_type()
 
 server = Server()
 for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
@@ -27,4 +36,5 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
     for js_filename in glob(folder + '/*.js'):
         print('Watching', js_filename)
         server.watch(js_filename, cmd)
-server.serve(root=SCRIPT_DIR)
+with patch('livereload.server.StaticFileHandler', CustomStaticFileHandler):
+    server.serve(root=SCRIPT_DIR)

@@ -8,6 +8,7 @@
 - ajouter Objectifs & Principes, en se basant sur le "Guide de création à l'apocalypse" ?
 - demander à quelqu'un avec un smartphone de gender-swap les personnages (avec Snapchat / Face app)
 - mentionner "Guide de création à l'apocalypse" de Bastien Acritarche Wauthoz en remerciement
+- Com' supplémentaire : ATTAC & http://www.pbta.fr & contacter auteurs du jeu ZAD: http://zadlejeu.revolublog.com / jeu.zad@gmail.com
 - idée de variante "blackOps": [MICE](https://en.wikipedia.org/wiki/Motives_for_spying), écoutes, pression politique, séduction, ...
 -->
 

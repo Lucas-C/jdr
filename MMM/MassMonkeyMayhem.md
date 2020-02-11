@@ -1,3 +1,5 @@
+https://publicdomainvectors.org/fr/gratuitement-des-vecteurs/Singe-de-la-bande-dessin%C3%A9e-stylis%C3%A9e/81463.html
+
 ## Synopsis
 Ambiance série TV / jdr "old school".
 Se déroule à 90% à Paris.

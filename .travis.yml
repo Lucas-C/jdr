@@ -34,8 +34,8 @@ script:
 - if [[ $TRAVIS_TAG =~ ^chimera ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - cd gdav
-- node ../md2html.js --title='Ameres Victoires &amp; Glorieuses Defaites' gdav.md > index.html
-- if [[ $TRAVIS_TAG =~ ^gdav ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
+- if [[ $TRAVIS_TAG =~ ^gdav ]]; then sed -i "s/{{version}}/$TRAVIS_TAG/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - cd genius-loci
 - node ../md2html.js genius-loci.md > index.html
@@ -45,6 +45,10 @@ script:
 - cd -
 - cd LesNonMorts
 - node ../md2html.js LesNonMorts.md > index.html
+- cd -
+- cd OriMushi
+- node ../md2html.js OriMushi.md > index.html
+- if [[ $TRAVIS_TAG =~ ^ori-mushi ]]; then ./gen_pdf.sh index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - cd plus-de-place-en-enfer
 - node ../md2html.js plus-de-place-en-enfer.md > index.html

@@ -1,5 +1,10 @@
 <!--
-- travailler un peu plus la mise en page, embellir les FPs
+- "position: fixed" .version #page -> css text based on nth ?
+- Thème fort associé à chaque partie (inspi Dark Trophee) : incursion sur le thème Sommeil, Eau et Masques
+- modifier diagramme avec draw.io : revoir estimation en temps de chaque phase (1h / jalon)
+- ajouter un emoji pour jeton Flashback et l'inclure dans la table de résolution
+- feuille récapitulative des noms de PJs & objectifs + template de création d'univers, avec sections
+- travailler un peu plus la mise en page, embellir les FPs (inclure checkboxes pour Atouts)
 - univers « prêt à jouer » avec Thème, PMJ & Pacte
   * pour découvrir Dark Souls, mentionner les intro des 3 jeux Dark Souls (surtout la 1ère)
     & http://www.chroniques-ludiques.fr/dark-souls-analyse-et-explication-de-lhistoire-et-de-son-univers/
@@ -8,6 +13,7 @@
   * illus:
     + Ingward: https://zsharpgetsdull.tumblr.com/post/130456124287/inktober-4-ingward-of-dark-souls-holding-the
     + Patches: https://www.zerochan.net/Patches+%28Dark+Souls%29
+- relancer com' sur forums:
 - com' sur:
   * [x] https://www.500nuancesdegeek.fr
   * [x] http://www.taverneproduction.com/forum/
@@ -62,7 +68,7 @@ Autres illus ambiance Dark Souls:
 -->
 # Ameres Victoires & Glorieuses Defaites
 
-:::: block-centered limited-width rules
+::::: block-centered limited-width rules
 Dans ce court jeu de rôle, les Joueuses incarnent les héros d'une saga épique et tragique, au dernier chapitre de leur périple.
 Ils ont traversé bien des aventures ensembles, et arrivent au terme de leurs quêtes respectives,
 où ils devront faire des choix cornéliens pour y apporter une conclusion.
@@ -123,10 +129,10 @@ Inscrivez sur votre [feuille de personnage](#hero-sheet) :
 - son **apparence**
 - un **Noeud du Destin** qu'il pourra utiliser dans la partie.
 Ils sont décrits dans la section suivante.
-- son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement.
+- son **Objectif** : la quête du personnage, ce qu'il tente d'accomplir concrètement, en lien avec l'univers choisi.
 Il doit être ambitieux mais réalisable durant la partie.
 
-En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues :
+En manque d'inspiration pour ce dernier ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues **\*** :
 ::: float-right insert random-tables
 A plusieur reprises dans ce jeu, vous aurez à lancer _1d6_ puis à vous reporter à une table "en ignorant les lignes déjà obtenues".
 La 1ère fois c'est très simple, reportez simplement le résultat de votre dé dans la table,
@@ -146,8 +152,9 @@ il lira ce qui se trouve dans la **6e** ligne.
 6  | découvrir la contrée mythique de ...
 7  | ramener à la vie ...
 8  | détrôner le tyran ...
+:::
 
-<img class="block-centered" alt="Elaina (Court Attire I)" src="img/elaina__court_attire_i__by_halycon450_dc9dj12-fullview.png">
+<img class="block-centered" alt="Elaina (Court Attire I)" src="img/elaina__court_attire_i__by_halycon450_dc9dj12-fullview-ligther.png">
 
 <!--
 - sa **Pierre Angulaire** : il s'agit de la raison de vivre - menacée au cours de la saga - ou de la valeur morale primordiale du Héro.
@@ -162,7 +169,8 @@ En manque d'inspiration ? Lancez _1d6_ et reportez-vous à la liste suivante, en
 En lien avec sa **Pierre Angulaire**, chaque Joueuse doit lister **deux choses que ne ferait jamais son Héro**.
 -->
 
-Si vous êtes en panne d'inspiration, la table suivante peut également vous donner des idées d'archétypes de personnages :
+:::: no-break-inside
+La table suivante peut également vous donner des idées d'archétypes de personnages :
 ::: headless-table
 1  | la guerrière qui survécu à trop de batailles, vu trop de morts, et à juré de ...
 ---|-
@@ -172,6 +180,7 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 5  | la paria, rejetée par les siens à cause de ...
 6  | la veuve, qui a perdu son compagnon lors de ...
 :::
+::::
 
 <!--
 ### Prouesses héroïques
@@ -197,7 +206,7 @@ Si vous êtes en panne d'inspiration, la table suivante peut également vous don
 
 ### Noeuds du Destin
 
-<img class="block-centered" alt="Plague-ridden Sentinel" src="img/plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview.png">
+<img class="block-centered" alt="Plague-ridden Sentinel" src="img/plague_ridden_sentinel_by_halycon450_dcjp9wr-fullview-lighter.png">
 
 Les Noeuds représentent la capacité des Héros à influer sur le Destin.
 À modifier le déroulement de l'histoire pour que le "hasard" les avantage,
@@ -243,7 +252,7 @@ Les Joueuses sont également encouragées à se poser des questions entre eux po
 
 > Tu te souviens, peu après qu'on se soit rencontrés, lorsque ce capitaine de la garde t'as défié en duel ?
 
-<img class="block-centered" alt="Coalescence of Immemorial Nightmares - Yodth" src="img/coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview.png">
+<img class="block-centered" alt="Coalescence of Immemorial Nightmares - Yodth" src="img/coalescence_of_immemorial_nightmares_yodth_by_halycon450_dcb6cet-fullview-lighter.png">
 
 
 ### Flashbacks
@@ -349,7 +358,7 @@ Révélez alors votre nature aux Héros, à grand renforts d'effets spéciaux.
 Proposez-leur votre Pacte, ce qu'ils doivent accomplir pour vous et vos conditions,
 en échange de quoi ils obtiendront chacun ce qu'ils cherchent.
 
-Vous pouvez lâchez théâtralement au centre de la table autant de jetons symbolisant les **jalonss du Pacte** que le nombre de PJs + 1.
+Vous pouvez lâchez théâtralement au centre de la table autant de jetons symbolisant les **jalons du Pacte** que le nombre de PJs + 1.
 Ces pions symbolisent les objectifs à atteindre pour accomplir le Pacte.
 
 A partir de ce moment, vous pouvez d'or et déjà vous creuser la tête sur comment vous allez, lors de la Scène finale,
@@ -486,7 +495,7 @@ Ce jeu n'existerait pas sans vous, et il ne serait certainement pas aussi fun sa
 Mes inspirations notables : [Psi*Run](https://chezsoi.org/lucas/blog/tag/psirun.html) de Meguey Baker pour sa table de résolution géniale;
 les [jeux de rôle monopage](http://troplongpaslu.fr) pour la profusion de table aléatoires;
 le manga _Berserk_ ainsi que les jeux vidéo _Dark Souls_ et _Shadow of the Colossus_ pour l'univers que j'avais initialement en tête pour le jeu.
-::::
+:::::
 
 :::: on-new-page
 ::: block-centered limited-width
@@ -585,7 +594,7 @@ Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant se
 -->
 
 ::: version
-$version
+v{{version}}
 :::
 
 <style>
@@ -624,6 +633,7 @@ h3 { line-height: 1.2; font-size: 1.5em; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 1rem; }
 img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; break-inside: avoid; }
 
+.no-break-inside { break-inside: avoid; }
 .block-centered { display: block; margin: 0 auto; }
 .limited-width { max-width: 60rem; margin: 2.5rem auto; }
 .small-img { max-width: 10rem; }
@@ -669,7 +679,7 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; break-
     content: 'Variante';
 }
 .random-tables:before {
-    content: 'Tables aléatoires';
+    content: '* Tables aléatoires';
 }
 .version {
   position: fixed;
