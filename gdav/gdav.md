@@ -594,7 +594,7 @@ Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant se
 -->
 
 ::: version
-v{{version}}
+{{version}}
 :::
 
 <style>

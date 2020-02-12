@@ -210,7 +210,7 @@ Chouettes illus non-CC :
 -->
 
 ::: version
-v{{version}}
+{{version}}
 :::
 
 <style type="text/css">
@@ -296,6 +296,7 @@ s { /* dices */
   h1 { font-size: 7rem; margin: 1rem auto; }
   body { font-size: 1rem; }
   .cover { max-height: 20rem; margin: 1rem auto; }
+  .footer-illus { max-height: 10rem; }
   #illustrations img { width: 41.5%; max-height: 41.5vh; }
   .web-only { display: none; }
 }
