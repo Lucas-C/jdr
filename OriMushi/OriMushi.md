@@ -32,7 +32,7 @@ Lorsqu'un joueur en choisit un, il doit définir le type de magie qu'il maîtris
 Voici quelques exemples : le feu, la terre, le métal, l'eau, la foudre, le vent, la lumière,
 la dissimulation, le déplacement instantané, les illusions...
 
-2. Complétez sur votre feuille de personnage : **nom**, **activité** et 3 **Traits** dans la liste
+2. Complétez sur votre feuille de personnage : **nom**, **activité** et sélectionnez **3 Traits** dans la liste
 
 Voici quelques suggestions d'activité si les joueurs sont en panne d'inspiration :
 apothicaire, conteur, Ronin (samouraï sans maître), marchant, Mushishi (dompteur d'esprits de la nature)...
@@ -78,8 +78,7 @@ dont on leur a vanté une recette locale de poisson frit...
 
 ## Illustrations
 Dans l'ordre, vous trouverez ci-dessous 9 illustrations de personnages des joueurs,
-une du doyen du village, une du troll-kappa, 8 de différents _items_,
-et enfin une illustration de l'esprit-dragon.
+une du doyen du village, une du troll-kappa, 8 de différents items, et enfin une illustration de l'esprit-dragon.
 
 <!-- PJs -->
 ![](Ninja-2.svg)
@@ -294,10 +293,10 @@ s { /* dices */
   page-break-after: always
 }
 @media print {
-  h1 { font-size: 7rem; margin: 3rem auto; }
-  body { font-size: 1.1rem; }
-  .cover { max-height: 22rem; margin: 3rem auto; }
-  #illustrations img { width: 44%; max-height: 44vh; }
+  h1 { font-size: 7rem; margin: 1rem auto; }
+  body { font-size: 1rem; }
+  .cover { max-height: 20rem; margin: 1rem auto; }
+  #illustrations img { width: 41.5%; max-height: 41.5vh; }
   .web-only { display: none; }
 }
 </style>
