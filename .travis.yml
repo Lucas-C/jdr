@@ -35,7 +35,7 @@ script:
 - cd -
 - cd gdav
 - node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
-- if [[ $TRAVIS_TAG =~ ^gdav ]]; then sed -i "s/{{version}}/$TRAVIS_TAG/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- if [[ $TRAVIS_TAG =~ ^gdav- ]]; then sed -i "s/{{version}}/${TRAVIS_TAG/gdav-/}/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - cd genius-loci
 - node ../md2html.js genius-loci.md > index.html
@@ -48,7 +48,7 @@ script:
 - cd -
 - cd OriMushi
 - node ../md2html.js OriMushi.md > index.html
-- if [[ $TRAVIS_TAG =~ ^ori-mushi ]]; then sed -i "s/{{version}}/$TRAVIS_TAG/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- if [[ $TRAVIS_TAG =~ ^ori-mushi- ]]; then sed -i "s/{{version}}/${TRAVIS_TAG/ori-mushi-/}/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - cd plus-de-place-en-enfer
 - node ../md2html.js plus-de-place-en-enfer.md > index.html

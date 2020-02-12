@@ -7,10 +7,14 @@
 
 # Ori Mushi
 
-::: rules
+:::: rules
 <img class="cover" alt="A group of happy adventurers" src="d91dqk7-4c7695a1-5dcc-4415-b5b5-5c2422468efb.png">
 
 Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener en 30min" par Kalwrynn](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html).
+
+::: web-only
+Version PDF: [v0.1 (11,3 Mo)](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.1/ori-mushi-v0.1.pdf)
+:::
 
 **Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, Naruto...
 
@@ -69,7 +73,7 @@ Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemi
 quitte à faire une ellipse ou à leur indiquer qu'il s'agit de leur prochaine étape de leur voyage,
 dont on leur a vanté une recette locale de poisson frit...
 
-:::
+::::
 !!!include(OriMushi-FeuillePersonnage.html)!!!
 
 ## Illustrations
@@ -82,10 +86,14 @@ et enfin une illustration de l'esprit-dragon.
 ![](quick_samurai_sketch_by_hidanbasher_d9d8uez-fullview.jpg)
 ![](TCP-Human-4.jpg)
 ![](d363fdk-411bcdd0-cb36-4712-bb2f-71a0ac8e4e8d.jpg)
+::: page-break
+:::
 ![](d5fhek0-e925c6be-09e3-4710-81d9-1b12e7b73900.jpg)
 ![](alopex_redesign_concept_by_beevirus_d83o769-fullview.jpg)
 ![](d8uihey-ccf04f05-a980-4b1b-b904-0137e609e661.jpg)
 ![](elf-2044697_1920.png)
+::: page-break
+:::
 ![](kitty-1374728_1920.jpg)
 
 <!-- PNJs -->
@@ -284,5 +292,12 @@ s { /* dices */
 }
 .page-break {
   page-break-after: always
+}
+@media print {
+  h1 { font-size: 7rem; margin: 3rem auto; }
+  body { font-size: 1.1rem; }
+  .cover { max-height: 22rem; margin: 3rem auto; }
+  #illustrations img { width: 44%; max-height: 44vh; }
+  .web-only { display: none; }
 }
 </style>
