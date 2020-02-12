@@ -1,8 +1,8 @@
 <!-- Next:
-* imprimer 3 dernier items + ré-imprimer dragon
-* plastifier FPs & illus
-* contacter Kalwrynn
-* notifier tysontan, hidanbasher, beevirus, weremagnus, flaming-anubis, DaudioMultimedia, NNao, Fernand0FC
+* imprimer 3 dernier items + ré-imprimer dragon + plusieurs exemplaires FP
+  -> tout plastifier
+* contacter Kalwrynn autrement que par FB ?
+* notifier artistes : tysontan, hidanbasher, beevirus, weremagnus, flaming-anubis, DaudioMultimedia, NNao, Fernand0FC
 -->
 
 # Ori Mushi
@@ -16,7 +16,7 @@ Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener e
 
 ## Matériel
 S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,
-ce jeu propose d'imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
+cette aide de jeu propose d'imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
 des illustrations de personnages et des élements d'équipements (_items_).
 
 ## Création de personnage en 5min
@@ -73,6 +73,10 @@ dont on leur a vanté une recette locale de poisson frit...
 !!!include(OriMushi-FeuillePersonnage.html)!!!
 
 ## Illustrations
+Dans l'ordre, vous trouverez ci-dessous 9 illustrations de personnages des joueurs,
+une du doyen du village, une du troll-kappa, 8 de différents _items_,
+et enfin une illustration de l'esprit-dragon.
+
 <!-- PJs -->
 ![](Ninja-2.svg)
 ![](quick_samurai_sketch_by_hidanbasher_d9d8uez-fullview.jpg)
@@ -132,6 +136,9 @@ Personnages des joueurs :
 - [Human Alopex par BEEvirus](https://www.deviantart.com/beevirus/art/Human-Alopex-534980266) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Kitty Anime Poilu Bleu @ pixabay.com](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/)
 - [Elf Druide Fantaisie @ pixabay.com](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/)
+<!--
+https://pixabay.com/fr/vectors/geisha-japon-femme-jeune-fille-156791/
+-->
 
 Personnages non joueurs :
 - [Dakuan Ninja Scroll par DaudioMultimedia](https://www.deviantart.com/daudiomultimedia/art/Dakuan-Ninja-Scroll-784761566) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
@@ -257,7 +264,7 @@ img {
 }
 s { /* dices */
   text-decoration: none;
-  font-size: 1.8rem;
+  font-size: 3rem;
   line-height: .8;
   vertical-align: bottom;
 }
