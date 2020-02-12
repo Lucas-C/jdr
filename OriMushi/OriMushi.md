@@ -202,6 +202,10 @@ Chouettes illus non-CC :
 - https://www.subpng.com/png-lu8s9j/
 -->
 
+::: version
+v{{version}}
+:::
+
 <style type="text/css">
 @font-face {
   font-family: Odachi;
@@ -272,6 +276,11 @@ s { /* dices */
     float: left;
     max-width: 50%;
     margin-right: 1rem;
+}
+.version {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
 .page-break {
   page-break-after: always

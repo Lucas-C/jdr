@@ -48,7 +48,7 @@ script:
 - cd -
 - cd OriMushi
 - node ../md2html.js OriMushi.md > index.html
-- if [[ $TRAVIS_TAG =~ ^ori-mushi ]]; then ./gen_pdf.sh index.html ../$TRAVIS_TAG.pdf; fi
+- if [[ $TRAVIS_TAG =~ ^ori-mushi ]]; then sed -i "s/{{version}}/$TRAVIS_TAG/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
 - cd plus-de-place-en-enfer
 - node ../md2html.js plus-de-place-en-enfer.md > index.html
