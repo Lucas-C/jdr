@@ -31,6 +31,7 @@ Ideas:
   * http://rachelbythebay.com/fun/square/
   * http://rachelbythebay.com/fun/chk/
   * https://github.com/ribab/quadart
+- top banner: http://hondu.co
 Cool fonts:
 - Handwriting: https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1
 - Zalgo: https://stackoverflow.com/questions/6579844/how-does-zalgo-text-work

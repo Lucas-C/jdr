@@ -23,7 +23,7 @@ script:
 - cd -
 - cd DungeonHeartHeroesAndSpells
 - node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
-- node ../md2html.js DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
+- node ../md2html.js --lang en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
 - cd -
 - cd ce-nest-pas-une-place-dhonneur
 - node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
@@ -33,10 +33,15 @@ script:
 - node ../md2html.js chimera.md > index.html
 - if [[ $TRAVIS_TAG =~ ^chimera ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
 - cd -
-- cd gdav
-- node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
-- if [[ $TRAVIS_TAG =~ ^gdav- ]]; then sed -i "s/{{version}}/${TRAVIS_TAG/gdav-/}/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
-- cd -
+- |
+  cd gdav
+  node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
+  if [[ $TRAVIS_TAG =~ ^gdav- ]]; then
+    sed -i "s/{{version}}/${TRAVIS_TAG/gdav-/}/" index.html;
+    puppeteer print index.html ../$TRAVIS_TAG.pdf;
+    puppeteer print mind-map.html ../$TRAVIS_TAG-mind-map.pdf;
+  fi
+  cd -
 - cd genius-loci
 - node ../md2html.js genius-loci.md > index.html
 - cd -
@@ -76,7 +81,8 @@ deploy:
     on:
       tags: true
     skip_cleanup: true
-    file: $TRAVIS_TAG.pdf
+    file_glob: true
+    file: $TRAVIS_TAG*.pdf
 notifications:
   email:
     on_success: never

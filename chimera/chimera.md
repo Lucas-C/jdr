@@ -38,6 +38,9 @@ Autres idées sur l'univers
         d'une foule de personnes dans le personne, se basant sur leur profil psychologique issu des réseaux sociaux pour les manipuler /
         faire pression sur eux, et en bénéficiant du réseau de caméras et de l'effet de mouton de masse, leur a fait prendre le contrôle
         du gouvernement local
+    les ennemis que trackent l'org des PJs sont des cyberterroristes socialistes,
+        voyant dans le cyberespace à la fois un outil politique et un lieu sous contrôle d'aucun gouvernement,
+        ou une démocratie idéale peut être construite
 Idées de mise en page
     image de d8 + indiquer en préambule qu'il en faut pour jouer
     image de background
@@ -81,6 +84,8 @@ https://unsplash.com/photos/iO5z78REHhQ & https://unsplash.com/photos/TaY3ZSJig-
 https://unsplash.com/collections/3436786/china-town-japanese
 
 rand cop from img/behance_platigeimage_cyberpunk_2077_cc-by-nc.jpg
+
+Insp / en fond sonore / visuel : les clips de Howie Lee
 -->
 # ![Logo papillon Chimera](img/Butterfly_Logo.jpg)
 ::: center-text

@@ -1,7 +1,6 @@
 <!-- Next:
-* imprimer 3 dernier items + ré-imprimer dragon + plusieurs exemplaires FP
-  -> tout plastifier
-* contacter Kalwrynn autrement que par FB ?
+* tout plastifier illustrations
+* article de blog
 * notifier artistes : tysontan, hidanbasher, beevirus, weremagnus, flaming-anubis, DaudioMultimedia, NNao, Fernand0FC
 -->
 
@@ -126,9 +125,10 @@ une du doyen du village, une du troll-kappa, 8 de différents items, et enfin un
 Cette aide de jeu _Ori Mushi_ a été conçue par [Lucas Cimon](https://chezsoi.org/lucas/blog/) en février 2020.
 Elle est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
-Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
-& [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
+Logiciels employés pour la réaliser : Firefox, Gimp, Notepad++, Sumatra PDF, Python, puppeeter
 
+Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
+& [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny) -
 Illustrations :
 - [Journey to the West par TysonTan](https://www.deviantart.com/tysontan/art/Journey-to-the-West-546516151) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
