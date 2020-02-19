@@ -26,7 +26,7 @@ Jeux de Grant Howitt :
 Jeux de Shane Mclean :
 
 - [Cheat Your Own Adventure](CheatYourOwnAdventure)
-- [Le dernier café sur la gauche](LeDernierCaféSurLaGauche.html)
+- [Le dernier café sur la gauche](LeDernierCafeSurLaGauche.html)
 
 [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
 

@@ -15,7 +15,7 @@ install:
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - node md2html.js index.md > index.html
-- node md2html.js LeDernierCaféSurLaGauche.md > LeDernierCaféSurLaGauche.html
+- node md2html.js LeDernierCafeSurLaGauche.md > LeDernierCafeSurLaGauche.html
 - cd 2200_le_jugement_des_dieux
 - node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
 - cd -
@@ -24,7 +24,7 @@ script:
 - cd -
 - cd DungeonHeartHeroesAndSpells
 - node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
-- node ../md2html.js --lang en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
+- node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
 - cd -
 - cd ce-nest-pas-une-place-dhonneur
 - node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
@@ -70,7 +70,7 @@ script:
 before_deploy: rm -rf node_modules/
 deploy:
   - provider: pages
-    github_token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure, stolen from Nonogram
+    token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure, stolen from Nonogram
     on:
       branch: master
     target_branch: gh-pages
