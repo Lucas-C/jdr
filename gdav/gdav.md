@@ -61,6 +61,20 @@ Autres illus ambiance Dark Souls:
 
 # Playtest n°4: Héritiers de Dumnacus
 cf. https://chezsoi.org/lucas/blog/avgd-nouvelle-mouture.html
++ retours Arnaud par email :
+Ton jeu est très bon et nécéssite juste un peu de fignolage pour que les résultats soient plus souvent
+"Oui, mais..." et "non, mais..." pour refléter le titre : chaque succès coûte une petite perte (sauf triple 5-6)
+et chaque échec apporte un petit bonus (présent ou futur) qui incite à le choisir parfois
+(réparer un atout "cassé", gagner un nouvel atout ou un nouveau noeud du destin comme c'est déjà le cas).
+
+Une option serait de durcir les succès et d'accorder plus de dé bonus
+(il y a parfois des armes, armures, véhicules ou compagnons qui peuvent servir souvent)
+
+L'idée de Ludo m'a inspiré un truc : chaque personnage pourrait avoir un objectif personnel
+(ex : ressusciter sa fiancée) et un objectif "pour le bien commun"/"qui profite à tous"
+(ex : tuer le chef de gang qui l'a tuée). Le franchissement d'un Jalon pourrait voir un objectif personnel
+être obtenu (et gagner un Atout ou un Noeud ?) tandis que les objectifs "bien commun" seraient validés
+lors de la scène finale...
 -->
 # Ameres Victoires & Glorieuses Defaites
 
