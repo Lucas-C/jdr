@@ -91,7 +91,8 @@ Voici quelques abréviations & conventions employées par la suite :
 Ce n'est pas nécessaire mais avoir 3 couleurs différentes de dés est idéal :
 3 dés de base pour les jets, plus 3 par Joueuse pour les Atouts,
 plus une dernière poignée de dés représentant les Flashbacks.
-Si vous en avez assez, ces deux derniers types de dés peuvent être posés sur les feuilles de Joueusestout le long de la partie.
+Si vous en avez assez, ces deux derniers types de dés peuvent être posés sur les feuilles de Joueuses
+tout le long de la partie.
 
 
 ::: page-break
@@ -111,7 +112,7 @@ Si vous en avez assez, ces deux derniers types de dés peuvent être posés sur 
 
 ### Choix d'un univers
 Commencez par établir ensemble un **thème** fort pour la partie, constitué d'1 à 3 mots clefs.
-Ce thème servira de contrainte créative et de gage de cohérence pour tous les éléments ficitifs créés par les joueurs autour de la table.
+Ce thème servira de contrainte créative et de gage de cohérence pour tous les éléments fictifs créés par les joueurs autour de la table.
 Voici quelques exemples :
 - **Bois, Foudre & Métal**
 - **Sommeil, Eau & Masques**
@@ -125,13 +126,13 @@ Alternativement, vous pouvez aussi décider de créer un univers collectivement 
 Voici une manière d'organiser cette création collaborative en tant que MJ :
 - prenez une feuille de papier, ou la [_mind map_](mind-map.html) vierge fournie en aide de jeu,
 qui servira à prendre en note ce que vous allez définir collectivement sur l'univers, et une autre feuille blanche qui servira de carte de votre monde
-- faites circulez cette carte entre les joueurs, en leur demandant d'y indiquez quelques élements géographiques clefs :
+- faites circulez cette carte entre les joueurs, en leur demandant d'y indiquez quelques éléments géographiques clefs :
 relief, lacs & mers, forêts, villes, ruines, axes de transport, monuments connus... <!--Pour faire foisonner les idées et éviter l'angoisse de la page blanche, -->
 Demandez à ce que chaque joueur ne la garde pas plus de 2min devant lui.
 - simultanément, abordez tous ensembles quelques pierres angulaires de votre univers :
 climat, mythologie & dieux, niveau technologique / usage de la magie, factions, histoire récente, artefacts & trésors...
 Assurez-vous de répartir équitablement la parole entre tous les joueurs, afin que tous émettent des propositions.
-Un élement suggéré est adopté si personne n'émet de réserve.
+Un élément suggéré est adopté si personne n'émet de réserve.
 Les joueurs sont invités à exprimer leur soutien aux idées proposées, à rebondir dessus avec de nouveaux éléments,
 ou à proposer des alternatives quand certaines idées ne les séduisent pas.
 
@@ -155,7 +156,7 @@ c'est à dire en l'espace de quelques jours dans l'univers du jeu.
 
 En manque d'inspiration pour ce dernier ? Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déjà obtenues **\*** :
 ::: float-right insert random-tables
-A plusieur reprises dans ce jeu, vous aurez à lancer _1d6_ puis à vous reporter à une table "en ignorant les lignes déjà obtenues".
+À plusieurs reprises dans ce jeu, vous aurez à lancer _1d6_ puis à vous reporter à une table "en ignorant les lignes déjà obtenues".
 La 1ère fois c'est très simple, reportez simplement le résultat de votre dé dans la table,
 puis **cochez** la ligne correspondante.
 La prochaine fois qu'une Joueuse fera un jet dedans, il "sautera" cette ligne pour déterminer la nouvelle ligne obtenue.
@@ -231,10 +232,10 @@ La table suivante peut également vous donner des idées d'archétypes de person
 
 Les **Flashbacks** représentent les exploits passés d'un Héro,
 lui conférant une aura légendaire et la capacité de provoquer l'apparition d'événements ou d'alliés inattendus.
-Ils sont assi l'occasion pour les Joueuses de décrire les aventures passées de leurs Héros,
+Ils sont aussi l'occasion pour les Joueuses de décrire les aventures passées de leurs Héros,
 
 Le nombre de Flashbacks dont dispose un Héro est représenté par des cases à cocher sur la feuille de personnage.
-Cochez initiallement 1 case Flashback indiquant que vous en disposez d'un.
+Cochez initialement 1 case Flashback indiquant que vous en disposez d'un.
 
 À tout moment de la partie, en-dehors de la résolution d'une action,
 une Joueuse peut déclencher un Flashback.
@@ -263,7 +264,7 @@ La table suivante peut vous fournir des idées de **Flashbacks**:
 2  | le Héro a par le passé vaincu quelqu'un ou quelque chose, et obtenu en conséquence un titre lui servant de passe-droit
 3  | en reconnaissant le Héro un ennemi change de camp et se rallie à lui : quel événement passé explique cela ?
 4  | le Héro a été affecté par une malédiction, un sortilège ou une expérimentation high-tech qui a mal tourné
-5  | un mouvement de foule est déclenché lorsqu'on reconnait le Héro : colère, terreur, mobilisation, vivas ?
+5  | un mouvement de foule est déclenché lorsqu'on reconnaît le Héro : colère, terreur, mobilisation, vivas ?
 6  | introduisez une créature monstrueuse ou mythique : pourquoi est-elle attirée par le Héro ?
 7  | une puissance divine ou surnaturelle intervient : pourquoi vient-elle en aide au Héro ?
 :::
@@ -303,13 +304,13 @@ La séquence de chaque joueuse ne doit pas dépasser 2 minutes,
 mais les joueuses peuvent prendre tout leur temps pour y réfléchir au préalable,
 afin d'avoir une narration fluide.
 
-La séquence peut très bien se composer de micro-scènes s'enchainant :
+La séquence peut très bien se composer de micro-scènes s’enchaînant :
 un oracle prédit au Héro son destin ; il affronte un puissant seigneur au combat ;
 il est enfermé dans des geôles ; durant son évasion, il découvre une puissante relique.
 
 Vous pouvez vous inspirer des effets de style suivant :
 ::: headless-table
-1  | le Héro rassemble les élements / ingrédients nécessaire à la confection de son arme / artefact / sortilège
+1  | le Héro rassemble les éléments / ingrédients nécessaire à la confection de son arme / artefact / sortilège
 ---|-
 2  | le Héro remporte une compétition célèbre, et sa précieuse récompense
 3  | le Héro dérobe une arme à un puissant ennemi vaincu
@@ -357,7 +358,7 @@ trouver un savant pour les traduire et situer le lieu ; le convaincre de le fair
 :::
 La MJ définit le Pacte qu'il va sceller avec les Héros, c'est-à-dire une mission épique précise.
 Il doit donner lieu à des scènes héroïques, mais gardez en tête qu'il doit être réalisable en une session,
-quitte à accélerer le rythme de l'histoire.
+quitte à accélérer le rythme de l'histoire.
 
 Chaque Pacte doit pouvoir être accomplis en un nombre d'étapes fixé,
 qui correspondra au nombre de jetons de **jalons du Pacte**.
@@ -389,7 +390,7 @@ d6 | Idées de pactes
 
 <img id="pmj" style="float: right" alt="Schismatic Astronomer" src="img/schismatic_astronomer_by_halycon450_day5ec2-fullview.png">
 
-Le Pacte idéal doit, à terme, permettre aux Héros d'accomplir chacuns leurs Objectifs.
+Le Pacte idéal doit, à terme, permettre aux Héros d'accomplir chacun leurs Objectifs.
 Il n'est néanmoins pas toujours simple d'en trouver un qui corresponde parfaitement,
 surtout durant le cours laps de temps entre la création des Héros et cette phase d'exposition du Pacte.
 
@@ -401,7 +402,7 @@ Voici quelques suggestions :
 - un djinn
 - un dieu (de la Mort, de la Ruse, de la Justice...) mettant au défi les Héros, ou manigançant contre un autre dieu
 - un ange déchu ou un démon tentateur
-- un esprit élementaire
+- un esprit élémentaire
 - un fantôme
 :::
 
@@ -440,7 +441,7 @@ La deuxième ligne détermine les **Effets** secondaires de l'action :
   * en cas d'échec de l'action (colonne droite), il s'agit d'un **coup d'éclat** mettant le Héro en valeur.
     Peut-être emploie-t-il une tactique spectaculaire ?
     Peut-être qu'un Atout qu'il a employé lui évite le pire ?
-    Quoi qu'il en soit, même si cela ne lui permet pas encore de réussire son entreprise, il doit être sous les feux de la rampe.
+    Quoi qu'il en soit, même si cela ne lui permet pas encore de réussir son entreprise, il doit être sous les feux de la rampe.
     En pratique, avant la description de la MJ du résultat de l'action, les autres Joueuses émettent leurs propositions,
     et la Joueuse ayant effectué le jet choisit parmi elles.
 - si un dé de valeur 4 ou 5 est placé ici, en cas de succès de l'action entreprise,
@@ -509,7 +510,7 @@ en complétant ce que le précédent vient de décrire.
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
 _Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
-sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 - le diagramme a été réalisé avec [draw.io](https://www.draw.io) - Apache 2.0 open-source license
 - la plupart des illustrations proviennent du projet _King's Court_ de [Ramirez de Souza](https://www.deviantart.com/halycon450) et sont [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) :
