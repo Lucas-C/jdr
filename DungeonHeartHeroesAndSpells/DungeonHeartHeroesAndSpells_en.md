@@ -1,5 +1,5 @@
 <!-- vérifier monopage OK -->
-# Dungeon Hearts <hr> Heroes & Spells
+# Dungeon Hearts <span></span> Heroes & Spells
 
 ![](aggron_stonebreak_the_ogre_magi_by_halycon450.png)
 
