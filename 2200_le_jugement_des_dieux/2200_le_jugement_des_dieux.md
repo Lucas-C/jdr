@@ -31,7 +31,7 @@ Quoi qu'il en soit, vous avez chacun vos propres critères pour juger des action
 de leur karma et de la valeur de leur âme.
 Et selon votre décision elle finira en Enfer ou au Paradis.
 
-![](img/tensei-inktober2017-crumbling-mask.jpg)
+![Masque en décomposition](img/tensei-inktober2017-crumbling-mask.jpg)
 
 Tour à tour, vous allez mettre de côté votre rôle divin pour incarner un Mortel
 dont les actions seront passées au crible par un panel de dieux.
@@ -82,7 +82,7 @@ et quelle ligne de conduite que vous avez en estime.
 
 
 ## Le tribunal
-<img class="big" src="img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg">
+<img class="big" alt="Homme nu portant un masque d'où pend une clef" src="img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg">
 
 Lancez chacun un dé, et départagez les égalités.
 Du résultat le plus petit au plus élevé, répondez chacun à l'une de ces questions en détails :
@@ -169,7 +169,7 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 7. Militant subversif
 8. Prêtre d'un dieu oublié
 
-![](img/the_gulls_cyberpunk_by_dumaker_d1p4yqe-pre.jpg)
+![Femme portant un intriguant masque avec un bec](img/the_gulls_cyberpunk_by_dumaker_d1p4yqe-pre.jpg)
 
 ## Le jugement
 Le joueur à la gauche du Mortel interprète le Passeur quelques instants.
@@ -183,7 +183,7 @@ dès que l'un d'eux estime que le Mortel arrive au terme de son temps de parole,
 il peut renverser le sablier devant lui, puis l'interrompre lorsqu'il sera écoulé.
 
 ### La necrologie
-<img class="float-right" src="img/halloween_series_3_by_dumaker_d1osqbi-pre2.jpg">
+<img class="float-right" alt="Visage effrayant au front scarifié" src="img/halloween_series_3_by_dumaker_d1osqbi-pre2.jpg">
 
 En commençant à gauche du Mortel, chaque dieu résume brièvement un pan de sa vie :
 - sa naissance et son enfance
@@ -230,7 +230,7 @@ sans expliciter les actions du Mortel, et lui laisser les décrire.
 Le Mortel répond au fur et à mesure à chaque accusation divine
 et tente de se défendre de ce pour quoi on l'accuse.
 
-![](img/untitled_by_auto_spiral_dcbmu6s-pre2.jpg)
+![Portrait sans visage](img/untitled_by_auto_spiral_dcbmu6s-pre2.jpg)
 
 **En tant que dieu omniscient, votre objectif** est de châtier les Mortels
 qui sont sortis du droit chemin selon vos valeurs,
@@ -249,7 +249,7 @@ vous êtes au-dessus des mortels et ils doivent s'adresser avec déférence enve
 vous avez vécu votre vie au diapason de leurs valeurs divines,
 même si vous découvrez tout juste ces critères !
 
-![](img/furia_by_dumaker_d1p2gr9-pre.jpg)
+![Harrangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
 
 ### Le conciliabule
 Les dieux décident de leur verdict en considérant les actions du Mortel
@@ -312,7 +312,7 @@ est découpée en phases d'accusation / défense, une par dieu face au Mortel :
 
 Les phases de Conciliabule & Prise à partie se déroulent à l'identique.
 
-<img class="big" src="img/tensei-inktober2017-whitelady.jpg">
+<img class="big" alt="Dame dans un suaire blance à la lune noire" src="img/tensei-inktober2017-whitelady.jpg">
 
 ### Licence et sources
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>

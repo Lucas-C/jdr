@@ -115,7 +115,7 @@ une du doyen du village, une du troll-kappa, 8 de différents items, et enfin un
 :::
 ![](Chinese-symbol-on-red-scroll-remix.svg)
 ![](Bow-and-Arrow.svg)
-<img class="big" src="d7muum4-4766980a-f9e5-4baa-b39d-4abd0cb284fc.jpg">
+<img class="big" alt="L'esprit-dragon" src="d7muum4-4766980a-f9e5-4baa-b39d-4abd0cb284fc.jpg">
 ::: page-break
 :::
 

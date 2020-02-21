@@ -223,7 +223,7 @@ La table suivante peut également vous donner des idées d'archétypes de person
 
 ::: headless-table
 1  | votre Héro s'avance triomphalement devant une armée / à travers une ville, ameutant la foule sur ses pas
----|-
+  -|-
 2  | votre Héro est capable de deviner les points faibles de ses adversaires. \
    | Une fois dans la partie, demandez à la MJ quelles sont les failles d'un ennemi et il vous répondra honnêtement.
 3  | un personnage allié surgit pour vous sauver la mise. Il vous devait bien ça. Pourquoi, et comment se fait-il qu'il soit ici ? \
@@ -287,7 +287,7 @@ La table suivante peut vous fournir des idées de **Flashbacks**:
 ### Noeuds du Destin
 ::: headless-table
 1  | un personnage du passé d'un Héro intervient, lui rappelant une dette ou un engagement.
----|-
+  -|-
 2  | introduisez dans l'histoire un moyen de transport non encore mentionné.
 3  | un personnage retourne sa veste et change de camp : pourquoi ?
 4  | introduisez une malédiction ou un sortilège affectant un lieu; \
@@ -515,7 +515,7 @@ Ensuite, en commençant par ces Héros,
 chaque Joueuse prend alors la parole pour décrire ce qu'il advient de son Héro au cours de cette scène et après,
 en complétant ce que le précédent vient de décrire.
 
-<img id="skull" class="block-centered small-img" src="img/bone-1299051_1280.png">
+<img id="skull" alt="Un crâne portant une couronne" class="block-centered small-img" src="img/bone-1299051_1280.png">
 
 
 ::: page-break
@@ -640,7 +640,7 @@ Comme ils n'arrivaient pas à se décider, nous avons convenu d'établir en 2 mi
 
 ::: float-right
 d6 | Occupation
----|-
+  -|-
 1  | récupérateur de métal ("scrapper")
 2  | capitaine d'armée
 3  | chasseur de machines sauvages
@@ -650,7 +650,7 @@ d6 | Occupation
 :::
 
 d6 | Origine
----|-
+  -|-
 1  | agriculture dans les plaines
 2  | nomade
 3  | "Fripé"

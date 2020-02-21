@@ -15,7 +15,12 @@ body {
   line-height: 1.4;
 }
 h1 { font-family: BreatheFireII; font-size: 5rem; text-transform: uppercase; text-align: center; margin: 2rem; }
-h1 hr { width: 20%; margin: 0 auto; }
+h1 span { /* Note: neither <div> nor <br> are allowed inside <h1> tags, and the later cannot be styled anyway */
+  display: block;
+  width: 20%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
 ul { padding-inline-start: 0; display: flex; flex-flow: column; align-items: start; }
 li { list-style-type: none; text-align: left; }
 li ul { padding-inline-start: 1rem; }

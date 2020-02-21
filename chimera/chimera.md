@@ -58,7 +58,7 @@ https://www.deviantart.com/nicosaba/art/Amarant-537482895
 https://www.deviantart.com/nicosaba/art/Lemurian-seed-536179176
 https://www.deviantart.com/nicosaba/art/Test-451555461
 https://www.deviantart.com/nicosaba/art/19084-392852934
-https://www.deviantart.com/nicosaba/art/--252716701
+https://www.deviantart.com/nicosaba/art/%2D%2D252716701
 https://www.deviantart.com/zapdosify/art/Best-guns-in-the-business-733183585
 https://www.deviantart.com/loomingcolumn/art/Ying-Yang-Mentality-328736932
 https://www.deviantart.com/loomingcolumn/art/Vitality-VELJEBIV-BioMech-316975117
@@ -87,7 +87,7 @@ rand cop from img/behance_platigeimage_cyberpunk_2077_cc-by-nc.jpg
 
 Insp / en fond sonore / visuel : les clips de Howie Lee
 -->
-# ![Logo papillon Chimera](img/Butterfly_Logo.jpg)
+# ![Logo papillon Chimera](img/Butterfly_Logo.jpg) Le vent nous portra
 ::: center-text
 _Dans ce jeu de rôle vous incarnez des animaux cybernétiques à l'intelligence augmentée, créés par l'homme pour accomplir ses basses oeuvres.
 Entrainés par l'armée, surarmés et dotés de camouflages tactiques.
@@ -185,7 +185,6 @@ _Apparence_: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 - lunettes à vision thermique
 
 **Mouvements tactiques:** déplacement furtif - pénétrer dans une pièce en éliminant toute menace - parkour - sniper - tir de barrage
-</dl>
 :::
 
 ::: column-item-1-half cybanimal
@@ -344,7 +343,7 @@ cible éliminée, objectif atteind, menace écartée...
 ::::
 :::: grid-item
 #### Intro
-> Ok, l'enregistrement a démarré. Nous sommes le <date>.
+> Ok, l'enregistrement a démarré. Nous sommes le \<date\>.
 > Ceci est la première opération sur le terrain de l'unité tactique Chimera.
 > Soldat \_\_\_, êtes vous opérationnel ?
 > Êtes-vous prêt à accomplir votre mission, et à obéir scrupuleusement à mes ordres ?
