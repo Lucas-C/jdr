@@ -1,7 +1,7 @@
 <!--
 - travailler un peu plus la mise en page, embellir les FPs
 - "sortir" les listes à choix des règles, pour pouvoir les distribuer + facilement
-- univers « prêt à jouer » avec Thème & Pacte
+- univers « prêt à jouer » avec Thème, Pacte, suggestion d'Atouts & prompts de Flashbacks
   * pour découvrir Dark Souls, mentionner les intro des 3 jeux Dark Souls (surtout la 1ère)
     & http://www.chroniques-ludiques.fr/dark-souls-analyse-et-explication-de-lhistoire-et-de-son-univers/
     & https://www.warlegend.net/dark-souls-on-vous-explique-l-histoire-avant-dark-souls-iii/
@@ -100,7 +100,6 @@ Voici quelques abréviations & conventions employées par la suite :
 - ce jeu imprimé (au moins la table de résolution et les feuilles de personnage) et des crayons
 - une dizaine de dés à 6 faces (_d6_)
 - des pions quelconques qui serviront à représenter les **jalons du Pacte** (autant que de Joueuses **+ 1**)
-- un jeton ou marqueur quelconque, nommé par la suite « jeton Flashback » 
 
 Ce n'est pas nécessaire mais avoir 3 couleurs différentes de dés est idéal :
 3 dés de base pour les jets, plus 3 par Joueuse pour les Atouts,
@@ -365,7 +364,7 @@ Lancez _1d6_ et reportez-vous à la liste suivante, en ignorant les lignes déj�
 :::
 ### Le Pacte
 ::: float-right insert variant
-Dans les exemples fournis, les jalons du Pacte ont toutes la même structure.
+Dans les exemples fournis, les jalons du Pacte ont tous la même structure.
 Il aussi possible de décomposer la quête en phases plus variées.
 Par exemple pour **trouver le trésor de ...** en 4 étapes : trouver des archives qui le mentionnent ;
 trouver un savant pour les traduire et situer le lieu ; le convaincre de le faire ; se rendre sur place.

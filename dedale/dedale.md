@@ -22,6 +22,7 @@ Scénario one-shot narratif:
 # Dédale
 
 <https://www.behance.net/gallery/41177771/Difend-System-failure-Ep>
+<https://www.behance.net/gallery/25545867/Showtime> BY-NC
 
 ![](d2cg1ic-1b39e6fd-9299-4dad-b56e-2778cbc1b765.jpg)
 <https://www.deviantart.com/jimhatama/art/armor-pilot-141836196>

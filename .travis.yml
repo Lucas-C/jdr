@@ -72,7 +72,7 @@ script:
 - |
   for html in *.html */*.html; do
     # We ignore versioned .html files:
-    git ls-files --error-unmatch $html 2>/dev/null && continue
+    git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
     echo Tidying $html;
     tidy -quiet -modify -config htmltidy.conf $html;
   done

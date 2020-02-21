@@ -85,6 +85,8 @@ https://unsplash.com/collections/3436786/china-town-japanese
 
 rand cop from img/behance_platigeimage_cyberpunk_2077_cc-by-nc.jpg
 
+.web-only: https://giphy.com/gifs/loop-glitch-matrix-3oKIPlCroSFHV8uoko
+
 Insp / en fond sonore / visuel : les clips de Howie Lee
 -->
 # ![Logo papillon Chimera](img/Butterfly_Logo.jpg) Le vent nous portra

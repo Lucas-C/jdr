@@ -1,7 +1,9 @@
 <!--Todo:
-* playtest + ajouter remerciement
+* créer des feuilles de récap (tour zombie / tour survivant / pouvoirs survivant...), taille carte à jouer
+* export PDF
+* publi sur blog & itch.io
+* com' multi sites, inc. BGG
 * commentaire sur https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453
-* publi sur tl;pl
 
 Extension ennemis spécifiques (initialement suggestion/variante "ouverte") :
 * scientifiques possédant de quoi se soigner (récupérer un litre de sang)
@@ -24,15 +26,27 @@ La jeune femme sursaute et s'élance de nouveau dans une fuite éperdue… pour 
 ![](cover_ilustration_to_a_comic_zombie_collection_by_danyaellopes_dcftr2d-pre.jpg)
 
 ## Qu'est-ce que c'est que ce truc ?
-_Les Non-Morts_ est un court jeu compétitif faisant la part belle à l'imagination, à mi-chemin entre jeu de société et jeu rôle sans meneur,
-dans une ambiance de film de mort-vivants de série Z.
+_Les Non-Morts_ est un court jeu compétitif faisant la part belle à l'imagination, à mi-chemin entre jeu de société
+et [jeu de rôle](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_sur_table) sans meneur,
+dans une ambiance de film de mort-vivants de [série Z](https://fr.wikipedia.org/wiki/S%C3%A9rie_Z).
 
-Au cours de la partie, les joueurs vont dessiner collectivement le plan d'un lieu,
+Les joueurs incarnent en quelque sorte les réalisateurs / scénaristes d'un tel film,
+qui se sont succédez à la production, avec des idées assez opposées !
+
+Au cours de la partie, ils vont dessiner collectivement le plan d'un lieu,
 et décrire les actions d'une poignée de survivants tentant de survivre à une marée de zombies.
 
-Pour y jouer, vous aurez besoin de plusieurs dés traditionnels à six faces (des "d6"),
-de 5 pions de couleurs différentes, de plusieurs dizaines de jetons quelconques pour représenter les mort-vivants,
-de feuilles de papiers, de crayons dont un rouge, de 2 à 5 amis et de quelques heures devant vous.
+### De quoi j'ai besoin pour y jouer ?
+
+- plusieurs dés traditionnels à six faces (des "d6")
+- 5 pions de couleurs différentes
+- plusieurs dizaines de jetons quelconques pour représenter les mort-vivants,
+- de crayons et de plusieurs feuilles de papiers
+- de 2 à 5 amis et de quelques heures devant vous
+
+Plutôt que d'accoler des feuilles A4 pour représenter le plan des lieux,
+un grand tableau blanc avec marqueurs effaçables peut avantageusement être employé,
+si vous en disposez d'un.
 
 ## But du jeu
 Tantôt scénariste tantôt réalisateur, chacun des joueurs va devoir user de stratégie, de diplomatie et de bluff pour parvenir à
@@ -46,7 +60,7 @@ et ces ratés ne veulent pas de votre théorie !
 ![](TCP_Zombie_6.jpg)
 
 ## Début du jeu
-Les joueurs se mettent d’accord sur un lieu : manoir, supermarché, bateau, bibliothèque…
+Les joueurs se mettent d’accord sur un lieu : manoir, supermarché, bateau, bibliothèque, métro…
 
 Chaque joueur commence avec **5 jetons** et **une carte théorie** piochée au hasard.
 À quatre ou six joueurs, n’utilisez que deux ou trois théories en double exemplaire de façons à former des équipes.
@@ -184,6 +198,9 @@ hôtel de ville, caserne de pompiers, cinéma, parc...
 ### Licence et sources
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+Merci beaucoup à mes _playtesteurs_ :
+Aurélien, Gaëtan, Kevin, Nicolas, Nicolas, Claudia, Estelle, Henri & Loïc.
 
 Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>
 
