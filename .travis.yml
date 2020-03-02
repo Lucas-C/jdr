@@ -86,6 +86,8 @@ script:
 before_deploy: rm -rf node_modules/
 deploy:
   - provider: pages
+    skip_cleanup: true  # remain needed for now
+    cleanup: false      # for dpl v2
     token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure, borrowed from Nonogram
     on:
       branch: master
