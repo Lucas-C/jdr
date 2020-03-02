@@ -39,8 +39,7 @@ et [jeu de rôle](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_sur_table) sans
 dans une ambiance de film de mort-vivants de [série Z](https://fr.wikipedia.org/wiki/S%C3%A9rie_Z) :
 un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.
 
-Les joueurs incarnent en quelque sorte les réalisateurs / scénaristes d'un tel film,
-qui se sont succédés à la production, chaotique.
+Les joueurs incarnent les réalisateurs / scénaristes d'un tel film, qui se sont succédés à la production, chaotique.
 Au cours de la partie, ils vont dessiner collectivement le plan d'un lieu,
 et décrire les actions d'une poignée de survivants de la catastrophe en cours,
 tentant de survivre à une marée de mort-vivants !
