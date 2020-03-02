@@ -99,7 +99,7 @@ Voici quelques abréviations & conventions employées par la suite :
 - une MJ + 2 à 4 autre Joueuses, et entre 2h et 4h devant vous
 - ce jeu imprimé (au moins la table de résolution et les feuilles de personnage) et des crayons
 - une dizaine de dés à 6 faces (_d6_)
-- des pions quelconques qui serviront à représenter les **jalons du Pacte** (autant que de Joueuses **+ 1**)
+- une dizaine de pions quelconques qui serviront à représenter les **jalons du Pacte**
 
 Ce n'est pas nécessaire mais avoir 3 couleurs différentes de dés est idéal :
 3 dés de base pour les jets, plus 3 par Joueuse pour les Atouts,
@@ -375,6 +375,7 @@ quitte à accélérer le rythme de l'histoire.
 
 Chaque Pacte doit pouvoir être accomplis en un nombre d'étapes fixé,
 qui correspondra au nombre de jetons de **jalons du Pacte**.
+La MJ choisit leur nombre, selon la durée qu'elle souhaite donner à la partie.Pour une première partie, prennez-en **7 moins le nombre de Héros**.
 
 Vous pouvez, au choix, lancer _1d6_ dans l'une des tables suivantes,
 ou bien simplement vous en inspirer :

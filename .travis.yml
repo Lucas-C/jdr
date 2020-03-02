@@ -52,9 +52,14 @@ script:
 - cd latour
 - node ../md2html.js latour.md > index.html
 - cd -
-- cd LesNonMorts
-- node ../md2html.js LesNonMorts.md > index.html
-- cd -
+- |
+  cd LesNonMorts
+  node ../md2html.js --title='Les Non-morts' LesNonMorts.md > index.html
+  if [[ $TRAVIS_TAG =~ ^LesNonMorts- ]]; then
+    sed -i "s/{{version}}/${TRAVIS_TAG/LesNonMorts-/}/" index.html;
+    puppeteer print index.html ../$TRAVIS_TAG.pdf;
+  fi
+  cd -
 - cd OriMushi
 - node ../md2html.js OriMushi.md > index.html
 - if [[ $TRAVIS_TAG =~ ^ori-mushi- ]]; then sed -i "s/{{version}}/${TRAVIS_TAG/ori-mushi-/}/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
@@ -95,6 +100,10 @@ deploy:
       tags: true
     file_glob: true
     file: $TRAVIS_TAG*.pdf
+  - provider: script
+    script: ./publish-on-itch.io.sh
+    on:
+      tags: true
 notifications:
   email:
     on_success: never
