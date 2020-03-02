@@ -9,7 +9,7 @@ unzip butler.zip
 chmod +x butler
 ./butler -V
 
-# Publish a folder that that is *exactly* the release build:
+# Publish a folder that IS *exactly* the release build:
 mkdir -p itchio && rm -f itchio/*.*
 ls -l $TRAVIS_TAG.pdf || true
 ls -l $TRAVIS_TAG*.pdf || true
