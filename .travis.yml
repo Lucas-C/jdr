@@ -15,9 +15,7 @@ install:
   rm tidy-5.4.0-64bit.deb
 - |
   npm install -g puppeteer-cli
-  npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
-  markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows
-  #git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
+  npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 script:
 - node md2html.js index.md > index.html
