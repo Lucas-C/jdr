@@ -92,6 +92,12 @@ deploy:
     on:
       branch: master
     target_branch: gh-pages
+  - provider: script
+    skip_cleanup: true  # remain needed for now
+    cleanup: false      # for dpl v2
+    script: ./publish-on-itch.io.sh
+    on:
+      tags: true
   - provider: releases
     skip_cleanup: true  # remain needed for now
     cleanup: false      # for dpl v2
@@ -101,12 +107,6 @@ deploy:
       tags: true
     file_glob: true
     file: $TRAVIS_TAG*.pdf
-  - provider: script
-    skip_cleanup: true  # remain needed for now
-    cleanup: false      # for dpl v2
-    script: ./publish-on-itch.io.sh
-    on:
-      tags: true
 notifications:
   email:
     on_success: never
