@@ -1,6 +1,7 @@
 #!/bin/bash
 set -o pipefail -o errexit -o nounset -o xtrace
 cd $(dirname ${BASH_SOURCE[0]})
+ls -l
 
 # Intalling butler - cf. https://itch.io/docs/butler/installing.html
 curl -L -o butler.zip https://broth.itch.ovh/butler/linux-amd64/LATEST/archive/default
