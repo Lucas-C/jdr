@@ -9,10 +9,13 @@ addons:
       - texlive-extra-utils
 install:
 # Installing a recent version of tidy HTML linter:
-- wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
-- sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb
-- npm install -g puppeteer-cli
-- npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
+- |
+  wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
+  sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb
+  rm tidy-5.4.0-64bit.deb
+- |
+  npm install -g puppeteer-cli
+  npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents
   markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows
   git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
 - wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
