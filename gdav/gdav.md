@@ -663,7 +663,7 @@ Les joueurs étaient plutôt amusés des résultats obtenus, sans pour autant se
 -->
 
 ::: version
-{{version}}
+v1.2
 :::
 
 <style>

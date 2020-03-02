@@ -334,7 +334,7 @@ et celle-ci dessous est de [Austin criterion](https://en.wikipedia.org/wiki/File
 :::
 
 ::: version
-{{version}}
+v1.0
 :::
 
 <link rel="stylesheet" type="text/css" href="LesNonMorts.css">
