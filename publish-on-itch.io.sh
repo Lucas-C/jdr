@@ -20,5 +20,5 @@ chmod +x butler
 
 # Publish a folder that IS *exactly* the release build:
 mkdir -p itchio && rm -f itchio/*.*
-mv $TRAVIS_TAG*.pdf itchio/
+cp $TRAVIS_TAG*.pdf itchio/
 ./butler push itchio Lucas-C/$gameIdOnItchIo:pdf --userversion $version
