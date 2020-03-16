@@ -1,9 +1,3 @@
-<!-- Next:
-* tout plastifier illustrations
-* article de blog
-* notifier artistes : tysontan, hidanbasher, beevirus, weremagnus, flaming-anubis, DaudioMultimedia, NNao, Fernand0FC
--->
-
 # Ori Mushi
 
 :::: rules
@@ -12,7 +6,9 @@
 Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener en 30min" par Kalwrynn](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html).
 
 ::: web-only
-Version PDF: [v0.1 (11,3 Mo)](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.1/ori-mushi-v0.1.pdf)
+- Version PDF: [v0.1 (11,3 Mo)](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.1/ori-mushi-v0.1.pdf)
+
+- Article de blog présentant le contexte : [Faire découvrir le JdR](https://chezsoi.org/lucas/blog/faire-decouvrir-le-jdr-et-fete-du-jeu.html)
 :::
 
 **Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, Naruto...
@@ -217,10 +213,6 @@ Chouettes illus non-CC :
 @font-face {
   font-family: Odachi;
   src: url('fonts/Odachi.otf');
-}
-@font-face {
-  font-family: XangdaShiny;
-  src: url('fonts/XangdaShiny-l4AX.ttf');
 }
 
 body {
