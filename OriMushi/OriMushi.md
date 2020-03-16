@@ -7,7 +7,7 @@
 # Ori Mushi
 
 :::: rules
-<img class="cover" alt="A group of happy adventurers" src="d91dqk7-4c7695a1-5dcc-4415-b5b5-5c2422468efb.png">
+<img class="cover" alt="A group of happy adventurers" src="Journey-to-the-West-TysonTan.png">
 
 Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener en 30min" par Kalwrynn](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html).
 
