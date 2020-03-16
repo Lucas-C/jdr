@@ -1,5 +1,5 @@
 <!--Todo:
-* com' multi sites, inc. BGG
+* com' multi sites, inc. BGG & Katorza
 * une illustration / icône par survivant ? (Brute : ♀️)
 * commentaire sur https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453
 
@@ -34,7 +34,7 @@ La jeune femme sursaute et s'élance de nouveau dans une fuite éperdue… pour 
 
 
 ## Qu'est-ce que c'est que ce truc ?
-_Les Non-morts_ est un court jeu compétitif faisant la part belle à l'imagination, à mi-chemin entre jeu de société
+_Les Non-morts_ est un court jeu compétitif à mi-chemin entre jeu de société
 et [jeu de rôle](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_sur_table) sans meneur,
 dans une ambiance de film de mort-vivants de [série Z](https://fr.wikipedia.org/wiki/S%C3%A9rie_Z) :
 un navet incohérent, bourré de faux raccords et de mauvais effets spéciaux.

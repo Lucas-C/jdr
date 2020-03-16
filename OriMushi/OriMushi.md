@@ -40,10 +40,10 @@ apothicaire, conteur, Ronin (samouraï sans maître), marchant, Mushishi (dompte
 ## Système de jets de dés
 1d6 +1 par Trait / Item applicable.
 Selon le meilleure résultat obtenu :
-  * ~~⚀~~ : réussite épique / parfaite, **la joueuse décrit la scène**
-  * ~~⚁~~ : oui mais...
-  * ~~⚂~~ : non mais...
-  * ~~⚃~~ / ~~⚄~~ / ~~⚅~~ : c'est raté !
+  * ~~⚅~~ : réussite épique / parfaite, **la joueuse décrit la scène**
+  * ~~⚄~~ : oui mais...
+  * ~~⚃~~ : non mais...
+  * ~~⚂~~ / ~~⚁~~ / ~~⚀~~ : c'est raté !
 
 <img class="footer-illus" alt="A Noh demon" src="dnm64g-4d906609-66bf-46f2-b761-b964d5ca4500.jpg">
 
@@ -280,9 +280,9 @@ s { /* dices */
   vertical-align: bottom;
 }
 .float-left {
-    float: left;
-    max-width: 50%;
-    margin-right: 1rem;
+  float: left;
+  max-width: 50%;
+  margin-right: 1rem;
 }
 .version {
   position: fixed;
