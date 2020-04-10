@@ -9,17 +9,21 @@
   * illus:
     + Ingward: https://zsharpgetsdull.tumblr.com/post/130456124287/inktober-4-ingward-of-dark-souls-holding-the
     + Patches: https://www.zerochan.net/Patches+%28Dark+Souls%29
-- relancer com' sur forums :
-  * [x] https://www.500nuancesdegeek.fr
-  * [x] http://www.taverneproduction.com/forum/
-  * [x] https://www.casusno.fr
-  * [ ] http://www.subasylum.com/Antoniobay/viewforum.php?f=3
+- com' sur forums :
+  * [x] http://www.500nuancesdegeek.fr/forum/viewtopic.php?f=15&t=1318&p=8746
+  * [x] http://www.taverneproduction.com/forum/viewtopic.php?f=396&t=4374&p=111172
+  * [x] https://www.casusno.fr/viewtopic.php?f=26&t=33804&p=1908602
+  * [x] https://www.trictrac.net/forum/sujet/ameres-victoires-glorieuses-defaites
+  Analytics: https://itch.io/game/summary/572901
 - faire un playtest avec ambiance cyberpunk ?
 - envisager publi & print-on-demand sur lulu, DriveThruRPG...
 - English version -> post on RPGDesign, http://story-games.com
 
 Autres illus ambiance Dark Souls:
-- https://www.deviantart.com/halycon450/art/Cursebound-Knight-796429742?src=MC_deviation_stack
+- https://www.deviantart.com/hunternif/art/Defeated-808351770
+- https://www.deviantart.com/fernand0fc/art/The-Accursed-829405421
+- https://www.deviantart.com/halycon450/art/The-Queen-of-Smiles-807855082
+- https://www.deviantart.com/halycon450/art/Cursebound-Knight-796429742
 - [Artem Demura](https://www.artstation.com/stargrave)
 - 5 badges à utiliser si besoin: https://www.deviantart.com/halycon450/gallery/61391348/The-King-s-Court
 

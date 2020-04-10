@@ -6,7 +6,11 @@
 This is an expansion for the short, excellent & free, pen & paper roleplaying game [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart)
 (for version 1.6).
 
+::: web-only
+PDF version: [v1.6-en.pdf (1Mo)](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-en.pdf)
+
 For more information, I invite you to read [this article on my blog](https://chezsoi.org/lucas/blog/dungeon-heart.html).
+:::
 
 On top of some d6 (6-sided dice), you will need 1d12 (a 12-sided die).
 

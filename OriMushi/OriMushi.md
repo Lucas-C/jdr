@@ -1,3 +1,8 @@
+<!--
+https://www.deviantart.com/hunternif/art/Snake-807870839?src=MC_deviation_stack CC BY-NC-SA
+https://www.deviantart.com/justsantiago/art/Fanart-74-Princess-Mononoke-717286034 CC BY-NC-SA
+-->
+
 # Ori Mushi
 
 :::: rules
@@ -11,7 +16,7 @@ Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener e
 - Article de blog présentant le contexte : [Faire découvrir le JdR](https://chezsoi.org/lucas/blog/faire-decouvrir-le-jdr-et-fete-du-jeu.html)
 :::
 
-**Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, Naruto...
+**Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, princesse Mononoke, Naruto...
 
 ## Matériel
 S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,

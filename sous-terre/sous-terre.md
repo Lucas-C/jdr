@@ -1,5 +1,11 @@
 <!--
+Illus ?
+- https://www.deviantart.com/fernand0fc/art/Plague-doctor-832945533?src=MC_deviation_stack
+- https://www.deviantart.com/fernand0fc/art/Adventurer-833681422?src=MC_deviation_stack
+
 Inviter Nico Laurenti à playtest
+
+Principe de la "table ouverte" ? -> https://ptgptb.fr/jouez-en-table-ouverte
 
 # RAF: définir MVP prochaine partie
 - fiche de PJ imprimable (talents imposés ?)

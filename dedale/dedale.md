@@ -24,6 +24,10 @@ Scénario one-shot narratif:
 <https://www.behance.net/gallery/41177771/Difend-System-failure-Ep>
 <https://www.behance.net/gallery/25545867/Showtime> BY-NC
 
+<https://www.deviantart.com/justsantiago/art/Fanart-60-Re-I-Ergo-Proxy-672080292> - BY-NC-SA
+
+![Halycon450 Fame](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/736d9401-ae2e-4f9e-91e2-b75d3ac885ad/d9x11o9-7ce19230-7eb2-47b4-ac42-2ad0f9b22e48.jpg/v1/fill/w_1024,h_2015,q_75,strp/fame_by_halycon450_d9x11o9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAxNSIsInBhdGgiOiJcL2ZcLzczNmQ5NDAxLWFlMmUtNGY5ZS05MWUyLWI3NWQzYWM4ODVhZFwvZDl4MTFvOS03Y2UxOTIzMC03ZWIyLTQ3YjQtYWM0Mi0yYWQwZjliMjJlNDguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.KgR2Z-mjxbWUZ8eSUdpHA3-sI6ix2NnQ-asphc5qL88) BY-NC-SA
+
 ![](d2cg1ic-1b39e6fd-9299-4dad-b56e-2778cbc1b765.jpg)
 <https://www.deviantart.com/jimhatama/art/armor-pilot-141836196>
 ![](d2o54wj-a8425d09-39b3-4021-ad4c-dab19800f773.jpg)

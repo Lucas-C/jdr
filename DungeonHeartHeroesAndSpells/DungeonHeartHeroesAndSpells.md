@@ -1,10 +1,20 @@
+<!--
+https://www.deviantart.com/halycon450/art/The-Third-Lamb-807998807 CC BY-NC-SA
+
+Scénariothèque : http://www.scenariotheque.org/Document/info_doc.php?id_doc=9902
+-->
+
 # Dungeon Hearts <span></span> Heroes & Spells
 
 ![](aggron_stonebreak_the_ogre_magi_by_halycon450.png)
 
 Ceci est une extension pour la version 1.6 du jeu de rôle monopage [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart).
 
+::: web-only
+Version PDF : [v1.6-fr.pdf (1Mo)](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf)
+
 Pour plus de contexte je vous invite à lire [cet article de mon blog](https://chezsoi.org/lucas/blog/dungeon-heart-heroes-and-spells.html).
+:::
 
 En plus de quelques d6 (dé à 6 faces), cette extension requiert 1d12 (un dé à douze faces).
 

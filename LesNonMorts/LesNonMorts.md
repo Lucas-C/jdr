@@ -1,7 +1,11 @@
 <!--Todo:
-* com' multi sites, inc. BGG & Katorza
+- com' sur forums :
+  * [x] http://www.500nuancesdegeek.fr/forum/viewtopic.php?f=15&t=1608
+  * [x] http://www.taverneproduction.com/forum/viewtopic.php?f=396&t=4757
+  * [x] https://www.casusno.fr/viewtopic.php?f=26&t=37183
+  * [x] https://www.trictrac.net/forum/sujet/les-non-morts & https://www.trictrac.net/forum/sujet/jeu-de-roles-univers-zombies#post-41e1385febb2ddf649066afd895451fc19af
+  Analytics: https://itch.io/game/summary/580276
 * une illustration / icône par survivant ? (Brute : ♀️)
-* commentaire sur https://www.deviantart.com/danyaellopes/art/Cover-Ilustration-to-a-Comic-zombie-collection-752176453
 
 Extension ennemis spécifiques (initialement suggestion/variante "ouverte") :
 * scientifiques possédant de quoi se soigner (récupérer un litre de sang)

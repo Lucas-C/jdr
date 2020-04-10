@@ -49,4 +49,5 @@ input[type="checkbox"] + label:before {
   h1 { font-size: 3rem; }
   h1 + p > img { height: 17rem; }
   p:nth-child(8) > img { max-height: 18rem; }
+  .web-only { display: none; }
 }

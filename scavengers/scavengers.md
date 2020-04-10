@@ -1,6 +1,8 @@
 <!--
 https://www.deviantart.com/fernand0fc/art/A-laser-rifle-730311561
 
+Scénariothèque : http://www.scenariotheque.org/Document/info_doc.php?id_doc=9919
+
 Icônes:
   * https://game-icons.net/delapouite/originals/solar-system.html
   * https://game-icons.net/delapouite/originals/astronaut-helmet.html
@@ -14,6 +16,12 @@ Icônes:
   <img alt="Un équipage de vaisseau spatial de 4 membres, dont un singe, discute autour d'une table ronde projetant un holocube" src="img/mitchell-malloy-ep2e0-core-charactertypes-mitchmalloy-final-lo.jpg">
   <figcaption><a href="https://mitchmalloy.artstation.com/projects/rKbBO">Eclipse Phase - Unwinding</a> de Mitchell Malloy - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
+
+::: web-only
+[Article de blog de présentation](https://chezsoi.org/lucas/blog/scavengers-anomalies-nauchoresques.html)
+
+Version PDF: [adj-scavengers-1.2.2.pdf (1,6 Mo)](https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf)
+:::
 
 ## PISTES DE SCENARIOS & REGLES OPTIONNELLES
 
@@ -30,7 +38,7 @@ comme [Mothership](http://www.tuesdayknightgames.com/mothership/) de Sean McCoy 
 Cette aide de jeu contient:
 - de quoi [décrire votre vaisseau](#dessine-moi-un-vaisseau), avec en particulier une [table d'anomalies](#anomalies-nauchoresques),
 afin de donner une âme au plus fidèle compagnon de route des Scavengers
-- des [_playbooks_ & TOCs](#playbooks-et-tocs) pour vos personnages
+- des [_playbooks_ & Trouble Obsessionnel Compulsifs](#playbooks-et-tocs) pour vos personnages
 - une règle optionnelle, le [compas d'humeurs](#compas-d-humeurs), pour varier vos interprétations
 - des [cachotteries](#cachotteries) de mission, incluant des [contrats bonus](#contrats-bonus)
 - et enfin des [imprévus de voyages](#imprevus-de-voyage) listant des rebondissements aléatoires,
@@ -791,6 +799,7 @@ tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
     margin-left: 1rem;
 }
 .floats-clear { clear: both; }
+.web-only { text-align: center; }
 
 #playbooks-et-tocs figure { max-width: 20rem; float: left; margin: 1rem; }
 
@@ -804,6 +813,7 @@ tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
     h1 { margin: 8rem 0; }
     body { font-size: 1rem; }
     s { font-size: 1.8rem; }
+    .web-only { display: none; }
     #anomalies-nauchoresques img { max-height: 16rem; } /* To start table on next page */
     #say-cheese img { display: none; } /* Tmp hack to fit on 15 pages: remove this if content change */
 }
