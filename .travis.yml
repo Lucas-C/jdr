@@ -68,6 +68,9 @@ script:
 - cd plus-de-place-en-enfer
 - node ../md2html.js plus-de-place-en-enfer.md > index.html
 - cd -
+- cd RunDieRepeat
+- node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html
+- cd -
 - cd sous-terre
 - node ../md2html.js sous-terre.md > index.html
 - cd -

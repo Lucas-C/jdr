@@ -20,6 +20,12 @@ Un jeu de rôle sans meneur pour 3 ou 4 joueurs, sans préparation nécessaire.
 Il comporte très peu de jets mais nécessite deux dés à 8 faces, quelques pions quelconques,
 et optionnellement un sablier.
 
+::: web-only
+- [Version PDF (1,1 Mo)](https://chezsoi.org/lucas/blog/images/jdr/2200_le_jugement_des_dieux.pdf)
+
+- Article de blog présentant le jeu : <https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html>
+:::
+
 :::: bicolumned
 
 ## Synopsis
@@ -390,4 +396,7 @@ img.big {
 }
 .float-left {float: left;}
 .float-right {float: right;}
+@media print {
+  .web-only { display: none; }
+}
 </style>
