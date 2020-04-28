@@ -167,7 +167,7 @@ au fond duquel on débouche à 100m **au-dessus** du labyrinthe.
 Essayez de perdre les joueurs en leur proposant à chaque fois un choix "droite / gauche" à mémoriser laborieusement (avec toujours la possibilité de revenir en arrière à une intersection).
 Après une ou deux tentatives infructueuses contre le minotaure, **révélez aux joueurs le score minimum nécessaire**.
 ### Rejouer le scénario
-Le Minotaure nécessite 9 pour être vaincu, et pourchasse les joueurs dès leur arrivée dans le labyrinthe,
+Le Minotaure nécessite **9** pour être vaincu, et pourchasse les joueurs dès leur arrivée dans le labyrinthe,
 les mettant sous pression en ne leur accordant aucun répit dans leur fuite !
 :::
 
@@ -236,8 +236,14 @@ golem consituté de nanorobots...
 - le harnais du joueur lui indique qu'il a localisé le point faible du vaisseau :
 une salle contenant l'ordinateur central. Il faut pour y accédder s'aventurer dans un dédale de coursives plein de guerriers aliens...
 ### Conseils au MJ
-Limitez le nombre d'obstacles si les joueurs obtiennent plusieurs ~~⚀~~.
+Limitez le nombre d'obstacles si les joueurs obtiennent trop de ~~⚀~~.
+Selon la vitesse à laquelle les joueurs atteignent le vaisseau alien, révélez plus ou moins facilement / vite
+son point faible critique qui fera tout exploser.
+Octroyez des bonus aux joueurs qui tentent des construire ou trouver des inventions dans le labo,
+ainsi qu'à ceux qui emploient la capacité à revenir dans le passé du harnais de manière ingénieuse.
 ### Rejouer le scénario
+Cette fois, il faut également éliminer la reine alien leur permettant à eux de remonter dans le temps.
+Une fois découverte, elle tentera aux itérations suivantes de fuir en petot vaisseau pour se cacher sur la surface de la planète.
 :::
 
 ::: scenario
