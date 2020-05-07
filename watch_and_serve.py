@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# USAGE: ./watch_and_serve.py [--pdf]
+import sys
 from glob import glob
 from os import listdir
 from os.path import basename, dirname, isdir, splitext
@@ -6,7 +8,9 @@ from unittest.mock import patch
 
 from livereload.server import Server, StaticFileHandler, shell
 
+
 SCRIPT_DIR = dirname(__file__)
+
 
 class CustomStaticFileHandler(StaticFileHandler):
     'Adds UTF charset to COntent-Type header for HTML files'
@@ -14,6 +18,14 @@ class CustomStaticFileHandler(StaticFileHandler):
         if splitext(self.absolute_path)[1] == '.html':
             return 'text/html; charset=utf-8'
         return super().get_content_type()
+
+
+def chain(cmd1_func, cmd2_str):
+    def run_shell():
+        cmd1_func()
+        return shell(cmd2_str)()
+    return run_shell
+
 
 server = Server()
 for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
@@ -23,9 +35,14 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         base_md_filename, cwd = basename(md_filename), dirname(md_filename)
         if base_md_filename in ('index.md', 'LICENSE.md', 'README.md'):
             continue
-        output = folder + '/index.html' if base_md_filename.replace('.md', '') == folder else md_filename.replace('.md', '.html')
-        cmd = shell('md2html ' + base_md_filename, cwd=cwd, output=output)
-        print('Watching', md_filename, '->', output)
+        output_html_filepath = folder + '/index.html' if base_md_filename.replace('.md', '') == folder else md_filename.replace('.md', '.html')
+        cmd = shell('md2html ' + base_md_filename, cwd=cwd, output=output_html_filepath)
+        print('Watching', md_filename, '->', output_html_filepath, end='')
+        if '--pdf' in sys.argv:
+            output_pdf_filepath = md_filename.replace('.md', '.pdf')
+            cmd = chain(cmd, f'puppeteer print {output_html_filepath} {output_pdf_filepath}')
+            print('->', output_pdf_filepath, end='')
+        print()
         server.watch(md_filename, cmd)
         md2html_cmds.append(cmd)
     for html_filename in glob(folder + '/*.html'):

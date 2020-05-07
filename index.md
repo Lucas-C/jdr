@@ -7,6 +7,7 @@ Mes créations de jeux de rôle hebergées ici:
 - [Ori Mushi](OriMushi)
 - [Les Non-morts](LesNonMorts)
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(EN version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
+- [10 scénarios pour _Run. Die. Repeat._](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
 <!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
