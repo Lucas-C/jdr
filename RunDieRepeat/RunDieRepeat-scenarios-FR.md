@@ -1,6 +1,16 @@
 <!--
+Publié / com' sur :
+- [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+- [x] https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat
+- [ ] http://troplongpaslu.fr
+- [ ] http://www.scenariotheque.org : 4510 mots
+
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
+
++ article blog
++ remercier illustrateurs
++ com' sur https://www.trictrac.net/forum/question-sur-les-jeux-en-telechargement & https://www.trictrac.net/forum/discutons-jeux-de-role & http://forums.ffjdr.org https://www.500nuancesdegeek.fr  http://www.taverneproduction.com/forum/ https://www.casusno.fr & http://heritiers-dumnacus.forumactif.org
 
 * scénario à ressources limitées (exemple : 1 balle restante + 1 grenade éblouissante + 1 gadget ouvreur de porte)
 avec lesquelles les premiers obstacles peuvent être facilement franchis,
@@ -27,9 +37,24 @@ HENRI:
 > Petite idée de scénario, trouvé sous la douche, en mode médiéval fantastique.
 > On joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
-Labyrinthe 2:
+Donjon:
 - pièges : marteau-balancier géant, escalier-glissière, dards empoisonnés, flammes
 - monstres : gobelins, squelettes, basilic...
+
+Frostpunk: https://www.youtube.com/watch?v=ss2Eu4HhfB4&list=PLWmL9Ldoef0tlXdmRg9FEdQVmt-kmrKp7
+-> trouver artwork libre de droit
+Liste d'une dizaine d'événements / dilemnes majeurs pour la communauté
+=> MJ en choisit un par an, au fur et à mesure des actions des joueuses
+* manque d'abris
+* manque de nourriture
+* perte d'espoir suite à découverte des ruines de la terre promise
+* panne du générateur
+* épidémie
+* rebellion à cause de ...
+* terrible tempête
+* découverte par les explorateurs d'une stèle avec une inscription runique
+* des vols de nourriture ont lieu dans les réserves
+* des morts reviennent à la vie
 -->
 
 # Scénarios pour Run. Die. Repeat.
@@ -40,8 +65,14 @@ Labyrinthe 2:
 Lucas Cimon - [chezsoi.org](https://chezsoi.org)
 :::
 
+::: web-only
+Version PDF: [v1.0 (2,6 Mo)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-scenarios-FR-v1.0.pdf)
+:::
+
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-créé par **Labrys Games**.
+créé par **Labrys Games**, inspirés, en vrac, des écrits de Lovecraft, du mythe du Minotaure,
+des séries l'Attaque des Titans et Prison Break, des films Edge of Tomorrow et Independence Day,
+et des jeux vidéos Hitman, Metal Gear Solid, Prototype, Splinter Cell ou encore Shadow of the Colossus.
 
 Il s'agit d'un jeu narratif monopage pour une MJ et quelques joueuses, en temps limité (20 à 30 min),
 où l'on incarne à tour de rôle le même personnage, en essayant chaque fois de progresser plus loin dans l'histoire,
@@ -74,6 +105,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Toronto Dominion Centre Vertical by thelearningcurve-da](https://www.deviantart.com/thelearningcurve-da/art/Toronto-Dominion-Centre-Vertical-780412378) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 - [HITMAN - Absolution by EvanDeCiren](https://www.deviantart.com/evandeciren/art/HITMAN-Absolution-324477366) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
 - [Antü Plasma Suite by Fabián Alexis](https://commons.wikimedia.org/wiki/File:Antu_org.kde.plasma.timer.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/fr/)
+- [banner header time clock expansion physics](https://pixabay.com/illustrations/banner-header-time-clock-expansion-1220390/) de Pixabay
 
 La carte du labyrinthe a été réalisée avec [Tabletop RPG Map editor II de Sébastien Bénard v15.4](https://deepnight.itch.io/tabletop-rpg-map-editor)
 ([fichier JSON source](https://github.com/Lucas-C/jdr/blob/master/RunDieRepeat/Labyrinthe.json))
@@ -82,9 +114,9 @@ Merci enfin aux développeurs des logiciels libres que j'ai employé :
 Firefox, Gimp, Inkscape, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/RunDieRepeat).
 
-Ces scénarios sont publiés sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+Ces scénarios sont publiés sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 ---
 
@@ -535,7 +567,7 @@ Ajustez la difficulté du boss final en fonction du temps restant et du nombre d
 :::
 
 ::: footer
-<span class="picto">🏃 ☠️ ♻</span> v1.0
+<span class="picto">🏃 ☠️ ♻</span> v1.1
 :::
 
 <script>
@@ -581,6 +613,7 @@ li::marker { font-weight: bold; }
   padding: 1rem 16rem;
   margin-bottom: 5rem; 
 }
+.license { float: left; padding-right: 1rem; }
 #sc-narios-pour-run-die-repeat- > ul { column-count: 2; }
 .page {
   page-break-before: always;
@@ -606,7 +639,7 @@ s { /* dices */
     margin: 2rem 4rem;
   }
   body { font-size: 1.2rem; }
-  hr { display: none; }
+  hr, .web-only { display: none; }
   .author { padding: 1rem 10rem; }
   .page { font-size: 1rem; margin: 0 auto; }
   .page p { margin-top: .3rem; margin-bottom: .5rem; }
