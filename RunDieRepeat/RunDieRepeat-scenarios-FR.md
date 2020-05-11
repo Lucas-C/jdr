@@ -2,14 +2,13 @@
 ./extract_pdf_pages.sh RunDieRepeat-scenarios-FR.pdf 1 13 RunDieRepeat-scenarios-FR-v1.1.pdf
 
 Publié / com' sur :
-- [x] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html )
+- [x] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html + mention sur Discord )
 - [x] https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat (source de la bannière : https://pixabay.com/illustrations/banner-header-time-clock-expansion-1220390/ )
-- [x] http://troplongpaslu.fr : http://troplongpaslu.fr/jeux-de-role-court/10-scenarios-pour-run-die-repeat/
-- [ ] http://www.scenariotheque.org : 4510 mots
+- [x] http://troplongpaslu.fr/jeux-de-role-court/10-scenarios-pour-run-die-repeat/
+- [x] http://www.scenariotheque.org
+- [x] https://www.trictrac.net/forum/sujet/10-scenarios-pour-run-die-repeat
 
-+ & mention Discord
-+ remercier illustrateurs
-+ com' sur https://www.trictrac.net/forum/question-sur-les-jeux-en-telechargement & https://www.trictrac.net/forum/discutons-jeux-de-role & http://forums.ffjdr.org https://www.500nuancesdegeek.fr  http://www.taverneproduction.com/forum/ https://www.casusno.fr & http://heritiers-dumnacus.forumactif.org
++ com' sur https://www.trictrac.net/forum/discutons-jeux-de-role & http://forums.ffjdr.org https://www.500nuancesdegeek.fr  http://www.taverneproduction.com/forum/ https://www.casusno.fr & http://heritiers-dumnacus.forumactif.org
 
 [v1.1]:
 - quelques détails un peu clarifiés dans le scénario La Grande Guerre
@@ -25,7 +24,7 @@ Lucas Cimon - [chezsoi.org](https://chezsoi.org)
 :::
 
 ::: web-only
-Version PDF: [v1.0 (2,6 Mo)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-scenarios-FR-v1.0.pdf)
+Version PDF: [v1.1 (2,0 Mo)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-scenarios-FR-v1.1.pdf)
 :::
 
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
