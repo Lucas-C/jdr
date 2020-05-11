@@ -20,6 +20,11 @@
 - English version -> post on RPGDesign, http://story-games.com
 
 Autres illus ambiance Dark Souls:
+- https://www.deviantart.com/dumaker/art/Soul-Eater-418811648
+- https://www.deviantart.com/dumaker/art/Fiat-lux-351685701
+- https://www.deviantart.com/dumaker/art/Drawback-in-the-Dungeon-384403020
+- https://www.deviantart.com/dumaker/art/War-Ghost-411943441
+- https://www.deviantart.com/dumaker/art/Burning-Skeleton-289126029
 - https://www.deviantart.com/hunternif/art/Defeated-808351770
 - https://www.deviantart.com/fernand0fc/art/The-Accursed-829405421
 - https://www.deviantart.com/halycon450/art/The-Queen-of-Smiles-807855082

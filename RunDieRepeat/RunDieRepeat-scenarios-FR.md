@@ -1,60 +1,19 @@
 <!--
+./extract_pdf_pages.sh RunDieRepeat-scenarios-FR.pdf 1 13 RunDieRepeat-scenarios-FR-v1.1.pdf
+
 Publié / com' sur :
-- [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
-- [x] https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat
-- [ ] http://troplongpaslu.fr
+- [x] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html )
+- [x] https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat (source de la bannière : https://pixabay.com/illustrations/banner-header-time-clock-expansion-1220390/ )
+- [x] http://troplongpaslu.fr : http://troplongpaslu.fr/jeux-de-role-court/10-scenarios-pour-run-die-repeat/
 - [ ] http://www.scenariotheque.org : 4510 mots
 
-MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
-Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
-
-+ article blog
++ & mention Discord
 + remercier illustrateurs
 + com' sur https://www.trictrac.net/forum/question-sur-les-jeux-en-telechargement & https://www.trictrac.net/forum/discutons-jeux-de-role & http://forums.ffjdr.org https://www.500nuancesdegeek.fr  http://www.taverneproduction.com/forum/ https://www.casusno.fr & http://heritiers-dumnacus.forumactif.org
 
-* scénario à ressources limitées (exemple : 1 balle restante + 1 grenade éblouissante + 1 gadget ouvreur de porte)
-avec lesquelles les premiers obstacles peuvent être facilement franchis,
-mais sans lesquelles une seconde série de dangers est extrêmement difficile à traverser
-
-* énigme ne permettant qu'un seul essai, mais solvable en itérant toutes les possibilités :
-3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
-Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebours,
-le personnage peut **explorer toutes les alternatives temporelles** d'un problème à un moment donné de la partie,
-comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
-Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d’enchaînements de coup
-pour en finir avec ses adversaires en mode _Matrix_ !
-
-Prenez un paquet de carte à jouer de 1 à 6,
-et posez-les devant vous ordonnées avec la carte 6 sur le dessus.
-La carte du dessus définit la valeur minimale à obtenir au dé pour réussir une action.
-Chaque fois que les joueuses ratent un jet, enlevez une carte ;
-chaque fois qu'elles réussissent, remettez-les toutes dans l'ordre.
-
-point faible particulier, et capacité bonus à transmettre à la joueuse,
-qui en bénéficiera toujours aux prochaines boucles temporelles
-
-HENRI:
-> Petite idée de scénario, trouvé sous la douche, en mode médiéval fantastique.
-> On joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
-
-Donjon:
-- pièges : marteau-balancier géant, escalier-glissière, dards empoisonnés, flammes
-- monstres : gobelins, squelettes, basilic...
-
-Frostpunk: https://www.youtube.com/watch?v=ss2Eu4HhfB4&list=PLWmL9Ldoef0tlXdmRg9FEdQVmt-kmrKp7
--> trouver artwork libre de droit
-Liste d'une dizaine d'événements / dilemnes majeurs pour la communauté
-=> MJ en choisit un par an, au fur et à mesure des actions des joueuses
-* manque d'abris
-* manque de nourriture
-* perte d'espoir suite à découverte des ruines de la terre promise
-* panne du générateur
-* épidémie
-* rebellion à cause de ...
-* terrible tempête
-* découverte par les explorateurs d'une stèle avec une inscription runique
-* des vols de nourriture ont lieu dans les réserves
-* des morts reviennent à la vie
+[v1.1]:
+- quelques détails un peu clarifiés dans le scénario La Grande Guerre
+- nouvelle illustration pour le scénario Revengeance
 -->
 
 # Scénarios pour Run. Die. Repeat.
@@ -88,7 +47,7 @@ en fournissant même parfois une explication à la capacité à remonter le temp
 J'en profite pour glisser ici une suggestion à la MJ pour ajouter à la tension dramatique :
 lorsque le chronomètre s'arrête, prévenez les joueuses que cela n'interrompt pas le _run_ en cours,
 mais que c'est leur dernière chance de réussir !
-Vous trouverez d'autres conseils & ressources concernant ce jeu sur mon blog ([lien vers articles taggés #run-die-repeat](https://chezsoi.org/lucas/blog/tag/run-die-repeat.html)).
+Vous trouverez d'autres conseils & ressources concernant ce jeu sur mon blog ([lien vers articles taggés #run-die-repeat](https://chezsoi.org/lucas/blog/tag/run-die-repeat.html)). Si vous jouez à certains de ces scénarios, pensez à y laisser un commentaire, ça me fera très plaisir 😉.
 
 Un grand merci aux _playtesteurs_ : Elliot, Etienne, Francis, Henri, Laëtitia, Matthieu, Martin, Nicolas L., Nicolas T., Pierre, Simon, Thomas, ainsi que les joueurs qui ont testé ces scénarios à la 1ère [CyberConv](http://www.cyberconv1.com) :
 Cronk, Komurin, Minipen, Orion, Pyrate, Aglatrex, Govomir, Koko, Sygma, TankGirl,
@@ -102,10 +61,9 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [SotC Christmas Shirt Design by Fritz6](https://www.deviantart.com/fritz6/art/SotC-Christmas-Shirt-Design-83990541) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 - [Sam Fisher by thesimplyLexi](https://www.deviantart.com/thesimplylexi/art/Sam-Fisher-510237938) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 - [Soldier1 by thesimplyLexi](https://www.deviantart.com/thesimplylexi/art/Soldier1-558361525) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
-- [Toronto Dominion Centre Vertical by thelearningcurve-da](https://www.deviantart.com/thelearningcurve-da/art/Toronto-Dominion-Centre-Vertical-780412378) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
+- [gothic, goth, fantasy, dark, apocalypse, scifi, sci-fi, male](https://www.piqsels.com/en/public-domain-photo-jsxss) de piqsels.com, domaine public
 - [HITMAN - Absolution by EvanDeCiren](https://www.deviantart.com/evandeciren/art/HITMAN-Absolution-324477366) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
 - [Antü Plasma Suite by Fabián Alexis](https://commons.wikimedia.org/wiki/File:Antu_org.kde.plasma.timer.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/fr/)
-- [banner header time clock expansion physics](https://pixabay.com/illustrations/banner-header-time-clock-expansion-1220390/) de Pixabay
 
 La carte du labyrinthe a été réalisée avec [Tabletop RPG Map editor II de Sébastien Bénard v15.4](https://deepnight.itch.io/tabletop-rpg-map-editor)
 ([fichier JSON source](https://github.com/Lucas-C/jdr/blob/master/RunDieRepeat/Labyrinthe.json))
@@ -245,30 +203,32 @@ ne leur accordant aucun répit dans leur fuite !
 > À tâtons vos doigts vous révèlent que vous portez un uniforme de soldat, et un bandage à la tête.
 > À l'extérieur, des explosions font trembler la terre.
 ### Objectif
-Atteindre le campement du général en traversant une zone extrêmement dangereuse.
+Atteindre le campement du général en traversant un champ de bataille.
 ### Règles spéciales
-Chaque fois que la joueuse décède, elle laisse sur place le cadavre de son personnage, qui restera présent dans les itérations suivantes.
-La joueuse suivante se réincarne dans un autre soldat assoupi. Le temps défile en continu, il n'y a pas de retour en arrière,
+Chaque fois qu'une joueuse décède, elle laisse sur place le cadavre de son personnage, qui restera présent dans les itérations suivantes.
+La joueuse d'après se réincarne dans un autre soldat assoupi. La précieuse lettre reste sur le cadavre qui l'avait en sa possession.
+Le temps défile en continu, il n'y a pas de retour dans le passé,
 mais pour autant les règles ne changent pas : une action réussie une fois réussira toujours.
 ### Environnement
 - à l'entrée de la cagna, un homme agonise :
 « C'est la fin pour moi, c'est foutu. Écoute-moi : cette missive est pour le général, de l'autre côté du fleuve.
-Bon dieu, c'est la fin de l'enfer, c'est l'armistice ! Mais il ne le sait pas, et il va lancer une offensive finale à midi...
-Il faut à tout prix empêcher le carnage. »
-- en cherchant un peu, la cagna contient du matériel : gourde, couverture, rations, casque, masque à gaz, fusil
-- une épave de zeppelin, en feu, ainsi que d'autres véhicules gisent autour, plus ou moins ou fonctionnels : jeep, moto...
+Bon dieu, c'est la fin de l'enfer, c'est l'armistice ! Mais il ne le sait pas, et il va lancer une offensive à midi...
+Tu dois empêcher ce carnage. »
+- la tranchée se poursuit un peu, jusqu'à une interesection en T
+- à gauche, une tranchée pleine d'eau, qui remonte ensuite à la surface près d'une épave de zeppelin en feu.
+Derrière, plus loin, un pont franchit le fleuve mais une mitrailleuse couvre cet espace à découvert.
+- à droite, la tranchée est pleine de gaz moutarde, puis débouche dans un petit abri hébergeant une moto avec side-car
+- en cherchant un peu, la cagna de départ contient du matériel :
+gourde, couverture, rations, casque, masque à gaz, fusil...
 ### Obstacles
-- l'obscurité initiale de la pièce, nécessitant de sortir à tâtons
+- l'eau où on risque de se noyer, le gaz moutarde, la mitrailleuse...
+- sortir de la tranchée signifie s'exposer au feu ennemi, un jet est alors nécessaire pour chaque action, même la plus minime
 - une ogive tombe et explose devant la joueuse
-- du gaz moutarde stagne dans une section des tranchées
-- une tranchée est pleine d'eau
-- un espace à découvert à franchir, miné, sous le feu d'une mitrailleuse
-- enfin, un pont au milieu duquel se dresse un barrage militaire
 ### Conseils à la MJ
-Lisez lentement la liste de matériel dans la cagna pour simuler la durée de la fouille.
 Donnez des bonus aux jets des joueuses faisant preuve d'imagination.
+Évitez de détruire la lettre, elle doit toujours être récupérable, tel un passage de relai macabre.
 ### Rejouer le scénario
-Prolongez-le : le campement du général est plus éloigné, rendant nécessaire un véhicule pour l'atteindre;
+Prolongez-le : derrière le pont, le campement du général est encore loin;
 un avion s'écrase du ciel; un sniper dans un village en ruines; des chiens pourchassent la joueuse.
 :::
 ---
@@ -279,7 +239,7 @@ un avion s'écrase du ciel; un sniper dans un village en ruines; des chiens pour
 ## Invasion
 > ALERTE ROUGE ! Des aliens attaquent la planète,
 > et leur énorme vaisseau dans le ciel est en train de préparer un gigantesque tir de canon laser !
-> Scientifique de génie travaillant en secret dans un laboratoire secret caché dans la montagne,
+> Scientifique de génie travaillant dans un laboratoire secret caché dans la montagne,
 > vous enfilez votre _jetpack_ / machine temporelle pour aller leur botter les fesses.
 ### Objectif
 Détruire le vaisseau alien.
@@ -301,12 +261,11 @@ golem constitué de nanorobots...
 ### Obstacles
 - des vaisseaux aliens pourchasseront la joueuse dans les canyons
 - une fois dans le vaisseau alien, des tourelles mitraillent déjà une flotte d'avions de chasse de l'armée
-- le harnais de la joueuse lui indique qu'elle a localisé le point faible du vaisseau :
-une salle contenant l'ordinateur central. Il faut pour y accéder s'aventurer dans un dédale de coursives bien défendu...
+- pour détruire le vaisseau il faut lui trouver son point faible en s'aventurant son dédale de coursives bien défendues...
 ### Conseils à la MJ
 Limitez le nombre d'obstacles si les joueuses obtiennent trop de ~~⚀~~.
 Selon la vitesse à laquelle elles atteignent le vaisseau alien, révélez plus ou moins facilement / vite
-son point faible critique qui fera tout exploser.
+son point faible critique qui fera tout exploser, par exemple via l'IA du harnais.
 Octroyez des bonus aux joueuses qui emploient les inventions dans le labo ou la capacité à revenir dans le temps de manière ingénieuse.
 ### Rejouer le scénario
 Un ~~⚁~~ introduit également un nouvel alien sur le parcours déjà effectué.
@@ -370,16 +329,20 @@ Il y a un mannequin dans les cabinets, Helmut Kruger,
 qui est malade et ne sortira pas de lui-même des toilettes.
 - le palais est luxueux et comporte de nombreuses pièces :
 cuisines & cave au sous-sol, salle de réception où se tient le défilé au rez-de-chaussée,
-salons privés dans les étages... (y accéder nécessite de passer par une fouille au corps)
+salons privés dans les étages... Y accéder nécessite de passer par une fouille au corps.
+Certains d'entre eux ont vue sur le _catwalk_.
 - sous les toits, des combles servent à entreposer les œuvres en réserve.
 Des écrans y sont suspendus dans une section,
 pour permettre au superviseur des agents de sécurité de surveiller tout le bâtiment...
+- il y a foule : invités, serveurs, agents de sécurité, _staff_ du défilé...
 ### Obstacles
-- Viktor peut être attiré dans « un coin tranquille » de bien des manières,
-mais il est difficile de rester hors de vue des caméras de surveillance...
-- toute action suspecte devant l'une d'elles déclenchera l'alarme.
-Viktor est alors escorté par 6 gardes du corps jusqu'à un salon sécurisé.
-Tous les accès du palais sont alors surveillés, à l'exception des toits.
+- Viktor est au milieu de la réception.
+Il peut être attiré à l'écart, mais rester hors de vue des caméras est délicat.
+5min après l'arrivée de 47, il se rend sur scène, au dessus de laquelle pend un immense lustre.
+Sa femme, Dalia, est elle sans cesse en mouvement à travers le palais.
+- toute action suspecte devant une caméra déclenchera l'alarme.
+Viktor est alors escorté par 6 gardes du corps jusqu'à un salon sécurisé,
+et tous les accès du palais sont surveillés, à l'exception des toits.
 - en sortant dans le couloir par l'unique porte des WC,
 47 tombe systématiquement sur un agent de sécurité inquisiteur, Boris,
 dans l'angle d'une caméra, qui le [_tasera_](https://fr.wikipedia.org/wiki/Pistolet_%C3%A0_impulsion_%C3%A9lectrique)
@@ -392,15 +355,12 @@ dans l'angle d'une caméra, qui le [_tasera_](https://fr.wikipedia.org/wiki/Pist
 **2.** « Vous n'êtes pas invité ? _<small>(sur la défensive)</small>_ Déclinez immédiatement le code opérationnel. »
 _<small>(le code du jour est KOALA, Boris le révélera si 47 le menace)</small>_
 
-- Viktor Novikov est au milieu de la réception. 5min après l'arrivée de 47,
-il se rend sur scène, au dessus de laquelle pend un immense lustre.
-Sa femme, Dalia, est elle sans cesse en mouvement à travers le palais.
 - si 47 endosse l'identité d'Helmut,
 un des organisateurs du défilé viendra lui demander de le suivre car c'est bientôt à son tour d'entrer en scène
 ### Conseils à la MJ
 Rester bloqué dans ces fichus WC peut être frustrant :
 c'est voulu, ce casse-tête faisant doucement monter la pression du temps.
-Toutefois, après 15min, donnez leur quelques pistes et/ou bonus.
+Toutefois, après 15min, donnez leurs quelques pistes et/ou bonus.
 
 Ce scénario peut être réussi partiellement ou complètement réussi,
 selon si les joueuses arrivent à abattre Novikov **et** à s'enfuir.
@@ -422,7 +382,7 @@ Copier le contenu de l'ordinateur portable personnel de l'ambassadeur Oslow, en 
 Les jeux vidéos Metal Gear Solid & Splinter Cell,
 dont la bande son de l'épisode _Chaos Theory_ est recommandée en ambiance sonore.
 ### Règle spéciale
-À chaque début de partie vous débutez avec un équipement spécial tiré au hasard **à chaque fois** :
+Vous débutez avec un équipement tiré au hasard **à chaque début de _run_** :
 ⚀-⚁ | Des **lunettes multi-visions** [capables](https://splintercell.fandom.com/wiki/Multi-Vision_Goggles) de voir les signatures thermiques et les appareils électriques à travers les parois
 ----|-
 ⚂-⚃ | Un **combinaison intégrale de camouflage mimétique** rendant son porteur invisible tant qu'il reste immobile
@@ -443,7 +403,7 @@ Il est arrivé dans le secteur en parachute puis a progressé de toit en toit.
 - le jardin à l'avant de la propriété est entouré d'une haute grille en fer forgée, et est parcouru par un garde armé avec un chien en laisse
 - l'arrière de la propriété est surveillée par un garde à l'étage, armé d'un fusil mais partiellement attentif, un journal dans la main
 - la demeure comporte plusieurs caméras de surveillance, scrutées à distance par un opérateur en liaison audio avec les 2 gardes
-- les autres occupants sont : l'ambassadeur Oslow assoupi dans un fauteuil de son bureau; sa jeune fille de 4 ans dans sa chambre; 2 gardes & un chien endormis dans un dortoir; la gouvernante dans sa chambre
+- les autres occupants sont : l'ambassadeur Oslow assoupi dans un fauteuil de son bureau; sa fille de 4 ans dans sa chambre; 2 gardes & un chien dans un dortoir; la gouvernante dans sa chambre.
 ### Obstacles
 - descendre le long de la ligne à haute tension peut se révéler fatal
 - le toit de l'ambassade ne comporte aucune ouverture : il faut en descendre le long d'une façade, au risque de s'exposer aux gardes
@@ -531,7 +491,7 @@ et équipez les soldats de _geno-scanners_ (_cf._ scénario suivant)
 ::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
-![](toronto_dominion_centre_vertical_by_thelearningcurve_da_dcwmy1m-fullview.jpg)
+![](gothic-goth-fantasy-dark.jpg)
 ## Spec Ops #3 - REVENGEANCE
 > L'heure de la vengeance à sonnée.
 > Vous allumez tranquillement une cigarette, au pied du gratte-ciel habitant les bureaux et laboratoires de _Gentek_,
@@ -641,6 +601,7 @@ s { /* dices */
   body { font-size: 1.2rem; }
   hr, .web-only { display: none; }
   .author { padding: 1rem 10rem; }
+  .license img { height: 1.7rem; }
   .page { font-size: 1rem; margin: 0 auto; }
   .page p { margin-top: .3rem; margin-bottom: .5rem; }
   .page ol, .page ul { margin-top: 0; }
@@ -651,20 +612,21 @@ s { /* dices */
   .footer { position: fixed; bottom: 0; right: 0; font-size: 1rem; }
   .footer > p { margin: 0; }
   /* Per-scenario tweaking: */
-  #cthulhu-fhtagn h2 { margin: 2rem; }
-  .page:nth-of-type(5) > p > img { max-height: 20rem; } /* LABYRINTHE */
+  #cthulhu-fhtagn h2 { margin: 1.8rem; }
+  .page:nth-of-type(6) > p > img { max-height: 21rem; } /* LABYRINTHE */
   #labyrinthe h2 { margin: 0; }
   #labyrinthe p { margin-top: 0; margin-bottom: .4rem; }
-  .page:nth-of-type(6) > p > img { max-height: 18rem; } /* LA GRANDE GUERRE */
-  .page:nth-of-type(7) > p > img { max-height: 19rem; } /* INVASION */
+  .page:nth-of-type(7) > p > img { max-height: 20rem; } /* LA GRANDE GUERRE */
+  #la-grande-guerre h2 { margin: .5rem; }
+  .page:nth-of-type(8) > p > img { max-height: 19rem; } /* INVASION */
   #invasion h2 { margin: 0; }
   #invasion blockquote { margin: 0; }
-  .page:nth-of-type(8) > p > img { max-height: 20rem; } /* LA CHUTE DU COLOSSE */
+  .page:nth-of-type(9) > p > img { max-height: 20rem; } /* LA CHUTE DU COLOSSE */
   #la-chute-du-colosse h2 { margin: 0; }
-  .page:nth-of-type(9) > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* HITMAN */
+  .page:nth-of-type(10) > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* HITMAN */
   #hitman h2 { text-align: left; margin: 0; }
   #obstacles-7 ul { margin: 0; }
-  .page:nth-of-type(10) > p > img { max-height: 22rem; } /* Spec Ops #1-#2-#3 */
+  .page:nth-of-type(11) > p > img { max-height: 22rem; } /* Spec Ops #1-#2-#3 */
   #spec-ops-1-infiltration h2, #spec-ops-2-prototype h2, #spec-ops-3-revengeance h2 { margin: 0; }
 }
 /* Useful CSS rules to debug @page layout / margins * /

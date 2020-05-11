@@ -1,5 +1,7 @@
 <!--
 https://www.deviantart.com/halycon450/art/The-Third-Lamb-807998807 CC BY-NC-SA
+https://www.deviantart.com/mathnox/art/Clownfish-Marid-805926855 CC BY-NC-SA
+https://www.deviantart.com/mathnox/art/Skeletons-798542509 CC BY-NC-SA
 
 Scénariothèque : http://www.scenariotheque.org/Document/info_doc.php?id_doc=9902
 -->
