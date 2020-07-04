@@ -41,6 +41,12 @@ Autres idées sur l'univers
     les ennemis que trackent l'org des PJs sont des cyberterroristes socialistes,
         voyant dans le cyberespace à la fois un outil politique et un lieu sous contrôle d'aucun gouvernement,
         ou une démocratie idéale peut être construite
+    France dystopique
+        la génération des années 70 à 2070 sont haïs pour les dégâts qu'ils ont causé et légué à leurs descendants
+        en France il y a eu un mandat présidentiel écolo-gauchiste qui a tenté d'arrêter les frais, mais qui s'est fait renverser au profit d'un système corpo-néo-libertaire fachisant
+        l'énergie est très rationnalisée, les contravenants pourchassés
+        les hacker-humanistes-écolos sont pourchassés par le gouvernement, via les PJs
+    https://en.wikipedia.org/wiki/Sneakernet
 Idées de mise en page
     image de d8 + indiquer en préambule qu'il en faut pour jouer
     image de background
@@ -66,6 +72,7 @@ https://www.deviantart.com/loomingcolumn/art/Vitality-VELJEBIV-BioMech-316975117
 Font: [CyberGotica](https://www.dafont.com/cibergotica.font?l[]=10&l[]=1)
 
 Inspis
+http://angusnicneven.com
 https://www.artstation.com/artwork/8d3Xm
 https://www.artstation.com/artwork/4LAnn
 https://www.artstation.com/artwork/Q0lEE

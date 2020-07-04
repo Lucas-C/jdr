@@ -2,15 +2,14 @@
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
 
-Idées de mécaniques de jeu :
+Animation mp4: https://www.reddit.com/r/glitch_art/comments/gh045v/what_time_is_it/
 
-* scénario à ressources limitées (exemple : 1 balle restante + 1 grenade éblouissante + 1 gadget ouvreur de porte)
-avec lesquelles les premiers obstacles peuvent être facilement franchis,
-mais sans lesquelles une seconde série de dangers est extrêmement difficile à traverser
+Idées de mécaniques de jeu :
 
 * énigme ne permettant qu'un seul essai, mais solvable en itérant toutes les possibilités :
 3 leviers positionnables, ou code à rentrer + indice quelque part que le même chiffre se répète 4x
-Enfin, j'introduirai peut-être une **règle spéciale _Next_** : au prix de **2min de moins** sur le compte à rebours,
+
+* règle spéciale _Next_ : au prix de **2min de moins** sur le compte à rebours,
 le personnage peut **explorer toutes les alternatives temporelles** d'un problème à un moment donné de la partie,
 comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
 Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d’enchaînements de coup
@@ -22,14 +21,21 @@ La carte du dessus définit la valeur minimale à obtenir au dé pour réussir u
 Chaque fois que les joueuses ratent un jet, enlevez une carte ;
 chaque fois qu'elles réussissent, remettez-les toutes dans l'ordre.
 
-* point faible particulier, et capacité bonus à transmettre à la joueuse,
+* point faible particulier de chaque ennemi, et capacité bonus à transmettre à la joueuse,
 qui en bénéficiera toujours aux prochaines boucles temporelles
 
-Idées HENRI:
+* jouer 2 ou 3 points de vues de différents personnage lors d'un même événement
+
+Idées d'HENRI:
 - On joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 - Tu es infiltré chez des trafiquants et ta couverture est tombée
 
 Autres idées :
+* TRILOGIE réaliste
+  + fille crush déjà cotoyée à quelques reprises. Le jour où vous vous décidez à l'inviter à diner, un bouquet la main,
+    vous apprenez de la bouche du propriétaire, qui vous ouvre la porte, qu'elle déménage et est partie il y a une minute !
+    il faut la rattraper et lui déclarer votre flamme !
+  + votre fils est mordu par XXX lors d'une rando : il faut le sauver !
 * The Lost Room
 * Médecin urgentiste ( Sovok ? )
 * Donjon:
@@ -71,46 +77,55 @@ Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitH
 Ces scénarios sont publiés sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 ---
-
 ::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ![](explorer_by_fernand0fc.jpg)
 ## Frostpunk
-> Une éruption cataclysmique a déclenché un hiver permanent.
+> Fin du XIX<sup>e</sup> siècle. Une éruption cataclysmique a déclenché un hiver permanent.
 > Vous avez pris la tête d'un groupe de survivants et êtes parti au Nord,
-> vers une terre promise. À bout de forces, vous venez d'atteindre un étrange monolithe mécanique,
-> une chaudière géante. Vos ingénieurs réussisent à comprendre cette technologie steampunk
+> vers une terre promise. À bout de forces, vous avez atteint un étrange monolithe mécanique,
+> une chaudière géante. Vos ingénieurs comprennent cette technologie steampunk
 > juste assez pour le rallumer, ravivant un espoir.
 > Mais le plus dur reste à venir pour votre colonie d'une centaine d'âmes...
 ### Objectif
-Survivre jusqu'à établir une colonie pérenne.### Inspirations
-Le jeu vidéo éponyme et le [_Let's Play_ narratif du Joueur du Grenier](https://www.youtube.com/watch?v=ss2Eu4HhfB4&list=PLWmL9Ldoef0tlXdmRg9FEdQVmt-kmrKp7)
+Survivre jusqu'à établir une colonie pérenne.
+### Inspirations
+Le jeu vidéo éponyme et le [_Let's Play_ du Joueur du Grenier](https://www.youtube.com/watch?v=ss2Eu4HhfB4&list=PLWmL9Ldoef0tlXdmRg9FEdQVmt-kmrKp7).
 ### Règles spéciales
-Les joueuses incarnent le capitaine de la colonie, et prennent des décisions à cette échelle.Cela signifie que leurs actions peuvent impliquer des dizaines de personnes,
-mais aussi qu'une journée correspond à deux actions - jets de dés.Et chaque jour voit arriver une nouvelle difficulté...
+Les joueuses incarnent le capitaine de la colonie, et prennent des décisions à cette échelle.
+Cela signifie que leurs actions peuvent impliquer des dizaines de personnes,
+mais aussi qu'une journée correspond à deux actions (= jet de dé).
+Et chaque jour voit arriver une nouvelle difficulté...
 ### Environnement
 Des montagnes ensevelies sous la neige, à perte de vue,
-et un vent glacial, plusieurs degrés sous le zéro celsius.
-+ autres survivants ?
-### Obstacles
+et un vent glacial, plusieurs degrés sous le zéro Celsius.
+Un filon de charbon peut être découvert à proximité,
+ainsi que des automates steampunks en sale état,
+qui devaient servir à entretenir la chaudière.
+
+Votre colonie est constituée majoritairement d'individus robustes, dur à la tâche,
+mais à l'éducation limitée. Le reste des survivants inclue des ingénieurs, des trappeurs,
+quelques médecins, des prêtres, un botaniste, un instituteur, des femmes et des enfants.
+### Difficultés
 Voici quelques événements / dilemnes majeurs pour la communauté.
 La MJ en choisit un par jour, au fur et à mesure :
-* manque d'abris, les colons meurent de froid
-* manque de nourriture, ils meurent de faim
+* vos citoyens meurent de froid par manque d'abris
+* vos citoyens meurent de faim par manque de nourriture
 * une avalanche a isolé des dizaines de personnes dans la mine de charbon qui a été découverte
-* perte d'espoir suite à la découverte des ruines de Nidhiver, la terre promise
+* découverte des ruines de Nidhiver, la terre promise. L'espoir diminue.
 * le générateur tombe en panne
 * une épidémie de peste se déclare
-* des colons appelent à la rébellion et veulent faire demi-tour
-* terrible tempête de froid
-* découverte par les explorateurs d'une stèle avec une inscription runique
+* des citoyens appelent à la rébellion et veulent repartir d'où vous venez
+* une terrible tempête de froid se déclare
 * des vols de nourriture ont lieu dans les réserves
-* des morts reviennent à la vie
-### Conseils à la MJ
-
-### Rejouer le scénario
-
+* des créatures attaquent ! Des morts revenus à la vie ?
+### Autres événements
+* un groupe de surivants égarés à été aperçu à quelques kilomètres, se dirigeant vers une tempête.
+Faut-il leur porter secours et les acceuillir ?
+* découverte d'un chemin de fer. Un train qui ne s'arrête jamais y circule.
+* des gens auraient été aperçus dans lq montagne
+* découverte par les explorateurs d'une stèle avec une inscription runique
 :::
 
 ---
@@ -120,21 +135,46 @@ La MJ en choisit un par jour, au fur et à mesure :
 
 ![](corvo_by_fernand0fc_davs9xu-fullview.jpg)
 ## Dishonored
->
+> Dunwall. Une ville victorienne steampunk qui a basé son commerce et sa technologie sur la pêche de baleines et le raffinage de leur graisse en huile électrostatique. Dans cette ville frappée par une terrible épidémie de Peste du Rat, vous êtes Corvo Attano, le protecteur personnel de l'impératrice Jessamine Kaldwin.
+> Alors que vous accompagnez celle-ci, soucieuse de la situation, et sa fille Emily lors d'une balade dans les jardins du palais, vous êtes attaqués par un groupe d'assassins !
+> L'impératrice est tuée, sa fille enlevée. Vous avez **assisté** de vos yeux à la scène... mais vous avez conclu un pacte avec l'Étranger, dans le monde onirique où il vous a entrainé, et vous voici de retour à cet instant, avec cette fois d'étranges pouvoirs, et l'intention de changer l'histoire !
 ### Objectif
-
-### Inspirations
-
+Amener l'impératrice et sa fille en sécurité au palais.
 ### Règles spéciales
+La joueuse choisit deux capacités au début de chaque _run_ :
+- **Clignement** : déplacement instantanné sur une distance de quelques mètres.
+Une seule personne peut vous accompagner.
+- **Nuée dévorante** : invoquez une meute de rats
+- **Possession** : prennez possession de quelqu'un
+- **Pli temporel** : relentissez le temps quelques secondes
+- **Coup de vent** : déclenchez une violente bourrasque ou faites léviter des choses
+- **Ombre errante** : vous vous fondez dans les ombres
 
+Chaque pouvoir procure un bonus de **+2** si exploité,
+et ne peut pas être employé pour 2 actions de suite.
 ### Environnement
-
+- vous commencez dans un kiosque en marbre de 10m de large, à la pointe d'une falaise surplombant la baie de la ville
+- 2 chemins permettent de rejoindre la terrasse du palais : un long labyrinthe végétal, ou plus court, un escalier abrupt dans la roche, prolongé par une corniche
 ### Obstacles
-
+- de manière générale, les assassins tenteront de tuer l'impératrice, d'enlever Emily, et d'éloigner ou neutraliser Corvo.
+- dès le début 5 assassins sortent des fourrés et vous assaillent.
+Armés de sabres, 2 attaquent Corvo, 2 se chargent de l'impératrice et sa fille, et le dernier reste en retrait pour vous canarder avec une arquebuse (si on lui court dessus, il n'a le temps de tirer que 2 fois).
+Corvo ne peut pas simultanément empêcher le meutre de l'impératrice et l'enlevement d'Emily.
+Une fois la première protégée, il peut partir à la poursuite du ravisseur de la seconde.
+- le ravisseur d'Emily l'entraine jusqu'à un bateau accosté au pied de la falaise, que l'on atteint en descendant une corde
+- le long de la falaise, vers le palais, 3 brutes barrent l'étroit chemin, couverts de pustules de la Peste.
+Ils sont armés d'un gourdin, d'une hache et d'une lance.
+- dans le labyrinthe, 2 autres assassins tenteront de prendre par surprise leurs proies à travers les buis composant le labyrinthe.
+Ceux-ci sont armés de dagues et possèdent les pouvoirs _Clignement_ & _Ombre errante_.
+- le lord régent Hiram Burrows est à l'origine du complot.
+Il tentera en dernier recours, en voyant l'impératrice arriver au palais, de saisir un gant de contrôle électrostique pour lancer un garde mécanique à l'assaut.
 ### Conseils à la MJ
-
-### Rejouer le scénario
-
+- interrompez le _run_ dès que l'impératrice ou sa fille meurent
+- un sabre à la main, l'impératrice peut se défendre seule quelque temps.
+Elle cherchera d'abord à protéger sa fille, puis à rejoindre le palais.
+Elle fait confiance au lord régent et sera naïvement compatissante face à des malades de la Peste.
+- Emily Kaldwin est futée, douée à l'escalade mais impulsive.
+Elle tentera de s'enfuir et de se cacher, voir à jeter des graviers aux yeux ou à sauter de la falaise plutôt que de laisser un assassin l'approcher de front. Elle se méfie du lord régent et destabilisera le garde mécanique en lui lançant un seau d'eau.
 :::
 
 ---
@@ -150,7 +190,9 @@ La MJ en choisit un par jour, au fur et à mesure :
 ### Inspirations
 Matrix, le clip du morceau [Bad Motherfucker des Biting Elbows](https://www.youtube.com/watch?v=Rgox84KE7iY)
 ### Règles spéciales
-
+Ressources limitées (revolver avec 1 seule balle + 1 charge pour _dasher_)
+avec lesquelles les premiers obstacles peuvent être plus facilement franchis (bonus de **+2**),
+mais sans lesquelles une seconde série de dangers est extrêmement difficile à traverser.
 ### Environnement
 
 ### Obstacles
@@ -302,7 +344,7 @@ h2 { font-size: 3rem; text-align: center; }
 h3 { font-size: 1.55rem; margin: 0; }
 section { height: 100%; }
 hr { margin: 6rem; }
-img { display: block; margin: 0 auto; max-width: 100%; max-height: 26rem; }
+img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 li::marker { font-weight: bold; }
 .picto { color: transparent; text-shadow: 0 0 0 #ec5423; }
@@ -344,6 +386,8 @@ s { /* dices */
   .author { padding: 1rem 10rem; }
   .license img { height: 1.7rem; }
   .page { font-size: 1rem; margin: 0 auto; }
+  .page img { max-height: 20rem; }
+  .page h2 { margin: .2rem; }
   .page p { margin-top: .3rem; margin-bottom: .5rem; }
   .page ol, .page ul { margin-top: 0; }
   .page section:last-child > p { margin-bottom: 0 !important; }
@@ -353,6 +397,9 @@ s { /* dices */
   .footer { position: fixed; bottom: 0; right: 0; font-size: 1rem; }
   .footer > p { margin: 0; }
   /* Per-scenario tweaking: */
+  .page:nth-of-type(1) > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* FROSTPUNK */
+  #frostpunk h2 { text-align: left; margin: 0; }
+  #obstacles-7 ul { margin: 0; }
 }
 /* Useful CSS rules to debug @page layout / margins * /
 html { border: 1px solid red; }

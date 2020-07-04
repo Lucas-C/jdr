@@ -6,13 +6,19 @@ Publié / com' sur :
 - [x] https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat (source de la bannière : https://pixabay.com/illustrations/banner-header-time-clock-expansion-1220390/ )
 - [x] http://troplongpaslu.fr/jeux-de-role-court/10-scenarios-pour-run-die-repeat/
 - [x] http://www.scenariotheque.org
-- [x] https://www.trictrac.net/forum/sujet/10-scenarios-pour-run-die-repeat
-
-+ com' sur https://www.trictrac.net/forum/discutons-jeux-de-role & http://forums.ffjdr.org https://www.500nuancesdegeek.fr  http://www.taverneproduction.com/forum/ https://www.casusno.fr & http://heritiers-dumnacus.forumactif.org
+- [x] https://www.trictrac.net/forum/sujet/10-scenarios-pour-run-die-repeat & https://www.trictrac.net/forum/sujet/10-scenarios-pour-run-die-repeat-1
+- [x] http://forums.ffjdr.org/viewtopic.php?f=87&t=18558&p=302693
+- [x] http://www.500nuancesdegeek.fr/forum/viewtopic.php?f=15&t=1739
+- [x] https://www.casusno.fr/viewtopic.php?f=26&t=37394
 
 [v1.1]:
 - quelques détails un peu clarifiés dans le scénario La Grande Guerre
 - nouvelle illustration pour le scénario Revengeance
+
+[v1.2]:
+- Cthulhu: affaires pêcheur
+- Évasion: masque en latex
+- Invasion: Soni Tark & bonus conférés par inventions
 -->
 
 # Scénarios pour Run. Die. Repeat.
@@ -94,11 +100,10 @@ Mettre fin au rituel avant qu'il ne soit trop tard !
 L'œuvre de H. P. Lovecraft et toutes celles qu'il a inspiré.
 ### Environnement
 - une procession d'une cinquantaine d'individus, tantôt comme hypnotisés, tantôt fanatiques.
-Le grand prêtre à leur tête transporte une corne ornée d'inscriptions mystiques,
-qu'ils transportent vers la mer.
-- une grue de chantier
-- une route en bord de falaise escarpée
-- une voiture décapotable des années 20 dans une grange
+Le grand prêtre à leur tête transporte une corne ornée d'inscriptions mystiques, qu'ils transportent vers la mer.
+- des affaires de pêcheur : filet, canne à pêche, couteau...
+- une grue de chantier, une route en bord de falaise escarpée
+- une ferme habitée avec une voiture décapotable des années 20
 ### Obstacles
 - des chiens lâchés à tes trousses
 - des hommes armés de fusils encadrant la procession
@@ -123,9 +128,12 @@ vous devez échappez à la foule de cultistes à vos trousses, et réussir à le
 > Tu es en cellule au commissariat, tu viens d'être arrêté pour un crime où tu risques perpétuité.
 > Soudain, un paquet kraft atterrit à tes pieds, lancé de l'extérieur à travers une lucarne.
 > Dedans, tu trouves une machine avec [un étrange mécanisme](convecteur-temporel.jpg)
-> incluant un compte à rebours de 20min, ainsi que ce mot : « Fait sortir Loubianov par l'arrière-court »
+> incluant un compte à rebours de 20min, un masque en latex, ainsi que ce mot :
+> « Fait sortir Loubianov par l'arrière-court »
 ### Objectif
 Trouver un moyen de s'évader avec Loubianov qui n'est pas au courant du plan !
+### Règles spéciales
+Le masque en latex permet de prendre l'apparence de n'importe qui lorsqu'on le met.
 ### Inspirations
 Toutes les scènes de film dans des commissariats, Prison Break, le jeu vidéo Hitman...
 ### Environnement
@@ -238,8 +246,8 @@ un avion s'écrase du ciel; un sniper dans un village en ruines; des chiens pour
 ## Invasion
 > ALERTE ROUGE ! Des aliens attaquent la planète,
 > et leur énorme vaisseau dans le ciel est en train de préparer un gigantesque tir de canon laser !
-> Scientifique de génie travaillant dans un laboratoire secret caché dans la montagne,
-> vous enfilez votre _jetpack_ / machine temporelle pour aller leur botter les fesses.
+> Vous êtes Soni Tark, scientifique de génie travaillant dans un laboratoire secret caché dans la montagne,
+> et vous enfilez votre _jetpack_ / machine temporelle pour aller leur botter les fesses.
 ### Objectif
 Détruire le vaisseau alien.
 ### Inspirations
@@ -248,6 +256,9 @@ Jeux : _Half Life_ & _Portal_.
 ### Règles spéciales
 Le harnais ramène à l'instant où il est harnaché en cas de décès de son porteur
 **et** permet de revenir dans le temps à volonté jusqu'à ce moment.
+
+Les joueurs ont un bonus de **+1** pour chaque invasion issue de leur labo
+qu'ils emploient durant une action, harnais compris.
 
 Chaque fois qu'une joueuse obtient un ~~⚀~~, un nouvel alien, ayant détecté la manipulation temporelle,
 s'interpose sur le chemin de la joueuse, chaque fois plus proche de l'endroit où elle recommence, et mieux armé.
@@ -526,7 +537,7 @@ Ajustez la difficulté du boss final en fonction du temps restant et du nombre d
 :::
 
 ::: footer
-<span class="picto">🏃 ☠️ ♻</span> v1.1
+<span class="picto">🏃 ☠️ ♻</span> v1.2
 :::
 
 <script>

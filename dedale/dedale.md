@@ -45,6 +45,8 @@ Papamichalopoulos: <https://www.google.fr/search?tbm=isch&q=site%3Awww.flickr.co
 
 https://www.deviantart.com/daudiomultimedia/art/space-train-car-anime-796715778
 
+https://www.reddit.com/r/glitch_art/comments/gg0nc8/it_lives/
+
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire
 (celle des Machines étant sans faille, la limitation en nombre et en valeur de Skillpacks est oubliée) pourraient disparaître.
 La Motricité disparaîtrait au profit de la Précision et de la Réponse tandis que les Organiques subiraient un changement similaire

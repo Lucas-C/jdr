@@ -118,3 +118,7 @@ deploy:
 notifications:
   email:
     on_success: never
+# puppeteer-cli PDF generation shortcomings:
+# - relies on a call to the browser: Page.printToPDF - https://github.com/puppeteer/puppeteer/blob/v3.3.0/src/Page.ts#L1158
+# - chromium issue on adding metadata: https://bugs.chromium.org/p/chromium/issues/detail?id=907249
+# - PDFKit doc on this subject: https://github.com/foliojs/pdfkit/blob/master/docs/getting_started.md#setting-document-metadata

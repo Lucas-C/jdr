@@ -16,7 +16,10 @@ Nécessite Python et la lib `livereload`
 
 ## Notes
 Emojis utiles : ⚅ ⚠️ 💡 ✏ ❤️ 💔 💋 🍺 ⚗ 🧪 🔬📡 💉 💊 🚪 📜 📘 🏷 🎫 💬 👁️‍🗨️ 👁 💀 ☠ ⚰ 👻 🐉 🐲 🔮 🧙 🕵️ 🔍 🗝 🔓
-☀️ 🌀 🌳 ⛏ 🛠️🔧⚙🧰 🗡 ⚔ 🔫 🛡 🔪 🧨 🏹 🎯 🏃 🧹 🧯 🛢 🧱 📦 💼 💰 🪙 💎 🏺 🏆 🗺 🧭 🃏 🎴 ♟ 🧩 ⏳ ⏱ 🕓 🌡 ⛔ ☢ ☣ ♾ ♻ ✅ ✔ ❌
+☀️ 🌀 🌳 ⛏ 🛠️ 🔧 ⚙ 🧰 🗡 ⚔ 🔫 🛡 🔪 🧨 🏹 🎯 🏃 🧹 🧯 🛢 🧱 📦 💼 💰 🪙 💎 🏺 🏆 🗺 🧭 🃏 🎴 ♟ 🧩 ⏳ ⏱ 🕓 🌡 ⛔ ☢ ☣ ♾ ♻ ✅ ✔ ❌
+💣 🔥 ⚡ 🧲 💧 ☁️
+
+Also: <https://shapecatcher.com>
 
 ## License
 
@@ -32,10 +35,14 @@ Ideas:
   * https://www.dwitter.net/d/1231
   * https://www.dwitter.net/d/4509
   * https://www.dwitter.net/d/16784
+  * https://www.dwitter.net/d/17888
   * http://rachelbythebay.com/fun/square/
   * http://rachelbythebay.com/fun/chk/
   * https://github.com/ribab/quadart
+- https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
 - top banner: http://hondu.co
+- cf. also notes.py libs like quadart, speck, Circle-Evolution
+
 Cool fonts:
 - Handwriting: https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1
 - Zalgo: https://stackoverflow.com/questions/6579844/how-does-zalgo-text-work
