@@ -60,7 +60,10 @@ Version PDF: ...
 
 Merci également à ces illustrateurs qui ont déposé leur magnifique travail sous licence _Creative Commons_ :
 
+- [Halloween Witch face profile](https://www.deviantart.com/scottepentzer/art/Halloween-Witch-face-profile-331368521) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
 - [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
+- [Corvo by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corvo-658049106) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
+- [UBD Corpse Mite by Larvae801](https://www.deviantart.com/larvae801/art/UBD-Corpse-Mite-274636814) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [Kaneda by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Kaneda-777208845) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [«Estación de tren» by Dumaker](https://www.deviantart.com/dumaker/art/Train-station-560845389) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 - [Roof (end) by Hunternif](https://www.deviantart.com/hunternif/art/Roof-end-714829029) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
@@ -69,7 +72,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Light Inside Library](https://www.pexels.com/photo/blur-book-stack-books-bookshelves-590493/) de pexels.com
 
 Merci enfin aux développeurs des logiciels libres que j'ai employé :
-Firefox, Gimp, Inkscape, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
+Firefox, Gimp, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/RunDieRepeat).
 
 <a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
@@ -77,7 +80,52 @@ Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitH
 Ces scénarios sont publiés sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 ---
+
 ::: page
+<img class="timer" alt="20min timer" src="timer-20.svg" title="20min">
+
+![](halloween_witch_face_profile_by_scottepentzer_d5hadl5-fullview.jpg)
+<!-- Alt: https://www.needpix.com/photo/656525/owls-night-witch-broom-witchs-hat-moon-childrens-stories-fairy-tale-dark -->
+<!-- Alt: https://freesvg.org/cartoon-fox-poses -->
+## Le camembert de la sorcière
+> Vous êtes un petit renard habitant la forêt.
+> Cachée au coeur de cette forêt, vit une sorcière.
+> Elle est plutôt gentille avec les animaux... tant qu'on ne la met pas en colère !
+> Ce matin, vous l'avez vu sortir de sa cave de magnifiques camemberts...
+> Et puis elle est partie faire ses courses au marché.
+> Le camembert, c'est votre plat préféré !
+> Alors c'est décidé, vous allez lui en chaparder un !
+> Mais attention aux champignons magiques qui poussent dans sa chaumière !
+### Objectif
+Chaparder un camembert et sortir de la maison de la sorcière avant son retour.
+### Règles spéciales
+Les enfants lancent deux dés à 6 faces pour chaque jet, les adultes un seul.
+### Environnement
+- les camemberts sont posés sur la table de la cuisine,
+qui comporte plusieurs étagères et un plan de travail.
+- la fenêtre de la cuisine est fermée, mais les fenêtres de pièces donnant sur la cuisine sont ouvertes :
+  + la chambre de la sorcière, où il y a des coussins, un bureau, et le corbeau de la sorcière, qui dort
+  + le salon, où il y a une petite table, des fauteuils, et des plantes carnivores en pot
+### Obstacles
+- tout le sol de la maison de la sorcière est recouvert de champignons magiques,
+qui, si on les touche, font disparaîte puis réapparaitre au-dehors !
+- une fois un camembert en possession du renard, le corbeau de la sorcière se réveille !
+Il pourchasse le renard en croassant, et risque de donner l'alerte !
+### Conseils à la MJ
+J'ai testé ce scénario avec un enfant de 4 ans et ses parents :
+- 20min de temps me semble un grand maximum pour parvenir à conserver l'attention d'un enfant durant toute la partie.
+- décrivez bien les lieux avant de lancer le compte à rebours.
+- employez un compte à rebours à aiguilles, pour que les enfants puisse facilement visualiser le temps restant, comme celui-ci :
+https://www.visnos.com/demos/classroom-timer
+- il peut être difficile pour les enfants de comprendre que tous les joueurs jouent le même personnage.
+N'hésitez donc pas à vous rabattre sur un modèle 1 joueur = 1 personnage, avec une famille de renards.
+On se rapproche alors du système de [Donjons & Chenapans](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/)
+### Rejouer le scénario
+Ajoutez un chien qui dort dans sa niche, et qu'il ne faut pas réveiller, mais donnez un dé de plus aux enfants.
+:::
+
+---
+::: page frostpunk
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ![](explorer_by_fernand0fc.jpg)
@@ -182,6 +230,41 @@ Elle tentera de s'enfuir et de se cacher, voir à jeter des graviers aux yeux ou
 ::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
+![](UBD-Corpse-Mite-by-Larvae801.png)
+<!-- Alt: https://www.deviantart.com/sunnyclockwork/art/SCP-163-482911397 -->
+## Parasite
+> Vous êtes un parasite microscopique, une arme bactériologique créée dans un laboratoire top secret.
+> Suite à une énième hybridation, vous venez d'acquérir une vive intelligence, la conscience de vous-même,
+> et la capacité à remonter le temps !
+> Vos enfants vont éclorent de votre ventre dans 30min, ce qui signifiera votre mort,
+> mais vous êtes bien décidé à ce qu'ils naissent hors de cette prison !
+### Objectif
+S'échapper du laboratoire.
+### Règles spéciales
+Les joueurs disposent des actions suivantes comme parasite :
+- tuer votre hôte, éventuellement à retardement
+- se propager par contact physique, en abandonnant le corps hôte précédent
+- faire effectuer jusqu'à **2 actions** à son hôte, après quoi celui-ci reprend le contrôle
+### Environnement
+- vous débutez dans la salle blanche, qui contient des plans de travail, des appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens, un incinérateur et un grand nombre de produits chimiques
+- la seule sortie donne sur un couloir desservant trois pièces : une salle de pause / réunion avec kitchenette et tableau blanc; une pièce contenant des postes de travail informatique et un écran géant affichant des statistiques en temps réel; un large ascenseur permettant d'accéder au rez-de-chaussée et aux étages du complexe, dans lequel les gardes ont un petit bureau d'où ils peuvent surveiller les caméras de sécurité.
+- le personnel du niveau **-1** est constitué de 6 scientifiques (Pr. Elsa Martin, Dr. James Edward, technicienne Sarah Tran...) et de 2 gardes paramilitaires (sergent Matthew Douglas & caporal Thomas Jacobson). Au début de la partie, la professeur Martin vient de réaliser la manipulation qui vous a donné conscience, et une opportunité s'offre à vous de vous infiltrer par une micro-déchirure de son gant protecteur. Le docteur Edward est également présent dans la salle blanche, tandis que Sarah Tran est dans la salle informatique et les 3 autres dans la salle de réunion.
+- au rez-de-chaussé, l'ascenceur dessert directement le hall principal, assez imposant dans un style greco-romain chargé de marbre et d'or, où trone un bureau d'accueil massif. La sortie à l'extérieur se fait par une simple porte vitrée coulissante, mais le bureau de la sécurité est juste à côté et héberge quatre gardes vifs et à la gachette facile.
+### Obstacles
+- survivre à la traversée du sas désinfectant requiert une combinaison totale, et il possède un scanner rétinien.
+- l'ascenseur s'active à l'aide du badge d'un garde, associé à une reconnaissance vocale
+- comportement des PNJs (la MJ peut relancer à loisir) :
+  + ⚀-⚁ détruire le parasite quitte à y laisser leur vie
+  + ⚂-⚃ fuir pour sauver leur peau à tout prix
+  + ⚄-⚅ _(scientifique)_ aider le parasite qu'ils identifient comme une nouvelle forme de vie consciente / _(garde)_ échapper du complexe avec un échantillon du parasite pour le revendre
+<!--### Conseils à la MJ-->
+:::
+
+---
+
+::: page
+<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+
 ![](roof__end__by_hunternif_dbtl9lx-fullview.jpg)
 ## 
 >
@@ -256,7 +339,7 @@ Guacamelee ?
 ::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
-![](d99wv2l-ce268dd1-550f-47d3-add5-0407f72a578b.jpg)
+![](estacion-de-tren-by-dumaker.jpg)
 ## Dirty cop
 >
 ### Objectif
@@ -397,7 +480,7 @@ s { /* dices */
   .footer { position: fixed; bottom: 0; right: 0; font-size: 1rem; }
   .footer > p { margin: 0; }
   /* Per-scenario tweaking: */
-  .page:nth-of-type(1) > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* FROSTPUNK */
+  .frostpunk > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* FROSTPUNK */
   #frostpunk h2 { text-align: left; margin: 0; }
   #obstacles-7 ul { margin: 0; }
 }

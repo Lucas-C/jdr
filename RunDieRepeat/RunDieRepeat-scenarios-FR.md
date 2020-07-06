@@ -70,7 +70,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [HITMAN - Absolution by EvanDeCiren](https://www.deviantart.com/evandeciren/art/HITMAN-Absolution-324477366) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
 - [Antü Plasma Suite by Fabián Alexis](https://commons.wikimedia.org/wiki/File:Antu_org.kde.plasma.timer.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/fr/)
 
-La carte du labyrinthe a été réalisée avec [Tabletop RPG Map editor II de Sébastien Bénard v15.4](https://deepnight.itch.io/tabletop-rpg-map-editor)
+La carte du labyrinthe a été réalisée avec [Tabletop RPG Map editor II de Sébastien Bénard](https://deepnight.itch.io/tabletop-rpg-map-editor)
 ([fichier JSON source](https://github.com/Lucas-C/jdr/blob/master/RunDieRepeat/Labyrinthe.json))
 
 Merci enfin aux développeurs des logiciels libres que j'ai employé :
@@ -626,17 +626,17 @@ s { /* dices */
   .page:nth-of-type(6) > p > img { max-height: 21rem; } /* LABYRINTHE */
   #labyrinthe h2 { margin: 0; }
   #labyrinthe p { margin-top: 0; margin-bottom: .4rem; }
-  .page:nth-of-type(7) > p > img { max-height: 20rem; } /* LA GRANDE GUERRE */
+  div:nth-of-type(7) > p > img { max-height: 20rem; } /* LA GRANDE GUERRE */
   #la-grande-guerre h2 { margin: .5rem; }
-  .page:nth-of-type(8) > p > img { max-height: 19rem; } /* INVASION */
+  div:nth-of-type(8) > p > img { max-height: 19rem; } /* INVASION */
   #invasion h2 { margin: 0; }
   #invasion blockquote { margin: 0; }
-  .page:nth-of-type(9) > p > img { max-height: 20rem; } /* LA CHUTE DU COLOSSE */
+  div:nth-of-type(9) > p > img { max-height: 20rem; } /* LA CHUTE DU COLOSSE */
   #la-chute-du-colosse h2 { margin: 0; }
-  .page:nth-of-type(10) > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* HITMAN */
+  div:nth-of-type(10) > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* HITMAN */
   #hitman h2 { text-align: left; margin: 0; }
   #obstacles-7 ul { margin: 0; }
-  .page:nth-of-type(11) > p > img { max-height: 22rem; } /* Spec Ops #1-#2-#3 */
+  div:nth-of-type(11) > p > img { max-height: 22rem; } /* Spec Ops #1-#2-#3 */
   #spec-ops-1-infiltration h2, #spec-ops-2-prototype h2, #spec-ops-3-revengeance h2 { margin: 0; }
 }
 /* Useful CSS rules to debug @page layout / margins * /
