@@ -3,8 +3,9 @@ set -o pipefail -o errexit -o nounset -o xtrace
 cd $(dirname ${BASH_SOURCE[0]})
 
 declare -A gamesOnItchIo
-gamesOnItchIo[LesNonMorts]=les-non-morts
+gamesOnItchIo['2200_le_jugement_des_dieux']='2200-le-jugement-des-dieux'
 gamesOnItchIo[gdav]=ameres-victoires-glorieuses-defaites
+gamesOnItchIo[LesNonMorts]=les-non-morts
 
 gameIdOnItchIo="${gamesOnItchIo[${TRAVIS_TAG%-*}]:-}"
 version=${TRAVIS_TAG##*-}

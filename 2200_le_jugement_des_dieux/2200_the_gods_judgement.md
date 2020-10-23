@@ -1,7 +1,3 @@
-<!-- TODO:
-* set PDF link to GitHub
-* add link to itch.io
--->
 # 2200: the gods judgement
 _A few moments ago, you were still alive.
 Now you seat still, on a metal chair, in a small waiting room.
@@ -13,7 +9,8 @@ A narrative role-playing game for 3 to 4 players, requiring no game master nor p
 Few rolls will be made but you will need two 8-sided dice (d8), three tokens, and optionally a timer.
 
 ::: web-only
-- [PDF version (1,1 Mo)]()
+- [PDF version (1 Mo)](https://chezsoi.org/lucas/blog/images/jdr/2200-the-gods-judgement-v1.1.pdf)
+- [itch.io page](https://lucas-c.itch.io/2200-le-jugement-des-dieux)
 :::
 
 :::: bicolumned

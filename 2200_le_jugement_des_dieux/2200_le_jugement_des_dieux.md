@@ -1,6 +1,6 @@
 <!--
-+ nvlle release & update sur tlpl
-+ add link to itch.io page
++ update sur tlpl
+
 -> ask 1 MJ de Trop si possible de les citer ?
 > Un jeu très intéressant et très bien fait. @ 3:36:10
 > Un jeu auquel je rejouerai avec plaisir. @ 3:36:40
@@ -48,12 +48,14 @@ Là où se jouera votre après-vie._
 
 Un jeu de rôle sans meneur pour 3 ou 4 joueurs, sans préparation nécessaire.
 Il comporte très peu de jets mais nécessite deux dés à 8 faces (d8), trois jetons quelconques,
-et optionnellement un sablier.
+et optionnellement un chronomètre.
 
 ::: web-only
 - [Version PDF (1,1 Mo)](https://chezsoi.org/lucas/blog/images/jdr/2200_le_jugement_des_dieux.pdf)
 
 - Article de blog présentant le jeu : <https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html>
+
+- [page itch.io](https://lucas-c.itch.io/2200-le-jugement-des-dieux)
 :::
 
 :::: bicolumned

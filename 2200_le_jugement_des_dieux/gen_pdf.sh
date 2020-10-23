@@ -4,7 +4,7 @@ set -o pipefail -o errexit -o nounset -o xtrace
 
 cd $(dirname ${BASH_SOURCE[0]})
 
-TAG=${1:2200-le-jugement-des-dieux}
+TAG=${1:2200_le_jugement_des_dieux}
 TMP_FILE=$(mktemp)
 
 puppeteer print index.html ${TMP_FILE}
