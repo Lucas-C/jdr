@@ -389,6 +389,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 
 ## Pour plus d'infos sur le sujet :
 - [Le film « La sociale »](https://chezsoi.org/shaarli/?jHaUCg)
+- ["Les jours heureux" dans le numéro 29 de la Revue Dessinée (Automne 2020)](https://www.4revues.fr/la-revue-dessinee/255-29-automne-2020.html)
 - [Pierre Laroque et les origines de la Sécurité sociale](https://www.cairn.info/revue-informations-sociales-2015-3-page-12.htm) (sur cairn.info)
 - 3 juin 1944 - 27 octobre 1946 : [Gouvernement provisoire de la République française](https://fr.wikipedia.org/wiki/Gouvernement_provisoire_de_la_R%C3%A9publique_fran%C3%A7aise) (sur Wikipédia)
 - [La “sécu” en mode mineur. Le regard de la presse dans l’immédiat après-guerre](https://www.cairn.info/revue-les-tribunes-de-la-sante1-2015-2-page-51.htm) (sur cairn.info)

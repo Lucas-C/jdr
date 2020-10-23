@@ -11,6 +11,7 @@
     + Patches: https://www.zerochan.net/Patches+%28Dark+Souls%29
     + Artorias and Sif: https://www.deviantart.com/nicosaba/art/Artorias-and-Sif-678383241
     + https://www.deviantart.com/demento-liszt/art/Resident-Evil-Remake-Fan-Art-Mutated-Lisa-Trevor-762853641
+    + https://freesvg.org/praying-skeleton-hands
 - com' sur forums :
   * [x] http://www.500nuancesdegeek.fr/forum/viewtopic.php?f=15&t=1318&p=8746
   * [x] http://www.taverneproduction.com/forum/viewtopic.php?f=396&t=4374&p=111172

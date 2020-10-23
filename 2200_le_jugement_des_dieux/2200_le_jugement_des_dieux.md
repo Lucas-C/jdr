@@ -1,4 +1,11 @@
 <!--
++ gen PDF in Travis CI
++ nvlle release & update sur tldr
++ add link to itch.io page
+-> ask 1 MJ de Trop si possible de les citer ?
+> Un jeu très intéressant et très bien fait. @ 3:36:10
+> Un jeu auquel je rejouerai avec plaisir. @ 3:36:40
+
 * illustrations + thématiques ? balance, marteau de juge...
 * alt illus: https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits
 
@@ -6,6 +13,30 @@
 - risque d'être trop long pour 4 joueurs, à 3 pas mal
 - domaine / ligne de conduite pas toujours top -> suggestion de réorganiser en sous-groupes
 - petite frustration vis à vis du manque de jets / possibilités
+
+# Playtest n°2 par 1 MJ de trop
+https://www.youtube.com/watch?v=-N2AwQi084A - 21 sept. 2020
+4 joueurs via Discord - jeu choisi par Jessica
+Point sécurité émotionnelle
+Règle du « oui et... » énoncée explicitement
+Musique d'ambiance employée
++ vision originale de l'Enfer, où les mortels sont des zombies hagards prisonniers dans leur tête et espacés les uns des autres d'un mètre.
++ l'argument du petit déjeuner TOUS LES JOURS LE MÊME !
++ très intéressant comme ils ont improvisé face à une androïde, dont ils ont esquissé une personnalité fascinante. J'aurais juste adoré qu'une des questions finales face référence aux lois d'Asimov
++ mortelle Emma : au cours de ce 1er jugement, devient de + en + monstrueuse & mégalo au fur & à mesure du procès
++ magnifique incarnation du Passeur !
+
+DEBRIEF @ 3h25
+* on sait pas quoi dire en tant que Mortel
+* l'aléatoire pour les mortels ça ne marche pas très bien ?
+* incompréhension face au jet de dé de la prise à partie
+* un joueur a exprimé qu'il aurait envie de rejouer
+* réflexions très pertinentes, sur le jeu narratif en général et sur la structure de celui-ci en particulier. Je pense que vous avez complètement compris l'intention du jeu et ce que je cherchais à provoquer comme ressenti !
+* merci à tous les 4 !
+
+MODIFS: rôle un peu + important donné aux pouvoirs, phase de sentence + vote de prise à partie clarifié + détaillée, adaptative width
+
+Je suis très touché de ce que vous avez fait de ce matériau, en vous l'appropriant pour inventer des Dieux et des Mortels fascinants !
 -->
 
 # 2200: le jugement des dieux
@@ -17,7 +48,7 @@ vous fasse signe d'entrer dans la pièce à côté.
 Là où se jouera votre après-vie._
 
 Un jeu de rôle sans meneur pour 3 ou 4 joueurs, sans préparation nécessaire.
-Il comporte très peu de jets mais nécessite deux dés à 8 faces, quelques pions quelconques,
+Il comporte très peu de jets mais nécessite deux dés à 8 faces (d8), trois jetons quelconques,
 et optionnellement un sablier.
 
 ::: web-only
@@ -63,7 +94,7 @@ N'hésitez pas non plus à adopter un choix n'apparaissant pas dans cette liste.
 5. Les fidélité et les promesses
 6. La guerre
 7. La bravoure
-8. Ce qui a inspiré ou fait rêver
+8. Ce qui inspire ou fait rêver
 
 Appropriez-vous ce domaine comme vous le souhaitez.
 Vous pouvez vous choisir une spécialité, ou décider que vous êtes une divinité double
@@ -121,7 +152,9 @@ puis les amène au tribunal et à leur destination finale.
 
 ## Le Mortel
 Ne créez votre Mortel que lorsque c'est votre tour d'être jugé.
-Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
+Lancez un d8 dans chaque table ci-dessous afin de définir quelques traits fondamentaux de votre personnage.
+Vous êtes libre de relancer les dés ou de choisir des traits issus de votre imagination.
+Les autres joueurs, incarnant les Dieux, prennent des notes et peuvent commencer à préparer votre Nécrologie.
 
 ::: tricolumned
 **Prénom**
@@ -150,9 +183,9 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 3. Amoral
 4. Opportuniste
 5. Dépravé
-6. Fachiste
+6. Fasciste
 7. Nihiliste
-8. Tamagochiste
+8. Fanatique
 :::
 
 **Milieu d'origine**
@@ -166,12 +199,12 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 8. Androïde ou transhumain
 
 **Domaine d'activité**
-1. Élu parlementaire
+1. Élu parlementaire controversé
 2. Homme de main d'une mafia
 3. Scientifique banni
-4. Astronaute
-5. Inspecteur de police
-6. Journaliste
+4. Astronaute devenu SDF
+5. Inspecteur de police ou indic'
+6. Journaliste tête brûlée
 7. Militant subversif
 8. Prêtre d'un dieu oublié
 
@@ -180,7 +213,7 @@ Pendant que vous le décrivez, les dieux peuvent préparer votre nécrologie.
 ## Le jugement
 Le joueur à la gauche du Mortel interprète le Passeur quelques instants.
 Il invite le Mortel à le suivre dans le tribunal, où il lui énonce les titres des dieux qui y siègent,
-puis l'introduit à l'assemblée.
+puis l'introduit à l'assemblée. Chaque joueur peut jouer le Passeur différemment: protocolaire, improbable, complice, snob...
 
 Le dieu du joueur incarnant le Mortel est bien sûr absent.
 
@@ -191,9 +224,9 @@ il peut renverser le sablier devant lui, puis l'interrompre lorsqu'il sera écou
 ### La necrologie
 <img class="float-right" alt="Visage effrayant au front scarifié" src="img/halloween_series_3_by_dumaker_d1osqbi-pre2.jpg">
 
-En commençant à gauche du Mortel, chaque dieu résume brièvement un pan de sa vie :
+En commençant à gauche du Mortel, chaque dieu résume brièvement un pan de sa vie, de manière détachée et factuelle, parmi :
 - sa naissance et son enfance
-- 2-3 faits marquants de sa vie
+- un fait marquant de son existence
 - les circonstances de sa mort
 
 Vous pouvez vous inspirer des événements de la table ci-dessous :
@@ -205,7 +238,7 @@ Vous pouvez vous inspirer des événements de la table ci-dessous :
 5.  l'épidémie de narcolepsie de 2176
 6.  l'affaire du tueur en série virtuel de 2194
 7.  le coup d'état corporatiste de 2183
-8.  l'affaire du serial killer des mondes virtuels de 2194
+8.  l'affaire du _serial killer_ des mondes virtuels de 2194
 9.  les psychotropes de synthèse procurant des capacités de précognition
 10. la révolte des androïdes mineurs de métaux rares de 2196
 11. la lutte pour les droits civiques des clones de 2192
@@ -216,12 +249,16 @@ Pour tirez un événement au hasard dans cette table,
 lancez un d8 et reportez le résultat dedans,
 en sautant par-dessus ceux déjà utilisés dans la partie.
 
+Si la vie du Mortel avait de la valeur aux yeux de certains dieux, ceux-ci ont peut-être usé de leur influence mystique, de leurs pouvoirs, pour influencer sur son existence.
+Si c'est le cas, chaque dieu est libre de le mentionner à cette étape, lorsqu'il décrit un élément biographique.
+
 ### Le plaidoyer
 Le dieu en face du Mortel lui explique ce qui va se jouer ici,
 et l'invite à s'exprimer, à leur exposer pourquoi il mérite une après-vie heureuse.
 
 Le Mortel a 5min pour parler librement.
-Il peut mentionner tout ce qu'il souhaite de sa vie passée.
+Il peut mentionner tout ce qu'il souhaite de sa vie passée,
+y compris en inventant de nouveaux épisodes.
 
 ### L'instruction
 En commençant à gauche du Mortel, chaque dieu expose un événement
@@ -255,7 +292,7 @@ vous êtes au-dessus des mortels et ils doivent s'adresser avec déférence enve
 vous avez vécu votre vie au diapason de leurs valeurs divines,
 même si vous découvrez tout juste ces critères !
 
-![Harrangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
+![Harangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
 
 ### Le conciliabule
 Les dieux décident de leur verdict en considérant les actions du Mortel
@@ -277,32 +314,33 @@ et dans la **gauche** sinon.
 ### La prise a partie
 <!--img class="float-right" src="img/cyberpunk_the_others_by_dumaker_d1p673o-pre.jpg"-->
 
-Une fois la décision des dieux prise,
-le Mortel peut réclamer à un dieu en particulier d'accomplir un défi de son choix pour prouver sa valeur,
-ou bien lui demander de consulter l'audience du tribunal,
-ou encore d'écouter le témoignage d'un Mortel qu'il a aidé ou sauvé.
+Une fois la décision des dieux prise, mais avant qu'ils ne révèlent leurs mains,,
+le Mortel peut réclamer à un dieu en particulier d'accomplir un défi de son choix pour prouver sa valeur :
+répondre à une énigme, renier ou sacrifier quelque chose, accomplir un exploit...
 
 Le dieu pris à partie est libre de refuser.
 S'il accepte, à lui d'énoncer les termes du challenge.
 
-Une fois celui-ci établit, il choisit 3 chiffres distinct entre 1 et 8.
-Puis le Mortel à son tour choisit 3 chiffres distincts et différents de ceux du dieux.
-Les 2 chiffres restant seront ceux du ou des dieux restants.
+Une fois celui-ci établit, le joueur incarnant le Mortel lance un d8 :
 
-Le joueur incarnant le Mortel décrit alors comment il s'y prend pour relever le challenge.
-
-Il lance ensuite un dé :
-- s'il obtient un des chiffres qu'il s'est choisi, c'est une **réussite** !
+- si le résultat est **6**, **7** ou **8**, le Mortel **réussit**, il surmonte le défi !
 Il « achète » le vote du dieu défié, qui met son jeton dans sa main droite.
-- sinon, le dieu correspondant au chiffre obtenu a alors le choix de changer son vote s'il le souhaite.
-De plus, si le vote final est négatif, ce dieu pourra imposera un châtiment supplémentaire
-au Mortel, un supplice sisyphéen de son goût.
+Le joueur qui incarne le Mortel a la parole pour décrire comment s'est déroulé le défi.
 
-De plus, le joueur dont le chiffre a été tiré décrit le résultat des efforts du Mortel.
+- si le résultat est **1**, **2** ou **3**,
+le Mortel **échoue** face au challenge du dieu défié. Le joueur qui incarne ce dernier a la parole pour décrire comment le Mortel a failli.
+
+- si le résultat est **4** ou **5**, le joueur incarnant la déité respectivement à gauche / à droite du dieu défié a la parole pour décrire comment se déroule le défi.
+
+Si le Mortel échoue, le dieu défié peut toujours changer son vote s'il le souhaite.
 
 ### La sentence
 Les dieux révèlent simultanément leur main droite.
 Si au moins 2 jetons sont révélés, l'âme du Mortel est sauvée.
+
+Les joueurs incarnant le Mortel et le Passeur peuvent alors interpréter rapidement la scène de fin du jugement et la sortie du tribunal, tandis que les dieux restent stoïques.
+
+Dieux et Mortels doivent respecter la sentence du tribunal. Pour autant, si un dieu n'est pas satisfait, il peut annoncer à la fin de cette dernière étape qu'il use de ses pouvoirs pour châtier ou récompenser le Mortel ou son entourage : restent en jeu son souvenir, son héritage, son œuvre, sa réincarnation peut-être...
 
 ## Variante « sort de l'humanite »
 
@@ -318,7 +356,7 @@ est découpée en phases d'accusation / défense, une par dieu face au Mortel :
 
 Les phases de Conciliabule & Prise à partie se déroulent à l'identique.
 
-<img class="big" alt="Dame dans un suaire blance à la lune noire" src="img/tensei-inktober2017-whitelady.jpg">
+<img class="big" alt="Dame dans un suaire blanc à la lune noire" src="img/tensei-inktober2017-whitelady.jpg">
 
 ### Licence et sources
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
@@ -326,13 +364,13 @@ Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://cre
 
 Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>
 
-Merci à Henri & Loïc pour le playtest !
+Merci à Henri & Loïc pour le playtest, ainsi qu'à la chaîne Youtube [1 MJ de Trop](https://www.youtube.com/channel/UCpQkVjNLTYP1aHVjt2sDY5A) pour avoir enregistré & partagé leur partie.
 
 <u>Polices :</u> [HACKED](https://hackedfont.com) par David Libeau.
 
 <u>Illustrations :</u>
 - deux dessins d'[Elliot Jolivet aka Tenseï réalisés lors d'Inktober 2017](https://www.behance.net/gallery/58695271/InkTober-2017)
-- [untitled by auto-spiral](https://www.deviantart.com/auto-spiral/art/untitled-745135444) - [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [untitled par auto-spiral](https://www.deviantart.com/auto-spiral/art/untitled-745135444) - [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [donde deje la llave](https://www.deviantart.com/dumaker/art/donde-deje-la-llave-63000642),
 [The gulls cyberpunk](https://www.deviantart.com/dumaker/art/The-gulls-cyberpunk-102688214),
 [Halloween Series 3](https://www.deviantart.com/dumaker/art/Halloween-Series-3-102117438)
@@ -376,9 +414,11 @@ h3 { font-size: 1.4rem; }
 p, ol, ul { margin: .3rem 0; }
 ol, ul { padding-inline-start: 1rem; }
 section { break-inside: avoid; }
-.bicolumned {
-  columns: 2;
-  padding-top: 1rem;
+@media (min-width: 680px) {
+  .bicolumned {
+    columns: 2;
+    padding-top: 1rem;
+  }
 }
 .tricolumned {
   columns: 3;

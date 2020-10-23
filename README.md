@@ -42,6 +42,7 @@ Ideas:
 - https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
 - top banner: http://hondu.co
 - cf. also notes.py libs like quadart, speck, Circle-Evolution
+- Zalgo: https://stackoverflow.com/q/6579844/636849
 
 Cool fonts:
 - Handwriting: https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1

@@ -60,7 +60,7 @@ Version PDF: ...
 
 Merci également à ces illustrateurs qui ont déposé leur magnifique travail sous licence _Creative Commons_ :
 
-- [Halloween Witch face profile](https://www.deviantart.com/scottepentzer/art/Halloween-Witch-face-profile-331368521) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
+- [Halloween Witch face profile by scottepentzer](https://www.deviantart.com/scottepentzer/art/Halloween-Witch-face-profile-331368521) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
 - [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [Corvo by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corvo-658049106) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [UBD Corpse Mite by Larvae801](https://www.deviantart.com/larvae801/art/UBD-Corpse-Mite-274636814) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
@@ -89,12 +89,12 @@ Ces scénarios sont publiés sous licence <a rel="license" href="http://creative
 <!-- Alt: https://freesvg.org/cartoon-fox-poses -->
 ## Le camembert de la sorcière
 > Vous êtes un petit renard habitant la forêt.
-> Cachée au coeur de cette forêt, vit une sorcière.
+> Cachée au cœur de cette forêt, vit une sorcière.
 > Elle est plutôt gentille avec les animaux... tant qu'on ne la met pas en colère !
 > Ce matin, vous l'avez vu sortir de sa cave de magnifiques camemberts...
 > Et puis elle est partie faire ses courses au marché.
 > Le camembert, c'est votre plat préféré !
-> Alors c'est décidé, vous allez lui en chaparder un !
+> Alors c'est décidé, vous allez lui en chaparder un...
 > Mais attention aux champignons magiques qui poussent dans sa chaumière !
 ### Objectif
 Chaparder un camembert et sortir de la maison de la sorcière avant son retour.

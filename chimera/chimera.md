@@ -52,6 +52,7 @@ Idées de mise en page
     image de background
     zones textes arrondies et à l'opacité légèrement différente par rapport au fond
     traits reliants certaines caracs
+    https://arwes.dev
 Idées pour website dédié
     image avec des yeux rouges en fond se met à s'animer après 1min
     lettre du texte se mettent à se déplacer pour former un mot au bout d'1min
@@ -86,6 +87,8 @@ https://www.behance.net/gallery/57662329/Neurostealer
 https://steamcommunity.com/app/464060/discussions/0/2765630416809926149/
 
 Neotokyo OST: https://www.youtube.com/watch?v=408tWOubRDM -> ou plutôt pour Dedale ?
+https://opengameart.org/content/epic-fall
+https://opengameart.org/content/act-of-war
 
 https://unsplash.com/photos/iO5z78REHhQ & https://unsplash.com/photos/TaY3ZSJig-U
 https://unsplash.com/collections/3436786/china-town-japanese
@@ -422,7 +425,7 @@ en complétant ce que le précédent vient de décrire.
 :::::
 
 :::: footer
-Un jeu de Lucas Cimon - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+Un jeu de Lucas Cimon - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 
 <!--Merci à ... pour le _playtest_ et vos suggestions inspirées.-->
 

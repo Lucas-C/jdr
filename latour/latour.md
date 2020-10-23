@@ -138,7 +138,7 @@ d6 | MJ: SURPRISE !
 6  | un séisme secoue La Tour
 ::::
 :::: footer
-Un jeu de Lucas Cimon - [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+Un jeu de Lucas Cimon - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 
 Merci à Henri & Matthieu pour le _playtest_ et vos suggestions inspirées.
 
