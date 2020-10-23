@@ -1,6 +1,5 @@
 <!--
-+ gen PDF in Travis CI
-+ nvlle release & update sur tldr
++ nvlle release & update sur tlpl
 + add link to itch.io page
 -> ask 1 MJ de Trop si possible de les citer ?
 > Un jeu très intéressant et très bien fait. @ 3:36:10
@@ -213,7 +212,7 @@ Les autres joueurs, incarnant les Dieux, prennent des notes et peuvent commencer
 ## Le jugement
 Le joueur à la gauche du Mortel interprète le Passeur quelques instants.
 Il invite le Mortel à le suivre dans le tribunal, où il lui énonce les titres des dieux qui y siègent,
-puis l'introduit à l'assemblée. Chaque joueur peut jouer le Passeur différemment: protocolaire, improbable, complice, snob...
+puis l'introduit à l'assemblée. Chaque joueur peut jouer le Passeur différemment: protocolaire, complice, incongru...
 
 Le dieu du joueur incarnant le Mortel est bien sûr absent.
 
@@ -224,12 +223,12 @@ il peut renverser le sablier devant lui, puis l'interrompre lorsqu'il sera écou
 ### La necrologie
 <img class="float-right" alt="Visage effrayant au front scarifié" src="img/halloween_series_3_by_dumaker_d1osqbi-pre2.jpg">
 
-En commençant à gauche du Mortel, chaque dieu résume brièvement un pan de sa vie, de manière détachée et factuelle, parmi :
+En commençant à gauche du Mortel, chaque dieu résume brièvement un pan de sa vie, de manière factuelle, parmi :
 - sa naissance et son enfance
-- un fait marquant de son existence
+- un fait marquant de sa vie
 - les circonstances de sa mort
 
-Vous pouvez vous inspirer des événements de la table ci-dessous :
+Vous pouvez vous inspirer des événements ci-dessous :
 
 1.  le scandale des effets secondaires du Solivox de 2186
 2.  les vagues de délation et d'expulsion pour crime de solidarité de 2191
@@ -239,8 +238,8 @@ Vous pouvez vous inspirer des événements de la table ci-dessous :
 6.  l'affaire du tueur en série virtuel de 2194
 7.  le coup d'état corporatiste de 2183
 8.  l'affaire du _serial killer_ des mondes virtuels de 2194
-9.  les psychotropes de synthèse procurant des capacités de précognition
-10. la révolte des androïdes mineurs de métaux rares de 2196
+9.  l'impact des nano-drogues rendant précognitifs
+10. la révolte d'androïdes mineurs de métaux rares en 2196
 11. la lutte pour les droits civiques des clones de 2192
 12. la seconde guerre froide du milieu du XXIIe siècle
 13. l'arrivée de réfugiés aliens en 2199
@@ -253,8 +252,8 @@ Si la vie du Mortel avait de la valeur aux yeux de certains dieux, ceux-ci ont p
 Si c'est le cas, chaque dieu est libre de le mentionner à cette étape, lorsqu'il décrit un élément biographique.
 
 ### Le plaidoyer
-Le dieu en face du Mortel lui explique ce qui va se jouer ici,
-et l'invite à s'exprimer, à leur exposer pourquoi il mérite une après-vie heureuse.
+Le dieu face au Mortel lui explique ce qui va se jouer,
+et l'invite à justifier pourquoi il mérite une après-vie heureuse.
 
 Le Mortel a 5min pour parler librement.
 Il peut mentionner tout ce qu'il souhaite de sa vie passée,
@@ -292,8 +291,6 @@ vous êtes au-dessus des mortels et ils doivent s'adresser avec déférence enve
 vous avez vécu votre vie au diapason de leurs valeurs divines,
 même si vous découvrez tout juste ces critères !
 
-![Harangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
-
 ### Le conciliabule
 Les dieux décident de leur verdict en considérant les actions du Mortel
 vis à vis de leur domaine.
@@ -311,6 +308,8 @@ Une fois leur décision prise, ils passent au vote : ils prennent chacun un des 
 Ils le placent ensuite secrètement dans leur main **droite** pour sauver l'âme du Mortel,
 et dans la **gauche** sinon.
 
+![Harangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
+
 ### La prise a partie
 <!--img class="float-right" src="img/cyberpunk_the_others_by_dumaker_d1p673o-pre.jpg"-->
 
@@ -321,7 +320,7 @@ répondre à une énigme, renier ou sacrifier quelque chose, accomplir un exploi
 Le dieu pris à partie est libre de refuser.
 S'il accepte, à lui d'énoncer les termes du challenge.
 
-Une fois celui-ci établit, le joueur incarnant le Mortel lance un d8 :
+Ensuite, le joueur incarnant le Mortel lance un d8 :
 
 - si le résultat est **6**, **7** ou **8**, le Mortel **réussit**, il surmonte le défi !
 Il « achète » le vote du dieu défié, qui met son jeton dans sa main droite.
@@ -342,29 +341,28 @@ Les joueurs incarnant le Mortel et le Passeur peuvent alors interpréter rapidem
 
 Dieux et Mortels doivent respecter la sentence du tribunal. Pour autant, si un dieu n'est pas satisfait, il peut annoncer à la fin de cette dernière étape qu'il use de ses pouvoirs pour châtier ou récompenser le Mortel ou son entourage : restent en jeu son souvenir, son héritage, son œuvre, sa réincarnation peut-être...
 
-## Variante « sort de l'humanite »
+### Variante « sort de l'humanite »
 
 Les Mortels ne plaident plus pour leur âme, mais pour sauver l'humanité.
-
 Le déroulement de chaque phase de jugement change alors :
 plus de nécrologie ni de plaidoyer, et l'étape d'instruction
 est découpée en phases d'accusation / défense, une par dieu face au Mortel :
-  * **accusation** : chaque dieu / déesse mentionne un événement, auquel le Mortel a assisté de son vivant,
+  * **accusation** : chaque divinité mentionne un événement, que le Mortel a vécu,
   démontrant la déchéance de l'homme selon elle, et selon son domaine.
   * **défense** : le Mortel s'exprime ensuite, et tente par tous les moyens rhétoriques
   de convaincre les divinités de la valeur du genre humain.
 
-Les phases de Conciliabule & Prise à partie se déroulent à l'identique.
-
-<img class="big" alt="Dame dans un suaire blanc à la lune noire" src="img/tensei-inktober2017-whitelady.jpg">
+Les phases de Conciliabule & Prise à partie sont identiques.
 
 ### Licence et sources
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Version: 1.1.
 
-Si vous le testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>
+<img class="medium float-right" alt="Dame dans un suaire blanc à la lune noire" src="img/tensei-inktober2017-whitelady.jpg">
 
-Merci à Henri & Loïc pour le playtest, ainsi qu'à la chaîne Youtube [1 MJ de Trop](https://www.youtube.com/channel/UCpQkVjNLTYP1aHVjt2sDY5A) pour avoir enregistré & partagé leur partie.
+Si vous le testez, songez à me laisser un petit commentaire sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+
+Merci à Henri & Loïc pour le playtest, ainsi qu'à [1 MJ de Trop](https://www.youtube.com/channel/UCpQkVjNLTYP1aHVjt2sDY5A) pour avoir enregistré & partagé leur partie sur Youtube.
 
 <u>Polices :</u> [HACKED](https://hackedfont.com) par David Libeau.
 
@@ -384,10 +382,7 @@ ainsi que les jeux de rôle Urban Armies et Le Dernier Café Sur la Droite.
 ::::
 
 <style type="text/css">
-@font-face {
-  font-family: HACKED;
-  src: url('fonts/HACKED.ttf') format('truetype');
-}
+@font-face { font-family: HACKED; src: url('fonts/HACKED.ttf') format('truetype'); }
 
 body {
   max-width: 46rem;
@@ -414,16 +409,10 @@ h3 { font-size: 1.4rem; }
 p, ol, ul { margin: .3rem 0; }
 ol, ul { padding-inline-start: 1rem; }
 section { break-inside: avoid; }
-@media (min-width: 680px) {
-  .bicolumned {
-    columns: 2;
-    padding-top: 1rem;
-  }
+@media print, (min-width: 680px) {
+  .bicolumned { columns: 2; padding-top: 1rem; }
 }
-.tricolumned {
-  columns: 3;
-  padding: 1rem;
-}
+.tricolumned { columns: 3; padding: 1rem; }
 .tricolumned > * { margin: 0; }
 img {
   display: block;
@@ -431,11 +420,10 @@ img {
   max-width: 80%;
   margin: 0 auto;
 }
-img.big {
-  max-height: 16rem;
-}
-.float-left {float: left;}
-.float-right {float: right;}
+img.medium { max-height: 14rem; }
+img.big { max-height: 16rem; }
+.float-left { float: left; }
+.float-right { float: right; }
 @media print {
   .web-only { display: none; }
 }

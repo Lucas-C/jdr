@@ -235,8 +235,6 @@ you are above mortals and they should address you with deference.
 you have lived your life in tune with their divine values,
 even if you have just discovered those criteria!
 
-![Harangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
-
 ### The ruling
 The gods decide their verdict considering the actions of the Mortal with respect to their domain.
 They take all the facts mentioned into consideration:
@@ -250,6 +248,8 @@ see defending a Mortal they like against other deities.
 Once their decision has been made, they vote: each take one of the tokens on the table.
 They then secretly place it in either their **right hand to save** the Mortal's soul,
 and in the **left hand to damn them to Hell**.
+
+![Harangue](img/furia_by_dumaker_d1p2gr9-pre.jpg)
 
 ### The appeal
 <!--img class="float-right" src="img/cyberpunk_the_others_by_dumaker_d1p673o-pre.jpg"-->
@@ -311,10 +311,7 @@ as well as the tabletop roleplaying games Urban Armies and [The Last Coffee Shop
 ::::
 
 <style type="text/css">
-@font-face {
-  font-family: HACKED;
-  src: url('fonts/HACKED.ttf') format('truetype');
-}
+@font-face { font-family: HACKED; src: url('fonts/HACKED.ttf') format('truetype'); }
 
 body {
   max-width: 46rem;
@@ -341,16 +338,10 @@ h3 { font-size: 1.4rem; }
 p, ol, ul { margin: .3rem 0; }
 ol, ul { padding-inline-start: 1rem; }
 section { break-inside: avoid; }
-@media (min-width: 680px) {
-  .bicolumned {
-    columns: 2;
-    padding-top: 1rem;
-  }
+@media print, (min-width: 680px) {
+  .bicolumned { columns: 2; padding-top: 1rem; }
 }
-.tricolumned {
-  columns: 3;
-  padding: 1rem;
-}
+.tricolumned { columns: 3; padding: 1rem; }
 .tricolumned > * { margin: 0; }
 img {
   display: block;
@@ -358,11 +349,10 @@ img {
   max-width: 80%;
   margin: 0 auto;
 }
-img.big {
-  max-height: 16rem;
-}
-.float-left {float: left;}
-.float-right {float: right;}
+img.medium { max-height: 14rem; }
+img.big { max-height: 16rem; }
+.float-left { float: left; }
+.float-right { float: right; }
 @media print {
   .web-only { display: none; }
 }
