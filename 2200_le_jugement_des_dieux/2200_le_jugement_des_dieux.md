@@ -1,6 +1,4 @@
 <!--
-+ update sur tlpl
-
 -> ask 1 MJ de Trop si possible de les citer ?
 > Un jeu très intéressant et très bien fait. @ 3:36:10
 > Un jeu auquel je rejouerai avec plaisir. @ 3:36:40
@@ -19,23 +17,15 @@ https://www.youtube.com/watch?v=-N2AwQi084A - 21 sept. 2020
 Point sécurité émotionnelle
 Règle du « oui et... » énoncée explicitement
 Musique d'ambiance employée
-+ vision originale de l'Enfer, où les mortels sont des zombies hagards prisonniers dans leur tête et espacés les uns des autres d'un mètre.
-+ l'argument du petit déjeuner TOUS LES JOURS LE MÊME !
-+ très intéressant comme ils ont improvisé face à une androïde, dont ils ont esquissé une personnalité fascinante. J'aurais juste adoré qu'une des questions finales face référence aux lois d'Asimov
-+ mortelle Emma : au cours de ce 1er jugement, devient de + en + monstrueuse & mégalo au fur & à mesure du procès
-+ magnifique incarnation du Passeur !
 
 DEBRIEF @ 3h25
 * on sait pas quoi dire en tant que Mortel
 * l'aléatoire pour les mortels ça ne marche pas très bien ?
 * incompréhension face au jet de dé de la prise à partie
 * un joueur a exprimé qu'il aurait envie de rejouer
-* réflexions très pertinentes, sur le jeu narratif en général et sur la structure de celui-ci en particulier. Je pense que vous avez complètement compris l'intention du jeu et ce que je cherchais à provoquer comme ressenti !
-* merci à tous les 4 !
+* réflexions très pertinentes, sur le jeu narratif en général et sur la structure de celui-ci en particulier
 
-MODIFS: rôle un peu + important donné aux pouvoirs, phase de sentence + vote de prise à partie clarifié + détaillée, adaptative width
-
-Je suis très touché de ce que vous avez fait de ce matériau, en vous l'appropriant pour inventer des Dieux et des Mortels fascinants !
+v1.1: rôle un peu + important donné aux pouvoirs, phase de sentence + vote de prise à partie clarifié + détaillée, adaptative width
 -->
 
 # 2200: le jugement des dieux
