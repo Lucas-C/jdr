@@ -41,7 +41,7 @@ Il comporte très peu de jets mais nécessite deux dés à 8 faces (d8), trois j
 et optionnellement un chronomètre.
 
 ::: web-only
-- [Version PDF (1,1 Mo)](https://chezsoi.org/lucas/blog/images/jdr/2200_le_jugement_des_dieux.pdf)
+- [Version PDF (1,1 Mo)](https://chezsoi.org/lucas/blog/images/jdr/2200-le-jugement-des-dieux-v1.1.pdf)
 
 - Article de blog présentant le jeu : <https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html>
 
