@@ -28,7 +28,7 @@ DEBRIEF @ 3h25
 v1.1: rôle un peu + important donné aux pouvoirs, phase de sentence + vote de prise à partie clarifié + détaillée, adaptative width
 -->
 
-# 2200: le jugement des dieux
+# 2200 : le jugement des dieux
 _Il y a quelques instants encore, vous étiez vivant.
 Maintenant vous êtes assis dans une petite salle d'attente.
 Le Purgatoire, d'après l'inscription que vous distinguez à l'envers sur la porte vitrée.
@@ -63,7 +63,7 @@ Et selon votre décision elle finira en Enfer ou au Paradis.
 
 Tour à tour, vous allez mettre de côté votre rôle divin pour incarner un Mortel
 dont les actions seront passées au crible par un panel de dieux.
-Sa vie s'est déroulé au XXIIe siècle, dans le futur de notre monde actuel,
+Sa vie s'est déroulée au XXIIe siècle, dans le futur de notre monde actuel,
 devenu légèrement cyberpunk et dystopique.
 
 **Règle d'or** : [« oui et... »](https://improetc.wordpress.com/2013/10/20/la-regle-du-oui/),
@@ -74,7 +74,7 @@ S'il vous faut une raison diégétique, considérez que le tribunal empêche tou
 
 ## Dieux et deesses
 Tirez au hasard quel est votre **domaine divin** :
-lancé deux dés et choisissez le résultat que vous préférez.
+lancez deux dés et choisissez le résultat que vous préférez.
 N'hésitez pas non plus à adopter un choix n'apparaissant pas dans cette liste.
 
 **Domaine divin**
@@ -82,7 +82,7 @@ N'hésitez pas non plus à adopter un choix n'apparaissant pas dans cette liste.
 2. La productivité
 3. Les animaux et les plantes
 4. La connaissance et la technologie
-5. Les fidélité et les promesses
+5. La fidélité et les promesses
 6. La guerre
 7. La bravoure
 8. Ce qui inspire ou fait rêver
@@ -106,14 +106,14 @@ N'hésitez pas à prendre celui d'un dieu connu.
 Un dieu de l'argent peut tout à fait considérer qu'il s'agit d'une force corruptrice
 et que les plus nobles des Mortels sont ceux qui y résistent.
 Soyez bien clairs avec les autres joueurs sur vos valeurs
-et quelle ligne de conduite que vous avez en estime.
+et quelle ligne de conduite vous avez en estime.
 
 
 ## Le tribunal
 <img class="big" alt="Homme nu portant un masque d'où pend une clef" src="img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg">
 
 Lancez chacun un dé, et départagez les égalités.
-Du résultat le plus petit au plus élevé, répondez chacun à l'une de ces questions en détails :
+Du résultat le plus petit au plus élevé, répondez chacun à l'une de ces questions en détail :
 
 1. Depuis le tribunal on peut admirer une vue aérienne d'une ville contemporaine.
 Comment se nomme cette ville ?
@@ -131,7 +131,7 @@ Décrivez ce petit aperçu d'Enfer.
 S'agit-il d'un lieu banal ? Ou bien un palace ?
 Décrivez où se tiennent les dieux et le Mortel,
 et comment il est possible d'apercevoir les lieux précédemment décrits :
-à travers un fenêtre, l’entrebâillement d'une porte, via un vieil écran cathodique, ou autrement ?
+à travers une fenêtre, l’entrebâillement d'une porte, via un vieil écran cathodique, ou autrement ?
 
 À 3 joueurs, tout le monde participe à cette dernière description.
 
@@ -236,7 +236,7 @@ Vous pouvez vous inspirer des événements ci-dessous :
 12. la seconde guerre froide du milieu du XXIIe siècle
 13. l'arrivée de réfugiés aliens en 2199
 
-Pour tirez un événement au hasard dans cette table,
+Pour tirer un événement au hasard dans cette table,
 lancez un d8 et reportez le résultat dedans,
 en sautant par-dessus ceux déjà utilisés dans la partie.
 
