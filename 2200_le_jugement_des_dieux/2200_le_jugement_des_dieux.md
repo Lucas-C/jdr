@@ -24,8 +24,6 @@ DEBRIEF @ 3h25
 * incompréhension face au jet de dé de la prise à partie
 * un joueur a exprimé qu'il aurait envie de rejouer
 * réflexions très pertinentes, sur le jeu narratif en général et sur la structure de celui-ci en particulier
-
-v1.1: rôle un peu + important donné aux pouvoirs, phase de sentence + vote de prise à partie clarifié + détaillée, adaptative width
 -->
 
 # 2200: le jugement des dieux

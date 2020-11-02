@@ -1,4 +1,8 @@
 <!--
+Frostpunk: une illustration de chaudière géante dans la neige sera mieux, mais pas trouvée !
+Parasite : périmètre à revoir peut-être, les PJs ont eu du mal déjà à sortir de la salle blance et ont filé par la gaine d'aération...
+- se laisser tripoter dans boîte de petri initiale => être déplacé sous microscope
+
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
 
@@ -26,23 +30,19 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 
 * jouer 2 ou 3 points de vues de différents personnage lors d'un même événement
 
-Idées d'HENRI:
-- On joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
-- Tu es infiltré chez des trafiquants et ta couverture est tombée
+Idée d'HENRI: on joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
 Autres idées :
-* TRILOGIE réaliste
-  + fille crush déjà cotoyée à quelques reprises. Le jour où vous vous décidez à l'inviter à diner, un bouquet la main,
-    vous apprenez de la bouche du propriétaire, qui vous ouvre la porte, qu'elle déménage et est partie il y a une minute !
-    il faut la rattraper et lui déclarer votre flamme !
+* TRILOGIE suite à "Dernier wagon pour l'amour":
+  + bébé qui s'évade de son berceau
   + votre fils est mordu par XXX lors d'une rando : il faut le sauver !
-* The Lost Room
-* Médecin urgentiste ( Sovok ? )
 * Donjon:
   - pièges : marteau-balancier géant, escalier-glissière, dards empoisonnés, flammes
   - monstres : gobelins, squelettes, basilic...
-* Pompier
 * Malediction -> condamne au purgatoire sur toutes les générations -> on incarne à chaque fois un descendant
+* The Lost Room
+* Médecin urgentiste ( Sovok ? )
+* Pompier
 * Jour de la Marmotte ?
 -->
 
@@ -70,6 +70,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Comic El Santo Lucha Libre](https://www.pexels.com/photo/comic-el-santo-lucha-libre-614364/) de pexels.com
 - [Perso riding on vehicule](https://www.pexels.com/photo/person-riding-on-vehicle-2190511/) de pexels.com
 - [Light Inside Library](https://www.pexels.com/photo/blur-book-stack-books-bookshelves-590493/) de pexels.com
+- [red poppy flower on gray train rail with gray stones at daytime](https://www.pikrepo.com/fqfhl/selective-focus-photo-of-red-poppy-flower-on-gray-train-rail-with-gray-stones-at-daytime) de pikrepo.com
 
 Merci enfin aux développeurs des logiciels libres que j'ai employé :
 Firefox, Gimp, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
@@ -135,7 +136,7 @@ Ajoutez un chien qui dort dans sa niche, et qu'il ne faut pas réveiller, mais d
 > vers une terre promise. À bout de forces, vous avez atteint un étrange monolithe mécanique,
 > une chaudière géante. Vos ingénieurs comprennent cette technologie steampunk
 > juste assez pour le rallumer, ravivant un espoir.
-> Mais le plus dur reste à venir pour votre colonie d'une centaine d'âmes...
+> Mais le plus dur reste à venir pour votre colonie d'une trentaine d'âmes...
 ### Objectif
 Survivre jusqu'à établir une colonie pérenne.
 ### Inspirations
@@ -143,8 +144,10 @@ Le jeu vidéo éponyme et le [_Let's Play_ du Joueur du Grenier](https://www.you
 ### Règles spéciales
 Les joueuses incarnent le capitaine de la colonie, et prennent des décisions à cette échelle.
 Cela signifie que leurs actions peuvent impliquer des dizaines de personnes,
-mais aussi qu'une journée correspond à deux actions (= jet de dé).
+mais aussi qu'une journée correspond à deux actions (= 2 jets de dé).
 Et chaque jour voit arriver une nouvelle difficulté...
+
+Si la MJ estime qu'une action des joueuses ravive l'espoir de la colonie, elle peut octroyer un bonus de **+1** au jet suivant.
 ### Environnement
 Des montagnes ensevelies sous la neige, à perte de vue,
 et un vent glacial, plusieurs degrés sous le zéro Celsius.
@@ -152,28 +155,23 @@ Un filon de charbon peut être découvert à proximité,
 ainsi que des automates steampunks en sale état,
 qui devaient servir à entretenir la chaudière.
 
-Votre colonie est constituée majoritairement d'individus robustes, dur à la tâche,
-mais à l'éducation limitée. Le reste des survivants inclue des ingénieurs, des trappeurs,
-quelques médecins, des prêtres, un botaniste, un instituteur, des femmes et des enfants.
+Votre colonie est constituée d'individus robustes, mais à bouts de forces.
+Les survivants incluent deux ingénieurs, des trappeurs,
+une femme médecin, un prêtre, un botaniste, une institutrice, et quelques enfants.
 ### Difficultés
-Voici quelques événements / dilemnes majeurs pour la communauté.
-La MJ en choisit un par jour, au fur et à mesure :
-* vos citoyens meurent de froid par manque d'abris
-* vos citoyens meurent de faim par manque de nourriture
-* une avalanche a isolé des dizaines de personnes dans la mine de charbon qui a été découverte
-* découverte des ruines de Nidhiver, la terre promise. L'espoir diminue.
-* le générateur tombe en panne
-* une épidémie de peste se déclare
-* des citoyens appelent à la rébellion et veulent repartir d'où vous venez
-* une terrible tempête de froid se déclare
-* des vols de nourriture ont lieu dans les réserves
-* des créatures attaquent ! Des morts revenus à la vie ?
+* **JOUR 1:** la nuit, la température chute drastiquement : vos citoyens ont besoin d'abris
+* **JOUR 2:** vos citoyens meurent de faim par manque de nourriture, et le stock de charbon baisse dangereusement
+* **JOUR 3:** le générateur tombe en panne, et des vols de nourriture ont lieu dans les réserves
+* **JOUR 4:** une épidémie de peste se déclare, et une avalanche a isolé des dizaines de personnes dans la mine de charbon qui a été découverte
+* **JOUR 5:** des citoyens appelent à la rébellion et veulent repartir d'où vous venez
+* (**JOUR 6:** ils attaquent ! Des morts vivants, ou pire ?)
 ### Autres événements
-* un groupe de surivants égarés à été aperçu à quelques kilomètres, se dirigeant vers une tempête.
-Faut-il leur porter secours et les acceuillir ?
-* découverte d'un chemin de fer. Un train qui ne s'arrête jamais y circule.
-* des gens auraient été aperçus dans lq montagne
-* découverte par les explorateurs d'une stèle avec une inscription runique
+* un autre groupe de survivants à été aperçu dans les montagnes.
+Faut-il leur porter secours et les acceuillir, alors qu'une tempête approche ?
+* découverte d'un chemin de fer. Un train y circule sans s'arrêter.
+* une stèle est exhumée comportant une inscription runique.Si du temps est consacrée à la décrypter, elle révelera l'emplacement de Nidhiver,
+une ville prévue pour résister à l'hiver permanent.Elle est à seulement un jour de marche, mais cette terre promise se révelera un faux espoir,
+car la colonie la découvrira en ruines !
 :::
 
 ---
@@ -183,9 +181,9 @@ Faut-il leur porter secours et les acceuillir ?
 
 ![](corvo_by_fernand0fc_davs9xu-fullview.jpg)
 ## Dishonored
-> Dunwall. Une ville victorienne steampunk qui a basé son commerce et sa technologie sur la pêche de baleines et le raffinage de leur graisse en huile électrostatique. Dans cette ville frappée par une terrible épidémie de Peste du Rat, vous êtes Corvo Attano, le protecteur personnel de l'impératrice Jessamine Kaldwin.
+> Dunwall. Une ville victorienne steampunk frappée par une terrible épidémie de Peste du Rat. Vous êtes Corvo Attano, le protecteur personnel de l'impératrice Jessamine Kaldwin.
 > Alors que vous accompagnez celle-ci, soucieuse de la situation, et sa fille Emily lors d'une balade dans les jardins du palais, vous êtes attaqués par un groupe d'assassins !
-> L'impératrice est tuée, sa fille enlevée. Vous avez **assisté** de vos yeux à la scène... mais vous avez conclu un pacte avec l'Étranger, dans le monde onirique où il vous a entrainé, et vous voici de retour à cet instant, avec cette fois d'étranges pouvoirs, et l'intention de changer l'histoire !
+> L'impératrice est tuée, sa fille enlevée. Vous avez **assisté** de vos yeux à la scène... mais vous avez conclu un pacte avec un mystérieux sorcier, et vous voici de retour à cet instant, avec cette fois d'étranges pouvoirs, et l'intention de changer l'histoire !
 ### Objectif
 Amener l'impératrice et sa fille en sécurité au palais.
 ### Règles spéciales
@@ -207,7 +205,7 @@ et ne peut pas être employé pour 2 actions de suite.
 - de manière générale, les assassins tenteront de tuer l'impératrice, d'enlever Emily, et d'éloigner ou neutraliser Corvo.
 - dès le début 5 assassins sortent des fourrés et vous assaillent.
 Armés de sabres, 2 attaquent Corvo, 2 se chargent de l'impératrice et sa fille, et le dernier reste en retrait pour vous canarder avec une arquebuse (si on lui court dessus, il n'a le temps de tirer que 2 fois).
-Corvo ne peut pas simultanément empêcher le meutre de l'impératrice et l'enlevement d'Emily.
+Corvo ne peut pas simultanément empêcher le meutre de l'impératrice et l'enlèvement d'Emily.
 Une fois la première protégée, il peut partir à la poursuite du ravisseur de la seconde.
 - le ravisseur d'Emily l'entraine jusqu'à un bateau accosté au pied de la falaise, que l'on atteint en descendant une corde
 - le long de la falaise, vers le palais, 3 brutes barrent l'étroit chemin, couverts de pustules de la Peste.
@@ -220,9 +218,10 @@ Il tentera en dernier recours, en voyant l'impératrice arriver au palais, de sa
 - interrompez le _run_ dès que l'impératrice ou sa fille meurent
 - un sabre à la main, l'impératrice peut se défendre seule quelque temps.
 Elle cherchera d'abord à protéger sa fille, puis à rejoindre le palais.
-Elle fait confiance au lord régent et sera naïvement compatissante face à des malades de la Peste.
-- Emily Kaldwin est futée, douée à l'escalade mais impulsive.
-Elle tentera de s'enfuir et de se cacher, voir à jeter des graviers aux yeux ou à sauter de la falaise plutôt que de laisser un assassin l'approcher de front. Elle se méfie du lord régent et destabilisera le garde mécanique en lui lançant un seau d'eau.
+Elle fait confiance au lord régent.
+- bien qu'agile et futée, Emily Kaldwin se fait rapidement assomer.
+Elle se méfie du lord régent, et si elle est consciente à la fin, destabilisera le garde mécanique en lui lançant un seau d'eau.
+- le but de la règle de la capacité au choix est de tenter les joueuses d'essayer plein de pouvoirs différents, avec comme conséquence de ne pas pouvoir réutiliser les actions réussies par les autres, et donc de rendre la progression difficile !
 :::
 
 ---
@@ -231,7 +230,6 @@ Elle tentera de s'enfuir et de se cacher, voir à jeter des graviers aux yeux ou
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ![](UBD-Corpse-Mite-by-Larvae801.png)
-<!-- Alt: https://www.deviantart.com/sunnyclockwork/art/SCP-163-482911397 -->
 ## Parasite
 > Vous êtes un parasite microscopique, une arme bactériologique créée dans un laboratoire top secret.
 > Suite à une énième hybridation, vous venez d'acquérir une vive intelligence, la conscience de vous-même,
@@ -246,12 +244,12 @@ Les joueurs disposent des actions suivantes comme parasite :
 - se propager par contact physique, en abandonnant le corps hôte précédent
 - faire effectuer jusqu'à **2 actions** à son hôte, après quoi celui-ci reprend le contrôle
 ### Environnement
-- vous débutez dans la salle blanche, qui contient des plans de travail, des appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens, un incinérateur et un grand nombre de produits chimiques
-- la seule sortie donne sur un couloir desservant trois pièces : une salle de pause / réunion avec kitchenette et tableau blanc; une pièce contenant des postes de travail informatique et un écran géant affichant des statistiques en temps réel; un large ascenseur permettant d'accéder au rez-de-chaussée et aux étages du complexe, dans lequel les gardes ont un petit bureau d'où ils peuvent surveiller les caméras de sécurité.
+- vous débutez dans la salle blanche, qui contient des plans de travail, des appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens, un incinérateur et un grand nombre de produits chimiques.
+- la seule sortie donne sur un couloir desservant trois pièces : une salle de pause / réunion avec kitchenette et tableau blanc; une pièce contenant des postes de travail informatique et un écran géant affichant des statistiques en temps réel; un large ascenseur, dans lequel les gardes ont un petit bureau d'où ils peuvent surveiller les caméras de sécurité, et qui permet d'accéder au rez-de-chaussée et aux étages du complexe.
 - le personnel du niveau **-1** est constitué de 6 scientifiques (Pr. Elsa Martin, Dr. James Edward, technicienne Sarah Tran...) et de 2 gardes paramilitaires (sergent Matthew Douglas & caporal Thomas Jacobson). Au début de la partie, la professeur Martin vient de réaliser la manipulation qui vous a donné conscience, et une opportunité s'offre à vous de vous infiltrer par une micro-déchirure de son gant protecteur. Le docteur Edward est également présent dans la salle blanche, tandis que Sarah Tran est dans la salle informatique et les 3 autres dans la salle de réunion.
 - au rez-de-chaussé, l'ascenceur dessert directement le hall principal, assez imposant dans un style greco-romain chargé de marbre et d'or, où trone un bureau d'accueil massif. La sortie à l'extérieur se fait par une simple porte vitrée coulissante, mais le bureau de la sécurité est juste à côté et héberge quatre gardes vifs et à la gachette facile.
 ### Obstacles
-- survivre à la traversée du sas désinfectant requiert une combinaison totale, et il possède un scanner rétinien.
+- survivre à la traversée du sas désinfectant requiert une combinaison totale. Un scanner rétinien permet d'y entrer.
 - l'ascenseur s'active à l'aide du badge d'un garde, associé à une reconnaissance vocale
 - comportement des PNJs (la MJ peut relancer à loisir) :
   + ⚀-⚁ détruire le parasite quitte à y laisser leur vie
@@ -265,11 +263,62 @@ Les joueurs disposent des actions suivantes comme parasite :
 ::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
+![](pikrepo-flower-on-rails.jpg)
+## Dernier wagon pour l'amour
+> Étudiant, vous avez 22 ans, et cet été un petit boulot vous a ammené dans la campagne angevine.
+> Vous logez dans une chambre sous les toits, dans un petit village le long de la Loire.
+> Tous les soirs, physiquement fatigué mais joyeux, charmé par la campagne bucolique,
+> vous rentrez à pieds à travers champs jusqu'à votre village.
+> Et chaque soir, dans l'escalier, vous croisez invariablement votre voisine, et votre coeur s'emballe...
+> Ses cheveux courts, sa démarche les regards que vous échangez... Il y a à chaque fois quelque chose d'électrique dans l'air !
+
+> Vous avez échangé quelques mots, partagé un café sur le palier, et même êtes allez courir ensemble une fois... Mais vous n'avez pas encore franchi le pas de lui déclarer votre flamme.
+> Ce soir pourtant, c'est décidé, votre coeur bat la chamade : vous allez l'inviter à diner !
+> Mais alors que vous arrivez à votre logement, un bouquet de fleurs sauvages sous le bras, votre logeuse vous annonce que Marion vient de partir pour la gare, ses bagages à la main !
+
+### Objectif
+Rattraper Marion et lui déclarer votre flamme !
+
+### Règles spéciales
+Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'interrompt car aucune histoire d'amour ne pourra naître : train râté, approche des joueurs trop brusque ou pataude, rebutant Marion...
+
+### Environnement
+- votre logeuse est une très gentille septuagénaire. Ses soupçons sur le _crush_ que vous avez envers Marion se confirment en voyant le bouquet : se désolant de vous voir si dépité, elle n'hésitera pas à vous proposer sa bicyclette !
+- la gare est à environ 1km
+- le train est un vieux modèle : en étant agile, il est possible d'y monter en marche
+
+### Obstacles
+- un troupeau de vaches sur la route jusqu'à la gare
+- deux policiers sont à la gare, et vous n'avez pas de masque
+- le train est en train de partir !
+- le contrôleur dans le train
+- un blond sportif bien habillé est sur le point de l'aborder !
+
+### Conseils à la MJ
+Si vous jouez sur via Discord, commencez la partie en proposant aux joueurs de voter pour le prénom de leur personnage :
+```
+/poll "Comment vous appelez-vous" "Tom" "Sylvain" "Felipe" "Chlöé"
+
+```
+
+<!--
+### Inspirations
+
+
+### Rejouer le scénario
+-->
+:::
+
+---
+
+::: page
+<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+
 ![](roof__end__by_hunternif_dbtl9lx-fullview.jpg)
 ## 
 >
 ### Objectif
-
+Pitch (merci Henri) : tu es infiltré chez des trafiquants et ta couverture vient de tomber
 ### Inspirations
 Matrix, le clip du morceau [Bad Motherfucker des Biting Elbows](https://www.youtube.com/watch?v=Rgox84KE7iY)
 ### Règles spéciales
@@ -459,6 +508,7 @@ s { /* dices */
   line-height: .8;
   vertical-align: bottom;
 }
+code { font-size: 1.2rem; }
 @media print {
   @page {
     size: A4 landscape; /* set PDF landscape mode - cf. https://github.com/puppeteer/puppeteer/issues/3834#issuecomment-549007667 */
