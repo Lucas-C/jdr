@@ -1,7 +1,12 @@
 <!--
 Frostpunk: une illustration de chaudière géante dans la neige sera mieux, mais pas trouvée !
++ améliorer l'explication 1 action = 1/2 jour
 Parasite : périmètre à revoir peut-être, les PJs ont eu du mal déjà à sortir de la salle blance et ont filé par la gaine d'aération...
-- se laisser tripoter dans boîte de petri initiale => être déplacé sous microscope
++ se laisser tripoter dans boîte de petri initiale => être déplacé sous microscope
++ préciser échelle & mobilité du parasite
++ obstacle : une fois le sas franchi, lorsque coincé sous la combi
++ mentionner autres spécimens présents (rongeur) & aération
+Dishonored: laisse peu de place à de la créativité + très court dans le temps -> étaler l'action ?
 
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
@@ -30,6 +35,14 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 
 * jouer 2 ou 3 points de vues de différents personnage lors d'un même événement
 
+* donner un rôle aux autres joueurs durant le tour du joueur actif
+
+* Adventure Time progressive-reveal scenarios:
+  + https://www.flickr.com/photos/84568447@N00/4860797836/in/photostream/
+  + https://www.flickr.com/photos/84568447@N00/4225490961/in/album-72157616038185579/ & https://www.flickr.com/photos/84568447@N00/4226259012/in/album-72157616038185579/
+  + https://www.flickr.com/photos/84568447@N00/4271447565/in/album-72157616038185579/
+  + https://www.flickr.com/photos/84568447@N00/4427719072/in/album-72157616038185579/
+
 Idée d'HENRI: on joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
 Autres idées :
@@ -44,6 +57,21 @@ Autres idées :
 * Médecin urgentiste ( Sovok ? )
 * Pompier
 * Jour de la Marmotte ?
+* Doom - éléments emblématiques
+  * DOOMGUY (aka DOOM SLAYER), un marine qui, après insubordination auprès d'un officier, est envoyé dans l'UAC (Union Aerospace Corporation) sur Mars
+  * les scientifiques ont ouvert un portail interdimensionnel qui relit Phobos à... L'enfer
+  * BFG
+  * https://www.deviantart.com/truemakar/art/Doomguy-redesign-concept-807741554
+  * https://www.deviantart.com/truemakar/art/DOOM-Cyberdemon-fan-art-805010267
+
+# 1 MJ de Trop
+https://www.youtube.com/watch?v=LxL5moI1Tto
+13:20 "Il faut essayer de conserver l'action telle qu'elle a été décrite par le joueur précédent"
+-> bonne idée de suggérer une musique d'ambiance !
+
+# 1 MJ de Trop - 2e session
+https://www.youtube.com/watch?v=cQ8SXE0CNBA
+...à écouter
 -->
 
 # Scénarios pour Run. Die. Repeat.
@@ -71,6 +99,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Perso riding on vehicule](https://www.pexels.com/photo/person-riding-on-vehicle-2190511/) de pexels.com
 - [Light Inside Library](https://www.pexels.com/photo/blur-book-stack-books-bookshelves-590493/) de pexels.com
 - [red poppy flower on gray train rail with gray stones at daytime](https://www.pikrepo.com/fqfhl/selective-focus-photo-of-red-poppy-flower-on-gray-train-rail-with-gray-stones-at-daytime) de pikrepo.com
+- [Fancy Finn](https://www.deviantart.com/sircollection/art/Fancy-Finn-253306996), [Flame Princess Old Dress](https://www.deviantart.com/sircollection/art/Flame-Princess-Old-Dress-318053951) & [Finn Chaotic Evil](https://www.deviantart.com/sircollection/art/Finn-Chaotic-Evil-299829001) by SIRCollection - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 
 Merci enfin aux développeurs des logiciels libres que j'ai employé :
 Firefox, Gimp, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
@@ -307,6 +336,116 @@ Si vous jouez sur via Discord, commencez la partie en proposant aux joueurs de v
 
 ### Rejouer le scénario
 -->
+:::
+
+---
+
+::: page
+<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+
+![](AdventureTimeDungeonCrystal-small.png)
+_<center>Scénario pour partie en ligne</center>_
+## Adventure Time: Dungeon Crystal
+> « Sans l'aide de mes pouvoirs tu n'es pas pas capable de grand chose ! »
+> Provoqué par ces paroles de votre ami chien polymorphe,
+> vous avez décidé de prouver que vous pouvez très bien vous débrouiller seul !
+> Vous êtes donc entré dans LE DONJON,
+> avec pour objectif de mettre la main sur le mystérieux crystal géant qu'il renferme !
+### Objectif
+Mettre la main sur le crystal (et s'il reste du temps au chrono, s'enfuir du donjon avec !)
+### Inspirations
+La série d'animation _Adventure Time_, _cf._ [cet extrait vidéo](https://www.youtube.com/watch?v=NJXVrEoq8KM),
+et la série de jeux vidéos _Monkey Island_, pour l'humour.
+### Règles spéciales
+Employez [cette appli web](https://chezsoi.org/lucas/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+### Environnement
+Les lieux ne se limitent pas à ce que voient les joueurs à l'image :
+quantités d'armes, ossements, rongeurs et autres objets magiques jonchent les lieux,
+abandonnés par de précédents aventuriers où les créatures qui y vivent.
+Le protagoniste peut avoir tout l'équipement qu'il souhaite sur lui !
+### Obstacles
+- un **loup-garou** garde l'escalier vers le crystal.
+Il n'est pas hostile, il fait juste son boulot de gardien, et il a la dalle.
+Il peut être soudoyé contre un bon casse-croûte.
+- à gauche, le **squelette** d'un aventurier mort dans le donjon sera ravi de bavarder.
+Et il est TRÈS bavard !
+> Salut ! Moi c'est Murray !
+> Avant de mourir je m'appelais sire Grégoire de Maurillac, mais j'ai préféré changer de nom dans l'après-vie.
+> Très franchement, j'étais pas super fortiche comme aventurier,
+> mais quand même plus débrouillard que la plupart des abrutis qu'on voit passer tous les jours...
+> Je ne veux pas paraître trop critique, mais vous ne pouvez pas imaginer le nombre d'imbéciles qui débarquent
+> la fleur au fusil, sur la foi d'une simple rumeur de trésor, et qui se font découper en tranches au premier piège venu !
+> Mais vous me direz « Murray, tu es un peu dur avec toi même !
+> Ce n'est pas parce que tu es décédé dans ce donjon que tu dois te considérer comme un mauvais aventurier ! »
+> Et vous auriez sans doute raison, mais j'ai tiré un trait sur tout ça vous savez.
+> La vie d'aventurier, les donjons, les combats, les pièges...
+> C'est assez surfait au final. J'ai beaucoup changé depuis mon décès, et en mieux je dois dire.
+> D'ailleurs, laissez-moi vous raconter cette anecdote...
+- le couloir derrière la **grille de gauche** mène... à la **grille de droite**, et vice-versa.
+- à droite, il est possible d'escalader le mur, mais un **nuage de chauve-souris** bloque l'accès au crystal.
+Elle répètent tout ce que dit le protagoniste, façon perroquet, mais à l'unisson !
+Elles fonctionnent "en ruche" et craignent le crystal.
+La MJ a toute liberté quand à leur attitude vis-à-vis du protagoniste.
+- à gauche, un **vampire fan de musique métal** se fait chier comme un rat mort.
+Il est très balaise, assez susceptible et se souvient des _runs_ précédent des joueuses.
+- le **crystal** est immense ! Comment le sortir d'ici ?
+### Conseils à la MJ
+Les lieux sont plongés dans l'obscurité, et seule la zone au pied de l'image,
+où débute le protagoniste, est visible au début de la partie.
+Débutez la partie en demandant à la première joueuse dans quelle direction elle souhaite se diriger.
+Ne révélez les autres zones de l'image que si le protagoniste dégote une source de lumière,
+et considérez qu'en attendant il explore son environnement à tâtons.
+:::
+
+---
+
+::: page
+<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+
+![](AdventureTimeDragonCarcass-small.png)
+_<center>Scénario pour partie en ligne</center>_
+## Adventure Time: Dragon Carcass
+> Vous êtes un fier viking donc le navire s'est malheureusement échoué lors d'une tempête,
+> entrainant la mort de tout l'équipage.
+> Quelque chose vient de vous ramener d'entre les morts, et ça ne vous plait pas trop !
+> Vous avez droit au Valhalla que diable ! Il faut que ce maléfice cesse !
+### Objectif
+Trouver l'origine du sortilège qui vous ramène sans cesse à la vie, et y mettre fin.
+### Inspirations
+La série d'animation _Adventure Time_, _cf._ [cet extrait vidéo](https://www.youtube.com/watch?v=NJXVrEoq8KM),
+et la série de jeux vidéos _Monkey Island_, pour l'humour.
+### Règles spéciales
+Employez [cette appli web](https://chezsoi.org/lucas/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+
+Lorsque le viking meurt, sont envelopper squeletique est déruite,
+et il retourne automatiquement à l'épave du navire,
+pour posséder un autre corps en état de putréfaction avancée.
+### Environnement
+
+### Obstacles
+- un **os glissant** semble la meilleure opportunité de s'extraire de la fosse, dont les parois sont trop friables pour être escaladées. Mais il est quand même super glissant, cet os.
+- au sommet du squelette de dragon, un **chien de Tindalos** invoqué par Skrull
+déchiquètera tout ce qui s'approche. Il n'est pas très malin mais féroce et intangible.
+Aucune arme ne semble pouvoir l'atteindre.
+- en bas à gauche, il est possible de sortir de la fosse plus simplement, avec une corde.
+Un **épéiste** en empêche néanmoins l'accès, et il semble persuadé que vous avez occis son géniteur :
+> Bonjour. Je m'appelle Inigo Montoya. Tu as tué mon père. Prépare toi à mourir.
+- à gauche, près de la tête du dragon, **Cynthia**, une élémentaire de feu,
+est venue se reccueillir sur la tombe de son défun **Kiki**.
+Elle aidera volontier le protagoniste, en lui fournissant par exemple une arme magique enflammée capable de blesser le chien de Tindalos.
+- **Skrull** le sorcier maléfique.
+Bon, à la base il voulait rescuciter le dragon en fait.
+Il s'est un peu planté, mais vu sa tronche c'est pas la première fois qu'il rate un rituel.
+Il se la jouera méchant-maléfique et tentera jusqu'au bout d'intimider le viking
+pour éviter de lancer un sortilège...
+S'il en est réduit à cette extrémité, ses sorts seront lancés à grand renfort d'incatations théatrales,
+et se révèleront toujours foireux, même s'ils entrainent le décès du protagoniste.
+### Conseils à la MJ
+Les lieux sont plongés dans l'obscurité, et seule l'épave du bateau,
+où débute le protagoniste, est visible au début de la partie.
+Débutez la partie en demandant à la première joueuse dans quelle direction elle souhaite se diriger.
+Ne révélez les autres zones de l'image que si le protagoniste dégote une source de lumière,
+et considérez qu'en attendant il explore son environnement à tâtons.
 :::
 
 ---
