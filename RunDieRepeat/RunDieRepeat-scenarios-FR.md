@@ -1,4 +1,6 @@
 <!--
+Add a summary
+
 ./extract_pdf_pages.sh RunDieRepeat-scenarios-FR.pdf 1 13 RunDieRepeat-scenarios-FR-v1.1.pdf
 
 Publié / com' sur :

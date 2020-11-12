@@ -1,4 +1,6 @@
 <!--
+Add a summary
+
 Frostpunk: une illustration de chaudière géante dans la neige sera mieux, mais pas trouvée !
 + améliorer l'explication 1 action = 1/2 jour
 Parasite : périmètre à revoir peut-être, les PJs ont eu du mal déjà à sortir de la salle blance et ont filé par la gaine d'aération...
@@ -7,6 +9,8 @@ Parasite : périmètre à revoir peut-être, les PJs ont eu du mal déjà à sor
 + obstacle : une fois le sas franchi, lorsque coincé sous la combi
 + mentionner autres spécimens présents (rongeur) & aération
 Dishonored: laisse peu de place à de la créativité + très court dans le temps -> étaler l'action ?
+
+Problème des ilustrations Adventure Time sous licence Non-Derivative
 
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
@@ -43,6 +47,11 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
   + https://www.flickr.com/photos/84568447@N00/4271447565/in/album-72157616038185579/
   + https://www.flickr.com/photos/84568447@N00/4427719072/in/album-72157616038185579/
 
+* other progressive-reveal scenarios:
+  + https://www.deviantart.com/ekizius/art/Map-Village-795100444 + https://www.deviantart.com/ekizius/art/Map-Small-Town-795100291 side-by-side
+  + Ankhor Deeps: https://www.deviantart.com/djekspek/art/One-Page-Dungeon-Contest-2012-302655474
+  + https://www.deviantart.com/domigorgon/art/Town-Map-129613666 -> need to reveal legend & zone at the same time
+
 Idée d'HENRI: on joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
 Autres idées :
@@ -57,6 +66,7 @@ Autres idées :
 * Médecin urgentiste ( Sovok ? )
 * Pompier
 * Jour de la Marmotte ?
+* Matrix
 * Doom - éléments emblématiques
   * DOOMGUY (aka DOOM SLAYER), un marine qui, après insubordination auprès d'un officier, est envoyé dans l'UAC (Union Aerospace Corporation) sur Mars
   * les scientifiques ont ouvert un portail interdimensionnel qui relit Phobos à... L'enfer
@@ -86,6 +96,8 @@ Lucas Cimon - [chezsoi.org](https://chezsoi.org)
 Version PDF: ...
 :::
 
+Un grand merci aux _playtesteurs_ : Aurélien, Estelle, Henri, Kevin, Laëtitia.
+
 Merci également à ces illustrateurs qui ont déposé leur magnifique travail sous licence _Creative Commons_ :
 
 - [Halloween Witch face profile by scottepentzer](https://www.deviantart.com/scottepentzer/art/Halloween-Witch-face-profile-331368521) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
@@ -100,6 +112,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Light Inside Library](https://www.pexels.com/photo/blur-book-stack-books-bookshelves-590493/) de pexels.com
 - [red poppy flower on gray train rail with gray stones at daytime](https://www.pikrepo.com/fqfhl/selective-focus-photo-of-red-poppy-flower-on-gray-train-rail-with-gray-stones-at-daytime) de pikrepo.com
 - [Fancy Finn](https://www.deviantart.com/sircollection/art/Fancy-Finn-253306996), [Flame Princess Old Dress](https://www.deviantart.com/sircollection/art/Flame-Princess-Old-Dress-318053951) & [Finn Chaotic Evil](https://www.deviantart.com/sircollection/art/Finn-Chaotic-Evil-299829001) by SIRCollection - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
+- [Hallways of Thime by Herwin Wielink aka Djekspek](https://www.deviantart.com/djekspek/art/Hallways-of-Thime-208976938) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Merci enfin aux développeurs des logiciels libres que j'ai employé :
 Firefox, Gimp, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
@@ -357,9 +370,9 @@ Mettre la main sur le crystal (et s'il reste du temps au chrono, s'enfuir du don
 La série d'animation _Adventure Time_, _cf._ [cet extrait vidéo](https://www.youtube.com/watch?v=NJXVrEoq8KM),
 et la série de jeux vidéos _Monkey Island_, pour l'humour.
 ### Règles spéciales
-Employez [cette appli web](https://chezsoi.org/lucas/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+Employez [cette appli web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
 ### Environnement
-Les lieux ne se limitent pas à ce que voient les joueurs à l'image :
+Il ne se limite pas à ce que voient les joueurs à l'image :
 quantités d'armes, ossements, rongeurs et autres objets magiques jonchent les lieux,
 abandonnés par de précédents aventuriers où les créatures qui y vivent.
 Le protagoniste peut avoir tout l'équipement qu'il souhaite sur lui !
@@ -415,13 +428,14 @@ Trouver l'origine du sortilège qui vous ramène sans cesse à la vie, et y mett
 La série d'animation _Adventure Time_, _cf._ [cet extrait vidéo](https://www.youtube.com/watch?v=NJXVrEoq8KM),
 et la série de jeux vidéos _Monkey Island_, pour l'humour.
 ### Règles spéciales
-Employez [cette appli web](https://chezsoi.org/lucas/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+Employez [cette appli web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
 
 Lorsque le viking meurt, sont envelopper squeletique est déruite,
 et il retourne automatiquement à l'épave du navire,
 pour posséder un autre corps en état de putréfaction avancée.
 ### Environnement
-
+Il ne se limite pas à ce que voient les joueurs à l'image :
+quantités d'armes, ossements et autres objets jonchent l'épave et ses alentours.
 ### Obstacles
 - un **os glissant** semble la meilleure opportunité de s'extraire de la fosse, dont les parois sont trop friables pour être escaladées. Mais il est quand même super glissant, cet os.
 - au sommet du squelette de dragon, un **chien de Tindalos** invoqué par Skrull
@@ -446,6 +460,80 @@ où débute le protagoniste, est visible au début de la partie.
 Débutez la partie en demandant à la première joueuse dans quelle direction elle souhaite se diriger.
 Ne révélez les autres zones de l'image que si le protagoniste dégote une source de lumière,
 et considérez qu'en attendant il explore son environnement à tâtons.
+:::
+
+---
+
+::: page
+<img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
+
+![](hallways_of_thime_by_djekspek_small.jpg)
+_<center>Scénario pour partie en ligne</center>_
+## Les Couloirs du Temps
+> Vous gobelins. Vous obéir roi.
+> Roi gobelin veut gant de pouvoir.
+> Gant magique dans tombe souterraine. Tombe du démon Thime.
+> Vous aller dans souterrain. Vous ramener gant magique.
+> Toi d'abord.
+### Objectif
+Trouver la tombe du démon Thime et ramener le gant de pouvoir.
+### Inspirations
+Le scénario [_In the Hallways of Thime_ par Acritarche](https://www.drivethrurpg.com/product/137449/In-the-Hallways-of-Thime), pour _Dungeon World_.
+### Règles spéciales
+Employez [cette appli web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+
+Lorsqu'un gobelin meurt, un autre est envoyé sans le souterrain à se place.
+Le joueur dont c'est le tour commence par nommer son gobelin.
+### Obstacles
+- la première salle, au pied des marches, est plongée dans l'obscurité.
+Sans lumière, le risque est élevé de tomber dans **la fosse** !
+Un gobelin qui y chute a le temps d'apercevoir un passage avant de succomber.
+- au fond de la fosse, au-delà du monticule de squelettes d'aventuriers, un escalier descend jusqu'à **une tombe**.
+La **momie** qui y repose ne sera pas ravie du tout d'être réveillée pendant sa sieste.
+Derrière, un **portail magique** mène jusqu'à la salle au Nord avec le double portail.
+- derrière la fosse, au bas des marches, une arche se dresse à gauche :
+il s'agit d'un piège, une herse s'abattant violemment sur tout imprudent tentant la franchir.
+Derrière se trouve une salle avec **deux portails magiques** :
+l'un permet d'accéder à la salle de la tombe à l'Ouest, l'autre mène à la Cité Perdue.
+- après la fosse, un autre chemin mène à une pièce au Nord avec 2 alcôves,
+contenant deux soldats squelettes qui n'apprécieront pas d'être dérangés.
+- au Nord-Est se trouve le **temple funéraire du démon Thime** : une pyramide d'or surmontée d'une statue du démon.
+Aucune ouverture n'est visible. Elle renferme bien **le gant convoité**, mais encore faut-il trouver comment y entrer !
+- au centre du souterrain, une pièce sans issue contient une unique **tombe** : une **momie** pétomane y repose.Elle fera le mort plutôt que d'avouer l'origine de l'odeur nauséabonde qu'elle dégage par intermittence...
+- la **mine abandonnée** est déserte, mais des sacs de pépites d'or peuvent être découverts en fouillant un peu.
+Les tunnels qui mènent à la Cité Perdue abritent un **troll** assez hargneux.
+- le couloir qui contourne la mine par le Nord est long, terriblement long...
+Il mène à trois **cellules**, où sont enfermés un troll, un aventurier en décomposition et un gobelin !
+Ce dernier se nomme **Malfeet** est à la recherche du trésor de Thime,et a été enfermé là par le Gardien. Il proposera son aide si on l'aide à s'évader,
+ce qui aisé comme les clefs des geôles pendent au mur.
+- la **Cité Perdue**, au Sud-Est, est déserte. Seul le Gardien la traverse parfois de son pas lourd.
+- le **bassin d'eau** a un usage ornemental, mais est également le point d'encrage du rituel magiquepermettant au Gardien d'exister.
+- la **Cave au Trésor**, au Sud-Est, contient un coffre renfermant tous les objets précieux et magiques
+amassés par le démon Thime de son vivant, y compris la clef de son temple.
+Y poser le pied signifie attirer l'attention du Gardien !
+- la **Salle de la Machine** contient une étrange mécanique...La manipuler signifie déclencher l'effondrement progressif du complexe !
+Ce qui aura pour effet de bord de créer une enfractuosité dans la pyramide d'or...
+### Le Gardien
+Il s'agit d'un élémentaire d'eau massif, muet, dont la tâche est d'entretenir les lieux,
+et de mettre en cellule tout intru, voir de l'éliminer s'il résiste.
+Il rôde en général dans toute la zone basse du souterrain, de la Cité Perdue à la la Cave aux Trésor.
+### Portails magiques
+Ils abritent dans leur vortex transdimensionnel un petit démon ayant le rôle de passeur.
+À part passer le balais de temps en temps, il se la coule douce, mais il réclamera tout de même un droit de passage,
+sans quoi le pauvre voyageur sera dispersé aux quatres vents interdimentionnels...
+### Les momies
+Si un gobelin tente d'amadouer une des deux momies, elle lui demandera de porter un mot doux à l'autre
+(ils sont amants), en lui indiquant quel chemin emprunter de manière très obscure.
+En récompense : l'emplacement du levier caché permettant d'ouvrir la pyramide de Thime !
+### Conseils à la MJ
+De nombreux cadavres d'aventuriers jonchent le souterrain, et tout un tas d'équipement peut être glané sur ces corps :
+épée, arbalète, corde, côte de maille, bourse d'écus, torche...
+### Prolonger le scénario
+Pour introduire un petit retournement de situation,
+considérez que lorsqu'un gobelin met la main sur le gant de Thime, deux choses se produisent :
+- un choc sismique ébranle tout le complexe, faisant s'écrouler l'arche piégée au début du souterrain;
+- le gobelin, en prennant le gant de pouvoir, active son pouvoir de contrôle du temps :
+il déclenche une boucle temporelle qui le ramènera, à chaque fois qu'il meure, à l'instant où il a pris le gant.
 :::
 
 ---
