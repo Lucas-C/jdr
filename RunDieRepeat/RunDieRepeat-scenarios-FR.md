@@ -1,5 +1,6 @@
 <!--
-Add a summary
++ Add a summary
++ Favoriser lien itch.io pour téléchargements, car incluent des compteurs
 
 ./extract_pdf_pages.sh RunDieRepeat-scenarios-FR.pdf 1 13 RunDieRepeat-scenarios-FR-v1.1.pdf
 

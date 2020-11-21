@@ -1,16 +1,6 @@
 <!--
-Add a summary
-
-Frostpunk: une illustration de chaudière géante dans la neige sera mieux, mais pas trouvée !
-+ améliorer l'explication 1 action = 1/2 jour
-Parasite : périmètre à revoir peut-être, les PJs ont eu du mal déjà à sortir de la salle blance et ont filé par la gaine d'aération...
-+ se laisser tripoter dans boîte de petri initiale => être déplacé sous microscope
-+ préciser échelle & mobilité du parasite
-+ obstacle : une fois le sas franchi, lorsque coincé sous la combi
-+ mentionner autres spécimens présents (rongeur) & aération
-Dishonored: laisse peu de place à de la créativité + très court dans le temps -> étaler l'action ?
-
-Problème des ilustrations Adventure Time sous licence Non-Derivative
++ Add a summary
++ Favoriser lien itch.io pour téléchargements, car incluent des compteurs
 
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
@@ -39,15 +29,9 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 
 * jouer 2 ou 3 points de vues de différents personnage lors d'un même événement
 
-* donner un rôle aux autres joueurs durant le tour du joueur actif
+* donner un rôle aux autres joueuses durant le tour de la joueuse active
 
-* Adventure Time progressive-reveal scenarios:
-  + https://www.flickr.com/photos/84568447@N00/4860797836/in/photostream/
-  + https://www.flickr.com/photos/84568447@N00/4225490961/in/album-72157616038185579/ & https://www.flickr.com/photos/84568447@N00/4226259012/in/album-72157616038185579/
-  + https://www.flickr.com/photos/84568447@N00/4271447565/in/album-72157616038185579/
-  + https://www.flickr.com/photos/84568447@N00/4427719072/in/album-72157616038185579/
-
-* other progressive-reveal scenarios:
+* progressive-reveal scenarios:
   + https://www.deviantart.com/ekizius/art/Map-Village-795100444 + https://www.deviantart.com/ekizius/art/Map-Small-Town-795100291 side-by-side
   + Ankhor Deeps: https://www.deviantart.com/djekspek/art/One-Page-Dungeon-Contest-2012-302655474
   + https://www.deviantart.com/domigorgon/art/Town-Map-129613666 -> need to reveal legend & zone at the same time
@@ -96,12 +80,11 @@ Lucas Cimon - [chezsoi.org](https://chezsoi.org)
 Version PDF: ...
 :::
 
-Un grand merci aux _playtesteurs_ : Aurélien, Estelle, Henri, Kevin, Laëtitia.
+Un grand merci aux _playtesteurs_ : Aurélien, Elliot, Estelle, Henri, Kevin, Laëtitia, Maxime.
 
 Merci également à ces illustrateurs qui ont déposé leur magnifique travail sous licence _Creative Commons_ :
 
 - [Halloween Witch face profile by scottepentzer](https://www.deviantart.com/scottepentzer/art/Halloween-Witch-face-profile-331368521) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
-- [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [Corvo by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corvo-658049106) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [UBD Corpse Mite by Larvae801](https://www.deviantart.com/larvae801/art/UBD-Corpse-Mite-274636814) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 - [Kaneda by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Kaneda-777208845) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
@@ -113,6 +96,9 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [red poppy flower on gray train rail with gray stones at daytime](https://www.pikrepo.com/fqfhl/selective-focus-photo-of-red-poppy-flower-on-gray-train-rail-with-gray-stones-at-daytime) de pikrepo.com
 - [Fancy Finn](https://www.deviantart.com/sircollection/art/Fancy-Finn-253306996), [Flame Princess Old Dress](https://www.deviantart.com/sircollection/art/Flame-Princess-Old-Dress-318053951) & [Finn Chaotic Evil](https://www.deviantart.com/sircollection/art/Finn-Chaotic-Evil-299829001) by SIRCollection - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 - [Hallways of Thime by Herwin Wielink aka Djekspek](https://www.deviantart.com/djekspek/art/Hallways-of-Thime-208976938) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+<!--
+- [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
+-->
 
 Merci enfin aux développeurs des logiciels libres que j'ai employé :
 Firefox, Gimp, NodeJS, markdown-it, Python, puppeteer, Notepad++, Sumatra PDF.
@@ -160,18 +146,21 @@ J'ai testé ce scénario avec un enfant de 4 ans et ses parents :
 - décrivez bien les lieux avant de lancer le compte à rebours.
 - employez un compte à rebours à aiguilles, pour que les enfants puisse facilement visualiser le temps restant, comme celui-ci :
 https://www.visnos.com/demos/classroom-timer
-- il peut être difficile pour les enfants de comprendre que tous les joueurs jouent le même personnage.
-N'hésitez donc pas à vous rabattre sur un modèle 1 joueur = 1 personnage, avec une famille de renards.
+- il peut être difficile pour les enfants de comprendre que toutes les joueuses jouent le même personnage.
+N'hésitez donc pas à vous rabattre sur un modèle 1 joueuse = 1 personnage, avec une famille de renards.
 On se rapproche alors du système de [Donjons & Chenapans](https://gusandco.net/2020/03/18/donjons-chenapans-jeu-enfants/)
 ### Rejouer le scénario
 Ajoutez un chien qui dort dans sa niche, et qu'il ne faut pas réveiller, mais donnez un dé de plus aux enfants.
 :::
 
 ---
-::: page frostpunk
+:::: page frostpunk
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
-![](explorer_by_fernand0fc.jpg)
+<!--![](explorer_by_fernand0fc.jpg)-->
+<!--![](tower_in_the_forrest_by_subqu_de5oik3-fullview.jpg)-->
+![](jakub-kowalczyk-jakub-kowalczyk-the-generator-frostpunk.jpg)
+_<small>Image de couverture du jeu vidéo Frostpunk par Jakub Kowalczyk</small>_
 ## Frostpunk
 > Fin du XIX<sup>e</sup> siècle. Une éruption cataclysmique a déclenché un hiver permanent.
 > Vous avez pris la tête d'un groupe de survivants et êtes parti au Nord,
@@ -179,15 +168,21 @@ Ajoutez un chien qui dort dans sa niche, et qu'il ne faut pas réveiller, mais d
 > une chaudière géante. Vos ingénieurs comprennent cette technologie steampunk
 > juste assez pour le rallumer, ravivant un espoir.
 > Mais le plus dur reste à venir pour votre colonie d'une trentaine d'âmes...
-### Objectif
+::: fluid
+### Objectif :
 Survivre jusqu'à établir une colonie pérenne.
-### Inspirations
-Le jeu vidéo éponyme et le [_Let's Play_ du Joueur du Grenier](https://www.youtube.com/watch?v=ss2Eu4HhfB4&list=PLWmL9Ldoef0tlXdmRg9FEdQVmt-kmrKp7).
+### Inspirations :
+Le jeu vidéo éponyme
+:::
 ### Règles spéciales
-Les joueuses incarnent le capitaine de la colonie, et prennent des décisions à cette échelle.
-Cela signifie que leurs actions peuvent impliquer des dizaines de personnes,
-mais aussi qu'une journée correspond à deux actions (= 2 jets de dé).
-Et chaque jour voit arriver une nouvelle difficulté...
+Les joueuses incarnent le capitaine de la colonie,
+et prennent des décisions à cette échelle,
+mettant en mouvement des dizaines de personnes.
+
+Due à l'inertie de groupe, chaque joueuse ne peut commander qu'**une tâche majeure par demi-journée**.
+Chacune donne lieu à un jet de dé.
+Au terme de chaque journée, la nuit tombe, glaciale,
+et l'aube révèle une nouvelle difficulté...
 
 Si la MJ estime qu'une action des joueuses ravive l'espoir de la colonie, elle peut octroyer un bonus de **+1** au jet suivant.
 ### Environnement
@@ -196,7 +191,7 @@ et un vent glacial, plusieurs degrés sous le zéro Celsius.
 Un filon de charbon peut être découvert à proximité,
 ainsi que des automates steampunks en sale état,
 qui devaient servir à entretenir la chaudière.
-
+_[Galerie d'illustrations issues du jeu vidéo](https://kotaku.com/frostpunk-a-miserable-game-that-looks-beautiful-1826847282)_.
 Votre colonie est constituée d'individus robustes, mais à bouts de forces.
 Les survivants incluent deux ingénieurs, des trappeurs,
 une femme médecin, un prêtre, un botaniste, une institutrice, et quelques enfants.
@@ -214,7 +209,7 @@ Faut-il leur porter secours et les acceuillir, alors qu'une tempête approche ?
 * une stèle est exhumée comportant une inscription runique.Si du temps est consacrée à la décrypter, elle révelera l'emplacement de Nidhiver,
 une ville prévue pour résister à l'hiver permanent.Elle est à seulement un jour de marche, mais cette terre promise se révelera un faux espoir,
 car la colonie la découvrira en ruines !
-:::
+::::
 
 ---
 
@@ -268,7 +263,7 @@ Elle se méfie du lord régent, et si elle est consciente à la fin, destabilise
 
 ---
 
-::: page
+:::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ![](UBD-Corpse-Mite-by-Larvae801.png)
@@ -278,27 +273,32 @@ Elle se méfie du lord régent, et si elle est consciente à la fin, destabilise
 > et la capacité à remonter le temps !
 > Vos enfants vont éclorent de votre ventre dans 30min, ce qui signifiera votre mort,
 > mais vous êtes bien décidé à ce qu'ils naissent hors de cette prison !
-### Objectif
+::: fluid
+### Objectif :
 S'échapper du laboratoire.
+:::
 ### Règles spéciales
-Les joueurs disposent des actions suivantes comme parasite :
-- tuer votre hôte, éventuellement à retardement
-- se propager par contact physique, en abandonnant le corps hôte précédent
-- faire effectuer jusqu'à **2 actions** à son hôte, après quoi celui-ci reprend le contrôle
+En taille, le parasite fait moins d'un millimètre.
+À son échelle, il se déplace très vite : environ 1cm / seconde.
+
+Le parasite peut rentrer sous la peau d'un hôte, pour en prendre le contrôle.
+Il peut alors lui faire effectuer jusqu'à **2 actions**, après quoi l'hôte reprend le contrôle de son corps.
 ### Environnement
-- vous débutez dans la salle blanche, qui contient des plans de travail, des appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens, un incinérateur et un grand nombre de produits chimiques.
-- la seule sortie donne sur un couloir desservant trois pièces : une salle de pause / réunion avec kitchenette et tableau blanc; une pièce contenant des postes de travail informatique et un écran géant affichant des statistiques en temps réel; un large ascenseur, dans lequel les gardes ont un petit bureau d'où ils peuvent surveiller les caméras de sécurité, et qui permet d'accéder au rez-de-chaussée et aux étages du complexe.
-- le personnel du niveau **-1** est constitué de 6 scientifiques (Pr. Elsa Martin, Dr. James Edward, technicienne Sarah Tran...) et de 2 gardes paramilitaires (sergent Matthew Douglas & caporal Thomas Jacobson). Au début de la partie, la professeur Martin vient de réaliser la manipulation qui vous a donné conscience, et une opportunité s'offre à vous de vous infiltrer par une micro-déchirure de son gant protecteur. Le docteur Edward est également présent dans la salle blanche, tandis que Sarah Tran est dans la salle informatique et les 3 autres dans la salle de réunion.
-- au rez-de-chaussé, l'ascenceur dessert directement le hall principal, assez imposant dans un style greco-romain chargé de marbre et d'or, où trone un bureau d'accueil massif. La sortie à l'extérieur se fait par une simple porte vitrée coulissante, mais le bureau de la sécurité est juste à côté et héberge quatre gardes vifs et à la gachette facile.
+- vous débutez dans une salle blanche. Elle contient divers appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens (des rongeurs), un incinérateur, un grand nombre de produits chimiques et une bouche d'aération au plafond.
+- la seule sortie est un sas donnant sur une salle de pause / réunion avec kitchenette et tableau blanc. Son seul autre accès est un ascenseur. La pièce comporte une caméra de sécurité et un garde.
+- en-dehors de ce dernier, le personnel est constitué de 3 scientifiques en combinaison totale. Aux yeux du paraiste un jeune mâle brun, une femelle rousse et un vieux mâle blond.
+- l'ascenceur dessert directement le hall principal, assez imposant dans un style greco-romain chargé de marbre et d'or, où trone un bureau d'accueil massif. La sortie à l'extérieur se fait par une simple porte vitrée coulissante, mais le bureau de la sécurité est juste à côté et héberge quatre gardes vifs et à la gachette de taser facile.
 ### Obstacles
+- le scénario démarre au moment où le parasite vient d'être aspergée d'une substance, dans une boîte de pétri,
+sous un microscope.
 - survivre à la traversée du sas désinfectant requiert une combinaison totale. Un scanner rétinien permet d'y entrer.
+- la combinaison des scientifiques est un obstacle à la fois pour s'y faufiler,et pour en sortir lorsque l'hôte reprend le contrôle !
 - l'ascenseur s'active à l'aide du badge d'un garde, associé à une reconnaissance vocale
 - comportement des PNJs (la MJ peut relancer à loisir) :
   + ⚀-⚁ détruire le parasite quitte à y laisser leur vie
   + ⚂-⚃ fuir pour sauver leur peau à tout prix
   + ⚄-⚅ _(scientifique)_ aider le parasite qu'ils identifient comme une nouvelle forme de vie consciente / _(garde)_ échapper du complexe avec un échantillon du parasite pour le revendre
-<!--### Conseils à la MJ-->
-:::
+::::
 
 ---
 
@@ -322,7 +322,7 @@ Les joueurs disposent des actions suivantes comme parasite :
 Rattraper Marion et lui déclarer votre flamme !
 
 ### Règles spéciales
-Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'interrompt car aucune histoire d'amour ne pourra naître : train râté, approche des joueurs trop brusque ou pataude, rebutant Marion...
+Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'interrompt car aucune histoire d'amour ne pourra naître : train râté, approche des joueuses trop brusque ou pataude, rebutant Marion...
 
 ### Environnement
 - votre logeuse est une très gentille septuagénaire. Ses soupçons sur le _crush_ que vous avez envers Marion se confirment en voyant le bouquet : se désolant de vous voir si dépité, elle n'hésitera pas à vous proposer sa bicyclette !
@@ -337,10 +337,9 @@ Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'inte
 - un blond sportif bien habillé est sur le point de l'aborder !
 
 ### Conseils à la MJ
-Si vous jouez sur via Discord, commencez la partie en proposant aux joueurs de voter pour le prénom de leur personnage :
+Si vous jouez sur via Discord, commencez la partie en proposant aux joueuses de voter pour le prénom de leur personnage :
 ```
 /poll "Comment vous appelez-vous" "Tom" "Sylvain" "Felipe" "Chlöé"
-
 ```
 
 <!--
@@ -349,117 +348,6 @@ Si vous jouez sur via Discord, commencez la partie en proposant aux joueurs de v
 
 ### Rejouer le scénario
 -->
-:::
-
----
-
-::: page
-<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
-
-![](AdventureTimeDungeonCrystal-small.png)
-_<center>Scénario pour partie en ligne</center>_
-## Adventure Time: Dungeon Crystal
-> « Sans l'aide de mes pouvoirs tu n'es pas pas capable de grand chose ! »
-> Provoqué par ces paroles de votre ami chien polymorphe,
-> vous avez décidé de prouver que vous pouvez très bien vous débrouiller seul !
-> Vous êtes donc entré dans LE DONJON,
-> avec pour objectif de mettre la main sur le mystérieux crystal géant qu'il renferme !
-### Objectif
-Mettre la main sur le crystal (et s'il reste du temps au chrono, s'enfuir du donjon avec !)
-### Inspirations
-La série d'animation _Adventure Time_, _cf._ [cet extrait vidéo](https://www.youtube.com/watch?v=NJXVrEoq8KM),
-et la série de jeux vidéos _Monkey Island_, pour l'humour.
-### Règles spéciales
-Employez [cette appli web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
-### Environnement
-Il ne se limite pas à ce que voient les joueurs à l'image :
-quantités d'armes, ossements, rongeurs et autres objets magiques jonchent les lieux,
-abandonnés par de précédents aventuriers où les créatures qui y vivent.
-Le protagoniste peut avoir tout l'équipement qu'il souhaite sur lui !
-### Obstacles
-- un **loup-garou** garde l'escalier vers le crystal.
-Il n'est pas hostile, il fait juste son boulot de gardien, et il a la dalle.
-Il peut être soudoyé contre un bon casse-croûte.
-- à gauche, le **squelette** d'un aventurier mort dans le donjon sera ravi de bavarder.
-Et il est TRÈS bavard !
-> Salut ! Moi c'est Murray !
-> Avant de mourir je m'appelais sire Grégoire de Maurillac, mais j'ai préféré changer de nom dans l'après-vie.
-> Très franchement, j'étais pas super fortiche comme aventurier,
-> mais quand même plus débrouillard que la plupart des abrutis qu'on voit passer tous les jours...
-> Je ne veux pas paraître trop critique, mais vous ne pouvez pas imaginer le nombre d'imbéciles qui débarquent
-> la fleur au fusil, sur la foi d'une simple rumeur de trésor, et qui se font découper en tranches au premier piège venu !
-> Mais vous me direz « Murray, tu es un peu dur avec toi même !
-> Ce n'est pas parce que tu es décédé dans ce donjon que tu dois te considérer comme un mauvais aventurier ! »
-> Et vous auriez sans doute raison, mais j'ai tiré un trait sur tout ça vous savez.
-> La vie d'aventurier, les donjons, les combats, les pièges...
-> C'est assez surfait au final. J'ai beaucoup changé depuis mon décès, et en mieux je dois dire.
-> D'ailleurs, laissez-moi vous raconter cette anecdote...
-- le couloir derrière la **grille de gauche** mène... à la **grille de droite**, et vice-versa.
-- à droite, il est possible d'escalader le mur, mais un **nuage de chauve-souris** bloque l'accès au crystal.
-Elle répètent tout ce que dit le protagoniste, façon perroquet, mais à l'unisson !
-Elles fonctionnent "en ruche" et craignent le crystal.
-La MJ a toute liberté quand à leur attitude vis-à-vis du protagoniste.
-- à gauche, un **vampire fan de musique métal** se fait chier comme un rat mort.
-Il est très balaise, assez susceptible et se souvient des _runs_ précédent des joueuses.
-- le **crystal** est immense ! Comment le sortir d'ici ?
-### Conseils à la MJ
-Les lieux sont plongés dans l'obscurité, et seule la zone au pied de l'image,
-où débute le protagoniste, est visible au début de la partie.
-Débutez la partie en demandant à la première joueuse dans quelle direction elle souhaite se diriger.
-Ne révélez les autres zones de l'image que si le protagoniste dégote une source de lumière,
-et considérez qu'en attendant il explore son environnement à tâtons.
-:::
-
----
-
-::: page
-<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
-
-![](AdventureTimeDragonCarcass-small.png)
-_<center>Scénario pour partie en ligne</center>_
-## Adventure Time: Dragon Carcass
-> Vous êtes un fier viking donc le navire s'est malheureusement échoué lors d'une tempête,
-> entrainant la mort de tout l'équipage.
-> Quelque chose vient de vous ramener d'entre les morts, et ça ne vous plait pas trop !
-> Vous avez droit au Valhalla que diable ! Il faut que ce maléfice cesse !
-### Objectif
-Trouver l'origine du sortilège qui vous ramène sans cesse à la vie, et y mettre fin.
-### Inspirations
-La série d'animation _Adventure Time_, _cf._ [cet extrait vidéo](https://www.youtube.com/watch?v=NJXVrEoq8KM),
-et la série de jeux vidéos _Monkey Island_, pour l'humour.
-### Règles spéciales
-Employez [cette appli web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
-
-Lorsque le viking meurt, sont envelopper squeletique est déruite,
-et il retourne automatiquement à l'épave du navire,
-pour posséder un autre corps en état de putréfaction avancée.
-### Environnement
-Il ne se limite pas à ce que voient les joueurs à l'image :
-quantités d'armes, ossements et autres objets jonchent l'épave et ses alentours.
-### Obstacles
-- un **os glissant** semble la meilleure opportunité de s'extraire de la fosse, dont les parois sont trop friables pour être escaladées. Mais il est quand même super glissant, cet os.
-- au sommet du squelette de dragon, un **chien de Tindalos** invoqué par Skrull
-déchiquètera tout ce qui s'approche. Il n'est pas très malin mais féroce et intangible.
-Aucune arme ne semble pouvoir l'atteindre.
-- en bas à gauche, il est possible de sortir de la fosse plus simplement, avec une corde.
-Un **épéiste** en empêche néanmoins l'accès, et il semble persuadé que vous avez occis son géniteur :
-> Bonjour. Je m'appelle Inigo Montoya. Tu as tué mon père. Prépare toi à mourir.
-- à gauche, près de la tête du dragon, **Cynthia**, une élémentaire de feu,
-est venue se reccueillir sur la tombe de son défun **Kiki**.
-Elle aidera volontier le protagoniste, en lui fournissant par exemple une arme magique enflammée capable de blesser le chien de Tindalos.
-- **Skrull** le sorcier maléfique.
-Bon, à la base il voulait rescuciter le dragon en fait.
-Il s'est un peu planté, mais vu sa tronche c'est pas la première fois qu'il rate un rituel.
-Il se la jouera méchant-maléfique et tentera jusqu'au bout d'intimider le viking
-pour éviter de lancer un sortilège...
-S'il en est réduit à cette extrémité, ses sorts seront lancés à grand renfort d'incatations théatrales,
-et se révèleront toujours foireux, même s'ils entrainent le décès du protagoniste.
-### Conseils à la MJ
-Les lieux sont plongés dans l'obscurité, et seule l'épave du bateau,
-où débute le protagoniste, est visible au début de la partie.
-Débutez la partie en demandant à la première joueuse dans quelle direction elle souhaite se diriger.
-Ne révélez les autres zones de l'image que si le protagoniste dégote une source de lumière,
-et considérez qu'en attendant il explore son environnement à tâtons.
 :::
 
 ---
@@ -480,26 +368,27 @@ Trouver la tombe du démon Thime et ramener le gant de pouvoir.
 ### Inspirations
 Le scénario [_In the Hallways of Thime_ par Acritarche](https://www.drivethrurpg.com/product/137449/In-the-Hallways-of-Thime), pour _Dungeon World_.
 ### Règles spéciales
-Employez [cette appli web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueurs : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+Employez [cette application web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueuses : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
 
 Lorsqu'un gobelin meurt, un autre est envoyé sans le souterrain à se place.
-Le joueur dont c'est le tour commence par nommer son gobelin.
+La joueuse dont c'est le tour commence par nommer son gobelin.
 ### Obstacles
 - la première salle, au pied des marches, est plongée dans l'obscurité.
 Sans lumière, le risque est élevé de tomber dans **la fosse** !
 Un gobelin qui y chute a le temps d'apercevoir un passage avant de succomber.
 - au fond de la fosse, au-delà du monticule de squelettes d'aventuriers, un escalier descend jusqu'à **une tombe**.
-La **momie** qui y repose ne sera pas ravie du tout d'être réveillée pendant sa sieste.
+Le **buste de momie** qui y repose ne sera pas ravi du tout d'être réveillé.
 Derrière, un **portail magique** mène jusqu'à la salle au Nord avec le double portail.
 - derrière la fosse, au bas des marches, une arche se dresse à gauche :
 il s'agit d'un piège, une herse s'abattant violemment sur tout imprudent tentant la franchir.
 Derrière se trouve une salle avec **deux portails magiques** :
 l'un permet d'accéder à la salle de la tombe à l'Ouest, l'autre mène à la Cité Perdue.
-- après la fosse, un autre chemin mène à une pièce au Nord avec 2 alcôves,
-contenant deux soldats squelettes qui n'apprécieront pas d'être dérangés.
+- après la fosse, un autre chemin mène au Nord à une fosse où devait jadis se dresser un pont,
+puis juste après à une pièce avec 2 alcôves,
+contenant chacun un soldat squelette qui n'appréciera pas d'être dérangé.
 - au Nord-Est se trouve le **temple funéraire du démon Thime** : une pyramide d'or surmontée d'une statue du démon.
 Aucune ouverture n'est visible. Elle renferme bien **le gant convoité**, mais encore faut-il trouver comment y entrer !
-- au centre du souterrain, une pièce sans issue contient une unique **tombe** : une **momie** pétomane y repose.Elle fera le mort plutôt que d'avouer l'origine de l'odeur nauséabonde qu'elle dégage par intermittence...
+- au centre du souterrain, une pièce sans issue contient une unique **tombe** : la **moitié basse d'une momie**, des pieds à la tête, y repose, inerte.
 - la **mine abandonnée** est déserte, mais des sacs de pépites d'or peuvent être découverts en fouillant un peu.
 Les tunnels qui mènent à la Cité Perdue abritent un **troll** assez hargneux.
 - le couloir qui contourne la mine par le Nord est long, terriblement long...
@@ -519,21 +408,55 @@ et de mettre en cellule tout intru, voir de l'éliminer s'il résiste.
 Il rôde en général dans toute la zone basse du souterrain, de la Cité Perdue à la la Cave aux Trésor.
 ### Portails magiques
 Ils abritent dans leur vortex transdimensionnel un petit démon ayant le rôle de passeur.
-À part passer le balais de temps en temps, il se la coule douce, mais il réclamera tout de même un droit de passage,
-sans quoi le pauvre voyageur sera dispersé aux quatres vents interdimentionnels...
-### Les momies
-Si un gobelin tente d'amadouer une des deux momies, elle lui demandera de porter un mot doux à l'autre
-(ils sont amants), en lui indiquant quel chemin emprunter de manière très obscure.
-En récompense : l'emplacement du levier caché permettant d'ouvrir la pyramide de Thime !
+Il apostrophera les passants d'un « PÉAGE ! » routinier, et réclamera un droit de passage,
+sous faute d'être immédiatement dispersé aux quatres vents interdimentionnels...
+### Les trolls
+Les trolls forment un couple. Les réunir ensemble signifie obtenir leur gratitude :
+ils suivront et aideront le gobelin tant qu'il reste en vie,
+allant jusqu'à ouvrir une brèche dans le temple d'or si les joueuses leur demandent.
+### La momie
+Si un gobelin réussi à rassembler les deux moitiés de la momie, elle indiquera en remerciement l'emplacement d'un levier caché permettant d'ouvrir la pyramide de Thime !
 ### Conseils à la MJ
-De nombreux cadavres d'aventuriers jonchent le souterrain, et tout un tas d'équipement peut être glané sur ces corps :
-épée, arbalète, corde, côte de maille, bourse d'écus, torche...
+De nombreux cadavres d'aventuriers jonchent le souterrain, et tout un tas d'équipement peut être glané sur ces corps : épée, arbalète, corde, côte de maille, bourse d'écus, torche...
+
+5min avant la fin du compte à rebours, indiquez aux joueuses que le souterrain commence à s'écrouler !
 ### Prolonger le scénario
 Pour introduire un petit retournement de situation,
 considérez que lorsqu'un gobelin met la main sur le gant de Thime, deux choses se produisent :
-- un choc sismique ébranle tout le complexe, faisant s'écrouler l'arche piégée au début du souterrain;
-- le gobelin, en prennant le gant de pouvoir, active son pouvoir de contrôle du temps :
+- un choc sismique ébranle tout le complexe, faisant s'écrouler l'arche piégée au début du souterrain
+et l'escalier à sa gauche : révélez l'image de l'amas de rochers aux joueuses.
+- le gobelin, en prennant le gant, active son pouvoir de contrôle du temps :
 il déclenche une boucle temporelle qui le ramènera, à chaque fois qu'il meure, à l'instant où il a pris le gant.
+
+Relancez alors le timer à **15min** !
+:::
+
+---
+
+::: page
+<img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
+
+![](EnqueteAuVillage-small.jpg)
+_<center>Scénario pour partie en ligne</center>_
+## Enquête au village
+>
+### Objectif
+
+### Règles spéciales
+Employez [cette application web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueuses : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+### Environnement
+Le village est très vivant, des gamins et des poules courrent dans tous les sens,
+les marchands hélent les passents joyeusement, des agriculteurs labourent en sifflotant...
+### Personnages
+1. **Faraday le magicien, au temple** (petite tour au Nord-Ouest)
+2. **Douglas le maire, au marché**
+3. **Erneste le poète, au moulin**
+4. **Sirius l'évêque, à l'église** (bâtiment bleu au Nord)
+5. **Marko le mercenaire, à la taverne** (au Nord de la place du puit)
+6. **Jacques l'horloger, à la forge-atelier** (à l'Est)
+
+### Conseils à la MJ
+Évitez d'introduire d'autre personnage que les 6 nommés ci-dessus.
 :::
 
 ---
@@ -726,6 +649,8 @@ li::marker { font-weight: bold; }
 .page > p { clear: both; margin: 0; } /* Pour bien centrer l'image contenue dedans, qui sinon est décalé à cause du .timer */
 .page ol, .page ul { padding-inline-start: 1rem; }
 .timer { width: 6rem; position: absolute; right: 50%; }
+.fluid h3, .fluid p { display: inline-block; margin: .5rem 0; }
+.fluid { margin-bottom: 1rem; }
 /* Headless tables with dice as 1st column: */
 td, th { font-weight: normal; text-align:center; }
 td:first-child, th:first-child { font-size: 2rem; padding: .5rem; }

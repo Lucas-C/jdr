@@ -61,6 +61,7 @@ Proposer sur http://troplongpaslu.fr
 CC: https://www.deviantart.com/karbik/art/Connection-Lost-767305950
 CC: https://www.deviantart.com/teayaa/art/EoH-CONCEPT-ART-X-PHOTOBASHING-TEST-2017-770024035
 CC: https://www.deviantart.com/nicosaba/art/047838-636166426
+CC: https://www.deviantart.com/nicosaba/art/Ivy-849971871
 https://www.deviantart.com/nicosaba/art/Amarant-537482895
 https://www.deviantart.com/nicosaba/art/Lemurian-seed-536179176
 https://www.deviantart.com/nicosaba/art/Test-451555461
