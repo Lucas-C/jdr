@@ -1,4 +1,5 @@
 <!--
++ spell check
 + Add a summary
 + Favoriser lien itch.io pour téléchargements, car incluent des compteurs
 
@@ -95,7 +96,8 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Light Inside Library](https://www.pexels.com/photo/blur-book-stack-books-bookshelves-590493/) de pexels.com
 - [red poppy flower on gray train rail with gray stones at daytime](https://www.pikrepo.com/fqfhl/selective-focus-photo-of-red-poppy-flower-on-gray-train-rail-with-gray-stones-at-daytime) de pikrepo.com
 - [Fancy Finn](https://www.deviantart.com/sircollection/art/Fancy-Finn-253306996), [Flame Princess Old Dress](https://www.deviantart.com/sircollection/art/Flame-Princess-Old-Dress-318053951) & [Finn Chaotic Evil](https://www.deviantart.com/sircollection/art/Finn-Chaotic-Evil-299829001) by SIRCollection - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
-- [Hallways of Thime by Herwin Wielink aka Djekspek](https://www.deviantart.com/djekspek/art/Hallways-of-Thime-208976938) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [Hallways of Thime by Herwin Wielink aka Djekspek](   ]https://www.deviantart.com/djekspek/art/Hallways-of-Thime-208976938) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- mechanical wasp made by [DeepDreaming](https://deepdreamgenerator.com) a [wasp clipart](https://creazilla.com/nodes/8595-wasp-clipart) with [a steampunk background](https://pixabay.com/fr/illustrations/%C3%A0-la-vapeur-punk-steampunk-3160715/)
 <!--
 - [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 -->
@@ -163,7 +165,7 @@ Ajoutez un chien qui dort dans sa niche, et qu'il ne faut pas réveiller, mais d
 _<small>Image de couverture du jeu vidéo Frostpunk par Jakub Kowalczyk</small>_
 ## Frostpunk
 > Fin du XIX<sup>e</sup> siècle. Une éruption cataclysmique a déclenché un hiver permanent.
-> Vous avez pris la tête d'un groupe de survivants et êtes parti au Nord,
+> Vous avez pris la tête d'un groupe de survivants et êtes parti au nord,
 > vers une terre promise. À bout de forces, vous avez atteint un étrange monolithe mécanique,
 > une chaudière géante. Vos ingénieurs comprennent cette technologie steampunk
 > juste assez pour le rallumer, ravivant un espoir.
@@ -206,8 +208,10 @@ une femme médecin, un prêtre, un botaniste, une institutrice, et quelques enfa
 * un autre groupe de survivants à été aperçu dans les montagnes.
 Faut-il leur porter secours et les acceuillir, alors qu'une tempête approche ?
 * découverte d'un chemin de fer. Un train y circule sans s'arrêter.
-* une stèle est exhumée comportant une inscription runique.Si du temps est consacrée à la décrypter, elle révelera l'emplacement de Nidhiver,
-une ville prévue pour résister à l'hiver permanent.Elle est à seulement un jour de marche, mais cette terre promise se révelera un faux espoir,
+* une stèle est exhumée comportant une inscription runique.
+Si du temps est consacrée à la décrypter, elle révelera l'emplacement de Nidhiver,
+une ville prévue pour résister à l'hiver permanent.
+Elle est à seulement un jour de marche, mais cette terre promise se révelera un faux espoir,
 car la colonie la découvrira en ruines !
 ::::
 
@@ -292,7 +296,8 @@ Il peut alors lui faire effectuer jusqu'à **2 actions**, après quoi l'hôte re
 - le scénario démarre au moment où le parasite vient d'être aspergée d'une substance, dans une boîte de pétri,
 sous un microscope.
 - survivre à la traversée du sas désinfectant requiert une combinaison totale. Un scanner rétinien permet d'y entrer.
-- la combinaison des scientifiques est un obstacle à la fois pour s'y faufiler,et pour en sortir lorsque l'hôte reprend le contrôle !
+- la combinaison des scientifiques est un obstacle à la fois pour s'y faufiler,
+et pour en sortir lorsque l'hôte reprend le contrôle !
 - l'ascenseur s'active à l'aide du badge d'un garde, associé à une reconnaissance vocale
 - comportement des PNJs (la MJ peut relancer à loisir) :
   + ⚀-⚁ détruire le parasite quitte à y laisser leur vie
@@ -378,29 +383,32 @@ Sans lumière, le risque est élevé de tomber dans **la fosse** !
 Un gobelin qui y chute a le temps d'apercevoir un passage avant de succomber.
 - au fond de la fosse, au-delà du monticule de squelettes d'aventuriers, un escalier descend jusqu'à **une tombe**.
 Le **buste de momie** qui y repose ne sera pas ravi du tout d'être réveillé.
-Derrière, un **portail magique** mène jusqu'à la salle au Nord avec le double portail.
+Derrière, un **portail magique** mène jusqu'à la salle au nord avec le double portail.
 - derrière la fosse, au bas des marches, une arche se dresse à gauche :
 il s'agit d'un piège, une herse s'abattant violemment sur tout imprudent tentant la franchir.
 Derrière se trouve une salle avec **deux portails magiques** :
-l'un permet d'accéder à la salle de la tombe à l'Ouest, l'autre mène à la Cité Perdue.
-- après la fosse, un autre chemin mène au Nord à une fosse où devait jadis se dresser un pont,
+l'un permet d'accéder à la salle de la tombe à l'ouest, l'autre mène à la Cité Perdue.
+- après la fosse, un autre chemin mène au nord à une fosse où devait jadis se dresser un pont,
 puis juste après à une pièce avec 2 alcôves,
 contenant chacun un soldat squelette qui n'appréciera pas d'être dérangé.
-- au Nord-Est se trouve le **temple funéraire du démon Thime** : une pyramide d'or surmontée d'une statue du démon.
+- au nord-est se trouve le **temple funéraire du démon Thime** : une pyramide d'or surmontée d'une statue du démon.
 Aucune ouverture n'est visible. Elle renferme bien **le gant convoité**, mais encore faut-il trouver comment y entrer !
 - au centre du souterrain, une pièce sans issue contient une unique **tombe** : la **moitié basse d'une momie**, des pieds à la tête, y repose, inerte.
 - la **mine abandonnée** est déserte, mais des sacs de pépites d'or peuvent être découverts en fouillant un peu.
 Les tunnels qui mènent à la Cité Perdue abritent un **troll** assez hargneux.
-- le couloir qui contourne la mine par le Nord est long, terriblement long...
+- le couloir qui contourne la mine par le nord est long, terriblement long...
 Il mène à trois **cellules**, où sont enfermés un troll, un aventurier en décomposition et un gobelin !
-Ce dernier se nomme **Malfeet** est à la recherche du trésor de Thime,et a été enfermé là par le Gardien. Il proposera son aide si on l'aide à s'évader,
+Ce dernier se nomme **Malfeet** est à la recherche du trésor de Thime,
+et a été enfermé là par le Gardien. Il proposera son aide si on l'aide à s'évader,
 ce qui aisé comme les clefs des geôles pendent au mur.
-- la **Cité Perdue**, au Sud-Est, est déserte. Seul le Gardien la traverse parfois de son pas lourd.
-- le **bassin d'eau** a un usage ornemental, mais est également le point d'encrage du rituel magiquepermettant au Gardien d'exister.
-- la **Cave au Trésor**, au Sud-Est, contient un coffre renfermant tous les objets précieux et magiques
+- la **Cité Perdue**, au sud-est, est déserte. Seul le Gardien la traverse parfois de son pas lourd.
+- le **bassin d'eau** a un usage ornemental, mais est également le point d'encrage du rituel magique
+permettant au Gardien d'exister.
+- la **Cave au Trésor**, au sud-est, contient un coffre renfermant tous les objets précieux et magiques
 amassés par le démon Thime de son vivant, y compris la clef de son temple.
 Y poser le pied signifie attirer l'attention du Gardien !
-- la **Salle de la Machine** contient une étrange mécanique...La manipuler signifie déclencher l'effondrement progressif du complexe !
+- la **Salle de la Machine** contient une étrange mécanique...
+La manipuler signifie déclencher l'effondrement progressif du complexe !
 Ce qui aura pour effet de bord de créer une enfractuosité dans la pyramide d'or...
 ### Le Gardien
 Il s'agit d'un élémentaire d'eau massif, muet, dont la tâche est d'entretenir les lieux,
@@ -438,25 +446,135 @@ Relancez alors le timer à **15min** !
 
 ![](EnqueteAuVillage-small.jpg)
 _<center>Scénario pour partie en ligne</center>_
-## Enquête au village
->
+## Enquête sous pression à ValTordu
+> Aventurier un peu roublard, votre réputation de bandit au grand cœur n'est plus à faire.
+> Vous êtes un peu le Arsène Lupin itinérant des Royaumes Magiques.
+> Alors que vos pas vous mènent à un petit village, ValTordu, une guêpe mécanique vous attaque !
+> Vous avez tout juste le temps d'activer votre pendentif enchanté avant que ce minuscule automate volant ne vous transperse mortellement.
+> Heureusement le sortilège fonctionne : pendant 30min, une boucle temporelle vous protège de la mort.
+> Durant ce laps de temps, il va vous falloir trouver qui dans ce village a commandité votre meutre,
+> tout en fuyant cet insecte assassin indesctructible qui vous talonne !
 ### Objectif
-
+Trouver un moyen de rompre l'enchantement de cette guêpe mécanique assassine,
+en découvrant qui l'a lancé contre vous !
 ### Règles spéciales
 Employez [cette application web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueuses : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
+### La guêpe mécanique
+<img class="wasp" src="mechanical-wasp.jpg">
+
+Mi-automate, mi magique, cette crétaure n'a qu'un seul but : vous tuer.
+Elle est hyper-résistante, et son dard est capable, à l'usure, de transpercer n'importe quelle matière.
+De plus, elle est immunisée à la magie et aussi rapide qu'un homme en pleine course.
+Lorsqu'un ~~⚅~~ est obtenu pour s'en débarasser, le guêpe peut être temporairement bloquée quelque part.
+Cela laissera aux joueuses le temps d'accomplir 2 actions, mais elle reviendra toujours,
+tel un Terminator miniature.
+### Le mobile
+C'est Erneste qui a lancé la guêpe tueuse contre notre héro.
+Erneste a appris son arrivée hier soir à la taverne grâce à Marko,
+puis a volé à Sirius la boîte renfermant l'insecte assassin.
+
+**Pourquoi ?** Il est jaloux de sa notoriété, dont tout le monde croit qu'il s'est inspiré pour ses romans,
+et c'est aussi le frère d'un armateur que le héro a plumé et ruiné il y a quelques mois.
+### Les personnages
+1. **Faraday le magicien, dans son temple** (petite tour au nord-ouest)
+est en train de méditer, son esprit plongé dans un autre plan astral.
+Il n'appréciera pas être dérangé, et en l'absence d'une justification rapide qui lui plaise,
+il enverra valdinguer d'une bourrasque magique protagoniste & guêpe à travers la place jusqu'à l'église !
+Le choc sonnera la guêpe quelques dizaines de secondes, et attirera l'attention de Sirius.
+
+La spécialité de Faraday est la maîtrise des 4 éléments : air, eau, terre, feu.
+Il est très orgueilleux et sera sensible à la flatterie.
+Une fois amadoué, il sera curieux environ 30s d'examiner la guêpe :
+il identifiera rapidement qu'il s'agit d'une création de Jacques, _« de la belle ouvrage ! »_
+puis annoncera à notre héro que le seul moyen de l'arrêter est de retrouver le coffret d'où elle est sortie,
+avant de s'en désintéresser complètement.
+Il méprise quelque peu les autres villageois, en dehors d'Erneste et de Jacques, qu'il tient en bonne estime.
+Contre une généreuse compensation (du jus de Sapho ?), il est capable de relancer la bulle temporelle du médaillon pour 15min : attention à déclencher cet effet au bon moment !
+
+2. **Douglas le maire, au marché**, est un ancien aventurier, tour à tour mercenaire, marin, diplomate...
+Après avoir fait fortune de manière obscure, il s'est « rangé », devenant notable de cette petite bourgade.
+Beau parleur et chaleureux en apparence, il souhaitera aider notre héro, qu'il connait de réputation
+et qu'il alpaguera à son passage place du marché, mais ne cherche en réalité qu'à l'éloigner au plus vite de ValTordu :
+officiellement à cause de cette guêpe qui effraie tout le village, mais aussi car pour le tenir loin de son trafic...
+Il l'orientra donc assez vite vers Jacques, +TODO
+Sa demeure, composée de trois bâtiments, se trouve à l'ouest, avec juste au sud un enclôt pour ses chevaux.
+Le bureau de Douglas contient des preuves du trafic et de ses liens avec la pègre, ainsi qu'un paquet de fric.
+
+3. **Erneste le poète, au moulin**, est un auteur à succès et un grand séducteur.
+Il est terrorisé par la guêpe, dont il **sait** qu'elle rôde même si le protagoniste vient seul.
+Il aura une attitude étrange, manifestant tantôt une certaine antipathie envers le héro,
+tantôt curieux d'en apprendre plus sur lui...
+En entrant dans le moulin, le protagoniste reconnaitra certains livres dont son habitant est l'auteur :
+le héro a entendu dire qu'Erneste s'était inspiré de sa réputation pour en écrire certains !
+En fouillant un peu plus, il reconnaîtra aussi sur un tableau de famille le visage du frère d'Erneste,
+une de ses anciennes victimes.
+Enfin, un jet de fouille réussi permettra de découvrir le coffret-foureau de la guêpe,
+cachée dans sa cheminée.
+
+4. **Sirius l'évêque, à l'église** (bâtiment bleu au nord) est homme beau, strict et ténébreux.
+Il exprimera une bienveillance froide envers le héro, cherchant sans entrain à l'aider.
+
+C'est lui qui a commandé la guêpe à Jacques, comme mesure de protection envers Douglas dont il se méfie.
+Il ne sait pas qu'Erneste lui a volé, mais se doutera de quelque chose dès qu'il la verra en vol.
+Il sait que le frère d'Erneste s'est fait plumer par le héro, et n'hésitera pas à le mentionner discrètement.
+
+Confronté au sujet de la commande passée à Jacques, il révelera qu'on lui a volé la guêpe cette nuit même,
+et n'appréciera pas que des soupçons pèsent sur lui, à ce sujet ou à propos du trafic de Sapho :
+dans les deux cas, il deviendra menaçant, et si l'intimidation ne suffit pas,
+il ira jusqu'à soulever tout le village contre le héro, en l'accusant d'être possédé !
+
+5. **Marko le mercenaire, à la terrasse de la taverne** (au nord de la place du puit),
+apostrophera le héro par son nom dès qu'il le verra arriver sur la place du puits.
+Bien que déjà un peu saoul, il n'a pas oublié pourquoi il est ici :
+il vous attend de pied ferme depuis 2 jours, se doutant que vous passeriez par ValTordu.
+Il vous en veut, s'estimant floué sur sa part du butin lors d'un _« coup »_ où vous aviez fait équipe,
+et réclamera compensation sous peine d'en venir aux mains !
+Il n'a rien à voir avec la guêpe tueuse, mais c'est lui qui a donné l'information à Erneste que vous étiez en chemin pour ValTordu.
+
+6. **Jacques l'horloger, à la forge-atelier** (à l'est) est un brillant ingénieur et alchimiste.
+C'est lui qui a conçu la guêpe tueuse, ainsi que bon nombre d'autres automates enchantés,
+qui l'assistent dans son atelier ou labourent les champs près de chez lui.
+En bon professionnel, il ne souhaitera pas révéler son commanditaire.
+Si le protagoniste fait preuve de persuasion, il révelera qu'il s'agit de Sirius.
+La présence de la guêpe ne le dérange pas, mais il n'admettra pas de désordre dans son atelier.
 ### Environnement
+La partie commence dans le coin nord-ouest de la carte.
+
 Le village est très vivant, des gamins et des poules courrent dans tous les sens,
 les marchands hélent les passents joyeusement, des agriculteurs labourent en sifflotant...
-### Personnages
-1. **Faraday le magicien, au temple** (petite tour au Nord-Ouest)
-2. **Douglas le maire, au marché**
-3. **Erneste le poète, au moulin**
-4. **Sirius l'évêque, à l'église** (bâtiment bleu au Nord)
-5. **Marko le mercenaire, à la taverne** (au Nord de la place du puit)
-6. **Jacques l'horloger, à la forge-atelier** (à l'Est)
+### Trafic de jus de Sapho
+Douglas a mis en place une exploitation de Sapho, une racine dont le jus est une drogue décuplant les facultés mentales,
+qui se vend à prix d'or au marché noir.
+Les champs sont au sud-est de la carte et son labourés par des automates de Jacques.
+Les racines sont broyées dans la ferme juste à côté. Tout se déroule sous la surveillance d'un seul homme,
+un solide gaillard muet servant fidèlement Douglas.
 
+Sirius est également très impliqué dans ce trafic :
+il sert de couverture, prétendant que le Sapho est exploité pour les besoins de l'Eglise de l'Autorité,
+et rassurant ses ouailles de la paroisse au moindre soupçon.
+
+Jacques est au courant du trafic, comme il vend les services de ses automates de labour à Douglas.
+Faraday aussi, mais lui à vendu son silence contre une dose régulière de jus de Sapho.
+
+TODO : indices pour le découvrir + quoi trouver à la ferme.
+### À la fin
+Si les joueuses confrontent Erneste avec leurs soupçons, il craquera et avouera son rôle.
+Le coffret-foureau de la guêpe peut aussi être découverte chez lui en fouillan :
+en activant la petite boîte à musique qu'il contient, la guêpe viendra si lover paisiblement.
+C'est alors une **victoire**. La joueuse qui avait la parole raconte un épilogue en quelques phrases,
+qui peut ensuite être complété par les autres joueuses.
+
+Sinon, à la fin des 45min, la bulle temporelle s'interrompt, et le héro joue sa dernier vie.
+Cette fois s'il meurt, c'est le **GAME OVER**.
 ### Conseils à la MJ
-Évitez d'introduire d'autre personnage que les 6 nommés ci-dessus.
+Commencez la partie en demandant aux joueurs de voter pour le nom de leur personnage.
+Sur Discord, vous pouvez employer cette commande :
+```
+/poll "Comment vous appelle-t-on ?" "Damian 'Sweetongue' Hades" "Lindsey Darrow dit 'Monte en l'air'" "Aonghus. Just Aonghus"
+```
+Lorsque les joueuses croisent l'un des 6 PNJs, révélez son portrait.
+Lorsqu'elles découvrent l'un de leurs noms, révélez-le même si elles ne l'ont pas encore rencontré.
+Évitez d'introduire d'autres personnages que les 6 PNJs présentés.
 :::
 
 ---
@@ -627,6 +745,7 @@ h3 { font-size: 1.55rem; margin: 0; }
 section { height: 100%; }
 hr { margin: 6rem; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
+.wasp { float: right; max-height: 20rem; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 li::marker { font-weight: bold; }
 .picto { color: transparent; text-shadow: 0 0 0 #ec5423; }

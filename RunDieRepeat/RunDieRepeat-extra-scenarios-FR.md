@@ -153,7 +153,7 @@ et considérez qu'en attendant il explore son environnement à tâtons.
 {
   "name": "Adventure Time: Dragon Carcass",
   "img": {
-    "url": "https://chezsoi.org/lucas/jdr/shared-img-reveal/AdventureTimeDragonCarcass.png",
+    "url": "https://chezsoi.org/lucas/jdr/shared-img-reveal/AdventureTimeDragonCarcass.jpg",
     "width": 2032, "height": 1143
   },
   "clips": [
