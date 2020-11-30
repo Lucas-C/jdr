@@ -77,6 +77,7 @@ script:
     sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html;
     puppeteer print RunDieRepeat-scenarios-FR.html ../$TRAVIS_TAG.pdf;
   fi
+  node ../md2html.js LesCouloirsDuTemps.md > LesCouloirsDuTemps.html
   if [[ $TRAVIS_TAG =~ ^LesCouloirsDuTemps- ]]; then
     sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html;
     puppeteer print LesCouloirsDuTemps.html LesCouloirsDuTemps.pdf
