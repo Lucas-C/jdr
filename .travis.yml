@@ -44,9 +44,9 @@ script:
   cd gdav
   node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
   if [[ $TRAVIS_TAG =~ ^gdav- ]]; then
-    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/gdav-/}/" index.html;
-    puppeteer print index.html ../$TRAVIS_TAG.pdf;
-    puppeteer print mind-map.html ../$TRAVIS_TAG-mind-map.pdf;
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/gdav-/}/" index.html
+    puppeteer print index.html ../$TRAVIS_TAG.pdf
+    puppeteer print mind-map.html ../$TRAVIS_TAG-mind-map.pdf
   fi
   cd -
 - cd genius-loci
@@ -59,14 +59,18 @@ script:
   cd LesNonMorts
   node ../md2html.js --title='Les Non-morts' LesNonMorts.md > index.html
   if [[ $TRAVIS_TAG =~ ^LesNonMorts- ]]; then
-    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesNonMorts-/}/" index.html;
-    puppeteer print index.html ../$TRAVIS_TAG.pdf;
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesNonMorts-/}/" index.html
+    puppeteer print index.html ../$TRAVIS_TAG.pdf
   fi
   cd -
-- cd OriMushi
-- node ../md2html.js OriMushi.md > index.html
-- if [[ $TRAVIS_TAG =~ ^ori-mushi- ]]; then sed -i "s/{{version}}/${TRAVIS_TAG/ori-mushi-/}/" index.html; puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
-- cd -
+- |
+  cd OriMushi
+  node ../md2html.js OriMushi.md > index.html
+  if [[ $TRAVIS_TAG =~ ^ori-mushi- ]]; then
+    sed -i "s/{{version}}/${TRAVIS_TAG/ori-mushi-/}/" index.html
+    puppeteer print index.html ../$TRAVIS_TAG.pdf
+  fi
+  cd -
 - cd plus-de-place-en-enfer
 - node ../md2html.js plus-de-place-en-enfer.md > index.html
 - cd -
@@ -74,13 +78,13 @@ script:
   cd RunDieRepeat
   node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html
   if [[ $TRAVIS_TAG =~ ^RunDieRepeat-scenarios- ]]; then
-    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html;
-    puppeteer print RunDieRepeat-scenarios-FR.html ../$TRAVIS_TAG.pdf;
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html
+    puppeteer print RunDieRepeat-scenarios-FR.html ../$TRAVIS_TAG.pdf
   fi
   node ../md2html.js LesCouloirsDuTemps.md > LesCouloirsDuTemps.html
   if [[ $TRAVIS_TAG =~ ^LesCouloirsDuTemps- ]]; then
-    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html;
-    puppeteer print LesCouloirsDuTemps.html LesCouloirsDuTemps.pdf
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html
+    puppeteer print LesCouloirsDuTemps.html ../$TRAVIS_TAG.pdf
   fi
   cd -
 - cd sous-terre
@@ -94,8 +98,8 @@ script:
   for html in *.html */*.html; do
     # We ignore versioned .html files:
     git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
-    echo Tidying $html;
-    tidy -quiet -modify -config htmltidy.conf $html;
+    echo Tidying $html
+    tidy -quiet -modify -config htmltidy.conf $html
   done
 - rm .gitignore
 before_deploy: rm -rf node_modules/

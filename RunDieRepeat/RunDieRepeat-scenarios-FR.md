@@ -34,7 +34,7 @@ Lucas Cimon - [chezsoi.org](https://chezsoi.org)
 :::
 
 ::: web-only
-Version PDF: [v1.1 (2,0 Mo)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-scenarios-FR-v1.1.pdf)
+Version PDF: [@itch.io](https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat)
 :::
 
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
