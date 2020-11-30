@@ -7,7 +7,12 @@ Mes créations de jeux de rôle hebergées ici:
 - [Ori Mushi](OriMushi)
 - [Les Non-morts](LesNonMorts)
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
-- [10 scénarios pour _Run. Die. Repeat._](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
+
+- Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
+  * [traduction des règles en français (PDF)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
+  * [10 scénarios](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
+  * [Les Couloirs du Temps](RunDieRepeat/LesCouloirsDuTemps.html)
+
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
 <!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->

@@ -1,7 +1,3 @@
-<!--
-+ lien itch.io pour PDF
--->
-
 # Les Couloirs du Temps
 <img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
 
@@ -13,10 +9,10 @@
 > Toi d'abord.
 
 Ceci est un scénario pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-de **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)),
+de **Labrys Games** ([traduit ici en français (PDF)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)),
 prévu pour être joué par conférence audio.
 ::: web-only
-Version PDF: ...
+Version PDF: [@itch.io](https://lucas-c.itch.io/les-couloirs-du-temps)
 :::
 <br>
 
