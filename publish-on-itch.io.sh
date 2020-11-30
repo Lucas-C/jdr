@@ -5,6 +5,7 @@ cd $(dirname ${BASH_SOURCE[0]})
 declare -A gamesOnItchIo
 gamesOnItchIo['2200_le_jugement_des_dieux']='2200-le-jugement-des-dieux'
 gamesOnItchIo[gdav]=ameres-victoires-glorieuses-defaites
+gamesOnItchIo[LesCouloirsDuTemps]=les-couloirs-du-temps
 gamesOnItchIo[LesNonMorts]=les-non-morts
 
 gameIdOnItchIo="${gamesOnItchIo[${TRAVIS_TAG%-*}]:-}"

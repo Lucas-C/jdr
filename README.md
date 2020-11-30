@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/Lucas-C/jdr.svg?branch=master)](https://travis-ci.org/Lucas-C/jdr)
+[![](https://travis-ci.com/Lucas-C/jdr.svg?branch=master)](https://travis-ci.com/Lucas-C/jdr)
 
 La plupart des prototypes dans ce repo reposent sur le script NodeJS [md2html](https://github.com/Lucas-C/linux_configuration/blob/master/bin/md2html.js)
 pour générer une version HTML à partir de la version Markdown.

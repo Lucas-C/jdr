@@ -1,3 +1,9 @@
+<!-- Publié / com' sur :
+- [x] https://lucas-c.itch.io/les-couloirs-du-temps
+- [x] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html + mention sur Discord)
+- [x] http://troplongpaslu.fr
+- [x] http://www.scenariotheque.org
+-->
 # Les Couloirs du Temps
 <img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
 
@@ -116,11 +122,11 @@ body {
   max-width: 60rem;
 }
 h1 { font-family: Mirage; font-size: 4.5rem; text-align: center; }
-h2 { font-family: Mirage; font-size: 1.55rem; margin: .5rem; }
+h2 { font-family: Mirage; font-size: 2rem; margin: .5rem; }
 section { height: 100%; page-break-inside: avoid; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
 blockquote {
-  font-size: 1.15rem;
+  font-size: 1.7rem;
   font-style: italic;
   border-left: 2px solid #eee;
   margin-left: 0;
@@ -134,6 +140,8 @@ ol, ul { padding-inline-start: 1.2rem; }
 @media print {
   @page { margin: 2rem 4rem; }
   body { font-size: 1.1rem; margin: 0 auto; }
+  blockquote { font-size: 1.15rem; }
+  h2 { font-size: 1.55rem; }
   .web-only { display: none; }
   .license img { height: 1.7rem; }
   img { max-height: 20rem; }
@@ -141,8 +149,4 @@ ol, ul { padding-inline-start: 1.2rem; }
   ol, ul { margin-bottom: .5rem; margin-top: 0; }
   section:last-child > p { margin-bottom: 0 !important; }
 }
-/* Useful CSS rules to debug @page layout / margins * /
-html { border: 1px solid red; }
-.page { border: 1px solid magenta; }
-/**/
 </style>

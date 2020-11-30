@@ -9,16 +9,16 @@ Mes créations de jeux de rôle hebergées ici:
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
-  * [traduction des règles en français (PDF)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
   * [10 scénarios](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
   * [Les Couloirs du Temps](RunDieRepeat/LesCouloirsDuTemps.html)
+  * lien vers la traduction en français au bas de cette page
 
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
 <!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
 <!-- [EscapeGame](EscapeGame) -->
 
-Pour plus de détails, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
 
 ### Traductions
