@@ -1,4 +1,5 @@
 <!--
++ Invasion : préciser un chouilla à quoi ça ressemble une fois arrivé au vaisseau
 + Add a summary
 + Favoriser lien itch.io pour téléchargements, car incluent des compteurs
 
@@ -37,7 +38,8 @@ Version PDF: [v1.1 (2,0 Mo)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRep
 :::
 
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-créé par **Labrys Games**, inspirés, en vrac, des écrits de Lovecraft, du mythe du Minotaure,
+créé par **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)).
+Ces scénarios sont inspirés, en vrac, des écrits de Lovecraft, du mythe du Minotaure,
 des séries l'Attaque des Titans et Prison Break, des films Edge of Tomorrow et Independence Day,
 et des jeux vidéos Hitman, Metal Gear Solid, Prototype, Splinter Cell ou encore Shadow of the Colossus.
 
@@ -57,7 +59,7 @@ lorsque le chronomètre s'arrête, prévenez les joueuses que cela n'interrompt 
 mais que c'est leur dernière chance de réussir !
 Vous trouverez d'autres conseils & ressources concernant ce jeu sur mon blog ([lien vers articles taggés #run-die-repeat](https://chezsoi.org/lucas/blog/tag/run-die-repeat.html)). Si vous jouez à certains de ces scénarios, pensez à y laisser un commentaire, ça me fera très plaisir 😉.
 
-Un grand merci aux _playtesteurs_ : Elliot, Etienne, Francis, Henri, Laëtitia, Matthieu, Martin, Nicolas L., Nicolas T., Pierre, Simon, Thomas, ainsi que les joueurs qui ont testé ces scénarios à la 1ère [CyberConv](http://www.cyberconv1.com) :
+Un grand merci aux _playtesteurs_ : Elliot, Etienne, Francis, Henri, Laëtitia, Matthieu, Martin, Nicolas L., Nicolas T., Pierre, Simon, Thomas, ainsi que les joueurs qui ont testé ces scénarios à la 1ère [CyberConv](http://www.cyberconv.com) :
 Cronk, Komurin, Minipen, Orion, Pyrate, Aglatrex, Govomir, Koko, Sygma, TankGirl,
 Bérangère, Couteau, RaptorKev, Synamary, Gryf, Hanté & Ligeia.
 

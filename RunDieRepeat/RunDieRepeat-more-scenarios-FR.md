@@ -3,6 +3,8 @@
 + Add a summary
 + Favoriser lien itch.io pour téléchargements, car incluent des compteurs
 
+Parasite : cf. HTML comments
+
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
 
@@ -33,7 +35,6 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 * donner un rôle aux autres joueuses durant le tour de la joueuse active
 
 * progressive-reveal scenarios:
-  + https://www.deviantart.com/ekizius/art/Map-Village-795100444 + https://www.deviantart.com/ekizius/art/Map-Small-Town-795100291 side-by-side
   + Ankhor Deeps: https://www.deviantart.com/djekspek/art/One-Page-Dungeon-Contest-2012-302655474
   + https://www.deviantart.com/domigorgon/art/Town-Map-129613666 -> need to reveal legend & zone at the same time
 
@@ -81,7 +82,10 @@ Lucas Cimon - [chezsoi.org](https://chezsoi.org)
 Version PDF: ...
 :::
 
-Un grand merci aux _playtesteurs_ : Aurélien, Elliot, Estelle, Henri, Kevin, Laëtitia, Maxime.
+Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
+créé par **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)).
+
+Un grand merci aux _playtesteurs_ : Aurélien, Elliot, Estelle, Henri, Kevin, Laëtitia, Maxime, ainsi que les joueurs & joueuses qui ont testé ces scénarios lors de la 2e [CyberConv](https://cyberconv.com) : Amaethys, Menida, MiniPen, romook, Beru, Failix, Komurin, Vii, Orion, Thomas B., Vicha, Vixenn.
 
 Merci également à ces illustrateurs qui ont déposé leur magnifique travail sous licence _Creative Commons_ :
 
@@ -96,8 +100,9 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - [Light Inside Library](https://www.pexels.com/photo/blur-book-stack-books-bookshelves-590493/) de pexels.com
 - [red poppy flower on gray train rail with gray stones at daytime](https://www.pikrepo.com/fqfhl/selective-focus-photo-of-red-poppy-flower-on-gray-train-rail-with-gray-stones-at-daytime) de pikrepo.com
 - [Fancy Finn](https://www.deviantart.com/sircollection/art/Fancy-Finn-253306996), [Flame Princess Old Dress](https://www.deviantart.com/sircollection/art/Flame-Princess-Old-Dress-318053951) & [Finn Chaotic Evil](https://www.deviantart.com/sircollection/art/Finn-Chaotic-Evil-299829001) by SIRCollection - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
-- [Hallways of Thime by Herwin Wielink aka Djekspek](   ]https://www.deviantart.com/djekspek/art/Hallways-of-Thime-208976938) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - mechanical wasp made by [DeepDreaming](https://deepdreamgenerator.com) a [wasp clipart](https://creazilla.com/nodes/8595-wasp-clipart) with [a steampunk background](https://pixabay.com/fr/illustrations/%C3%A0-la-vapeur-punk-steampunk-3160715/)
+- [Map - Small Town](https://www.deviantart.com/ekizius/art/Map-Small-Town-795100291) & [Map - Village](https://www.deviantart.com/ekizius/art/Map-Village-795100444) by Ekizius - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [Fantasy portraits by TinySecretDoor](https://www.deviantart.com/tinysecretdoor/gallery/52921157/fantasy-portraits) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 <!--
 - [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 -->
@@ -290,10 +295,10 @@ Il peut alors lui faire effectuer jusqu'à **2 actions**, après quoi l'hôte re
 ### Environnement
 - vous débutez dans une salle blanche. Elle contient divers appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens (des rongeurs), un incinérateur, un grand nombre de produits chimiques et une bouche d'aération au plafond.
 - la seule sortie est un sas donnant sur une salle de pause / réunion avec kitchenette et tableau blanc. Son seul autre accès est un ascenseur. La pièce comporte une caméra de sécurité et un garde.
-- en-dehors de ce dernier, le personnel est constitué de 3 scientifiques en combinaison totale. Aux yeux du paraiste un jeune mâle brun, une femelle rousse et un vieux mâle blond.
+- en-dehors de ce dernier, le personnel est constitué de 3 scientifiques en combinaison totale. Aux yeux du parasite un jeune mâle brun, une femelle rousse et un vieux mâle blond.
 - l'ascenceur dessert directement le hall principal, assez imposant dans un style greco-romain chargé de marbre et d'or, où trone un bureau d'accueil massif. La sortie à l'extérieur se fait par une simple porte vitrée coulissante, mais le bureau de la sécurité est juste à côté et héberge quatre gardes vifs et à la gachette de taser facile.
 ### Obstacles
-- le scénario démarre au moment où le parasite vient d'être aspergée d'une substance, dans une boîte de pétri,
+- le scénario démarre au moment où le parasite vient d'être aspergé d'une substance, dans une boîte de pétri,
 sous un microscope.
 - survivre à la traversée du sas désinfectant requiert une combinaison totale. Un scanner rétinien permet d'y entrer.
 - la combinaison des scientifiques est un obstacle à la fois pour s'y faufiler,
@@ -303,6 +308,11 @@ et pour en sortir lorsque l'hôte reprend le contrôle !
   + ⚀-⚁ détruire le parasite quitte à y laisser leur vie
   + ⚂-⚃ fuir pour sauver leur peau à tout prix
   + ⚄-⚅ _(scientifique)_ aider le parasite qu'ils identifient comme une nouvelle forme de vie consciente / _(garde)_ échapper du complexe avec un échantillon du parasite pour le revendre
+<!-- Feedbacks:
+* se cloner
+* "forcer" les joueurs à posséder un hôte
+* JV carrion
+-->
 ::::
 
 ---
@@ -327,7 +337,7 @@ et pour en sortir lorsque l'hôte reprend le contrôle !
 Rattraper Marion et lui déclarer votre flamme !
 
 ### Règles spéciales
-Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'interrompt car aucune histoire d'amour ne pourra naître : train râté, approche des joueuses trop brusque ou pataude, rebutant Marion...
+Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'interrompt car aucune histoire d'amour ne pourra naître : un train râté ou une approche des joueuses trop pataude, qui rebute Marion.
 
 ### Environnement
 - votre logeuse est une très gentille septuagénaire. Ses soupçons sur le _crush_ que vous avez envers Marion se confirment en voyant le bouquet : se désolant de vous voir si dépité, elle n'hésitera pas à vous proposer sa bicyclette !
@@ -338,7 +348,7 @@ Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'inte
 - un troupeau de vaches sur la route jusqu'à la gare
 - deux policiers sont à la gare, et vous n'avez pas de masque
 - le train est en train de partir !
-- le contrôleur dans le train
+- le contrôleur dans le train, qui est de plus complètement plein à craquer de vacanciers
 - un blond sportif bien habillé est sur le point de l'aborder !
 
 ### Conseils à la MJ
@@ -347,96 +357,16 @@ Si vous jouez sur via Discord, commencez la partie en proposant aux joueuses de 
 /poll "Comment vous appelez-vous" "Tom" "Sylvain" "Felipe" "Chlöé"
 ```
 
-<!--
-### Inspirations
+Demandez des jets aux joueuses pour savoir s'ils ont pensé à prendre leur masque, ou de quoi payer leur billet,
+si elles ne pensent pas à les prendre en partant de leur logement !
 
-
-### Rejouer le scénario
--->
-:::
-
----
-
-::: page
-<img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
-
-![](hallways_of_thime_by_djekspek_small.jpg)
-_<center>Scénario pour partie en ligne</center>_
-## Les Couloirs du Temps
-> Vous gobelins. Vous obéir roi.
-> Roi gobelin veut gant de pouvoir.
-> Gant magique dans tombe souterraine. Tombe du démon Thime.
-> Vous aller dans souterrain. Vous ramener gant magique.
-> Toi d'abord.
-### Objectif
-Trouver la tombe du démon Thime et ramener le gant de pouvoir.
-### Inspirations
-Le scénario [_In the Hallways of Thime_ par Acritarche](https://www.drivethrurpg.com/product/137449/In-the-Hallways-of-Thime), pour _Dungeon World_.
-### Règles spéciales
-Employez [cette application web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueuses : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
-
-Lorsqu'un gobelin meurt, un autre est envoyé sans le souterrain à se place.
-La joueuse dont c'est le tour commence par nommer son gobelin.
-### Obstacles
-- la première salle, au pied des marches, est plongée dans l'obscurité.
-Sans lumière, le risque est élevé de tomber dans **la fosse** !
-Un gobelin qui y chute a le temps d'apercevoir un passage avant de succomber.
-- au fond de la fosse, au-delà du monticule de squelettes d'aventuriers, un escalier descend jusqu'à **une tombe**.
-Le **buste de momie** qui y repose ne sera pas ravi du tout d'être réveillé.
-Derrière, un **portail magique** mène jusqu'à la salle au nord avec le double portail.
-- derrière la fosse, au bas des marches, une arche se dresse à gauche :
-il s'agit d'un piège, une herse s'abattant violemment sur tout imprudent tentant la franchir.
-Derrière se trouve une salle avec **deux portails magiques** :
-l'un permet d'accéder à la salle de la tombe à l'ouest, l'autre mène à la Cité Perdue.
-- après la fosse, un autre chemin mène au nord à une fosse où devait jadis se dresser un pont,
-puis juste après à une pièce avec 2 alcôves,
-contenant chacun un soldat squelette qui n'appréciera pas d'être dérangé.
-- au nord-est se trouve le **temple funéraire du démon Thime** : une pyramide d'or surmontée d'une statue du démon.
-Aucune ouverture n'est visible. Elle renferme bien **le gant convoité**, mais encore faut-il trouver comment y entrer !
-- au centre du souterrain, une pièce sans issue contient une unique **tombe** : la **moitié basse d'une momie**, des pieds à la tête, y repose, inerte.
-- la **mine abandonnée** est déserte, mais des sacs de pépites d'or peuvent être découverts en fouillant un peu.
-Les tunnels qui mènent à la Cité Perdue abritent un **troll** assez hargneux.
-- le couloir qui contourne la mine par le nord est long, terriblement long...
-Il mène à trois **cellules**, où sont enfermés un troll, un aventurier en décomposition et un gobelin !
-Ce dernier se nomme **Malfeet** est à la recherche du trésor de Thime,
-et a été enfermé là par le Gardien. Il proposera son aide si on l'aide à s'évader,
-ce qui aisé comme les clefs des geôles pendent au mur.
-- la **Cité Perdue**, au sud-est, est déserte. Seul le Gardien la traverse parfois de son pas lourd.
-- le **bassin d'eau** a un usage ornemental, mais est également le point d'encrage du rituel magique
-permettant au Gardien d'exister.
-- la **Cave au Trésor**, au sud-est, contient un coffre renfermant tous les objets précieux et magiques
-amassés par le démon Thime de son vivant, y compris la clef de son temple.
-Y poser le pied signifie attirer l'attention du Gardien !
-- la **Salle de la Machine** contient une étrange mécanique...
-La manipuler signifie déclencher l'effondrement progressif du complexe !
-Ce qui aura pour effet de bord de créer une enfractuosité dans la pyramide d'or...
-### Le Gardien
-Il s'agit d'un élémentaire d'eau massif, muet, dont la tâche est d'entretenir les lieux,
-et de mettre en cellule tout intru, voir de l'éliminer s'il résiste.
-Il rôde en général dans toute la zone basse du souterrain, de la Cité Perdue à la la Cave aux Trésor.
-### Portails magiques
-Ils abritent dans leur vortex transdimensionnel un petit démon ayant le rôle de passeur.
-Il apostrophera les passants d'un « PÉAGE ! » routinier, et réclamera un droit de passage,
-sous faute d'être immédiatement dispersé aux quatres vents interdimentionnels...
-### Les trolls
-Les trolls forment un couple. Les réunir ensemble signifie obtenir leur gratitude :
-ils suivront et aideront le gobelin tant qu'il reste en vie,
-allant jusqu'à ouvrir une brèche dans le temple d'or si les joueuses leur demandent.
-### La momie
-Si un gobelin réussi à rassembler les deux moitiés de la momie, elle indiquera en remerciement l'emplacement d'un levier caché permettant d'ouvrir la pyramide de Thime !
-### Conseils à la MJ
-De nombreux cadavres d'aventuriers jonchent le souterrain, et tout un tas d'équipement peut être glané sur ces corps : épée, arbalète, corde, côte de maille, bourse d'écus, torche...
-
-5min avant la fin du compte à rebours, indiquez aux joueuses que le souterrain commence à s'écrouler !
-### Prolonger le scénario
-Pour introduire un petit retournement de situation,
-considérez que lorsqu'un gobelin met la main sur le gant de Thime, deux choses se produisent :
-- un choc sismique ébranle tout le complexe, faisant s'écrouler l'arche piégée au début du souterrain
-et l'escalier à sa gauche : révélez l'image de l'amas de rochers aux joueuses.
-- le gobelin, en prennant le gant, active son pouvoir de contrôle du temps :
-il déclenche une boucle temporelle qui le ramènera, à chaque fois qu'il meure, à l'instant où il a pris le gant.
-
-Relancez alors le timer à **15min** !
+Face à Marion, laissez chaque joueuse décrire comme elle s'y prend et interprêter l'échange verbal,
+puis demandez un jet de dé qui sanctionnera la réussite de l'approche !
+Réussir à obtenir un diner de Marion est d'autant plus délicat qu'elle vient d'apprendre un décès familial,
+raison de son départ précipité...
+### Variante
+Chaque fois que le protagoniste râte une action, enterrant tout espoir de de _love story_ avec Marion,
+il **meurt**, victime d'un arrêt cardiaque !
 :::
 
 ---
@@ -451,7 +381,7 @@ _<center>Scénario pour partie en ligne</center>_
 > Vous êtes un peu le Arsène Lupin itinérant des Royaumes Magiques.
 > Alors que vos pas vous mènent à un petit village, ValTordu, une guêpe mécanique vous attaque !
 > Vous avez tout juste le temps d'activer votre pendentif enchanté avant que ce minuscule automate volant ne vous transperse mortellement.
-> Heureusement le sortilège fonctionne : pendant 30min, une boucle temporelle vous protège de la mort.
+> Heureusement le sortilège fonctionne : pendant 45min, une boucle temporelle vous protège de la mort.
 > Durant ce laps de temps, il va vous falloir trouver qui dans ce village a commandité votre meutre,
 > tout en fuyant cet insecte assassin indesctructible qui vous talonne !
 ### Objectif
@@ -495,8 +425,8 @@ Contre une généreuse compensation (du jus de Sapho ?), il est capable de relan
 Après avoir fait fortune de manière obscure, il s'est « rangé », devenant notable de cette petite bourgade.
 Beau parleur et chaleureux en apparence, il souhaitera aider notre héro, qu'il connait de réputation
 et qu'il alpaguera à son passage place du marché, mais ne cherche en réalité qu'à l'éloigner au plus vite de ValTordu :
-officiellement à cause de cette guêpe qui effraie tout le village, mais aussi car pour le tenir loin de son trafic...
-Il l'orientra donc assez vite vers Jacques, +TODO
+officiellement à cause de cette guêpe qui effraie tout le village, mais aussi pour le tenir loin de son trafic...
+Il l'orientra donc assez vite vers Jacques, ou tout autre habitant dont l'aide semble pertinente.
 Sa demeure, composée de trois bâtiments, se trouve à l'ouest, avec juste au sud un enclôt pour ses chevaux.
 Le bureau de Douglas contient des preuves du trafic et de ses liens avec la pègre, ainsi qu'un paquet de fric.
 
@@ -514,11 +444,12 @@ cachée dans sa cheminée.
 4. **Sirius l'évêque, à l'église** (bâtiment bleu au nord) est homme beau, strict et ténébreux.
 Il exprimera une bienveillance froide envers le héro, cherchant sans entrain à l'aider.
 
-C'est lui qui a commandé la guêpe à Jacques, comme mesure de protection envers Douglas dont il se méfie.
+C'est lui qui a commandé la guêpe à Jacques, comme mesure de protection envers Douglas, dont il se méfie.
 Il ne sait pas qu'Erneste lui a volé, mais se doutera de quelque chose dès qu'il la verra en vol.
-Il sait que le frère d'Erneste s'est fait plumer par le héro, et n'hésitera pas à le mentionner discrètement.
+Il sait que le frère d'Erneste s'est fait plumer par le héro, et n'hésitera pas à le mentionner.
 
-Confronté au sujet de la commande passée à Jacques, il révelera qu'on lui a volé la guêpe cette nuit même,
+Une fouille sacristie permettra de trouver un reçu de commande de la guêpe à Jacques.
+Confronté au sujet de cette commande, il révelera qu'on lui a volé la guêpe cette nuit même,
 et n'appréciera pas que des soupçons pèsent sur lui, à ce sujet ou à propos du trafic de Sapho :
 dans les deux cas, il deviendra menaçant, et si l'intimidation ne suffit pas,
 il ira jusqu'à soulever tout le village contre le héro, en l'accusant d'être possédé !
@@ -534,9 +465,10 @@ Il n'a rien à voir avec la guêpe tueuse, mais c'est lui qui a donné l'informa
 6. **Jacques l'horloger, à la forge-atelier** (à l'est) est un brillant ingénieur et alchimiste.
 C'est lui qui a conçu la guêpe tueuse, ainsi que bon nombre d'autres automates enchantés,
 qui l'assistent dans son atelier ou labourent les champs près de chez lui.
-En bon professionnel, il ne souhaitera pas révéler son commanditaire.
-Si le protagoniste fait preuve de persuasion, il révelera qu'il s'agit de Sirius.
+En bon professionnel, il ne souhaitera pas révéler son commanditaire,
+mais si le protagoniste fait preuve de persuasion, il révelera qu'il s'agit de Sirius.
 La présence de la guêpe ne le dérange pas, mais il n'admettra pas de désordre dans son atelier.
+Il indiquera au héro que le seul moyen d'arrêter la guêpe est de retrouver son fourreau.
 ### Environnement
 La partie commence dans le coin nord-ouest de la carte.
 
@@ -546,26 +478,31 @@ les marchands hélent les passents joyeusement, des agriculteurs labourent en si
 Douglas a mis en place une exploitation de Sapho, une racine dont le jus est une drogue décuplant les facultés mentales,
 qui se vend à prix d'or au marché noir.
 Les champs sont au sud-est de la carte et son labourés par des automates de Jacques.
-Les racines sont broyées dans la ferme juste à côté. Tout se déroule sous la surveillance d'un seul homme,
-un solide gaillard muet servant fidèlement Douglas.
+Le protagoniste reconnaîtra immédiatement la plante si les cultures sont examinées.
 
 Sirius est également très impliqué dans ce trafic :
-il sert de couverture, prétendant que le Sapho est exploité pour les besoins de l'Eglise de l'Autorité,
+il sert de couverture, prétendant que le Sapho est exploité pour les besoins de l'Église de l'Autorité,
 et rassurant ses ouailles de la paroisse au moindre soupçon.
 
-Jacques est au courant du trafic, comme il vend les services de ses automates de labour à Douglas.
-Faraday aussi, mais lui à vendu son silence contre une dose régulière de jus de Sapho.
+Les racines sont broyées dans la ferme juste à côté. Tout se déroule sous la surveillance d'un seul homme,
+un solide gaillard muet servant fidèlement Douglas.
+Fouiner dans la ferme signifie attirer l'attention de ce « fermier » aggressif,
+mais peut permettre de trouver des éléments impliquant Douglas & Sirus dans le trafic :
+missives signées de Douglas attestant réception du « paiement » ou de « la marchandise »,
+fausse attestation de l'Église de l'Autorité, noms de traffiquants de Sapho connus du héro...
 
-TODO : indices pour le découvrir + quoi trouver à la ferme.
+Jacques est au courant du trafic, vendant les services de ses automates de labour à Douglas,
+mais il nierra savoir quoi que ce soit.
+Faraday, lui, a vendu son silence contre une dose régulière de jus de Sapho, dont on peut trouver des bouteilles au temple.
 ### À la fin
 Si les joueuses confrontent Erneste avec leurs soupçons, il craquera et avouera son rôle.
-Le coffret-foureau de la guêpe peut aussi être découverte chez lui en fouillan :
-en activant la petite boîte à musique qu'il contient, la guêpe viendra si lover paisiblement.
+Le coffret-foureau de la guêpe peut aussi être découvert chez lui en fouillant :
+en activant la petite boîte à musique qu'il contient, la guêpe viendra s'y lover paisiblement.
 C'est alors une **victoire**. La joueuse qui avait la parole raconte un épilogue en quelques phrases,
 qui peut ensuite être complété par les autres joueuses.
 
-Sinon, à la fin des 45min, la bulle temporelle s'interrompt, et le héro joue sa dernier vie.
-Cette fois s'il meurt, c'est le **GAME OVER**.
+Sinon, à la fin des 45min, la bulle temporelle s'interrompt, et le héro joue sa dernière vie.
+Cette fois, s'il meurt, c'est le **GAME OVER**.
 ### Conseils à la MJ
 Commencez la partie en demandant aux joueurs de voter pour le nom de leur personnage.
 Sur Discord, vous pouvez employer cette commande :
@@ -767,7 +704,7 @@ li::marker { font-weight: bold; }
 }
 .page > p { clear: both; margin: 0; } /* Pour bien centrer l'image contenue dedans, qui sinon est décalé à cause du .timer */
 .page ol, .page ul { padding-inline-start: 1rem; }
-.timer { width: 6rem; position: absolute; right: 50%; }
+.timer { width: 6rem; position: absolute; right: calc(50% - 3rem); }
 .fluid h3, .fluid p { display: inline-block; margin: .5rem 0; }
 .fluid { margin-bottom: 1rem; }
 /* Headless tables with dice as 1st column: */
