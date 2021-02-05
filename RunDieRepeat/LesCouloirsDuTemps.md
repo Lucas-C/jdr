@@ -3,6 +3,8 @@
 - [x] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html + mention sur Discord)
 - [x] http://troplongpaslu.fr
 - [x] http://www.scenariotheque.org
+
+TODO: ajouter un mini-tuto "parler gobelin" (suggestion de Muzett)
 -->
 # Les Couloirs du Temps
 <img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
@@ -24,11 +26,13 @@ Version PDF: [@itch.io](https://lucas-c.itch.io/les-couloirs-du-temps)
 
 ## Objectif
 Trouver la tombe du démon Thime et ramener le gant de pouvoir à votre roi, hors du souterrain.
+
 ## Règles spéciales
 Employez [cette application web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueuses : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
 
 Pas de boucle temporelle pour ce scénario : dès qu'un gobelin meurt ou est capturé, un autre est envoyé dans le souterrain à sa place.
 La joueuse dont c'est le tour commence par nommer son gobelin.
+
 ## Obstacles
 - la première salle, au pied des marches, est plongée dans l'obscurité.
 Sans lumière, le risque est élevé de tomber dans **la fosse** !
@@ -56,22 +60,26 @@ Il mène à trois **cellules**, où sont enfermés un troll, un aventurier en d�
 - la **Salle de la Machine** contient une étrange mécanique...
 La manipuler déclenche l'effondrement progressif du complexe !
 Une brèche se fera alors dans la pyramide d'or...
+
 ## Le Gardien
 Il s'agit d'un élémentaire d'eau massif, muet, dont la tâche est d'entretenir les lieux,
 et de mettre en cellule tout intrus, voir de l'éliminer s'il résiste.
 Il rôde en général dans toute la zone basse du souterrain.
+
 ## Portails magiques
 Ils abritent dans leur vortex transdimensionnel un petit démon ayant le rôle de passeur.
 Il apostrophera les passants d'un _« PÉAGE ! »_ routinier, et réclamera un droit de passage,
 sous faute d'être immédiatement dispersé aux quatre vents interdimentionnels...
+
 ## Les trolls
 Ils forment un couple. Les réunir permet d'obtenir leur gratitude :
 ils suivront et aideront le gobelin tant qu'il reste en vie,
 et sont capables d'ouvrir une brèche dans le temple d'or.
+
 ## La momie
 Si un gobelin réussi à rassembler les deux moitiés de la momie, elle indiquera en remerciement l'emplacement d'un levier caché permettant d'ouvrir la pyramide de Thime !
 
-<img src="goblin_druid_by_whodrewthis.png" class="goblin">
+<img alt="Gobelin druide" src="goblin_druid_by_whodrewthis.png" class="goblin">
 
 ## Conseils à la MJ
 De nombreux cadavres d'aventuriers jonchent le souterrain, et tout un tas d'équipement peut être glané sur ces corps : épée, arbalète, corde, côte de maille, bourse d'écus, torche...
@@ -83,6 +91,7 @@ voir en changeant l'emplacement du gant de pouvoir convoité :
 lors d'une partie où les joueuses n'avaient jamais exploré la partie nord-est,
 j'ai décidé en fin de partie qu'il était en fait caché dans le coffre au sud-ouest,
 et le final n'en a été que plus fun pour tout le monde !
+
 ## Prolonger le scénario
 Pour introduire un retournement de situation,
 lorsqu'un gobelin met la main sur le gant de Thime, deux choses se produisent,

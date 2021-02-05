@@ -20,6 +20,7 @@ le personnage peut **explorer toutes les alternatives temporelles** d'un problè
 comme un digicode, un labyrinthe, un unique combat avec plusieurs ennemis...
 Il peut ainsi en déduire le code, le chemin pour en sortir, où la combinaison d’enchaînements de coup
 pour en finir avec ses adversaires en mode _Matrix_ !
+=> nécessite que l'appli web de chrono permette de "nudge-decrease" le temps restant
 
 * Prenez un paquet de carte à jouer de 1 à 6,
 et posez-les devant vous ordonnées avec la carte 6 sur le dessus.
@@ -37,6 +38,12 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 * progressive-reveal scenarios:
   + Ankhor Deeps: https://www.deviantart.com/djekspek/art/One-Page-Dungeon-Contest-2012-302655474
   + https://www.deviantart.com/domigorgon/art/Town-Map-129613666 -> need to reveal legend & zone at the same time
+
+* un +3 / joueuse / session, à son jet ou à celui d'une autre joueuse
+
+* lancer un dé de plus et prendre le meilleur / pire dé
+
+* TLMEJ : toutes les joueuses indiquent sur un papier leur intention d'action :+1 au jet par proposition identique à celle de la joueuse active
 
 Idée d'HENRI: on joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
@@ -103,7 +110,11 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - mechanical wasp made by [DeepDreaming](https://deepdreamgenerator.com) a [wasp clipart](https://creazilla.com/nodes/8595-wasp-clipart) with [a steampunk background](https://pixabay.com/fr/illustrations/%C3%A0-la-vapeur-punk-steampunk-3160715/)
 - [Map - Small Town](https://www.deviantart.com/ekizius/art/Map-Small-Town-795100291) & [Map - Village](https://www.deviantart.com/ekizius/art/Map-Village-795100444) by Ekizius - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Fantasy portraits by TinySecretDoor](https://www.deviantart.com/tinysecretdoor/gallery/52921157/fantasy-portraits) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [Doctor Strange from PNG ARTS](https://www.pngarts.com/explore/135051) - [CC 4.0 BY-NC](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- [Ninja by Ms. Powell](https://www.deviantart.com/mspowell/art/Ninja-146604016) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
+- [magic circle 2 by NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/) then [DeepDreamed](https://deepdreamgenerator.com)
 <!--
+- [Dr Strange from Pixabay](https://pixabay.com/fr/vectors/doctor-strange-merveille-dc-3829001/)
 - [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 -->
 
@@ -310,7 +321,7 @@ et pour en sortir lorsque l'hôte reprend le contrôle !
   + ⚄-⚅ _(scientifique)_ aider le parasite qu'ils identifient comme une nouvelle forme de vie consciente / _(garde)_ échapper du complexe avec un échantillon du parasite pour le revendre
 <!-- Feedbacks:
 * se cloner
-* "forcer" les joueurs à posséder un hôte
+* "forcer" les joueuses à posséder un hôte
 * JV carrion
 -->
 ::::
@@ -504,7 +515,7 @@ qui peut ensuite être complété par les autres joueuses.
 Sinon, à la fin des 45min, la bulle temporelle s'interrompt, et le héro joue sa dernière vie.
 Cette fois, s'il meurt, c'est le **GAME OVER**.
 ### Conseils à la MJ
-Commencez la partie en demandant aux joueurs de voter pour le nom de leur personnage.
+Commencez la partie en demandant aux joueuses de voter pour le nom de leur personnage.
 Sur Discord, vous pouvez employer cette commande :
 ```
 /poll "Comment vous appelle-t-on ?" "Damian 'Sweetongue' Hades" "Lindsey Darrow dit 'Monte en l'air'" "Aonghus. Just Aonghus"
@@ -512,6 +523,98 @@ Sur Discord, vous pouvez employer cette commande :
 Lorsque les joueuses croisent l'un des 6 PNJs, révélez son portrait.
 Lorsqu'elles découvrent l'un de leurs noms, révélez-le même si elles ne l'ont pas encore rencontré.
 Évitez d'introduire d'autres personnages que les 6 PNJs présentés.
+:::
+
+---
+
+
+::: page
+<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+
+![](pngarts.com-Doctor-Strange-PNG-Image-Background.png)
+<!-- Alt, pending answer: ![](mehdic-Dr-Strange.jpg) -->
+<!-- Alt: ![](doctor-strange-3829001_1280.png) -->
+## Dr Lestrange
+> Médecin et maître des arts mystiques, vous êtes l'un des plus puissants magiciens de la planète aujourd'hui !
+
+> Cette nuit, alors que vous dormiez dans votre manoir new yorkais,
+> une alarme magique vous réveille : des intrus ont pénétré chez vous !
+### Qui êtes-vous ?
+Steven Lestrange, talentueux neurochirurgien devenu maître dans les arts occultes suite à un tragique accident de voiture.
+Vous avez fait voeu de protéger la Terre, et êtes capable de créer, à volonté et n'import où, des disques magiques volants,
+dont vous pouvez vous servir comme boucliers, comme armes ou comme portails en vous déplaçant à travers, de proche en proche.
+Votre grand manteau rouge vous permet de léviter,
+et grâce à la Pierre du Temps à votre cou vous revenez automatiquement dans le passé au lieu de mourir, à l'instant de votre dernier réveil.
+Néanmoins, cela vous coûte beaucoup d'énergie, et vous n'avez que 30min devant vous avant de vous écrouler de fatigue...
+### Les intrus
+Des **ninjas** manipulant la magie de l'eau sont entrés par le toit du manoir !
+Ils ont déjoué les protections magiques et dérobé le **bâton infini** dans votre Galerie des Artefacts
+
+<img class="ninja" alt="Ninja" src="mspowell-ninja.jpg">
+
+Les ninjas sont armés de shurikens, de nunchakus et de katanas.
+Un où deux d'entre eux (à la convenance de la MJ) maîtrisent également la magie de l'eau,
+leur permettant de transformer temporairement leur membres en eau (et ainsi ignorer des dommages conventionnels)
+ou de projeter des jets d'eau à très haute pression.
+
+Leur véritable objectif est d'attirer le Docteur jusqu'au grand étang de Central Park,
+où leur magie de l'eau est renforcée et où ils ont préparé un piège pour lui voler l'amulette du Temps !
+### Obstacles
+- **Le Manoir** : **Wang**, le bibliothécaire et fidèle assistant du Docteur, est immobilisé par 2 ninjas.
+Le ninja qui a vôlé le bâton infini est en train de s'enfuir, et 2 derniers ninjas barrent la route au Docteur.
+La joueuse doit choisir entre poursuivre le voleur, ou prêter main forte à Wang,
+mais laisser alors le voleur s'échapper ! Dans ce cas de figure, il semble impossible de le retrouver.
+Il ne reste plus qu'à revenir dans le temps, où à employer un sort magique pour le localiser (à Central Park)
+si les joueuses y songent et réussisent le jet.
+
+- **Manhattan** : une fois sorti par la grande lucarne du toit du manoir,
+le ninja voleur se met à traverser la ville en employant le **bâton magique** comme une gigantesque perche télescopique.
+D'autres ninjas postés sur les gratte-ciels couvrent sa fuite en bombardant le Docteur de shurikens,
+ou en s'interposant, katana à la main !
+Une course-poursuite à travers les gratte-ciels s'engage,
+l'occasion de demander un ou deux jets de dés aux joueuses...
+
+- **Central Park** : le ninja voleur fini par « atterir » à Central Park,
+où il se prépare à faire face au Docteur, debout au milieu du plus grand étang du parc.
+Dès que le Docteur s'avance au dessus de l'eau, un très grand nombre de signes kabalistiques se mettent à briller,
+tracés sur des arbres autour de l'étant et à l'aide de pierres runiques placées dans l'eau.
+Un puissant sortilège se déclenche, visant l'amulette du Temps au cou du Docteur,
+et le privant de tout pouvoir, en dehors de revenir dans le passé.
+Le ninja choisi alors ce moment pour attaquer le Docteur avec le bâton infini,
+et tenter de lui voler la Pierre du Temps !
+### Environnement
+- **Le Manoir** : une maison victorienne à deux étages, avec un grand espace central vertical ouvert,
+desservi par deux grands escaliers en bois. La lumière de l'aube éclaire les lieux à travers de grandes fenêtres circulaires en fer forgé.
+L'intérieur est bien plus grand que ne l'est le bâtiment à l'extérieur.
+L'action débute au 2e étage, où la chambre du Docteur donne sur une galerie hébergeant nombre d'armes & artefacts magiques.
+
+- **Manhattan** : l'action se déplace ensuite très vite à travers les gigantesques gratte-ciels de Manhattan.
+Il serait alors bien trop lent pour le Docteur de se déplacer au sol.
+Durant la course-poursuite, la foule au sol est interloquée par la perche géante que constitue le bâtone infini.
+Les ninjas n'hésiteront pas à faire des dégâts aux bâtiment pour entraver la progression du Docteur,
+et pourront même employer des portails d'eau, fonctionnant comme ceux du Docteur pour l'atteindre dans les airs.
+
+- **Central Park** : de nombreux badauds en balade dans le parc assistent à la scène.
+La surface de l'étang, initialement calme, se met en mouvement de manière spectaculaire dès que le rituel magique se déclenche !
+Ici, le ninja est dans son élément : il glisse sur l'eau comme un hors-bord,
+et l'emploiera pour se défendre et attaquer, sous forme de murs ou de vagues d'eau.
+### Règle spéciale
+Chaque joueuse, une seule fois durant la partie, peut intervenir durant le tour d'un autre :
+un portail s'ouvre pendant quelques secondes, et le Dr Lestrange d'un monde parallèle intervient pour prêter main forte au Dr Lestrange de cette réalité ! Cela confère un bonus de **+3** au prochain jet de la joueuse active, ou peut lui permettre d'éviter la mort suite à un jet râté.
+### Inspirations
+Le film _Doctor Strange_ de 2016, Naruto pour les ninjas, la légende de [Sun Wukong](https://fr.wikipedia.org/wiki/Sun_Wukong) pour le bâton magique.
+### Conseils à la MJ
+<img class="magic-circle" alt="Magic golden circle" src="magic-gold-circle.png">
+
+Prennez le temps de bien expliquez les capacités du Docteur au début du scénario.
+
+En bref, voici la logique de ce scénario :
+* le ninja voleur ne peut être intercepté avant Central Park
+* l'aide de Wang est cruciale pour vaincre les ninjas à Central Park,et interrompre le piège du rituel magique, comme il n'est pas affecté par le rituel et conserve ses capacités magiques !
+
+Glissez aux joueuses des indices : « si seulement vous n'étiez pas seul ici... »
+Une fois Wang aux côtés du Docteur, annoncez aux joueuses qu'elles auront un bonus de **+2** à tous leurs jets
+où le Docteur œuvre de concert avec Wang lors d'une action, en lui communiquant des instructions.
 :::
 
 ---
@@ -682,7 +785,8 @@ h3 { font-size: 1.55rem; margin: 0; }
 section { height: 100%; }
 hr { margin: 6rem; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
-.wasp { float: right; max-height: 20rem; }
+.magic-circle, .wasp { float: right; max-height: 20rem; }
+.ninja { float: left; max-height: 20rem; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 li::marker { font-weight: bold; }
 .picto { color: transparent; text-shadow: 0 0 0 #ec5423; }
@@ -704,7 +808,7 @@ li::marker { font-weight: bold; }
 }
 .page > p { clear: both; margin: 0; } /* Pour bien centrer l'image contenue dedans, qui sinon est décalé à cause du .timer */
 .page ol, .page ul { padding-inline-start: 1rem; }
-.timer { width: 6rem; position: absolute; right: calc(50% - 3rem); }
+.timer { width: 6rem; position: absolute; right: 50%; }
 .fluid h3, .fluid p { display: inline-block; margin: .5rem 0; }
 .fluid { margin-bottom: 1rem; }
 /* Headless tables with dice as 1st column: */
