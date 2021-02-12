@@ -82,6 +82,11 @@ script:
     puppeteer print RunDieRepeat-scenarios-FR.html ../$TRAVIS_TAG.pdf
   fi
   node ../md2html.js RunDieRepeat-more-scenarios-FR.md > RunDieRepeat-more-scenarios-FR.html
+  node ../md2html.js DocteurLestrange.md > DocteurLestrange.html
+  if [[ $TRAVIS_TAG =~ ^DocteurLestrange- ]]; then
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/DocteurLestrange-/}/" DocteurLestrange.html
+    puppeteer print DocteurLestrange.html ../$TRAVIS_TAG.pdf
+  fi
   node ../md2html.js LesCouloirsDuTemps.md > LesCouloirsDuTemps.html
   if [[ $TRAVIS_TAG =~ ^LesCouloirsDuTemps- ]]; then
     sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html

@@ -4,7 +4,7 @@
 - [x] http://troplongpaslu.fr
 - [x] http://www.scenariotheque.org
 
-TODO: ajouter un mini-tuto "parler gobelin" (suggestion de Muzett)
+Potential improvement: ajouter un mini-tuto "parler gobelin" (suggestion de Muzett)
 -->
 # Les Couloirs du Temps
 <img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
@@ -16,8 +16,8 @@ TODO: ajouter un mini-tuto "parler gobelin" (suggestion de Muzett)
 > Vous aller dans souterrain. Vous ramener gant magique.
 > Toi d'abord.
 
-Ceci est un scénario pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-de **Labrys Games** ([traduit ici en français (PDF)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)),
+Ceci est un scénario de 45min pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
+de **Labrys Games**, [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf),
 prévu pour être joué par conférence audio.
 ::: web-only
 Version PDF: [@itch.io](https://lucas-c.itch.io/les-couloirs-du-temps)

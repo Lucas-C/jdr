@@ -10,7 +10,8 @@ Mes créations de jeux de rôle hebergées ici:
 
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
   * [10 scénarios](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
-  * [Les Couloirs du Temps](RunDieRepeat/LesCouloirsDuTemps.html)
+  * scénario [Les Couloirs du Temps](RunDieRepeat/LesCouloirsDuTemps.html)
+  * scénario [Docteur Lestrange](RunDieRepeat/DocteurLestrange.html)
   * lien vers la traduction en français au bas de cette page
 
 <!-- [chimera](chimera) -->
