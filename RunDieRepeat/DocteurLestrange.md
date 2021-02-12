@@ -1,6 +1,6 @@
 <!-- NEXT:
 - 2e playtest
-- headers fonts + mise en page PDF
+- headers fonts + mise en page PDF (check box-shadow rendering)
 - itch.io page
 
 Publié / com' sur :
@@ -14,7 +14,6 @@ Playtest 2021/02/12 avec Jérôme, Jordane & Laetitia de l'Auberge des Rêveurs
 # Docteur Lestrange
 ![](pngarts.com-Doctor-Strange-PNG-Image-Background.png)
 <!-- Alt, pending answer: https://www.deviantart.com/mehdic/art/Dr-Strange-583986417 ![](mehdic-Dr-Strange.jpg) -->
-<!-- Alt: ![](doctor-strange-3829001_1280.png) -->
 > Médecin et maître des arts mystiques, vous êtes l'un des plus puissants magiciens de la planète aujourd'hui !
 
 > Cette nuit, alors que vous dormiez paisiblement dans votre manoir new-yorkais,
@@ -25,7 +24,7 @@ de **Labrys Games** [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ::: web-only
-Version PDF: [@itch.io](https://lucas-c.itch.io/les-couloirs-du-temps)
+Version PDF: [@itch.io](https://lucas-c.itch.io/docteur-lestrange)
 :::
 <br>
 
@@ -137,7 +136,11 @@ Comme dans le film, introduisez un léger _comic relief_ en expliquant comment D
 Je vous recommande notamment d'employer cette technique si le Docteur tente de basculer dans la dimension miroir, pour l'éviter :
 même en cas de réussite sur un **6**, faites intervenir Dormammu pour décourager les joueuses de poursuivre cette branche narrative.
 
-![Dormammu](dormammu_by_bohy.jpg)
+<div class="centered">
+  <div class="blurred-inset-border">
+    <img alt="Dormammu" src="dormammu_by_bohy.jpg">
+  </div>
+<div>
 
 
 ## Bon jeu ! <span class="picto">🏃 ☠️ ♻</span>
@@ -148,13 +151,13 @@ Les fichiers sources de ce PDF sont disponibles [sur GitHub](https://github.com/
 
 Merci aux illustrateurs qui ont placé leur magnifique travail sous licence _Creative Commons_ :
 
+<img class="dr-strange" alt="Dr Strange" src="doctor-strange-3829001_1280.png">
+
 - [Doctor Strange from PNG ARTS](https://www.pngarts.com/explore/135051) - [CC 4.0 BY-NC](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 - [Ninja by Ms. Powell](https://www.deviantart.com/mspowell/art/Ninja-146604016) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/fr/)
 - [magic circle 2 by NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/) then [DeepDreamed](https://deepdreamgenerator.com)
 - [Dormammu by Bohy](https://www.deviantart.com/bohy/art/Dormammu-716677281) - [CC 3.0 BY-NC](https://creativecommons.org/licenses/by-nc-nd/3.0/)
-<!--
 - [Dr Strange from Pixabay](https://pixabay.com/fr/vectors/doctor-strange-merveille-dc-3829001/)
--->
 
 Un grand merci également aux _playtesteurs_ : Laetitia, Jérôme & Jordan de l'[Auberge des Rêveurs](https://laubergedesreveurs.forumactif.com).
 
@@ -186,8 +189,16 @@ blockquote {
   padding-left: 1rem;
 }
 li::marker { font-weight: bold; }
-.magic-circle, .wasp { float: right; max-height: 20rem; }
+.magic-circle, .dr-strange { float: right; max-height: 20rem; }
 .ninja { float: left; max-height: 20rem; }
+.centered { text-align: center; }
+.blurred-inset-border {
+  display: inline-block; /* the parent div dimensions must match the image */
+  box-shadow: 0 0 10px 20px white inset;}
+.blurred-inset-border > img {
+  z-index: -1; /* place image behind div with box-shadow */
+  position: relative; /* allows to set z-index */
+}
 .picto { color: transparent; text-shadow: 0 0 0 #ec5423; }
 .license { float: left; padding-right: 1rem; }
 ol, ul { padding-inline-start: 1.2rem; }
