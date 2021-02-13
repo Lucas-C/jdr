@@ -1,4 +1,4 @@
-<!-- NEXT:
+    <!-- NEXT:
 - 2e playtest
 - headers fonts + mise en page PDF (check box-shadow rendering)
 - itch.io page
@@ -50,7 +50,12 @@ si rapides qu'ils semblent se téléporter.
 Leur véritable objectif est d'attirer le Docteur jusqu'au grand étang de Central Park,
 où leur magie de l'eau est renforcée et où ils ont préparé un piège pour lui voler l'amulette du Temps !
 ## Obstacles
-- **Le Manoir** :
+### Le Manoir
+Une maison victorienne à deux étages, avec un grand espace central vertical ouvert,
+desservi par deux grands escaliers en bois. La lumière de l'aube éclaire les lieux à travers de grandes fenêtres circulaires en fer forgé.
+L'intérieur est bien plus grand que ne l'est le bâtiment à l'extérieur.
+L'action débute au 2e étage, où la chambre du Docteur donne sur une galerie hébergeant nombre d'armes & artefacts magiques.
+
 Le ninja qui a volé le **bâton infini** vient de s'enfuir par le toit, et 2 derniers ninjas barrent la route au Docteur.
 De plus, **Wang**, le bibliothécaire et fidèle assistant du Docteur, est immobilisé par 2 ninjas.
 La joueuse doit choisir entre poursuivre le voleur, ou prêter main forte à Wang.
@@ -58,32 +63,26 @@ Si elle choisi cette deuxième option, le voleur disparait hors de vue.
 Il ne reste plus qu'à revenir dans le temps, où à employer un sort magique pour le localiser (à Central Park)
 si les joueuses y songent et réussissent le jet.
 
-- **Manhattan** : une fois sorti par la grande lucarne du toit du manoir,
+### Manhattan
+Une fois sorti par la grande lucarne du toit du manoir,
 le ninja voleur se met à traverser la ville en employant le **bâton infini** comme une gigantesque perche télescopique.
 D'autres ninjas postés sur les gratte-ciels couvrent sa fuite en bombardant le Docteur de shurikens,
 en employant leur magie ou en lui sautant dessus, katana à la main !
+Il serait alors bien trop lent pour le Docteur de se déplacer au sol.
+Durant la course-poursuite, les ninjas n'hésiteront pas à faire des dégâts aux gigantesques gratte-ciels pour entraver la progression du Docteur.
 
-- **Central Park** : le ninja voleur fini par « atterrir » à Central Park,
+### Central Park
+Le ninja voleur fini par « atterrir » à Central Park,
 où il se prépare à faire face au Docteur, debout au milieu du plus grand étang du parc.
+De nombreux badauds en balade dans le parc assistent à la scène.
 Dès que le Docteur s'avance au dessus de l'eau, un très grand nombre de signes kabbalistiques se mettent à briller,
 tracés sur des arbres autour de l'étant et à l'aide de pierres runiques sous l'eau.
-Un puissant sortilège se déclenche, **visant l'amulette du Temps** au cou du Docteur,
+La surface de l'étang, initialement calme, se met en mouvement de manière spectaculaire :
+un puissant sortilège se déclenche, **visant l'amulette du Temps** au cou du Docteur,
 et le privant de tout pouvoir, en dehors de revenir dans le passé.
 Le ninja choisi alors ce moment pour attaquer le Docteur avec le bâton infini,
 et tenter de lui voler la Pierre du Temps !
-## Environnement
-- **Le Manoir** : une maison victorienne à deux étages, avec un grand espace central vertical ouvert,
-desservi par deux grands escaliers en bois. La lumière de l'aube éclaire les lieux à travers de grandes fenêtres circulaires en fer forgé.
-L'intérieur est bien plus grand que ne l'est le bâtiment à l'extérieur.
-L'action débute au 2e étage, où la chambre du Docteur donne sur une galerie hébergeant nombre d'armes & artefacts magiques.
-
-- **Manhattan** : l'action se déplace très vite ensuite à travers les gigantesques gratte-ciels de Manhattan.
-Il serait alors bien trop lent pour le Docteur de se déplacer au sol.
-Durant la course-poursuite, les ninjas n'hésiteront pas à faire des dégâts aux bâtiment pour entraver la progression du Docteur.
-
-- **Central Park** : de nombreux badauds en balade dans le parc assistent à la scène.
-La surface de l'étang, initialement calme, se met en mouvement de manière spectaculaire dès que le rituel magique se déclenche !
-Ici, le ninja est dans son élément : il glisse sur l'eau comme un hors-bord,
+Il est dans son élément : il glisse sur l'eau comme un hors-bord,
 et l'emploiera pour se défendre et attaquer, sous forme de murs ou de vagues d'eau.
 ## Règle spéciale
 Chaque joueuse, une seule fois durant la partie, peut intervenir durant le tour d'un autre :
@@ -97,8 +96,12 @@ Naruto pour les ninjas, la légende de [Sun Wukong](https://fr.wikipedia.org/wik
 Prenez le temps de détailler les capacités du Docteur au début,
 pour servir de terreau à l'imagination de vos joueuses.
 
-### Effets spéciaux
+### Wang
+Si les joueuses portent assistance à Wang avant de poursuivre le voleur,
+annoncez-leur qu'elles auront désormais un bonus de **+2** à tous leurs jets
+où le Docteur œuvre de concert avec Wang lors d'une action, en lui communiquant des instructions.
 
+### Effets spéciaux
 Donnez une dimension dantesque à la course poursuite et aux sortilèges :
 * toutes les plaques d'égout de la ville sont projetées contre le Docteur par des jets d'eau souterrains
 * des gratte-ciels se plient ou se liquéfient, formant un torrent
@@ -109,7 +112,6 @@ et peut servir d'inspiration. Je vous déconseille néanmoins de « tordre » la
 sous peine de perdre vos joueuses spatialement.
 
 ### Interception
-
 Dans la logique du scénario, le Docteur ne peut empêcher le ninja voleur d'atteindre Central Park,
 les autres ninjas couvrant sa fuite.
 Si néanmoins les joueuses réussissent à l'immobiliser, voir à récupérer le bâton infini,
@@ -118,11 +120,6 @@ voici quelques « plans B » :
 * le ninja poursuivi par les airs et son bâton étaient des leurres ! Le véritable voleur s'est rendu à Central Park par les égouts.
 * une série de gestes hypnotiques du ninja voleur plonge le Docteur dans un micro-sommeil.Pour celui-ci il ne s'agit que d'un clignement d'oeil, mais les ninjas et le bâton ont disparus (à Central Park).
 Dans la logique de la Pierre du Temps, les joueuses démarrent désormais leur tour à cet instant.
-
-### Wang
-Si les joueuses portent assistance à Wang avant de poursuivre le voleur,
-annoncez-leur qu'elles auront désormais un bonus de **+2** à tous leurs jets
-où le Docteur œuvre de concert avec Wang lors d'une action, en lui communiquant des instructions.
 
 ### Que faire lorsque le Docteur rate un jet de passe magique ?
 _« Râté, il ne se passe rien »_ n'est pas très amusant et ne fait pas avancer l'action.
