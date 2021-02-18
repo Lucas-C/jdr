@@ -121,7 +121,7 @@ Firefox, Gimp, Python, livereload, markdown-it, puppeteer, Notepad++, Sumatra PD
 
 <style type="text/css">
 @font-face { font-family: EBGaramondRegular; src: url('fonts/EBGaramond-Regular.ttf'); }
-@font-face { font-family: Mirage; src: url('fonts/Mirage.ttf'); }
+@font-face { font-family: Mirage; src: url('fonts/Mirage.ttf'); } /* "u" letter do not get rendered correctly in PDF */
 body {
   margin: 0 auto;
   padding: 0;

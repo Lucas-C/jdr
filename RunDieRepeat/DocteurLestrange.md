@@ -1,9 +1,9 @@
-    <!-- NEXT:
+<!-- NEXT:
 - 2e playtest
-- headers fonts + mise en page PDF (check box-shadow rendering)
 - itch.io page
 
 Publié / com' sur :
+- [ ] https://laubergedesreveurs.forumactif.com/t220-run-die-repeat-jeudi-11-fevrier-a-21h
 - [ ] https://lucas-c.itch.io/docteur-lestrange
 - [ ] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html + mention sur Discord)
 - [ ] http://troplongpaslu.fr
@@ -28,12 +28,15 @@ Version PDF: [@itch.io](https://lucas-c.itch.io/docteur-lestrange)
 :::
 <br>
 
-## Qui êtes-vous ?
+
+## Qui etes-vous ?
 Steven Lestrange, un talentueux chirurgien devenu maître des arts occultes suite à un tragique accident de voiture.
 Vous êtes capable de créer, à volonté et n'importe où, des disques magiques volants,
 dont vous pouvez vous servir comme boucliers, comme armes ou comme portails en vous déplaçant à travers, de l'un à l'autre.
 Votre grand manteau rouge vous permet de léviter,
 et grâce à la Pierre du Temps à votre cou vous évitez la mort en revenant automatiquement dans le passé, à l'instant de votre dernier réveil. Cela vous coûte néanmoins beaucoup d'énergie, et vous n'avez qu'une demi-heure devant vous avant de vous écrouler de fatigue...
+
+
 ## Les intrus
 Des **ninjas** manipulant la magie de l'eau sont entrés par le toit du manoir !
 Ils ont déjoué les protections magiques et dérobé le **bâton infini** dans votre Galerie des Artefacts
@@ -49,6 +52,13 @@ si rapides qu'ils semblent se téléporter.
 
 Leur véritable objectif est d'attirer le Docteur jusqu'au grand étang de Central Park,
 où leur magie de l'eau est renforcée et où ils ont préparé un piège pour lui voler l'amulette du Temps !
+
+
+## Regle speciale
+Chaque joueuse, une seule fois durant la partie, peut intervenir durant le tour d'un autre :
+un portail s'ouvre pendant quelques secondes, et **le Dr Lestrange d'un monde parallèle intervient** pour prêter main forte au Dr Lestrange de cette réalité ! Cela confère un bonus de **+3** au prochain jet de la joueuse active, ou peut lui permettre d'éviter la mort suite à un jet raté.
+
+
 ## Obstacles
 ### Le Manoir
 Une maison victorienne à deux étages, avec un grand espace central vertical ouvert,
@@ -84,13 +94,8 @@ Le ninja choisi alors ce moment pour attaquer le Docteur avec le bâton infini,
 et tenter de lui voler la Pierre du Temps !
 Il est dans son élément : il glisse sur l'eau comme un hors-bord,
 et l'emploiera pour se défendre et attaquer, sous forme de murs ou de vagues d'eau.
-## Règle spéciale
-Chaque joueuse, une seule fois durant la partie, peut intervenir durant le tour d'un autre :
-un portail s'ouvre pendant quelques secondes, et **le Dr Lestrange d'un monde parallèle intervient** pour prêter main forte au Dr Lestrange de cette réalité ! Cela confère un bonus de **+3** au prochain jet de la joueuse active, ou peut lui permettre d'éviter la mort suite à un jet raté.
-## Inspirations
-Le film _Doctor Strange_ de 2016 ([concept arts](http://www.comicsblog.fr/37134-Doctor_Strange__un_Dormammu_plus_humain_des_divinitees_et_une_Tilda_Swinton_chevelue_dans_les_concept_arts)),
-Naruto pour les ninjas, la légende de [Sun Wukong](https://fr.wikipedia.org/wiki/Sun_Wukong) pour le bâton magique.
-## Conseils à la MJ
+
+## Conseils a la MJ
 <img class="magic-circle" alt="Magic golden circle" src="magic-gold-circle.png">
 
 Prenez le temps de détailler les capacités du Docteur au début,
@@ -101,14 +106,15 @@ Si les joueuses portent assistance à Wang avant de poursuivre le voleur,
 annoncez-leur qu'elles auront désormais un bonus de **+2** à tous leurs jets
 où le Docteur œuvre de concert avec Wang lors d'une action, en lui communiquant des instructions.
 
-### Effets spéciaux
+### Effets speciaux
 Donnez une dimension dantesque à la course poursuite et aux sortilèges :
 * toutes les plaques d'égout de la ville sont projetées contre le Docteur par des jets d'eau souterrains
 * des gratte-ciels se plient ou se liquéfient, formant un torrent
-* des ninjas entament un rituel en formant un cercle au sommet des immeubles,et un tsunami apparait à l'horizon
+* des ninjas entament un rituel en formant un cercle au sommet des immeubles,
+et un tsunami apparait à l'horizon
 
-La [dimension miroir dépeinte par le film de 2016](https://youtu.be/v-G5rpTKE9Q?t=56) est spectaculaire
-et peut servir d'inspiration. Je vous déconseille néanmoins de « tordre » la ville à ce point,
+La [spectaculaire dimension miroir du film de 2016](https://youtu.be/v-G5rpTKE9Q?t=56)
+peut servir d'inspiration. Je vous déconseille néanmoins de « tordre » la ville à ce point,
 sous peine de perdre vos joueuses spatialement.
 
 ### Interception
@@ -118,26 +124,25 @@ Si néanmoins les joueuses réussissent à l'immobiliser, voir à récupérer le
 voici quelques « plans B » :
 * un sortilège des ninjas fait pencher tous les gratte-ciels pour former un gigantesque tobogan vers Central Park.
 * le ninja poursuivi par les airs et son bâton étaient des leurres ! Le véritable voleur s'est rendu à Central Park par les égouts.
-* une série de gestes hypnotiques du ninja voleur plonge le Docteur dans un micro-sommeil.Pour celui-ci il ne s'agit que d'un clignement d'oeil, mais les ninjas et le bâton ont disparus (à Central Park).
+* une série de gestes hypnotiques du ninja voleur plonge le Docteur dans un micro-sommeil.
+Pour celui-ci il ne s'agit que d'un clignement d'oeil, mais les ninjas et le bâton ont disparus (à Central Park).
 Dans la logique de la Pierre du Temps, les joueuses démarrent désormais leur tour à cet instant.
 
-### Que faire lorsque le Docteur rate un jet de passe magique ?
+### Que faire lorsqu'un jet de passe magique rate ?
 _« Râté, il ne se passe rien »_ n'est pas très amusant et ne fait pas avancer l'action.
 D'un autre côté, difficile parfois de trouver un bonne raison de tuer le Docteur.
 Voici donc quelques idées :
 * le sort fonctionne, mais tourne à son désavantage. Par exemple, un ninja emploie un portail ouvert pour atteindre le Docteur et le blesser mortellement.
 * le sort est contrecarré activement par la magie de l'eau des ninjas. Par exemple si le Docteur fait apparaître un objet, il est en transformé en eau. Ou bien un portail qui se retrouve bloqué par un mur de glace.
+<div class="blurred-inset-border dormammu">
+  <img alt="Dormammu" src="dormammu_by_bohy.jpg">
+</div>
+
 * le sortilège était trop ambitieux, et permet à **Dormammu** de s'inviter, une entité maléfique très puissante.
 Comme dans le film, introduisez un léger _comic relief_ en expliquant comment Dormammu trucide le Docteur de manière différente à chaque fois.
 
 Je vous recommande notamment d'employer cette technique si le Docteur tente de basculer dans la dimension miroir, pour l'éviter :
 même en cas de réussite sur un **6**, faites intervenir Dormammu pour décourager les joueuses de poursuivre cette branche narrative.
-
-<div class="centered">
-  <div class="blurred-inset-border">
-    <img alt="Dormammu" src="dormammu_by_bohy.jpg">
-  </div>
-<div>
 
 
 ## Bon jeu ! <span class="picto">🏃 ☠️ ♻</span>
@@ -145,6 +150,10 @@ même en cas de réussite sur un **6**, faites intervenir Dormammu pour découra
 
 Ce scénario de Lucas Cimon (@[chezsoi.org](https://chezsoi.org)) est publié sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a>.
 Les fichiers sources de ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/RunDieRepeat). - v1.0
+
+**Inspirations**:
+Le film _Doctor Strange_ de 2016 ([concept arts](http://www.comicsblog.fr/37134-Doctor_Strange__un_Dormammu_plus_humain_des_divinitees_et_une_Tilda_Swinton_chevelue_dans_les_concept_arts)),
+Naruto pour les ninjas, la légende de [Sun Wukong](https://fr.wikipedia.org/wiki/Sun_Wukong) pour le bâton magique.
 
 Merci aux illustrateurs qui ont placé leur magnifique travail sous licence _Creative Commons_ :
 
@@ -156,26 +165,28 @@ Merci aux illustrateurs qui ont placé leur magnifique travail sous licence _Cre
 - [Dormammu by Bohy](https://www.deviantart.com/bohy/art/Dormammu-716677281) - [CC 3.0 BY-NC](https://creativecommons.org/licenses/by-nc-nd/3.0/)
 - [Dr Strange from Pixabay](https://pixabay.com/fr/vectors/doctor-strange-merveille-dc-3829001/)
 
+Polices employées : [Elementary Gothic](https://www.dafont.com/elementary-gothic.font) par Bill Roach (sous licence [SIL Open Font](https://fr.wikipedia.org/wiki/SIL_Open_Font_License)) & Rajdhani.
+
 Un grand merci également aux _playtesteurs_ : Laetitia, Jérôme & Jordan de l'[Auberge des Rêveurs](https://laubergedesreveurs.forumactif.com).
 
 Merci enfin aux développeurs des logiciels libres employés :
 Firefox, Gimp, Python, livereload, markdown-it, puppeteer, Notepad++, Sumatra PDF.
 
 <style type="text/css">
+@font-face { font-family: ElementaryGothic; src: url('fonts/Elementary_Gothic.otf'); }
 @font-face { font-family: RajdhaniRegular; src: url('fonts/Rajdhani-Regular.ttf'); }
-@font-face { font-family: VanchromeRegular; src: url('fonts/Vanchrome-Regular.ttf'); }
 body {
   margin: 0 auto;
   padding: 0;
   font-family: RajdhaniRegular;
   font-size: 1.5rem;
   line-height: 1.4;
-  max-width: 60rem;
+  max-width: 62rem;
 }
-h1, h2, h3, h4 { font-family: VanchromeRegular; }
+h1, h2, h3, h4 { font-family: ElementaryGothic; }
 h1 { font-size: 4.5rem; text-align: center; margin: 8rem auto; margin-bottom: 2rem; }
-h2 { font-size: 2.2rem; margin: 0; }
-h3 { font-size: 1.8rem; margin: 0; }
+h2 { font-size: 2.2rem; }
+h3 { font-size: 1.6rem; }
 section { height: 100%; page-break-inside: avoid; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
 blockquote {
@@ -186,12 +197,14 @@ blockquote {
   padding-left: 1rem;
 }
 li::marker { font-weight: bold; }
+.timer { width: 6rem; position: absolute; right: calc(50% - 3rem); }
 .magic-circle, .dr-strange { float: right; max-height: 20rem; }
 .ninja { float: left; max-height: 20rem; }
-.centered { text-align: center; }
+.dormammu { float:right; margin-top: -3rem; }
 .blurred-inset-border {
   display: inline-block; /* the parent div dimensions must match the image */
-  box-shadow: 0 0 10px 20px white inset;}
+  box-shadow: 0 0 10px 20px white inset;
+}
 .blurred-inset-border > img {
   z-index: -1; /* place image behind div with box-shadow */
   position: relative; /* allows to set z-index */
@@ -199,17 +212,23 @@ li::marker { font-weight: bold; }
 .picto { color: transparent; text-shadow: 0 0 0 #ec5423; }
 .license { float: left; padding-right: 1rem; }
 ol, ul { padding-inline-start: 1.2rem; }
-.timer { width: 6rem; position: absolute; right: calc(50% - 3rem); }
 @media print {
   @page { margin: 2rem 4rem; }
   body { font-size: 1.1rem; margin: 0 auto; }
   blockquote { font-size: 1.15rem; }
-  h2 { font-size: 1.55rem; }
-  .web-only { display: none; }
-  .license img { height: 1.7rem; }
-  img { max-height: 20rem; }
+  h1 { font-size: 4rem; margin-top: 2rem; }
+  h2 { font-size: 1.8rem; line-height: 2.8rem; } /* line-height is required to avoid heading overflow on previous page */
+  h3 { font-size: 1.2rem; line-height: 2.1rem; } /* line-height is required to avoid heading overflow on previous page */
   p { margin-top: .3rem; margin-bottom: .5rem; }
   ol, ul { margin-bottom: .5rem; margin-top: 0; }
   section:last-child > p { margin-bottom: 0 !important; }
+  img { max-height: 20rem; }
+  .web-only { display: none; }
+  .license img { height: 1.7rem; }
+  .ninja { max-height: 15rem; }
+  .magic-circle { max-height: 15rem; }
+  .dormammu { margin-top: -1rem; padding-left: .2rem; }
+  .blurred-inset-border { box-shadow: none; }
+  .dr-strange { display: none; }
 }
 </style>
