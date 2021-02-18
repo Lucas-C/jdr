@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2020-01-06T21:41:27.282000000</dc:date><meta:editing-duration>PT2H35M30S</meta:editing-duration><meta:editing-cycles>26</meta:editing-cycles><meta:generator>LibreOffice/6.3.4.2$Windows_X86_64 LibreOffice_project/60da17e045e08f1793c57c00ba83cdfce946d0aa</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="44" meta:word-count="838" meta:character-count="5025"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">30678</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14074</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3039</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1884</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">30676</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14072</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">160</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">23382</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2446768</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Rajdhani" svg:font-family="Rajdhani" style:font-pitch="variable"/>
+  <style:font-face style:name="Vanchrome Front" svg:font-family="&apos;Vanchrome Front&apos;" style:font-family-generic="decorative" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Black" svg:font-family="&apos;Arial Black&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:fill-image draw:name="Running_20_icon" draw:display-name="Running icon">
+   <office:binary-data>PHN2ZyB4bWw6c3BhY2U9InByZXNlcnZlIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAx
+    MDAgMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgaGVpZ2h0PSIxMDBweCIgd2lkdGg9IjEw
+    MHB4IiB5PSIwcHgiIHg9IjBweCIgdmVyc2lvbj0iMS4xIiB4bWxuczp4bGluaz0iaHR0cDov
+    L3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv
+    c3ZnIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1s
+    bnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxu
+    czp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyI+PHBhdGggZmls
+    bD0iI2VlZSIgZD0iTTc0Ljc4MywyOS45MDhjMy41MzgsMCw2LjQwNy0yLjg3NSw2LjQwNy02
+    LjQxNGMwLTMuNTQtMi44NjktNi40MTItNi40MDctNi40MTJjLTMuNTQ3LDAtNi40MiwyLjg3
+    My02LjQyLDYuNDEyIFM3MS4yMzYsMjkuOTA4LDc0Ljc4MywyOS45MDh6Ii8+PHBhdGggZmls
+    bD0iI2VlZSIgZD0iTTg4LjA3NSw0Mi4zMjNMNzcuMzIsNDQuMDAxYy0xLjUzMywwLjIzOC0z
+    LjE0Ni0wLjc4My0zLjU4MS0yLjI3M2wtMi45NjEtMTAuMTI0Yy0wLjQzNi0xLjQ4OS0xLjky
+    Ni0zLjI4LTMuMzEyLTMuOTc5IEw1Mi43ODEsMjAuMjFjLTEuMzg2LTAuNjk5LTMuNzUzLTAu
+    OTY5LTUuMjYxLTAuNmwtMTIuODc5LDMuMTUzYy0xLjUwOCwwLjM2OS0yLjc0MSwxLjgxNC0y
+    Ljc0MSwzLjIxMSBjMCwxLjM5NywxLjIzNCwyLjI0NCwyLjc0MywxLjg4MmwxMS4yNy0yLjcw
+    MmMxLjUxLTAuMzYyLDMuODMzLTAuMDA1LDUuMTY0LDAuNzkybDMuNjQ5LDIuMTg1IGMxLjMz
+    MiwwLjc5NywxLjMzNSwyLjEwNywwLjAwNywyLjkxMmwtMTEuMjk4LDYuODRjLTEuMzI3LDAu
+    ODA1LTMuMDM0LDIuMzY3LTMuNzkzLDMuNDc1Yy0wLjc1OCwxLjEwNSwyLjEzNCw3LjE5MSwy
+    LjgsOC41OTQgbDMuNTIsNy40NTljMC42NjUsMS40MDItMC4wNjEsMi41OS0xLjYxMywyLjU5
+    SDMwLjA1N2MtMS41NTIsMC0yLjcxOSwxLjIyNS0yLjU5MSwyLjc3MWwwLjE4MywxLjgxNiBD
+    MjcuNzc1LDY2LjEzNiwyOS4xNDksNjcsMzAuNzAyLDY3aDI0Ljg5YzEuNTUxLDAsMi4zNy0w
+    LjgwNywxLjgyLTIuMjU4bC00LjM1OS0xMS4yODdjLTAuNTUyLTEuNDUxLTEuMzUtMy43NjUt
+    MS43NzMtNS4yNTcgbC0wLjE0Ni0wLjQ2N2MtMC40MjQtMS40OTMsMC4zMjYtMy4zMzIsMS42
+    NjYtNC4xMTNsNy44NC00LjU2MWMxLjM0LTAuNzgyLDMuMTM5LTEuNzU5LDMuOTk4LTIuMTc5
+    IGMwLjg1Ny0wLjQxOSwxLjkwNywwLjQ2MiwyLjMzMiwxLjk1NmwyLjY4Niw5LjQyNmMwLjQy
+    NCwxLjQ5MywyLjAxNCwyLjQ0NywzLjUzLDIuMTE5bDE0LjkyMS0zLjIzIGMxLjUxNi0wLjMy
+    OSwyLjc1OC0xLjY0NiwyLjc1OC0yLjkyOVM4OS42MDgsNDIuMDg0LDg4LjA3NSw0Mi4zMjN6
+    Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTQ3LjQ4OSw2OWgtNi4wMTljLTEuNTUzLDAtMy44
+    NTgsMC41NTctNS4xMjUsMS40NTVsLTcuMDYyLDQuOTE5Yy0xLjI2NiwwLjg5Ny0xLjU2Niwy
+    LjYyMi0wLjY2OCwzLjg4OWwxLjM5OCwxLjk0OCBjMC44OTksMS4yNjYsMi42MjgsMS40OTks
+    My44NDIsMC41MzNsMTQuMjQ4LTExLjE1OUM0OS4zMTcsNjkuNjE5LDQ5LjA0MSw2OSw0Ny40
+    ODksNjl6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTQwLjE0MywzNWMxLjU1MiwwLDIuODIy
+    LTAuNTEsMi44MjItMXMtMS4yNzEtMS0yLjgyMi0xSDEwLjQ2Yy0xLjU1MiwwLTIuODIyLDAu
+    NTEtMi44MjIsMXMxLjI3MSwxLDIuODIyLDFINDAuMTQzeiIvPjxwYXRoIGZpbGw9IiNlZWUi
+    IGQ9Ik0zOC42NDQsMzhjMC0wLjQ5LTEuMjcxLTEtMi44MjItMUgxMy45MTJjLTEuNTUzLDAt
+    Mi44MjIsMC41MS0yLjgyMiwxczEuMjcsMSwyLjgyMiwxaDIxLjkwOSBDMzcuMzczLDM5LDM4
+    LjY0NCwzOC40OSwzOC42NDQsMzh6Ii8+PHBhdGggZmlsbD0iI2VlZSIgZD0iTTM3LjIxNCw0
+    MmMwLTAuNDg5LTEuMjctMS0yLjgyMS0xSDE2LjIxYy0xLjU1MywwLTIuODIzLDAuNTExLTIu
+    ODIzLDFjMCwwLjQ5LDEuMjcxLDEsMi44MjMsMWgxOC4xODMgQzM1Ljk0NCw0MywzNy4yMTQs
+    NDIuNDksMzcuMjE0LDQyeiIvPjwvc3ZnPg==
+   </office:binary-data>
+  </draw:fill-image>
+  <draw:fill-image draw:name="running-icon">
+   <office:binary-data>PHN2ZyB4bWw6c3BhY2U9InByZXNlcnZlIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAx
+    MDAgMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgaGVpZ2h0PSIxMDBweCIgd2lkdGg9IjEw
+    MHB4IiB5PSIwcHgiIHg9IjBweCIgdmVyc2lvbj0iMS4xIiB4bWxuczp4bGluaz0iaHR0cDov
+    L3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv
+    c3ZnIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1s
+    bnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxu
+    czp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyI+DQogICAgPGcg
+    dHJhbnNmb3JtPSJyb3RhdGUoLTE1IDUwIDUwKSI+DQogICAgICAgIDxwYXRoIGZpbGw9IiNl
+    ZWUiIGQ9Ik03NC43ODMsMjkuOTA4YzMuNTM4LDAsNi40MDctMi44NzUsNi40MDctNi40MTRj
+    MC0zLjU0LTIuODY5LTYuNDEyLTYuNDA3LTYuNDEyYy0zLjU0NywwLTYuNDIsMi44NzMtNi40
+    Miw2LjQxMiBTNzEuMjM2LDI5LjkwOCw3NC43ODMsMjkuOTA4eiIvPg0KICAgICAgICA8cGF0
+    aCBmaWxsPSIjZWVlIiBkPSJNODguMDc1LDQyLjMyM0w3Ny4zMiw0NC4wMDFjLTEuNTMzLDAu
+    MjM4LTMuMTQ2LTAuNzgzLTMuNTgxLTIuMjczbC0yLjk2MS0xMC4xMjRjLTAuNDM2LTEuNDg5
+    LTEuOTI2LTMuMjgtMy4zMTItMy45NzkgTDUyLjc4MSwyMC4yMWMtMS4zODYtMC42OTktMy43
+    NTMtMC45NjktNS4yNjEtMC42bC0xMi44NzksMy4xNTNjLTEuNTA4LDAuMzY5LTIuNzQxLDEu
+    ODE0LTIuNzQxLDMuMjExIGMwLDEuMzk3LDEuMjM0LDIuMjQ0LDIuNzQzLDEuODgybDExLjI3
+    LTIuNzAyYzEuNTEtMC4zNjIsMy44MzMtMC4wMDUsNS4xNjQsMC43OTJsMy42NDksMi4xODUg
+    YzEuMzMyLDAuNzk3LDEuMzM1LDIuMTA3LDAuMDA3LDIuOTEybC0xMS4yOTgsNi44NGMtMS4z
+    MjcsMC44MDUtMy4wMzQsMi4zNjctMy43OTMsMy40NzVjLTAuNzU4LDEuMTA1LDIuMTM0LDcu
+    MTkxLDIuOCw4LjU5NCBsMy41Miw3LjQ1OWMwLjY2NSwxLjQwMi0wLjA2MSwyLjU5LTEuNjEz
+    LDIuNTlIMzAuMDU3Yy0xLjU1MiwwLTIuNzE5LDEuMjI1LTIuNTkxLDIuNzcxbDAuMTgzLDEu
+    ODE2IEMyNy43NzUsNjYuMTM2LDI5LjE0OSw2NywzMC43MDIsNjdoMjQuODljMS41NTEsMCwy
+    LjM3LTAuODA3LDEuODItMi4yNThsLTQuMzU5LTExLjI4N2MtMC41NTItMS40NTEtMS4zNS0z
+    Ljc2NS0xLjc3My01LjI1NyBsLTAuMTQ2LTAuNDY3Yy0wLjQyNC0xLjQ5MywwLjMyNi0zLjMz
+    MiwxLjY2Ni00LjExM2w3Ljg0LTQuNTYxYzEuMzQtMC43ODIsMy4xMzktMS43NTksMy45OTgt
+    Mi4xNzkgYzAuODU3LTAuNDE5LDEuOTA3LDAuNDYyLDIuMzMyLDEuOTU2bDIuNjg2LDkuNDI2
+    YzAuNDI0LDEuNDkzLDIuMDE0LDIuNDQ3LDMuNTMsMi4xMTlsMTQuOTIxLTMuMjMgYzEuNTE2
+    LTAuMzI5LDIuNzU4LTEuNjQ2LDIuNzU4LTIuOTI5Uzg5LjYwOCw0Mi4wODQsODguMDc1LDQy
+    LjMyM3oiLz4NCiAgICAgICAgPHBhdGggZmlsbD0iI2VlZSIgZD0iTTQ3LjQ4OSw2OWgtNi4w
+    MTljLTEuNTUzLDAtMy44NTgsMC41NTctNS4xMjUsMS40NTVsLTcuMDYyLDQuOTE5Yy0xLjI2
+    NiwwLjg5Ny0xLjU2NiwyLjYyMi0wLjY2OCwzLjg4OWwxLjM5OCwxLjk0OCBjMC44OTksMS4y
+    NjYsMi42MjgsMS40OTksMy44NDIsMC41MzNsMTQuMjQ4LTExLjE1OUM0OS4zMTcsNjkuNjE5
+    LDQ5LjA0MSw2OSw0Ny40ODksNjl6Ii8+DQogICAgICAgIDxwYXRoIGZpbGw9IiNlZWUiIGQ9
+    Ik00MC4xNDMsMzVjMS41NTIsMCwyLjgyMi0wLjUxLDIuODIyLTFzLTEuMjcxLTEtMi44MjIt
+    MUgxMC40NmMtMS41NTIsMC0yLjgyMiwwLjUxLTIuODIyLDFzMS4yNzEsMSwyLjgyMiwxSDQw
+    LjE0M3oiLz4NCiAgICAgICAgPHBhdGggZmlsbD0iI2VlZSIgZD0iTTM4LjY0NCwzOGMwLTAu
+    NDktMS4yNzEtMS0yLjgyMi0xSDEzLjkxMmMtMS41NTMsMC0yLjgyMiwwLjUxLTIuODIyLDFz
+    MS4yNywxLDIuODIyLDFoMjEuOTA5IEMzNy4zNzMsMzksMzguNjQ0LDM4LjQ5LDM4LjY0NCwz
+    OHoiLz4NCiAgICAgICAgPHBhdGggZmlsbD0iI2VlZSIgZD0iTTM3LjIxNCw0MmMwLTAuNDg5
+    LTEuMjctMS0yLjgyMS0xSDE2LjIxYy0xLjU1MywwLTIuODIzLDAuNTExLTIuODIzLDFjMCww
+    LjQ5LDEuMjcxLDEsMi44MjMsMWgxOC4xODMgQzM1Ljk0NCw0MywzNy4yMTQsNDIuNDksMzcu
+    MjE0LDQyeiIvPg0KICAgIDwvZz4NCjwvc3ZnPg==
+   </office:binary-data>
+  </draw:fill-image>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Segoe UI" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Tahoma" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Segoe UI" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Tahoma" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="TopTitle" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Vanchrome Front" fo:font-family="&apos;Vanchrome Front&apos;" style:font-family-generic="decorative" style:font-pitch="variable" fo:font-size="40pt" fo:letter-spacing="normal" fo:font-weight="normal" style:font-size-asian="40pt" style:font-weight-asian="normal" style:font-size-complex="40pt" style:font-weight-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="SubTitle" style:family="paragraph" style:parent-style-name="TopTitle">
+   <style:paragraph-properties fo:margin-top="0.3cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%"/>
+   <style:text-properties fo:font-size="18pt" fo:letter-spacing="normal" style:font-size-asian="18pt" style:font-size-complex="18pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="BodyText" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.15cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Rajdhani" fo:font-family="Rajdhani" style:font-pitch="variable" fo:font-size="9.5pt" fo:letter-spacing="normal" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="BulletPoints" style:family="paragraph" style:parent-style-name="BodyText">
+   <style:text-properties fo:color="#e18981" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.247cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Segoe UI" style:font-family-asian="&apos;Segoe UI&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties fo:color="#ec5423" style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" fo:font-size="18pt" fo:font-weight="bold" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="List_20_1" style:display-name="List 1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.4cm" fo:text-indent="-0.4cm" fo:margin-left="0.4cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.801cm" fo:text-indent="-0.4cm" fo:margin-left="0.801cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.199cm" fo:text-indent="-0.4cm" fo:margin-left="1.199cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.6cm" fo:text-indent="-0.4cm" fo:margin-left="1.6cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2cm" fo:text-indent="-0.4cm" fo:margin-left="2cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.401cm" fo:text-indent="-0.4cm" fo:margin-left="2.401cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.799cm" fo:text-indent="-0.4cm" fo:margin-left="2.799cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.2cm" fo:text-indent="-0.4cm" fo:margin-left="3.2cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.6cm" fo:text-indent="-0.4cm" fo:margin-left="3.6cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Numbering_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.001cm" fo:text-indent="-0.4cm" fo:margin-left="4.001cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.15cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="110%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.15cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="110%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001b42fa"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.15cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="BodyText">
+   <style:text-properties officeooo:paragraph-rsid="000c45a1"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="BodyText">
+   <style:text-properties officeooo:paragraph-rsid="000cb73c"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="BodyText">
+   <style:text-properties officeooo:paragraph-rsid="0003ea26"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="BodyText">
+   <style:text-properties officeooo:paragraph-rsid="001a29d0"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="BodyText">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000c45a1"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="SubTitle">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Vanchrome Front" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="000e1a53" officeooo:paragraph-rsid="000e1a53" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-weight-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="SubTitle">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Vanchrome Front" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="000f0ed3" officeooo:paragraph-rsid="000f0ed3" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-weight-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="SubTitle">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Vanchrome Front" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="0010fd5e" officeooo:paragraph-rsid="0010fd5e" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-weight-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="SubTitle">
+   <style:text-properties officeooo:paragraph-rsid="000f0ed3"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="TopTitle" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties fo:language="fr" fo:country="FR"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="BodyText" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.101cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0.4cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="BodyText" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.101cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0.4cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000c45a1"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="BodyText" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.101cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0.4cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="BodyText" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.101cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0.4cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="BodyText" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.101cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0.4cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="0003ea26"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="BodyText" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.101cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0.4cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="00135ba9"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="50%">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:margin-top="0.101cm" fo:margin-bottom="0cm" fo:line-height="50%" style:writing-mode="lr-tb">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#ec5423" style:font-name="Arial Black" fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.007cm" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.007cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.007cm" fo:language="fr" fo:country="FR" fo:font-style="normal" style:font-size-asian="9.5pt" style:font-style-asian="normal" style:font-size-complex="9.5pt" style:font-style-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="-0.005cm" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="0.009cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" fo:font-size="9.5pt" fo:letter-spacing="0.005cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:font-size-asian="10pt" style:font-size-complex="10pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000c45a1" style:font-size-asian="10pt" style:font-size-complex="10pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000cb73c" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="00150b8b" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="001675c8" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="001840fe" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="001b0ebd" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000cb73c" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" officeooo:rsid="000e1a53" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" officeooo:rsid="001b0ebd" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.009cm" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="000e1a53" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="001840fe" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="0019edbe" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="001e0850" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="001a29d0" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="001cb39c" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="000e1a53" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="001b42fa" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="001c30c8" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.002cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="000e1a53" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.004cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.002cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.009cm" fo:language="fr" fo:country="FR" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.009cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.009cm" fo:language="fr" fo:country="FR" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000f0ed3" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.005cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.005cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.005cm" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T82" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.005cm" fo:language="fr" fo:country="FR" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T83" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.005cm" fo:language="fr" fo:country="FR" officeooo:rsid="001b42fa" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.005cm" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T85" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.005cm" fo:language="fr" fo:country="FR" officeooo:rsid="0010fd5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T86" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.005cm" fo:language="fr" fo:country="FR" officeooo:rsid="00186a59" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T87" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.005cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T88" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.007cm" fo:language="fr" fo:country="FR" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T89" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="-0.007cm" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T90" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.011cm" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T91" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="0.011cm" fo:language="fr" fo:country="FR" officeooo:rsid="001e0850" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T92" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Vanchrome Front" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="000c45a1" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-weight-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T93" style:family="text">
+   <style:text-properties fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Vanchrome Front" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="000f0ed3" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-weight-complex="normal" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T94" style:family="text">
+   <style:text-properties fo:color="#ec5423" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000c45a1" style:font-size-asian="10pt" style:font-size-complex="10pt" style:text-scale="100%"/>
+  </style:style>
+  <style:style style:name="T95" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="00213cf4" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:text-scale="95%"/>
+  </style:style>
+  <style:style style:name="T96" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="8pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-style="italic" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="8pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-style-complex="italic" style:font-weight-complex="normal" style:text-scale="95%"/>
+  </style:style>
+  <style:style style:name="T97" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Rajdhani" fo:font-size="8pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-style="italic" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="001e62b2" style:font-size-asian="8pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-style-complex="italic" style:font-weight-complex="normal" style:text-scale="95%"/>
+  </style:style>
+  <style:style style:name="T98" style:family="text">
+   <style:text-properties fo:font-size="9.5pt" fo:language="fr" fo:country="FR" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T99" style:family="text">
+   <style:text-properties fo:font-size="9.5pt" fo:language="fr" fo:country="FR" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T100" style:family="text">
+   <style:text-properties fo:font-size="9.5pt" fo:language="fr" fo:country="FR" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T101" style:family="text">
+   <style:text-properties fo:font-size="9.5pt" fo:language="fr" fo:country="FR" fo:font-style="italic" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T102" style:family="text">
+   <style:text-properties fo:font-size="9.5pt" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T103" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T104" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000de5c6" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T105" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="000e1a53" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T106" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="00118e5e" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T107" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="00135ba9" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T108" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" officeooo:rsid="001b0ebd" style:font-size-asian="9.5pt" style:font-size-complex="9.5pt"/>
+  </style:style>
+  <style:style style:name="T109" style:family="text">
+   <style:text-properties style:font-name="Rajdhani" fo:font-size="9.5pt" fo:letter-spacing="normal" fo:language="fr" fo:country="FR" fo:font-style="italic" officeooo:rsid="000c45a1" style:font-size-asian="9.5pt" style:font-style-asian="italic" style:font-size-complex="9.5pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T110" style:family="text">
+   <style:text-properties fo:color="#ec5423" style:font-name="Arial Black" fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties text:dont-balance-text-columns="true" style:editable="false">
+    <style:columns fo:column-count="3">
+     <style:column style:rel-width="21586*" fo:start-indent="0cm" fo:end-indent="0.289cm"/>
+     <style:column style:rel-width="22355*" fo:start-indent="0.289cm" fo:end-indent="0.289cm"/>
+     <style:column style:rel-width="21594*" fo:start-indent="0.289cm" fo:end-indent="0cm"/>
+    </style:columns>
+   </style:section-properties>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="0.4cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol" style:font-style-name="Regular" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="✔">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.797cm" style:run-through="foreground" style:wrap="right" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="true" style:wrap-contour-mode="full" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" style:flow-with-text="false"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="29.7cm" fo:page-height="21.001cm" style:num-format="1" style:print-orientation="landscape" fo:margin-top="1.383cm" fo:margin-bottom="0.737cm" fo:margin-left="2.538cm" fo:margin-right="2.436cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="18880" style:layout-grid-base-height="0.176cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.423cm" style:layout-grid-snap-to="true" draw:fill="bitmap" draw:fill-image-name="running-icon" draw:fill-image-width="100%" draw:fill-image-height="100%" style:repeat="no-repeat" draw:fill-image-ref-point="center" style:footnote-max-height="0cm">
+    <style:background-image style:position="center center" style:repeat="no-repeat">
+     <office:binary-data>PHN2ZyB4bWw6c3BhY2U9InByZXNlcnZlIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAx
+      MDAgMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgaGVpZ2h0PSIxMDBweCIgd2lkdGg9IjEw
+      MHB4IiB5PSIwcHgiIHg9IjBweCIgdmVyc2lvbj0iMS4xIiB4bWxuczp4bGluaz0iaHR0cDov
+      L3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAv
+      c3ZnIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1s
+      bnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxu
+      czp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyI+DQogICAgPGcg
+      dHJhbnNmb3JtPSJyb3RhdGUoLTE1IDUwIDUwKSI+DQogICAgICAgIDxwYXRoIGZpbGw9IiNl
+      ZWUiIGQ9Ik03NC43ODMsMjkuOTA4YzMuNTM4LDAsNi40MDctMi44NzUsNi40MDctNi40MTRj
+      MC0zLjU0LTIuODY5LTYuNDEyLTYuNDA3LTYuNDEyYy0zLjU0NywwLTYuNDIsMi44NzMtNi40
+      Miw2LjQxMiBTNzEuMjM2LDI5LjkwOCw3NC43ODMsMjkuOTA4eiIvPg0KICAgICAgICA8cGF0
+      aCBmaWxsPSIjZWVlIiBkPSJNODguMDc1LDQyLjMyM0w3Ny4zMiw0NC4wMDFjLTEuNTMzLDAu
+      MjM4LTMuMTQ2LTAuNzgzLTMuNTgxLTIuMjczbC0yLjk2MS0xMC4xMjRjLTAuNDM2LTEuNDg5
+      LTEuOTI2LTMuMjgtMy4zMTItMy45NzkgTDUyLjc4MSwyMC4yMWMtMS4zODYtMC42OTktMy43
+      NTMtMC45NjktNS4yNjEtMC42bC0xMi44NzksMy4xNTNjLTEuNTA4LDAuMzY5LTIuNzQxLDEu
+      ODE0LTIuNzQxLDMuMjExIGMwLDEuMzk3LDEuMjM0LDIuMjQ0LDIuNzQzLDEuODgybDExLjI3
+      LTIuNzAyYzEuNTEtMC4zNjIsMy44MzMtMC4wMDUsNS4xNjQsMC43OTJsMy42NDksMi4xODUg
+      YzEuMzMyLDAuNzk3LDEuMzM1LDIuMTA3LDAuMDA3LDIuOTEybC0xMS4yOTgsNi44NGMtMS4z
+      MjcsMC44MDUtMy4wMzQsMi4zNjctMy43OTMsMy40NzVjLTAuNzU4LDEuMTA1LDIuMTM0LDcu
+      MTkxLDIuOCw4LjU5NCBsMy41Miw3LjQ1OWMwLjY2NSwxLjQwMi0wLjA2MSwyLjU5LTEuNjEz
+      LDIuNTlIMzAuMDU3Yy0xLjU1MiwwLTIuNzE5LDEuMjI1LTIuNTkxLDIuNzcxbDAuMTgzLDEu
+      ODE2IEMyNy43NzUsNjYuMTM2LDI5LjE0OSw2NywzMC43MDIsNjdoMjQuODljMS41NTEsMCwy
+      LjM3LTAuODA3LDEuODItMi4yNThsLTQuMzU5LTExLjI4N2MtMC41NTItMS40NTEtMS4zNS0z
+      Ljc2NS0xLjc3My01LjI1NyBsLTAuMTQ2LTAuNDY3Yy0wLjQyNC0xLjQ5MywwLjMyNi0zLjMz
+      MiwxLjY2Ni00LjExM2w3Ljg0LTQuNTYxYzEuMzQtMC43ODIsMy4xMzktMS43NTksMy45OTgt
+      Mi4xNzkgYzAuODU3LTAuNDE5LDEuOTA3LDAuNDYyLDIuMzMyLDEuOTU2bDIuNjg2LDkuNDI2
+      YzAuNDI0LDEuNDkzLDIuMDE0LDIuNDQ3LDMuNTMsMi4xMTlsMTQuOTIxLTMuMjMgYzEuNTE2
+      LTAuMzI5LDIuNzU4LTEuNjQ2LDIuNzU4LTIuOTI5Uzg5LjYwOCw0Mi4wODQsODguMDc1LDQy
+      LjMyM3oiLz4NCiAgICAgICAgPHBhdGggZmlsbD0iI2VlZSIgZD0iTTQ3LjQ4OSw2OWgtNi4w
+      MTljLTEuNTUzLDAtMy44NTgsMC41NTctNS4xMjUsMS40NTVsLTcuMDYyLDQuOTE5Yy0xLjI2
+      NiwwLjg5Ny0xLjU2NiwyLjYyMi0wLjY2OCwzLjg4OWwxLjM5OCwxLjk0OCBjMC44OTksMS4y
+      NjYsMi42MjgsMS40OTksMy44NDIsMC41MzNsMTQuMjQ4LTExLjE1OUM0OS4zMTcsNjkuNjE5
+      LDQ5LjA0MSw2OSw0Ny40ODksNjl6Ii8+DQogICAgICAgIDxwYXRoIGZpbGw9IiNlZWUiIGQ9
+      Ik00MC4xNDMsMzVjMS41NTIsMCwyLjgyMi0wLjUxLDIuODIyLTFzLTEuMjcxLTEtMi44MjIt
+      MUgxMC40NmMtMS41NTIsMC0yLjgyMiwwLjUxLTIuODIyLDFzMS4yNzEsMSwyLjgyMiwxSDQw
+      LjE0M3oiLz4NCiAgICAgICAgPHBhdGggZmlsbD0iI2VlZSIgZD0iTTM4LjY0NCwzOGMwLTAu
+      NDktMS4yNzEtMS0yLjgyMi0xSDEzLjkxMmMtMS41NTMsMC0yLjgyMiwwLjUxLTIuODIyLDFz
+      MS4yNywxLDIuODIyLDFoMjEuOTA5IEMzNy4zNzMsMzksMzguNjQ0LDM4LjQ5LDM4LjY0NCwz
+      OHoiLz4NCiAgICAgICAgPHBhdGggZmlsbD0iI2VlZSIgZD0iTTM3LjIxNCw0MmMwLTAuNDg5
+      LTEuMjctMS0yLjgyMS0xSDE2LjIxYy0xLjU1MywwLTIuODIzLDAuNTExLTIuODIzLDFjMCww
+      LjQ5LDEuMjcxLDEsMi44MjMsMWgxOC4xODMgQzM1Ljk0NCw0MywzNy4yMTQsNDIuNDksMzcu
+      MjE0LDQyeiIvPg0KICAgIDwvZz4NCjwvc3ZnPg==
+     </office:binary-data>
+    </style:background-image>
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.706cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
+  <style:master-page style:name="Index" style:page-layout-name="pm2"/>
+ </office:master-styles>
+ <office:body>
+  <office:text>
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:section text:style-name="Sect1" text:name="TextSection">
+    <text:p text:style-name="P13">RUN. DIE. REPEAT</text:p>
+    <text:p text:style-name="P8"><text:span text:style-name="T21">Conçu</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T21">avec </text:span><text:span text:style-name="T94">❤</text:span><text:span text:style-name="T21"> <text:s/>par</text:span><text:span text:style-name="T20"> </text:span><text:a xlink:type="simple" xlink:href="http://labrysgames.itch.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T95">labrysgames.itch.io</text:span></text:a><text:span text:style-name="T96"> </text:span><text:span text:style-name="T97">Traduit par </text:span><text:a xlink:type="simple" xlink:href="https://chezsoi.org/lucas/blog/run-die-repeat.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Lucas C</text:a><text:span text:style-name="T97">. </text:span></text:p>
+    <text:p text:style-name="P12"><text:span text:style-name="T92">P</text:span><text:span text:style-name="T93">réparatifs</text:span></text:p>
+    <text:p text:style-name="P4"><text:span text:style-name="T103">Ceci est un</text:span><text:span text:style-name="T98"> mini </text:span><text:span text:style-name="T103">jeu de rôle n</text:span><text:span text:style-name="T104">e </text:span><text:span text:style-name="T103">nécessitant a</text:span><text:span text:style-name="T104">ucune </text:span><text:span text:style-name="T103">préparation, conçu pour de courtes sessions</text:span><text:span text:style-name="T98"> </text:span><text:span text:style-name="T103">effrénées, improvisées n’importe où, n’importe quand.</text:span><text:span text:style-name="T98"> </text:span><text:span text:style-name="T103">Le principe </text:span><text:span text:style-name="T98">:</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T109">Vous êtes piégé dans un cauchemar</text:span><text:span text:style-name="T101">, </text:span><text:span text:style-name="T102">pour</text:span><text:span text:style-name="T109">chassé par des monstres.</text:span><text:span text:style-name="T101"> </text:span><text:span text:style-name="T109">Chaque fois que vous mourrez</text:span><text:span text:style-name="T101">, </text:span><text:span text:style-name="T109">vous recommencez exactement au même endroit, au même moment</text:span><text:span text:style-name="T101">. </text:span><text:span text:style-name="T109">Trouverez-vous comment vous échapper </text:span><text:span text:style-name="T101">?</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T103">Vous n’aurez pas besoin de feuille de personnage, ni même de papier ou de crayon</text:span><text:span text:style-name="T98">. </text:span><text:span text:style-name="T103">En fait</text:span><text:span text:style-name="T98">, </text:span><text:span text:style-name="T103">ils sont même interdits dans ce jeu </text:span><text:span text:style-name="T98">! </text:span><text:span text:style-name="T103">Tout ce dont vous a</text:span><text:span text:style-name="T105">ur</text:span><text:span text:style-name="T103">ez besoin </text:span><text:span text:style-name="T98">:</text:span></text:p>
+    <text:list xml:id="list891577728" text:style-name="L1">
+     <text:list-item>
+      <text:p text:style-name="P14"><text:span text:style-name="T103">Un dé à six faces</text:span><text:span text:style-name="T98">.</text:span></text:p>
+     </text:list-item>
+     <text:list-item>
+      <text:p text:style-name="P16">Un minuteur.</text:p>
+     </text:list-item>
+     <text:list-item>
+      <text:p text:style-name="P15"><text:span text:style-name="T103">Des ami·e·s</text:span><text:span text:style-name="T98">.</text:span></text:p>
+     </text:list-item>
+    </text:list>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T103">L’une des joueuses endosse le rôle du MJ </text:span><text:span text:style-name="T98">(</text:span><text:span text:style-name="T103">Meneuse du Jeu</text:span><text:span text:style-name="T98">). </text:span><text:span text:style-name="T99">Elle </text:span><text:span text:style-name="T103">invente une scène </text:span><text:span text:style-name="T98">init</text:span><text:span text:style-name="T99">i</text:span><text:span text:style-name="T98">al</text:span><text:span text:style-name="T99">e, </text:span><text:span text:style-name="T103">puis décrit les conséquences des actions des autres joueuses</text:span><text:span text:style-name="T98">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T23">Les autres joueuses contrôlent</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T32">le même personnage</text:span><text:span text:style-name="T15">.</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T23">Elles l’incarnent tour à tour, dans l</text:span><text:span text:style-name="T29">e sens</text:span><text:span text:style-name="T23"> h</text:span><text:span text:style-name="T29">oraire</text:span><text:span text:style-name="T14">. </text:span><text:span text:style-name="T23">Chaque fois q</text:span><text:span text:style-name="T29">u’il</text:span><text:span text:style-name="T23"> meurt </text:span><text:span text:style-name="T14">(</text:span><text:span text:style-name="T23">et cela arrivera <text:s/>souvent</text:span><text:span text:style-name="T14">), </text:span><text:span text:style-name="T23">la joueus</text:span><text:span text:style-name="T28">e</text:span><text:span text:style-name="T23"> activ</text:span><text:span text:style-name="T28">e</text:span><text:span text:style-name="T23"> change,</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T23">et une nouvelle </text:span><text:span text:style-name="T15">incarnation</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T23">commence</text:span><text:span text:style-name="T14">.</text:span></text:p>
+    <text:p text:style-name="P5"><text:span text:style-name="T24">La MJ</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T24">présente un minuteur indiquant</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T33">combien de temps</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T24">les joueuses ont avant de trouver une échappatoire, avant d’être enfermé pour toujours dans le cauchemar</text:span><text:span text:style-name="T14">. </text:span><text:span text:style-name="T24">Tout le monde doit être concentré et réfléchir vite !</text:span></text:p>
+    <text:p text:style-name="P9">Définir l’ambiance</text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T36">Il y a de l’urgence et de la tension dans</text:span><text:span text:style-name="T35"> </text:span><text:span text:style-name="T40">Run. Die. Repeat, </text:span><text:span text:style-name="T36">mais ça ne doit pas nécessairement être un jeu d’horreur</text:span><text:span text:style-name="T41">. </text:span><text:span text:style-name="T42">Avant de commencer à jouer</text:span><text:span text:style-name="T55">, </text:span><text:span text:style-name="T56">discutez ensemble du type d’univers que vous voulez explorer</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T63">(</text:span><text:span text:style-name="T64">dingue</text:span><text:span text:style-name="T63">, </text:span><text:span text:style-name="T64">surréaliste</text:span><text:span text:style-name="T63">, gore... </text:span><text:span text:style-name="T64">ce que vous v</text:span><text:span text:style-name="T65">oulez</text:span><text:span text:style-name="T63">) </text:span><text:span text:style-name="T65">pour que tout le monde ait les même références et soit confortable autour de la table</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="P10">C’est parti</text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T43">La MJ</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T43">décrit une </text:span><text:span text:style-name="T49">sc</text:span><text:span text:style-name="T50">è</text:span><text:span text:style-name="T49">ne </text:span><text:span text:style-name="T50">initiale</text:span><text:span text:style-name="T49">,</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T43">s</text:span><text:span text:style-name="T46">ituée</text:span><text:span text:style-name="T43"> e</text:span><text:span text:style-name="T46">n</text:span><text:span text:style-name="T43"> un lieu fermé t</text:span><text:span text:style-name="T46">el</text:span><text:span text:style-name="T43"> un bâtiment ou une caverne</text:span><text:span text:style-name="T22">, </text:span><text:span text:style-name="T25">avec des monstres</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T25">poursuivant le personnage </text:span><text:span text:style-name="T30">et </text:span><text:span text:style-name="T25">d’autres dangers </text:span><text:span text:style-name="T30">mortels</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T70">La joueuse à la gauche du MJ décrit la première action et lance un dé à six faces</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><draw:frame text:anchor-type="paragraph" draw:z-index="0" draw:name="Forme1" draw:style-name="gr1" draw:text-style-name="P21" svg:width="0.639cm" svg:height="0.798cm" svg:x="0.199cm" svg:y="0.349cm">
+      <draw:text-box>
+       <text:p text:style-name="P20"><text:span text:style-name="T110">!</text:span></text:p>
+      </draw:text-box>
+     </draw:frame><text:span text:style-name="T43">Sur un</text:span><text:span text:style-name="T11"> 6, </text:span><text:span text:style-name="T43">l’action est réussie</text:span><text:span text:style-name="T11">. </text:span><text:span text:style-name="T43">La MJ décrit les conséquences </text:span><text:span text:style-name="T76">et une</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T78">nouvelle scène</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T76">en découle</text:span><text:span text:style-name="T17">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><draw:frame text:anchor-type="paragraph" draw:z-index="1" draw:name="Forme1" draw:style-name="gr1" draw:text-style-name="P21" svg:width="0.639cm" svg:height="0.798cm" svg:x="0.199cm" svg:y="0.524cm">
+      <draw:text-box>
+       <text:p text:style-name="P20"><text:span text:style-name="T110">!</text:span></text:p>
+      </draw:text-box>
+     </draw:frame><text:span text:style-name="T25">Sur un 5 ou moins</text:span><text:span text:style-name="T17">, </text:span><text:span text:style-name="T25">le personnage meurt</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T25">et retourne à la </text:span><text:span text:style-name="T34">scène initiale</text:span><text:span text:style-name="T18">.</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T25">C’est au tour de la joueuse suivante</text:span><text:span text:style-name="T17">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T66">Si une action échoue</text:span><text:span text:style-name="T63">, </text:span><text:span text:style-name="T67">les joueuses ne peuvent réessayer à nouveau</text:span><text:span text:style-name="T63"> </text:span><text:span text:style-name="T66">la même action dans la même scène</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T57">et doivent trouver une autre approche</text:span><text:span text:style-name="T55">, </text:span><text:span text:style-name="T57">jusqu’à ce que le contexte ait changé significativement</text:span><text:span text:style-name="T55">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T80">Lorsqu’une action réussit</text:span><text:span text:style-name="T79">, </text:span><text:span text:style-name="T80">les joueuses peuvent la répéter avec succès les fois suivante pour la même scène, sans lancer de dé</text:span><text:span text:style-name="T41">, </text:span><text:span text:style-name="T57">tant qu’elles se souviennent</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T62">des actions dans l’ordre</text:span><text:span text:style-name="T61">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T77">Les joueuses peuvent enchaîner autant d’actions précédemment réussies qu’elles peuvent se souvenir</text:span><text:span text:style-name="T84">, </text:span><text:span text:style-name="T85">mais</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T51">seule la MJ peut prendre des notes</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T71">La MJ</text:span><text:span text:style-name="T69"> </text:span><text:span text:style-name="T71">ne peut modifier le résultat d’une action réussie</text:span><text:span text:style-name="T69">. </text:span><text:span text:style-name="T85">Les joueuses doivent pouvoir répéter des scènes précédentes</text:span><text:span text:style-name="T84"> </text:span><text:span text:style-name="T85">en r</text:span><text:span text:style-name="T86">épétant</text:span><text:span text:style-name="T85"> toutes les actions</text:span><text:span text:style-name="T57"> qui y ont mené.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T77">N’importe quand, une joueuse peut décider d’essayer une action différente, ou oublier une action qui avait réussi dans une </text:span><text:span text:style-name="T22">incarnation </text:span><text:span text:style-name="T26">précédente</text:span><text:span text:style-name="T22">. </text:span><text:span text:style-name="T26">Un nouveau jet est alors nécessaire</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T66">Quand le tour de la joueuse à droite de la MJ</text:span><text:span text:style-name="T63"> </text:span><text:span text:style-name="T66">est fini</text:span><text:span text:style-name="T63">, </text:span><text:span text:style-name="T71">la MJ peut choisir de</text:span><text:span text:style-name="T69"> </text:span><text:span text:style-name="T74">transformer la situation</text:span><text:span text:style-name="T73"> initial</text:span><text:span text:style-name="T74">e</text:span><text:span text:style-name="T69"> </text:span><text:span text:style-name="T71">en une autre</text:span><text:span text:style-name="T84">, </text:span><text:span text:style-name="T85">de manière à ce que les joueuses puissent tenter à nouveau des actions qui avaient précédemment échoué, et continuer à progresser</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="P11">Gagner</text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T44">La victoire s’obtient en réussissant à s’échapper ou à vaincre tous vos adversaires avant la fin du temps imparti</text:span><text:span text:style-name="T22">. </text:span><text:span text:style-name="T26">Vous vous réveillez alors, sain et sauf</text:span></text:p>
+    <text:p text:style-name="P11">Conseils pour la MJ</text:p>
+    <text:p text:style-name="P1"><text:span text:style-name="T26">Configurez le minuteur entre</text:span><text:span text:style-name="T22"> 20 </text:span><text:span text:style-name="T26">et</text:span><text:span text:style-name="T22"> 40</text:span><text:span text:style-name="T31">min</text:span><text:span text:style-name="T22">. </text:span><text:span text:style-name="T31">Au-delà, </text:span><text:span text:style-name="T57">il est difficile de maintenir le rythme et la mémoire</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="P1"><text:span text:style-name="T71">Si vous souhaitez donner une description détaillée de l’environnement, faite-le avant de lancer le minuteur afin de ne pas gaspiller le temps des joueuses</text:span><text:span text:style-name="T22">. </text:span><text:span text:style-name="T27">Durant la partie, s</text:span><text:span text:style-name="T26">oyez brève et </text:span><text:span text:style-name="T27">p</text:span><text:span text:style-name="T26">r</text:span><text:span text:style-name="T27">écise</text:span><text:span text:style-name="T26"> lorsque vous </text:span><text:span text:style-name="T27">décrivez</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="P3"><text:span text:style-name="T37">N’attendez pas l’idée de génie</text:span><text:span text:style-name="T35">. </text:span><text:span text:style-name="T37">Faite confiance à votre instinct </text:span><text:span text:style-name="T58">et lancez-vous avec la première idée qui vous vient.</text:span></text:p>
+    <text:p text:style-name="P2"><text:span text:style-name="T81">Le rythme est essentiel</text:span><text:span text:style-name="T79">. </text:span><text:span text:style-name="T83">A</text:span><text:span text:style-name="T58">joutez </text:span><text:span text:style-name="T59">sans cesse </text:span><text:span text:style-name="T81">de nouvelles opportunités</text:span><text:span text:style-name="T59"> </text:span><text:span text:style-name="T58">e</text:span><text:span text:style-name="T59">t </text:span><text:span text:style-name="T58">menace</text:span><text:span text:style-name="T60">s.</text:span></text:p>
+    <text:p text:style-name="P1"><text:span text:style-name="T27">Ne transformez la scène initiale que si les joueuses sont bloquées et à court d’idée. </text:span><text:span text:style-name="T90">Si elles ont enchaîné plusieurs réussites, </text:span><text:span text:style-name="T91">évitez de </text:span><text:span text:style-name="T90">transformer la scène initiale c</text:span><text:span text:style-name="T91">ar </text:span><text:span text:style-name="T45">elles perdront </text:span><text:span text:style-name="T48">alors</text:span><text:span text:style-name="T45"> toute</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T45">leur progression</text:span><text:span text:style-name="T41">. </text:span><text:span text:style-name="T45">Rappelez-leur qu’elles peuvent modifier n’importe quelle action d</text:span><text:span text:style-name="T47">e</text:span><text:span text:style-name="T45"> la chaîne</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T27">pour débloquer de nouvelles scènes</text:span><text:span text:style-name="T22">.</text:span></text:p>
+    <text:p text:style-name="P11">Suggestions de scènes initiales</text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T106">Voici quelques idées pour débuter </text:span><text:span text:style-name="T98">:</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T68">Vous êtes dans une </text:span><text:span text:style-name="T8">crypt</text:span><text:span text:style-name="T9">e</text:span><text:span text:style-name="T8">. </text:span><text:span text:style-name="T68">La porte de sortie est fermée et les morts sortent de leurs tombes. Où est la clef</text:span><text:span text:style-name="T10">?</text:span></text:p>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T52">Vous êtes au milieu d’un incendie</text:span><text:span text:style-name="T12">, </text:span><text:span text:style-name="T13">des </text:span><text:span text:style-name="T52">f</text:span><text:span text:style-name="T13">lammes</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T52">vous encerclent, </text:span><text:span text:style-name="T54">la fumée</text:span><text:span text:style-name="T52"> v</text:span><text:span text:style-name="T53">ous aveugle</text:span><text:span text:style-name="T52">.</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T89">Trouverez une sortie !</text:span></text:p>
+    <text:p text:style-name="P7"><text:span text:style-name="T5">V</text:span><text:span text:style-name="T6">ous vous </text:span><text:span text:style-name="T75">réveillez</text:span><text:span text:style-name="T6"> dans un</text:span><text:span text:style-name="T5"> h</text:span><text:span text:style-name="T75">ô</text:span><text:span text:style-name="T5">pital, </text:span><text:span text:style-name="T75">mais quelque chose ne va pas</text:span><text:span text:style-name="T5">. </text:span><text:span text:style-name="T87">Tout est sale et rouillé, et le personnel vous attaque à vue.</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T87">Comment vous échapper de ce cauchemar</text:span><text:span text:style-name="T89"> </text:span><text:span text:style-name="T10">?</text:span></text:p>
+    <text:p text:style-name="P6"><text:span text:style-name="T82">Bien sûr</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T82">vous êtes encouragé à imaginer vos propres </text:span><text:span text:style-name="T7">sc</text:span><text:span text:style-name="T72">è</text:span><text:span text:style-name="T7">nes. </text:span><text:span text:style-name="T72">En les inventant</text:span><text:span text:style-name="T7">, </text:span><text:span text:style-name="T72">pensez à inclure </text:span><text:span text:style-name="T7">:</text:span></text:p>
+    <text:list xml:id="list625096537" text:style-name="L2">
+     <text:list-item>
+      <text:p text:style-name="P18"><text:span text:style-name="T100">Une situation urgente et oppress</text:span><text:span text:style-name="T107">a</text:span><text:span text:style-name="T100">nte</text:span><text:span text:style-name="T98">.</text:span></text:p>
+     </text:list-item>
+     <text:list-item>
+      <text:p text:style-name="P19"><text:span text:style-name="T107">Des menaces </text:span><text:span text:style-name="T108">mortelles</text:span><text:span text:style-name="T107"> immédiates</text:span><text:span text:style-name="T98">.</text:span></text:p>
+     </text:list-item>
+     <text:list-item>
+      <text:p text:style-name="P17"><text:span text:style-name="T107">Beaucoup d’opportunités,</text:span><text:span text:style-name="T98"> </text:span><text:span text:style-name="T107">pas de chemin tracé</text:span><text:span text:style-name="T98">.</text:span></text:p>
+     </text:list-item>
+     <text:list-item>
+      <text:p text:style-name="P17"><text:span text:style-name="T38">Un objectif clair pour les joueuses</text:span><text:span text:style-name="T4">. </text:span><text:span text:style-name="T38">Elles doivent savoir q</text:span><text:span text:style-name="T39">uoi</text:span><text:span text:style-name="T38"> chercher, mais pas exactement où et comment</text:span><text:span text:style-name="T17">.</text:span></text:p>
+     </text:list-item>
+    </text:list>
+    <text:p text:style-name="BodyText"><text:span text:style-name="T88">Amusez-vous bien en jouant à</text:span><text:span text:style-name="T2"> </text:span><text:span text:style-name="T1">Run. Die. Repeat</text:span><text:span text:style-name="T3"> !</text:span></text:p>
+   </text:section>
+  </office:text>
+ </office:body>
+</office:document>

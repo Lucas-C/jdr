@@ -1,0 +1,102 @@
+<div class="mind-map">
+  <!-- In order for the PDF export to work well, svg cannot be styled with CSS.
+       In particular, its dimensions must be set "statically" as attributes -->
+  <svg id="svg-canvas" width="1050" height="1485" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <pattern id="diagonalHatch" patternUnits="userSpaceOnUse" width="8" height="8">
+      <!-- Recipe from: https://stackoverflow.com/a/14500054/636849 -->
+      <path d="M-2,2 l4,-4
+               M0,8 l8,-8
+               M6,10 l4,-4"
+            style="stroke:black; stroke-width:1" />
+    </pattern>
+  </svg>
+  <div id="mm-center"><div class="icon"></div></div>
+  <div id="mm-climate"><div class="icon"></div>climat, faune &amp; flore</icon></div>
+  <div id="mm-mythology"><div class="icon"></div>mythologie</icon></div>
+  <div id="mm-techno-magic"><div class="icon"></div>techno / magie</icon></div>
+  <div id="mm-factions"><div class="icon"></div>factions</icon></div>
+  <div id="mm-history"><div class="icon"></div>histoire recente</icon></div>
+  <div id="mm-artefacts"><div class="icon"></div>tresors &amp; artefacts</icon></div>
+</div>
+
+<style>
+@font-face { /* OK pas FULLCAPS, gère pas accents, mieux que DeutscheZierschrift */
+  font-family: DampfPlatz;
+  src: url('fonts/DampfPlatz.ttf') format('truetype');
+}
+
+.mind-map {
+  /* width / height must match #svg-canvas dimensions */
+  width: 1050px;
+  height: 1485px;
+  font-family: DampfPlatz;
+  font-size: 3rem;
+  position: relative;
+  /* border: 3px blue solid; /* Useful to debug PDF rendering */
+}
+/* svg { border: 2px solid red; } /* Useful to debug PDF rendering */
+.mind-map path {
+  fill: url("#diagonalHatch");
+}
+.mind-map > div {
+  position: absolute; 
+  display: flex;
+  align-items: center;
+}
+.mind-map .icon {
+  height: 3rem;
+  width: 3rem;
+  margin: .5rem;
+}
+#mm-center       { left: 50%; top: 50%; }
+#mm-climate      { left: 0; top: 0; }
+#mm-mythology    { right: 0; top: 0; }
+#mm-techno-magic { left: 0; top: 35%; }
+#mm-factions     { right: 0; top: 35%; }
+#mm-history      { left: 0; top: 70%; }
+#mm-artefacts    { right: 0; top: 70%; }
+#mm-center       .icon { background: url(icons/scroll-unfurled.svg); }
+#mm-climate      .icon { background: url(icons/sun-cloud.svg); }
+#mm-mythology    .icon { background: url(icons/minotaur.svg); }
+#mm-techno-magic .icon { background: url(icons/magic-swirl.svg); }
+#mm-factions     .icon { background: url(icons/king.svg); }
+#mm-history      .icon { background: url(icons/sands-of-time.svg); }
+#mm-artefacts    .icon { background: url(icons/ankh.svg); }
+
+</style>
+<script src="libs/bezier-connect.js"></script>
+<script>
+const byId = (id) => document.getElementById(id)
+// Left column:
+connect({
+    left: byId('mm-techno-magic'),
+    right: byId('mm-center'),
+    tension: .5,  strokeWidth: 2,
+})
+connect({
+    left: byId('mm-climate'),
+    right: byId('mm-center'),
+    tension: .5,  strokeWidth: 2,
+})
+connect({
+    left: byId('mm-history'),
+    right: byId('mm-center'),
+    tension: .5,  strokeWidth: 2,
+})
+// Right column:
+connect({
+    left: byId('mm-center'),
+    right: byId('mm-mythology'),
+    tension: .5,  strokeWidth: 2,
+})
+connect({
+    left: byId('mm-center'),
+    right: byId('mm-factions'),
+    tension: .5,  strokeWidth: 2,
+})
+connect({
+    left: byId('mm-center'),
+    right: byId('mm-artefacts'),
+    tension: .5,  strokeWidth: 2,
+})
+</script>

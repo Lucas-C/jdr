@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.4.0">
+    <meta charset="UTF-8">
+    <title>DungeonHeartHeroesAndSpells</title>
+</head>
+<body>
+    <!--
+https://www.deviantart.com/halycon450/art/The-Third-Lamb-807998807 CC BY-NC-SA
+https://www.deviantart.com/mathnox/art/Clownfish-Marid-805926855 CC BY-NC-SA
+https://www.deviantart.com/mathnox/art/Skeletons-798542509 CC BY-NC-SA
+
+Scénariothèque : http://www.scenariotheque.org/Document/info_doc.php?id_doc=9902
+-->
+    <section id="dungeon-hearts-heroes-spells">
+        <h1>Dungeon Hearts <span></span> Heroes & Spells</h1>
+        <p><img src="aggron_stonebreak_the_ogre_magi_by_halycon450.png" alt=""></p>
+        <p>Ceci est une extension pour la version 1.6 du jeu de rôle monopage <a href="https://mare-baixa.itch.io/dungeon-heart">Dungeon Heart</a>.</p>
+        <div class="web-only">
+            <p>Version PDF : <a href="https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf">v1.6-fr.pdf (1Mo)</a></p>
+            <p>Pour plus de contexte je vous invite à lire <a href="https://chezsoi.org/lucas/blog/dungeon-heart-heroes-and-spells.html">cet article de mon blog</a>.</p>
+        </div>
+        <p>En plus de quelques d6 (dé à 6 faces), cette extension requiert 1d12 (un dé à douze faces).</p>
+        <section id="comment-a-marche-">
+            <h3>Comment ça marche ?</h3>
+            <p>Entre chaque assaut d’aventuriers, les joueurs lancent chacun leur tour 1d6 dans la table d’événements aléatoires ci-dessous, puis <strong>doivent</strong> sélectionner une des options, si c’est possible. Une fois son effet appliqué, cochez une<input type="checkbox" id="checkbox0"><label for="checkbox0">. Lorsque toutes les</label><input type="checkbox" id="checkbox1"><label for="checkbox1">d’une option sont cochées, elle ne peut plus être sélectionnée.</label></p>
+            <p>Les deux première cases du tableau amènent des complications pour les joueurs, et les deux dernières des avantages.</p>
+        </section>
+        <section id="licence-sources">
+            <h3>Licence & sources</h3>
+            <p><a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a> Cette extension a été conçu par Lucas Cimon et est sous licence <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+            <p>Si vous la testez, songez à me laisser un petit commentaire sur <a href="https://chezsoi.org/lucas/blog/tag/jdr.html">https://chezsoi.org/lucas/blog/tag/jdr.html</a></p>
+            <p>L’illustration est de Ramirez de Souza aka Halycon450 : <a href="https://www.deviantart.com/halycon450/art/Aggron-Stonebreak-the-Ogre-Magi-328201376">Aggron Stonebreak, the Ogre Magi</a> - <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></p>
+            <p>Merci à Thomas, Henri, Nicolas & Matthieu pour les playtests !</p>
+            <div class="choices">
+                <table>
+                    <thead>
+                        <tr>
+                            <th><s>⚀</s> Héros</th>
+                            <th><s>⚁</s> Monstres</th>
+                            <th><s>⚂</s> Boss fights</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td><s>⚃</s> Cut scenes</td>
+                            <td><s>⚄</s> Artefacts</td>
+                            <td><s>⚅</s> Sortilèges</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="td0">
+                <p>Les <strong>Héros</strong> sont des aventuriers spéciaux. Ils ne peuvent être vaincus <strong>qu’après tous les autres aventuriers</strong>. Choisissez l’un d’eux pour la prochaine phase d’invasion :</p>
+                <ul>
+                    <li><input type="checkbox" id="checkbox2"><label for="checkbox2">+1 Héro</label> <strong>Barbare</strong> : lorsqu’il affronte des monstres, ceux-ci sont trucidés si un 2 ou un 3 est obtenu sur les dés lancés.</li>
+                    <li><input type="checkbox" id="checkbox3"><label for="checkbox3">+1 Héroïne</label> <strong>Ensorceleuse</strong> : charme les monstres, empêchant que les dés soient lancés.</li>
+                    <li><input type="checkbox" id="checkbox4"><label for="checkbox4">+1 Héroïne</label> <strong>Érudite</strong> : ses grimoires contiennent les réponses de toutes les énigmes, empêchant que les dés soient lancés.</li>
+                    <li><input type="checkbox" id="checkbox5"><label for="checkbox5">+1 Héro</label> <strong>Mage</strong> : capable de voyager dans le temps. Entre chaque salle, lancez 1d6 : sur un 5 ou un 6, les aventuriers restant disparaissent. Ils réapparaîtront lors du prochain passage d’un groupe dans cette salle, et joindrons leurs forces. Cette capacité continue à s’appliquer.</li>
+                    <li><input type="checkbox" id="checkbox6"><label for="checkbox6">+1 Héro</label> <strong>Paladin</strong> : soigne ses camarades. Entre chaque pièce, si des membres du groupe ont été vaincus, lancez un dé : si c’est impair, un aventurier est sauvé.</li>
+                    <li><input type="checkbox" id="checkbox7"><label for="checkbox7">+1 Héroïne</label> <strong>Rôdeuse</strong> : elle sait désamorcer les pièges, empêchant que les dés soient lancés.</li>
+                </ul>
+            </div>
+            <div class="td1">
+                <p>Vous ne pouvez choisir une option qui n’aura aucun effet :</p>
+                <ul>
+                    <li><input type="checkbox" id="checkbox8"><label for="checkbox8"></label><input type="checkbox" id="checkbox9"><label for="checkbox9"></label><strong>Rixe entre monstres</strong> : un montre tue un monstre dans la même pièce ou une pièce voisine.</li>
+                    <li><input type="checkbox" id="checkbox10"><label for="checkbox10"></label><strong>Absence</strong> : qu’il soient en grève ou que ce soit la pleine lune, vos monstres quittent leur poste pendant 1d3 tours.</li>
+                    <li><input type="checkbox" id="checkbox11"><label for="checkbox11"></label><strong>Rage destructrice</strong> : un monstre de votre choix se met à détruire toutes les énigmes et pièges sur son passage, à commencer par ceux de sa pièce. Tant qu’une salle adjacente contient un piège ou une énigme, il s’y rend et les détruit. Choisissez la pièce s’il y a plusieurs possibilités. Le monstre s’installe dans le dernier emplacement visité.</li>
+                    <li><input type="checkbox" id="checkbox12"><label for="checkbox12"></label><strong>Dragon</strong> : ce nouvel arrivant s’installe dans une salle au choix contenant un trésor. C’est un monstre à 4d6 qui occupe tous les emplacements et détruit ce qui s’y trouvait.</li>
+                    <li><input type="checkbox" id="checkbox13"><label for="checkbox13"></label><strong>Passage secret</strong> : des monstres ont construit un passage secret à votre insu. Il ne peut être emprunté que pour <strong>sortir</strong> de la salle du trésor. Placez la sortie de ce raccourci dans une pièce au choix de manière à ce qu’il fasse gagner du temps aux aventuriers.</li>
+                    <li><input type="checkbox" id="checkbox14"><label for="checkbox14"></label><strong>Inondation</strong> : à force de creuser, un de vos monstres provoque une arrivée massive d’eau ou de lave, détruisant 2 emplacements dans la même pièce ou 2 pièces adjacentes.</li>
+                </ul>
+            </div>
+            <div class="td2">
+                <p>Décrivez comment vous vous retrouvez à devoir affronter les prochains aventuriers vous-même à leur arrivée au donjon ! Résolvez ce combat une fois votre phase de préparation terminée. Si ce n’est pas votre premier <em>boss fight</em>, vous pouvez laissez la place à un autre Gardien.</p>
+                <p>Lancez <strong>1d6 par aventurier, et 1d12 pour le Gardien</strong>. Ce dernier choisit alors un ou plusieurs dés d’aventuriers dont le total est inférieur ou égal au sien, s’il le peut. Ces aventuriers sont vaincus immédiatement. Vous obtenez un ❤ pour chacun, mais pas de récompense.</p>
+                <p>Le Gardien est libre de continuer le combat, mais chaque tour de combat permet aux aventuriers de progresser d’une salle sans en subir les menaces, repoussant le Gardien toujours plus en avant dans le Donjon.</p>
+            </div>
+            <div class="td3">
+                <p>Décrivez une scène au choix, ayant lieu entre deux invasions :</p>
+                <ul>
+                    <li><input type="checkbox" id="checkbox15"><label for="checkbox15"></label><input type="checkbox" id="checkbox16"><label for="checkbox16">faisant intervenir le cœur du donjon</label></li>
+                    <li><input type="checkbox" id="checkbox17"><label for="checkbox17"></label><input type="checkbox" id="checkbox18"><label for="checkbox18">mettant en scène cette chose qui qui vous est la plus chère</label></li>
+                    <li><input type="checkbox" id="checkbox19"><label for="checkbox19">décrivant ce qu’il advient des aventuriers vaincus</label></li>
+                    <li><input type="checkbox" id="checkbox20"><label for="checkbox20">ayant lieu loin en-dehors du donjon, mais faisant intervenir des personnages qui l’évoquent</label></li>
+                    <li><input type="checkbox" id="checkbox21"><label for="checkbox21">se déroulant aux portes du donjon</label></li>
+                </ul>
+            </div>
+            <div class="td4">
+                <p>Ils sont uniques et ne peuvent être échangés ni prêtés. Décrivez la nature de l’objet qui possède ce pouvoir, et comment votre Gardien l’obtient :</p>
+                <ul>
+                    <li><input type="checkbox" id="checkbox22"><label for="checkbox22"></label><input type="checkbox" id="checkbox23"><label for="checkbox23"></label><strong>Arme enchantée</strong> : procure +6 au d12 du Gardien lors des <em>boss fight</em></li>
+                    <li><input type="checkbox" id="checkbox24"><label for="checkbox24"></label><strong>Bâton magique</strong> : baguette ou sceptre, vous permet de lancer un dé à chaque fois que <strong>Cerveau</strong> lance un Sortilège : si c’est impair, le sort peut être réutilisé.</li>
+                    <li><input type="checkbox" id="checkbox25"><label for="checkbox25"></label><strong>Excavatrice</strong> : permet à <strong>Squelette</strong> de modifier les chemins entre les pièces du donjon durant la phase de préparation</li>
+                    <li><input type="checkbox" id="checkbox26"><label for="checkbox26"></label><strong>Grimoire runique</strong> : vous permet d’ajout <strong>+1</strong> à tous vos d6 d’énigmes. Sur un 4 ou un 5 vous gagnez un ❤, et sur un 5 ou 6 l’aventurier est vaincu, mais un 1 détruit toujours l’énigme.</li>
+                    <li><input type="checkbox" id="checkbox27"><label for="checkbox27"></label><input type="checkbox" id="checkbox28"><label for="checkbox28"></label><strong>Potion</strong> : une fois par phase d’invasion, vous pouvez relancer un dé que vous avez lancé.</li>
+                </ul><!-- assez bourrin car permet d'éviter les 1 -->
+            </div>
+            <div class="td5">
+                <p>Ils ne sont utilisables qu’<strong>une fois dans la partie</strong>, et seul <strong>Cerveau</strong> sait les invoquer. C’est lui qui décide quand les employer. Choisissez un enchantement et décrivez comment votre Gardien le découvre :</p>
+                <ul>
+                    <li><input type="checkbox" id="checkbox29"><label for="checkbox29"></label><input type="checkbox" id="checkbox30"><label for="checkbox30"></label><strong>Alchimie</strong> : pour chaque pièce où vous avez deux pièges, vous pouvez les fusionne. Lancez désormais 2d6. Chaque dé peut déclencher les deux effets.</li>
+                    <li><input type="checkbox" id="checkbox31"><label for="checkbox31"></label><input type="checkbox" id="checkbox32"><label for="checkbox32"></label><strong>Gigantisme</strong> : augmentez la puissance d’un monstre. Ajoutez <strong>+1</strong> à tous ses dés. Un total final de 6 ou plus élimine un aventurier, mais il est toujours vaincu en cas de 1.</li>
+                    <li><input type="checkbox" id="checkbox33"><label for="checkbox33"></label><input type="checkbox" id="checkbox34"><label for="checkbox34"></label><strong>Nécromancie</strong> : ressuscitez un monstre, et placez-le dans l’emplacement de votre choix.</li>
+                    <li><input type="checkbox" id="checkbox35"><label for="checkbox35"></label><input type="checkbox" id="checkbox36"><label for="checkbox36"></label><strong>Oracle</strong> : changez le résultat d’un dé qui vient d’être lancé.</li>
+                </ul>
+            </div>
+            <link rel="stylesheet" type="text/css" href="DungeonHeartHeroesAndSpells.css">
+            <script src="DungeonHeartHeroesAndSpells.js"></script>
+        </section>
+    </section>
+</body>
+</html>

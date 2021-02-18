@@ -1,0 +1,229 @@
+<div class="column resolution-table">
+    <div class="column table-row">
+        <h3 class="table-row-name">L'action est-elle réussie ?<span class="speaks">(MJ)</span></h3>
+        <div class="row">
+            <div class="column corner-arrow corner-arrow-left">
+                <div>oui</div>
+                <div class="corner-arrow-pic"></div>
+            </div>
+            <div class="die-box-background die-box-top">
+                <div class="column die-box">
+                    <div class="row row-stretched-items">
+                        <div class="column row-vertical-separator">
+                            <div>5</div>
+                            <div>6</div>
+                        </div>
+                        <div class="column">
+                            <div>1</div>
+                            <div>-</div>
+                            <div>4</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column corner-arrow corner-arrow-right">
+                <div>non</div>
+                <div class="corner-arrow-pic"></div>
+            </div>
+        </div>
+    </div>
+    <hr class="line-strong">
+    <div class="column table-row">
+        <h3 class="table-row-name">Effet ?</h3>
+        <div class="row">
+            <div class="column effects-caption">
+                <div>- <span class="speaks">(J)</span></div>
+                <hr class="line-fading">
+                <div>réussite tragique<span class="speaks">(MJ)</span></div>
+                <hr class="line-fading">
+                <div>complication... <span class="speaks">(MJ)</span></div>
+            </div>
+            <div class="die-box-background die-box-effect">
+                <div class="column die-box">
+                    <div>6</div>
+                    <div>4 - 5</div>
+                    <div>1 - 2 - 3</div>
+                </div>
+            </div>
+            <div class="column effects-caption">
+                <div>coup d'éclat <span class="speaks">(J → J)</span></div>
+                <hr class="line-fading">
+                <div>-</div>
+                <hr class="line-fading">
+                <div>complication... <span class="speaks">(autre J)</span></div>
+            </div>
+        </div>
+    </div>
+    <hr class="line-strong">
+    <div class="column table-row">
+        <h3 class="table-row-name">Opportunités ?</h3>
+        <div class="row">
+            <div class="column effects-caption">
+                <div>progression Pacte <span class="speaks">(MJ)</span></div>
+                <hr class="line-fading">
+                <div>pour un autre Héro <span class="speaks">(J)</span></div>
+                <hr class="line-fading">
+                <div>Atout misé perdu <span class="speaks">(MJ)</span></div>
+            </div>
+            <div class="die-box-background die-box-opportunity">
+                <div class="column die-box">
+                    <div>6</div>
+                    <div>4 - 5</div>
+                    <div>1 - 2 - 3</div>
+                </div>
+            </div>
+            <div class="column effects-caption">
+                <div>+1 Flashback <span class="speaks"></span></div>
+                <hr class="line-fading">
+                <div>-</div>
+                <hr class="line-fading">
+                <div>Héro incapacité <span class="speaks">(MJ)</span></div>
+            </div>
+        </div>
+    </div>
+    <hr class="line-dashed">
+    <div class="row table-row table-row-bottom">
+        <span><span class="speaks">(entre parenthèses et en vert)</span> : indique <strong>qui</strong> a la parole, MJ ou joueuse.</span>
+    </div>
+</div>
+
+<style>
+@font-face { /* OK max 2.5rem */
+  font-family: FFF_Tusj;
+  src: url('fonts/FFF_Tusj.ttf') format('truetype');
+}
+@font-face { /* OK pas FULLCAPS, gère pas accents, mieux que DeutscheZierschrift */
+  font-family: DampfPlatz;
+  src: url('fonts/DampfPlatz.ttf') format('truetype');
+}
+
+@page { margin: 10% }
+
+.resolution-table {
+    --die-size: 8rem;
+    --die-margin: .3rem;
+    --die-border-padding: 1rem;
+    --table-row-name-height: 2.5rem;
+    --table-row-separator-margin: 1rem;
+    width: 50rem;
+    margin: 0 auto;
+    font-family: Georgia, serif;
+}
+.column {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-around;
+    flex-shrink: 0;
+}
+.row {
+    width: 80%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-shrink: 0;
+}
+.column-equally-split > div, .row-equally-split > div {
+    flex: 1;
+}
+.row-vertical-separator {
+    border-right: 3px double black;
+    height: 100%;
+    padding-right: .8rem;
+}
+.row-stretched-items {
+    align-items: center;
+}
+.line-strong {
+    width: 100%;
+    margin: var(--table-row-separator-margin) 0;
+}
+.line-dashed {
+    width: 100%;
+    border: 1px dashed black;
+    margin: var(--table-row-separator-margin) 0;
+}
+.line-fading {
+    width: 100%;
+    border: 0;
+    height: 1px;
+    background-image: radial-gradient(black, white);
+    margin: 0;
+}
+.table-row {
+    margin: 0 auto;
+    width: 100%;
+}
+.table-row-name {
+    margin: 0;
+    height: var(--table-row-name-height);
+    font-family: FFF_Tusj;
+    font-style: italic;
+    font-size: 2rem;
+    font-weight: 300;
+}
+.table-row-bottom {
+    background: repeating-linear-gradient(-45deg, white, white 10px, #eee 10px, #eee 13px);
+    margin: calc( -1 * var(--table-row-separator-margin) ) 0;
+    padding: var(--table-row-separator-margin) 0;
+    flex-flow: column;
+    font-size: 1.4rem;
+    font-style: italic;
+    text-align: center;
+}
+.die-box-background {
+    padding: var(--die-margin);
+    border-radius: var(--die-margin);
+}
+.die-box {
+    width: calc( var(--die-size) - 2 * var(--die-margin) - 2 * var(--die-border-padding) );
+    height: calc( var(--die-size) - 2 * var(--die-margin) - 2 * var(--die-border-padding) );
+    padding: var(--die-border-padding);
+    background-size: cover;
+    text-align: center;
+    font-family: DampfPlatz;
+    line-height: 1rem;
+    font-size: 1.7rem;
+}
+.corner-arrow {
+    margin: 0 2rem;
+    height: var(--die-size);
+    justify-content: flex-end;
+    font-family: DampfPlatz;
+    font-size: 2rem;
+    line-height: 1.3rem;
+}
+.corner-arrow-pic {
+    width: 5rem;
+    height: 4rem;
+    background-image: url(img/cdb-ad6.png);
+    background-position: center;
+    background-size: cover;
+}
+.corner-arrow-left { align-items: flex-start; }
+.corner-arrow-right { align-items: flex-end; }
+.effects-caption {
+    height: var(--die-size);
+    flex: 1;
+    min-width: 12rem;
+    padding: .5rem;
+    text-align: center;
+    font-size: 1.3rem;
+}
+.speaks {
+    white-space: nowrap;
+    color: green;
+    font-style: italic;
+}
+
+.corner-arrow-left .corner-arrow-pic { transform: scaleX(-1); }
+.die-box-top { background-color: lightblue; }
+.die-box-top > div { background-image: url(img/db37.png); }
+.die-box-effect { background-color: moccasin; }
+.die-box-effect > div { background-image: url(img/db41.png); }
+.die-box-opportunity { background-color: palegoldenrod; }
+.die-box-opportunity > div { background-image: url(img/db35.png); }
+.die-box-bad-consequences { background-color: darksalmon; }
+.die-box-bad-consequences > div { background-image: url(img/db35.png); }
+</style>

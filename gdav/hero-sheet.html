@@ -1,0 +1,43 @@
+<dl class="hero-sheet">
+  <dt>Nom du hero</dt><dd><span class="placeholder"></span></dd>
+  <dt>Objectif</dt><dd>
+    <span class="placeholder"></span>
+    <span class="placeholder"></span>
+  </dd>
+  <dt>Reputation</dt><dd><span class="placeholder"></span></dd>
+  <dt>Atouts</dt><dd><ul>
+  <li><span class="placeholder"></span></li>
+  <li><span class="placeholder"></span></li>
+  <li><span class="placeholder"></span></li>
+  </ul></dd>
+  <dt>Flashbacks</dt><dd><ul>
+  <li><input type="checkbox"><span class="placeholder"></span></li>
+  <li><input type="checkbox"><span class="placeholder"></span></li>
+  <li><input type="checkbox"><span class="placeholder"></span></li>
+  <li><input type="checkbox"><span class="placeholder"></span></li>
+  </ul></dd>
+</dl>
+
+<style>
+@font-face { /* OK pas FULLCAPS, gère pas accents, mieux que DeutscheZierschrift */
+  font-family: DampfPlatz;
+  src: url('fonts/DampfPlatz.ttf') format('truetype');
+}
+
+.hero-sheet {
+  width: 56rem;
+  font-family: DampfPlatz;
+  font-size: 3rem;
+  border: 1px solid #aaa;
+  margin: 1rem auto;
+  padding: .5rem 1rem;
+}
+.hero-sheet p { margin-bottom: 0; }
+.hero-sheet ul { margin: 0; padding: 0; display: flex; flex-flow: wrap; }
+.hero-sheet .placeholder { border: 1px solid #eee; padding: 1.5rem 28rem; margin: .3rem 0; }
+.hero-sheet dt { margin-top: 2rem; margin-bottom: -1.5rem; }
+.hero-sheet dd { margin-left: 0; margin-top: 1rem; display: flex; flex-flow: wrap; }
+.hero-sheet li { margin: .3rem 0; list-style-type: none; display: flex; }
+.hero-sheet input[type="checkbox"] { margin: 0 1rem; }
+.hero-sheet input[type="checkbox"] + .placeholder { padding: 1.5rem 26.5rem; }
+</style>
