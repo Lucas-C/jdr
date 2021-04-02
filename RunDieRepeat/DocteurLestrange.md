@@ -1,5 +1,4 @@
 <!-- NEXT:
-- 2e playtest
 - itch.io page
 
 Publié / com' sur :
@@ -17,7 +16,7 @@ Playtest 2021/02/12 avec Jérôme, Jordane & Laetitia de l'Auberge des Rêveurs
 > Médecin et maître des arts mystiques, vous êtes l'un des plus puissants magiciens de la planète aujourd'hui !
 
 > Cette nuit, alors que vous dormiez paisiblement dans votre manoir new-yorkais,
-> un buit de lutte et de verre brisé vous réveille : des intrus ont pénétré chez vous !
+> un bruit de lutte et de verre brisé vous réveille : des intrus ont pénétré chez vous !
 
 Ceci est un scénario de 30min pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
 de **Labrys Games** [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf).

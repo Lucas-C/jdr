@@ -27,7 +27,8 @@ Also: <https://shapecatcher.com>
 
 <!--
 Ideas:
-- https://css-tricks.com/almanac/properties/s/shape-outside/ -> limited to float right / left
+- wrap content around a floated element’s bounding-box: https://css-tricks.com/almanac/properties/s/shape-outside/ -> limited to float right / left
+- https://roughjs.com draw in a sketchy, hand-drawn-like, style
 - SVG patterns: https://www.heropatterns.com/
 - JS animations to integrate:
   * https://www.dwitter.net/d/1494
@@ -39,12 +40,11 @@ Ideas:
   * http://rachelbythebay.com/fun/square/
   * http://rachelbythebay.com/fun/chk/
   * https://github.com/ribab/quadart
-- https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
-- top banner: http://hondu.co
+- Joy Division effect: https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
+- take inspiration from this top banner: http://hondu.co
 - cf. also notes.py libs like quadart, speck, Circle-Evolution
-- Zalgo: https://stackoverflow.com/q/6579844/636849
 
 Cool fonts:
 - Handwriting: https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1
-- Zalgo: https://stackoverflow.com/questions/6579844/how-does-zalgo-text-work
+- Zalgo cryptic pseudo-font: https://stackoverflow.com/questions/6579844/how-does-zalgo-text-work
 -->

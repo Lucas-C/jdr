@@ -52,7 +52,10 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 
 * +1/+2 lorsqu'un joueur lance une tirade / réplique bien trouvée
 
-* TLMEJ : toutes les joueuses indiquent sur un papier leur intention d'action :+1 au jet par proposition identique à celle de la joueuse active
+* TLMEJ : toutes les joueuses indiquent sur un papier leur intention d'action :
++1 au jet par proposition identique à celle de la joueuse active
+
+* PDF dynamique avec éléments variants à chaque fois
 
 Idée d'HENRI: on joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
@@ -160,9 +163,11 @@ Ces scénarios sont publiés sous licence <a rel="license" href="http://creative
 ::: page
 <img class="timer" alt="20min timer" src="timer-20.svg" title="20min">
 
-![](halloween_witch_face_profile_by_scottepentzer_d5hadl5-fullview.jpg)
+<img id="witch-face" src="halloween_witch_face_profile_by_scottepentzer_d5hadl5-fullview.jpg" alt="Tête de sorcière">
+
 <!-- Alt: https://www.needpix.com/photo/656525/owls-night-witch-broom-witchs-hat-moon-childrens-stories-fairy-tale-dark -->
 <!-- Alt: https://freesvg.org/cartoon-fox-poses -->
+
 ## Le camembert de la sorcière
 > Vous êtes un petit renard habitant la forêt.
 > Cachée au cœur de cette forêt, vit une sorcière.
@@ -173,7 +178,7 @@ Ces scénarios sont publiés sous licence <a rel="license" href="http://creative
 > Alors c'est décidé, vous allez lui en chaparder un...
 > Mais attention aux champignons magiques qui poussent dans sa chaumière !
 ### Objectif
-Chaparder un camembert et sortir de la maison de la sorcière avant son retour.
+Chaparder un camembert et s'enfuir avant que la sorcière ne revienne.
 ### Règles spéciales
 Les enfants lancent deux dés à 6 faces pour chaque jet, les adultes un seul.
 ### Environnement
@@ -357,10 +362,10 @@ et pour en sortir lorsque l'hôte reprend le contrôle !
 
 ---
 
-::: page
-<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+::: page<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
-![](pikrepo-flower-on-rails.jpg)
+<img id="flower-on-rails" src="pikrepo-flower-on-rails.jpg" alt="Une fleur posée sur un rail de chemin de fer">
+
 ## Dernier wagon pour l'amour
 > Étudiant, vous avez 22 ans, et cet été un petit boulot vous a ammené dans la campagne angevine.
 > Vous logez dans une chambre sous les toits, dans un petit village le long de la Loire.
@@ -380,22 +385,20 @@ Rattraper Marion et lui déclarer votre flamme !
 Un résultat qui n'est pas 6 ne signifiera pas la mort, mais un _run_ qui s'interrompt car aucune histoire d'amour ne pourra naître : un train râté ou une approche des joueuses trop pataude, qui rebute Marion.
 
 ### Environnement
-- votre logeuse est une très gentille septuagénaire. Ses soupçons sur le _crush_ que vous avez envers Marion se confirment en voyant le bouquet : se désolant de vous voir si dépité, elle n'hésitera pas à vous proposer sa bicyclette !
+- votre logeuse est une très gentille septuagénaire. Ses soupçons sur le _crush_ que vous avez envers Marion se confirment en voyant le bouquet : se désolant de vous voir si dépité, elle vous proposera sa bicyclette !
 - la gare est à environ 1km
-- le train est un vieux modèle : en étant agile, il est possible d'y monter en marche
+- en étant agile, il est possible de monter dans le train en marche
 
 ### Obstacles
 - un troupeau de vaches sur la route jusqu'à la gare
 - deux policiers sont à la gare, et vous n'avez pas de masque
 - le train est en train de partir !
-- le contrôleur dans le train, qui est de plus complètement plein à craquer de vacanciers
+- le contrôleur dans le train, qui est plein à craquer de vacanciers
 - un blond sportif bien habillé est sur le point de l'aborder !
 
 ### Conseils à la MJ
-Si vous jouez sur via Discord, commencez la partie en proposant aux joueuses de voter pour le prénom de leur personnage :
-```
-/poll "Comment vous appelez-vous" "Tom" "Sylvain" "Felipe" "Chlöé"
-```
+Commencez la partie en demandant aux joueuses de choisir le prénom de leur personnage.
+<!-- via Discord: /poll "Comment vous appelez-vous" "Tom" "Sylvain" "Felipe" "Chlöé" -->
 
 Demandez des jets aux joueuses pour savoir s'ils ont pensé à prendre leur masque, ou de quoi payer leur billet,
 si elles ne pensent pas à les prendre en partant de leur logement !
@@ -763,25 +766,28 @@ code { font-size: 1.2rem; }
     size: A4 landscape; /* set PDF landscape mode - cf. https://github.com/puppeteer/puppeteer/issues/3834#issuecomment-549007667 */
     margin: 2rem 4rem;
   }
-  body { font-size: 1.2rem; }
+  body { font-size: 1.1rem; }
   hr, .web-only { display: none; }
   .author { padding: 1rem 10rem; }
   .license img { height: 1.7rem; }
   .page { font-size: 1rem; margin: 0 auto; }
   .page img { max-height: 20rem; }
-  .page h2 { margin: .2rem; }
+  .page h2 { font-size: 2rem; margin: .2rem; }
   .page p { margin-top: .3rem; margin-bottom: .5rem; }
   .page ol, .page ul { margin-top: 0; }
   .page section:last-child > p { margin-bottom: 0 !important; }
   td, th { font-size: 1rem; line-height: 1.3rem; }
   td:first-child, th:first-child { width: 13%; padding: 0; }
   s { /* dices */ font-size: 1.5rem; }
+  blockquote { font-size: .9rem; }
   .footer { position: fixed; bottom: 0; right: 0; font-size: 1rem; }
   .footer > p { margin: 0; }
   /* Per-scenario tweaking: */
   .frostpunk > p > img { float: left; padding-right: 1rem; padding-top: 4rem; max-height: 19rem; } /* FROSTPUNK */
   #frostpunk h2 { text-align: left; margin: 0; }
   #obstacles-7 ul { margin: 0; }
+  #flower-on-rails { max-height: 15rem; }
+  #witch-face { max-height: 18rem; }
 }
 /* Useful CSS rules to debug @page layout / margins * /
 html { border: 1px solid red; }

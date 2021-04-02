@@ -13,7 +13,7 @@ SCRIPT_DIR = dirname(__file__)
 
 
 class CustomStaticFileHandler(StaticFileHandler):
-    'Adds UTF charset to COntent-Type header for HTML files'
+    'Adds UTF charset to Content-Type header for HTML files'
     def get_content_type(self):
         if splitext(self.absolute_path)[1] == '.html':
             return 'text/html; charset=utf-8'

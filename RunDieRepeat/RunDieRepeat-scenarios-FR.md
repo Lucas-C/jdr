@@ -136,34 +136,42 @@ vous devez échappez à la foule de cultistes à vos trousses, et réussir à le
 > incluant un compte à rebours de 20min, un masque en latex, ainsi que ce mot :
 > « Fait sortir Loubianov par l'arrière-court »
 ### Objectif
-Trouver un moyen de s'évader avec Loubianov qui n'est pas au courant du plan !
+Trouver un moyen de s'évader avec Loubianov, qui n'est pas au courant du plan !
 ### Règles spéciales
-Le masque en latex permet de prendre l'apparence de n'importe qui lorsqu'on le met.
+Le masque permet de prendre le visage de la personne que l'on souhaite.
+Les joueuses le découvrent dès qu'elles le mettent.
 ### Inspirations
-Toutes les scènes de film dans des commissariats, Prison Break, le jeu vidéo Hitman...
+Toutes les scènes de film dans des commissariats, Prison Break.
 ### Environnement
-- une cellule à barreaux, avec couchette et WC
+- une cellule à barreaux, avec couchette, petit miroir et WC. Les cellules voisines contiennent un ivrogne et un gros bras de la mafia.
+Un maton est à portée de voix
 - le commissariat s'étale sur deux étages, avec un espace central ouvert sur deux niveaux, en _open space_ de bureaux
-- au RdC : accueil, bureaux partagés, salles de déposition, cellules, réfectoire...
+- au RdC : accueil, bureaux partagés, salles de déposition, cellules, vestiaire, réfectoire...
 - à l'étage : salles d'interrogatoire, bureaux des gradés, salle de réunion, armurerie, WC...
 ### Obstacles
 - la porte de la cellule
 - se déplacer dans un lieu plein de flics
-- trouver Loubianov et le libérer
-- s'enfuir
+- faire face à la personne dont on a pris l'apparence
+- trouver Loubianov, le libérer et le faire coopérer
+- le faire s'évader alors que l'alert est donnée
 ### Conseils à la MJ
 En cas de mauvais jets, il peut être laborieux et frustrant pour les joueuses se s'échapper initialement de la cellule.
 Si vous approchez des 10min de partie et que les joueuses n'en sont pas sortis, indiquez que cette fois
 le paquet kraft contient une arme (couteau ou revolver).
-### Rejouer le scénario
-Cette fois, Loubianov ne sera absolument pas coopératif !
+
+Terminez le scénario avec une camionnette qui fait un dérapage dans l'arrière-cout du comissariat,
+la porte latérale ouverte.
+### Rejouer le scénario avec des joueurs l'ayant déjà fait
+- plus de masque dans le paquet kraft
+- cette fois, Loubianov ne sera absolument pas coopératif :
+il se sent plus en sécurité en prison qu'entre les mains des commanditaires de l'évasion !
 :::
 ---
 ::: page
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 <!-- ![](SunnyClockwork-SCP-2661.jpg) -->
-![](labyrinthe.png)
+<a href="labyrinthe.png" target="_blank"><img src="labyrinthe.png"></a>
 ## Labyrinthe
 > Tu mets le pied hors du portail magique, dans le labyrinthe.
 > D'immenses murs de marbre lisse se dressent autour de toi.
