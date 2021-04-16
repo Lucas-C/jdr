@@ -173,10 +173,10 @@ ol { padding: 0 .8rem; margin: 0; }
   padding: 0 .5rem;
 }
 /* Responsive: */
-@media (max-width: 832px) { /* value from experiments */
+@media screen and (max-width: 832px) { /* value from experiments */
   .title { display: none; }
 }
-@media (max-width: 688px) { /* value from experiments */
+@media screen and (max-width: 688px) { /* value from experiments */
   .footer { position: relative; max-width: 100%; padding: 2rem 1rem; }
 }
 @media print {
