@@ -1,12 +1,10 @@
 <!-- NEXT:
-- itch.io page
-
 Publié / com' sur :
-- [ ] https://laubergedesreveurs.forumactif.com/t220-run-die-repeat-jeudi-11-fevrier-a-21h
-- [ ] https://lucas-c.itch.io/docteur-lestrange
-- [ ] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html + mention sur Discord)
-- [ ] http://troplongpaslu.fr
-- [ ] http://www.scenariotheque.org
+- [x] https://laubergedesreveurs.forumactif.com/t220-run-die-repeat-jeudi-11-fevrier-a-21h
+- [x] https://lucas-c.itch.io/docteur-lestrange
+- [x] blog (article + https://chezsoi.org/lucas/blog/pages/jeux-de-role.html + mention sur Discord)
+- [x] http://troplongpaslu.fr
+- [x] http://www.scenariotheque.org
 
 Playtest 2021/02/12 avec Jérôme, Jordane & Laetitia de l'Auberge des Rêveurs
 -->

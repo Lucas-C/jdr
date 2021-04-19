@@ -9,10 +9,10 @@ Mes créations de jeux de rôle hebergées ici:
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
+  * lien vers la traduction du jeu en français au bas de cette page
   * [10 scénarios](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
   * scénario [Les Couloirs du Temps](RunDieRepeat/LesCouloirsDuTemps.html)
   * scénario [Docteur Lestrange](RunDieRepeat/DocteurLestrange.html)
-  * lien vers la traduction en français au bas de cette page
 
 <!-- [chimera](chimera) -->
 <!-- [Sous Terre](sous-terre) -->
@@ -26,7 +26,7 @@ Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/p
 
 Jeux de Grant Howitt :
 
-- [Ce n'est pas une place d'honneur](ce-nest-pas-une-place-dhonneur) ([version PDF](https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.3/ce-nest-pas-une-place-dhonneur-v1.3.pdf)
+- [Ce n'est pas une place d'honneur](ce-nest-pas-une-place-dhonneur) ([version PDF](https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.3/ce-nest-pas-une-place-dhonneur-v1.3.pdf))
 - [Genius Loci](genius-loci) ([version PDF](https://chezsoi.org/lucas/blog/images/jdr/genius-loci.pdf))
 - [Plus de place en Enfer](plus-de-place-en-enfer) ([version PDF](https://chezsoi.org/lucas/blog/images/jdr/plus-de-place-en-enfer.pdf))
 
