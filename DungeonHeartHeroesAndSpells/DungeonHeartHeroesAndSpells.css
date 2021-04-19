@@ -1,0 +1,53 @@
+@font-face {
+  font-family: AndadaRegular;
+  src: url('fonts/Andada-Regular.otf') format('truetype');
+}
+@font-face {
+  font-family: BreatheFireII;
+  src: url('fonts/Breathe Fire II.otf') format('truetype');
+}
+
+body {
+  margin: 0 auto;
+  padding: 4rem;
+  font-family: AndadaRegular,Calibri,Arial,sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+h1 { font-family: BreatheFireII; font-size: 5rem; text-transform: uppercase; text-align: center; margin: 2rem; }
+h1 span { /* Note: neither <div> nor <br> are allowed inside <h1> tags, and the later cannot be styled anyway */
+  display: block;
+  width: 20%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+ul { padding-inline-start: 0; display: flex; flex-flow: column; align-items: start; }
+li { list-style-type: none; text-align: left; }
+li ul { padding-inline-start: 1rem; }
+li li { list-style-type: disc; }
+s { text-decoration: none; font-size: 2rem; line-height: .8; vertical-align: bottom; } /* dices */
+img { float: left; padding-right: .5rem; }
+h1 + p > img { height: 30rem; }
+p:nth-child(8) > img { float: right; }
+table { width: 100%; border-spacing: 0; border-collapse: collapse; border-style: hidden; page-break-before: always; }
+td, th { border: 2px solid #444; padding: .5rem; text-align: center; }
+input[type="checkbox"] {
+  position: absolute; /* take it out of document flow */
+  opacity: 0;         /* hide it */
+}
+input[type="checkbox"] + label:before {
+  content: '';
+  display: inline-block;
+  width: .8rem;
+  height: .8rem;
+  border: solid 1px #444;
+  margin: 0 .2rem;
+}
+.choices th, .choices tr:nth-child(2) { font-weight: bold; }
+@media print {
+  body { font-size: .6rem; }
+  h1 { font-size: 3rem; }
+  h1 + p > img { height: 17rem; }
+  p:nth-child(8) > img { max-height: 18rem; }
+  .web-only { display: none; }
+}

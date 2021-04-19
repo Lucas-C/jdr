@@ -1,0 +1,43 @@
+<!--
+  This table currently renders at a smaller size when embedded in gdav.md,
+  due to a bug with Chrome & page-break-after, cf. https://github.com/Lucas-C/dotfiles_and_notes/blob/master/languages/web-d3/chrome-and-page-break-after.html
+-->
+<table class="heroes-table">
+  <thead><tr>
+    <th>Objectif</th>
+    <th>Atouts</th>
+    <th>Reputation</th>
+    <th>Hero</th>
+  </tr></thead>
+  <tbody>
+    <tr><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td></tr>
+  </tbody>
+</table>
+
+<style>
+@font-face { /* OK pas FULLCAPS, gère pas accents, mieux que DeutscheZierschrift */
+  font-family: DampfPlatz;
+  src: url('fonts/DampfPlatz.ttf') format('truetype');
+}
+body { /* replicates gdav.md base style: */
+  line-height: 1.6;
+  color: #444;
+  padding: 0 1rem;
+}
+.heroes-table {
+  width: 100%;
+  height: 54rem;
+  font-family: DampfPlatz;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.heroes-table table { border-spacing: 0; border-collapse: collapse; page-break-inside: avoid; }
+.heroes-table th, .heroes-table td { height: 13rem; width: 25%; }
+.heroes-table th { height: 10rem; white-space:nowrap; transform-origin:50% 50%; transform: rotate(90deg); }
+.heroes-table td { border-top: 1px solid #ddd; border-left: 1px solid #ddd; }
+.heroes-table td:first-child, .heroes-table th:first-child { width: 40%; border-left: none; }
+.heroes-table td:nth-child(4), .heroes-table th:nth-child(4) { width: 10%; }
+</style>

@@ -1,0 +1,322 @@
+<map version="freeplane 1.3.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<node TEXT="Allegoria" ID="ID_687783190" CREATED="1342561514169" MODIFIED="1342787544176" STYLE="fork">
+<font NAME="SansSerif" SIZE="12" BOLD="false" ITALIC="false"/>
+<hook NAME="MapStyle">
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node">
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right">
+<stylenode LOCALIZED_TEXT="default" MAX_WIDTH="600" COLOR="#000000" STYLE="as_parent">
+<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.note"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right">
+<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900">
+<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.important">
+<icon BUILTIN="yes"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right">
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000">
+<font SIZE="18"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
+<font SIZE="16"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
+<font SIZE="14"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000">
+<font SIZE="12"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
+<font SIZE="10"/>
+</stylenode>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<node TEXT="ToDo" POSITION="right" ID="ID_1582697722" CREATED="1342786128199" MODIFIED="1342786132876">
+<node TEXT="tableau All&#xe9;gorie -&gt; domaines associ&#xe9;s" ID="ID_1773604769" CREATED="1343549046746" MODIFIED="1343549225280" LINK="http://onirym.online.fr/v3/symbolique.php">
+<node TEXT="illusion, labyrinthe..." ID="ID_714706095" CREATED="1343549137217" MODIFIED="1343549144301"/>
+</node>
+<node TEXT="FP psychomachie" ID="ID_1494264441" CREATED="1342785396250" MODIFIED="1342824171437"/>
+<node TEXT="syst&#xe8;me ~Toile (IC)" ID="ID_470407826" CREATED="1342785402266" MODIFIED="1342785411331"/>
+<node TEXT="OST" ID="ID_582224295" CREATED="1342785385858" MODIFIED="1342785390871"/>
+</node>
+<node TEXT="Concept" POSITION="left" ID="ID_1346896420" CREATED="1342824111743" MODIFIED="1342824395340">
+<node TEXT="Ambiance fun, m&#xe9;ta-intrigue simple, narration en &#xe9;pisodes avec objectifs clairs (&#xe0; chaque fin, joueurs doivent se trouver un souvenir d&apos;une de leurs pr&#xe9;c&#xe9;dentes incarnations)" ID="ID_250940565" CREATED="1342824118615" MODIFIED="1342824123827"/>
+<node TEXT="joueurs jouent persos surpuissants et se limitent eux-m&#xea;me" ID="ID_236262570" CREATED="1342863809625" MODIFIED="1342863822903"/>
+<node TEXT="Inspis" ID="ID_1864511002" CREATED="1342824397078" MODIFIED="1342824398545">
+<node TEXT="SF" ID="ID_1569434297" CREATED="1342824422819" MODIFIED="1342824423755">
+<node TEXT="Firefly" ID="ID_1699740066" CREATED="1342824399722" MODIFIED="1342824401658"/>
+<node TEXT="Waterworld" ID="ID_1274706410" CREATED="1342824402195" MODIFIED="1342824405846"/>
+<node TEXT="Trigun" ID="ID_1121467359" CREATED="1342824406336" MODIFIED="1342824408865"/>
+<node TEXT="Tatoo&#xef;ne" ID="ID_665552263" CREATED="1342824409277" MODIFIED="1342824411322"/>
+</node>
+<node TEXT="Occule" ID="ID_1677404133" CREATED="1342824429191" MODIFIED="1342824430611">
+<node TEXT="Sandman" ID="ID_368113551" CREATED="1342824432225" MODIFIED="1342824433739"/>
+<node TEXT="Unknow Armies" ID="ID_843822570" CREATED="1342824434136" MODIFIED="1342824440876"/>
+<node TEXT="The lost room" ID="ID_614865653" CREATED="1342824442755" MODIFIED="1342824446360"/>
+</node>
+<node TEXT="la tour sombre" ID="ID_944694907" CREATED="1342824452825" MODIFIED="1342824456585"/>
+<node TEXT="Pretty Deadly" ID="ID_34076850" CREATED="1436769918382" MODIFIED="1436769920925"/>
+</node>
+</node>
+<node TEXT="Brainstorm" POSITION="left" ID="ID_1944962002" CREATED="1342787550306" MODIFIED="1342787553771">
+<node TEXT="Inspis" ID="ID_505236024" CREATED="1342824196476" MODIFIED="1342824198660">
+<node TEXT="Cit&#xe9; des dames" ID="ID_631124353" CREATED="1342787685694" MODIFIED="1342787830185" LINK="https://fr.wikipedia.org/wiki/La_Cit%C3%A9_des_dames">
+<node ID="ID_1202142975" CREATED="1342787561092" MODIFIED="1342787814171"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Soci&#233;t&#233; all&#233;gorique, o&#249; la dame&#160;est une femme dont la noblesse est celle de l'esprit plut&#244;t que de la naissance. L'ouvrage cite une s&#233;rie de figures f&#233;minines du pass&#233; : Force, Intelligence &amp; Invention.<br/>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Psychomachie" ID="ID_12646048" CREATED="1342787850710" MODIFIED="1342787864132" LINK="https://fr.wikipedia.org/wiki/Psychomachia"/>
+<node TEXT="jdr Contes" ID="ID_652741105" CREATED="1342974793451" MODIFIED="1342974829771" LINK="../../Idees.mm"/>
+</node>
+<node TEXT="Liqueur ? r&#xe9;duit Domaines &#xe0; 1 mais augmente &#x2026;" ID="ID_38347687" CREATED="1342824200726" MODIFIED="1342824201617"/>
+<node TEXT="lien Etranger - Juge - Etoile" ID="ID_1198751973" CREATED="1342864132545" MODIFIED="1342864141236"/>
+</node>
+<node TEXT="All&#xe9;gories" POSITION="right" ID="ID_1951701132" CREATED="1342823577496" MODIFIED="1342823583751">
+<node TEXT="Strates" ID="ID_1770730195" CREATED="1342823590160" MODIFIED="1342823594841">
+<node TEXT="embl&#xe8;me" ID="ID_419066159" CREATED="1342824248759" MODIFIED="1342824252395"/>
+<node TEXT="identit&#xe9;" ID="ID_1456563140" CREATED="1342824253540" MODIFIED="1342866770197"/>
+<node TEXT="faiblesse" ID="ID_213069312" CREATED="1342824259289" MODIFIED="1342824270394"/>
+<node TEXT="vice" ID="ID_1424996656" CREATED="1342868535479" MODIFIED="1342868536605"/>
+<node TEXT="rituels" ID="ID_1491985051" CREATED="1342824264382" MODIFIED="1342868534535"/>
+<node TEXT="objectifs" ID="ID_1027284405" CREATED="1342866831201" MODIFIED="1342866832997"/>
+<node TEXT="objet de pouvoir / royaume" ID="ID_710882192" CREATED="1342824287881" MODIFIED="1342865948879"/>
+<node TEXT="serviteurs / responsabilit&#xe9;s" ID="ID_375406383" CREATED="1342824328251" MODIFIED="1342865959904"/>
+</node>
+<node TEXT="Souffle x4 et r&#xe9;cup par d4" ID="ID_1944170102" CREATED="1342824137170" MODIFIED="1342824141821"/>
+<node TEXT="Psychomachie" ID="ID_1759493092" CREATED="1342863351968" MODIFIED="1342863364213">
+<node TEXT="Mort" ID="ID_1548914992" CREATED="1342863365397" MODIFIED="1342863366695">
+<node TEXT="squatte royaume du roi p&#xea;cheur" ID="ID_245316209" CREATED="1342864099590" MODIFIED="1342864107251"/>
+</node>
+<node TEXT="Batteleur" ID="ID_1962304931" CREATED="1342867606632" MODIFIED="1342867621288"/>
+</node>
+</node>
+<node TEXT="Campagne" POSITION="right" ID="ID_884239271" CREATED="1342862777680" MODIFIED="1342862782086">
+<node TEXT="Compte-rendu" ID="ID_303996042" CREATED="1342862784603" MODIFIED="1342862792363">
+<node TEXT="Station Adama" ID="ID_1861448408" CREATED="1342862794771" MODIFIED="1342862801541"/>
+<node TEXT="Au pied de l&apos;ascenceur" ID="ID_184150240" CREATED="1342862802276" MODIFIED="1342862811820">
+<node TEXT="Pr&#xea;tre invocateur ?" ID="ID_1821904497" CREATED="1342863035374" MODIFIED="1342863051889"/>
+<node TEXT="5 lits pour invocation" ID="ID_932872016" CREATED="1342878307532" MODIFIED="1342878315388"/>
+</node>
+<node TEXT="Cuda" ID="ID_194768089" CREATED="1342862812466" MODIFIED="1342862814850">
+<node TEXT="miracle Peter sur chantier" ID="ID_1740015531" CREATED="1342973628426" MODIFIED="1342973633897"/>
+<node TEXT="incendie" ID="ID_1496015685" CREATED="1342973634212" MODIFIED="1342973636011"/>
+</node>
+<node TEXT="Attaque du train" ID="ID_629477391" CREATED="1342862815323" MODIFIED="1342862821639">
+<node TEXT="Poss&#xe9;d&#xe9;s" ID="ID_796664946" CREATED="1342973535433" MODIFIED="1342973537847"/>
+<node TEXT="r&#xe9;fugi&#xe9;s dans l&apos;eau" ID="ID_1279185482" CREATED="1342973538279" MODIFIED="1342973618615"/>
+<node TEXT="sel autour chevaux" ID="ID_542028635" CREATED="1342973588599" MODIFIED="1342973594473"/>
+<node TEXT="barricad&#xe9;s dans train" ID="ID_743058981" CREATED="1342973594901" MODIFIED="1342973603164"/>
+</node>
+<node TEXT="Relais" ID="ID_1812945373" CREATED="1342972888468" MODIFIED="1342972897012">
+<node TEXT="Cave &amp; Jasper -&gt; Sean" ID="ID_572941789" CREATED="1342972898159" MODIFIED="1342972923113"/>
+<node TEXT="Serpents -&gt; Ted" ID="ID_1182198050" CREATED="1342972903998" MODIFIED="1342972913059"/>
+<node TEXT="Vautour -&gt; John" ID="ID_1414170719" CREATED="1342972924197" MODIFIED="1342972932142"/>
+</node>
+<node TEXT="Media" ID="ID_1950684749" CREATED="1342862821946" MODIFIED="1342972887353">
+<node TEXT="Amos" ID="ID_1316662336" CREATED="1342972989123" MODIFIED="1342972992192">
+<node TEXT="Amos a braqu&#xe9; banque" ID="ID_1028810461" CREATED="1342972939560" MODIFIED="1342972962407"/>
+<node TEXT="complices pendus" ID="ID_1317522240" CREATED="1342972963359" MODIFIED="1342972967587"/>
+<node TEXT="lui enprisonn&#xe9; au fortin" ID="ID_1460644509" CREATED="1342972968096" MODIFIED="1342972974556"/>
+<node TEXT="magot introuvable" ID="ID_1442040861" CREATED="1342972974853" MODIFIED="1342972978119"/>
+</node>
+<node TEXT="&#xe9;chaufourr&#xe9; avec Irving dans bar" ID="ID_800581530" CREATED="1342972994999" MODIFIED="1342973003954"/>
+<node TEXT="Peter t&#xea;te dans le lac" ID="ID_765621815" CREATED="1342973011150" MODIFIED="1342973037040"/>
+<node TEXT="chapelle en construction" ID="ID_955439610" CREATED="1342973038579" MODIFIED="1342973044048"/>
+<node TEXT="t&#xe9;l&#xe9;graphe en r&#xe9;paration" ID="ID_933576269" CREATED="1342973053498" MODIFIED="1342973062788"/>
+</node>
+</node>
+<node TEXT="Metaplot" ID="ID_123996993" CREATED="1342863064807" MODIFIED="1342863082961">
+<node TEXT="alliance des Lames" ID="ID_86957103" CREATED="1342863450589" MODIFIED="1342863464482">
+<node TEXT="membres" ID="ID_1104996170" CREATED="1342863501453" MODIFIED="1342863503182">
+<node TEXT="Esprit des villes" ID="ID_1194354262" CREATED="1342863533052" MODIFIED="1342863539044"/>
+<node TEXT="Messager" ID="ID_1438883207" CREATED="1342863539599" MODIFIED="1342863544102"/>
+<node TEXT="B&#xe2;tisseur" ID="ID_787840267" CREATED="1342863544373" MODIFIED="1342863547717"/>
+<node TEXT="Marchand" ID="ID_806066417" CREATED="1342863548096" MODIFIED="1342863552358"/>
+<node TEXT="M&#xe8;re/diable" ID="ID_817257407" CREATED="1342863554092" MODIFIED="1342863560707"/>
+</node>
+<node TEXT="r&#xe9;unis au Mausol&#xe9; (port)" ID="ID_1259671658" CREATED="1342863506890" MODIFIED="1342863520544"/>
+<node TEXT="EMP" ID="ID_1054307150" CREATED="1342863524273" MODIFIED="1342863528620"/>
+<node TEXT="hant&#xe9;" ID="ID_1088372489" CREATED="1342863529028" MODIFIED="1342863530103"/>
+</node>
+<node TEXT="enqu&#xea;te du Batteleur" ID="ID_53724873" CREATED="1342867521667" MODIFIED="1342867626743">
+<node TEXT="sceau" ID="ID_1167016042" CREATED="1342867542208" MODIFIED="1342867543743">
+<node TEXT="bloque souvenirs" ID="ID_1174533315" CREATED="1342867544652" MODIFIED="1342867547438"/>
+<node TEXT="les emp&#xea;che de reprendre leurs fonctions" ID="ID_1472969739" CREATED="1342867558217" MODIFIED="1342867591868"/>
+</node>
+</node>
+</node>
+<node TEXT="all&#xe9;gories-PJs" ID="ID_1924415624" CREATED="1342863124107" MODIFIED="1342876882788">
+<node TEXT="Irving Adams - Juge" ID="ID_345133343" CREATED="1342863127263" MODIFIED="1342878879504">
+<node TEXT="pas incarn&#xe9; depuis loooongtemps" ID="ID_458876468" CREATED="1342863276197" MODIFIED="1342863282975"/>
+<node TEXT="sollicit&#xe9; pour r&#xe9;gler diff&#xe9;rents entre All&#xe9;gories" ID="ID_1841690035" CREATED="1342867878257" MODIFIED="1342867890388"/>
+</node>
+<node TEXT="Sean Ferrell - B&#xe2;tisseur" ID="ID_132599113" CREATED="1342863134831" MODIFIED="1342878936553">
+<node TEXT="pr&#xe9;c&#xe9;dement assassin&#xe9;" ID="ID_322447266" CREATED="1342863426950" MODIFIED="1342863485851" LINK="#ID_86957103"/>
+</node>
+<node TEXT="Jacob Valences - Messager/Conteur" ID="ID_1299288927" CREATED="1342863144327" MODIFIED="1342878918193">
+<node TEXT="pr&#xe9;c&#xe9;dement assassin&#xe9;" ID="ID_89894603" CREATED="1342863433334" MODIFIED="1342863488998" LINK="#ID_86957103"/>
+<node TEXT="surv&#xe9;cu avec Stefan &#xe0; Adama" ID="ID_1998047742" CREATED="1342876526537" MODIFIED="1342876544415"/>
+<node TEXT="carabine pneumatique" ID="ID_830902029" CREATED="1342891239141" MODIFIED="1342891263022"/>
+</node>
+<node TEXT="John Bary Soul - Esprit des villes" ID="ID_1673465328" CREATED="1342863156482" MODIFIED="1342878900357">
+<node TEXT="pr&#xe9;c&#xe9;dement assassin&#xe9;" ID="ID_5078286" CREATED="1342863440058" MODIFIED="1342863497162" LINK="#ID_86957103"/>
+<node TEXT="pas 1&#xe8;re incarnation sur Adama" ID="ID_1436378229" CREATED="1342876418258" MODIFIED="1342876550959"/>
+<node TEXT="l&apos;hermite veut le retrouver" ID="ID_1591178296" CREATED="1342881185590" MODIFIED="1342881192706"/>
+</node>
+<node TEXT="Ted Sand - Etranger/P&#xe9;lerin" ID="ID_1717980966" CREATED="1342863163912" MODIFIED="1342878943923">
+<node TEXT="s&apos;&#xe9;tait lanc&#xe9; dans un voyage compl&#xe8;tement fou" ID="ID_810334332" CREATED="1342863250223" MODIFIED="1342863269447"/>
+<node TEXT="fr&#xe8;re du Messager" ID="ID_276598732" CREATED="1342867315181" MODIFIED="1342867345842"/>
+<node TEXT="=&gt; a eux deux ont diffus&#xe9; l&apos;Espoir !" ID="ID_1238462532" CREATED="1342867346586" MODIFIED="1342867394607" COLOR="#ff0000">
+<icon BUILTIN="yes"/>
+<font NAME="Liberation Sans" SIZE="12"/>
+</node>
+</node>
+<node TEXT="Peter Cash - Roi p&#xea;cheur" ID="ID_1303828487" CREATED="1342863190684" MODIFIED="1342878890057">
+<node TEXT="se m&#xea;le rarement des affaires des hommes" ID="ID_1825858708" CREATED="1342863287933" MODIFIED="1342863397715"/>
+<node TEXT="royaume s&#xe9;par&#xe9;" ID="ID_1843666597" CREATED="1342864520502" MODIFIED="1342864524393"/>
+<node ID="ID_771039202" CREATED="1342863310240" MODIFIED="1342863378324" LINK="#ID_1548914992"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Mort</b>&#160;lui a vol&#233; son tr&#244;ne
+    </p>
+  </body>
+</html>
+</richcontent>
+<font BOLD="false"/>
+</node>
+</node>
+<node TEXT="Stefan - Vengeance/Chasseur" ID="ID_1542385066" CREATED="1342867871372" MODIFIED="1342878950973"/>
+</node>
+<node TEXT="&#xe9;quipe Everett" ID="ID_32811961" CREATED="1342876863497" MODIFIED="1342876870222">
+<node TEXT="J&#xe9;ronimus" ID="ID_570247211" CREATED="1342877057702" MODIFIED="1342877066236"/>
+<node TEXT="Sun Rattlesnake" ID="ID_252467970" CREATED="1342876884822" MODIFIED="1342876891656">
+<node TEXT="bless&#xe9; par balle" ID="ID_1921853168" CREATED="1342876892443" MODIFIED="1342877040988"/>
+</node>
+<node TEXT="Hassim" ID="ID_157143303" CREATED="1342876896850" MODIFIED="1342876907038"/>
+</node>
+</node>
+<node TEXT="Syst&#xe8;me" POSITION="left" ID="ID_1965215263" CREATED="1342823600464" MODIFIED="1342823602524">
+<node TEXT="Domaines" ID="ID_732074332" CREATED="1342823605401" MODIFIED="1342823607727">
+<node TEXT="Vivacit&#xe9;" ID="ID_768044243" CREATED="1342823609340" MODIFIED="1342823618420">
+<node TEXT="r&#xe9;flexes, esquives, couteaux, armes..." ID="ID_1975026204" CREATED="1342823674170" MODIFIED="1342823704186"/>
+</node>
+<node TEXT="Corps" ID="ID_719716963" CREATED="1342823619332" MODIFIED="1342823620316">
+<node TEXT="force, agilit&#xe9;, constitution, perception..." ID="ID_1474991373" CREATED="1342823718536" MODIFIED="1342823818877"/>
+</node>
+<node TEXT="Empathie" ID="ID_19694898" CREATED="1342823621836" MODIFIED="1342823622960">
+<node TEXT="percevoir, animaux, intimider, communiquer, pister, se dissimuler..." ID="ID_386715190" CREATED="1342823744643" MODIFIED="1342879452003"/>
+</node>
+<node TEXT="Culture" ID="ID_719868293" CREATED="1342823623294" MODIFIED="1342823641391">
+<node TEXT="technologies, m&#xe9;decine, magie..." ID="ID_1788240512" CREATED="1342823783862" MODIFIED="1342823823682"/>
+</node>
+</node>
+<node TEXT="Jets" ID="ID_1368406248" CREATED="1342823890340" MODIFIED="1342823894334">
+<node TEXT="autant de d8 que valeur Domaine" ID="ID_1735377391" CREATED="1342823898240" MODIFIED="1342823915434"/>
+<node TEXT="difficult&#xe9; de 4 &#xe0; 8" ID="ID_762767682" CREATED="1342823916064" MODIFIED="1342823925223"/>
+<node TEXT="1 comp&#xe9;tence =&gt; +1 aux d&#xe9;s" ID="ID_768963857" CREATED="1342823930502" MODIFIED="1405114156431"/>
+<node TEXT="double 1 =&gt; &#xe9;chec critique" ID="ID_1684898448" CREATED="1342823945658" MODIFIED="1342823954426"/>
+<node TEXT="8 (artificiel ou non) =&gt; r&#xe9;ussite + relance facultative" ID="ID_1543352606" CREATED="1342823955525" MODIFIED="1342887210060"/>
+<node TEXT="R&#xe9;ussite" ID="ID_1187804002" CREATED="1342823970290" MODIFIED="1342823978559">
+<node TEXT="1 = &gt; justesse" ID="ID_895060594" CREATED="1342823979861" MODIFIED="1342823987318"/>
+<node TEXT="2 =&gt; bien" ID="ID_1364038081" CREATED="1342823988136" MODIFIED="1342824007263"/>
+<node TEXT="3+ =&gt; exceptionnel !" ID="ID_1325125962" CREATED="1342823996552" MODIFIED="1342824014307"/>
+</node>
+</node>
+<node TEXT="magie" ID="ID_673845533" CREATED="1343548936554" MODIFIED="1343548938093">
+<node TEXT="4 cat&#xe9;gories de mots" ID="ID_1673839091" CREATED="1343548942559" MODIFIED="1343548950987"/>
+<node TEXT="utilisation =&gt; 1pt de Souffle" ID="ID_902321978" CREATED="1343549120558" MODIFIED="1343549128257"/>
+<node TEXT="faire phrase avec mots" ID="ID_764225306" CREATED="1343548953609" MODIFIED="1343548988283">
+<node TEXT="1 mot cat&#xe9;gorieA =&gt; 1d&#xe9;" ID="ID_1789800861" CREATED="1343548991652" MODIFIED="1343549003111"/>
+<node TEXT="2 mots (cat&#xe9;gories A&amp;B) =&gt; 2 d&#xe9;s" ID="ID_832402828" CREATED="1343549004669" MODIFIED="1343549024490"/>
+<node TEXT="etc" ID="ID_41075870" CREATED="1343549025196" MODIFIED="1343549026004"/>
+</node>
+<node TEXT="souvenir =&gt; mot" ID="ID_1599675385" CREATED="1343549060125" MODIFIED="1343549074129"/>
+<node TEXT="strate =&gt; 1 pt de Souffle &amp; 1 contrainte" ID="ID_1752953712" CREATED="1343549082755" MODIFIED="1343549096430"/>
+</node>
+<node TEXT="Souffle" ID="ID_1503342380" CREATED="1342823832854" MODIFIED="1342823834212">
+<node TEXT="1 pt pour relancer autant de d&#xe9;s que souhait&#xe9;" ID="ID_276281169" CREATED="1342823836450" MODIFIED="1342884210260"/>
+<node TEXT="1 pt pour &#xe9;viter 1 source de d&#xe9;g&#xe2;ts" ID="ID_1151029726" CREATED="1342823861464" MODIFIED="1342823872401"/>
+</node>
+<node TEXT="Cr&#xe9;ation" ID="ID_1673601541" CREATED="1342824037877" MODIFIED="1342824039641">
+<node TEXT="R&#xe9;partir 1,2,2,3,4 dans domaines &amp; Souffle" ID="ID_1308616078" CREATED="1342824041472" MODIFIED="1342824082104"/>
+<node TEXT="12 comp&#xe9;tences" ID="ID_1015986721" CREATED="1342824082345" MODIFIED="1342824085684"/>
+<node TEXT="Apparence: age, sexe, taille, poids, peau, cheveux, yeux, signes distinctifs" ID="ID_879552848" CREATED="1342824086268" MODIFIED="1342824092478"/>
+</node>
+</node>
+<node TEXT="Univers" POSITION="right" ID="ID_492407773" CREATED="1342864182460" MODIFIED="1342864184306">
+<node TEXT="guerre d&apos;ind&#xe9;pendance" ID="ID_1545897168" CREATED="1342864186030" MODIFIED="1342864255403">
+<node TEXT="Alliance Sud" ID="ID_1874674572" CREATED="1342864259327" MODIFIED="1342864275733">
+<node TEXT="gouvernement f&#xe9;d&#xe9;ral" ID="ID_1987217514" CREATED="1342864276477" MODIFIED="1342864278653"/>
+<node TEXT="g&#xe9;n&#xe9;ral Santiago" ID="ID_1595803007" CREATED="1342864290322" MODIFIED="1342864293768"/>
+</node>
+<node TEXT="Union du Nord" ID="ID_463324098" CREATED="1342864279517" MODIFIED="1342864285348">
+<node TEXT="ind&#xe9;pendantistes" ID="ID_778461952" CREATED="1342864306567" MODIFIED="1342864311973"/>
+</node>
+<node TEXT="bataille des Marches de l&apos;Ouest" ID="ID_273458675" CREATED="1342864294672" MODIFIED="1342864303308"/>
+</node>
+<node TEXT="sauriens" ID="ID_1377656418" CREATED="1342864335732" MODIFIED="1342864337293"/>
+<node TEXT="la Spirale" ID="ID_72161852" CREATED="1342864351917" MODIFIED="1342864361428">
+<node TEXT="nom de l&apos;unique court d&apos;eau tr&#xe8;&#xe8;&#xe8;s ramifi&#xe9;" ID="ID_620388349" CREATED="1342864470102" MODIFIED="1342864484063"/>
+</node>
+<node TEXT="robots : inspi The Fall -&gt; combi ARID + droids" ID="ID_863797935" CREATED="1342864337977" MODIFIED="1437309208305"/>
+<node TEXT="culte de l&apos;Etoile" ID="ID_1663809005" CREATED="1342863588368" MODIFIED="1342863608533">
+<node TEXT="ont emprisonn&#xe9; la Foi/l&apos;Espoir" ID="ID_1250039482" CREATED="1342863609798" MODIFIED="1342863623585"/>
+<node TEXT="proph&#xe8;tes" ID="ID_501973559" CREATED="1342864015714" MODIFIED="1342864019265">
+<node TEXT="Alfonso" ID="ID_965815649" CREATED="1342864024829" MODIFIED="1342864029640">
+<node TEXT="l&#xe9;vitation &amp; pluie" ID="ID_1401139829" CREATED="1342864031354" MODIFIED="1342864035665"/>
+</node>
+<node TEXT="Marco del Armadilla" ID="ID_15979585" CREATED="1342864036574" MODIFIED="1342864043095">
+<node TEXT="invuln&#xe9;rable" ID="ID_450391102" CREATED="1342864044419" MODIFIED="1342864047620"/>
+</node>
+<node TEXT="Padre Felipe" ID="ID_455319488" CREATED="1342864048304" MODIFIED="1342864051735">
+<node TEXT="cr&#xe9;&#xe9;e source d&apos;eau, transforme rochers en pain" ID="ID_1717968543" CREATED="1342864053254" MODIFIED="1342864078235"/>
+</node>
+<node TEXT="Paula Astart&#xe9;" ID="ID_1411085341" CREATED="1342864081109" MODIFIED="1342864083905">
+<node TEXT="empathie animale" ID="ID_1976987530" CREATED="1342864084844" MODIFIED="1342864088140"/>
+</node>
+</node>
+<node TEXT="" ID="ID_847758902" CREATED="1342886287168" MODIFIED="1342886287168"/>
+</node>
+<node TEXT="time-wedged-spiraling-planet" ID="ID_867584819" CREATED="1408965981480" MODIFIED="1408965999713">
+<node TEXT="La plan&#xe8;te est en train de sortir d&apos;un trou noir, ce qui entrane plusieurs ph&#xe9;nom&#xe8;nes:&#xa;- la plan&#xe8;te a une forme de goutte d&apos;eau spiral&#xe9;e vue de l&apos;espace: un gigantesque oc&#xe9;an semble s&apos;&#xe9;gouter au ralentit du trou noir sur la surface, formant une colossale spirale d&apos;eau statique&#xa;- le temps passe en acc&#xe9;l&#xe9;r&#xe9; &#xe0; l&apos;oppos&#xe9; de cette spirale, provoquant meme une d&#xe9;&#xe9;volution de l&apos;espece humaine -&gt; des gorilles intelligents sont sortis de cette zone" ID="ID_1105857024" CREATED="1408966001008" MODIFIED="1408966131502"/>
+</node>
+<node TEXT="minautores ? (juste parce que c&apos;est classe)" ID="ID_565139152" CREATED="1408966134843" MODIFIED="1408966150068"/>
+</node>
+</node>
+</map>

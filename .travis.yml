@@ -1,0 +1,141 @@
+language: node_js
+node_js: '8'
+cache: npm
+os: linux
+addons:
+  apt:
+    packages:
+      - texlive-latex-recommended
+      - texlive-extra-utils
+install:
+# Installing a recent version of tidy HTML linter:
+- |
+  wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
+  sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb
+  rm tidy-5.4.0-64bit.deb
+- |
+  npm install -g puppeteer-cli
+  npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
+- wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
+script:
+- node md2html.js index.md > index.html
+- node md2html.js LeDernierCafeSurLaGauche.md > LeDernierCafeSurLaGauche.html
+- cd 2200_le_jugement_des_dieux
+- node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
+- node ../md2html.js 2200_the_gods_judgement.md > 2200_the_gods_judgement.html
+- if [[ $TRAVIS_TAG =~ ^2200-le-jugement-des-dieux ]]; then ./gen_pdf.sh $TRAVIS_TAG; fi
+- cd -
+- cd CheatYourOwnAdventure
+- node ../md2html.js CheatYourOwnAdventure.md > index.html
+- cd -
+- cd DungeonHeartHeroesAndSpells
+- node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
+- node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
+- cd -
+- cd ce-nest-pas-une-place-dhonneur
+- node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
+- if [[ $TRAVIS_TAG =~ ^ce-nest-pas-une-place-dhonneur ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- cd -
+- cd chimera
+- node ../md2html.js chimera.md > index.html
+- if [[ $TRAVIS_TAG =~ ^chimera ]]; then puppeteer print index.html ../$TRAVIS_TAG.pdf; fi
+- cd -
+- |
+  cd gdav
+  node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
+  if [[ $TRAVIS_TAG =~ ^gdav- ]]; then
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/gdav-/}/" index.html
+    puppeteer print index.html ../$TRAVIS_TAG.pdf
+    puppeteer print mind-map.html ../$TRAVIS_TAG-mind-map.pdf
+  fi
+  cd -
+- cd genius-loci
+- node ../md2html.js genius-loci.md > index.html
+- cd -
+- cd latour
+- node ../md2html.js latour.md > index.html
+- cd -
+- |
+  cd LesNonMorts
+  node ../md2html.js --title='Les Non-morts' LesNonMorts.md > index.html
+  if [[ $TRAVIS_TAG =~ ^LesNonMorts- ]]; then
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesNonMorts-/}/" index.html
+    puppeteer print index.html ../$TRAVIS_TAG.pdf
+  fi
+  cd -
+- |
+  cd OriMushi
+  node ../md2html.js OriMushi.md > index.html
+  if [[ $TRAVIS_TAG =~ ^ori-mushi- ]]; then
+    sed -i "s/{{version}}/${TRAVIS_TAG/ori-mushi-/}/" index.html
+    puppeteer print index.html ../$TRAVIS_TAG.pdf
+  fi
+  cd -
+- cd plus-de-place-en-enfer
+- node ../md2html.js plus-de-place-en-enfer.md > index.html
+- cd -
+- |
+  cd RunDieRepeat
+  node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html
+  if [[ $TRAVIS_TAG =~ ^RunDieRepeat-scenarios- ]]; then
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html
+    puppeteer print RunDieRepeat-scenarios-FR.html ../$TRAVIS_TAG.pdf
+  fi
+  node ../md2html.js RunDieRepeat-more-scenarios-FR.md > RunDieRepeat-more-scenarios-FR.html
+  node ../md2html.js DocteurLestrange.md > DocteurLestrange.html
+  if [[ $TRAVIS_TAG =~ ^DocteurLestrange- ]]; then
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/DocteurLestrange-/}/" DocteurLestrange.html
+    puppeteer print DocteurLestrange.html ../$TRAVIS_TAG.pdf
+  fi
+  node ../md2html.js LesCouloirsDuTemps.md > LesCouloirsDuTemps.html
+  if [[ $TRAVIS_TAG =~ ^LesCouloirsDuTemps- ]]; then
+    sed -i "s/v[0-9]\.[0-9.]\+/${TRAVIS_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html
+    puppeteer print LesCouloirsDuTemps.html ../$TRAVIS_TAG.pdf
+  fi
+  cd -
+- cd sous-terre
+- node ../md2html.js sous-terre.md > index.html
+- cd -
+- cd scavengers
+- node ../md2html.js scavengers.md > index.html
+- if [[ $TRAVIS_TAG =~ ^adj-scavengers ]]; then ./gen_pdf.sh index.html ../$TRAVIS_TAG.pdf; fi
+- cd -
+- |
+  for html in *.html */*.html; do
+    # We ignore versioned .html files:
+    git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
+    echo Tidying $html
+    tidy -quiet -modify -config htmltidy.conf $html
+  done
+- rm .gitignore
+before_deploy: rm -rf node_modules/
+deploy:
+  - provider: pages
+    skip_cleanup: true  # remain needed for now
+    cleanup: false      # for dpl v2
+    token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure, borrowed from Nonogram
+    on:
+      branch: master
+    target_branch: gh-pages
+  - provider: script
+    skip_cleanup: true  # remain needed for now
+    cleanup: false      # for dpl v2
+    script: ./publish-on-itch.io.sh
+    on:
+      tags: true
+  - provider: releases
+    skip_cleanup: true  # remain needed for now
+    cleanup: false      # for dpl v2
+    token:
+      secure: UzwlUeaL7rNwNOAUtaQd7rpIXXNHFWTUNy+24K+QXKF+XaPvaAjbkIIdWKPBgckM8zj0fdhRJRrgX+ceQint8jFsivalOR5YEEiPIJMAQenKb3YUMQLofzuTYJxbbTtHssEzknoukxMJqJaD9/7ibdOVBIrOz8Xv8BflaLS6e4/bJs9SBtRM6egdU4aORJFT6Z2RTQvH4DDMLryS4SEBCedt2C5GqXq7bJjfhHw0PFstc4iN3p0vg7lWLxlBV/fRNixL9f0ehnV0rfgkLXDDef3Eo90mfs6J5z2IFbsIm9U6qD8DaB3N6qJkZ/vEIkmVaAuP2134UowBtTmulKO3vcg6Oi4sdTMiuwHASx1Of6liltJYeclNZHQBRicIc0BjbpGsbFjNpAW9KNc2E7k+92878XPinIiE1Ns/DNhUXCaj2YiBVcblwShAel/8CfV/LyWV+U5jGrUErqQQaPO9kLMaZwO2Ni3d38tOyQGxX0v8OBwzBRABUnsASFfXFDN4Bnb8SGZEkr4/9Io8SE4E5CuM4uThQJ6jp1Gi4nNuZGeaU65ItJHApKh3RaAMYpaaP0LQo2sYNFfLuW9aOqQfmZwuk96asusRxu9foUKwLMuZJlUgfr/8eZxZaOc0bvJBy+Bp6/tYoLCKkSGUMN7HQkoOBwB7cErGSYGTz7DYxFc=
+    on:
+      tags: true
+    file_glob: true
+    file: $TRAVIS_TAG*.pdf
+notifications:
+  email:
+    on_success: never
+# puppeteer-cli PDF generation shortcomings:
+# - relies on a call to the browser: Page.printToPDF - https://github.com/puppeteer/puppeteer/blob/v3.3.0/src/Page.ts#L1158
+# - chromium issue on adding metadata: https://bugs.chromium.org/p/chromium/issues/detail?id=907249
+# - PDFKit doc on this subject: https://github.com/foliojs/pdfkit/blob/master/docs/getting_started.md#setting-document-metadata
