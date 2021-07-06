@@ -154,11 +154,13 @@ jobs:
         run: |
           wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
           sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb && rm tidy-5.4.0-64bit.deb
-          for html in public/*.html public/*/*.html; do
+          for html_file in public/*.html public/*/*.html; do
             # We ignore versioned .html files:
-            git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
-            echo Tidying $html
-            tidy -quiet -modify -config htmltidy.conf $html || true
+            git ls-files --error-unmatch $html_file >/dev/null 2>&1 && continue
+            # We ignore "partial" HTML files:
+            grep -F '<html' $html_file >/dev/null || continue
+            echo Tidying $html_file
+            tidy -quiet -modify -config htmltidy.conf $html_file || true
           done
 
       - name: Deploy website 🚀
