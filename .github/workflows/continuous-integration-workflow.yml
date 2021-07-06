@@ -150,7 +150,7 @@ jobs:
           ls -l
           rm -r .gitignore node_modules/
           mkdir public/
-          cp -rt public .
+          cp -rt public . || true
 
       - name: Statically checking generated HTML files 🔎
         run: |
