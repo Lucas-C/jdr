@@ -156,7 +156,7 @@ jobs:
         run: |
           wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
           sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb && rm tidy-5.4.0-64bit.deb
-          ls -l
+          ls -l public/
           for html in public/*.html public/*/*.html; do
             # We ignore versioned .html files:
             git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
