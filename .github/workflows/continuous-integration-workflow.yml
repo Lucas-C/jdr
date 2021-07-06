@@ -20,6 +20,10 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2
 
+      - name: Get latest release version number
+        id: tag
+        uses: battila7/get-version-action@v2
+
       - name: Set up Python 🔧
         uses: actions/setup-node@v2
         with:
@@ -33,7 +37,8 @@ jobs:
 
       - name: Generating HTML pages 🏗️
         run: |
-          GIT_TAG=${GITHUB_REF##*/}
+          GIT_TAG=${{ steps.tag.outputs.version }}
+          echo ${GITHUB_REF##*/}
           echo GIT_TAG=$GIT_TAG
 
           node md2html.js index.md > index.html
@@ -170,8 +175,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref.replace(/\/refs\/tags\//, '') }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{ steps.tag.outputs.version }}
+          release_name: Release ${{ steps.tag.outputs.version }}
 
       - name: Upload ZIP
         if: startsWith(github.ref, 'refs/tags/v')
@@ -180,8 +185,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ github.ref.replace(/\/refs\/tags\//, '') }}.zip
-          asset_name: ${{ github.ref.replace(/\/refs\/tags\//, '') }}.zip
+          asset_path: ./${{ steps.tag.outputs.version }}.zip
+          asset_name: ${{ steps.tag.outputs.version }}.zip
           asset_content_type: application/zip
 
       - name: Deploy on itch.io 🚀
