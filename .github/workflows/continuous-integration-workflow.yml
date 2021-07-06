@@ -160,7 +160,7 @@ jobs:
             # We ignore "partial" HTML files:
             grep -F '<html' $html_file >/dev/null || continue
             echo Tidying $html_file
-            tidy -quiet -modify -config htmltidy.conf $html_file || true
+            tidy -quiet -modify -config htmltidy.conf $html_file
           done
 
       - name: Deploy website 🚀
