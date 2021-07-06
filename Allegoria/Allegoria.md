@@ -1,5 +1,7 @@
 https://www.deviantart.com/mrdream/art/Gundead-99215790
 https://www.deviantart.com/fernand0fc/art/At-the-saloon-861886230
+https://www.deviantart.com/fluffyfied/art/Primary-Colors-Cowboy-829079512
+https://www.deviantart.com/fluffyfied/art/BLIND-829213295
 
 cf. MIND MAP !!
 
