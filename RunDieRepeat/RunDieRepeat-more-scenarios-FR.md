@@ -632,6 +632,7 @@ La bande son du film _Pirate des Caraïbes_ est idéale pour donner du rythme à
 Lorsque le capitaine sort de la grotte, donnez un aperçu panoramique de l'île à vous joueuses :
 le torrent, la jungle, la cabane perchée et le dirigeable amaré, le village des singes et son totem,
 la plage et le navire pirate.
+<!-- 1er playtest: Laetitia, Camille, Jerome -->
 :::
 
 ---

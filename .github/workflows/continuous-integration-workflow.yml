@@ -1,0 +1,181 @@
+# puppeteer-cli PDF generation shortcomings:
+# - relies on a call to the browser: Page.printToPDF - https://github.com/puppeteer/puppeteer/blob/v3.3.0/src/Page.ts#L1158
+# - chromium issue on adding metadata: https://bugs.chromium.org/p/chromium/issues/detail?id=907249
+# - PDFKit doc on this subject: https://github.com/foliojs/pdfkit/blob/master/docs/getting_started.md#setting-document-metadata
+
+name: build
+
+on:  # cf. https://github.community/t/how-to-trigger-an-action-on-push-or-pull-request-but-not-both/16662
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+      - name: Set up Python 🔧
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: Install dependencies ⚙️
+        run: |
+          npm install -g puppeteer-cli minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
+          wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
+      - name: Generating HTML pages 🏗️
+        run: |
+          GIT_TAG=${GITHUB_REF##*/}
+          echo GIT_TAG=$GIT_TAG
+
+          node md2html.js index.md > index.html
+          node md2html.js LeDernierCafeSurLaGauche.md > LeDernierCafeSurLaGauche.html
+
+          cd 2200_le_jugement_des_dieux
+          node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
+          node ../md2html.js 2200_the_gods_judgement.md > 2200_the_gods_judgement.html
+          if [[ $GIT_TAG =~ ^2200-le-jugement-des-dieux ]]; then
+            ./gen_pdf.sh $GIT_TAG
+          fi
+          cd -
+
+          cd CheatYourOwnAdventure
+          node ../md2html.js CheatYourOwnAdventure.md > index.html
+          cd -
+
+          cd DungeonHeartHeroesAndSpells
+          node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
+          node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
+          cd -
+
+          cd ce-nest-pas-une-place-dhonneur
+          node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
+          if [[ $GIT_TAG =~ ^ce-nest-pas-une-place-dhonneur ]]; then
+            puppeteer print index.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
+          cd chimera
+          node ../md2html.js chimera.md > index.html
+          if [[ $GIT_TAG =~ ^chimera ]]; then
+            puppeteer print index.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
+          cd gdav
+          node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
+          if [[ $GIT_TAG =~ ^gdav- ]]; then
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/gdav-/}/" index.html
+            puppeteer print index.html ../$GIT_TAG.pdf
+            puppeteer print mind-map.html ../$GIT_TAG-mind-map.pdf
+          fi
+          cd -
+
+          cd genius-loci
+          node ../md2html.js genius-loci.md > index.html
+          cd -
+
+          cd latour
+          node ../md2html.js latour.md > index.html
+          cd -
+
+          cd LesNonMorts
+          node ../md2html.js --title='Les Non-morts' LesNonMorts.md > index.html
+          if [[ $GIT_TAG =~ ^LesNonMorts- ]]; then
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/LesNonMorts-/}/" index.html
+            puppeteer print index.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
+          cd OriMushi
+          node ../md2html.js OriMushi.md > index.html
+          if [[ $GIT_TAG =~ ^ori-mushi- ]]; then
+            sed -i "s/{{version}}/${GIT_TAG/ori-mushi-/}/" index.html
+            puppeteer print index.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
+          cd plus-de-place-en-enfer
+          node ../md2html.js plus-de-place-en-enfer.md > index.html
+          cd -
+
+          cd RunDieRepeat
+          node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html
+          if [[ $GIT_TAG =~ ^RunDieRepeat-scenarios- ]]; then
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html
+            puppeteer print RunDieRepeat-scenarios-FR.html ../$GIT_TAG.pdf
+          fi
+          node ../md2html.js RunDieRepeat-more-scenarios-FR.md > RunDieRepeat-more-scenarios-FR.html
+          node ../md2html.js DocteurLestrange.md > DocteurLestrange.html
+          if [[ $GIT_TAG =~ ^DocteurLestrange- ]]; then
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/DocteurLestrange-/}/" DocteurLestrange.html
+            puppeteer print DocteurLestrange.html ../$GIT_TAG.pdf
+          fi
+          node ../md2html.js LesCouloirsDuTemps.md > LesCouloirsDuTemps.html
+          if [[ $GIT_TAG =~ ^LesCouloirsDuTemps- ]]; then
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html
+            puppeteer print LesCouloirsDuTemps.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
+          cd sous-terre
+          node ../md2html.js sous-terre.md > index.html
+          cd -
+
+          cd scavengers
+          node ../md2html.js scavengers.md > index.html
+          if [[ $GIT_TAG =~ ^adj-scavengers ]]; then
+            ./gen_pdf.sh index.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
+          # Build ZIP file for release:
+          zip ${{ github.ref }}.zip ${{ github.ref }}*.pdf
+
+          # Copy everything under public/:
+          ls -l
+          mkdir public/
+          cp -rt public .
+      - name: Statically checking generated HTML files 🔎
+        run: |
+          wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
+          sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb && rm tidy-5.4.0-64bit.deb
+          for html in public/*.html public/*/*.html; do
+            # We ignore versioned .html files:
+            git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
+            echo Tidying $html
+            tidy -quiet -modify -config htmltidy.conf $html
+          done
+      - name: Deploy website 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public/
+      # Release-only steps:
+      - name: Create Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+      - name: Upload ZIP
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ github.ref }}.zip
+          asset_name: ${{ github.ref }}.zip
+          asset_content_type: application/zip
+      - name: Deploy on itch.io 🚀
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: ./publish-on-itch.io.sh
+        env:
+          BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
