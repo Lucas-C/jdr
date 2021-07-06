@@ -158,7 +158,7 @@ jobs:
             # We ignore versioned .html files:
             git ls-files --error-unmatch $html >/dev/null 2>&1 && continue
             echo Tidying $html
-            tidy -quiet -modify -config htmltidy.conf $html
+            tidy -quiet -modify -config htmltidy.conf $html || true
           done
 
       - name: Deploy website 🚀
