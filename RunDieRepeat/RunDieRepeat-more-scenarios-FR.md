@@ -60,6 +60,7 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 Idée d'HENRI: on joue un sorcier qui rate une invocation de démon, et on doit rattraper le coup sans qu'il ne nous tue.
 
 Autres idées :
+
 * TRILOGIE suite à "Dernier wagon pour l'amour":
   + bébé qui s'évade de son berceau
   + votre fils est mordu par XXX lors d'une rando : il faut le sauver !
@@ -67,6 +68,7 @@ Autres idées :
   - pièges : marteau-balancier géant, escalier-glissière, dards empoisonnés, flammes
   - monstres : gobelins, squelettes, basilic...
 * Malediction -> condamne au purgatoire sur toutes les générations -> on incarne à chaque fois un descendant
+* éviter la mort de quelqu'un d'autre qui est menacé: bodyguard? sauver le futur enstein écolo?
 * The Lost Room
 * Médecin urgentiste ( Sovok ? )
 * Pompier
@@ -146,6 +148,7 @@ Merci également à ces illustrateurs qui ont déposé leur magnifique travail s
 - mechanical wasp made by [DeepDreaming](https://deepdreamgenerator.com) a [wasp clipart](https://creazilla.com/nodes/8595-wasp-clipart) with [a steampunk background](https://pixabay.com/fr/illustrations/%C3%A0-la-vapeur-punk-steampunk-3160715/)
 - [Map - Small Town](https://www.deviantart.com/ekizius/art/Map-Small-Town-795100291) & [Map - Village](https://www.deviantart.com/ekizius/art/Map-Village-795100444) by Ekizius - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Fantasy portraits by TinySecretDoor](https://www.deviantart.com/tinysecretdoor/gallery/52921157/fantasy-portraits) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [Pirate Skeleton by Blondbraid](https://www.deviantart.com/blondbraid/art/Pirate-Skeleton-835035854) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 <!--
 - [Explorer by Fernand0FC](https://www.deviantart.com/fernand0fc/art/Explorer-837696753) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/fr/)
 -->
@@ -555,6 +558,80 @@ Sur Discord, vous pouvez employer cette commande :
 Lorsque les joueuses croisent l'un des 6 PNJs, révélez son portrait.
 Lorsqu'elles découvrent l'un de leurs noms, révélez-le même si elles ne l'ont pas encore rencontré.
 Évitez d'introduire d'autres personnages que les 6 PNJs présentés.
+:::
+
+---
+
+::: page
+<img class="timer" alt="8min par joueur" src="timer-8min-par-joueur.svg" title="8min par joueur">
+
+![](blondbraid-Pirate-Skeleton.png)
+## Pirates, vaudou et île au trésor
+> 🏴‍☠️ Capitaine pirate redouté, vous avez mis la main sur la carte au trésor de Robinson Crusoé,
+> le mythique naufragé, sur l'île duquel un formidable trésor se cacherait !
+> Maheureusement, votre équipe s'est mutiné et vous a fait subir le suplice de la planche 😡
+> Votre amulette vaudoue vous a sauvé, et vous êtes de retour parmi les vivants jusqu'à la nouvelle pleine-lune 🌕
+> Vous vous êtes associé avec un savant un peu fou et pilote de dirigeable pour devancer votre ancien équipage
+> et mettre la main sur le magot en premier ! 💰
+>
+> Vous voici maintenant dans la grotte du trésor, au sommet du volcan de l'île.
+> C'est le crépuscule, d'ici quelques minutes la pleine lune se lèvera et vous redeviendrez mortel.
+> Vous venez d'enterrer votre amulette sur place afin qu'aucune malédiction vaudoue ne vienne vous hanter
+> une fois que vous aurez quitté cet archipel...
+> Alors que vous vous remplissez les poches de pierres précieuses,
+> vous entendez vos anciens camarades pirates à l'entrée de la caverne !
+
+### Objectif
+Quitter l'île riche avant de redevenir mortel !
+
+### Règles spéciales
+Avant de lancer la partie et le compte à rebours,
+demandez aux joueuses de baptiser leur capitaine pirate.
+
+Durant la partie, chaque fois que les joueuses décrivent leur action en faisant rimer leur phrase,
+elles obtiennent un bonus de **+1** au jet de dé.
+Elles gagnent un bonus de **+1** supplémentaire si elles font rimer leurs vers
+avec le nom du capitaine !
+
+Le capitaine pirate est une sorte de mort vivant, mais il n'en gagne aucune immunité :
+il reste sensible aux coups et blessures. Son enveloppe corporelle garde juste
+des séquelles visibles de toutes ses morts précédentes...
+
+À chaque fois que le capitaine décède, il remonte le temps jusqu'au moment où il a enterré l'amulette vaudoue.
+Notez que si les joueuses décident de déplacer l'amulette ailleurs, cela déplacera cette « ancre temporelle »,
+et le _run_ débutera à un autre endroit, un peu plus tard dans la trame chronologique !
+
+### Environnement & obstacles
+
+* **La grotte au trésor** : le trésor est gigantesque et les joueuses peuvent y dénicher à peu près tout ce qu'elles y cherchent.
+La caverne ne possède qu'une seule autre sortie, qui donne sur un torrent :
+si l'on n'y trouve pas la mort, des rapides conduisent à la jungle.
+
+* **Les pirates** : l'ancien équipage du capitaine est cupide, méchant, et potentiellement intimidé par le retour de leur capitaine mort-vivant...
+L'ancien second du capitaine, **Amos**, est devenu leur chef, héritant ainsi du vénérable « perroquet de commandement ».
+Si les joueuses tentent de négocier avec eux ou de les intimider :
+
+    + en cas d'**échec**, le _run_ ne s'interrompt pas mais donne lieu une bagarre générale ou une course-poursuite dans la jungle.
+    + en cas de **réussite**, les pirates obtempèrent à la demande du capitaine, mais se mutineront à nouveau à la 1ère occasion...
+
+* **La jungle et le trimaran** : il faut la traverser pour accéder aux autres lieux, mais des créatures l'habitent et feront obstacle : **un tigre affamé** ainsi qu'une **tribu de macaques**.
+Ces singes, éduqués par Robinson, sont très fûtés, bagarreurs, et aimeraient bien piller le dirigeable ou le navire des pirates...
+Au centre de leur village trône le totem qu'ils vénèrent : un magnifique **trimaran en bambou** réalisé par Crusoé avant qu'il ne soit rescapé par un bâteau de passage. Il suffirait d'un coup de pied dans une cale pour le faire chuter dans les rapides menant à la plage !
+
+* **La cabane perchée et le dirigeable** : cette construction suspendue dans un arbre était la maison de Robinson.
+Elle contient encore beaucoup de matériel, et en arrivant sur l'île en dirigeable vous l'y avez amaré.
+Dans le dirigeable, **Ernest Von Schtafen** réclamera qu'on lui envoie le trésor avant de laisser monter le capitaine,
+sans quoi il larguera les amares !
+
+* **La plage et le navire pirate** : la barque sur le plage sera peut-être déjà occupée par des **crabes géants**.
+Elle permet en tout cas d'accéder à _La Perle Noire_ et de mettre les voiles !
+
+### Conseils à la MJ
+La bande son du film _Pirate des Caraïbes_ est idéale pour donner du rythme à cette partie !
+
+Lorsque le capitaine sort de la grotte, donnez un aperçu panoramique de l'île à vous joueuses :
+le torrent, la jungle, la cabane perchée et le dirigeable amaré, le village des singes et son totem,
+la plage et le navire pirate.
 :::
 
 ---

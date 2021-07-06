@@ -31,15 +31,20 @@ Ideas:
 - https://roughjs.com draw in a sketchy, hand-drawn-like, style
 - SVG patterns: https://www.heropatterns.com/
 - JS animations to integrate:
-  * https://www.dwitter.net/d/1494
-  * https://www.dwitter.net/d/888
-  * https://www.dwitter.net/d/1231
-  * https://www.dwitter.net/d/4509
-  * https://www.dwitter.net/d/16784
-  * https://www.dwitter.net/d/17888
-  * http://rachelbythebay.com/fun/square/
-  * http://rachelbythebay.com/fun/chk/
+  * raining: https://www.dwitter.net/d/1494
+  * tunnel: https://www.dwitter.net/d/888
+  * rotating coin: https://www.dwitter.net/d/1231
+  * rotating fractal: https://www.dwitter.net/d/4509
+  * incredible animated "generating" pattern: https://www.dwitter.net/d/16784
+  * birds incoming: https://www.dwitter.net/d/17888
+  * squares appearing in the background: http://rachelbythebay.com/fun/square/
+  * checkboxes: http://rachelbythebay.com/fun/chk/
   * https://github.com/ribab/quadart
+- https://markodenic.com/css-tips/
+  * typing effect
+  * `drop-shadow()` to create a shadow on the image’s **content**
+  * smooth scrolling
+  * `background-clip` to draw titles using a background image
 - Joy Division effect: https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
 - take inspiration from this top banner: http://hondu.co
 - cf. also notes.py libs like quadart, speck, Circle-Evolution

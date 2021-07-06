@@ -44,8 +44,11 @@ Papamichalopoulos: <https://www.google.fr/search?tbm=isch&q=site%3Awww.flickr.co
 <https://www.behance.net/gallery/35219899/Totemum> <https://www.behance.net/gallery/66321395/Dilekil-Komposit-01> <https://www.behance.net/gallery/37179805/Numerika>
 
 https://www.deviantart.com/daudiomultimedia/art/space-train-car-anime-796715778
+https://www.deviantart.com/joke-biloumaster/art/Bukkake-493701341
 
 https://www.reddit.com/r/glitch_art/comments/gg0nc8/it_lives/
+
+https://thenounproject.com/term/cyberpunk/
 
 Dans un souci de simplification, tous les scores de Résistance, Blindage de cartouche et Mémoire
 (celle des Machines étant sans faille, la limitation en nombre et en valeur de Skillpacks est oubliée) pourraient disparaître.

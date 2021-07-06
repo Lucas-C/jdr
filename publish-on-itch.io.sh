@@ -21,7 +21,7 @@ if [ -z "${BUTLER_API_KEY:-}" ]; then
     exit 1
 fi
 
-# Intalling butler - cf. https://itch.io/docs/butler/installing.html
+echo 'Installing butler CLI'  # cf. https://itch.io/docs/butler/installing.html
 curl -L -o butler.zip https://broth.itch.ovh/butler/linux-amd64/LATEST/archive/default
 unzip butler.zip
 chmod +x butler
