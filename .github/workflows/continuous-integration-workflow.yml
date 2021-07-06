@@ -149,8 +149,7 @@ jobs:
           # Copy everything under public/:
           ls -l
           rm -r .gitignore node_modules/
-          mkdir public/
-          cp -rt public . || true
+          mkdir public/ && mv * public/ ; cp -r public/* .
 
       - name: Statically checking generated HTML files 🔎
         run: |
