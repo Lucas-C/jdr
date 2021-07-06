@@ -365,7 +365,8 @@ et pour en sortir lorsque l'hôte reprend le contrôle !
 
 ---
 
-::: page<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
+::: page
+<img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 <img id="flower-on-rails" src="pikrepo-flower-on-rails.jpg" alt="Une fleur posée sur un rail de chemin de fer">
 
@@ -421,7 +422,8 @@ il **meurt**, victime d'un arrêt cardiaque !
 <img class="timer" alt="45min timer" src="timer-45.svg" title="45min">
 
 ![](EnqueteAuVillage-small.jpg)
-_<center>Scénario pour partie en ligne</center>_
+<div class="center"><em>Scénario pour partie en ligne</em></div>
+
 ## Enquête sous pression à ValTordu
 > Aventurier un peu roublard, votre réputation de bandit au grand cœur n'est plus à faire.
 > Vous êtes un peu le Arsène Lupin itinérant des Royaumes Magiques.
@@ -436,7 +438,7 @@ en découvrant qui l'a lancé contre vous !
 ### Règles spéciales
 Employez [cette application web](https://chezsoi.org/lucas/jdr/shared-img-reveal/) afin de progressivement révéler les lieux à vos joueuses : communiquez leur l'URL publique qui s'affiche en bas une fois la table de jeu créée, puis révélez leurs les zones hachurées en cliquant sur chacune au fil de la partie.
 ### La guêpe mécanique
-<img class="wasp" src="mechanical-wasp.jpg">
+<img class="wasp" src="mechanical-wasp.jpg" alt="Guêpe mécanique steampunk">
 
 Mi-automate, mi magique, cette crétaure n'a qu'un seul but : vous tuer.
 Elle est hyper-résistante, et son dard est capable, à l'usure, de transpercer n'importe quelle matière.
@@ -641,7 +643,7 @@ la plage et le navire pirate.
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ![](roof__end__by_hunternif_dbtl9lx-fullview.jpg)
-## 
+## Bad Motherfucker
 >
 ### Objectif
 Pitch (merci Henri) : tu es infiltré chez des trafiquants et ta couverture vient de tomber
@@ -807,6 +809,7 @@ img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
 .ninja { float: left; max-height: 20rem; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 li::marker { font-weight: bold; }
+.center { text-align: center; }
 .picto { color: transparent; text-shadow: 0 0 0 #ec5423; }
 .big.picto { text-align: center; font-size: 3rem; }
 .big.picto > p { margin: 0; }

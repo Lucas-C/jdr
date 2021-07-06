@@ -171,7 +171,7 @@ il se sent plus en sécurité en prison qu'entre les mains des commanditaires de
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 <!-- ![](SunnyClockwork-SCP-2661.jpg) -->
-<a href="labyrinthe.png" target="_blank"><img src="labyrinthe.png"></a>
+<a href="labyrinthe.png" target="_blank"><img alt="Carte du labyrinthe" src="labyrinthe.png"></a>
 ## Labyrinthe
 > Tu mets le pied hors du portail magique, dans le labyrinthe.
 > D'immenses murs de marbre lisse se dressent autour de toi.
