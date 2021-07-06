@@ -38,7 +38,6 @@ jobs:
       - name: Generating HTML pages 🏗️
         run: |
           GIT_TAG=${{ steps.tag.outputs.version }}
-          echo ${GITHUB_REF##*/}
           echo GIT_TAG=$GIT_TAG
 
           node md2html.js index.md > index.html
@@ -143,7 +142,9 @@ jobs:
           cd -
 
           # Build ZIP file for release:
-          zip $GIT_TAG.zip $GIT_TAG*.pdf
+          if ! [[ $GIT_TAG =~ master ]]; then
+            zip $GIT_TAG.zip $GIT_TAG*.pdf
+          fi
 
           # Copy everything under public/:
           ls -l
