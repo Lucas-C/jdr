@@ -398,6 +398,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 - anecdote : [Comment fut signé à Moscou le pacte franco-soviétique](https://www.monde-diplomatique.fr/1955/01/GARREAU/21307) (sur monde-diplomatique.fr)
 - [Ordonnance n° 45-2250 du 4 octobre 1945 portant organisation de la sécurité sociale](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000698857) (sur legifrance.gouv.fr)
 - [Thinkerview - Solidité du système financier et des retraites ?](https://www.youtube.com/watch?v=NS8acSbI1Bs)
+- [Réforme du chômage : un massacre social - BLAST](https://www.youtube.com/watch?v=aUN2lnNc_hM)
 <!--
 [La Sécurité sociale, pas vraiment un « vestige communiste de 1945 »](https://www.lemonde.fr/les-decodeurs/article/2017/10/26/la-securite-sociale-un-vestige-communiste-de-1945_5206101_4355770.html)
 « Sur le plan institutionnel, la continuité [avec les assurances sociales d’avant-guerre] domine, incontestablement. A tel point que je parlerais plus de “réformes des assurances sociales” que de création [de la Sécurité sociale] ex nihilo. »
