@@ -1,9 +1,9 @@
 <!--
-+ spell check
-+ Add a summary
-+ Favoriser lien itch.io pour téléchargements, car incluent des compteurs
+Ici & sur blog : favoriser lien itch.io pour téléchargements, car incluent des compteurs
 
-Parasite : cf. HTML comments
+ToDo:
++ proposer un "How to" : dérouler un scénario RDR sur le pouce, basé sur le contexte du moment
++ spell check
 
 MGS5 intro : https://www.deviantart.com/sunnyclockwork/art/Trauma-517518224
 Star Fetchers OST: https://www.youtube.com/playlist?list=PL-3oZ3AfF3_2TSyoAJ_OaewrZc8JcOBWM
@@ -129,6 +129,14 @@ Version PDF: ...
 
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
 créé par **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)).
+
+* [Le camembert de la sorcière](#le-camembert-de-la-sorci-re)
+* [Frostpunk](#frostpunk)
+* [Dishonored](#dishonored)
+* [Parasite](#parasite)
+* [Dernier wagon pour l’amour](#dernier-wagon-pour-l-amour)
+* [Enquête sous pression à ValTordu](#enqu-te-sous-pression-valtordu)
+* [Pirates, vaudou et île au trésor](#pirates-vaudou-et-le-au-tr-sor)
 
 Un grand merci aux _playtesteurs_ : Aurélien, Elliot, Estelle, Henri, Kevin, Laëtitia, Maxime, ainsi que les joueurs & joueuses qui ont testé ces scénarios lors de la 2e [CyberConv](https://cyberconv.com) : Amaethys, Menida, MiniPen, romook, Beru, Failix, Komurin, Vii, Orion, Thomas B., Vicha, Vixenn.
 
@@ -339,9 +347,10 @@ En taille, le parasite fait moins d'un millimètre.
 À son échelle, il se déplace très vite : environ 1cm / seconde.
 
 Le parasite peut rentrer sous la peau d'un hôte, pour en prendre le contrôle.
-Il peut alors lui faire effectuer jusqu'à **2 actions**, après quoi l'hôte reprend le contrôle de son corps.
+Il peut également se dissocier, se dupliquer en de multiple individus,
+mais les doubles ne restent sous le contrôle des joueuses qu'en cas de jet réussi.
 ### Environnement
-- vous débutez dans une salle blanche. Elle contient divers appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens (des rongeurs), un incinérateur, un grand nombre de produits chimiques et une bouche d'aération au plafond.
+- vous débutez dans une salle blanche. Elle contient divers appareils électroniques (ordinateurs, microscopes, séquenceur ADN...), un espace de stockage des spécimens (rats et chauve-souris), un incinérateur, un grand nombre de produits chimiques et une bouche d'aération au plafond.
 - la seule sortie est un sas donnant sur une salle de pause / réunion avec kitchenette et tableau blanc. Son seul autre accès est un ascenseur. La pièce comporte une caméra de sécurité et un garde.
 - en-dehors de ce dernier, le personnel est constitué de 3 scientifiques en combinaison totale. Aux yeux du parasite un jeune mâle brun, une femelle rousse et un vieux mâle blond.
 - l'ascenceur dessert directement le hall principal, assez imposant dans un style greco-romain chargé de marbre et d'or, où trone un bureau d'accueil massif. La sortie à l'extérieur se fait par une simple porte vitrée coulissante, mais le bureau de la sécurité est juste à côté et héberge quatre gardes vifs et à la gachette de taser facile.
@@ -349,18 +358,16 @@ Il peut alors lui faire effectuer jusqu'à **2 actions**, après quoi l'hôte re
 - le scénario démarre au moment où le parasite vient d'être aspergé d'une substance, dans une boîte de pétri,
 sous un microscope.
 - survivre à la traversée du sas désinfectant requiert une combinaison totale. Un scanner rétinien permet d'y entrer.
-- la combinaison des scientifiques est un obstacle à la fois pour s'y faufiler,
-et pour en sortir lorsque l'hôte reprend le contrôle !
-- l'ascenseur s'active à l'aide du badge d'un garde, associé à une reconnaissance vocale
-- comportement des PNJs (la MJ peut relancer à loisir) :
+- comportement des PNJs si danger (la MJ peut choisir) :
   + ⚀-⚁ détruire le parasite quitte à y laisser leur vie
   + ⚂-⚃ fuir pour sauver leur peau à tout prix
   + ⚄-⚅ _(scientifique)_ aider le parasite qu'ils identifient comme une nouvelle forme de vie consciente / _(garde)_ échapper du complexe avec un échantillon du parasite pour le revendre
-<!-- Feedbacks:
-* se cloner
-* "forcer" les joueuses à posséder un hôte
-* JV carrion
--->
+### Conseils à la MJ
+Encouragez vos joueuses à prendre possession d'un animal ou d'un humain :
+c'est fun et c'est un bon moyen de se s'évader !
+
+Lorsque le parasite atteint un hôte potentiel, ne demandez pas aux joueuses de jet pour en prendre le contrôle :
+c'est automatique.
 ::::
 
 ---
@@ -571,7 +578,7 @@ Lorsqu'elles découvrent l'un de leurs noms, révélez-le même si elles ne l'on
 ## Pirates, vaudou et île au trésor
 > 🏴‍☠️ Capitaine pirate redouté, vous avez mis la main sur la carte au trésor de Robinson Crusoé,
 > le mythique naufragé, sur l'île duquel un formidable trésor se cacherait !
-> Maheureusement, votre équipe s'est mutiné et vous a fait subir le suplice de la planche 😡
+> Malheureusement, votre équipage s'est mutiné et vous a fait subir le suplice de la planche 😡
 > Votre amulette vaudoue vous a sauvé, et vous êtes de retour parmi les vivants jusqu'à la nouvelle pleine-lune 🌕
 > Vous vous êtes associé avec un savant un peu fou et pilote de dirigeable pour devancer votre ancien équipage
 > et mettre la main sur le magot en premier ! 💰
@@ -585,6 +592,9 @@ Lorsqu'elles découvrent l'un de leurs noms, révélez-le même si elles ne l'on
 
 ### Objectif
 Quitter l'île riche avant de redevenir mortel !
+
+### Inspirations
+Monkey Island & Pirates des Caraïbes
 
 ### Règles spéciales
 Avant de lancer la partie et le compte à rebours,

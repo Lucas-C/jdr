@@ -1,7 +1,5 @@
 <!--
-+ Invasion : préciser un chouilla à quoi ça ressemble une fois arrivé au vaisseau
-+ Add a summary
-+ Favoriser lien itch.io pour téléchargements, car incluent des compteurs
+Ici & sur blog : favoriser liens itch.io pour téléchargements, car incluent des compteurs
 
 ./extract_pdf_pages.sh RunDieRepeat-scenarios-FR.pdf 1 13 RunDieRepeat-scenarios-FR-v1.1.pdf
 
@@ -19,10 +17,11 @@ Publié / com' sur :
 - quelques détails un peu clarifiés dans le scénario La Grande Guerre
 - nouvelle illustration pour le scénario Revengeance
 
-[v1.2]:
+[v1.2]: not released yet
 - Cthulhu: affaires pêcheur
 - Évasion: masque en latex
-- Invasion: Soni Tark & bonus conférés par inventions
+- Invasion: Soni Tark & bonus conférés par inventions & détaillé intérieur vaisseau alien
+- Hitman: scène initiale avec Boris raccourcie & ajouté quelques obstacles & éléments d'environnement
 -->
 
 # Scénarios pour Run. Die. Repeat.
@@ -43,7 +42,18 @@ Ces scénarios sont inspirés, en vrac, des écrits de Lovecraft, du mythe du Mi
 des séries l'Attaque des Titans et Prison Break, des films Edge of Tomorrow et Independence Day,
 et des jeux vidéos Hitman, Metal Gear Solid, Prototype, Splinter Cell ou encore Shadow of the Colossus.
 
-Il s'agit d'un jeu narratif monopage pour une MJ et quelques joueuses, en temps limité (20 à 30 min),
+* [Cthulhu fhtagn](#cthulhu-fhtagn)
+* [Évasion](#vasion)
+* [Labyrinthe](#labyrinthe)
+* [La grande guerre](#la-grande-guerre)
+* [Invasion](#invasion)
+* [La chute du colosse](#la-chute-du-colosse)
+* [Hitman](#hitman)
+* [Spec Ops #1 - Infiltration](#spec-ops-1-infiltration)
+* [Spec Ops #2 - Prototype](#spec-ops-2-prototype)
+* [Spec Ops #3 - REVENGEANCE](#spec-ops-3-revengeance)
+
+_Run. Die. Repeat._ est un jeu narratif monopage pour une MJ et quelques joueuses, en temps limité (20 à 30 min),
 où l'on incarne à tour de rôle le même personnage, en essayant chaque fois de progresser plus loin dans l'histoire,
 mais où le moindre jet de dé raté entraîne la mort.
 
@@ -52,7 +62,7 @@ Je l'ai traduit en français puis, durant le confinement de 2020, j'ai rédigé 
 Ils sont tous indépendants, à l'exception des 3 derniers qui constituent un triptyque.
 
 Pour chacun d'entre eux, j'ai tenté de créer un objectif [diégétique](https://fr.wiktionary.org/wiki/di%C3%A9g%C3%A9tique) à l'histoire,
-en fournissant même parfois une explication à la capacité à remonter le temps ou à la contrainte de durée.
+en fournissant même parfois une explication à la capacité à remonter le temps et/ou à la contrainte de durée.
 
 J'en profite pour glisser ici une suggestion à la MJ pour ajouter à la tension dramatique :
 lorsque le chronomètre s'arrête, prévenez les joueuses que cela n'interrompt pas le _run_ en cours,
@@ -264,8 +274,8 @@ un avion s'écrase du ciel; un sniper dans un village en ruines; des chiens pour
 ### Objectif
 Détruire le vaisseau alien.
 ### Inspirations
-Films : _Independence Day_ & _Edge of Tomorrow_.
-Jeux : _Half Life_ & _Portal_.
+_Independence Day_, _Edge of Tomorrow_,
+_Half Life_ & _Portal_.
 ### Règles spéciales
 Le harnais ramène à l'instant où il est harnaché en cas de décès de son porteur
 **et** permet de revenir dans le temps à volonté jusqu'à ce moment.
@@ -280,7 +290,11 @@ s'interpose sur le chemin de la joueuse, chaque fois plus proche de l'endroit o�
 prototype de vaisseau volant, [_portal gun_](https://theportalwiki.com/wiki/Handheld_Portal_Device/fr),
 golem constitué de nanorobots...
 - un labyrinthe de canyons pour atteindre le centre du gigantesque vaisseau alien circulaire qui obstrue le ciel
-- un vaisseau spatial titanesque, mi organique mi technologique, où des insectes géants côtoient des [mechas](https://fr.wikipedia.org/wiki/Mecha) extra-terrestres
+- un vaisseau spatial titanesque, mi organique mi technologique, où des insectes géants côtoient des [mechas](https://fr.wikipedia.org/wiki/Mecha) extra-terrestres.
+Son seul accès non lourdement défendu par des mitrailleuses est en son centre :
+une large ouverture sert à la fois de canon laser et de base d'apontage de tous les vaisseaux alien.
+- l'intérieur du vaisseau est un véritable labyrinthe, mais des plans aux murs révèlent l'emplacement des lieux essentiels :
+le réacteur à nectar protonique, la ruche du Grand Père Gestateur et le centre de contrôle nevralgique des droïdes.
 ### Obstacles
 - des vaisseaux aliens pourchasseront la joueuse dans les canyons
 - une fois dans le vaisseau alien, des tourelles mitraillent déjà une flotte d'avions de chasse de l'armée
@@ -343,52 +357,41 @@ Mode _difficile_ : la joueuse n'a plus de glaive télescopique, uniquement une �
 > dirigeant d'une influente marque de haute couture, et représentant d'un réseau occulte d'espions.
 > Vous venez de vous introduire dans le palais Walewska sur l'île Saint-Louis à Paris,
 > un musée où se tient pour l'occasion un défilé de mode.
-> Vous avez sur vous un costume trois pièces et un revolver avec silencieux.
+> Vous avez sur vous un costume trois pièces... et c'est tout.
 ### Objectif
-Éliminer Viktor Novikov et vous enfuir avant d'être capturé ou tué.
+Éliminer Viktor Novikov et vous enfuir avant d'être neutralisé.
 ### Environnement
-- 47, le personnage, débute dans des WC par la fenêtre desquels il s'est infiltré dans le bâtiment.
-Il y a un mannequin dans les cabinets, Helmut Kruger,
-qui est malade et ne sortira pas de lui-même des toilettes.
-- le palais est luxueux et comporte de nombreuses pièces :
-cuisines & cave au sous-sol, salle de réception où se tient le défilé au rez-de-chaussée,
-salons privés dans les étages... Y accéder nécessite de passer par une fouille au corps.
-Certains d'entre eux ont vue sur le _catwalk_.
-- sous les toits, des combles servent à entreposer les œuvres en réserve.
+- Code 47, le personnage, **débute dans des WCs** au RdC, par la fenêtre desquels il s'est infiltré dans le bâtiment.
+Il y a **un mannequin dans les cabinets, Helmut Kruger**, qui est malade et ne sortira pas de lui-même des toilettes.
+- hors des WCs, un couloir donne accès à gauche aux **coulisses du défilé** et à droite à une salle de réception
+avec bar-lounge artsy, donnant elle-même accès à **la salle où se tient le défilé**.
+- la réception occupe tout le RdC et **les jardins** du palais, jusqu'à la rue où de rutilantes limousines déposent les invités.
+- l'accès à l'unique étage du musée est contrôlé par des vigiles, et seuls quelques VIPs - après fouille au corps -
+ont accès à une poignée de petits **salons privés avec balustrades** offrant une vue plongeante sur le  _catwalk_ du défilé en contrebas.
+- sous les toits, des combles servent à entreposer les œuvres du musée en réserve.
 Des écrans y sont suspendus dans une section,
-pour permettre au superviseur des agents de sécurité de surveiller tout le bâtiment...
-- il y a foule : invités, serveurs, agents de sécurité, _staff_ du défilé...
+pour permettre au superviseur des agents de sécurité de **surveiller tout le bâtiment**...
+- il y a **foule** : invités, serveurs, agents de sécurité, _staff_ du défilé...
 ### Obstacles
-- Viktor est au milieu de la réception.
+- Viktor est au milieu de la réception. Il est sans cesse **entouré de ses gardes du corps** vigilants.
 Il peut être attiré à l'écart, mais rester hors de vue des caméras est délicat.
-5min après l'arrivée de 47, il se rend sur scène, au dessus de laquelle pend un immense lustre.
-Sa femme, Dalia, est elle sans cesse en mouvement à travers le palais.
-- toute action suspecte devant une caméra déclenchera l'alarme.
-Viktor est alors escorté par 6 gardes du corps jusqu'à un salon sécurisé,
+1min après l'arrivée de 47, il se rend sur scène, au dessus de laquelle pend un immense lustre.
+- Dalia Novikov, l'épouse de la cible, est sans cesse en mouvement à travers le palais.
+Si elle croise Code 47, elle aura immédiatement **une intuition suspecte** à son encontre,
+et après lui avoir décoché une œillade circonspecte, se dirigera vers un garde pour donner l'alerte.
+- toute action suspecte devant une **caméra** déclenchera l**'alarme**.
+Viktor est alors escorté par ses gardes du corps jusqu'à un salon sécurisé,
 et tous les accès du palais sont surveillés, à l'exception des toits.
 - en sortant dans le couloir par l'unique porte des WC,
-47 tombe systématiquement sur un agent de sécurité inquisiteur, Boris,
-dans l'angle d'une caméra, qui le [_tasera_](https://fr.wikipedia.org/wiki/Pistolet_%C3%A0_impulsion_%C3%A9lectrique)
-à la moindre réponse suspecte :
-
-**1.** « Bonjour Monsieur. Je vois que vous n'avez pas de badge, pouvez-vous me présenter une pièce d'identité SVP ? »
-
-**1.** _<small>(avec le badge d'Helmut)</small>_ « Kruger ? Enfin ! Grouille-toi de me filer la dope. »
-
-**2.** « Vous n'êtes pas invité ? _<small>(sur la défensive)</small>_ Déclinez immédiatement le code opérationnel. »
-_<small>(le code du jour est KOALA, Boris le révélera si 47 le menace)</small>_
-
-- si 47 endosse l'identité d'Helmut,
-un des organisateurs du défilé viendra lui demander de le suivre car c'est bientôt à son tour d'entrer en scène
+Code 47 est systématiquement intercepté par **un agent de sécurité inquisiteur, Boris**,
+armé d'un _taser_ et dans l'angle de vue d'une caméra.
+Boris a la mauvaise habitude de demander leur badge à tous ceux dont la tête ne lui revient pas.
+Heureusement les badges ne comportent pas de photos...
 ### Conseils à la MJ
-Rester bloqué dans ces fichus WC peut être frustrant :
-c'est voulu, ce casse-tête faisant doucement monter la pression du temps.
-Toutefois, après 15min, donnez leurs quelques pistes et/ou bonus.
-
 Ce scénario peut être réussi partiellement ou complètement réussi,
 selon si les joueuses arrivent à abattre Novikov **et** à s'enfuir.
 ### Rejouer le scénario
-Objectif supplémentaire : personne ne doit savoir que vous avez commis ce meurtre **et/ou** éliminez également Dalia Novikov.
+Objectif supplémentaire : faire passer ce meurtre pour un accident **et/ou** éliminez également Dalia Novikov.
 :::
 ---
 ::: page
