@@ -1,6 +1,10 @@
 <!-- Etapes suivantes :
-+ orga prochaine partie -> https://www.yardbarker.com/entertainment/articles/time_for_some_action_the_40_greatest_action_stars_of_all_time/s1__29640071#slide_39
-+ nouvelle feuille de Premier Rôle, incluant le résumé des règles
++ nouvelle feuille de Premier Rôle, avec Nom d'acteur, Stéréotype, Popularité, Carrière, Trait majeur, Gimmicks & Capacités + incluant le résumé des règles
++ règle optionnelle : miser des points de popularité au début du film
+  Prise de risque permettant de faire de gros gains ou un gros bide (=> diminution)
+  Ex : affronter Jason Statham dans une scène; révéler que vous êtes gay; faire une scène de nu
+  La réaction du public se détermine au moment de la scène, ou à la fin du film.
+  Si jamais pop < 0, la carrière de l'acteur est fichue, il est bon à ranger au placard.
 + envoyer à Xyrop
 + poster appel à maquettiste sur Casus No
 -->
@@ -116,14 +120,16 @@ sans interruption pour faire des descriptions.
 ## Popularite et carriere
 Plus vous gagnez en popularité, plus vous pouvez développer votre carrière de star du cinéma !
 
-Votre score de **Carrière** ne peut jamais dépasser votre **Popularité**.
-Quand votre **Popularité** devient suffisamment élevée,
-vous pouvez augmenter ainsi votre score de **Carrière** entre deux films :
+Quand votre **Popularité** devient suffisamment élevée, vous pouvez acquérir des **augmentations** :
 
-* _Carrière + 500_ : **remplacez un Trait** par un autre de votre choix
-* _Carrière + 1000_ : **obtenez un nouveau Trait**
+* coût _500_ : **remplacez un Trait** par un autre de votre choix
+* coût _1000_ : **obtenez un nouveau Trait**
   **ou** remplacez **une Capacité Spéciale** / **un Gimmick** par un autre de votre choix
-* _Carrière + 2000_ : **obtenez un nouveau Gimmick** ou **une nouvelle Capacité Spéciale** au choix
+* coût _2000_ : **obtenez un nouveau Gimmick** ou **une nouvelle Capacité Spéciale** au choix
+
+Le total des coûts de vos augmentations constitue votre score de **Carrière**.
+Vous pouvez acquérir une augmentation uniquement si **votre Carrière reste inférieure à votre Popularité**.
+
 
 ## Traits
 Liste inspirationnelle non exhaustive, groupés par catégories arbitraires :
@@ -434,7 +440,7 @@ Chaque ajdectif fournit également un Gimmick ou une capacité spéciale :
 
 ## Pourquoi ❓❓❓
 
-Dès la première partie d'_Ultime Vengeance 3D_, mes joueurs & moi l'avons ❤️ adoré ❤️ !
+Dès la première partie d'_Ultime Vengeance 3D_, les joueurs & moi-même l'avons ❤️ adoré ❤️ !
 * le plaisir de jouer des acteurs qui en font des caisses dans des films nanardesques
 * le cabotinage et la course à la popularité des Premiers Rôles
 * un jeu narratif sans aucune contrainte de garder l'intrigue cohérente, bien au contraire !
