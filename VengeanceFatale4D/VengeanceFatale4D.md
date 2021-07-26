@@ -1,6 +1,5 @@
 <!-- Etapes suivantes :
 + orga prochaine partie -> https://www.yardbarker.com/entertainment/articles/time_for_some_action_the_40_greatest_action_stars_of_all_time/s1__29640071#slide_39
-+ plus d'illustrations
 + envoyer à Xyrop
 + nouvelle feuille de Premier Rôle
 + poster appel à maquettiste sur Casus No
