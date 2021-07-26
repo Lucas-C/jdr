@@ -1,7 +1,7 @@
 <!-- Etapes suivantes :
 + orga prochaine partie -> https://www.yardbarker.com/entertainment/articles/time_for_some_action_the_40_greatest_action_stars_of_all_time/s1__29640071#slide_39
++ nouvelle feuille de Premier Rôle, incluant le résumé des règles
 + envoyer à Xyrop
-+ nouvelle feuille de Premier Rôle
 + poster appel à maquettiste sur Casus No
 -->
 # Vengeance Fatale 4D
@@ -265,7 +265,34 @@ Ce Gimmick se déclenche après chaque scène où vous avez exercé votre vengea
 ![Soldats armés](pubg-silhouette.jpg)
 
 ## Capacites speciales
-<!-- Inspiration : https://en.wikipedia.org/wiki/Cinematic_techniques -->
+<!-- Inspiration : https://en.wikipedia.org/wiki/Cinematic_techniques
+Nouvelles :
+* Cri de Wilhelm
+* Ellipse
+* Faux raccord
+* Polystyrène
+* Souffleur
+* Split Screen
+* Tracing bullet
+* Training montage
+Coups de pouce renommés :
+* Mondanités -> Caméo de star
+* Montage -> Flashback
+* Production -> Deuxième prise
+* Réalisation -> Bullet-time
+Capacités & coups de pouce supprimés :
+* Accéléré (ludico-mécaniquement peu intéressant, et effet proche de Bullet-time)
+* Armes à feu / blanches (à part encourager ce type d'actions, ludico-mécaniquement peu intéressant)
+* Inspiration dramatique (ludico-mécaniquement peu intéressant)
+* Il ne va pas faire ça, quand même ? (mécanique sympa mais trop proche de Casse-Cou)
+* Note d'humour (ludico-mécaniquement peu intéressant)
+* Oups! (sympa mais un peu limité et proche de Comic Relief)
+* Rôle (ludico-mécaniquement peu intéressant et logiquement tous les Premiers Rôles devraient l'avoir)
+* Scénaristes (ludico-mécaniquement peu intéressant et redondant avec le Script)
+* Tout est possible (ludico-mécaniquement peu intéressant, trop générique)
+* Trucs intelligents (sympa mais pas fun)
+* Vue subjective (trop peu clair)
+-->
 
 ### Bullet-time <!-- ex coup de pouce Réalisation -->
 Une fois par session, ralentissez l'action le temps d'une séquence :
@@ -463,8 +490,8 @@ Si vous le testez, songez à me laisser un petit commentaire sur [mon blog](http
 
 <u>Illustrations :</u>
 * Photo de Chuck Norris [deep-dreamée](https://deepdreamgenerator.com/ddream/3opppwxmr86)
-* [Action Movie icon - TheNounProject](https://thenounproject.com/term/action-movie/3379040/) - [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode)
-* [Silhouette, kung fu, wushu, shaolin - publicdomainpictures.net](https://www.publicdomainpictures.net/fr/view-image.php?image=263507&picture=silhouette-kung-fu-wushu-shaolin)
+* [Pubg Silhouette - publicdomainpictures.net](https://www.publicdomainpictures.net/fr/view-image.php?image=263507&picture=silhouette-kung-fu-wushu-shaolin)
+* [Silhouette, kung fu, wushu, shaolin - publicdomainpictures.net](https://www.publicdomainpictures.net/fr/view-image.php?image=279905&picture=pubg-silhouette)
 * [bodybuilder-salle-de-gym - Pixabay](https://pixabay.com/fr/vectors/bodybuilder-salle-de-gym-6295818/)
 * [danila-bagrov - Pixabay](https://pixabay.com/fr/vectors/acteur-vecteur-danila-bagrov-1144794/)
 * [mafia - Pixabay](https://pixabay.com/fr/illustrations/mafia-gangsters-personnes-3153020/)
