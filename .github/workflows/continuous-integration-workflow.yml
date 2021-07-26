@@ -134,6 +134,14 @@ jobs:
           node ../md2html.js sous-terre.md > index.html
           cd -
 
+          cd VengeanceFatale4D
+          node ../md2html.js VengeanceFatale4D.md > index.html
+          if [[ $GIT_TAG =~ ^VengeanceFatale4D ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/VengeanceFatale4D-/}/" index.html
+            puppeteer print index.html ../$GIT_TAG.pdf
+          fi
+          cd -
+
           cd scavengers
           node ../md2html.js scavengers.md > index.html
           if [[ $GIT_TAG =~ ^adj-scavengers ]]; then
