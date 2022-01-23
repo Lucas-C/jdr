@@ -1,16 +1,23 @@
 <!-- Next:
-- emprunter "La sécurité sociale, les vautours et moi" à Pierre
-- finir les Moves:
-- définir les participants aux négos & leurs comportements / tactiques
+- partie fortement structurée :
+    * préparation de la 1ère négo puis : 1ère négo
+    * préparation de la 2e négo puis : 2e négo
+    * préparation de la 3e négo puis : 3e négo
+  Chaque préparation se fait en temps de jeu illimité, mais chaque PJ ne peut tenter qu'un certain nombre d'actions
+  => jets dé +/- difficiles selon les caracs des PJs, s'ils travaillent ensemble, s'ils prennent des risques...
+  Chaque négo se fait en temps de jeu limité (1h) et ne fait intervenir aucun jet de dé
+- définir les participants aux négos & leurs comportements / tactiques / contacts / finir leurs Moves
 - clarifier et mettre au propre les éléments de négo
-- développer la dimension uchronique
+  => faire en sorte que les PJs ne soient pas d'accord entre eux sur certains éléments
 - mettre en forme les FPs
-- demander de l'aide sur un forum pour la mise en page ? (inspi Daylight Robbery)
 - ajouter Objectifs & Principes, en se basant sur le "Guide de création à l'apocalypse" ?
+- développer la dimension uchronique
+- demander de l'aide sur un forum pour la mise en page ? (inspi Daylight Robbery)
 - demander à quelqu'un avec un smartphone de gender-swap les personnages (avec Snapchat / Face app)
 - mentionner "Guide de création à l'apocalypse" de Bastien Acritarche Wauthoz en remerciement
 - Com' supplémentaire : ATTAC & http://www.pbta.fr & contacter auteurs du jeu ZAD: http://zadlejeu.revolublog.com / jeu.zad@gmail.com
 - idée de variante "blackOps": [MICE](https://en.wikipedia.org/wiki/Motives_for_spying), écoutes, pression politique, séduction, ...
+- emprunter "La sécurité sociale, les vautours et moi" à Pierre
 -->
 
 Créons la Sociale
@@ -21,7 +28,7 @@ Créons la Sociale
 
 > Incarnez les pères fondateurs de cette nouvelle invention sociale,
 > mandatés par le libérateur de la nation, Charles De Gaulle,
-> pour construire par la voie politique ce nouveau système qui permettra aux français,
+> pour construire par la voie politique un nouveau système qui permettra aux français,
 > de « vivre sans l’angoisse du lendemain, de la maladie ou de l’accident de travail,
 > en cotisant selon ses moyens et en recevant selon ses besoins. »
 
@@ -390,6 +397,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 ## Pour plus d'infos sur le sujet :
 - [Le film « La sociale »](https://chezsoi.org/shaarli/?jHaUCg)
 - ["Les jours heureux" dans le numéro 29 de la Revue Dessinée (Automne 2020)](https://www.4revues.fr/la-revue-dessinee/255-29-automne-2020.html)
+- [Une histoire de la Sécurité Sociale (Ingénieurs Sans Frontières)](https://www.isf-france.org/articles/une-histoire-de-la-securite-sociale)
 - [Pierre Laroque et les origines de la Sécurité sociale](https://www.cairn.info/revue-informations-sociales-2015-3-page-12.htm) (sur cairn.info)
 - 3 juin 1944 - 27 octobre 1946 : [Gouvernement provisoire de la République française](https://fr.wikipedia.org/wiki/Gouvernement_provisoire_de_la_R%C3%A9publique_fran%C3%A7aise) (sur Wikipédia)
 - [La “sécu” en mode mineur. Le regard de la presse dans l’immédiat après-guerre](https://www.cairn.info/revue-les-tribunes-de-la-sante1-2015-2-page-51.htm) (sur cairn.info)
@@ -399,6 +407,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 - [Ordonnance n° 45-2250 du 4 octobre 1945 portant organisation de la sécurité sociale](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000698857) (sur legifrance.gouv.fr)
 - [Thinkerview - Solidité du système financier et des retraites ?](https://www.youtube.com/watch?v=NS8acSbI1Bs)
 - [Réforme du chômage : un massacre social - BLAST](https://www.youtube.com/watch?v=aUN2lnNc_hM)
+- [Bande son](https://www.youtube.com/watch?v=f-uggTZWnDI)
 <!--
 [La Sécurité sociale, pas vraiment un « vestige communiste de 1945 »](https://www.lemonde.fr/les-decodeurs/article/2017/10/26/la-securite-sociale-un-vestige-communiste-de-1945_5206101_4355770.html)
 « Sur le plan institutionnel, la continuité [avec les assurances sociales d’avant-guerre] domine, incontestablement. A tel point que je parlerais plus de “réformes des assurances sociales” que de création [de la Sécurité sociale] ex nihilo. »
@@ -406,6 +415,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 -->
 
 <style type="text/css">
+@import url("https://fonts.googleapis.com/css?family=Jost");
 body {
   max-width: 46rem;
   margin: 0 auto;
@@ -416,11 +426,8 @@ body {
   font-size: 1rem;
   line-height: 1.6;
 }
-h1, h2, h3 {
-  margin-bottom: 0;
-}
+h1, h2, h3 { margin-bottom: 0; font-family: Jost; }
 h1 {
-  text-transform: uppercase;
   font-size: 5rem;
   text-align: center;
   line-height: 1;

@@ -1,12 +1,12 @@
 <!-- Etapes suivantes :
++ https://www.casusno.fr/viewtopic.php?p=2025902#p2025902
+  -> Tolkraft (Lyon) https://www.dendrobat.fr
 + nouvelle feuille de Premier Rôle, avec Nom d'acteur, Stéréotype, Popularité, Carrière, Trait majeur, Gimmicks & Capacités + incluant le résumé des règles
 + règle optionnelle : miser des points de popularité au début du film
   Prise de risque permettant de faire de gros gains ou un gros bide (=> diminution)
   Ex : affronter Jason Statham dans une scène; révéler que vous êtes gay; faire une scène de nu
   La réaction du public se détermine au moment de la scène, ou à la fin du film.
   Si jamais pop < 0, la carrière de l'acteur est fichue, il est bon à ranger au placard.
-+ envoyer à Xyrop
-+ poster appel à maquettiste sur Casus No
 -->
 # Vengeance Fatale 4D
 
@@ -490,7 +490,7 @@ Les règles suivantes issues d'Ultime Vengeance 3D peuvent toujours s'appliquer 
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Version: 1.0.
 
-Si vous le testez, songez à me laisser un petit commentaire sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html) 🥺🙏😘
+Si vous le testez, songez à me laisser un petit commentaire sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html) 🙏😘
 
 <u>Police du titre :</u> [SciFi Movies](https://www.dafont.com/fr/scifi-movies.font) par [Daniel Hochard](http://www.imagex-fonts.com/).
 

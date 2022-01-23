@@ -33,7 +33,7 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
     md2html_cmds = []
     for md_filename in md_filenames:
         base_md_filename, cwd = basename(md_filename), dirname(md_filename)
-        if base_md_filename in ('index.md', 'LICENSE.md', 'README.md'):
+        if base_md_filename in ('LICENSE.md', 'README.md'):
             continue
         output_html_filepath = folder + '/index.html' if base_md_filename.replace('.md', '') == folder else md_filename.replace('.md', '.html')
         cmd = shell('md2html ' + base_md_filename, cwd=cwd, output=output_html_filepath)

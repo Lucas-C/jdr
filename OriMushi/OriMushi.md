@@ -1,6 +1,7 @@
 <!--
 https://www.deviantart.com/hunternif/art/Snake-807870839?src=MC_deviation_stack CC BY-NC-SA
 https://www.deviantart.com/justsantiago/art/Fanart-74-Princess-Mononoke-717286034 CC BY-NC-SA
+https://www.deviantart.com/hijodelopio/art/Boutmon-895209587 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 https://www.deviantart.com/fernand0fc/art/Shinobi-852741101 - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 -->
 
@@ -146,6 +147,7 @@ Personnages des joueurs :
 - [Kitty Anime Poilu Bleu @ pixabay.com](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/)
 - [Elf Druide Fantaisie @ pixabay.com](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/)
 <!--
+https://freesvg.org/female-warrior
 https://pixabay.com/fr/vectors/geisha-japon-femme-jeune-fille-156791/
 -->
 
