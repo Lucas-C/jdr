@@ -48,7 +48,7 @@ qui en bénéficiera toujours aux prochaines boucles temporelles
 
 * lancer un dé de plus et prendre le meilleur / pire dé
 
-* +1/+2 lorsqu'un joueur lance une tirade / réplique bien trouvée
+* obtenir un certain score cumulé (ex: 6) avec les résultats de différentes tentatives (idée issue de RunDieLearnRepeat)
 
 * TLMEJ : seuil du jet = #joueuses + 6MAIS toutes les joueuses indiquent simultanément avec leur pouce
 si elles contribuent à l'action ou se reposent : +1 au jet le cas échéant,sinon obtiennent un jeton qui octroie +2 à leur jet
@@ -182,7 +182,7 @@ Ces scénarios sont publiés sous licence <a rel="license" href="http://creative
 <img id="witch-face" src="halloween_witch_face_profile_by_scottepentzer_d5hadl5-fullview.jpg" alt="Tête de sorcière">
 
 <!-- Alt: https://www.needpix.com/photo/656525/owls-night-witch-broom-witchs-hat-moon-childrens-stories-fairy-tale-dark -->
-<!-- Alt: https://freesvg.org/cartoon-fox-poses -->
+<!-- Alt: https://freesvg.org/fantasy-witch -->
 
 ## Le camembert de la sorcière
 > Vous êtes un petit renard habitant la forêt.
@@ -337,6 +337,7 @@ Elle se méfie du lord régent, et si elle est consciente à la fin, destabilise
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ![](UBD-Corpse-Mite-by-Larvae801.png)
+<!-- Alt: https://freesvg.org/spider-monster -->
 ## Parasite
 > Vous êtes un parasite microscopique, une arme bactériologique créée dans un laboratoire top secret.
 > Suite à une énième hybridation, vous venez d'acquérir une vive intelligence, la conscience de vous-même,

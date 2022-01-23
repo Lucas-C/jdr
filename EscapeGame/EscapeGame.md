@@ -8,6 +8,14 @@ Un jeu de rôle en temps réel où les joueurs doivent résoudre des énigmes po
 
 ## Enigmes
 
+Certaines mécaniques du jeu ne sont pas données au début de la partie :
+la partie débute _in media res_, les FPs contiennent toutes les explications du système
+mais sont très denses et difficiles à déchiffrer (écriture penchée, passages cryptés...),
+
+Fournir images à la "trouver objet caché" ? Ex photos d'intérieurs de bâtiments :
+  * https://www.flickr.com/photos/58842866@N08/sets/72157625906149386
+  * https://www.flickr.com/photos/subdued/sets/72157623099468794
+
 ![](notes-de-flute.jpg)
 
 ![](7cvwmtmj4u921.jpg)

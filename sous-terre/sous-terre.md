@@ -6,6 +6,7 @@ Illus ?
 Inviter Nico Laurenti à playtest
 
 Principe de la "table ouverte" ? -> https://ptgptb.fr/jouez-en-table-ouverte
++ https://www.cestpasdujdr.fr/les-marches-de-louest/
 
 # RAF: définir MVP prochaine partie
 - fiche de PJ imprimable (talents imposés ?)
@@ -397,6 +398,8 @@ Le MJ interprête le résultat du jet ainsi, et décrit la scène qui s'ensuit :
   + **soit** de proposer un choix au PJ → l'action ne sera réussie que s'il accepte un « coût » définit par le MJ :
   faire du bruit, casser quelque chose, être blessé...
 * **10 ou plus** : c'est une réussite parfaite !
+
+**ALTERNATIVE COUILLUE** (idée post partie de La Maison de la Sorcière) : AUCUN jet, il FAUT connaître le point faible de monstres pour les battre
 
 
 ## Exploration

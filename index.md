@@ -1,4 +1,6 @@
-Mes créations de jeux de rôle hebergées ici:
+Mes créations de jeux de rôle hebergées ici
+(la plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
+ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 
 - [Amères Victoires & Glorieuses Défaites](gdav)
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)

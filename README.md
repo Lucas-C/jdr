@@ -1,5 +1,9 @@
 [![build status](https://github.com/Lucas-C/jdr/workflows/build/badge.svg)](https://github.com/Lucas-C/jdr/actions?query=branch%3Amaster)
 
+Sources de <https://lucas-c.github.io/jdr/>
+
+## Comment ça marche ?
+
 La plupart des prototypes dans ce repo reposent sur le script NodeJS [md2html](https://github.com/Lucas-C/linux_configuration/blob/master/bin/md2html.js)
 pour générer une version HTML à partir de la version Markdown.
 
@@ -48,6 +52,7 @@ Ideas:
 - Joy Division effect: https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
 - take inspiration from this top banner: http://hondu.co
 - cf. also notes.py libs like quadart, speck, Circle-Evolution
+- https://www.reddit.com/r/proceduralgeneration/comments/gxqclx/automated_painting_in_python/
 
 Cool fonts:
 - Handwriting: https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1
