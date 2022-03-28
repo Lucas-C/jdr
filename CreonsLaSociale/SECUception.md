@@ -17,6 +17,13 @@ Feedbacks & trucs à retenir :
 * proposer des choix aux joueurs, et expliciter l'impact de événements dans le GRC sur le monde réel, historico-uchronique
 * introduire + de symboles / références dans les créatures / items rencontrés
 
+[To check] JdRs 3FF avec des mécanismes politiques ludiques (merci Regis/Rappar) https://ptgptb.fr/defi-troisfoisforge-2-les-jeux :
+- Petit Livre du parfait dictateur : https://ptgptb.fr/3FF2/etape3/INSMIS-3.pdf il est très mauvais et mérite sa dernière place,
+  il n'y a pas de roleplay et aucune différence entre partis, mais y a peut-être des mécanismes à sauver.
+  Et les Forges 1 et 2 sont forcément meilleures 🙂
+- Une Heure pour sauver la planète (arrivé 2e): https://ptgptb.fr/3FF2/etape3/INVDRS-3.pdf
+  les décisions des PJ ont des conséquences mondiales !
+
 # Notes De Lecture TIMEception
 * idée du mix fantasy / historique socialiste conservée
 * "La CGT décida d’importer aux PC les concepts les plus progressistes"

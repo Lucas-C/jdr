@@ -3,6 +3,7 @@ https://www.deviantart.com/hunternif/art/Snake-807870839?src=MC_deviation_stack 
 https://www.deviantart.com/justsantiago/art/Fanart-74-Princess-Mononoke-717286034 CC BY-NC-SA
 https://www.deviantart.com/hijodelopio/art/Boutmon-895209587 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 https://www.deviantart.com/fernand0fc/art/Shinobi-852741101 - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+https://www.deviantart.com/ignusdei/art/Sol-Invictus-Greatsword-716970312 CC BY-NC-SA
 -->
 
 # Ori Mushi
