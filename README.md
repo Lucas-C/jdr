@@ -44,6 +44,7 @@ Ideas:
   * squares appearing in the background: http://rachelbythebay.com/fun/square/
   * checkboxes: http://rachelbythebay.com/fun/chk/
   * https://github.com/ribab/quadart
+  * A City in 185 Bytes of JS: https://www.reddit.com/r/generative/comments/o0xduf/a_city_in_185_bytes_of_javascript/
 - https://markodenic.com/css-tips/
   * typing effect
   * `drop-shadow()` to create a shadow on the image’s **content**
@@ -51,10 +52,14 @@ Ideas:
   * `background-clip` to draw titles using a background image
 - Joy Division effect: https://www.reddit.com/r/glitch_art/comments/gmftbv/gg_haze/
 - take inspiration from this top banner: http://hondu.co
-- cf. also notes.py libs like quadart, speck, Circle-Evolution
+- cf. also notes.py libs lucashadfield/speck, Circle-Evolution
 - https://www.reddit.com/r/proceduralgeneration/comments/gxqclx/automated_painting_in_python/
+  (uses external brush images)
+- https://github.com/georgedoescode/sketchbook/tree/master/06.19/recircles :
+  nice small colored geometric shapes, ideal for small embellishments (JS -> canvas)
 
 Cool fonts:
 - Handwriting: https://www.dafont.com/fr/handwriting3.font?l[]=10&l[]=1
 - Zalgo cryptic pseudo-font: https://stackoverflow.com/questions/6579844/how-does-zalgo-text-work
+- sǝʌᴉʇɐuɹǝʇlɐ / https://qwerty.dev/backwards-text-generator/
 -->
