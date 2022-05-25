@@ -1,3 +1,31 @@
+## Motivations
+* je pense que c'est un concept original
+* je veux créer des PDFs uniques
+* y jouer avec tous mes potes fans de FPS
+* y jouer en festival de JdR
+* projet commercial: €€€
+
+## To check
+* https://phoboslab.org/q1k3/
+* https://forum.zdoom.org/viewtopic.php?f=4&t=74588
+
+## Maps
+* [Downloable CC levels @ sketchfab.com](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=7c23a1ba438d4306920229c12afcb5f9&q=level&type=models)
+    + [Dungeon Game Level Challenge by Karthik Naidu](https://sketchfab.com/3d-models/dungeon-game-level-challenge-18a725f03e06489e92ea15d9d8f58820) - CC-BY
+    + [Low Poly Game Level Design - GameLevelChallenge by Karthik Naidu](https://sketchfab.com/3d-models/low-poly-game-level-design-gamelevelchallenge-377ff9139df44b7fa436f96aa5a470f5) - CC-BY
+    + [Dungeon - Low Poly Game Level Challenge by Warkarma](https://sketchfab.com/3d-models/dungeon-low-poly-game-level-challenge-0fd0d477d7424e5d8915ce0c06a2920d) - CC-BY
+    + [Dark Lord And The 6 Kings by zul_gv](https://sketchfab.com/3d-models/dark-lord-and-the-6-kings-4f14a8de87244ee6bb1a8cc5c7708b7c) - CC-BY
+    + [Level6 Zone4 by hansolocambo](https://sketchfab.com/3d-models/level6-zone4-level-design-2002-1141d70a71b542189d3b5091bd51d5ee) - CC-BY
+    + [Low Poly Game Level by MaxDeaconVR](https://sketchfab.com/3d-models/low-poly-game-level-82b7a937ae504cfa9f277d9bf6874ad2) - CC-BY
+* Shootmania level editor
+    + https://www.maniaplanet.com/download -> includes editor?
+    + https://sm.mania-exchange.com
+    + doc:
+        - https://doc.maniaplanet.com/map-editor/how-to-use-the-map-editor
+        - https://aurel.obstacle.ovh/wordpress/index.php/map-editor/
+    + discord server: https://discord.gg/BBHC3sT
+* Tools:
+    + [3dviewer.net](https://3dviewer.net): online viewer / image exporter
 
 ## Random characters & cie
 * `avatars/scrape_q3df_models.py`
