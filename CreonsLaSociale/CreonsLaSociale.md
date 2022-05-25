@@ -396,6 +396,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 
 ## Pour plus d'infos sur le sujet :
 - [Le film « La sociale »](https://chezsoi.org/shaarli/?jHaUCg)
+- [Le CNR, le programme merveilleux et les jours heureux - Fabrice Drouelle - france inter](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-du-vendredi-29-avril-2022)
 - ["Les jours heureux" dans le numéro 29 de la Revue Dessinée (Automne 2020)](https://www.4revues.fr/la-revue-dessinee/255-29-automne-2020.html)
 - [Une histoire de la Sécurité Sociale (Ingénieurs Sans Frontières)](https://www.isf-france.org/articles/une-histoire-de-la-securite-sociale)
 - [Pierre Laroque et les origines de la Sécurité sociale](https://www.cairn.info/revue-informations-sociales-2015-3-page-12.htm) (sur cairn.info)
@@ -408,6 +409,13 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 - [Thinkerview - Solidité du système financier et des retraites ?](https://www.youtube.com/watch?v=NS8acSbI1Bs)
 - [Réforme du chômage : un massacre social - BLAST](https://www.youtube.com/watch?v=aUN2lnNc_hM)
 - [Bande son](https://www.youtube.com/watch?v=f-uggTZWnDI)
+- [L'arrestation de Jean Moulin, la présidence de Georges Bidault @ museedelaresistanceenligne.org]:
+> Au CNR, les séances plénières s’espacent (dangers). La prudence exige des déplacements fréquents des lieux de réunions.
+> Autres lieux parisiens : rue du Chemin-Vert ; 86, rue de Gergovie ; maison religieuse de la rue Violet…
+> Le CNR se réunit sur convocation du président. Il n' y eut que trois séances plénières - c'est-à-dire en la présence des 16 membres
+> du CNR - entre la première réunion de la rue du Four et l’insurrection parisienne.
+> En lieu et place des séances plénières, ce sont des réunions restreintes avec échange de correspondance entre les membres.
+
 <!--
 [La Sécurité sociale, pas vraiment un « vestige communiste de 1945 »](https://www.lemonde.fr/les-decodeurs/article/2017/10/26/la-securite-sociale-un-vestige-communiste-de-1945_5206101_4355770.html)
 « Sur le plan institutionnel, la continuité [avec les assurances sociales d’avant-guerre] domine, incontestablement. A tel point que je parlerais plus de “réformes des assurances sociales” que de création [de la Sécurité sociale] ex nihilo. »
