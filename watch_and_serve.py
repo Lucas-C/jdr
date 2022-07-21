@@ -15,9 +15,10 @@ SCRIPT_DIR = dirname(__file__)
 class CustomStaticFileHandler(StaticFileHandler):
     'Adds UTF charset to Content-Type header for HTML files'
     def get_content_type(self):
-        if splitext(self.absolute_path)[1] == '.html':
-            return 'text/html; charset=utf-8'
-        return super().get_content_type()
+        content_type = super().get_content_type()
+        if content_type == 'text/html':
+            content_type = 'text/html; charset=utf-8'
+        return content_type
 
 
 def chain(cmd1_func, cmd2_str):
@@ -58,5 +59,5 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         print('Watching', js_filename)
         for cmd in md2html_cmds:
             server.watch(js_filename, cmd)
-with patch('livereload.server.StaticFileHandler', CustomStaticFileHandler):
-    server.serve(root=SCRIPT_DIR)
+server.SFH = CustomStaticFileHandler
+server.serve(root=SCRIPT_DIR)

@@ -193,27 +193,26 @@ Vaincre le Minotaure ou s'évader avec les ailes d'Icare.
 La mythologie grecque & les livres de _Sword & sorcery_.
 ### Environnement
 Un dédale de couloirs reliant des pièces octogonales où le danger rôde.
+Le personnage commence avec uniquement des vêtements en tissu sur lui, et **une pelote de laine** dans la poche.
 ### Obstacles
 Les salles rencontrées, dans l'ordre :
 1. une salle dont certaines dalles au sol s'effondrent sur une fosse à pieux.
 Un chemin permet de traverser la pièce pour accéder à une intersection menant à 3 autres salles.
 Un autre chemin permet d'accéder au coffre au centre,
-contenant un bouclier poli (**+1** en combat, **+3** contre Méduse).
+contenant un **bouclier poli** (**+1** en combat, **+3** contre Méduse).
 1. un portail nécessitant une clef bloque l'accès à la pièce.
 Derrière, un trône de dos, d'où dépasse une paire de cornes.
 C'est l'antre du Minotaure ! Il faut obtenir **7 ou plus au dé** pour le vaincre.
 1. les murs des parois sont polis comme des miroirs, transformant cette partie du labyrinthe en galerie des glaces.
-Elle comporte un coffre caché, contenant une épée enchantée,
-capable d'aspirer les âmes (comme [_Stormbringer_](https://fr.wikipedia.org/wiki/Stormbringer_(%C3%A9p%C3%A9e)) -
-**+2** en combat, **+1** par monstre déjà vaincu avec).
+Elle comporte un coffre caché, contenant une **magnifique épée** (**+2** en combat).
 1. Une grotte jonchée d'ossements, le repaire de Chimère, une créature mi-lion mi-dragon.
-Elle est assoupie contre un coffre contenant une clef liée à une pelote de laine
-(**+2** pour se repérer dans la galerie des miroirs).
-1. Méduse la Gorgone, paisiblement assise de dos contre une fontaine.
-Au fond de celle-ci repose, quasi imperceptible, une cape rendant invisible
+Elle est assoupie contre un coffre contenant **une clef**.
+1. Méduse la Gorgone, paisiblement assise de dos contre une fontaine,
+dont la sculpture centrale change à chaque passage dans la salle : Ariane, Dédale ou Minos.
+Au fond de l'eau repose, quasi imperceptible, **une cape rendant invisible**
 (**+2** pour esquiver les monstres).
 1. une pièce vide. Un trompe-l’œil en réalité, dissimulant un coffre
-contenant les ailes d'Icare, qui permettent de planer (mais pas de voler).
+contenant **les ailes d'Icare**, qui permettent de planer (mais pas de s'envoler).
 1. un cul-de-sac donnant sur un puits avec inscrit « Icare » sur la marelle,
 au fond duquel on débouche à 100m **au-dessus** du labyrinthe.
 ### Conseils à la MJ

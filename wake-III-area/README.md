@@ -1,3 +1,8 @@
+## Notes from Game Engine Black Book
+> Invincibility mode in Doom is IDDQD on a qwerty keyboard but IDDAD on an azerty keyboard without the
+French driver loaded.
+> "Call Apogee and say Aardwolf."
+
 ## Motivations
 * je pense que c'est un concept original
 * je veux créer des PDFs uniques
@@ -8,6 +13,7 @@
 ## To check
 * https://phoboslab.org/q1k3/
 * https://forum.zdoom.org/viewtopic.php?f=4&t=74588
+* https://en.wikipedia.org/wiki/Operation_Bayshield & quake-III-based machinima
 
 ## Maps
 * [Downloable CC levels @ sketchfab.com](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=7c23a1ba438d4306920229c12afcb5f9&q=level&type=models)

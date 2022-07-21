@@ -1,30 +1,38 @@
 <div class="character-sheet">
   <div class="traits">
+    <img class="symbol-left" alt="" src="Decorative-Yin-Yang.svg">
+    <img class="symbol-right" alt="" src="1577115378Chinese-New-Year-2016-Folk-Ornaments-Color-2-2016020957.svg">
     <h2 class="traits-title">Traits</h2>
     <ul class="traits-list">           <!-- Les Traits doivent "coller" au scénario : -->
       <li>Agile comme un singe</li>           <!-- Pour s'enfuir durant l'intro -->
-      <!--li>Bricoleur</li>                   <!- - Trop peu utile dans le scénario -->
+      <li>Bricoleur</li>                      <!-- Trop peu utile dans le scénario -->
       <li>Disciple du Kung fu</li>            <!-- Pour se battre contre l'esprit-dragon -->
       <li>Discret comme une ombre</li>        <!-- Pour se cacher de l'esprit-dragon ou du troll-tengu -->
       <li>Entend le chant des plantes</li>    <!-- Pour enquêter dans la forêt -->
       <li>Fort comme un tigre</li>            <!-- Pour se battre contre l'esprit-dragon -->
       <!--li>Observateur</li>                 <!- - Trop générique -->
-      <li>Parle aux poissons</li>             <!-- Pour enquêter à la rivière -->
+      <li>Parle aux criquets</li>             <!-- Pour enquêter à la rivière -->
       <li>Rapide comme l'eclair</li>          <!-- Pour se battre contre l'esprit-dragon -->
       <li>Sait les contes &amp; legendes</li> <!-- Pour enquêter -->
     </ul>
   </div>
-  <div class="desc">
-    <div class="item-group">
-      <label>Nom :</label>
+  <div class="stats">
+    <div class="stats-group">
+      <label class="name">Nom :</label>
       <div class="placeholder"></div>
     </div>
-    <label>Activité :</label>
-    <div class="placeholder"></div>
+    <div class="stats-group">
+      <label>Activité :</label>
+      <div class="placeholder"></div>
+    </div>
   </div>
-  <div class="footer">
-    <img alt="" src="Decorative-Yin-Yang.svg">
-    <img alt="" src="1577115378Chinese-New-Year-2016-Folk-Ornaments-Color-2-2016020957.svg">
+  <div class="items">
+    <div class="special">
+      <label>Objets spéciaux :</label>
+    </div>
+    <div class="inventory">
+      <label>Inventaire :</label>
+    </div>
   </div>
 </div>
 
@@ -47,13 +55,15 @@ body { line-height: 1.6; }
   background-size: cover;
   margin: 1rem auto;
   font-family: Odachi;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 .traits {
-  max-width: 25rem;
+  width: 24rem;
   margin: 0 auto;
   height: 37rem;
 }
+.symbol-left  { max-width: 4.5rem; float: left;  padding-top: 2.5rem; }
+.symbol-right { max-width: 5rem;   float: right; padding-top: 2.5rem; }
 .traits-title {
   margin: 0;
   padding-top: 2rem;
@@ -68,38 +78,33 @@ body { line-height: 1.6; }
   padding-left: 4rem;
   padding-right: 0;
 }
-.traits-list li::before {
-  /*content: '';*/
-  float: left;
-  width: 2rem;
-  height: 2rem;
-  margin: 0 1rem;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-.desc {
-  max-width: 20rem;
-  margin: 0 auto;
-  font-size: 4rem;
+.stats {
+  width: 23rem;
+  margin: 0 auto 1rem;
   display: flex;
   flex-flow: column wrap;
 }
-.item-group {
+.stats-group {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: flex-end;
+  margin: .5rem;
 }
+.name { font-size: 3rem; }
 .placeholder {
   border-bottom: 2px solid #aaa;
   flex: 1 0;
   padding-top: 3rem;
 }
-.footer {
-  max-width: 10rem;
-  margin: 1rem auto;
+.items {
   display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 24rem;
+  margin: 0 auto;
 }
-.footer img:nth-child(1) { max-width: 4.5rem; }
-.footer img:nth-child(2) { max-width: 5rem; }
+.items > * { flex: 1; height: 16rem; }
+.inventory { border-left: 2px solid; }
+.items label { display: block; text-align: center; }
 </style>

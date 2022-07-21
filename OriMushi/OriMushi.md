@@ -1,8 +1,9 @@
 <!--
+https://www.deviantart.com/fernand0fc/art/Shinobi-852741101 - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 https://www.deviantart.com/hunternif/art/Snake-807870839?src=MC_deviation_stack CC BY-NC-SA
 https://www.deviantart.com/justsantiago/art/Fanart-74-Princess-Mononoke-717286034 CC BY-NC-SA
-https://www.deviantart.com/hijodelopio/art/Boutmon-895209587 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-https://www.deviantart.com/fernand0fc/art/Shinobi-852741101 - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 https://www.deviantart.com/ignusdei/art/Sol-Invictus-Greatsword-716970312 CC BY-NC-SA
 -->
 
@@ -24,27 +25,33 @@ Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener e
 ## Matériel
 S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,
 cette aide de jeu propose d'imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
-des illustrations de personnages et des élements d'équipements (_items_).
+des illustrations de personnages et des éléments d'équipements (armes & objets).
 
 ## Création de personnage en 5min
-1. Choisissez votre apparence & 2 **Items** spéciaux (arme / armure, sort, objets unique...) parmi les illustrations,
-ou inventez-le & décrivez-les sur des morceaux de papier
-
+1. Choisissez votre apparence et **un objet spécial** (arme, objet magique...) parmi les illustrations,
+ou inventez-les ! Les objets spéciaux sont des objets magiques ou que leur possesseur maîtrise avec virtuosité.
+<!--
+En cas de débat, le 1er joueur à choisir son illustration d'apparence sera le dernier à choisir son illustration de d'objet spécial, et vice-versa.
 _Note:_ le cercle magique et le parchemin permettent tous deux de faire appel à de la **magie**.
 Lorsqu'un joueur en choisit un, il doit définir le type de magie qu'il maîtrise.
 Voici quelques exemples : le feu, la terre, le métal, l'eau, la foudre, le vent, la lumière,
-la dissimulation, le déplacement instantané, les illusions...
+la dissimulation dans l'ombre, le déplacement instantané, les illusions...
+-->
 
-2. Complétez sur votre feuille de personnage : **nom**, **activité** et sélectionnez **3 Traits** dans la liste
+2. Complétez sur votre [feuille de personnage (PDF)](OriMushi-FeuillePersonnage.pdf) : **nom**, **activité** et sélectionnez **3 Traits** dans la liste.
 
 Voici quelques suggestions d'activité si les joueurs sont en panne d'inspiration :
 apothicaire, conteur, Ronin (samouraï sans maître), marchant, Mushishi (dompteur d'esprits de la nature)...
 
+L'**inventaire** de départ des personnages est complètement libre :
+il s'agit de tous les objets qu'ils souhaiteraient transporter sur eux.
+Les objets de l'inventaire n'étant pas _spéciaux_, ils ne donnent pas de dé supplémentaires lors des jets.
+
 
 ## Système de jets de dés
-1d6 +1 par Trait / Item applicable.
-Selon le meilleure résultat obtenu :
-  * ~~⚅~~ : réussite épique / parfaite, **la joueuse décrit la scène**
+1d6 +1 par Trait et Objet Spécial applicables.
+Selon le meilleur résultat obtenu :
+  * ~~⚅~~ : réussite épique / parfaite <!--, **le joueur décrit la scène** -->
   * ~~⚄~~ : oui mais...
   * ~~⚃~~ : non mais...
   * ~~⚂~~ / ~~⚁~~ / ~~⚀~~ : c'est raté !
@@ -54,10 +61,9 @@ Selon le meilleure résultat obtenu :
 
 ## Éléments clefs à établir en début de partie
 - « L'histoire se déroule dans le japon médiéval des contes & légendes. Il existe de la magie et des monstres. »
-- Le meneur de jeu peut demander des jets aux joueurs pour certaines actions qui peuvent mal tourner.
-- Les joueurs se connaissent déjà et voyagent ensemble.
+- Le meneur de jeu demandera des jets aux joueurs pour les actions où leurs personnages peuvent échouer.
+- Les joueurs se connaissent déjà et voyagent ensemble, et c'est d'ailleurs leur objectif commun : explorer le monde !
 Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
-
 
 
 ## Scène 0 - Course poursuite !
@@ -76,26 +82,36 @@ Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemi
 quitte à faire une ellipse ou à leur indiquer qu'il s'agit de leur prochaine étape de leur voyage,
 dont on leur a vanté une recette locale de poisson frit...
 
+
+## Évolution
+Si vous voulez poursuivre la partie au délà du scénario d'introduction,
+récompensez les joueurs au terme de chaque aventure terminée
+en leur accordant un nouveau Trait, qui peut être inventé (avec l'accord du meneur de jeu),
+ou un nouvel Objet Spécial.
+
 ::::
+
 !!!include(OriMushi-FeuillePersonnage.html)!!!
 
+
 ## Illustrations
-Dans l'ordre, vous trouverez ci-dessous 9 illustrations de personnages des joueurs,
-une du doyen du village, une du troll-kappa, 8 de différents items, et enfin une illustration de l'esprit-dragon.
+Dans l'ordre, vous trouverez ci-dessous 10 illustrations de personnages des joueurs,
+une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, et enfin une illustration de l'esprit-dragon.
 
 <!-- PJs -->
 ![](Ninja-2.svg)
 ![](quick_samurai_sketch_by_hidanbasher_d9d8uez-fullview.jpg)
-![](TCP-Human-4.jpg)
-![](d363fdk-411bcdd0-cb36-4712-bb2f-71a0ac8e4e8d.jpg)
+![](ryzom-rd-pe-tr-pi-2000-12-12.jpg)
+![](ryzom-rd-pe-tr-pi-2001-1-15.jpg)
 ::: page-break
 :::
-![](d5fhek0-e925c6be-09e3-4710-81d9-1b12e7b73900.jpg)
 ![](alopex_redesign_concept_by_beevirus_d83o769-fullview.jpg)
 ![](d8uihey-ccf04f05-a980-4b1b-b904-0137e609e661.jpg)
+![](TCP-Human-4.jpg)
 ![](elf-2044697_1920.png)
 ::: page-break
 :::
+![](d5fhek0-e925c6be-09e3-4710-81d9-1b12e7b73900.jpg)
 ![](kitty-1374728_1920.jpg)
 
 <!-- PNJs -->
@@ -104,7 +120,7 @@ une du doyen du village, une du troll-kappa, 8 de différents items, et enfin un
 ::: page-break
 :::
 
-<!-- Items -->
+<!-- Objets spéciaux -->
 ![](magic_circle_2_by_nnao_d3kqddk-fullview.jpg)
 ![](western_kit_by_fernand0fc_ddhn18x-fullview.jpg)
 ![](Grappling_hook_2_(PSF).png)
@@ -141,7 +157,7 @@ Personnages des joueurs :
 - [Pirate Ninja @ publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Pirate-ninja/42753.html)
 - [Quick samurai sketch par hidanbasher](https://www.deviantart.com/hidanbasher/art/Quick-samurai-sketch-566443259) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Human 4 par Jeff Preston](http://team-preston.com), issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Chinese Zodiac Rabbit par TysonTan](https://www.deviantart.com/tysontan/art/Chinese-Zodiac-Rabbit-191636120) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Tryker femme](https://www.flickr.com/photos/ryzom/14746505003/in/album-72157645935788203/) & [Tryker homme](https://www.flickr.com/photos/ryzom/14726336322/in/album-72157645935788203/) - Ryzom - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 - [Breeze in the Forest par TysonTan](https://www.deviantart.com/tysontan/art/Breeze-in-the-Forest-328337136) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Alopex redesign concept par BEEvirus](https://www.deviantart.com/beevirus/art/Alopex-redesign-concept-489897297) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Human Alopex par BEEvirus](https://www.deviantart.com/beevirus/art/Human-Alopex-534980266) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
