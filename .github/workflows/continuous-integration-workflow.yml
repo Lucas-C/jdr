@@ -101,6 +101,7 @@ jobs:
 
           cd OriMushi
           node ../md2html.js OriMushi.md > index.html
+          puppeteer print OriMushi-FeuillePersonnage.html OriMushi-FeuillePersonnage.pdf
           if [[ $GIT_TAG =~ ^ori-mushi- ]]; then
             sed -i "s/{{version}}/${GIT_TAG/ori-mushi-/}/" index.html
             puppeteer print index.html ../$GIT_TAG.pdf
