@@ -15,7 +15,7 @@ https://www.deviantart.com/ignusdei/art/Sol-Invictus-Greatsword-716970312 CC BY-
 Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener en 30min" par Kalwrynn](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html).
 
 ::: web-only
-- Version PDF de ces règles: [ori-mushi-v0.2.zip _(10 pages, 10,4 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.zip)
+- Version PDF de ces règles: [ori-mushi-v0.2.zip _(10 pages, 5,5 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.zip)
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 
@@ -68,14 +68,14 @@ De plus :
 * actions conjointes : un personnage assistant un autre à réaliser une action lui octroie un dé bonus
 * actions en opposition (inclus les affrontement) : un jet est effectué par personnage, celui obtenant le plus de ⚅ l'emporte. En cas d'égalité, on considère les ⚄. Si l'égalité persiste, aucun personnage n'a l'avantage.
 
-L'inconvénient principal de ce système est que toutes les actions se valent en difficulté :
+Un inconvénient de ce système est que toutes les actions se valent en difficulté :
 le MJ ne spécifie aucun seuil. Il peut néanmoins indiquer que certains actions audacieuses requièrent d'obtenir au moins deux ⚄/⚅.
 
 <img class="footer-illus" alt="A Noh demon" src="dnm64g-4d906609-66bf-46f2-b761-b964d5ca4500.jpg">
 
 ## Éléments clefs à établir en début de partie
-- « L'histoire se déroule dans le japon médiéval des contes & légendes. Il existe de la magie et des monstres. »
-- Le meneur de jeu demandera des jets aux joueurs pour les actions où leurs personnages peuvent échouer.
+- « L'histoire se déroule dans un japon médiéval imaginaire. Il existe de la magie et des monstres. »
+- Le meneur de jeu demandera des jets aux joueurs pour les actions risquées de leurs personnages.
 - Les joueurs se connaissent déjà et voyagent ensemble, et c'est d'ailleurs leur objectif commun : explorer le monde !
 Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
 
