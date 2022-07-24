@@ -15,17 +15,16 @@ https://www.deviantart.com/ignusdei/art/Sol-Invictus-Greatsword-716970312 CC BY-
 Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener en 30min" par Kalwrynn](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html).
 
 ::: web-only
-- Version PDF: [v0.1 (11,3 Mo)](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.1/ori-mushi-v0.1.pdf)
+- Version PDF de ces règles: [ori-mushi-v0.2.pdf _(10 pages, 10,4 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.pdf)
+
+- Feuille de personnage : [OriMushi-FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 
 - Article de blog présentant le contexte : [Faire découvrir le JdR](https://chezsoi.org/lucas/blog/faire-decouvrir-le-jdr-et-fete-du-jeu.html)
 :::
 
 **Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, princesse Mononoke, Naruto...
 
-## Matériel
-S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,
-cette aide de jeu propose d'imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
-des illustrations de personnages et des éléments d'équipements (armes & objets).
+<br>
 
 ## Création de personnage en 5min
 1. Choisissez votre apparence et **un objet spécial** (arme, objet magique...) parmi les illustrations,
@@ -38,26 +37,36 @@ Voici quelques exemples : le feu, la terre, le métal, l'eau, la foudre, le vent
 la dissimulation dans l'ombre, le déplacement instantané, les illusions...
 -->
 
-2. Complétez sur votre [feuille de personnage (PDF)](OriMushi-FeuillePersonnage.pdf) : **nom**, **activité** et sélectionnez **3 Traits** dans la liste.
-
-Voici quelques suggestions d'activité si les joueurs sont en panne d'inspiration :
+2. Complétez sur votre feuille de personnage : **nom**, **activité** et sélectionnez **3 Traits** dans la liste.
+Voici quelques suggestions d'activité si les joueurs manquent un peu d'inspiration :
 apothicaire, conteur, Ronin (samouraï sans maître), marchant, Mushishi (dompteur d'esprits de la nature)...
 
 L'**inventaire** de départ des personnages est complètement libre :
 il s'agit de tous les objets qu'ils souhaiteraient transporter sur eux.
-Les objets de l'inventaire n'étant pas _spéciaux_, ils ne donnent pas de dé supplémentaires lors des jets.
+Ces objets n'étant pas _spéciaux_, ils n'octroient pas de dé supplémentaires lors des jets.
 
+::: page-break
+:::
 
 ## Système de jets de dés
-1d6 +1 par Trait et Objet Spécial applicables.
-Selon le meilleur résultat obtenu :
-  * ~~⚅~~ : réussite épique / parfaite <!--, **le joueur décrit la scène** -->
-  * ~~⚄~~ : oui mais...
-  * ~~⚃~~ : non mais...
-  * ~~⚂~~ / ~~⚁~~ / ~~⚀~~ : c'est raté !
+1d6 minimum, **+1d6** par Trait et Objet Spécial applicables.
+Selon le meilleur résultat obtenu aux dés :
+  * ~~⚅~~ : c'est réussi !
+  * ~~⚄~~ : c'est réussi **mais**...
+  * ~~⚃~~ : c'est raté **mais**...
+  * ~~⚂~~ / ~~⚁~~ / ~~⚀~~ : c'est raté
+
+<br>
+
+De plus :
+* si deux ~~⚅~~ sont obtenus : c'est une **réussite parfaite / épique** ! <!--, **le joueur décrit la scène** -->
+* si deux ~~⚀~~ sont obtenus : c'est un **échec critique**
+* sur un ~~⚄~~ ou ~~⚃~~, le MJ peut également proposer un **dilemme** :
+  le joueur se voit proposer un choix cornélien entre deux options exclusives.
+  Son personnage peut par exemple obtenir quelque chose au prix d'un sacrifice,
+  ou bien se rabattre sur une réussite partielle.
 
 <img class="footer-illus" alt="A Noh demon" src="dnm64g-4d906609-66bf-46f2-b761-b964d5ca4500.jpg">
-
 
 ## Éléments clefs à établir en début de partie
 - « L'histoire se déroule dans le japon médiéval des contes & légendes. Il existe de la magie et des monstres. »
@@ -65,6 +74,8 @@ Selon le meilleur résultat obtenu :
 - Les joueurs se connaissent déjà et voyagent ensemble, et c'est d'ailleurs leur objectif commun : explorer le monde !
 Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
 
+::: page-break
+:::
 
 ## Scène 0 - Course poursuite !
 Même si cela rallonge un peu la durée de jeu, je trouve très judicieuse l'idée de Kalwrynn de commencer _in media res_.
@@ -79,9 +90,8 @@ Décrivez aux joueurs les environs pour leurs donner quelques idées d’échapp
 l'orée de la forêt de bambous, la descente un peu raide vers un lac, les hautes herbes balayées par le vent...
 
 Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemin ou le lac,
-quitte à faire une ellipse ou à leur indiquer qu'il s'agit de leur prochaine étape de leur voyage,
+quitte à faire une ellipse ou à indiquer qu'il s'agit de la prochaine étape de leur voyage,
 dont on leur a vanté une recette locale de poisson frit...
-
 
 ## Évolution
 Si vous voulez poursuivre la partie au délà du scénario d'introduction,
@@ -89,26 +99,28 @@ récompensez les joueurs au terme de chaque aventure terminée
 en leur accordant un nouveau Trait, qui peut être inventé (avec l'accord du meneur de jeu),
 ou un nouvel Objet Spécial.
 
+## Illustrations
+S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,
+cette aide de jeu propose d'imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
+des illustrations de personnages et des éléments d'équipements (armes & objets).
+
+Vous trouverez ci-dessous 10 illustrations de personnages des joueurs,
+une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, et enfin une illustration de l'esprit-dragon.
 ::::
 
-!!!include(OriMushi-FeuillePersonnage.html)!!!
-
-
-## Illustrations
-Dans l'ordre, vous trouverez ci-dessous 10 illustrations de personnages des joueurs,
-une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, et enfin une illustration de l'esprit-dragon.
+:::: illus
 
 <!-- PJs -->
+![](TCP-Human-4.jpg)
+![](elf-2044697_1920.png)
 ![](Ninja-2.svg)
 ![](quick_samurai_sketch_by_hidanbasher_d9d8uez-fullview.jpg)
-![](ryzom-rd-pe-tr-pi-2000-12-12.jpg)
-![](ryzom-rd-pe-tr-pi-2001-1-15.jpg)
 ::: page-break
 :::
 ![](alopex_redesign_concept_by_beevirus_d83o769-fullview.jpg)
 ![](d8uihey-ccf04f05-a980-4b1b-b904-0137e609e661.jpg)
-![](TCP-Human-4.jpg)
-![](elf-2044697_1920.png)
+![](ryzom-rd-pe-tr-pi-2000-12-12.jpg)
+![](ryzom-rd-pe-tr-pi-2001-1-15.jpg)
 ::: page-break
 :::
 ![](d5fhek0-e925c6be-09e3-4710-81d9-1b12e7b73900.jpg)
@@ -138,6 +150,14 @@ une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, 
 <img class="big" alt="L'esprit-dragon" src="d7muum4-4766980a-f9e5-4baa-b39d-4abd0cb284fc.jpg">
 ::: page-break
 :::
+::::
+
+:::: rules
+::: web-only
+<h2>Feuille de personnage</h2>
+!!!include(OriMushi-FeuillePersonnage.html)!!!
+:::
+::::
 
 ## Licence & sources
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
@@ -161,8 +181,7 @@ Personnages des joueurs :
 - [Breeze in the Forest par TysonTan](https://www.deviantart.com/tysontan/art/Breeze-in-the-Forest-328337136) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Alopex redesign concept par BEEvirus](https://www.deviantart.com/beevirus/art/Alopex-redesign-concept-489897297) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Human Alopex par BEEvirus](https://www.deviantart.com/beevirus/art/Human-Alopex-534980266) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-- [Kitty Anime Poilu Bleu @ pixabay.com](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/)
-- [Elf Druide Fantaisie @ pixabay.com](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/)
+- [Kitty Anime Poilu Bleu](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/) & [Elf Druide Fantaisie](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/) @ pixabay.com
 <!--
 https://freesvg.org/female-warrior
 https://pixabay.com/fr/vectors/geisha-japon-femme-jeune-fille-156791/
@@ -184,15 +203,12 @@ Items :
 - [Katanas par Halibutt](https://commons.wikimedia.org/wiki/File:Katanas.svg) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Ombrelle @ pxhere.com](https://pxhere.com/en/photo/700898) - CC0
 - [Armored 3 par Jeff Preston](http://team-preston.com), issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Asian fan with a map @ freesvg.org](https://freesvg.org/asian-fan-with-a-map-vector-image) - domaine public
+- [Asian fan with a map](https://freesvg.org/asian-fan-with-a-map-vector-image) & [Red Chinese scroll](https://freesvg.org/red-chinese-scroll) @ freesvg.org - domaine public
 - [Shuriken Throwing Ninja Star @ pixabay.com](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/)
-- [Red Chinese scroll @ freesvg.org](https://freesvg.org/red-chinese-scroll) - domaine public
 - [Bow and arrow vector drawing @ publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Bow-and-arrow-vector-drawing/74403.html) - domaine public
 
 Feuille de personnage :
-- [Chinese New Year Folk Ornament @ freesvg.org](https://freesvg.org/chinese-new-year-folk-ornament) - domaine public
-- [Decorative Ying Yang sign @ freesvg.org](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) - domaine public
-- [Dragon frame @ freesvg.org](https://freesvg.org/dragon-frame-vector-image) - domaine public
+- [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
 <!-- 
 - https://pixabay.com/illustrations/sumi-sumi-e-watercolor-china-1595365/
 - https://www.needpix.com/photo/355732/sumi-e-sumie-black-ink-east-zen-ink-painting-ink-style-painting-fish
@@ -271,18 +287,18 @@ img {
 }
 .cover { margin: 5rem auto; max-height: 30rem; }
 .footer-illus { max-height: 15rem; }
-.character-sheet, #illustrations { page-break-before: always; }
-#illustrations p {
+.character-sheet, .illus { page-break-before: always; }
+.illus p {
   display: flex;
   flex-wrap: wrap;
 }
-#illustrations img {
+.illus img {
   width: 47%;
   max-height: 48vh;
   object-fit: contain;
   padding: 1rem;
 }
-#illustrations img.big {
+.illus img.big {
   width: 66%;
   max-height: none;
 }
@@ -305,6 +321,7 @@ s { /* dices */
   position: fixed;
   bottom: 0;
   right: 0;
+  display: none; /* PDF only */
 }
 .page-break {
   page-break-after: always
@@ -314,7 +331,8 @@ s { /* dices */
   body { font-size: 1rem; }
   .cover { max-height: 20rem; margin: 1rem auto; }
   .footer-illus { max-height: 10rem; }
-  #illustrations img { width: 41.5%; max-height: 41.5vh; }
+  .illus img { width: 45%; max-height: 38vh; }
   .web-only { display: none; }
+  .version { display: block; }
 }
 </style>
