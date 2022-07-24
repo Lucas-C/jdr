@@ -15,7 +15,7 @@ https://www.deviantart.com/ignusdei/art/Sol-Invictus-Greatsword-716970312 CC BY-
 Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener en 30min" par Kalwrynn](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html).
 
 ::: web-only
-- Version PDF de ces règles: [ori-mushi-v0.2.pdf _(10 pages, 10,4 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.pdf)
+- Version PDF de ces règles: [ori-mushi-v0.2.zip _(10 pages, 10,4 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.zip)
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 
