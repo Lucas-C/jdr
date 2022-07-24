@@ -337,6 +337,11 @@ s { /* dices */
 }
 
 @media print {
+/* NOTES: le rendu sur laptop VS dans GitHub Actions n'est pas le même :(
+ * la police Odachi a un rendu différent
+ * les polices Calibri Bold & Italic sont "interpolées" dans GitHub Actions, car non fournies
+ * les dés ne sont pas rendu à l'identique -> la police SegoeUISymbol semble intégrée lorsque le PDF est généré en local
+*/
   h1 { font-size: 7rem; margin: 1rem auto; }
   body { font-size: 1rem; }
   s { /* dices */ font-size: 2rem; line-height: .8; }

@@ -356,7 +356,7 @@ Chouettes illus non-CC :
 - https://www.subpng.com/png-lu8s9j/
 -->
             <div class="version">
-                <p>v0.2</p>
+                <p>{{version}}</p>
             </div>
             <style type="text/css">
             @font-face {
@@ -440,6 +440,11 @@ Chouettes illus non-CC :
             }
 
             @media print {
+            /* NOTES: le rendu sur laptop VS dans GitHub Actions n'est pas le même :(
+            * la police Odachi a un rendu différent
+            * les polices Calibri Bold & Italic sont "interpolées" dans GitHub Actions, car non fournies
+            * les dés ne sont pas rendu à l'identique -> la police SegoeUISymbol semble intégrée lorsque le PDF est généré en local
+            */
             h1 { font-size: 7rem; margin: 1rem auto; }
             body { font-size: 1rem; }
             s { /* dices */ font-size: 2rem; line-height: .8; }
