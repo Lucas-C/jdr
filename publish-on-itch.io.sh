@@ -8,9 +8,11 @@ gamesOnItchIo[gdav]=ameres-victoires-glorieuses-defaites
 gamesOnItchIo[LesCouloirsDuTemps]=les-couloirs-du-temps
 gamesOnItchIo[LesNonMorts]=les-non-morts
 
-gitTagPrefix="${TRAVIS_TAG%-*}"
+GITHUB_REF=${1?-'git ref must be provided as argument'}
+gitTagPrefix="${GITHUB_REF%-*}"
+echo gitTagPrefix=$gitTagPrefix
 gameIdOnItchIo="${gamesOnItchIo[${gitTagPrefix}]:-}"
-version=${TRAVIS_TAG##*-}
+version=${GITHUB_REF##*-}
 if [ -z "$gameIdOnItchIo" ]; then
     echo "No mapping found for $gitTagPrefix - aborting"
     exit 0
@@ -29,6 +31,6 @@ chmod +x butler
 
 # Publish a folder that IS *exactly* the release build:
 mkdir -p itchio && rm -f itchio/*.*
-cp $TRAVIS_TAG*.pdf itchio/
+cp $GITHUB_REF*.pdf itchio/
 echo "Now publishing $gameIdOnItchIo @ $version on itch.io:"
 ./butler push itchio Lucas-C/$gameIdOnItchIo:pdf --userversion $version

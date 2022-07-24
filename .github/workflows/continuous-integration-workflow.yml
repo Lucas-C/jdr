@@ -191,7 +191,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ steps.tag.outputs.version }}
-          release_name: Release ${{ steps.tag.outputs.version }}
+          release_name: ${{ steps.tag.outputs.version }}
 
       - name: Upload ZIP
         if: contains(github.ref, '-v')
@@ -206,6 +206,6 @@ jobs:
 
       - name: Deploy on itch.io 🚀
         if: contains(github.ref, '-v')
-        run: ./publish-on-itch.io.sh
+        run: ./publish-on-itch.io.sh ${{ github.ref }}
         env:
           BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
