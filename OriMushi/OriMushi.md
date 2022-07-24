@@ -257,6 +257,10 @@ Chouettes illus non-CC :
 
 <style type="text/css">
 @font-face {
+  font-family: Calibri;
+  src: url('fonts/calibri.ttf');
+}
+@font-face {
   font-family: Odachi;
   src: url('fonts/Odachi.otf');
 }
@@ -331,6 +335,7 @@ s { /* dices */
 .page-break {
   page-break-after: always
 }
+
 @media print {
   h1 { font-size: 7rem; margin: 1rem auto; }
   body { font-size: 1rem; }
