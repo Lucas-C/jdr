@@ -19,7 +19,7 @@ Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener e
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 
-- Article de blog présentant le contexte : [Faire découvrir le JdR](https://chezsoi.org/lucas/blog/faire-decouvrir-le-jdr-et-fete-du-jeu.html)
+- Article de blog présentant la raison d'être d'Ori Mushi : [Faire découvrir le JdR](https://chezsoi.org/lucas/blog/faire-decouvrir-le-jdr-et-fete-du-jeu.html)
 :::
 
 **Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, princesse Mononoke, Naruto...
@@ -65,6 +65,11 @@ De plus :
   le joueur se voit proposer un choix cornélien entre deux options exclusives.
   Son personnage peut par exemple obtenir quelque chose au prix d'un sacrifice,
   ou bien se rabattre sur une réussite partielle.
+* actions conjointes : un personnage assistant un autre à réaliser une action lui octroie un dé bonus
+* actions en opposition (inclus les affrontement) : un jet est effectué par personnage, celui obtenant le plus de ⚅ l'emporte. En cas d'égalité, on considère les ⚄. Si l'égalité persiste, aucun personnage n'a l'avantage.
+
+L'inconvénient principal de ce système est que toutes les actions se valent en difficulté :
+le MJ ne spécifie aucun seuil. Il peut néanmoins indiquer que certains actions audacieuses requièrent d'obtenir au moins deux ⚄/⚅.
 
 <img class="footer-illus" alt="A Noh demon" src="dnm64g-4d906609-66bf-46f2-b761-b964d5ca4500.jpg">
 
@@ -93,8 +98,8 @@ Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemi
 quitte à faire une ellipse ou à indiquer qu'il s'agit de la prochaine étape de leur voyage,
 dont on leur a vanté une recette locale de poisson frit...
 
-## Évolution
-Si vous voulez poursuivre la partie au délà du scénario d'introduction,
+## Progression / expérience
+Si vous voulez poursuivre la partie au delà du scénario d'introduction,
 récompensez les joueurs au terme de chaque aventure terminée
 en leur accordant un nouveau Trait, qui peut être inventé (avec l'accord du meneur de jeu),
 ou un nouvel Objet Spécial.
@@ -329,6 +334,7 @@ s { /* dices */
 @media print {
   h1 { font-size: 7rem; margin: 1rem auto; }
   body { font-size: 1rem; }
+  s { /* dices */ font-size: 2rem; line-height: .8; }
   .cover { max-height: 20rem; margin: 1rem auto; }
   .footer-illus { max-height: 10rem; }
   .illus img { width: 45%; max-height: 38vh; }
