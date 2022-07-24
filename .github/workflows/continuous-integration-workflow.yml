@@ -9,6 +9,8 @@ on:  # cf. https://github.community/t/how-to-trigger-an-action-on-push-or-pull-r
   push:
     branches:
     - master
+    tags:
+    - '*'
   pull_request:
     branches:
     - master
