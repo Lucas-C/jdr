@@ -4,7 +4,7 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 
 - [Amères Victoires & Glorieuses Défaites](gdav)
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
-- [Ori Mushi](OriMushi)
+- [Ori Mushi](OriMushi) - [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf)
 - [Les Non-morts](LesNonMorts)
 - [Vengeance Fatale 4D](VengeanceFatale4D)
 - [La Tour](latour)
