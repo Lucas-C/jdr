@@ -5,6 +5,11 @@ https://www.deviantart.com/justsantiago/art/Fanart-74-Princess-Mononoke-71728603
 https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803 - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 https://www.deviantart.com/ignusdei/art/Sol-Invictus-Greatsword-716970312 CC BY-NC-SA
+https://www.deviantart.com/ubergank/art/Ronin-812555564 CC BY-NC-SA
+https://www.deviantart.com/ubergank/art/Kenku-814005528 CC BY-NC-SA
+https://www.deviantart.com/misspendleton/art/Deer-Girl-846893377 CC BY-NC
+https://www.deviantart.com/vachalenxeon/art/Chinese-creature-Dragon-eat-The-Sun-894746114 CC BY-NC-SA
+https://www.deviantart.com/amgr99/art/Elias-Ainsworth-The-Ancient-Magus-Bride-791617132 CC BY-SA
 -->
 
 # Ori Mushi
@@ -332,9 +337,7 @@ s { /* dices */
   right: 0;
   display: none; /* PDF only */
 }
-.page-break {
-  page-break-after: always
-}
+.page-break { page-break-after: always; }
 
 @media print {
 /* NOTES: le rendu sur laptop VS dans GitHub Actions n'est pas le même :(

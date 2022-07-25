@@ -14,6 +14,7 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
   * lien vers la traduction du jeu en français au bas de cette page
   * [10 scénarios](RunDieRepeat/RunDieRepeat-scenarios-FR.html)
+  * [3 scénarios](RunDieRepeat/RunDieRepeat-scenarios2-FR.html)
   * scénario [Les Couloirs du Temps](RunDieRepeat/LesCouloirsDuTemps.html)
   * scénario [Docteur Lestrange](RunDieRepeat/DocteurLestrange.html)
 
