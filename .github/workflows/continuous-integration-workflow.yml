@@ -122,7 +122,9 @@ jobs:
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html
             puppeteer print RunDieRepeat-scenarios-FR.html ../$GIT_TAG.pdf
           fi
-          node ../md2html.js RunDieRepeat-more-scenarios-FR.md > RunDieRepeat-more-scenarios-FR.html
+          node ../md2html.js RunDieRepeat-scenarios2-FR.md > RunDieRepeat-scenarios2-FR.html
+          puppeteer print RunDieRepeat-scenarios2-FR.html RunDieRepeat-scenarios2-FR.pdf
+          node ../md2html.js RunDieRepeat-scenarios3-FR.md > RunDieRepeat-scenarios3-FR.html
           node ../md2html.js DocteurLestrange.md > DocteurLestrange.html
           if [[ $GIT_TAG =~ ^DocteurLestrange- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/DocteurLestrange-/}/" DocteurLestrange.html
