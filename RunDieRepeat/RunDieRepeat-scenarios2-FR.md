@@ -38,7 +38,7 @@ Ces scénarios sont publiés sous licence <a rel="license" href="http://creative
 :::: page
 <img class="timer" alt="30min timer" src="timer-6min-par-joueur.svg" title="30min">
 
-<img id="big-parasite" src="UBD-Corpse-Mite-by-Larvae801.png">
+<img id="big-parasite" alt="" src="UBD-Corpse-Mite-by-Larvae801.png">
 <!-- Alt: https://freesvg.org/spider-monster -->
 
 ## Parasite
@@ -134,7 +134,7 @@ raison de son départ précipité...
 :::: page
 <img class="timer" alt="8min par joueur" src="timer-8min-par-joueur.svg" title="8min par joueur">
 
-<img id="pirate-skeleton" src="blondbraid-Pirate-Skeleton.png">
+<img id="pirate-skeleton" alt="" src="blondbraid-Pirate-Skeleton.png">
 
 ## Pirates, vaudou et île au trésor
 > 🏴‍☠️ Capitaine pirate redouté, vous avez mis la main sur la carte au trésor de Robinson Crusoé,
