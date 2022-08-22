@@ -258,3 +258,7 @@ homme au masque de fer
 
 combats épiques dans cathédrales / bâtiments religieux: harpons géants, batiments qui s'écroulent...
 combat sur falaise de calcaire
+
+<!--
+MMM : Ceux-ci ont d’abord été appelés meufs / mecs merveilleux (mi-2019), également mecs / meufs merveilleux (attesté mi-2020) et enfin Mixed Marvelous Minds (début 2021). Ce sigle indique que la personne en question pratique une sexualité bienveillante, sans jugement, dans le respect du désir des partenaires et à la recherche du plaisir.
+-->
