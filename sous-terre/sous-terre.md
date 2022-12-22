@@ -9,12 +9,14 @@ Principe de la "table ouverte" ? -> https://ptgptb.fr/jouez-en-table-ouverte
 + https://www.cestpasdujdr.fr/les-marches-de-louest/
 
 # RAF: définir MVP prochaine partie
-- fiche de PJ imprimable (talents imposés ?)
+- fiche de PJ imprimable
 - règles PNJs finies
 - règle scénario finies
 - règles de navigation dans les tunnels : PAS découverte des lieux au hasard ? subcarto en connaissent au moins 1 ou 2 de nom ?
 - gimmicks/manie : juron ; bricoler / activer reliques ; explorer passages secrets & lieux inaccessibles
   => lorsqu'appliqué, n'importe quel joueur autour de la table peut lancer 1d6 -> si impair +1 jeton bravoure pour le PJ
+- la Nuit tombe au bout d'1h + 1d4 quart-d'heures
+  => l'Agartha devient alors BEAUCOUP plus dangereuse
 - mécanique de jeu pour Rats & Lumière
 
 # RAF: mise en forme
@@ -39,7 +41,7 @@ Ceci est un jeu de rôle d'aventures et d'exploration avec un meneur et 3 joueur
 L'histoire progresse semi-aléatoirement,
 et l'accent est mis sur des énigmes-puzzles et l'inventivité des PJs pour résoudre les obstacles.
 
-Le jeu est conçu pour des sessions courtes mais également pour être éminément rejouable,
+Le jeu est conçu pour des sessions courtes mais également pour être éminemment rejouable,
 chaque partie permettant aux joueurs de connaître un peu mieux l'Agartha, ses pièges et ses trésors.
 
 Il nécessite 2 dés à 6 faces et quelques pions quelconques,
@@ -58,13 +60,10 @@ Certaines URLs génrées sont incompatibles avec celles produites par md2html, e
 - [Scénario](#scenario)
     * [PNJs](#pnjs)
     * [Objectif des PJs](#objectif-des-pjs)
-    * [Rebondissement majeur](#rebondissement-majeur)
-    * [Fin](#fin)
 - [Début de partie](#debut-de-partie)
     * [Le sub-cartographe](#le-sub-cartographe)
     * [L'archéo-magasinier](#larcheo-magasinier)
     * [Le tempo-magus](#le-tempo-magus)
-    * [Liste de Talents](#liste-de-talents)
 - [Système](#systeme)
 - [Exploration](#exploration)
     * [Tunnels](#tunnels)
@@ -137,26 +136,18 @@ surface hors de vue -> puits de lumière
   * de progression dans les tunnels
   * d'exploration de lieux notables, dans des salles souterraines
 
-Chaque jet de dés des PJs active la table narrative du MJ.
-
 #### Règle d'or
 ::: rule-focus
 Lorsque le résultat d'un jet de dé dans une table
-ne plait pas au MJ, ne pas hésiter le relancer,
+ne plaît pas au MJ, ne pas hésiter le relancer,
 ou à directement choisir un autre résultat !
 :::
 
 ## Scénario
-Le « fil rouge » d'une partie de **Sous terre** est toujours définit aléatoirement,
-en combinant :
-1. des PNJs pré-générés aléatoirement
-2. un objectif principal des PJs
-4. un rebondissement majeur
-4. une fin
-
-Suivez les instructions des sections correspondantes ci-dessous,
-et reportez sur une feuille dédiée les éléments de votre scénario.
-
+A intervalles irréguliers espacés de plusieurs semaines / mois,
+des personnes (les PJs) se retrouvent "par hasard" à l'entrée de l'Agartha,
+simultanément (à 10min près), juste avant que l'Agartha ne devienne accessible.
+Ce phénomène reste inexpliqué
 
 ### PNJs
 
@@ -248,6 +239,9 @@ ou simplement qu'il les chasse colériquement, ses paroles et actions suffiront 
 - **Connaissance de l'environnement** : 1 _move_ qu'il connait et quel les PJs pourront apprendre en l'observant (ex: gousses de pollen vert pour ralentir chutes)
 
 ### Objectif des PJs
+=> très concret, dépend de l'archétype de PJ choisi
+=> l'atteindre signifie débloquer un nouvel archétype de PJ
+
 La nuit dernière, Damian, leur chef-sorcier, est mort de blessures infligés lors d'une attaque de Skavens.
 Avant de rendre son dernier souffle, son dernier commandement fut de vous envoyer dans l'Agartha pour une mission :
 ::: dice-list
@@ -264,17 +258,10 @@ Avant de rendre son dernier souffle, son dernier commandement fut de vous envoye
 \+ définir système de progression :
 combien de lieux avant d'atteindre objectif ?
 
-### Rebondissement majeur
-
-
-### Fin
--> chacun cite sa scène / tirade préférée ?
-
 
 ##  Début de partie
 En début de partie, les joueurs se répartissent les 3 personnages,
-en complétant les questions sur le feuille & en suivant les instructions relatives à leur capacité spéciale,
-puis choisissent 4 talents dans la liste ci-dessous.
+en complétant les questions sur le feuille & en suivant les instructions relatives à leur capacité spéciale.
 
 ::: character
 ### Le sub-cartographe
@@ -289,18 +276,10 @@ puis choisissent 4 talents dans la liste ci-dessous.
 #### Autre question personnelle ?
 <hr>
 
-#### Talents
-<hr> <hr> <hr> <hr> <hr> <hr> <hr>
-
 #### Règles spéciales
 gère la carte + sait comment réagir aux dangers
 
 +1 Talent : s'orienter
-7-9 -> 1 au choix:
-10+ -> 2 au choix:
-* progression rapide
-* rajouter tunnel entre 2 lieux distants de max 2 tunnels
-* choix type de tunnel
 
 \+ soigneur ?
 :::
@@ -317,9 +296,6 @@ gère la carte + sait comment réagir aux dangers
 
 #### Autre question personnelle ?
 <hr>
-
-#### Talents
-<hr> <hr> <hr> <hr> <hr> <hr> <hr>
 
 #### Règles spéciales
 gère inventaire / réparti équipement entre joueurs / comprend reliques
@@ -352,9 +328,6 @@ Seul à savoir lire & écrire
 #### Autre question personnelle ?
 <hr>
 
-#### Talents
-<hr> <hr> <hr> <hr> <hr> <hr> <hr>
-
 #### Règles spéciales
 la cordée, précieuse corde tressée héritée de son maître
 
@@ -368,38 +341,16 @@ un mot par pouvoir
   en restant sur place -> paradoxe
 :::
 
-### Liste de Talents
-- observer
-- bricoler
-- se cacher
-- escalader
-- combattre
-- intimider
-- soigner
-- pister
-- sprinter / parkour
-- être fort
-- tromper
-
 
 ## Système
-:::rule-focus
-2d6 +1/Talent +1/Équipement
-:::
-Lorsqu'un PJ tente de réaliser une action risquée,
-le joueur annonce quels Talents et équipements vont l'aider dans cette situation.
-Il lance ensuite deux dés à six faces auquel il additionne le nombre de ces compétences & objets.
-Le MJ peut refuser certains Talents / équipements s'il considère qu'ils n'aideront pas beaucoup le Pj dans ce contexte.
+AUCUN jet !
 
-Le MJ interprête le résultat du jet ainsi, et décrit la scène qui s'ensuit :
-* **6 ou moins** : c'est un échec !
-* de **7 à 9**, le MJ choisit :
-  + **soit** d'interprêter directement le résultat comme une réussite partielle, ou entrainant des complication : « oui, mais... »
-  + **soit** de proposer un choix au PJ → l'action ne sera réussie que s'il accepte un « coût » définit par le MJ :
-  faire du bruit, casser quelque chose, être blessé...
-* **10 ou plus** : c'est une réussite parfaite !
+* il FAUT connaître le point faible des créatures pour les battre
+* il FAUT comprendre les mécanismes de l'Agartha pour les exploiter et survivre
 
-**ALTERNATIVE COUILLUE** (idée post partie de La Maison de la Sorcière) : AUCUN jet, il FAUT connaître le point faible de monstres pour les battre
+Les jets de dés interviennent en début de partie, pour déterminer l'équipement des PJs,
+ainsi que dans des tables aléatoires déterminant ce qu'il se passe dans l'Agartha,
+mais PAS pour résoudre les actions des PJs/PNJs.
 
 
 ## Exploration
@@ -636,7 +587,7 @@ Visible mais trop tard : (pair / impair) fourmi géante / Skaven digérée
 
 ::: narrative-axe
 #### Menace Skaven
-1 des PJs peut faire 1 jet pour les repérer
+Table de rencontre aléatoire :
 [ ] juste des rats
 [ ] éclaireur Skaven -> même type de rencontre tant que PJs pas repérés, ou éclaireur éliminé avant de prévenir sa meute
 Tactique: charge / reste à distance et tire à l'arc / flare
@@ -651,8 +602,6 @@ Tactique: charge / reste à distance et tire à l'arc / flare
 Le tunnel se termine par un dénivellé brutal (impair : vers le haut / pair : vers le bas) de plusieurs dizaines de mètres
 
 **Pistes**:
-- escalader : prévenez le groupe que tout le monde doit réussir sont jet,
-et qu'il faudra en faie un second à mi-hauteur lors d'un passage particulièrement difficile
 - employer ...
 :::
 
@@ -858,11 +807,11 @@ effets de [désamorçage & contrepied](https://homoludis.wordpress.com/2016/12/1
 Au final dans **Sous terre**, pour qu'un PJ meure, voici ce qui doit se passer :
 - le MJ indique aux PJs un danger
 - un PJ choisit de prendre le risque de s'y exposer de par ses actions
-- cela entraine un jet de dés, qui échoue
+- cela entraîne un jet de dés, qui échoue **-> TODO: pour système sans jet** ?
 - le PJ est en **mauvaise posture**, la pression monte
 - le MJ fait comprendre aux joueurs qu'il va falloir réagir vite,
-mais en parallèlle découpe l'action plus finement en micro-instants, pour donner le temps aux joueurs de réfléchir à leurs actions
-- un ou plusieurs autres jets sont effectués par les PJs pour tenter de résoudre la situation, mais tous échouent.
+mais en parallèle découpe l'action plus finement en micro-instants, pour donner le temps aux joueurs de réfléchir à leurs actions
+- un ou plusieurs autres jets sont effectués par les PJs pour tenter de résoudre la situation, mais tous échouent. **-> TODO: pour système sans jet** ?
 Ou peut-être la situation s'améliore telle un temps pour finalement redevenir critique.
 - le MJ indique à la table que le PJ est en situation de **mort imminente**. Peut-être qu'il évite une première fois la mort _in extremis_.
 Il ne lui reste plus qu'**une dernière action posible**.
@@ -873,14 +822,14 @@ utiliser ses derniers jetons de bravoure... Tout ceci contribuant à lui donner 
 - enfin, le MJ peut employer un ressort narratif : changement de comportement d'un ennemi, intervention d'un PNJ,
 bouleversement providentiel de l'environnement immédiat...
 
-Si toutefois ni PJ ni MJ ne peuvent ou ne veulent utiliser ces options, et que le dernier jet de dé du PJ est à nouveau un échec,
-le PJ est alors **incapacité**. Peut-être est-il mortellement blessé, ou simplement assomé,
+Si toutefois ni PJ ni MJ ne peuvent ou ne veulent utiliser ces options, et que le dernier jet de dé du PJ est à nouveau un échec, **-> TODO: pour système sans jet** ?
+le PJ est alors **incapacité**. Peut-être est-il mortellement blessé, ou simplement assommé,
 empoisonné, noyé, ou un autre sort peu enviable. Le joueur qui l'incarnait ne peut plus le contrôler pour le moment,
 mais dans l'univers de **Sous terre**, il peut toujours exister des moyens de le sauver...
 
 Quant aux blessures, elles ne sont pas gérées par les règles.
 Toute liberté est donnée au MJ et aux joueurs pour les décrire et les employer à des fins narratives,
-sans que cela n'entraine aucun malus aux jets.
+sans que cela n’entraîne aucun malus aux jets.
 
 ### Comment gérer les paradoxes temporels ?
 Pour rappel, les règles du retour dans le passé du tempo-magus sont :
