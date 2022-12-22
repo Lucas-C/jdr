@@ -345,6 +345,7 @@ un second titan s'y est engouffré !
 Si au contraire les joueuses sont lentes, ne faites pas intervenir les rapaces.
 ### Rejouer le scénario
 Mode _difficile_ : la joueuse n'a plus de glaive télescopique, uniquement une épée et un arc.
+Colosse alternatif : [The Ambulatory Temple](https://metalsnail.itch.io/the-ambulatory-temple)
 :::
 ---
 ::: page

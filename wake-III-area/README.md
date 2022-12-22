@@ -16,6 +16,12 @@ French driver loaded.
 * https://en.wikipedia.org/wiki/Operation_Bayshield & quake-III-based machinima
 
 ## Maps
+* https://2minutetabletop.com/product/cyberpunk-street-assets/
+    + [Diver-Class Scout Ship](https://2minutetabletop.com/product/diver-class-scout-ship/)
+    + [Sci-Fi Map Assets](https://2minutetabletop.com/product/sci-fi-map-assets/)
+    + [Sewer Hideout](https://2minutetabletop.com/product/sewer-hideout/)
+    + [Furniture Map Assets](https://2minutetabletop.com/product/furniture-map-assets/)
+* Trilemma OPD CC-BY-NC : http://blog.trilemma.com/2016/05/there-is-no-god-but-dissolution.html
 * [Downloable CC levels @ sketchfab.com](https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=7c23a1ba438d4306920229c12afcb5f9&q=level&type=models)
     + [Dungeon Game Level Challenge by Karthik Naidu](https://sketchfab.com/3d-models/dungeon-game-level-challenge-18a725f03e06489e92ea15d9d8f58820) - CC-BY
     + [Low Poly Game Level Design - GameLevelChallenge by Karthik Naidu](https://sketchfab.com/3d-models/low-poly-game-level-design-gamelevelchallenge-377ff9139df44b7fa436f96aa5a470f5) - CC-BY
