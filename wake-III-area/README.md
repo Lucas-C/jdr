@@ -1,3 +1,12 @@
+<!-- ToDo
+* Design & print cards:
+    + item card: speed, epee, blaster, railgun...
+    + skin card: pour joueurs & bots
+    + IA cards
+    + devlog cards (avec icones "pause" & "no-music")
+    + interaction E/hand card - https://game-icons.net/1x1/lorc/hand.html
+* Designer tuto dans la tour : interagir / sauter / taper des ennemis / casser des trucs
+-->
 ## Notes from Game Engine Black Book
 > Invincibility mode in Doom is IDDQD on a qwerty keyboard but IDDAD on an azerty keyboard without the
 French driver loaded.
