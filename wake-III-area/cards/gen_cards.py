@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# TODO: make this an example in fpdf2 tutorial/
 from typing import NamedTuple
 
 from fpdf import FPDF
@@ -78,33 +79,34 @@ pdf.add_font(fname="../fonts/Outage.ttf")
 pdf.set_margins(10, 15)
 pdf.set_draw_color(0)
 cards = [
-    # Skins:
-    Card(title="Argos", img="../avatars/bodies/argos_argos2.png", img_shrink=True, white_bg=True),
-    Card(title="Artemis", img="../avatars/bodies/artemis.png", img_shrink=True, white_bg=True),
-    Card(title="Astartes", img="../avatars/bodies/astartes_dead2.png", img_shrink=True, white_bg=True),
-    Card(title="Azrael", img="../avatars/bodies/azrael_detox.png", img_shrink=True, white_bg=True),
-    Card(title="Sonata", img="../avatars/bodies/crakho_sandra.png", img_shrink=True, white_bg=True),
-    Card(title="Jarek", img="../avatars/bodies/bitterman_jarek.png", img_shrink=True, white_bg=True),
-    Card(title="Cruentus", img="../avatars/bodies/cruentus_pahd.png", img_shrink=True, white_bg=True),
-    Card(title="Dragonito", img="../avatars/bodies/dragonito_ignatius.png", img_shrink=True, white_bg=True),
-    Card(title="Persona", img="../avatars/bodies/pms.png", img_shrink=True, white_bg=True),
-    # Generic:
-    Card(title="Maitrise de la Map", img="../illustrations/tis1451-doom-slayer-cc-by-sa.jpg", desc="Vous contrôlez ce niveau"),
-    Card(title="Interagir", img="./interactivity-icon-cursor.png", img_shrink=True, white_bg=True),
-        # TODO: use/hand/E
-    # Power-ups:
-    Card(title="Haste", img="./haste.webp", desc="Vous vous déplacez\n2x plus vite"),
-    # Weapons:
-    Card(title="Epee", img="../weapons/SWORD-from-wandering_by_fernand0fc_cc-by.png", desc="Dégats: 1", img_shrink=True, white_bg=True),
-    Card(title="Lightgun", img="./gauss_rifle_by_fernand0fc_cc-by-nc.png", desc="Dégats: 2", img_shrink=True, white_bg=True),
-    Card(title="Railgun", img="./lazer_rifle_by_fernand0fc_cc-by.png", desc="Dégats: 6", img_shrink=True, white_bg=True),
-    Card(title="Lance-roquette", img="./10_weapon-rocketlauncher-back.webp", img_shrink=True, white_bg=True),
+    # Skins: (it would be funnier if zeroes had strikes in the font)
+    Card(title="Arg0s", img="../avatars/bodies/argos_argos2.png", img_shrink=True, white_bg=True),
+    Card(title="Art3mis", img="../avatars/bodies/artemis.png", img_shrink=True, white_bg=True),
+    Card(title="As7ar7es", img="../avatars/bodies/astartes_dead2.png", img_shrink=True, white_bg=True),
+    Card(title="AzrA3l", img="../avatars/bodies/azrael_detox.png", img_shrink=True, white_bg=True),
+    Card(title="S0n1ata", img="../avatars/bodies/crakho_sandra.png", img_shrink=True, white_bg=True),
+    Card(title="Jar3k", img="../avatars/bodies/bitterman_jarek.png", img_shrink=True, white_bg=True),
+    Card(title="Cru3ntu5", img="../avatars/bodies/cruentus_pahd.png", img_shrink=True, white_bg=True),
+    Card(title="Drag0n1t0", img="../avatars/bodies/dragonito_ignatius.png", img_shrink=True, white_bg=True),
+    Card(title="P3rs0na", img="../avatars/bodies/pms.png", img_shrink=True, white_bg=True),
+    # Items:
     Card(title="Sac a dos", img="./backpack-cc0.webp", img_shrink=True, white_bg=True),
+    # Weapons:
+    Card(title="Epee", img="../weapons/SWORD-from-wandering_by_fernand0fc_cc-by.png", desc="\nDégats: -1 PV", img_shrink=True, white_bg=True),
+    Card(title="Lightgun", img="./gauss_rifle_by_fernand0fc_cc-by-nc.png", desc="Dégats: -2 PV", img_shrink=True, white_bg=True),
+    Card(title="Lance-roquette", img="./10_weapon-rocketlauncher-back.webp", desc="Dégats: -3 PV", img_shrink=True, white_bg=True),
+    Card(title="Railgun", img="./lazer_rifle_by_fernand0fc_cc-by.png", desc="Dégats: -6 PV", img_shrink=True, white_bg=True),
+        # TODO: atomiseur : détruit tout dans une zone
     # Bots:
-    Card(title="Double Chainsaw", img="./Robot_by_c1rruscl0ud_cc-by-sa.jpg", desc="* attaque le PJ le + proche\n* si équidistants, le + blessé\n* si sa cible fuit, la poursuit"),
-    Card(title="Strogg", img="../illustrations/Strogg_by_tarakanovich-cc-by.jpg", desc="* arpente le niveau en boucle\n* attaque à distance\n* pas capable de remonter l'échelle"),
+    Card(title="Double Chainsaw", img="./Robot_by_c1rruscl0ud_cc-by-sa.jpg", desc="· mort, ne drop pas son arme"),
+    Card(title="Strogg", img="../illustrations/Strogg_by_tarakanovich-cc-by.jpg", desc="· armé d'un lance-roquette\n· ne peut pas monter l'échelle"),
     Card(title="Numerian", img="./beeple01-cc-by_whodrewthis-Numerian-Scav-Sniper-cc-by.jpg"),
     Card(title="Andro", img="./beeple02-cc-by_whodrewthis-Robot-Security-cc-by.jpg"),
+    # Generic:
+    Card(title="Maitrise de la Map", img="../illustrations/tis1451-doom-slayer-cc-by-sa.jpg", desc="Vous dominez les bots\nsur cette map"),
+    Card(title="Interagir", img="./interactivity-icon-cursor.png", desc="\nAppuyez sur [E]", img_shrink=True, white_bg=True),
+    # Power-ups:
+    Card(title="Haste", img="./haste.webp", desc="Vous vous déplacez\n2x plus vite"),
     # Devlogs:
 ]
 render_cards(pdf, cards)
