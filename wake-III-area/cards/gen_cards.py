@@ -28,17 +28,12 @@ def render_card(pdf, card, i, j, gutter=0, border=3):
     h = CARD_HEIGHT - 2*border
     if card.white_bg:
         render_white_zone(pdf, x=img_x, y=img_y, w=w, h=h)
+    keep_aspect_ratio = False
     if card.img_shrink:
-        img_info = pdf.preload_image(card.img)[2]
-        ratio = img_info["w"] / img_info["h"]
         h = 2/3*CARD_HEIGHT
-        if h*ratio < w:
-            w = h*ratio
-        else:  # => too wide, limiting width:
-            h = w/ratio
-        img_x = x + (CARD_WIDTH - w)/2
         img_y += CARD_HEIGHT/6
-    pdf.image(card.img, x=img_x, y=img_y, w=w, h=h)
+        keep_aspect_ratio = True
+    pdf.image(card.img, x=img_x, y=img_y, w=w, h=h, keep_aspect_ratio=keep_aspect_ratio)
     # Render title:
     pdf.set_font("Outage", size=12)
     render_text_zone(pdf, card.title, x=x+2*border, y=y+2*border, h=6, border=border)
@@ -89,25 +84,34 @@ cards = [
     Card(title="Cru3ntu5", img="../avatars/bodies/cruentus_pahd.png", img_shrink=True, white_bg=True),
     Card(title="Drag0n1t0", img="../avatars/bodies/dragonito_ignatius.png", img_shrink=True, white_bg=True),
     Card(title="P3rs0na", img="../avatars/bodies/pms.png", img_shrink=True, white_bg=True),
-    # Items:
-    Card(title="Sac a dos", img="./backpack-cc0.webp", img_shrink=True, white_bg=True),
+    # Power-ups:
+    Card(title="Vitesse", img="./haste.webp"),  #, desc="Vous vous déplacez\n2x plus vite"),
+    Card(title="Invisibilite", img="./Hysterical-Invisibility.webp"),
+    Card(title="Regen", img="./il_1588xN.2344628902_nacd.webp", white_bg=True),
+    Card(title="Rubis", img="./rubis.webp", img_shrink=True, white_bg=True),
     # Weapons:
-    Card(title="Epee", img="../weapons/SWORD-from-wandering_by_fernand0fc_cc-by.png", desc="\nDégats: -1 PV", img_shrink=True, white_bg=True),
-    Card(title="Lightgun", img="./gauss_rifle_by_fernand0fc_cc-by-nc.png", desc="Dégats: -2 PV", img_shrink=True, white_bg=True),
-    Card(title="Lance-roquette", img="./10_weapon-rocketlauncher-back.webp", desc="Dégats: -3 PV", img_shrink=True, white_bg=True),
-    Card(title="Railgun", img="./lazer_rifle_by_fernand0fc_cc-by.png", desc="Dégats: -6 PV", img_shrink=True, white_bg=True),
-        # TODO: atomiseur : détruit tout dans une zone
+    Card(title="Javelot", img="./javelin.jpg", img_shrink=True, white_bg=True),
+    Card(title="Epee", img="../weapons/SWORD-from-wandering_by_fernand0fc_cc-by.png", img_shrink=True, white_bg=True),
+    Card(title="Lightgun", img="./gauss_rifle_by_fernand0fc_cc-by-nc.png", img_shrink=True, white_bg=True),
+    Card(title="Lance-roquette", img="./10_weapon-rocketlauncher-back.webp", img_shrink=True, white_bg=True),
+    Card(title="Railgun", img="./lazer_rifle_by_fernand0fc_cc-by.png", img_shrink=True, white_bg=True),
+    Card(title="Machinegun", img="./black-and-white-illustration-of-an-american-machine-gun-vector.jpg", img_shrink=True, white_bg=True),
+    Card(title="Lance-flammes", img="./istockphoto-892150606-612x612.jpg"),
+    Card(title="Redeemer", img="./elijah-mcneal-5d2c77b857318.png", img_shrink=True, white_bg=True),
     # Bots:
-    Card(title="Double Chainsaw", img="./Robot_by_c1rruscl0ud_cc-by-sa.jpg", desc="· mort, ne drop pas son arme"),
-    Card(title="Strogg", img="../illustrations/Strogg_by_tarakanovich-cc-by.jpg", desc="· armé d'un lance-roquette\n· ne peut pas monter l'échelle"),
+    Card(title="Double Chainsaw", img="./Robot_by_c1rruscl0ud_cc-by-sa.jpg"),
+    Card(title="Strogg", img="../illustrations/Strogg_by_tarakanovich-cc-by.jpg"),
     Card(title="Numerian", img="./beeple01-cc-by_whodrewthis-Numerian-Scav-Sniper-cc-by.jpg"),
     Card(title="Andro", img="./beeple02-cc-by_whodrewthis-Robot-Security-cc-by.jpg"),
     # Generic:
     Card(title="Maitrise de la Map", img="../illustrations/tis1451-doom-slayer-cc-by-sa.jpg", desc="Vous dominez les bots\nsur cette map"),
     Card(title="Interagir", img="./interactivity-icon-cursor.png", desc="\nAppuyez sur [E]", img_shrink=True, white_bg=True),
-    # Power-ups:
-    Card(title="Haste", img="./haste.webp", desc="Vous vous déplacez\n2x plus vite"),
+    # Mutations:
+    Card(title="Sac a dos", img="./backpack-cc0.webp", img_shrink=True, white_bg=True),
+    Card(title="Cyber Ghost", img="./cc0-dataface03.jpg", desc="1st death Out Of Bond"),
+    Card(title="DoubleJump", img="./double-jump.png", white_bg=True),
     # Devlogs:
+    Card(title="Dev log", img="./log-file.jpg", img_shrink=True, white_bg=True),
 ]
 render_cards(pdf, cards)
 pdf.output("wakeIII-cards.pdf")
