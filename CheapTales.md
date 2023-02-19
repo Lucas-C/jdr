@@ -1,8 +1,12 @@
 https://legrumph.org/Terrier/public/jeux-complets/cheaptales
 
+* PJs tous féminins ?
 * créer des prétirés avec des liens entre eux, façon Lady BlackBird ?
 * employer le sytème de marelles de Thomas Munier ?
-* scénarios Arkeos : https://www.scenariotheque.org/Document/info_jeu.php?f_id_jeu=213
+* scénarios Arkeos :
+    + [Mythique et antique orichalque](https://www.scenariotheque.org/Document/info_doc.php?id_doc=3649)
+    + [Des immortels au banquet](http://couroberon.free.fr/scenarii/concours/Concours11/ImmortelsBanquet.pdf)
+    + [Ni Dieu, ni maître, Démon!](https://www.scenariotheque.org/Document/info_doc.php?id_doc=5700)
 
 # Trucs qu'il me semble mieux valoir laisser de côté
 - les atouts

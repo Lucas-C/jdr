@@ -1,3 +1,7 @@
+<!-- Idées :
+* mutation GHOST: apparence change + peut traverser TOUTES les portes / grilles / cloisons séparant 2 zones
+* règles / listes des slashs-commandes
+-->
 ## Notes from Game Engine Black Book
 > Invincibility mode in Doom is IDDQD on a qwerty keyboard but IDDAD on an azerty keyboard without the
 French driver loaded.
