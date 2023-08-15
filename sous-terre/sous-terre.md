@@ -878,7 +878,7 @@ la série "The Lost Room" pour les reliques, ces articles de Dark Roasted Blend 
 [Underground Cities and Bunkers: Living Down Below](http://www.darkroastedblend.com/2009/05/underground-cities-and-bunkers-living.html),
 [Abandoned Tunnels & Vast Underground Spaces](http://www.darkroastedblend.com/2007/07/abandoned-tunnels.html)
 
-**Musique :** [playlist Youtube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kauLucuvv2p4ambSv_qkpyU)
+**Musique :** [playlist Youtube dédiée](https://www.youtube.com/playlist?list=PLLgE-ga3W_kauLucuvv2p4ambSv_qkpyU)
 * Zack Hemsey - "The Way (Instrumental)"
 * Fever Ray - Keep the Streets Empty For Me
 * Wardruna - Völuspá
