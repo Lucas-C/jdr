@@ -58,7 +58,7 @@ et tous les autre embarquent pour leur destination finale vers la damnation.
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
 
-<style type="text/css">
+<style>
 body {
   max-width: 46rem;
   margin: 0 auto;

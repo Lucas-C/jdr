@@ -16,6 +16,11 @@ https://legrumph.org/Terrier/public/jeux-complets/cheaptales
   le seuil de difficulté de +1 à +5, ça leur évite des calculs
 - "En combat, la difficulté à appliquer à un jet d’attaque est généralement égale au score d’Éveil d’un personnage ou à la moitié de la puissance d’un figurant."
 
+# Soundtrack
+
+* https://www.youtube.com/playlist?list=PLOP3Ut3_fTIbqapj8RyPPcbLe06An84ed
+* https://open.spotify.com/playlist/5sLBMQp5v10rcjLcd9YyWO?si=er30mRUZRfy9UIZiIXmtkA
+
 # Build rules recap PDF
 
     $opt/pdfrw/examples/subset.py Chibi-CheapTales2021.pdf 4 7 36-37 && mv subset*.pdf Chibi-CheapTales-Rulesrecap.pdf
