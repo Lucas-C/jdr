@@ -20,7 +20,7 @@ from xreload import xreload
 VERTI_MARGIN = 15
 HORIZ_MARGIN = 28.5
 CELL_SIZE = 60
-LINE_HEIGHT = 5
+LINE_HEIGHT = 5.25
 
 
 def gen_pdf():
@@ -80,16 +80,18 @@ Le sang-froid de Brad t'impressionne et te fait flipper à la fois.
 """)
     table.render()
     render_memo(pdf)
-    pdf.output("Terminatrice-TuilesBehindTheDoors.pdf")
+    pdf.output("Terminatrice-BehindTheDoors.pdf")
     print("PDF written")
 
 def render_cell_front(pdf, row, name, desc, i=0, j=0):
-    pdf.set_font(size=24, style="")
-    row.cell(f"**{name}**", align="C")
-    pdf.set_font(size=14, style="I")
+    row.cell(img="Terminatrice-BehindTheDoors.png")
     prev_x, prev_y = pdf.x, pdf.y
-    pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .666) * CELL_SIZE)
-    pdf.cell(h=LINE_HEIGHT, txt=desc, align="X")
+    pdf.set_font(size=22, style="")
+    pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .25) * CELL_SIZE)
+    pdf.cell(h=LINE_HEIGHT, align="X", markdown=True, txt=f"**{name}**")
+    pdf.set_font(size=13, style="I")
+    pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .7) * CELL_SIZE)
+    pdf.cell(h=LINE_HEIGHT, align="X", txt=desc)
     pdf.set_xy(prev_x, prev_y)
 
 def render_cell_back(pdf, row, text):
@@ -97,17 +99,15 @@ def render_cell_back(pdf, row, text):
     row.cell("\n" + text, align="C")
 
 def render_memo(pdf):
-    pdf.image("logo-sombre.png", x=238, y=138, w=30)
-    pdf.set_xy(153, 144)
+    pdf.set_xy(153, 140)
     pdf.set_font(size=9)
     pdf.multi_cell(w=0, h=LINE_HEIGHT, markdown=True, txt="""\
-* Tous sont de score 3, armés, et savent tirer
+* Tous les personnages sont armés et savent tirer
+* Mickey les a tous sauvé : il a réussi à contacter l'armée puis à les mener ici. À **4 joueurs**, on l'enlève : les zombies l'ont eu juste avant l'ascenseur
+* Chris & Dany peuvent être des personnages féminins
 * Dès qu'un PJ en **braque** un autre, le jeu **se fige** : chaque joueur est libre d'annoncer s'il en cible un autre, puis 1-2-3 et on lance les dés
 * **RICOCHETS** : en cas de tir raté, les dégâts sont appliqués au tour suivant, si le tireur est vivant, en les lisant sur la face inverse du dé
 * Il est possible de **détourner** un flingue vers une autre cible, en faisant une réussite supérieure au jet du tireur
-* à **4 joueurs**, on retire Mickey : il a été rattrapé juste avant l'ascenseur
-* Mickey les a tous sauvé : il a réussi à contacter l'armée puis à les mener ici. À **4 joueurs**, on l'enlève : les zombies l'ont eu juste avant l'ascenseur
-* Chris & Dany peuvent être des personnages féminins
 """)
 
 
