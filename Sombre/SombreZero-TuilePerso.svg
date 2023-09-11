@@ -61,48 +61,48 @@
 
     <!-- Name placeholder: -->
     <text transform="matrix(0,1,1,0,81.48,76.6705)"
-          style="font-weight:normal;font-size:10.02px;font-family:'Times New Roman'">
+          style="font-size:10.02px;font-family:'Times New Roman'">
       <tspan x="0 5.04006 10.02 14.99994 20.040001 25.019939 29.99988 35.03994 40.019878 44.999821 50.039879 55.019821 59.99976 65.039818 70.01976 74.999702 80.039757 85.019699 89.999641" y="0">___________________</tspan>
     </text>
     <!-- Name label: -->
     <text transform="matrix(0,1,0.7964637,0,89.94,76.311267)"
-       style="font-weight:normal;font-size:7.5333px;font-family:'Century Gothic'">
+       style="font-size:7.5333px;font-family:'Century Gothic'">
        <tspan x="0 4.9810181 10.262614" y="0">nom</tspan>
     </text>
 
     <!-- Tagline placeholder: -->
     <text transform="matrix(0,1,1,0,100.38,76.6705)"
-       style="font-weight:normal;font-size:10.02px;font-family:'Times New Roman'">
+       style="font-size:10.02px;font-family:'Times New Roman'">
        <tspan x="0 5.04006 10.02 14.99994 20.040001 25.019939 29.99988 35.03994 40.019878 44.999821 50.039879 55.019821 59.99976 65.039818 70.01976 74.999702 80.039757 85.019699 89.999641" y="0">___________________</tspan>
     </text>
     <!-- Tagline label: -->
     <text transform="matrix(0,1,0.7964637,0,108.78,76.311267)"
-       style="font-weight:normal;font-size:7.5333px;font-family:'Century Gothic'">
+       style="font-size:7.5333px;font-family:'Century Gothic'">
        <tspan x="0 2.9319603 8.5111227 13.912498 15.83123 17.716063 22.689547 28.029903" y="0">tagline </tspan>
     </text>
 
     <!-- Weapon placeholder: -->
     <text transform="matrix(0,1,1,0,161.76,76.6705)"
-       style="font-weight:normal;font-size:10.02px;font-family:'Times New Roman'">
+       style="font-size:10.02px;font-family:'Times New Roman'">
        <tspan x="0 5.04006 10.02 14.99994 20.040001 25.019939 29.99988 35.03994 40.019878 44.999821 50.039879 55.019821 59.99976 65.039818 70.01976 74.999702 80.039757 85.019699 89.999641" y="0">___________________</tspan>
     </text>
     <!-- Weapon label: -->
     <text
        transform="matrix(0,1,0.7964637,0,170.22,76.311267)"
-       style="font-weight:normal;font-size:7.5333px;font-family:'Century Gothic'">
+       style="font-size:7.5333px;font-family:'Century Gothic'">
        <tspan x="0 5.5188956 8.1600704 15.599957" y="0">arme</tspan>
     </text>
 
     <!-- Traits placeholder: -->
     <text transform="matrix(0,1,1,0,180.6,76.6705)"
-          style="font-weight:normal;font-size:10.02px;font-family:'Times New Roman'">
+          style="font-size:10.02px;font-family:'Times New Roman'">
        <tspan
          x="0 5.04006 10.02 14.99994 20.040001 25.019939 29.99988 35.03994 40.019878 44.999821 50.039879 55.019821 59.99976 65.039818 70.01976 74.999702 80.039757 85.019699 89.999641"
          y="0">___________________</tspan>
     </text>
     <!-- Traits label: -->
     <text transform="matrix(0,1,0.7964637,0,189.06,76.311267)"
-          style="font-weight:normal;font-size:7.5333px;font-family:'Century Gothic'">
+          style="font-size:7.5333px;font-family:'Century Gothic'">
        <tspan x="0 2.9379871 5.5897088 11.168871 13.027336 15.965322" y="0">traits</tspan>
     </text>
 
@@ -110,10 +110,8 @@
     <path d="m 187.68,208.971 h 25.26 v -51 h -25.26 z"
           style="fill:#ffffff"/>
     <!-- Logo SOMBRE : -->
-    <g transform="matrix(0,31.1987,-5.94,0,194.7,159.1105)">
-        <image width="1" height="1" preserveAspectRatio="none"
-         transform="matrix(1,0,0,-1,0,1)"
-         style="image-rendering:optimizeSpeed"
+    <g transform="scale(-.233333 .233333) translate(-890 720) rotate(90 60 20)">
+        <image x="0" y="0" width="135" height="24"
          xlink:href="data:image/png;base64,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"/>
     </g>
   </g>
