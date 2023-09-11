@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Script Dependencies:
+#    jinja2
+#    livereload
 import webbrowser
 from pathlib import Path
 

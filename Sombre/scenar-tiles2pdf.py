@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Script Dependencies:
+#    fpdf2
 from pathlib import Path
 from fpdf import FPDF
 

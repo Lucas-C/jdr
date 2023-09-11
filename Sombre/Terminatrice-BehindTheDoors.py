@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# Script Dependencies:
+#    fpdf2
+#    livereload
+#    xreload
+# Playlist: https://www.youtube.com/playlist?list=PLLgE-ga3W_kYmA6EQH6fzWmBQmNp39kTF
 # Idées de liens entre PJs :
 # * [x] il t'a trahi
 # * [x] relation familiale
@@ -12,7 +17,6 @@ from dataclasses import replace
 from threading import Timer
 
 from fpdf import FPDF
-from fpdf.table import Table
 from livereload.watcher import get_watcher_class
 from xreload import xreload
 
@@ -33,58 +37,56 @@ def gen_pdf():
     with pdf.rotation(90, x=23, y=pdf.h/2):
         pdf.text(x=-60, y=pdf.h/2, txt="Lucas Cimon 2023 - Personnages alternatifs pour le scénario Behind the Doors de Julien « DeathAmbre » De Monte, pour Sombre")
     table_kwargs = dict(first_row_as_headings=False, markdown=True, line_height=LINE_HEIGHT, width=2*CELL_SIZE)
-    table = TableWithStaticRowHeights(pdf, align="LEFT", **table_kwargs)
-    row = table.row()
-    render_cell_front(pdf, row, "Brad", "Businessman glacial", i=0, j=0)
-    render_cell_back(pdf, row, """\
+    with pdf.table(align="LEFT", **table_kwargs) as table:
+        row = table.row()
+        render_cell_front(pdf, row, "Brad", "Businessman glacial", i=0, j=0)
+        render_cell_back(pdf, row, """\
 Tu es le frère aîné de Dany, que tu as secouru à son lycée.
 
 Les zombies, tu gères, mais tu flippes d'avoir perdu tout ce que tu possédais...
 
 Hier, par peur de crever en retournant les aider, tu as prétendu que Chris & Mickey s'étaient fait chopper.
 """)
-    row = table.row()
-    render_cell_front(pdf, row, "Chris", "Gangsta latino", i=0, j=1)  # Sonia
-    render_cell_back(pdf, row, """\
+        row = table.row()
+        render_cell_front(pdf, row, "Chris", "Gangsta latino", i=0, j=1)  # Sonia
+        render_cell_back(pdf, row, """\
 Tu as un gros paquet de cash sur toi. Stan l'a vu, et tu lui en as promis la moitié s'il l'a bouclait.
 
 Lors de la fuite du centre commercial, cette raclure de Brad t'a abandonné en arrière avec Mickey, et a prétendu que vous étiez morts.""")
-    row = table.row()
-    render_cell_front(pdf, row, "Dany", "Skater ado", i=0, j=2)  # Julie
-    render_cell_back(pdf, row, """\
+        row = table.row()
+        render_cell_front(pdf, row, "Dany", "Skater ado", i=0, j=2)  # Julie
+        render_cell_back(pdf, row, """\
 Brad est ton grand frère, il est venu te chercher au lycée pour te sauver.
 
 Quand tu recroisé ta copine Jess zombifiée, tu étais pétrifié. Mickey t'a sauvé, en la butant sous tes yeux.
 
 Tu sais que Stan a été mordu, mais il t'a dit que c'était une coupure.
-""")
-    table.render()
+    """)
     pdf.y = pdf.t_margin
-    table = TableWithStaticRowHeights(pdf, align="RIGHT", **table_kwargs)
-    row = table.row()
-    render_cell_front(pdf, row, "Mickey", "Éboueur musclé", i=1, j=0)
-    render_cell_back(pdf, row, """\
+    with pdf.table(align="RIGHT", **table_kwargs) as table:
+        row = table.row()
+        render_cell_front(pdf, row, "Mickey", "Éboueur musclé", i=1, j=0)
+        render_cell_back(pdf, row, """\
 Lors de la fuite du centre commercial, cette raclure de Brad t'a abandonné en arrière avec Chris, et a prétendu que vous étiez morts.
 
 C'est grâce à toi que vous êtes là, et que l'hélico vous attend.
 
 Tu es un peu raciste. Tu penses que le virus vient des immigrés.""")
-    row = table.row()
-    render_cell_front(pdf, row, "Stan", "Laborantin noir", i=1, j=1)
-    render_cell_back(pdf, row, """\
+        row = table.row()
+        render_cell_front(pdf, row, "Stan", "Laborantin noir", i=1, j=1)
+        render_cell_back(pdf, row, """\
 Tu as été mordu au bras, tu es foutu. Dany a vu la blessure, mais tu lui as dit que c'était une simple coupure.
 
 Chris a un paquet de cash sur lui, il t'en a promis la moitié si tu la bouclais.
 
 Le sang-froid de Brad t'impressionne et te fait flipper à la fois.
 """)
-    table.render()
     render_memo(pdf)
     pdf.output("Terminatrice-BehindTheDoors.pdf")
     print("PDF written")
 
 def render_cell_front(pdf, row, name, desc, i=0, j=0):
-    row.cell(img="Terminatrice-BehindTheDoors.png")
+    row.cell(img="Terminatrice-BehindTheDoors.png", img_fill_width=True)
     prev_x, prev_y = pdf.x, pdf.y
     pdf.set_font(size=22, style="")
     pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .25) * CELL_SIZE)
@@ -109,12 +111,6 @@ def render_memo(pdf):
 * **RICOCHETS** : en cas de tir raté, les dégâts sont appliqués au tour suivant, si le tireur est vivant, en les lisant sur la face inverse du dé
 * Il est possible de **détourner** un flingue vers une autre cible, en faisant une réussite supérieure au jet du tireur
 """)
-
-
-class TableWithStaticRowHeights(Table):
-    def _get_row_layout_info(self, i):
-        row_layout_info = Table._get_row_layout_info(self, i)
-        return replace(row_layout_info, height=CELL_SIZE)
 
 
 async def main():
