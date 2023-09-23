@@ -1,4 +1,5 @@
-Un scénario Sombre Zéro pour 3 à 6 joueurs, d'une durée d'environ 1h30.
+Un scénario Sombre Zéro pour 3 à 6 joueurs, d'une durée d'environ 1h30,
+avec une part d'exploration, où les lieux sont progressivement révélés aux joueurs.
 
 ## Pitch
 Les PJs sont un groupe de détenus et leur gardien.
@@ -7,6 +8,7 @@ Pour raccourcir leur peine, ils ont accepté de participer à des expérimentati
 ## Personnages
 
 ### Garde - 
+C'est le seul personnage à pouvoir activer le clavier digital...
 
 ### Détenu 4312 - 
 
@@ -38,9 +40,10 @@ est à l'aise avec la confrontation, notamment dans une dynamique "seul contre t
 
 
 ## Mécanique
+Arme +1 dégât
 
 ### Contamination
-Cordyceps => PJs deviennent des zombies
+Cordyceps => PJs deviennent des zombies => leur tuile est retournée
 
 
 ## Intro
@@ -49,7 +52,7 @@ Cordyceps => PJs deviennent des zombies
 **Il y a 10min***...
 
 **Il y a 10 secondes***...
-
+< un PNJ que connaissent bien les PJs (détenu / garde / scientifique ?) meurt de manière gore >
 
 ## Chronologie du scénario
 Déclenchez ces étapes clefs du scénario dès que la tension retombe,
@@ -58,3 +61,7 @@ lorsque les PJs sont restés inactifs plus de cinq minutes.
 1.
 2.
 3.
+
+
+## Credits
+* [Secret Research Facility Pack @ 2minutetabletop.com](https://2minutetabletop.com/product/secret-research-facility-pack/) - [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)

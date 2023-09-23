@@ -3,24 +3,19 @@
 #    fpdf2
 #    livereload
 #    xreload
-# Original scenario from: http://arkhive.free.fr/Terminatrice.pdf
-# Playlist: https://www.youtube.com/playlist?list=PLLgE-ga3W_kYmA6EQH6fzWmBQmNp39kTF
-# Idées de liens entre PJs :
-# * [x] il t'a trahi
-# * [x] relation familiale
-# * [x] (secret) il a plein de fric
-# * [x] (secret) il a été mordu
-# * [x] il t'a / vous a sauvé
-# * [x] a tué un proche devenu zombie
-# * anciens collègues / voisins ?
 import asyncio, logging, sys
+from pathlib import Path
 from traceback import print_exc
 
 from fpdf import FPDF
-from livereload.watcher import get_watcher_class
-from xreload import xreload
+try:
+    from livereload.watcher import get_watcher_class
+    from xreload import xreload
+    OPT_DEPS_LOADED = True
+except ImportError:
+    OPT_DEPS_LOADED = False
 
-
+DIR = Path(__file__).parent
 VERTI_MARGIN = 15
 HORIZ_MARGIN = 28.5
 CELL_SIZE = 60
@@ -57,7 +52,7 @@ Lors de la fuite du centre commercial, cette raclure de Brad t'a abandonné en a
         render_cell_back(pdf, row, """\
 Brad est ton grand frère, il est venu te chercher au lycée pour te sauver.
 
-Quand tu recroisé ta copine Jess zombifiée, tu étais pétrifié. Mickey t'a sauvé, en la butant sous tes yeux.
+Quand tu as recroisé ta copine Jess zombifiée, tu étais pétrifié. Mickey t'a sauvé, en la butant sous tes yeux.
 
 Tu sais que Stan a été mordu, mais il t'a dit que c'était une coupure.""")
     pdf.y = pdf.t_margin
@@ -73,18 +68,17 @@ Tu es un peu raciste. Tu penses que le virus vient des immigrés.""")
         row = table.row()
         render_cell_front(pdf, row, "Stan", "Laborantin noir", i=1, j=1)
         render_cell_back(pdf, row, """\
-Tu as été mordu au bras, tu es foutu. Dany a vu la blessure, mais tu lui as dit que c'était une simple coupure.
+Tu as été mordu au bras, si les autres le découvrent tu es foutu. Dany a vu la blessure, mais tu lui as dit que c'était une simple coupure.
 
-Chris a un paquet de cash sur lui, il t'en a promis la moitié si tu la bouclais.
-
-Le sang-froid de Brad t'impressionne et te fait flipper à la fois.""")
+Chris a un paquet de cash sur lui, il t'en a promis la moitié si tu n'en parlais à personne.
+Peut-être qu'avec tout le fric tu pourrais te payer un médecin...""")
     render_memo(pdf)
     out_filepath = "Terminatrice-BehindTheDoors.pdf"
-    pdf.output(out_filepath)
+    pdf.output(DIR / out_filepath)
     print(f"{out_filepath} has been rebuilt")
 
 def render_cell_front(pdf, row, name, desc, i=0, j=0):
-    row.cell(img="Terminatrice-BehindTheDoors.png", img_fill_width=True)
+    row.cell(img=DIR / "../SombreZero-Empty3.png", img_fill_width=True)
     prev_x, prev_y = pdf.x, pdf.y
     pdf.set_font(size=22, style="")
     pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .25) * CELL_SIZE)
@@ -138,4 +132,6 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
+        if not OPT_DEPS_LOADED:
+            raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
         asyncio.run(start_watch_and_rebuild())
