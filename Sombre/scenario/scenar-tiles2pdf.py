@@ -79,6 +79,8 @@ Fait chier, des années que tu te tiens à carreau, il restait moins de 6 mois �
     render_tile_back(tpi, """\
 Vu les regards que te lance Damian, tu ne le laisse pas indiférent. Tu pourrais peut-être utiliser ça à ton avantage.
 
+Toi, tu as plutôt le béguin pour Markus.
+
 **Miraculée** : une fois par partie, les dommages que tu reçois sont réduits à 1""")
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
@@ -87,19 +89,21 @@ Vu les regards que te lance Damian, tu ne le laisse pas indiférent. Tu pourrais
     render_tile_back(tpi, """\
 Tu te méfies de Damian, c'est un sournoi. Par contre Hahn est un détenu modèle, tu lui ferais presque confiance.
 
+Tu as un **revolver**, et il te reste 3 balles.
+
 Important : tes empreintes activent les serrures digitales de sécurité. Pas celles des détenus, bien sûr.""")
-    render_tile_front(tpi, "Sujet #314", "Encaisse -1 dgt")
+    render_tile_front(tpi, "Sujet #314", "Encaisse -1 dgt", level=3)
     render_img_tile(tpi, DIR / "ZombieBruteNoShadow.png", border=True)
     render_img_tile(tpi, DIR / "items/Tuile-Revolver.jpg")
-    render_tile_front(tpi, "Herman", "Biologiste")
+    render_tile_front(tpi, "Herman", "Biologiste", level=3)
     render_img_tile(tpi, DIR / "ScienceOfficer.png", border=True)
     render_img_tile(tpi, DIR / "items/knife.png", border=True)
     render_img_tile(tpi, DIR / "items/pipe-wrench.png", border=True)
     render_img_tile(tpi, DIR / "items/fire-axe.png", border=True)
     render_img_tile(tpi, DIR / "items/Tuile-Hypodermics.jpg")
 
-def render_tile_front(tpi, name, desc=""):
-    render_img_tile(tpi, DIR / "../SombreZero-Empty4.png", name, desc)
+def render_tile_front(tpi, name, desc="", level=4):
+    render_img_tile(tpi, DIR / f"../SombreZero-Empty{level}.png", name, desc)
 
 def render_tile_back(tpi, text):
     pdf, _, _ = next(tpi)
@@ -113,11 +117,12 @@ def render_other_tiles(pdf):
     pdf.l_margin = pdf.r_margin = 15  # horizontal margin
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
-    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
-    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
-    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
-    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
+    render_tile_front(tpi, "Infecté", "Morsure", level=2)
+    render_tile_front(tpi, "Infecté", "Morsure", level=2)
+    render_tile_front(tpi, "Infecté", "Morsure", level=2)
+    render_tile_front(tpi, "Infecté", "Morsure", level=2)
     render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True)
+    render_img_tile(tpi, DIR / "items/GasMask.png", border=True)
 
 
 def render_room_tiles(pdf):
