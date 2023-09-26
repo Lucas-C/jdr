@@ -3,26 +3,167 @@
 #    fpdf2
 #    livereload
 #    xreload
-import asyncio, logging, sys
+import asyncio, sys
 from pathlib import Path
-from traceback import print_exc
 
 from fpdf import FPDF
 from fpdf.enums import Align
-from livereload.watcher import get_watcher_class
-from xreload import xreload
-
 
 DIR = Path(__file__).parent
-SCALE = .12  # scale: mm / pixel
+
+sys.path.append(str(DIR / ".."))  # make render_utils.py importable
+from render_utils import iter_tile_pos, render_img_tile, start_watch_and_rebuild, LINE_HEIGHT, TILE_SIZE
+
+SCALE = .12  # mm / pixel
+IMG_PER_NAME = {
+    "Damian": "fargo_by_fernand0fc_dbd7gj6-portrait.png",
+    "Markus": "JustinNichol-PP2-portrait.png",
+    "Hanh": "JustinNichol-PP3-portrait.png",
+    "Stacey": "sketch_rapido_fernand0fc_605851036-portrait.png",
+    "Hadley": "corporate_level_bodyguard_by_fernand0fc_ddafhmc-portrait.png",
+}
 
 
-def add_side_by_side(pdf, img1, img2=None, shadow=False):
+def build_pdf():
+    pdf = FPDF()
+    render_character_tiles(pdf)
+    render_other_tiles(pdf)
+    render_room_tiles(pdf)
+    # Alt PJs design:
+    global IMG_PER_NAME
+    IMG_PER_NAME = {
+        "Damian": "caleb_by_thesimplylexi_dag3mpv-portrait.png",
+        "Markus": "numero8_by_thesimplylexi-595389474-portrait.png",
+        "Hanh": "numero9_by_thesimplylexi-595642973-portrait.png",
+        "Stacey": "numero7_by_thesimplylexi-594550690-portrait.png",
+        "Hadley": "mccaul_lombardi_by_thesimplylexi_dca3dus-portrait.png",
+    }
+    render_character_tiles(pdf)
+    out_filepath = "Sombre-WIP.pdf"
+    pdf.output(DIR / out_filepath)
+    print(f"{out_filepath} has been rebuilt")
+
+
+def render_character_tiles(pdf):
+    pdf.set_margin(28.5)  # vertical margin
+    pdf.l_margin = pdf.r_margin = 15  # horizontal margin
+    pdf.set_font("Helvetica", size=8)
+    pdf.add_page()
+    tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
+    render_tile_front(tpi, "Damian", "Détenu #1729")
+    render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Damian"], border=True)
+    render_tile_back(tpi, """\
+Tu caches sur toi un **surin**, un poignard que tu as bricolé. Tu peux le révéler quand tu veux.
+
+Tu trouves Stacey sacrément mignonne.
+
+Par contre le garde, Hardley, a une dent contre toi... Faut t'en méfier.
+""")
+    render_tile_front(tpi, "Markus", "Détenu #6174")
+    render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Markus"], border=True)
+    render_tile_back(tpi, """\
+Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidentielles de ce labo. Il faut que tu mettes la main dessus avant de te barrer d'ici. Un type nommé Hermann devait te les filer.
+
+**In Extremis** : une fois par partie, transforme le résultat du dé en 1 pour obtenir une réussite de justesse.""")
+    render_tile_front(tpi, "Hanh", "Détenu #6578")
+    render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Hanh"], border=True)
+    render_tile_back(tpi, """\
+Merde, dans la panique, tu penses avoir été contaminé. Il doit bien y avoir un antidote quelque part ici !
+
+Fait chier, des années que tu te tiens à carreau, il restait moins de 6 mois à tirer.
+
+**Guigne** : une fois par partie, transforme le résultat du dé d'un autre joueur en 6.
+""")
+    render_tile_front(tpi, "Stacey", "Détenu #8128")
+    render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Stacey"], border=True)
+    render_tile_back(tpi, """\
+Vu les regards que te lance Damian, tu ne le laisse pas indiférent. Tu pourrais peut-être utiliser ça à ton avantage.
+
+**Miraculée** : une fois par partie, les dommages que tu reçois sont réduits à 1""")
+    pdf.add_page()
+    tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
+    render_tile_front(tpi, "Hadley", "Garde pénitentiaire")
+    render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Hadley"], border=True)
+    render_tile_back(tpi, """\
+Tu te méfies de Damian, c'est un sournoi. Par contre Hahn est un détenu modèle, tu lui ferais presque confiance.
+
+Important : tes empreintes activent les serrures digitales de sécurité. Pas celles des détenus, bien sûr.""")
+    render_tile_front(tpi, "Sujet #314", "Encaisse -1 dgt")
+    render_img_tile(tpi, DIR / "ZombieBruteNoShadow.png", border=True)
+    render_img_tile(tpi, DIR / "items/Tuile-Revolver.jpg")
+    render_tile_front(tpi, "Herman", "Biologiste")
+    render_img_tile(tpi, DIR / "ScienceOfficer.png", border=True)
+    render_img_tile(tpi, DIR / "items/knife.png", border=True)
+    render_img_tile(tpi, DIR / "items/pipe-wrench.png", border=True)
+    render_img_tile(tpi, DIR / "items/fire-axe.png", border=True)
+    render_img_tile(tpi, DIR / "items/Tuile-Hypodermics.jpg")
+
+def render_tile_front(tpi, name, desc=""):
+    render_img_tile(tpi, DIR / "../SombreZero-Empty4.png", name, desc)
+
+def render_tile_back(tpi, text):
+    pdf, _, _ = next(tpi)
+    pdf.set_font(size=9, style="")
+    pdf.multi_cell(txt="\n" + text, markdown=True, align="C", border=1,
+                   h=TILE_SIZE, w=TILE_SIZE, max_line_height=LINE_HEIGHT)
+
+
+def render_other_tiles(pdf):
+    pdf.set_margin(28.5)  # vertical margin
+    pdf.l_margin = pdf.r_margin = 15  # horizontal margin
+    pdf.add_page()
+    tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
+    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
+    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
+    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
+    render_img_tile(tpi, DIR / "../SombreZero-Empty2.png", name="Infecté", desc="Morsure")
+    render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True)
+
+
+def render_room_tiles(pdf):
+    pdf.set_margin(10)
+    pdf.t_margin = 20
+
+    pdf.add_page()
+    add_side_by_side(pdf, "Laboratory-Corridor-1.jpg", "Laboratory-Corridor-2.jpg", border=True)
+    pdf.y += 15
+    add_side_by_side(pdf, "Laboratory-Garage-1.jpg", "Laboratory-Garage-2.jpg")
+
+    pdf.add_page()
+    add_side_by_side(pdf, "Laboratory-Office-1.jpg", "Laboratory-Office-2.jpg")
+    pdf.y += 20
+    add_side_by_side(pdf, "Laboratory-WC-1.jpg", "Laboratory-WC-2.jpg")
+    pdf.y += 20
+    add_side_by_side(pdf, "Laboratory-Lab.jpg", shadow=True)
+
+    pdf.add_page()
+    add_side_by_side(pdf, "Laboratory-SpecimensBench-1-short.jpg", "Laboratory-SpecimensBench-2-short.jpg")
+    pdf.y += 15
+    add_side_by_side(pdf, "Laboratory-Closet.jpg", shadow=True)
+
+    pdf.add_page()
+    pdf.y += 20
+    add_side_by_side(pdf, "Laboratory-ControlRoom-1.jpg", shadow=True)
+    pdf.y += 30
+    add_side_by_side(pdf, "Laboratory-ControlRoom-2.jpg", shadow=True)
+
+    pdf.add_page()
+    pdf.y += 20
+    add_top_bottom(pdf, "Laboratory-StorageRoom.jpg", shadow=True)
+
+
+def add_side_by_side(pdf, img1, img2=None, border=False, shadow=False):
     img1_width_mm, img1_height_mm = add_tile(pdf, img1, halign=Align.L)
     assert img1_width_mm < pdf.epw / 2, f"{img_width_mm} >= {pdf.epw/2}"
+    if border:
+        x = halign2x(Align.L, pdf, img1_width_mm)
+        pdf.rect(x=x, y=pdf.y, w=img1_width_mm, h=img1_height_mm)
     if img2:
         img2_width_mm, img2_height_mm = add_tile(pdf, img2, halign=Align.R, valign_height=img1_height_mm)
         assert img2_width_mm < pdf.epw / 2, f"{img_width_mm} >= {pdf.epw/2}"
+        if border:
+            x = halign2x(Align.R, pdf, img2_width_mm)
+            pdf.rect(x=x, y=pdf.y, w=img2_width_mm, h=img2_height_mm)
         vert_shift_mm = max(img1_height_mm, img2_height_mm)
     else:
         vert_shift_mm = img1_height_mm
@@ -63,61 +204,6 @@ def halign2x(halign, pdf, img_width_mm):
     raise ValueError(f"Invalid halign: {halign}")
 
 
-def build_pdf():
-    pdf = FPDF()
-    pdf.t_margin *= 2
-
-    pdf.add_page()
-    add_side_by_side(pdf, "Laboratory-Corridor-1.jpg", "Laboratory-Corridor-2.jpg")
-    pdf.y += 15
-    add_side_by_side(pdf, "Laboratory-Garage-1.jpg", "Laboratory-Garage-2.jpg")
-
-    pdf.add_page()
-    add_side_by_side(pdf, "Laboratory-Office-1.jpg", "Laboratory-Office-2.jpg")
-    pdf.y += 20
-    add_side_by_side(pdf, "Laboratory-WC-1.jpg", "Laboratory-WC-2.jpg")
-    pdf.y += 20
-    add_side_by_side(pdf, "Laboratory-Lab.jpg", shadow=True)
-
-    pdf.add_page()
-    add_side_by_side(pdf, "Laboratory-SpecimensBench-1-short.jpg", "Laboratory-SpecimensBench-2-short.jpg")
-    pdf.y += 15
-    add_side_by_side(pdf, "Laboratory-Closet.jpg", shadow=True)
-
-    pdf.add_page()
-    pdf.y += 20
-    add_side_by_side(pdf, "Laboratory-ControlRoom-1.jpg", shadow=True)
-    pdf.y += 30
-    add_side_by_side(pdf, "Laboratory-ControlRoom-2.jpg", shadow=True)
-
-    pdf.add_page()
-    pdf.y += 20
-    add_top_bottom(pdf, "Laboratory-StorageRoom.jpg", shadow=True)
-
-    out_filepath = "Sombre-WIP.pdf"
-    pdf.output(DIR / out_filepath)
-    print(f"{out_filepath} has been rebuilt")
-
-
-async def start_watch_and_rebuild():
-    logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
-                        datefmt="%H:%M:%S", level=logging.INFO)
-    logging.getLogger("livereload").setLevel(logging.INFO)
-    watcher = get_watcher_class()()
-    watcher.watch(__file__, build_pdf)
-    print("Watcher started...")
-    await watch_periodically(watcher)
-
-async def watch_periodically(watcher, delay_secs=.8):
-    try:
-        watcher.examine()
-    except Exception:
-        print_exc()
-    await asyncio.sleep(delay_secs)
-    xreload(sys.modules[__name__], new_annotations={"XRELOADED": True})
-    await asyncio.create_task(watch_periodically(watcher))
-
-
 # This conditional ensure that the code below
 # does not get executed when calling xreload on this module:
 if not __annotations__.get("XRELOADED"):
@@ -125,4 +211,4 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
-        asyncio.run(start_watch_and_rebuild())
+        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], __file__))

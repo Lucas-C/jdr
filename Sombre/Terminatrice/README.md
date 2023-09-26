@@ -1,4 +1,13 @@
-Aides de jeux & variantes pour le recueil de scénarios Julien « DeathAmbre » De Monte : <http://arkhive.free.fr/Terminatrice.pdf>
+Aides de jeux & variantes pour le recueil de scénarios de Julien « DeathAmbre » De Monte : <http://arkhive.free.fr/Terminatrice.pdf>
+
+## Out Of Reach
+Il manque dans le PDF original les tuiles de personnages des 5 PJs.
+
+Génération du PDF :
+```
+pip install fpdf2
+./Terminatrice-OutOfReach.py
+```
 
 ## Behind The Doors
 Je propose ici des **personnages alternatifs** pour ce scénario, dont j'ai trouvé le concept génial :
@@ -9,7 +18,7 @@ Ces PJs ont des _backgrounds_ / secrets différents du scénario original :
 ils sont un peu plus détaillés, et les enjeux s'éloignent d'une histoire de jalousie / tromperie,
 pour des questions de vengeance / reconnaissance / opportunité à saisir.
 
-Playlist: [Sombre - Behind the Doors - Zombies @ Youtube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kYmA6EQH6fzWmBQmNp39kTF)
+Playlist musicale suggérée : [Sombre - Behind the Doors - Zombies @ Youtube](https://www.youtube.com/playlist?list=PLLgE-ga3W_kYmA6EQH6fzWmBQmNp39kTF)
 
 Génération du PDF :
 ```

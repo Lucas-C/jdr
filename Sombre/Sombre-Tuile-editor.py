@@ -19,7 +19,7 @@ def gen_index_html():
 
 gen_index_html()
 SERVER = Server()
-SERVER.watch("SombreZero-TuilePerso.svg", gen_index_html)
+SERVER.watch("SombreZero-Empty4.svg", gen_index_html)
 SERVER.watch("Sombre-Tuile-editor.html", gen_index_html)
 webbrowser.open(f'http://localhost:{PORT}')
 SERVER.serve(root=str(DIR), port=PORT)

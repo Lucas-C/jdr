@@ -3,94 +3,74 @@
 #    fpdf2
 #    livereload
 #    xreload
-import asyncio, logging, sys
+import asyncio, sys
 from pathlib import Path
-from traceback import print_exc
 
 from fpdf import FPDF
-try:
-    from livereload.watcher import get_watcher_class
-    from xreload import xreload
-    OPT_DEPS_LOADED = True
-except ImportError:
-    OPT_DEPS_LOADED = False
 
 DIR = Path(__file__).parent
+
+sys.path.append(str(DIR / ".."))  # make render_utils.py importable
+from render_utils import iter_tile_pos, render_img_tile, start_watch_and_rebuild, LINE_HEIGHT, TILE_SIZE
+
 VERTI_MARGIN = 15
 HORIZ_MARGIN = 28.5
-CELL_SIZE = 60
-LINE_HEIGHT = 5.25
 
 
 def build_pdf():
     pdf = FPDF(orientation="landscape")
     pdf.set_margin(VERTI_MARGIN)
-    pdf.set_left_margin(HORIZ_MARGIN)
-    pdf.set_right_margin(HORIZ_MARGIN)
+    pdf.l_margin = pdf.r_margin = HORIZ_MARGIN
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     with pdf.rotation(90, x=23, y=pdf.h/2):
         pdf.text(x=-60, y=pdf.h/2, txt="Lucas Cimon 2023 - Personnages alternatifs pour le scénario Behind the Doors de Julien « DeathAmbre » De Monte, pour Sombre")
-    table_kwargs = dict(first_row_as_headings=False, markdown=True, line_height=LINE_HEIGHT, width=2*CELL_SIZE)
-    with pdf.table(align="LEFT", **table_kwargs) as table:
-        row = table.row()
-        render_cell_front(pdf, row, "Brad", "Businessman glacial", i=0, j=0)
-        render_cell_back(pdf, row, """\
+    tpi = iter_tile_pos(pdf)  # Tiles Positions Iterator
+    render_tile_front(tpi, "Brad", "Businessman glacial")
+    render_tile_back(tpi, """\
 Tu es le frère aîné de Dany, que tu as secouru à son lycée.
 
 Les zombies, tu gères, mais tu flippes d'avoir perdu tout ce que tu possédais...
 
 Hier, par peur de crever en retournant les aider, tu as prétendu que Chris & Mickey s'étaient fait chopper.""")
-        row = table.row()
-        render_cell_front(pdf, row, "Chris", "Gangsta latino", i=0, j=1)  # Sonia
-        render_cell_back(pdf, row, """\
-Tu as un gros paquet de cash sur toi. Stan l'a vu, et tu lui en as promis la moitié s'il l'a bouclait.
-
-Lors de la fuite du centre commercial, cette raclure de Brad t'a abandonné en arrière avec Mickey, et a prétendu que vous étiez morts.""")
-        row = table.row()
-        render_cell_front(pdf, row, "Dany", "Skater ado", i=0, j=2)  # Julie
-        render_cell_back(pdf, row, """\
-Brad est ton grand frère, il est venu te chercher au lycée pour te sauver.
-
-Quand tu as recroisé ta copine Jess zombifiée, tu étais pétrifié. Mickey t'a sauvé, en la butant sous tes yeux.
-
-Tu sais que Stan a été mordu, mais il t'a dit que c'était une coupure.""")
-    pdf.y = pdf.t_margin
-    with pdf.table(align="RIGHT", **table_kwargs) as table:
-        row = table.row()
-        render_cell_front(pdf, row, "Mickey", "Éboueur musclé", i=1, j=0)
-        render_cell_back(pdf, row, """\
+    render_tile_front(tpi, "Mickey", "Éboueur musclé")
+    render_tile_back(tpi, """\
 Lors de la fuite du centre commercial, cette raclure de Brad t'a abandonné en arrière avec Chris, et a prétendu que vous étiez morts.
 
 C'est grâce à toi que vous êtes là, et que l'hélico vous attend.
 
 Tu es un peu raciste. Tu penses que le virus vient des immigrés.""")
-        row = table.row()
-        render_cell_front(pdf, row, "Stan", "Laborantin noir", i=1, j=1)
-        render_cell_back(pdf, row, """\
+    render_tile_front(tpi, "Chris", "Gangsta latino")  # Sonia
+    render_tile_back(tpi, """\
+Tu as un gros paquet de cash sur toi. Stan l'a vu, et tu lui en as promis la moitié s'il l'a bouclait.
+
+Lors de la fuite du centre commercial, cette raclure de Brad t'a abandonné en arrière avec Mickey, et a prétendu que vous étiez morts.""")
+    render_tile_front(tpi, "Stan", "Laborantin noir")
+    render_tile_back(tpi, """\
 Tu as été mordu au bras, si les autres le découvrent tu es foutu. Dany a vu la blessure, mais tu lui as dit que c'était une simple coupure.
 
 Chris a un paquet de cash sur lui, il t'en a promis la moitié si tu n'en parlais à personne.
-Peut-être qu'avec tout le fric tu pourrais te payer un médecin...""")
+Peut-être qu'avec tout ce fric tu pourrais sauver ta peau...""")
+    render_tile_front(tpi, "Dany", "Skater ado")  # Julie
+    render_tile_back(tpi, """\
+Brad est ton grand frère, il est venu te chercher au lycée pour te sauver.
+
+Quand tu as recroisé ta copine Jess zombifiée, tu étais pétrifié. Mickey t'a sauvé, en la butant sous tes yeux.
+
+Tu sais que Stan a été mordu, mais il t'a dit que c'était une coupure.""")
     render_memo(pdf)
     out_filepath = "Terminatrice-BehindTheDoors.pdf"
     pdf.output(DIR / out_filepath)
     print(f"{out_filepath} has been rebuilt")
 
-def render_cell_front(pdf, row, name, desc, i=0, j=0):
-    row.cell(img=DIR / "../SombreZero-Empty3.png", img_fill_width=True)
-    prev_x, prev_y = pdf.x, pdf.y
-    pdf.set_font(size=22, style="")
-    pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .25) * CELL_SIZE)
-    pdf.cell(h=LINE_HEIGHT, align="X", markdown=True, txt=f"**{name}**")
-    pdf.set_font(size=13, style="I")
-    pdf.set_xy(HORIZ_MARGIN + (2 * i + .5) * CELL_SIZE, VERTI_MARGIN + (j + .7) * CELL_SIZE)
-    pdf.cell(h=LINE_HEIGHT, align="X", txt=desc)
-    pdf.set_xy(prev_x, prev_y)
+def render_tile_front(tpi, name, desc):
+    render_img_tile(tpi, DIR / "../SombreZero-Empty3.png", name, desc)
 
-def render_cell_back(pdf, row, text):
+def render_tile_back(tpi, text):
+    pdf, _, _ = next(tpi)
     pdf.set_font(size=9, style="")
-    row.cell("\n" + text, align="C")
+    pdf.multi_cell(txt="\n" + text, align="C", border=1,
+                   h=TILE_SIZE, w=TILE_SIZE, max_line_height=LINE_HEIGHT)
 
 def render_memo(pdf):
     pdf.set_xy(153, 140)
@@ -106,25 +86,6 @@ def render_memo(pdf):
 """)
 
 
-async def start_watch_and_rebuild():
-    logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
-                        datefmt="%H:%M:%S", level=logging.INFO)
-    logging.getLogger("livereload").setLevel(logging.INFO)
-    watcher = get_watcher_class()()
-    watcher.watch(__file__, build_pdf)
-    print("Watcher started...")
-    await watch_periodically(watcher)
-
-async def watch_periodically(watcher, delay_secs=.8):
-    try:
-        watcher.examine()
-    except Exception:
-        print_exc()
-    await asyncio.sleep(delay_secs)
-    xreload(sys.modules[__name__], new_annotations={"XRELOADED": True})
-    await asyncio.create_task(watch_periodically(watcher))
-
-
 # This conditional ensure that the code below
 # does not get executed when calling xreload on this module:
 if not __annotations__.get("XRELOADED"):
@@ -132,6 +93,4 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
-        if not OPT_DEPS_LOADED:
-            raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
-        asyncio.run(start_watch_and_rebuild())
+        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], __file__))
