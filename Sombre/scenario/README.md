@@ -76,7 +76,7 @@ Le seul autre accès est une double porte battante (imblocable) donnant vers le 
 Si un PJ fouille l'endroit, il met la main sur une **grosse clef à molette**
 suffisament horrifique pour pouvoir servir d'arme.
 
-<img src="items/pipe-wrench.svg" class="small">
+<img alt="Clef à molette" src="items/pipe-wrench.svg" class="small">
 
 ### 2. Le couloir
 **Deux Infectés** attendent patiemment les PJs ici.
@@ -120,7 +120,7 @@ Sur le côté la pièce opposé à la porte d'entrée, un grand plan de travail 
 Une partie sont répandus au sol. S'ils sont examinés par les PJs, ils apprendront que des armes bactériologiques sont développées ici. Il est également fait mention de "spores" capables de "tout nettoyer".
 Une **clef USB** grise peut être trouvée sur ce plan de travail : il s'agit des données recherchées par Markus.
 
-<img src="items/USB-thumb-drive-1.svg" class="small">
+<img alt="Clef USB" src="items/USB-thumb-drive-1.svg" class="small">
 
 ### 5. La cage d'escalier - étage
 En entrant à droite, l'écran d'un terminal de contrôle brille d'une lumière jaune.
@@ -135,7 +135,7 @@ Après **2 tours**, il attaquera le PJ le plus proche.
 
 Sur le mur du fond en entrant, une **hache d'incendie** est suspendue.
 
-<img src="items/fire-axe.svg" class="small">
+<img alt="Hache d'incendie" src="items/fire-axe.svg" class="small">
 
 #### Libération des spores
 Il n'est rien possible de faire d'autre sur ce terminal.
@@ -156,7 +156,7 @@ Un PJ fouillant cette pièce trouvera le **fusil à seringues hypodermiques**
 et un **masque à gaz**, permettant de ne pas être _Embrumé_ en présence des spores, dans la salle des specimens.
 Cette pièce ne contient rien d'autre d'utile.
 
-<img src="items/GasMask.png" class="small">
+<img alt="Masque à gaz" src="items/GasMask.png" class="small">
 
 ### 7. La cage d'escalier - RdC
 On accède à cette pièce en descendant les escaliers de la cage d'escalier à l'étage (5).
@@ -201,7 +201,7 @@ ainsi que les instructions pour concevoir un vaccin.
 
 La clef de la voiture pourra être trouvée dans une poche de l'Infecté.
 
-<img src="items/car-keys.jpg" class="small">
+<img alt="Clefs de voiture" src="items/car-keys.jpg" class="small">
 
 ### 10. Les WCs
 Entrer dans cette pièce en présence du sujet #314 provoquera immédiablement son ire et un affrontement.
@@ -250,12 +250,12 @@ Laissez néanmoins les joueurs découvrir ça par eux même en tranchant la main
 ### Les armes à feu
 Tous les personnages savent tirer avec une arme à feu (ils ont le trait _Tir_).
 
-<img src="items/Revolver.png" class="small">
+<img alt="Revolver" src="items/Revolver.png" class="small">
 Le garde débute avec **un revolver** chargé, pouvant être utilisé **3 fois** :
 à chaque tir, il faut tourner la tuile de l'arme, pour indiquer la dépense de munitions.
 Les dommages sont les lus sur le dés, comme avec n'importe quelle arme.
 
-![](items/Shotgun.png)
+![Fusil à seringues hypodermiques](items/Shotgun.png)
 **Un fusil à seringues hypodermiques** peut être trouvé dans la réserve (6).
 Comme le revolver, il ne peut tirer que **3 fois**.
 En cas d'attaque réussite, la cible ne reçoit aucun dommage mais plonge dans le sommeil,

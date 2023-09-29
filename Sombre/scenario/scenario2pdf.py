@@ -243,6 +243,7 @@ def markdown2pdf():
 <html>
     <head>
         <meta charset="utf-8">
+        <title>Lab Escape - Scénario pour le JdR Sombre</title>
         <link rel="stylesheet" href="{CSS_FILEPATH}">
     </head>
     <body>{html}</body>
