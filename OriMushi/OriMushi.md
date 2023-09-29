@@ -175,7 +175,7 @@ une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, 
 Cette aide de jeu _Ori Mushi_ a été conçue par [Lucas Cimon](https://chezsoi.org/lucas/blog/) en février 2020.
 Elle est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
-Logiciels employés pour la réaliser : Firefox, Gimp, Notepad++, Sumatra PDF, Python, puppeeter
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
 
 Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny) -

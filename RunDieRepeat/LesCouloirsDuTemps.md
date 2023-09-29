@@ -116,8 +116,7 @@ Polices employées : Mirage Gothic par Carlos Mario Peña Solís & EB Garamond p
 
 Un grand merci également aux _playtesteurs_ : Elliot, Henri, Kevin, Laëtitia, Maxime, ainsi que les joueurs & joueuses qui y ont joué lors de la 2e [CyberConv](https://cyberconv.com) : Mori, Muzett, Silphy & Vixenn.
 
-Merci enfin aux développeurs des logiciels libres employés :
-Firefox, Gimp, Python, livereload, markdown-it, puppeteer, Notepad++, Sumatra PDF.
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
 
 <style type="text/css">
 @font-face { font-family: EBGaramondRegular; src: url('fonts/EBGaramond-Regular.ttf'); }
