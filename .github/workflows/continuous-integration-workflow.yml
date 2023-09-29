@@ -33,6 +33,7 @@ jobs:
 
       - name: Install dependencies ⚙️
         run: |
+          pip install fpdf2 markdown pypdf weasyprint
           npm install -g puppeteer-cli
           npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
           wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
@@ -135,6 +136,12 @@ jobs:
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html
             puppeteer print LesCouloirsDuTemps.html ../$GIT_TAG.pdf
           fi
+          cd -
+
+          cd Sombre
+          Terminatrice/Terminatrice-BehindTheDoors.py
+          Terminatrice/Terminatrice-OutOfReach.py
+          scenario/scenario2pdf.py
           cd -
 
           cd sous-terre

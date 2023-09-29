@@ -166,8 +166,7 @@ Polices employées : [Elementary Gothic](https://www.dafont.com/elementary-gothi
 
 Un grand merci également aux _playtesteurs_ : Laetitia, Jérôme & Jordan de l'[Auberge des Rêveurs](https://laubergedesreveurs.forumactif.com).
 
-Merci enfin aux développeurs des logiciels libres employés :
-Firefox, Gimp, Python, livereload, markdown-it, puppeteer, Notepad++, Sumatra PDF.
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it), [livereload](https://pypi.org/project/livereload/) & [Puppeteer](https://pptr.dev/).
 
 <style type="text/css">
 @font-face { font-family: ElementaryGothic; src: url('fonts/Elementary_Gothic.otf'); }

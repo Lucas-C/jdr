@@ -38,7 +38,7 @@ def render_img_tile(tpi, img, name="", desc="", border=False):
             pdf.cell(txt=desc, h=LINE_HEIGHT, align="X")
 
 
-async def start_watch_and_rebuild(module, mod_filepath):
+async def start_watch_and_rebuild(module, *files_to_watch):
     if not OPT_DEPS_LOADED:
         raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
     logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
@@ -46,7 +46,8 @@ async def start_watch_and_rebuild(module, mod_filepath):
     logging.getLogger("livereload").setLevel(logging.INFO)
     watcher = get_watcher_class()()
     watcher.watch(__file__, module.build_pdf)
-    watcher.watch(mod_filepath, module.build_pdf)
+    for filepath in files_to_watch:
+        watcher.watch(filepath, module.build_pdf)
     print("Watcher started...")
     await watch_periodically(module, watcher)
 
