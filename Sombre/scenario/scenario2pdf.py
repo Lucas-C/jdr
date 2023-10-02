@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # TODO: generate a printer-friendly / text-only version without appendix nor any images
-#   + investigate why HTML page is not visible at https://lucas-c.github.io/jdr/Sombre/scenario/
 # Script Dependencies:
 #    fpdf2
 #    livereload
