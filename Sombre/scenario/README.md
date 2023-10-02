@@ -4,10 +4,16 @@ Un scénario Sombre Zéro (le [jeu de rôle de Johan Scipion](https://www.terres
 pour 3 à 5 joueurs, d'une durée d'environ 1h30, dans un laboratoire envahi de zombies infectés,
 avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.
 
+<div class="web-only">
+Version PDF : <a href="https://lucas-c.github.io/jdr/Sombre/scenario/Sombre-LabEscape.pdf">Sombre-LabEscape.pdf</a>
+</div
+<br>
 
 ## Pitch
 Les PJs sont un groupe de détenus et le garde qui les escorte.
 Pour raccourcir leur peine, ils ont accepté de participer à des expérimentations biologiques.
+
+<br>
 
 ## Intro
 **Il y a quelques jours**, vous vous êtes portés volontaires pour participer à un protocole expérimental,
@@ -344,6 +350,7 @@ S'il n'est pas dérangé, le sujet #314 passe alors plusieurs tours dans les WCs
 Ensuite, à la liberté du MJ, il aura plus ou moins tendance à rapidement traquer les PJs,
 et s'acharnera à défoncer toutes les portes que les PJs pourraient bloquer sur son chemin.
 
+<br>
 
 ## Épilogue
 Plusieurs fins sont possibles.
@@ -374,6 +381,8 @@ qui inclut notamment :
 Ce scénario a été conçu par Lucas Cimon est est placé sous licence _[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre).
+
+Si vous souhaitez soutenir mon travail, vous pouvez me faire un don sur <https://lucas-c.itch.io>
 
 
 ## Credits

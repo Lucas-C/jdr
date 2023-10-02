@@ -47,12 +47,13 @@ def build_pdf():
 
 def build_appendix_pdf():
     pdf = FPDF()
-    pdf.b_margin = pdf.t_margin = 12
-    pdf.add_page(orientation="landscape")
-    pdf.image(PLAN_FILEPATH, h=pdf.eph, w=pdf.epw, keep_aspect_ratio=True)
     render_character_tiles(pdf)
     render_other_tiles(pdf)
     render_room_tiles(pdf)
+    # Plan full-page:
+    pdf.b_margin = pdf.t_margin = 12
+    pdf.add_page(orientation="landscape")
+    pdf.image(PLAN_FILEPATH, h=pdf.eph, w=pdf.epw, keep_aspect_ratio=True)
     # Alt PJs design:
     global IMG_PER_NAME
     IMG_PER_NAME = {
@@ -244,12 +245,12 @@ def markdown2pdf():
     <head>
         <meta charset="utf-8">
         <title>Lab Escape - Scénario pour le JdR Sombre</title>
-        <link rel="stylesheet" href="{CSS_FILEPATH}">
+        <link rel="stylesheet" href="{CSS_FILEPATH.name}">
     </head>
     <body>{html}</body>
 </html>
     """
-    with open("index.html", "w", encoding="utf8") as html_file:
+    with open(DIR / "index.html", "w", encoding="utf8") as html_file:
         html_file.write(html_doc)
     font_config = FontConfiguration()
     css = CSS(filename=CSS_FILEPATH, font_config=font_config)
