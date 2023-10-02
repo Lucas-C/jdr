@@ -138,7 +138,7 @@ jobs:
           fi
           node ../md2html.js RunDieRepeat-scenarios2-FR.md > RunDieRepeat-scenarios2-FR.html
           puppeteer print RunDieRepeat-scenarios2-FR.html RunDieRepeat-scenarios2-FR.pdf
-          ls -l OriMushi-FeuillePersonnage.pdf RunDieRepeat-scenarios2-FR.pdf
+          ls -l RunDieRepeat-scenarios2-FR.pdf
           node ../md2html.js RunDieRepeat-scenarios3-FR.md > RunDieRepeat-scenarios3-FR.html
           node ../md2html.js DocteurLestrange.md > DocteurLestrange.html
           if [[ $GIT_TAG =~ ^DocteurLestrange- ]]; then
