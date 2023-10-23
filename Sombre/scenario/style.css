@@ -4,7 +4,6 @@
 @font-face { font-family: "Candara"; src: url("fonts/Candara_Bold_Italic.ttf"); font-weight: bold; font-style: italic; }
 
 @font-face { font-family: "Freedom45"; src: url("fonts/Freedom45.otf"); }
-@font-face { font-family: "ImpactLabelReversed"; src: url("fonts/ImpactLabelReversed.ttf"); }
 
 body { font-family: Candara; text-align: justify; }
 h1 { text-align: center; font-size: 5rem; font-family: Freedom45; }
@@ -13,6 +12,8 @@ blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; pa
 img { max-width: 15rem; max-height: 15rem; display: block; margin: 0 auto; }
 img.large { max-width: 100%; max-height: 100%; }
 img.small { max-width: 8rem; max-height: 8rem; }
+
+img.spatter { width: 6rem; transform: scaleY(-1); position: absolute; right: 2rem; top: 6rem; }
 
 .license { float: left; padding-right: 1rem; }
 

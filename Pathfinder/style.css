@@ -1,0 +1,18 @@
+@font-face { font-family: "Candara"; src: url("../Sombre/scenario/fonts/Candara.ttf"); }
+@font-face { font-family: "Candara"; src: url("../Sombre/scenario/fonts/Candara_Bold.ttf"); font-weight: bold; }
+@font-face { font-family: "Candara"; src: url("../Sombre/scenario/fonts/Candara_Italic.ttf"); font-style: italic; }
+@font-face { font-family: "Candara"; src: url("../Sombre/scenario/fonts/Candara_Bold_Italic.ttf"); font-weight: bold; font-style: italic; }
+
+body { font-family: Candara; text-align: justify; }
+h1 { text-align: center; font-size: 5rem; }
+blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
+
+img { max-width: 15rem; max-height: 15rem; display: block; margin: 0 auto; }
+img.large { max-width: 100%; max-height: 100%; }
+img.small { max-width: 8rem; max-height: 8rem; }
+
+.license { float: left; padding-right: 1rem; }
+
+@media print {
+  .web-only { display: none; }
+}

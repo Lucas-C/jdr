@@ -3,7 +3,7 @@
 # Script Dependencies:
 #    fpdf2
 #    livereload
-#    markdown
+#    mistletoe
 #    pypdf
 #    weasyprint
 #    xreload
@@ -12,16 +12,15 @@ from pathlib import Path
 
 from fpdf import FPDF
 from fpdf.enums import Align
-from markdown import markdown
 from pypdf import PdfMerger
-from weasyprint import HTML, CSS
-from weasyprint.text.fonts import FontConfiguration
 
 DIR = Path(__file__).parent
 
 logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
+sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
+from pdf_utils import markdown2pdf, start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
-from render_utils import iter_tile_pos, render_img_tile, start_watch_and_rebuild, LINE_HEIGHT, TILE_SIZE
+from render_utils import iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
 
 MD_FILEPATH = DIR / "README.md"
 CSS_FILEPATH = DIR / "style.css"
@@ -39,7 +38,7 @@ SCALE = .12  # mm / pixel
 
 def build_pdf():
     merger = PdfMerger()
-    merger.append(markdown2pdf())
+    merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
     merger.append(build_appendix_pdf())
     merger.write(OUT_FILEPATH)
     print(f"{OUT_FILEPATH} has been rebuilt")
@@ -133,7 +132,7 @@ def render_tile_front(tpi, name, desc="", level=4):
 def render_tile_back(tpi, text):
     pdf, _, _ = next(tpi)
     pdf.set_font(size=9, style="")
-    pdf.multi_cell(txt="\n" + text, markdown=True, align="C", border=1,
+    pdf.multi_cell(text="\n" + text, markdown=True, align="C", border=1,
                    h=TILE_SIZE, w=TILE_SIZE, max_line_height=LINE_HEIGHT)
 
 
@@ -235,28 +234,6 @@ def halign2x(halign, pdf, img_width_mm):
     if halign == Align.R:
         return pdf.w/2
     raise ValueError(f"Invalid halign: {halign}")
-
-
-def markdown2pdf():
-    with open(MD_FILEPATH, encoding="utf8") as md_file:
-        html = markdown(md_file.read())
-    html_doc = f"""<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Lab Escape - Scénario pour le JdR Sombre</title>
-        <link rel="stylesheet" href="{CSS_FILEPATH.name}">
-    </head>
-    <body>{html}</body>
-</html>
-    """
-    with open(DIR / "index.html", "w", encoding="utf8") as html_file:
-        html_file.write(html_doc)
-    font_config = FontConfiguration()
-    css = CSS(filename=CSS_FILEPATH, font_config=font_config)
-    bytes_io = io.BytesIO()
-    HTML(base_url=str(DIR), string=html).write_pdf(bytes_io, stylesheets=[css], font_config=font_config)
-    return bytes_io
 
 
 # This conditional ensure that the code below

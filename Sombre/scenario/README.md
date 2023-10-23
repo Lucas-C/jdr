@@ -1,3 +1,4 @@
+<img src="PaintSpatter.png" class="spatter">
 # Lab Escape
 
 Un scénario Sombre Zéro (le [jeu de rôle de Johan Scipion](https://www.terresetranges.net/sombre.html))
