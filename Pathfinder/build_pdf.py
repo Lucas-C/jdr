@@ -16,9 +16,9 @@ DIR = Path(__file__).parent
 
 logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, start_watch_and_rebuild
+from pdf_utils import markdown2pdf, watch_xreload_and_serve
 
-MD_FILEPATH = DIR / "README.md"
+MD_FILEPATH = DIR / "Pathfinder.md"
 CSS_FILEPATH = DIR / "style.css"
 OUT_FILEPATH = DIR / "Pathfinder.pdf"
 
@@ -38,4 +38,4 @@ if not __annotations__.get("XRELOADED"):
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
         SRC_FILES = (__file__, MD_FILEPATH, CSS_FILEPATH)
-        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES))
+        watch_xreload_and_serve(sys.modules[__name__], DIR, *SRC_FILES)

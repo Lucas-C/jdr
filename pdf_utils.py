@@ -1,15 +1,17 @@
 import asyncio, io, logging
 from traceback import print_exc
 
+from mistletoe import markdown
+from weasyprint import HTML, CSS
+from weasyprint.text.fonts import FontConfiguration
 try:
+    from livereload.server import Server, StaticFileHandler
     from livereload.watcher import get_watcher_class
-    from mistletoe import markdown
-    from weasyprint import HTML, CSS
-    from weasyprint.text.fonts import FontConfiguration
     from xreload import xreload
     OPT_DEPS_LOADED = True
 except ImportError:
     OPT_DEPS_LOADED = False
+    StaticFileHandler = object
 
 
 def markdown2pdf(dir, md_filepath, css_filepath):
@@ -35,6 +37,7 @@ def markdown2pdf(dir, md_filepath, css_filepath):
 
 
 async def start_watch_and_rebuild(module, *files_to_watch):
+    "Watch files and on change, reload Python modules & call build_pdf()"
     if not OPT_DEPS_LOADED:
         raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
     logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
@@ -43,7 +46,7 @@ async def start_watch_and_rebuild(module, *files_to_watch):
     watcher = get_watcher_class()()
     watcher.watch(__file__, module.build_pdf)
     for filepath in files_to_watch:
-        watcher.watch(filepath, module.build_pdf)
+        watcher.watch(str(filepath), module.build_pdf)
     print("Watcher started...")
     await watch_periodically(module, watcher)
 
@@ -56,3 +59,33 @@ async def watch_periodically(module, watcher, delay_secs=.8):
     await asyncio.sleep(delay_secs)
     xreload(module, new_annotations={"XRELOADED": True})
     await asyncio.create_task(watch_periodically(module, watcher))
+
+
+def watch_xreload_and_serve(module, root_dir, *files_to_watch):
+    """
+    * watch files and on change, reload Python modules & call build_pdf()
+    * starts a HTTP server
+    """
+    if not OPT_DEPS_LOADED:
+        raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
+    logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
+                        datefmt="%H:%M:%S", level=logging.INFO)
+    logging.getLogger("livereload").setLevel(logging.INFO)
+    def on_change():
+        xreload(module, new_annotations={"XRELOADED": True})
+        module.build_pdf()
+    server = Server()
+    for filepath in files_to_watch:
+        server.watch(str(filepath), on_change)
+    server.SFH = CustomStaticFileHandler
+    print("Now starting HTTP server - blocking call to .serve()")
+    server.serve(root=str(root_dir))
+
+
+class CustomStaticFileHandler(StaticFileHandler):
+    "Adds UTF charset to Content-Type header for HTML files"
+    def get_content_type(self):
+        content_type = super().get_content_type()
+        if content_type == "text/html":
+            content_type = "text/html; charset=utf-8"
+        return content_type

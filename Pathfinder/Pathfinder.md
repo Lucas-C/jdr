@@ -1,3 +1,10 @@
+<!-- What next ?
+* recopier table
+* feuille de perso
+* adapter le scénario de base
+* adapter les 4 prétirés au système et au scénario
+* add this to .github/workflows/continuous-integration-workflow.yml
+-->
 _Total Conversion_ pour la boîte d'initiation Pathfinder (2e édition).
 
 ## Traits
@@ -46,27 +53,37 @@ Représente l'esprit, le charisme et la force mentale d'un personnage
 * Vitesse : 5 □ au départ
 * Max équipements : 6 □ au départ
 * Points de Destin : 2 au départ
-* Points d'expérience (XPs) : 0 au départ
+* Points d'expérience (XPs) : 6 au départ, dépensables immédiatement
 
 ## Clefs
-* **Apprendre des sortilèges**
-* **Devenir riche**
-* **Lutter contre l'oppression**
-* **Résoudre pacifiquement les conflits**
-* **Vaincre par la force des adversaires bien plus forts que moi**
-* **Vaincre par la ruse des adversaires bien plus forts que moi**
+* Apprendre des sortilèges
+* Devenir riche
+* Lutter contre l'oppression
+* Résoudre pacifiquement les conflits
+* Vaincre par la force des adversaires bien plus forts que moi
+* Vaincre par la ruse des adversaires bien plus forts que moi
 
 Clefs selon l'historique des personnages:
-* **Échaper à XXX**
-* **Protéger (PJ XXX)**
-* **Retrouver la trace de XXX**
-* **Retrouver les reliques de XXX**
+* Échaper à XXX
+* Protéger (PJ XXX)
+* Retrouver la trace de XXX
+* Retrouver les reliques de XXX
 
 ## Système
 On lance autant de dés que la **Caractéristique**.
 **+1** au résultat si au moins un **Talent** s'applique.
 
-On lit le résultat dans le tableau.
+Le plus haut résultat indique le résultat dans ce tableau :
+
+Valeur du dé | Effet
+-------------|---
+⚀            | **Échec critique**
+⚁            | 
+⚂            | 
+⚃            | 
+⚄            | 
+⚅            | 
+⚅⚅           | 
 
 Si tous les dés sont des **1**, c'est toujours un **échec critique**, mais si un Talent s'applique
 
@@ -90,16 +107,18 @@ Permettent :
 * de se relever lorsqu'on a été mis KO
 
 ### Magie
-* 1 Talent = une famille de magie, permettant de nombreux usages. Exemples :
-    * créer du son
-    * créer une source de lumière
-    * créer le froid / geler
-    * déplacement instantanné
-    * projeter des éclairs
-    * projeter des flammes
-    * créer un souffle d'air
+* 1 Talent = une famille de magie, permettant de nombreux usages
 * dégâts identiques que pour les armes
 * apprendre une nouvelle magie nécessite d'étudier des grimmoires ou d'avoir un maître, + dépenser 4 XPs
+
+#### Exemples de familles de magie
++ créer du son
++ créer une source de lumière
++ créer le froid / geler
++ déplacement instantanné
++ projeter des éclairs
++ projeter des flammes
++ créer un souffle d'air
 
 ### Soins
 * 1 jet réussit permet de soigner 1 Blessure après un combat
@@ -110,15 +129,16 @@ Permettent :
 * max 6 □ par PJ
 
 ### Expérience
-#### Gain d'XP
 * +1 XP en cas d'échec critique (**1**)
 * +1 XP lorsqu'une Clef est dépensée
-#### Dépense d'XP
-* 2 XPs => +1 point de Destin
-* 4 XPs => nouveau Trait, si une opportunité d'apprentissage se présente dans l'histoire
-* 6 XPs => +1 en Résistance / Vitesse / Max équipements (□)
-* 8 XP => nouvelle Clef (max 3, mais il est possible d'en remplacer pour 4 XP)
-* 10 XP => +1 dans un caractéristique
+
+Dépense d'XP | Coût
+-------------|-
++1 point de Destin | 2 XPs
+nouveau Trait, si une opportunité d'apprentissage se présente | 4 XPs
++1 en Résistance / Vitesse / Max équipements (□) | 6 XPs
+nouvelle Clef (max 3, mais il est possible d'en remplacer pour 4 XP) | 8 XPs
++1 dans un caractéristique | 10 XPs
 
 
 ## Création de personnage

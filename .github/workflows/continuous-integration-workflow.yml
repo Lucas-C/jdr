@@ -33,7 +33,7 @@ jobs:
 
       - name: Install dependencies ⚙️
         run: |
-          pip install fpdf2 markdown pypdf weasyprint
+          pip install fpdf2 mistletoe pypdf weasyprint
           # Seems like all `puppeteer print` commands do not work anymore:
           # * it produces zero logs on stderr anymore
           # * it silently fails to generate any PDF file
