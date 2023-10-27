@@ -378,7 +378,9 @@ qui inclut notamment :
 
 
 ## Licence
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" class="license" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img class="license" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="cc-by-nc-sa.png"/>
+</a>
 Ce scénario a été conçu par Lucas Cimon est est placé sous licence _[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre).

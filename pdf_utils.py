@@ -21,12 +21,11 @@ def markdown2pdf(dir, md_filepath, css_filepath):
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Lab Escape - Scénario pour le JdR Sombre</title>
+        <title>JdR - Work-in-progress</title>
         <link rel="stylesheet" href="{css_filepath.name}">
     </head>
     <body>{html}</body>
-</html>
-    """
+</html>"""
     with open(dir / "index.html", "w", encoding="utf8") as html_file:
         html_file.write(html_doc)
     font_config = FontConfiguration()
