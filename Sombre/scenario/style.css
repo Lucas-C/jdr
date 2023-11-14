@@ -5,6 +5,22 @@
 
 @font-face { font-family: "Freedom45"; src: url("fonts/Freedom45.otf"); }
 
+@page {
+  margin: /*top=*/25mm /*lateral=*/20mm /*bottom=*/30mm;
+  counter-increment: page-count;
+  @bottom-right {
+    font-family: Candara;
+    content: counter(page-count);
+  }
+}
+
+footer {
+  position: fixed; /* will repeat on each page */
+  bottom: -15mm;
+  right: 0;
+  /* border: red 1px solid; */
+}
+
 body { font-family: Candara; text-align: justify; }
 h1 { text-align: center; font-size: 5rem; font-family: Freedom45; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }

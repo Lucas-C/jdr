@@ -126,6 +126,10 @@ jobs:
           fi
           cd -
 
+          cd Pathfinder
+          ./build_pdf.py
+          cd -
+
           cd plus-de-place-en-enfer
           node ../md2html.js plus-de-place-en-enfer.md > index.html
           cd -

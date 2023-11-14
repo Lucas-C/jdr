@@ -81,7 +81,7 @@ Tu caches sur toi un **surin**, un poignard que tu as bricolé. Tu peux le rév�
 
 Tu trouves Stacey sacrément mignonne.
 
-Par contre le garde, Hardley, a une dent contre toi... Faut t'en méfier.
+Par contre le garde, Hadley, a une dent contre toi... Faut t'en méfier.
 """)
     render_tile_front(tpi, "Markus", "Détenu #6174")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Markus"], border=True)
@@ -92,9 +92,9 @@ Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidenti
     render_tile_front(tpi, "Hanh", "Détenu #6578")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Hanh"], border=True)
     render_tile_back(tpi, """\
-Merde, dans la panique, tu penses avoir été contaminé. Il doit bien y avoir un antidote quelque part ici !
+__Shit__ ! Dans la panique, tu penses avoir été contaminé par un Infecté. Il doit bien y avoir un antidote quelque part ici !
 
-Fait chier, des années que tu te tiens à carreau, il restait moins de 6 mois à tirer.
+__Fucking shit__ ! Des années que tu te tiens à carreau, et plus que mois à tirer...
 
 **Guigne** : une fois par partie, transforme le résultat du dé d'un autre joueur en 6.
 """)

@@ -1,14 +1,15 @@
 <!-- What next ?
+* supprimer Vitesse ? car seulement utile dans scénarios avec map... = Athlétisme + 2
+* adapter le scénario de base
+* adapter les 4 prétirés au système et au scénario
 * AdJs / mise en page :
   + single page recap' système, inc. XP usages
   + single page : création persos inc. clefs & familles magies
-  + single page : liste e traits
+  + single page : liste de traits
   + single page : liste d'équipements, common & rare
   + FPs : in PDF in A5 format side-by-side
-* adapter le scénario de base
-* adapter les 4 prétirés au système et au scénario
 * pour la création de perso, suggérer un outil de générateur de background de PJ basique
-* add this to .github/workflows/continuous-integration-workflow.yml
+* règle supplémentaire ? -> gros jeton {-1} lorsqu'un personnage agit "en désavantage" ?
 -->
 _Total Conversion_ pour la boîte d'initiation Pathfinder (2e édition).
 
