@@ -12,6 +12,7 @@ from pathlib import Path
 
 from fpdf import FPDF
 from fpdf.enums import Align
+from fpdf.image_parsing import preload_image
 from pypdf import PdfMerger
 
 DIR = Path(__file__).parent
@@ -30,8 +31,8 @@ IMG_PER_NAME = {
     "Damian": "fargo_by_fernand0fc_dbd7gj6-portrait.png",
     "Markus": "JustinNichol-PP2-portrait.png",
     "Hanh": "JustinNichol-PP3-portrait.png",
-    "Stacey": "sketch_rapido_fernand0fc_605851036-portrait.png",
-    "Hadley": "corporate_level_bodyguard_by_fernand0fc_ddafhmc-portrait.png",
+    "Stacey": "numero9_by_thesimplylexi-595642973-portrait.png",
+    "Hadley": "mccaul_lombardi_by_thesimplylexi_dca3dus-portrait.png",
 }
 SCALE = .12  # mm / pixel
 
@@ -53,16 +54,6 @@ def build_appendix_pdf():
     pdf.b_margin = pdf.t_margin = 12
     pdf.add_page(orientation="landscape")
     pdf.image(PLAN_FILEPATH, h=pdf.eph, w=pdf.epw, keep_aspect_ratio=True)
-    # Alt PJs design:
-    global IMG_PER_NAME
-    IMG_PER_NAME = {
-        "Damian": "caleb_by_thesimplylexi_dag3mpv-portrait.png",
-        "Markus": "numero8_by_thesimplylexi-595389474-portrait.png",
-        "Hanh": "numero9_by_thesimplylexi-595642973-portrait.png",
-        "Stacey": "numero7_by_thesimplylexi-594550690-portrait.png",
-        "Hadley": "mccaul_lombardi_by_thesimplylexi_dca3dus-portrait.png",
-    }
-    render_character_tiles(pdf)
     bytes_io = io.BytesIO()
     pdf.output(bytes_io)
     return bytes_io
@@ -74,7 +65,7 @@ def render_character_tiles(pdf):
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
-    render_tile_front(tpi, "Damian", "Détenu #1729")
+    render_tile_front(tpi, "Damian", "Racket")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Damian"], border=True)
     render_tile_back(tpi, """\
 Tu caches sur toi un **surin**, un poignard que tu as bricolé. Tu peux le révéler quand tu veux.
@@ -83,13 +74,13 @@ Tu trouves Stacey sacrément mignonne.
 
 Par contre le garde, Hadley, a une dent contre toi... Faut t'en méfier.
 """)
-    render_tile_front(tpi, "Markus", "Détenu #6174")
+    render_tile_front(tpi, "Markus", "Trafic de stups")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Markus"], border=True)
     render_tile_back(tpi, """\
 Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidentielles de ce labo. Il faut que tu mettes la main dessus avant de te barrer d'ici. Un type nommé Hermann devait te les filer.
 
 **In Extremis** : une fois par partie, transforme le résultat du dé en 1 pour obtenir une réussite de justesse.""")
-    render_tile_front(tpi, "Hanh", "Détenu #6578")
+    render_tile_front(tpi, "Hanh", "Escroquerie")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Hanh"], border=True)
     render_tile_back(tpi, """\
 __Shit__ ! Dans la panique, tu penses avoir été contaminé par un Infecté. Il doit bien y avoir un antidote quelque part ici !
@@ -98,10 +89,10 @@ __Fucking shit__ ! Des années que tu te tiens à carreau, et plus que mois à t
 
 **Guigne** : une fois par partie, transforme le résultat du dé d'un autre joueur en 6.
 """)
-    render_tile_front(tpi, "Stacey", "Détenu #8128")
+    render_tile_front(tpi, "Stacey", "Cambriolage")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Stacey"], border=True)
     render_tile_back(tpi, """\
-Vu les regards que te lance Damian, tu ne le laisse pas indiférent. Tu pourrais peut-être utiliser ça à ton avantage.
+Vu les regards que te lance Damian, tu ne le laisse pas indifférent. Tu pourrais peut-être utiliser ça à ton avantage.
 
 Toi, tu as plutôt le béguin pour Markus.
 
@@ -142,14 +133,15 @@ def render_other_tiles(pdf):
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True)
-    render_img_tile(tpi, DIR / "items/GasMask.png", border=True)
-    render_img_tile(tpi, DIR / "items/car-keys.jpg", border=True)
-    render_img_tile(tpi, DIR / "items/syringe.jpg", border=True)
+    render_tile_front(tpi, "Zombie", "Morsure", level=2)
+    render_tile_front(tpi, "Zombie", "Morsure", level=2)
+    render_tile_front(tpi, "Zombie", "Morsure", level=2)
+    render_img_tile(tpi, DIR / "items/GasMask.png", border=True, w_ratio=.8)
+    render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True, w_ratio=.5)
+    render_img_tile(tpi, DIR / "items/car-keys.jpg", border=True, w_ratio=.5)
+    render_img_tile(tpi, DIR / "items/Tuile-MetalPipe.jpg")
+    render_img_tile(tpi, DIR / "items/Tuile-Medikit.jpg")
+    render_img_tile(tpi, DIR / "items/Tuile-Munitions.jpg")
 
 
 def render_room_tiles(pdf):
@@ -216,7 +208,7 @@ def add_top_bottom(pdf, img1, shadow=False):
 
 
 def add_tile(pdf, img_filename, halign, valign_height=None):
-    _, _, img_info = pdf.preload_image(DIR / "tiles" / img_filename)
+    _, _, img_info = preload_image(pdf.image_cache, DIR / "tiles" / img_filename)
     img_width_mm = img_info.width * SCALE
     img_height_mm = img_info.height * SCALE
     if valign_height:

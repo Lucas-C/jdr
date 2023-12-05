@@ -10,28 +10,37 @@
   counter-increment: page-count;
   @bottom-right {
     font-family: Candara;
-    content: counter(page-count);
+    content: "Sombre Zéro - Lab Escape - page " counter(page-count);
+    font-style: italic;
+    height: 20mm;
+    margin-right: 60mm;
+    /* border: red 1px solid; */
   }
 }
 
 footer {
   position: fixed; /* will repeat on each page */
-  bottom: -15mm;
+  height: 20mm;
+  bottom: -20mm;
   right: 0;
-  /* border: red 1px solid; */
+  /* border: green 1px solid; */
 }
+footer img { max-height: 100%; }
 
 body { font-family: Candara; text-align: justify; }
 h1 { text-align: center; font-size: 5rem; font-family: Freedom45; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 
-img { max-width: 15rem; max-height: 15rem; display: block; margin: 0 auto; }
+img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
 img.large { max-width: 100%; max-height: 100%; }
 img.small { max-width: 8rem; max-height: 8rem; }
 
 img.spatter { width: 6rem; transform: scaleY(-1); position: absolute; right: 2rem; top: 6rem; }
 
-.license { float: left; padding-right: 1rem; }
+.side-by-side { text-align: center; }
+.side-by-side > * { display: inline-block; }
+
+.float-left { float: left; padding-right: 1rem; }
 
 @media print {
   .web-only { display: none; }

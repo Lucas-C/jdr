@@ -10,9 +10,11 @@ def iter_tile_pos(pdf, columns=4, rows=3):
             yield pdf, pdf.x, pdf.y
 
 
-def render_img_tile(tpi, img, name="", desc="", border=False):
+def render_img_tile(tpi, img, name="", desc="", border=False, w_ratio=1, h_ratio=1):
     pdf, x, y = next(tpi)
-    pdf.image(img, w=TILE_SIZE, h=TILE_SIZE, keep_aspect_ratio=True)
+    img_dx = TILE_SIZE * (1 - w_ratio) / 2
+    img_dy = TILE_SIZE * (1 - h_ratio) / 2
+    pdf.image(img, x=x + img_dx, y=y + img_dy, w=TILE_SIZE * w_ratio, h=TILE_SIZE, keep_aspect_ratio=True)
     if border:
         pdf.rect(x, y , w=TILE_SIZE, h=TILE_SIZE)
     if name or desc:
