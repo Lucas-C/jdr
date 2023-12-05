@@ -156,11 +156,18 @@ jobs:
           fi
           cd -
 
-          cd Sombre
+          cd Sombre/
           Terminatrice/Terminatrice-BehindTheDoors.py
           Terminatrice/Terminatrice-OutOfReach.py
-          scenario/scenario2pdf.py
-          cd -
+          cd scenario/
+          if [[ $GIT_TAG =~ ^Sombre-LabEscape- ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/Sombre-LabEscape-/}/" README.md
+          fi
+          ./scenario2pdf.py
+          if [[ $GIT_TAG =~ ^Sombre-LabEscape- ]]; then
+            mv ./Sombre-LabEscape.pdf ./$GIT_TAG.pdf
+          fi
+          cd ../..
 
           cd sous-terre
           node ../md2html.js sous-terre.md > index.html

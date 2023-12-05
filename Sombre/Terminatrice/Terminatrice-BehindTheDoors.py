@@ -10,8 +10,10 @@ from fpdf import FPDF
 
 DIR = Path(__file__).parent
 
+sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
+from pdf_utils import start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
-from render_utils import iter_tile_pos, render_img_tile, start_watch_and_rebuild, LINE_HEIGHT, TILE_SIZE
+from render_utils import iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
 
 VERTI_MARGIN = 15
 HORIZ_MARGIN = 28.5
@@ -24,7 +26,7 @@ def build_pdf():
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     with pdf.rotation(90, x=23, y=pdf.h/2):
-        pdf.text(x=-60, y=pdf.h/2, txt="Lucas Cimon 2023 - Personnages alternatifs pour le scénario Behind the Doors de Julien « DeathAmbre » De Monte, pour Sombre")
+        pdf.text(x=-60, y=pdf.h/2, text="Lucas Cimon 2023 - Personnages alternatifs pour le scénario Behind the Doors de Julien « DeathAmbre » De Monte, pour Sombre")
     tpi = iter_tile_pos(pdf)  # Tiles Positions Iterator
     render_tile_front(tpi, "Brad", "Businessman glacial")
     render_tile_back(tpi, """\
@@ -69,14 +71,14 @@ def render_tile_front(tpi, name, desc):
 def render_tile_back(tpi, text):
     pdf, _, _ = next(tpi)
     pdf.set_font(size=9, style="")
-    pdf.multi_cell(txt="\n" + text, align="C", border=1,
+    pdf.multi_cell(text="\n" + text, align="C", border=1,
                    h=TILE_SIZE, w=TILE_SIZE, max_line_height=LINE_HEIGHT)
 
 def render_memo(pdf):
     pdf.set_xy(153, 140)
     pdf.set_font(size=9)
     # \x95 = BULLET character in Windows-1252 encoding
-    pdf.multi_cell(w=0, h=LINE_HEIGHT, markdown=True, txt="""\
+    pdf.multi_cell(w=0, h=LINE_HEIGHT, markdown=True, text="""\
 \x95 Tous les personnages sont armés et savent tirer
 \x95 Mickey les a tous sauvé : il a réussi à contacter l'armée puis à les mener ici. À **4 joueurs**, on l'enlève : les zombies l'ont eu juste avant l'ascenseur
 \x95 Chris & Dany peuvent être des personnages féminins

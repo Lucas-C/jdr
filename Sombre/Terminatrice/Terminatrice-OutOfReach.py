@@ -10,8 +10,10 @@ from fpdf import FPDF
 
 DIR = Path(__file__).parent
 
+sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
+from pdf_utils import start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
-from render_utils import iter_tile_pos, render_img_tile, start_watch_and_rebuild
+from render_utils import iter_tile_pos, render_img_tile
 
 VERTI_MARGIN = 40
 HORIZ_MARGIN = 28.5
@@ -32,7 +34,7 @@ def build_pdf():
     render_img_tile(tpi, DIR / "../SombreZero-Empty3.png", "Benett")
     pdf.set_font(size=10)
     pdf.set_xy(pdf.w/2, 165)
-    pdf.cell(align="X", txt="Lucas Cimon 2023 - Tuiles personnages pour le scénario Out Of Reach de Julien « DeathAmbre » De Monte, pour Sombre")
+    pdf.cell(align="X", text="Lucas Cimon 2023 - Tuiles personnages pour le scénario Out Of Reach de Julien « DeathAmbre » De Monte, pour Sombre")
     out_filepath = "Terminatrice-OutOfReach.pdf"
     pdf.output(DIR / out_filepath)
     print(f"{out_filepath} has been rebuilt")

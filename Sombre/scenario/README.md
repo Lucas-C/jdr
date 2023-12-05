@@ -436,6 +436,7 @@ Si des portes s'interposent, il les défoncera avec acharnement,
 les réduisant en miettes en 1d6 tours.
 
 <br>
+<br>
 
 ## Épilogue
 Plusieurs fins sont possibles.
@@ -469,7 +470,7 @@ qui inclut notamment :
 
 Ce scénario a été conçu par Lucas Cimon est est placé sous licence _[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_.
 
-Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre).
+Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre). Version : 1.0
 
 La création de ce scénario a nécessité un long travail.
 Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur <https://lucas-c.itch.io>.
