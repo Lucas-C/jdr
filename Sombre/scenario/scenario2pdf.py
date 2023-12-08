@@ -77,7 +77,7 @@ Par contre le garde, Hadley, a une dent contre toi... Faut t'en méfier.
     render_tile_front(tpi, "Markus", "Trafic de stups")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Markus"], border=True)
     render_tile_back(tpi, """\
-Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidentielles de ce labo. Il faut que tu mettes la main dessus avant de te barrer d'ici. Un type nommé Hermann devait te les filer.
+Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidentielles de ce labo. Il faut que tu mettes la main dessus avant de te barrer d'ici. Un type nommé Herman devait te les filer.
 
 **In Extremis** : une fois par partie, transforme le résultat du dé en 1 pour obtenir une réussite de justesse.""")
     render_tile_front(tpi, "Hanh", "Escroquerie")
@@ -85,7 +85,7 @@ Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidenti
     render_tile_back(tpi, """\
 __Shit__ ! Dans la panique, tu penses avoir été contaminé par un Infecté. Il doit bien y avoir un antidote quelque part ici !
 
-__Fucking shit__ ! Des années que tu te tiens à carreau, et plus que mois à tirer...
+__Fucking shit__ ! Des années que tu te tiens à carreau, et plus que 3 mois à tirer...
 
 **Guigne** : une fois par partie, transforme le résultat du dé d'un autre joueur en 6.
 """)

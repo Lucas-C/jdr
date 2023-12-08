@@ -11,7 +11,7 @@ avec une part d'exploration, les lieux étant progressivement révélés aux jou
 <img class="float-left" src="printer.svg">
 
 Ce scénario nécessite d'imprimer au moins 8 pages couleur, sur papier standard,
-et un peu de découpage / pliage.
+et un peu de découpage / pliage préalable.
 
 <div class="web-only">
 Version PDF : <a href="https://lucas-c.github.io/jdr/Sombre/scenario/Sombre-LabEscape.pdf">Sombre-LabEscape.pdf</a>
@@ -30,12 +30,12 @@ _Soyez attentifs, ces informations seront cruciales à votre survie..._
 **Il y a quelques jours**, vous vous êtes portés volontaires pour participer à un protocole expérimental,
 dans un laboratoire militaire partenaire de votre établissement pénitentiaire.
 Pour les détenus, cela va vous permettre de bénéficier d'une remise de peine.
-Pour Hadley & Edgecomb, les matons, ce n'est pas la première fois que vous accompagnez des taulards au « Labo », et la prime à la clef est très motivante...
+Pour Hadley & Edgecomb, les matons, ce n'est pas la première fois que vous accompagnez des taulards au «&nbsp;Labo&nbsp;», et la prime à la clef est très motivante...
 
 **Il y a 1h**, votre véhicule est arrivé au sous-sol du « Labo », et Hadley & Edgecomb vous ont escortés
 au premier étage du bâtiment, par l'ascenseur.
 Vous avez été installés dans des fauteuils inclinables dans une salle confortable :
-on aurait pu croire à un don du sang à l'EFS, ils diffusaient même la radio.
+le personnel était cordial et ils diffusaient même la radio.
 Et puis vous avez entendu des cris, et tout a dégénéré...
 
 **Il y a 10min**, très vite ça a été la panique dans tout l'étage :
@@ -70,7 +70,7 @@ sont nécessaires pour jouer ce scénario.
 chaque bande de 3 tuiles doit être découpée d'un bloc, puis 2 pliures sont à réaliser
 pour glisser à l'intérieur les informations secrètes de chaque PJ.
 
-⚠️ Les 2 PNJs (Sujet #313 et Herman) sont composés d'un **duo** de tuiles adossées,
+⚠️ Les 2 PNJs (Sujet #314 et Herman) sont composés d'un **duo** de tuiles adossées,
 à découper d'un bloc : ils ne nécessitent qu'une unique pliure.
 
 Enfin, les armes à feu et les tuiles « Zombie » sont à découper individuellement.
@@ -83,7 +83,7 @@ Toutes les pièces possèdent un recto et un verso : elles doivent être **repli
 La _tagline_ de chaque personnage indique le crime pour lequel il est derrière les barreaux.
 
 Les rôles peuvent être attribués aléatoirement,
-mais il vaut mieux confier celui du gardien pénitentiaire à un·e joueur·euse qui
+mais il vaut mieux confier celui du gardien pénitentiaire, **Hadley**, à un·e joueur·euse qui
 est à l'aise avec la confrontation, car ce personnage peut se sentir « seul contre tous ».
 
 * À 4 joueurs, jouez **sans Stacey**.
@@ -117,17 +117,17 @@ Si un PJ fouille l'endroit, il met la main sur une **hache d'incendie**.
 ### 2. Le couloir
 **Deux zombies** attendent patiemment les PJs ici.
 Soignez cette première rencontre, c'est le moment de décrire aux joueurs toute l'horreur de ces zombies.
-Ils n'ont plus rien d'humain dans leur comportement.
+Ils errent hagards, ensanglantés, et n'ont plus rien d'humain dans leur comportement
 
-Le premier peut être pris par surprise si les PJs réussissent un jet d'approche discrète.
-Le second mettra un tour à rejoindre la double-porte d'accès à l'entrepôt.
+S'ils sont discrets, les PJs auront le temps de s'approcher du premier pour l'attaquer sans qu'il n'ait le temps de réagir au premier tour de combat.
+Le second mettra un tour entier à rejoindre la zone du couloir où se trouve son collègue.
 Le couloir est trop étroit et éclairé pour se faufiler sans être remarqué par eux.
 
 La porte de la salle des spécimens (4) est fermée par un **scanner digital**.
 
 Devant le **caisson**, un panneau digital questionne en lettres clignotantes : **« SORTIE ? »**
 Quiconque appuie dessus déclenche son ouverture et la libération du sujet #314,
-décrit dans la section événement dédiée.
+décrit dans la section « Événements » plus loin.
 
 ### 3. Le bureau
 Un local comportant un bureau avec chaise et ordinateur, ainsi que des grands classeurs de rangement métalliques.
@@ -137,8 +137,8 @@ Les documents stockés dans cette pièce sont des archives administratives sans 
 
 Une porte indique un accès au rez-de-chaussé (5), mais est protégée par un **scanner digital**.
 
-La tuile de cette pièce doit être retournée une fois que le sujet #314 s'y est précipité et l'a ravagé,
-_cf._ la section événement correspondante.
+La tuile de cette pièce doit être retournée une fois que le sujet #314 s'y est précipité et l'a ravagé.
+La section « Événements » plus loin fournit plus de détails.
 
 ### 4. La salle des spécimens
 Cette salle contient une vingtaine des cuves cylindriques verticales, dans lesquelles flottent des corps humains...
@@ -152,7 +152,7 @@ les spécimens des cuves semblent dévisager les PJs silencieusement, etc.
 Comme dans le couloir, le premier peut être pris par surprise si les PJs sont discrets,
 et le second mettra un tour à rejoindre l'entrée de la pièce.
 
-Sur le côté la pièce opposé à la porte d'entrée, un grand plan de travail comporte de nombreux papiers.
+Sur le côté de la pièce opposé à la porte d'entrée, un grand plan de travail comporte de nombreux papiers.
 Une partie sont répandus au sol. S'ils sont examinés par les PJs, ils apprendront que **des armes bactériologiques sont développées ici**.
 Il est également fait mention de « spores » capables de « tout nettoyer ».
 
@@ -166,13 +166,13 @@ il s'agit des données recherchées par Markus.
 
 ### 5. La cage d'escalier - étage
 En entrant à droite, l'écran d'un terminal de contrôle brille d'une lumière jaune.
-La console affiche clairement ce message :
+Il affiche clairement ce message :
 
 > Brèche détectée. <br>> Risque d'explosion imminente. <br>
 > Voulez-vous libérer les spores ?
 
 Il n'est rien possible de faire d'autre sur ce terminal.
-Référez-vous à la section dédiée à cet événement si quelqu'un valide cette demande.
+Si quelqu'un valide cette demande, la section « Événements » plus loin détaille ce qu'il se passe.
 
 Un employé du laboratoire gît assis au sol, de dos face à la porte d'entrée.
 Ce n'est pas visible de dos, mais le pauvre est en train de **se transformer en zombie**.
@@ -268,17 +268,16 @@ Il peut être utilisé **3 fois**. Chaque utilisation nécessite d'y consacrer *
 ## Événements
 
 ### Libération du sujet #314
-Si quelqu'un **ouvre la porte du caisson, le sujet #314 s'en échappera**, enragé.
-Il attaquera brièvement le premier humain à portée, puis se ruera vers le bureau (3).
-
-Une fois dans le bureau, il saccagera les lieux.
-Si les PJs ne sont pas encore rentrés dans cette pièce,
-alors elle contiendra un scientifique (autre qu'Herman), que le sujet #314 massacrera.
-Au terme de son ravage, il **défoncera la cloison donnant sur les WCs**.
+Si quelqu'un touche au panneau devant le caisson, **cela l'ouvre et le sujet #314 s'en échappe, enragé**.
+Voici ses actions, tour par tour :
+1. il attaque brièvement le premier humain en vue en sortant du caisson
+2. il fait quelques pas dans le couloir et s'engouffre dans le bureau (3)
+3. il saccage les lieux, renversant les armoires, puis fixe le mur en tendant l'oreille
+4. il **défonce la cloison donnant aux WCs**, et se met à dévorer un laborantin caché là
 
 ↩️ Retournez alors la tuile 3, et ajoutez la tuile 10.
 
-La brèche créée dans une cloison révèle un **tuyau métallique**, en partie arraché.
+La brèche créée dans la cloison révèle un **tuyau métallique**, en partie arraché.
 Il est facile de s'en saisir et de l'employer comme une arme.
 
 S'il n'est pas dérangé, le sujet #314 reste alors plusieurs tours dans les WCs
@@ -294,9 +293,8 @@ Si des PJs sont actuellement sur certaines de ces tuiles, retournez-les immédia
 Conséquences concrètes de l'éclosion des spores :
 * la porte de la salle des spécimens (4) est sortie de ses gonds : elle peut désormais être ouverte sans employer le scanner digital.
 * tout personnage qui entre dans la salle des spécimens sans retenir sa respiration devient **Embrumé** après un tour.
-* le sujet #314 est libéré de son caisson, s'il n'en était pas encore sorti - _cf._ section événement correspondante
 * la voiture est couverte de lianes, et doit être débroussaillée (nécessite 2 tours) avant d'être démarrée.
-
+* le sujet #314 est libéré de son caisson, s'il n'en était pas encore sorti - _cf._ section événement correspondante
 
 <br>
 
@@ -367,7 +365,7 @@ Lorsqu'un PJ meurt, s'il a été au moins une fois mordu par un zombie,
 et si le coup qui l'a tué ne lui a pas détruit ou détaché la tête, alors **ce PJ devient un zombie**.
 
 Donnez à ce·tte joueur·euse une tuile **Zombie** et expliquez-lui ses nouveaux objectifs :
-**dévorer tout un humain à proximité** !
+**dévorer tout humain à proximité** !
 Ses actions se limitent désormais à se déplacer et tenter de mordre des humains.
 
 <br>
@@ -376,7 +374,7 @@ Ses actions se limitent désormais à se déplacer et tenter de mordre des humai
 Une fois les spores libérées, respirer l'air de **la salle des spécimens** fait devenir **Embrumé** après un tour passé dans cette pièce.
 Dans le couloir et en-dessous, dans le garage, les spores sont trop peu nombreux pour faire effet.
 
-Un personnage qui devient **Embrumé** perd toutes ses facultés mentales et reste simplement debout, hébétée.
+Un personnage qui devient **Embrumé** perd toutes ses facultés mentales et reste simplement debout, hébété.
 Un personnage **Embrumé** tiré hors de la salle des spécimens reprend immédiatement ses esprits.
 
 Un PJ peut retenir sa respiration pendant 3 tours si Indemne, pendant 2 tours si Blessé, et pendant 1 tour si Mutilé,
@@ -413,9 +411,9 @@ Herman peut **activer les scanners digitaux**, tout comme Hadley.
 
 Si un PJ l'interroge à propos du **terminal** et de la libération des spores,
 il aura une illumination et s'écrira « Mais oui, bien sûr ! »
-et dans la foulée appuira sur le bouton de validation, s'il est à proximité et qu'il n'a pas encore été pressé.
+et dans la foulée appuiera sur le bouton de validation, s'il est à proximité et qu'il n'a pas encore été pressé, provoquant la libération des spores.
 Il pourra expliquer qu'il s'agit d'une procédure d'urgence,
-qu'il est donc parfaitement de logique de déclencher maintenant...
+qu'il est donc parfaitement logique de déclencher maintenant...
 mais dont il ne connaît pas les conséquences exactes.
 
 Si **Markus** se manifeste pour obtenir les données, il expliquera qu'elles sont sur une **clef USB grise**,
@@ -498,6 +496,8 @@ Merci aux illustrateurs qui ont placé leur magnifique travail sous licence _Cre
 -->
 
 Merci à Khurasan, l'auteur de la police [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756).
+
+Merci aux testeurs de ce scénario : Aurélien, Matthieu, Alarig, Aymeric, Clément, Émilien, Morgan, Sébastien. Merci en particulier à Matthieu, mon relecteur.
 
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [fpdf2](https://pypi.org/project/fpdf2/), [livereload](https://pypi.org/project/livereload/), [pypdf](https://pypi.org/project/pypdf/) & [weasyprint](https://weasyprint.org/).
 
