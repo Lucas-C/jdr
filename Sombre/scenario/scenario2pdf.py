@@ -107,7 +107,7 @@ Tu te méfies de Damian, c'est un sournoi. Par contre Hanh est un détenu modèl
 Tu as un **revolver**, et il te reste 3 balles.
 
 Important : tes empreintes activent les serrures digitales de sécurité. Pas celles des détenus, bien sûr.""")
-    render_tile_front(tpi, "Sujet #314", "Encaisse -1 dgt", level=3)
+    render_tile_front(tpi, "Sujet #314", "Résistance", level=3)
     render_img_tile(tpi, DIR / "ZombieBruteNoShadow.png", border=True)
     render_img_tile(tpi, DIR / "items/Tuile-Revolver.jpg")
     render_tile_front(tpi, "Herman", "Biologiste", level=3)
@@ -133,9 +133,9 @@ def render_other_tiles(pdf):
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
-    render_tile_front(tpi, "Zombie", "Morsure", level=2)
-    render_tile_front(tpi, "Zombie", "Morsure", level=2)
-    render_tile_front(tpi, "Zombie", "Morsure", level=2)
+    render_tile_front(tpi, "Zombie", "Morsure : 1 Blessure", level=3)
+    render_tile_front(tpi, "Zombie", "Morsure : 1 Blessure", level=3)
+    render_tile_front(tpi, "Zombie", "Morsure : 1 Blessure", level=3)
     render_img_tile(tpi, DIR / "items/GasMask.png", border=True, w_ratio=.8)
     render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True, w_ratio=.5)
     render_img_tile(tpi, DIR / "items/car-keys.jpg", border=True, w_ratio=.5)
@@ -145,35 +145,47 @@ def render_other_tiles(pdf):
 
 
 def render_room_tiles(pdf):
+    pdf.add_font(fname="fonts/Freedom45.otf")
+    pdf.set_font("Freedom45", size=12)
     pdf.set_margin(10)
     pdf.t_margin = 20
 
     pdf.add_page()
     add_side_by_side(pdf, "Laboratory-Corridor-1.jpg", "Laboratory-Corridor-2.jpg", border=True)
+    pdf.text(x=34, y=19, text="2. Le couloir")
     pdf.y += 15
     add_side_by_side(pdf, "Laboratory-Garage-1.jpg", "Laboratory-Garage-2.jpg")
+    pdf.text(x=18, y=171, text="8. Le garage")
 
     pdf.add_page()
     add_side_by_side(pdf, "Laboratory-Office-1.jpg", "Laboratory-Office-2.jpg")
+    pdf.text(x=53, y=19, text="3. Le bureau")
     pdf.y += 20
     add_side_by_side(pdf, "Laboratory-WC-1.jpg", "Laboratory-WC-2.jpg")
+    pdf.text(x=53, y=105, text="10. Les WCs")
     pdf.y += 20
     add_side_by_side(pdf, "Laboratory-Lab.jpg", shadow=True)
+    pdf.text(x=36, y=194, text="9. Le petit labo")
 
     pdf.add_page()
     add_side_by_side(pdf, "Laboratory-SpecimensBench-1-short.jpg", "Laboratory-SpecimensBench-2-short.jpg")
+    pdf.text(x=20, y=18, text="4. La salle des specimens")
     pdf.y += 15
     add_side_by_side(pdf, "Laboratory-Closet.jpg", shadow=True)
+    pdf.text(x=63, y=203, text="6. La reserve")
 
     pdf.add_page()
     pdf.y += 20
     add_side_by_side(pdf, "Laboratory-ControlRoom-1.jpg", shadow=True)
+    pdf.text(x=22, y=38, text="5. La cage d'escalier - etage")
     pdf.y += 30
     add_side_by_side(pdf, "Laboratory-ControlRoom-2.jpg", shadow=True)
+    pdf.text(x=28, y=153, text="7. La cage d'escalier - RdC")
 
     pdf.add_page()
     pdf.y += 20
     add_top_bottom(pdf, "Laboratory-StorageRoom.jpg", shadow=True)
+    pdf.text(x=53, y=90, text="1. L'entrepot")
 
 
 def add_side_by_side(pdf, img1, img2=None, border=False, shadow=False):

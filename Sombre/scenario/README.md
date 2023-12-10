@@ -60,8 +60,12 @@ Vous vous êtes tous engouffrés dans une pièce au hasard et avez barricadé la
 <br>
 
 ## Préparatifs
-Seules les **règles de base de Sombre Zéro**, disponibles dans [le numéro 3 de Sombre](https://www.terresetranges.net/forums/viewtopic.php?pid=10545#p10545),
-sont nécessaires pour jouer ce scénario.
+Seules les **règles de base de Sombre Zéro** sont nécessaires pour jouer ce scénario.
+Elles sont détaillées dans [Sombre n°6](https://www.terresetranges.net/forums/viewtopic.php?pid=15251#p15251).
+[Sombre n°3](https://www.terresetranges.net/forums/viewtopic.php?pid=10545#p10545)
+est également un très bonne introduction à Sombre Zéro,
+avec l'excellent scénario _Deep Space Gore_.
+Ce scénario emploie la variante _premium_.
 
 <br>
 
@@ -236,11 +240,15 @@ Un message dans un coin de l'écran mentionne « clef USB manquante, insérez-la
 Ce PC ne permet pas aux PJs d'accéder à l'extérieur du « Labo »,
 mais deux choses restent possibles :
 
-* déclencher la libération des spores ;
-
 * consulter **le contenu de la clef USB**, si elle a été récupérée et que les PJs y songent :
 elle contient tout ce qu'il y a à savoir sur l'origine des zombies, créés dans ce laboratoire,
 ainsi que **les instructions pour concevoir un vaccin**.
+
+* déclencher la libération des spores :
+
+> Brèche détectée. <br>
+> Risque d'explosion imminente. <br>
+> Voulez-vous libérer les spores ?
 
 La clef de la voiture pourra être trouvée dans une poche du zombie.
 
@@ -388,11 +396,12 @@ permettant ainsi de ne pas respirer l'air intoxiqué par les spores.
 ou de viscères dégoulinantes. Une observation plus attentive révélera également une présence végétale en eux :
 des racines, des bourgeons, de la mousse, de l'écorce...
 
-**Comportement** : s'ils n'ont aucun humain sain en ligne de vue, ils restent assez statiques
+**Comportement** : s'ils n'ont aucun humain en vue, ils restent statiques
 et rôdent lentement dans la pièce où ils se trouvent.
 
-Dès qu'ils aperçoivent un humain sain, ils mettent un tour à émerger de leur torpeur
+Dès qu'ils aperçoivent un humain, ils mettent un tour à émerger de leur torpeur
 (voir deux à la discrétion du MJ), avant de se ruer sur lui et de tenter de le mordre.
+Leur morsure ne fait qu'**un seul dégât**, mais **contamine** le personnage, qui se transformera en zombie à sa mort.
 
 ### Herman
 ![Herman](Herman.png)
@@ -423,6 +432,8 @@ dans la salle des spécimens. Il a bien trop la trouille pour aller la chercher 
 ![Sujet #314](ZombieBruteNoShadow.png)
 
 **Apparence** : un énorme et monstrueux zombie
+
+**Trait** : le sujet #314 possède le trait **Résistance**, il ne reçoit que **1 Blessure par attaque**.
 
 **Comportement** : le sujet #314 est bien plus violent et proactif que ses congénères.
 Son comportement initial lors de sa libération du caisson est décrit dans une section dédiée à cet événement.
@@ -465,12 +476,11 @@ qui inclut notamment :
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
   <img class="float-left" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="cc-by-nc-sa.png"/>
 </a>
-
-Ce scénario a été conçu par Lucas Cimon est est placé sous licence _[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_.
+Ce scénario a été conçu par Lucas Cimon est est placé sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre). Version : 1.0
 
-La création de ce scénario a nécessité un long travail.
+Ce scénario est diffusé à prix libre. Sa conception a nécessité un travail conséquent.
 Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur <https://lucas-c.itch.io>.
 
 Je serais aussi ravi d'avoir vos retours sur ce scénario si vous le faites jouer !
@@ -497,7 +507,10 @@ Merci aux illustrateurs qui ont placé leur magnifique travail sous licence _Cre
 
 Merci à Khurasan, l'auteur de la police [Freedom 45](https://www.fontspace.com/freedom-45-font-f100756).
 
-Merci aux testeurs de ce scénario : Aurélien, Matthieu, Alarig, Aymeric, Clément, Émilien, Morgan, Sébastien. Merci en particulier à Matthieu, mon relecteur.
+Merci à Julien _DeathAmbre_ De Monte pour la routine _LiveWire_.
+
+Merci aux testeurs de ce scénario : Aurélien, Matthieu, Alarig, Aymeric, Clément, Émilien, Morgan, Sébastien.
+Merci aux relecteurs : Matthieu et Julien _DeathAmbre_ De Monte.
 
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [fpdf2](https://pypi.org/project/fpdf2/), [livereload](https://pypi.org/project/livereload/), [pypdf](https://pypi.org/project/pypdf/) & [weasyprint](https://weasyprint.org/).
 
