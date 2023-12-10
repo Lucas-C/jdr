@@ -1,7 +1,7 @@
 import asyncio, io, logging
 from traceback import print_exc
 
-from mistletoe import markdown
+from mistletoe import markdown, HtmlRenderer
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 try:
@@ -16,7 +16,7 @@ except ImportError:
 
 def markdown2pdf(dir, md_filepath, css_filepath):
     with open(md_filepath, encoding="utf8") as md_file:
-        html = markdown(md_file.read())
+        html = markdown(md_file.read(), renderer=CustomHtmlRenderer)
     html_doc = f"""<!doctype html>
 <html>
     <head>
@@ -79,6 +79,23 @@ def watch_xreload_and_serve(module, root_dir, *files_to_watch):
     server.SFH = CustomStaticFileHandler
     print("Now starting HTTP server - blocking call to .serve()")
     server.serve(root=str(root_dir))
+
+
+class CustomHtmlRenderer(HtmlRenderer):
+    # Does not insert align="left" attributes in table cells,
+    # in order for TidyHTML not to produce: Warning: <td> attribute "align" not allowed for HTML5
+    def render_table_cell(self, token, in_header=False) -> str:
+        template = '<{tag}{attr}>{inner}</{tag}>\n'
+        tag = 'th' if in_header else 'td'
+        if token.align is None:
+            align = None
+        elif token.align == 0:
+            align = 'center'
+        elif token.align == 1:
+            align = 'right'
+        attr = ' align="{}"'.format(align) if align else ''
+        inner = self.render_inner(token)
+        return template.format(tag=tag, attr=attr, inner=inner)
 
 
 class CustomStaticFileHandler(StaticFileHandler):
