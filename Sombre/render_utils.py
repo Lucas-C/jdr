@@ -1,13 +1,3 @@
-import asyncio, logging, sys
-from traceback import print_exc
-
-try:
-    from livereload.watcher import get_watcher_class
-    from xreload import xreload
-    OPT_DEPS_LOADED = True
-except ImportError:
-    OPT_DEPS_LOADED = False
-
 LINE_HEIGHT = 5.25
 TILE_SIZE = 60
 
@@ -20,9 +10,11 @@ def iter_tile_pos(pdf, columns=4, rows=3):
             yield pdf, pdf.x, pdf.y
 
 
-def render_img_tile(tpi, img, name="", desc="", border=False):
+def render_img_tile(tpi, img, name="", desc="", border=False, w_ratio=1, h_ratio=1):
     pdf, x, y = next(tpi)
-    pdf.image(img, w=TILE_SIZE, h=TILE_SIZE, keep_aspect_ratio=True)
+    img_dx = TILE_SIZE * (1 - w_ratio) / 2
+    img_dy = TILE_SIZE * (1 - h_ratio) / 2
+    pdf.image(img, x=x + img_dx, y=y + img_dy, w=TILE_SIZE * w_ratio, h=TILE_SIZE, keep_aspect_ratio=True)
     if border:
         pdf.rect(x, y , w=TILE_SIZE, h=TILE_SIZE)
     if name or desc:
@@ -36,27 +28,3 @@ def render_img_tile(tpi, img, name="", desc="", border=False):
             pdf.y = y + .7 * TILE_SIZE
             pdf.set_font(size=13, style="I")
             pdf.cell(txt=desc, h=LINE_HEIGHT, align="X")
-
-
-async def start_watch_and_rebuild(module, *files_to_watch):
-    if not OPT_DEPS_LOADED:
-        raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
-    logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
-                        datefmt="%H:%M:%S", level=logging.INFO)
-    logging.getLogger("livereload").setLevel(logging.INFO)
-    watcher = get_watcher_class()()
-    watcher.watch(__file__, module.build_pdf)
-    for filepath in files_to_watch:
-        watcher.watch(filepath, module.build_pdf)
-    print("Watcher started...")
-    await watch_periodically(module, watcher)
-
-
-async def watch_periodically(module, watcher, delay_secs=.8):
-    try:
-        watcher.examine()
-    except Exception:
-        print_exc()
-    await asyncio.sleep(delay_secs)
-    xreload(module, new_annotations={"XRELOADED": True})
-    await asyncio.create_task(watch_periodically(module, watcher))

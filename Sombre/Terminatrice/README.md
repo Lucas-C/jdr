@@ -12,11 +12,11 @@ pip install fpdf2
 ```
 
 ## Behind The Doors
-Je propose ici des **personnages alternatifs** pour ce scénario, dont j'ai trouvé le concept génial :
-l'instant final avant que des survivants soient sauvés en hélico d'une apocalypse zombie,
-dans l'ascenseur, où ils ont une dernière occasion de régler leurs comptes....
+J'ai trouvé le concept de ce scénario génial : l'instant final avant que des survivants soient sauvés
+d'une apocalypse zombie en hélico, dans l'ascenseur, où ils ont une dernière occasion de régler leurs comptes,
+alors que chacun d'eux a une rancœur contre un de ses camarades...
 
-Ces PJs ont des _backgrounds_ / secrets différents du scénario original :
+Je propose ici des **personnages alternatifs** : ces PJs ont des _backgrounds_ / secrets différents du scénario original :
 ils sont un peu plus détaillés, et les enjeux s'éloignent d'une histoire de jalousie / tromperie,
 pour des questions de vengeance / reconnaissance / opportunité à saisir.
 

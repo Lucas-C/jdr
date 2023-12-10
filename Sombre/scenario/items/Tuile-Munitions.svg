@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300"
+     xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="matrix(0,1.1666666,1.1666666,0,0,0)">
+    <!-- Contour de la tuile : -->
+    <g style="fill: #9a9a9a">
+      <!-- Top edge: -->
+      <path d="M 42.9,39 h 0.48 v 171 h -0.48 Z"/>
+      <!-- Left edge: -->
+      <path d="M 42.9,39 h 171 v -0.48 h -171 Z"/>
+      <!-- Right edge: -->
+      <path d="M 42.9,210 h 171 v -0.48 h -171 Z"/>
+      <!-- Bottom edge: -->
+      <path d="M 213.9,39 h 0.48 v 171 h -0.48 Z"/>
+    </g>
+
+    <!-- Image : -->
+    <g transform="scale(-1 1) rotate(90 0 0)">
+        <image x="76" y="78" width="100" height="100" xlink:href="./bullets.png"/>
+    </g>
+
+    <!-- États : -->
+    <g transform="rotate(270 10 10)">
+        <image x="-100" y="45" width="5" height="15" xlink:href="./ammo-bullet.png"/>
+        <image x="-110" y="45" width="5" height="15" xlink:href="./ammo-bullet.png"/>
+        <image x="-120" y="45" width="5" height="15" xlink:href="./ammo-bullet.png"/>
+    </g>
+    <image x="120" y="40" width="5" height="15" xlink:href="./ammo-bullet.png"/>
+    <image x="130" y="40" width="5" height="15" xlink:href="./ammo-bullet.png"/>
+    <g transform="rotate(90 10 10)">
+        <image x="125" y="-192" width="5" height="15" xlink:href="./ammo-bullet.png"/>
+    </g>
+
+    <!-- Triangles de rotation -->
+    <g style="fill: black">
+      <!-- Après INDEMNE : -->
+      <path d="M 49 157 h 10 l -5 7 Z"/>
+      <!-- Après BLESSÉ : -->
+      <path d="M 97 44 v 10 l -7 -5 Z"/>
+      <!-- Après MUTILÉ : -->
+      <path d="M 199 90 h 10 l -5 -7 Z"/>
+    </g>
+
+    <!-- Internal square: -->
+    <g style="fill:#000000">
+      <!-- Top side: -->
+      <path d="m 62.76,190.191 h 1.5 V 58.251 h -1.5 z"/>
+      <!-- Left side: -->
+      <path d="M 64.26,59.751 H 193.2 v -1.5 H 64.26 Z"/>
+      <!-- Right side: -->
+      <path d="M 64.26,190.191 H 193.2 v -1.5 H 64.26 Z"/>
+      <!-- Bottom side: -->
+      <path d="m 193.2,190.191 h 1.5 V 58.251 h -1.5 z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.4.0">
+    <meta charset="utf-8">
+    <title>JdR - Work-in-progress</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- What next ?
+* supprimer Vitesse ? car seulement utile dans scénarios avec map... = Athlétisme + 2
+* adapter le scénario de base
+* adapter les 4 prétirés au système et au scénario
+* AdJs / mise en page :
+  + single page recap' système, inc. XP usages
+  + single page : création persos inc. clefs & familles magies
+  + single page : liste de traits
+  + single page : liste d'équipements, common & rare
+  + FPs : in PDF in A5 format side-by-side
+* pour la création de perso, suggérer un outil de générateur de background de PJ basique
+* règle supplémentaire ? -> gros jeton {-1} lorsqu'un personnage agit "en désavantage" ?
+-->
+    <p><em>Total Conversion</em> pour la boîte d'initiation Pathfinder (2e édition).</p>
+    <h2>Caractéristiques</h2>
+    <ul>
+        <li><strong>Athlétisme</strong> : représente l'agilité et la force physique d'un personnage</li>
+        <li><strong>Dextérité</strong> : représente l'habileté et la perception d'un personnage</li>
+        <li><strong>Sagesse</strong> : représente les connaissances d'un personnage</li>
+        <li><strong>Volonté</strong> : représente l'esprit, le charisme et la force mentale d'un personnage</li>
+    </ul>
+    <h2>Traits</h2>
+    <h3>Athlétisme</h3>
+    <ul>
+        <li>Acrobate</li>
+        <li>Charger</li>
+        <li>Courir</li>
+        <li>Escalade</li>
+        <li>Fort</li>
+        <li>Furtif</li>
+        <li>Nager</li>
+        <li>Saut périlleux</li>
+    </ul>
+    <h3>Dextérité</h3>
+    <ul>
+        <li>Crocheter</li>
+        <li>Désarmer</li>
+        <li>Dérober</li>
+        <li>Escrime</li>
+        <li>Lancer de couteau</li>
+        <li>Musicien</li>
+        <li>Pièges</li>
+        <li>Tir à l'arc / arbalète / mousquet</li>
+        <li>Ouie aiguisée</li>
+        <li>Voir dans le noir</li>
+    </ul>
+    <h3>Sagesse</h3>
+    <ul>
+        <li>Connaissance de &lt;domaine&gt;</li>
+        <li>Déguisement</li>
+        <li>Diplomatie</li>
+        <li>Mécanicien</li>
+        <li>Médecine</li>
+        <li>Négocier</li>
+        <li>Raffiné</li>
+        <li>Sens de l'orientation</li>
+    </ul>
+    <h3>Volonté</h3>
+    <ul>
+        <li>Amadouer</li>
+        <li>Beau parleur</li>
+        <li>Empathie</li>
+        <li>Intimider</li>
+        <li>Percevoir la magie</li>
+        <li>&lt;familles de magie&gt;</li>
+    </ul>
+    <h3>Stats annexes</h3>
+    <ul>
+        <li><strong>Vitesse</strong> : déplacement en un tour d'un personnage, 5 □ à la création d'un personnage</li>
+        <li><strong>Résistance</strong> : endurance d'un personnage, 7 à la création d'un personnage</li>
+        <li><strong>Blessures</strong> : 0 à la création d'un personnage</li>
+        <li><strong>Max équipements</strong> : 6 □ à la création d'un personnage</li>
+        <li><strong>Points de Destin</strong> : 2 à la création d'un personnage</li>
+        <li><strong>Points d'expérience</strong> (XPs) : 6 à la création d'un personnage, dépensables immédiatement</li>
+    </ul>
+    <h2>Clefs</h2>
+    <ul>
+        <li>Apprendre des sortilèges</li>
+        <li>Devenir riche</li>
+        <li>Lutter contre l'oppression</li>
+        <li>Résoudre pacifiquement les conflits</li>
+        <li>Vaincre par la force des adversaires bien plus forts que moi</li>
+        <li>Vaincre par la ruse des adversaires bien plus forts que moi</li>
+    </ul>
+    <p>Clefs selon l'historique des personnages:</p>
+    <ul>
+        <li>Échaper à XXX</li>
+        <li>Protéger &lt;personnage&gt;</li>
+        <li>Retrouver la trace de XXX</li>
+        <li>Retrouver les reliques de XXX</li>
+    </ul>
+    <h2>Système</h2>
+    <p>On lance autant de dés que la <strong>Caractéristique</strong>. <strong>+1</strong> au résultat si au moins un <strong>Talent</strong> s'applique.</p>
+    <p>Le plus haut résultat indique le résultat dans ce tableau :</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Valeur du dé</th>
+                <th>Effet</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>⚀</td>
+                <td><strong>Échec critique</strong>, catastrophique</td>
+            </tr>
+            <tr>
+                <td>⚁</td>
+                <td>Échec</td>
+            </tr>
+            <tr>
+                <td>⚂</td>
+                <td>Échec mais...</td>
+            </tr>
+            <tr>
+                <td>⚃</td>
+                <td>Réussite partielle / mais...</td>
+            </tr>
+            <tr>
+                <td>⚄</td>
+                <td>Réussite</td>
+            </tr>
+            <tr>
+                <td>⚅</td>
+                <td>Réussite parfaite</td>
+            </tr>
+            <tr>
+                <td>⚅⚅</td>
+                <td><strong>Réussite critique</strong>, exceptionnelle (valeur 8)</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Si tous les dés sont des <strong>1</strong>, c'est toujours un <strong>échec critique</strong>, mais si un Talent s'applique</p>
+    <p>Si au moins deux dés sont des <strong>6</strong>, c'est une <strong>réussite critique</strong>. La valeur du résultat est 8. 9 si un Talent s'applique.</p>
+    <h3>Combats</h3>
+    <p>Jet pour l'attaquant seulement. Si réussit, on calcule les <strong>dégâts</strong> en ajoutant au résultat le bonus de l'arme (-1 lorsqu'on se bat sans arme) et le nombre de <strong>Blessures</strong> de la cible.</p>
+    <p>Si les dégâts dépassent la <strong>Résistance</strong> de la cible, celle-ci est KO. Sinon, la cible reçoit <strong>une Blessure</strong>.</p>
+    <p>Lorsqu'on passe son tour à se protéger : <strong>+3</strong> en Résistance pour ce tour (+5 avec un bouclier).</p>
+    <div style="padding: 0 2rem"><img alt="Épée" src="2hand_sword_free1.png" style="float: left"> <img alt="Bouclier" src="shield_free4.png" style="float: right"> <img alt="Arc" src="bow_free1.png"></div>
+    <h3>Blessures</h3>
+    <p>Durant la partie, les Blessures sont à représenter par des <strong>jetons</strong> posés sur chaque fiche de personnages.</p>
+    <p>En fin de session, chaque joueur indique son nombre de Blessures sur sa feuille de personnage.</p>
+    <h3>Points de Destin</h3>
+    <p>Permettent :</p>
+    <ul>
+        <li>de <strong>relancer</strong>, une fois, n'importe quel nombre <strong>dés</strong> qui viennent d'être lancés, par soi-même ou un autre joueur</li>
+        <li>de <strong>se relever</strong> lorsqu'on a été mis <strong>KO</strong>, sans attendre d'être soigné</li>
+    </ul>
+    <h3>Magie</h3>
+    <ul>
+        <li>1 Talent = une famille de magie, permettant de nombreux usages</li>
+        <li>la magie, c'est puissant, mais risqué : en cas de réussite ou échec <strong>critique</strong>, un magicien reçoit <strong>une Blessure</strong></li>
+        <li>dégâts identiques que pour les armes</li>
+        <li>apprendre une nouvelle magie nécessite d'étudier des grimmoires ou d'avoir un maître, + dépenser 4 XPs</li>
+    </ul>
+    <div style="padding: 0 2rem"><img alt="Grimmoires" src="spellbook_free1.png" style="float: left"> <img alt="Grimmoire ouvert" src="spellbook_free6.png" style="float: right"> <img alt="Grimmoire" src="spellbook_free4.png"></div>
+    <h4>Exemples de familles de magie</h4>
+    <ul>
+        <li>créer du son</li>
+        <li>créer une source de lumière</li>
+        <li>créer le froid / geler</li>
+        <li>déplacement instantanné</li>
+        <li>projeter des éclairs</li>
+        <li>projeter des flammes</li>
+        <li>créer un souffle d'air</li>
+        <li>illusions visuelles</li>
+        <li>soins</li>
+    </ul>
+    <h3>Soins</h3>
+    <ul>
+        <li>après un combat, un jet réussit permet de remettre sur pied un personnage KO, ou de soigner 1 Blessure. Le Trait <em>Médecine</em> peut aider.</li>
+        <li>ensuite, chaque nuit de repos permet de récupèrer 1 Blessure</li>
+    </ul>
+    <h3>Équipement</h3>
+    <ul>
+        <li>un élément d'équipement = 1 □</li>
+        <li>un maximum de □ transportables est défini pour chaque personnage (6 à la création d'un personnage)</li>
+    </ul>
+    <div style="padding: 0 2rem 0 10rem"><img class="small" alt="Outil" src="tool_free4.png" style="float: left"> <img class="small" alt="Torche" src="torch_free3.png"></div>
+    <h3>Expérience</h3>
+    <ul>
+        <li>+1 XP en cas d'échec critique (<strong>1</strong>) <!-- TODO : rappel sur FP --></li>
+        <li>+1 XP lorsqu'une Clef est déclenchée</li>
+    </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>Dépense d'XP</th>
+                <th>Coût</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>+1 point de Destin</td>
+                <td>2 XPs</td>
+            </tr>
+            <tr>
+                <td>nouveau Trait, si une opportunité d'apprentissage se présente</td>
+                <td>4 XPs</td>
+            </tr>
+            <tr>
+                <td>+1 en Résistance / Vitesse / Max équipements (□)</td>
+                <td>6 XPs</td>
+            </tr>
+            <tr>
+                <td>nouvelle Clef (max 3, mais il est possible d'en remplacer pour 4 XP)</td>
+                <td>8 XPs</td>
+            </tr>
+            <tr>
+                <td>+1 dans un caractéristique</td>
+                <td>10 XPs</td>
+            </tr>
+        </tbody>
+    </table>
+    <h2>Création de personnage</h2>
+    <ol start="0">
+        <li>Choisir une figurine</li>
+        <li>Choisir ses Clefs</li>
+        <li>Répartir 1/2/2/3 dans ses Caractéristiques</li>
+        <li>Choisir 7 Traits</li>
+        <li>Choisir l'équipement de départ : 4 □</li>
+        <li>Choisir un nom</li>
+    </ol>
+    <h2>Licence</h2><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img class="license" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="cc-by-nc-sa.png"></a> Ce scénario a été conçu par Lucas Cimon est est placé sous licence _[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)_.
+    <p>Les fichiers sources ayant permis de générer ce PDF sont disponibles <a href="https://github.com/Lucas-C/jdr/tree/master/Pathfinder">sur GitHub</a>.</p>
+    <p>Si vous souhaitez soutenir mon travail, vous pouvez me faire un don sur <a href="https://lucas-c.itch.io">https://lucas-c.itch.io</a></p>
+    <h2>Credits</h2>
+    <p>Merci aux illustrateurs qui ont placé leur magnifique travail sous licence <em>Creative Commons</em> :</p>
+    <ul>
+        <li>plusieurs illustrations de Daniel F. Walthall, issues du pack <a href="https://axebane.itch.io/free-fantasy-stock-art">Free fantasy stock art v3</a>, sous license <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+        </li>
+        <li>illustration du sac et de l'épée issue du <a href="https://stoneshore.itch.io/tabletop-art-pack">Tabletop Art Pack by Stoneshore</a>, sous license <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+        </li>
+        <li>icône <em>sketchy feather</em> par Mathilde @ <a href="https://www.iconfinder.com/iconsets/Sketchy_icons_by_ma">iconfinder.com</a>
+        </li>
+        <li>
+            <a href="https://openclipart.org/detail/304803/blank-dice-outline">blank die @ openclipart.org</a>
+        </li>
+    </ul>
+    <p>Merci à Raymond Larabie, l'auteur de la police <a href="https://www.1001fonts.com/vinque-font.html6">Vinque</a>.</p>
+    <p>Merci enfin aux développeurs des <a href="https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software">logiciels libres</a> employés : <a href="https://www.mozilla.org/fr/firefox/">le navigateur Firefox</a>, <a href="https://www.gimp.org/">le logiciel de dessin Gimp</a>, <a href="https://notepad-plus-plus.org/">l'éditeur de texte Notepad++</a>, <a href="https://www.sumatrapdfreader.org">le lecteur de PDF Sumatra PDF</a>, <a href="https://www.python.org/">le language de programmation Python</a>, les bibliothèques de code <a href="https://pypi.org/project/fpdf2/">fpdf2</a>, <a href="https://pypi.org/project/livereload/">livereload</a>, <a href="https://pypi.org/project/pypdf/">pypdf</a> & <a href="https://weasyprint.org/">weasyprint</a>.</p>
+</body>
+</html>

@@ -3,7 +3,7 @@
 # Script Dependencies:
 #    fpdf2
 #    livereload
-#    markdown
+#    mistletoe
 #    pypdf
 #    weasyprint
 #    xreload
@@ -12,16 +12,16 @@ from pathlib import Path
 
 from fpdf import FPDF
 from fpdf.enums import Align
-from markdown import markdown
+from fpdf.image_parsing import preload_image
 from pypdf import PdfMerger
-from weasyprint import HTML, CSS
-from weasyprint.text.fonts import FontConfiguration
 
 DIR = Path(__file__).parent
 
 logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
+sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
+from pdf_utils import markdown2pdf, start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
-from render_utils import iter_tile_pos, render_img_tile, start_watch_and_rebuild, LINE_HEIGHT, TILE_SIZE
+from render_utils import iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
 
 MD_FILEPATH = DIR / "README.md"
 CSS_FILEPATH = DIR / "style.css"
@@ -31,15 +31,15 @@ IMG_PER_NAME = {
     "Damian": "fargo_by_fernand0fc_dbd7gj6-portrait.png",
     "Markus": "JustinNichol-PP2-portrait.png",
     "Hanh": "JustinNichol-PP3-portrait.png",
-    "Stacey": "sketch_rapido_fernand0fc_605851036-portrait.png",
-    "Hadley": "corporate_level_bodyguard_by_fernand0fc_ddafhmc-portrait.png",
+    "Stacey": "numero9_by_thesimplylexi-595642973-portrait.png",
+    "Hadley": "mccaul_lombardi_by_thesimplylexi_dca3dus-portrait.png",
 }
 SCALE = .12  # mm / pixel
 
 
 def build_pdf():
     merger = PdfMerger()
-    merger.append(markdown2pdf())
+    merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
     merger.append(build_appendix_pdf())
     merger.write(OUT_FILEPATH)
     print(f"{OUT_FILEPATH} has been rebuilt")
@@ -54,16 +54,6 @@ def build_appendix_pdf():
     pdf.b_margin = pdf.t_margin = 12
     pdf.add_page(orientation="landscape")
     pdf.image(PLAN_FILEPATH, h=pdf.eph, w=pdf.epw, keep_aspect_ratio=True)
-    # Alt PJs design:
-    global IMG_PER_NAME
-    IMG_PER_NAME = {
-        "Damian": "caleb_by_thesimplylexi_dag3mpv-portrait.png",
-        "Markus": "numero8_by_thesimplylexi-595389474-portrait.png",
-        "Hanh": "numero9_by_thesimplylexi-595642973-portrait.png",
-        "Stacey": "numero7_by_thesimplylexi-594550690-portrait.png",
-        "Hadley": "mccaul_lombardi_by_thesimplylexi_dca3dus-portrait.png",
-    }
-    render_character_tiles(pdf)
     bytes_io = io.BytesIO()
     pdf.output(bytes_io)
     return bytes_io
@@ -75,34 +65,34 @@ def render_character_tiles(pdf):
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
-    render_tile_front(tpi, "Damian", "Détenu #1729")
+    render_tile_front(tpi, "Damian", "Racket")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Damian"], border=True)
     render_tile_back(tpi, """\
 Tu caches sur toi un **surin**, un poignard que tu as bricolé. Tu peux le révéler quand tu veux.
 
 Tu trouves Stacey sacrément mignonne.
 
-Par contre le garde, Hardley, a une dent contre toi... Faut t'en méfier.
+Par contre le garde, Hadley, a une dent contre toi... Faut t'en méfier.
 """)
-    render_tile_front(tpi, "Markus", "Détenu #6174")
+    render_tile_front(tpi, "Markus", "Trafic de stups")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Markus"], border=True)
     render_tile_back(tpi, """\
-Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidentielles de ce labo. Il faut que tu mettes la main dessus avant de te barrer d'ici. Un type nommé Hermann devait te les filer.
+Au mitard, tu as accepté un contrat : tu dois exfiltrer des données confidentielles de ce labo. Il faut que tu mettes la main dessus avant de te barrer d'ici. Un type nommé Herman devait te les filer.
 
 **In Extremis** : une fois par partie, transforme le résultat du dé en 1 pour obtenir une réussite de justesse.""")
-    render_tile_front(tpi, "Hanh", "Détenu #6578")
+    render_tile_front(tpi, "Hanh", "Escroquerie")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Hanh"], border=True)
     render_tile_back(tpi, """\
-Merde, dans la panique, tu penses avoir été contaminé. Il doit bien y avoir un antidote quelque part ici !
+__Shit__ ! Dans la panique, tu penses avoir été contaminé par un Infecté. Il doit bien y avoir un antidote quelque part ici !
 
-Fait chier, des années que tu te tiens à carreau, il restait moins de 6 mois à tirer.
+__Fucking shit__ ! Des années que tu te tiens à carreau, et plus que 3 mois à tirer...
 
 **Guigne** : une fois par partie, transforme le résultat du dé d'un autre joueur en 6.
 """)
-    render_tile_front(tpi, "Stacey", "Détenu #8128")
+    render_tile_front(tpi, "Stacey", "Cambriolage")
     render_img_tile(tpi, DIR / "portraits" / IMG_PER_NAME["Stacey"], border=True)
     render_tile_back(tpi, """\
-Vu les regards que te lance Damian, tu ne le laisse pas indiférent. Tu pourrais peut-être utiliser ça à ton avantage.
+Vu les regards que te lance Damian, tu ne le laisse pas indifférent. Tu pourrais peut-être utiliser ça à ton avantage.
 
 Toi, tu as plutôt le béguin pour Markus.
 
@@ -117,7 +107,7 @@ Tu te méfies de Damian, c'est un sournoi. Par contre Hanh est un détenu modèl
 Tu as un **revolver**, et il te reste 3 balles.
 
 Important : tes empreintes activent les serrures digitales de sécurité. Pas celles des détenus, bien sûr.""")
-    render_tile_front(tpi, "Sujet #314", "Encaisse -1 dgt", level=3)
+    render_tile_front(tpi, "Sujet #314", "Résistance", level=3)
     render_img_tile(tpi, DIR / "ZombieBruteNoShadow.png", border=True)
     render_img_tile(tpi, DIR / "items/Tuile-Revolver.jpg")
     render_tile_front(tpi, "Herman", "Biologiste", level=3)
@@ -133,7 +123,7 @@ def render_tile_front(tpi, name, desc="", level=4):
 def render_tile_back(tpi, text):
     pdf, _, _ = next(tpi)
     pdf.set_font(size=9, style="")
-    pdf.multi_cell(txt="\n" + text, markdown=True, align="C", border=1,
+    pdf.multi_cell(text="\n" + text, markdown=True, align="C", border=1,
                    h=TILE_SIZE, w=TILE_SIZE, max_line_height=LINE_HEIGHT)
 
 
@@ -143,46 +133,59 @@ def render_other_tiles(pdf):
     pdf.set_font("Helvetica", size=8)
     pdf.add_page()
     tpi = iter_tile_pos(pdf, columns=3, rows=4)  # Tiles Positions Iterator
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_tile_front(tpi, "Infecté", "Morsure", level=2)
-    render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True)
-    render_img_tile(tpi, DIR / "items/GasMask.png", border=True)
-    render_img_tile(tpi, DIR / "items/car-keys.jpg", border=True)
-    render_img_tile(tpi, DIR / "items/syringe.jpg", border=True)
+    render_tile_front(tpi, "Zombie", "Morsure : 1 Blessure", level=3)
+    render_tile_front(tpi, "Zombie", "Morsure : 1 Blessure", level=3)
+    render_tile_front(tpi, "Zombie", "Morsure : 1 Blessure", level=3)
+    render_img_tile(tpi, DIR / "items/GasMask.png", border=True, w_ratio=.8)
+    render_img_tile(tpi, DIR / "items/USB-thumb-drive-1.png", border=True, w_ratio=.5)
+    render_img_tile(tpi, DIR / "items/car-keys.jpg", border=True, w_ratio=.5)
+    render_img_tile(tpi, DIR / "items/Tuile-MetalPipe.jpg")
+    render_img_tile(tpi, DIR / "items/Tuile-Medikit.jpg")
+    render_img_tile(tpi, DIR / "items/Tuile-Munitions.jpg")
 
 
 def render_room_tiles(pdf):
+    pdf.add_font(fname="fonts/Freedom45.otf")
+    pdf.set_font("Freedom45", size=12)
     pdf.set_margin(10)
     pdf.t_margin = 20
 
     pdf.add_page()
     add_side_by_side(pdf, "Laboratory-Corridor-1.jpg", "Laboratory-Corridor-2.jpg", border=True)
+    pdf.text(x=34, y=19, text="2. Le couloir")
     pdf.y += 15
     add_side_by_side(pdf, "Laboratory-Garage-1.jpg", "Laboratory-Garage-2.jpg")
+    pdf.text(x=18, y=171, text="8. Le garage")
 
     pdf.add_page()
     add_side_by_side(pdf, "Laboratory-Office-1.jpg", "Laboratory-Office-2.jpg")
+    pdf.text(x=53, y=19, text="3. Le bureau")
     pdf.y += 20
     add_side_by_side(pdf, "Laboratory-WC-1.jpg", "Laboratory-WC-2.jpg")
+    pdf.text(x=53, y=105, text="10. Les WCs")
     pdf.y += 20
     add_side_by_side(pdf, "Laboratory-Lab.jpg", shadow=True)
+    pdf.text(x=36, y=194, text="9. Le petit labo")
 
     pdf.add_page()
     add_side_by_side(pdf, "Laboratory-SpecimensBench-1-short.jpg", "Laboratory-SpecimensBench-2-short.jpg")
+    pdf.text(x=20, y=18, text="4. La salle des specimens")
     pdf.y += 15
     add_side_by_side(pdf, "Laboratory-Closet.jpg", shadow=True)
+    pdf.text(x=63, y=203, text="6. La reserve")
 
     pdf.add_page()
     pdf.y += 20
     add_side_by_side(pdf, "Laboratory-ControlRoom-1.jpg", shadow=True)
+    pdf.text(x=22, y=38, text="5. La cage d'escalier - etage")
     pdf.y += 30
     add_side_by_side(pdf, "Laboratory-ControlRoom-2.jpg", shadow=True)
+    pdf.text(x=28, y=153, text="7. La cage d'escalier - RdC")
 
     pdf.add_page()
     pdf.y += 20
     add_top_bottom(pdf, "Laboratory-StorageRoom.jpg", shadow=True)
+    pdf.text(x=53, y=90, text="1. L'entrepot")
 
 
 def add_side_by_side(pdf, img1, img2=None, border=False, shadow=False):
@@ -217,7 +220,7 @@ def add_top_bottom(pdf, img1, shadow=False):
 
 
 def add_tile(pdf, img_filename, halign, valign_height=None):
-    _, _, img_info = pdf.preload_image(DIR / "tiles" / img_filename)
+    _, _, img_info = preload_image(pdf.image_cache, DIR / "tiles" / img_filename)
     img_width_mm = img_info.width * SCALE
     img_height_mm = img_info.height * SCALE
     if valign_height:
@@ -235,28 +238,6 @@ def halign2x(halign, pdf, img_width_mm):
     if halign == Align.R:
         return pdf.w/2
     raise ValueError(f"Invalid halign: {halign}")
-
-
-def markdown2pdf():
-    with open(MD_FILEPATH, encoding="utf8") as md_file:
-        html = markdown(md_file.read())
-    html_doc = f"""<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Lab Escape - Scénario pour le JdR Sombre</title>
-        <link rel="stylesheet" href="{CSS_FILEPATH.name}">
-    </head>
-    <body>{html}</body>
-</html>
-    """
-    with open(DIR / "index.html", "w", encoding="utf8") as html_file:
-        html_file.write(html_doc)
-    font_config = FontConfiguration()
-    css = CSS(filename=CSS_FILEPATH, font_config=font_config)
-    bytes_io = io.BytesIO()
-    HTML(base_url=str(DIR), string=html).write_pdf(bytes_io, stylesheets=[css], font_config=font_config)
-    return bytes_io
 
 
 # This conditional ensure that the code below
