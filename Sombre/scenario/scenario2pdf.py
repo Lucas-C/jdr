@@ -47,8 +47,10 @@ def build_pdf():
 
 def build_appendix_pdf():
     pdf = FPDF()
+    pdf.oversized_images = "DOWNSCALE"
     render_character_tiles(pdf)
     render_other_tiles(pdf)
+    pdf.oversized_images = None
     render_room_tiles(pdf)
     # Plan full-page:
     pdf.b_margin = pdf.t_margin = 12

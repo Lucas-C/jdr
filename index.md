@@ -4,6 +4,7 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 
 - [Amères Victoires & Glorieuses Défaites](gdav)
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
+- [Sombre : Lab Escape](Sombre/scenario/Sombre-LabEscape.pdf) - PDF 21 pages, 8 Mo
 - [Ori Mushi](OriMushi) - [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf)
 - [Les Non-morts](LesNonMorts)
 - [Vengeance Fatale 4D](VengeanceFatale4D)
