@@ -409,7 +409,7 @@ Leur morsure ne fait qu'**un seul dégât**, mais **contamine** le personnage, q
 **Apparence** : blouse blanche, antipathique et crâneur, _cf._ illustration
 
 **Comportement** : Herman est très lâche.
-Il est initiallement caché dans un placard du bureau.
+Il est initialement caché dans un placard du bureau.
 Ses objectifs sont, dans l'ordre du plus au moins important :
 
 1. se servir des PJs pour **sauver sa peau**, en commençant par les supplier de l'aider
@@ -476,7 +476,7 @@ qui inclut notamment :
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
   <img class="float-left" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="cc-by-nc-sa.png"/>
 </a>
-Ce scénario a été conçu par Lucas Cimon est est placé sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
+Ce scénario a été conçu par Lucas Cimon et est placé sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre). Version : 1.0
 
