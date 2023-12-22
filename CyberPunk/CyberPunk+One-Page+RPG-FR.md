@@ -1,171 +1,178 @@
-CYPER-PUNK
-UN RPG D'UNE PAGE
+# CYPER-PUNK
+UN JDR MONOPAGE
 
-Un hack sur le thème TechnoNoir de Lasers & Feelings de John Harper
+Un _hack_ TechnoNoir de _Lasers & Feelings_ de John Harper
 
-L'ANNÉE EST 20X6. Vous êtes une équipe de Runners – des agents qualifiés à embaucher dans le crépuscule semi-légal entre les mégacorporations monolithiques, les gangs vicieux et les habitants opprimés de l’étalement urbain baigné de néons. Après une mission bâclée, votre chef, Dar.C, se trouve dans un hôpital souterrain sous assistance respiratoire, et vos fonds s'amenuisent dangereusement. Vous devrez accepter n’importe quel emploi que vous pourrez obtenir juste pour passer une semaine supplémentaire.
+NOUS SOMMES EN 20X6. Vous formez une équipe de **Runners** – des agents mercenaires dont l'expertise est à vendre, dans un crépuscule semi-légal entre les mégacorporations monolithiques, les gangs vicieux et les habitants opprimés de **The Sprawl**, un dédale urbain baigné de néons. Après une mission bâclée, votre chef, **Dar.C**, se trouve dans un hôpital souterrain sous assistance respiratoire, et vos fonds s'amenuisent dangereusement. Quel que soit le prochain job, vous allez devoir l'accepter si vous voulez voir le bout de la semaine.
 
-JOUEURS : CRÉEZ VOTRE PERSONNAGE
+## JOUEURS : CRÉEZ VOS PERSONNAGES
 
-Choisissez parmi les tableaux suivants ou lancez 3d6 pour déterminer votre personnalité, vos antécédents et votre rôle dans l'équipe : VOTRE OBJECTIF : Terminez la mission et restez en vie.
+1. Choisis parmi les tableaux suivants ou lances 3d6 pour déterminer ta personnalité, tes antécédents et ton rôle dans l'équipe :
 
 TU ES UN...
 1. Charmant
-2. Grisonné
+2. Grisonnant
 3. Naïf
 4. Ingénieux
-5. Désarticulé
+5. À cran
 6. Zen
 
 ANCIEN...
 1. Flic
-2. Employé de l'entreprise
-3. Ganger
-4. Héritier de Megacorp
-5. Robot sexuel
+2. Employé de corpo
+3. Membre de gang
+4. Héritier de mégacorpo
+5. Sexbot
 6. Soldat
 
-TOURNÉ...
-1. Pilote/Pilote
+DEVENU...
+1. Pilote
 2. Maître Gun-Fu
 3. Pirate informatique
 4. Infiltrateur
 5. Arme vivante
 6. Médecin de rue
 
-Choisissez votre chiffre, de 2 à 5. Un chiffre élevé signifie que vous êtes plutôt CYBER (technologie, science, logique, précision). Un chiffre faible signifie que vous êtes plutôt PUNK (intuition, improvisation, intelligence de la rue, insouciance).
+2. Choisis ton chiffre, de 2 à 5. Un chiffre élevé signifie que tu es plutôt **CYBER** (technologie, science, logique, précision). Un chiffre faible signifie que tu es plutôt **PUNK** (intuition, improvisation, intelligence de la rue, impulsivité).
 
-Donnez à votre personnage un nom cyberpunk génial, comme DekMicr0n ou Harmonyx.
+3. Donnes à ton personnage un **nom cyberpunk** qui claque, comme _Dek Micr0n_ ou _Harmonyx_.
 
-TU AS:
+**TU AS**:
 
-* Une augmentation de votre choix (bras robot, yeux bioniques, interface Net-brain, etc)
-* Une arme à distance de votre choix (mitraillette, roquettes au poignet, fusil de sniper, sonic blaster, etc.)
-* Une arme de mêlée de votre choix (katana, matraque paralysante, jointures en titane, etc.)
-* Un appareil de communication personnel compatible Internet
-* Une tenue cyberpunk malade
+* Une **augmentation** de ton choix (bras robot, yeux bioniques, implant Net cervical, etc.)
+* Une **arme à distance** de ton choix (mitraillette, roquettes au poignet, fusil de sniper, blaster sonique, etc.)
+* Une **arme de mêlée** de ton choix (katana, matraque paralysante, jointures en titane, etc.)
+* Un **modem individuel** pour se connecter au Net
+* Une **tenue** cyberpunk de dingue
 
-JOUEURS : CRÉEZ VOTRE ÉQUIPE
+**TON OBJECTIF** : Termines la mission et restes en vie.
 
-En groupe, choisissez parmi les tableaux suivants ou lancez 3d6 pour déterminer 2 avantages et 1 désavantage pour votre équipe :
+## JOUEURS : CRÉEZ VOTRE ÉQUIPE
 
-VOTRE ÉQUIPAGE A...
+1. Ensemble, choisissez parmi les tableaux suivants ou lancez **3d6** pour déterminer **2 avantages** et **1 désavantage** pour votre équipe :
+
+VOTRE BANDE A...
 1. Un refuge high-tech
 2. Une imprimante 3D avancée
-3. Une douce balade
-4. Des informations d’identification falsifiées de haute qualité
-5. Équipement de qualité militaire
+3. Une virée tranquille
+4. Des faux papiers parfaits
+5. De l'équipement militaire
 6. Quelqu'un à l'intérieur
 
 MAIS ILS...
-1. Vous avez des dettes envers des gens méchants
-2. Sont nouveaux dans ce domaine
-3. Sont recherchés par la police d'entreprise
-4. Ne vous fondez pas du tout
-5. Ayez beaucoup d’ennemis
-6. Avoir du matériel récupéré
+1. Ont emprunté à des gens vicieux
+2. Sont nouveaux dans le game
+3. Sont traqués par les corpo-flics
+4. Ne passent jamais inaperçus
+5. Ont beaucoup d’ennemis
+6. Ont du matos de seconde main
 
-Donnez également à votre équipe un nom cyberpunk astucieux, comme The TechRaiders ou Chiba 5.
+2. Donnez également à votre équipe un nom cyberpunk qui déchire, comme Les TechRaiders ou Chiba 5.
 
-LANCEMENT DES DÉS
+## LANCER LES DÉS
 
-Lorsque vous faites quelque chose de risqué, lancez 1d6 pour savoir comment ça se passe. Lancez +1d pour une situation favorable et +1d si vous possédez les compétences/équipements appropriés. (Le MJ vous indique combien de dés lancer, en fonction de votre personnage et de la situation.) Lancez vos dés et comparez le résultat de chaque dé à votre nombre.
+Lorsque tu fais quelque chose de risqué, lances **1d6** pour déterminer comment ça se passe. Lances **+1d** si la **situation est favorable** et **+1d** si tu possèdes les **compétences / équipements** appropriés. (Le MJ t’indique combien de dés lancer, en fonction de ton personnage et de la situation.) **Lances tes dés et compares chaque résultat à ton chiffr**e.
 
-Si vous utilisez CYBER (technologie, rationalité), vous souhaitez rouler sous votre numéro.
+↧ Si tu utilises **CYBER** (technologie, rationalité), tu souhaites des résultats **au-dessus** de ton chiffre.
 
-Si vous utilisez PUNK, (intuition, insouciance), vous souhaitez faire rouler votre numéro.
+↥ Si tu utilises **PUNK**, (intuition, impulsivité), tu souhaites des résultats **en-dessous** de ton chiffre.
 
-0. Si aucun de vos dés ne réussit, cela tourne mal. Le directeur général explique comment les choses empirent.
-1. Si un dé réussit, vous y parvenez à peine. Le MJ inflige une complication, un préjudice ou un coût.
-2. Si deux dés réussissent, vous le faites bien. Bon travail!
-3. Si trois dés réussissent, vous obtenez un succès critique ! Le MJ vous indique les avantages supplémentaires dont vous bénéficiez.
+0. **Si aucun de tes dés ne réussit**, cela tourne mal. Le MJ explique comment les choses empirent.
+1. **Si un seul dé réussit**, ça passe de justesse. Le MJ introduit une complication, une blessure ou un coût.
+2. **Si deux dés réussissent**, tu t’en sors bien. Bien joué !
+3. **Si trois dés réussissent**, tu obtiens un succès critique ! Le MJ indique les avantages supplémentaires obtenus.
 
-Si vous obtenez votre numéro exact, vous êtes un véritable CYBERPUNK. Vous obtenez un aperçu particulier de ce qui se passe. Posez une question au directeur général et il vous répondra honnêtement. Vous pouvez modifier votre action si vous le souhaitez, puis relancer. MJ : Formulez la réponse en expliquant comment le personnage connaît les nouvelles informations. Est-ce quelque chose qu'ils ont déduit, intuitivement, mémorisé, observé... ?
+! **Si tu obtiens exactement ton numéro**, tu es un véritable **CYBERPUNK**. Tu obtiens une vision spéciale de ce qui se passe. **Poses une question au MJ** et il te répondra honnêtement. Tu peux modifier ton action si tu le souhaites, puis relancer.
+**MJ** : Formules la réponse en expliquant comment le personnage obtient ces nouvelles informations. Est-ce par déduction, intuition, souvenir, observation... ?
 
-AIDE : Si vous souhaitez aider quelqu'un qui roule, dites comment
-vous essayez de les aider et faites un jet de 1d6 contre le vôtre
-nombre. Ajoutez votre résultat au leur.
+**AIDE** : Si tu souhaites aider quelqu'un qui fait un jet, racontes comment tu essaies de l'aider et fais un jet de **1d6** relatif à ton propre chiffre. Ajoutes ton résultat aux siens.
 
-GM : CRÉER LA MISSION
+## MJ : CRÉE LA MISSION
 
-Lancez 4d6 ou choisissez dans les tableaux ci-dessous pour créer la mission des Runners :
+Lances **4d6** ou choisis dans les tableaux ci-dessous pour créer la **mission** des Runners :
 
-L'ÉQUIPE A ÉTÉ ENGAGÉE POUR...
+VOTRE BANDE A ÉTÉ ENGAGÉE POUR...
 1. Détruire/Tuer
 2. Enquêter
 3. Protéger
-4. Récupération/Sauvetage
-5. Sabotage/Désarmement
-6. Vol/enlèvement
+4. Récupérer/Sauver
+5. Saboter/Désarmer
+6. Voler/Enlever
 
 UN...
 1. Lot d'organes artificiels
 2. Animal bio-ingénié
-3. Enfant cybernétiquement amélioré
+3. Enfant cyber-amélioré
 4. Célébrité Netstream
-5. Schéma technique secret de l'entreprise
-6. IA sensible
+5. Innovation corpo secrète
+6. IA sentiente
 
-TENU PAR...
-1. Un équipage de coureurs en compétition
-2. Une bande de technopunks
-3. Un magnat de la technologie hyper riche
-4. Un collectif de biohackers anarchistes
+POSSÉDÉ PAR...
+1. Une autre bande de Runners
+2. Un gang de technopunks
+3. Un magnat hyper riche de la tech
+4. Des biohackers anarchistes
 5. La foule/yakuza/triades
-6. La plus grande mégacorp de The Sprawl
+6. La pire mégacorp de The Sprawl
 
 MAIS...
-1. Pour l’un de vous, c’est personnel
-2. Cette partie de la ville est un piège mortel
-3. Le client ne dit aucun autre décès
-4. La cible est dans un coffre-fort hyper-sécurisé
-5. La cible bouge toutes les 6 heures
+1. Pour un PJ, c’est personnel
+2. Ce quartier est un piège mortel
+3. Le client ne veut aucun mort
+4. La cible est un coffre-fort AAA
+5. La cible bouge toutes les 6h
 6. Ils savent que vous venez
 
-MJ : LANCEZ LE JEU
+## MJ : ANIMES LA PARTIE
 
-Présentez l’équipe en posant à chaque joueur 2 questions sur son personnage. Il peut s'agir d'un bref retour en arrière d'une scène d'« entretien d'embauche » entre le joueur et Dar.C. Quelques bonnes questions : Pourquoi avez-vous décidé de devenir Runner ? Qu’est-ce qui, dans votre ancienne vie, vous a préparé à votre rôle actuel ? Que pensez-vous de [Personnage X] ?
+**Présentes l’équipe** en posant à chaque joueur **2 questions** sur son personnage. Il peut s'agir d'un bref retour en arrière d'une scène d'« entretien d'embauche » entre le joueur et Dar.C. Quelques bonnes questions : _Pourquoi as-tu décidé de devenir Runner ? Qu’est-ce qui, dans ton ancienne vie, t'a préparé à ton rôle actuel ? Que penses-tu de [Personnage X] ?_
 
-Jouez pour découvrir comment les Runners accomplissent la mission. Commencez le jeu avec l'équipe arrivant à un point de départ ou en demandant à un contact de l'approcher avec un nouveau travail.
+**Jouez pour découvrir** comment les Runners accomplissent la mission. **Commencez le jeu** lors de l'arrivée de l'équipe à un **point de départ**, ou lorsqu'un de leurs **contacts** les approche pour un nouveau job.
 
-Avant qu’une menace n’agisse quelque chose, montrez des signes indiquant qu’elle est sur le point de se produire, puis demandez ce que font les personnages. « Le technopunk brandit son bras-canon et vous vise. Que fais-tu?"
+**Avant qu’une menace ne se concrétise, donnes des signes** avant-coureurs, et demandes ce que font les personnages. « Le technopunk brandit son bras-canon et te vise. Que fais-tu ? »
 
-Appelez au roulement lorsque la situation est incertaine. Ne planifiez pas les résultats à l’avance – laissez les enjeux tomber là où ils peuvent. Utilisez les échecs pour faire avancer l’action. La situation change toujours après un jet, pour le meilleur ou pour le pire.
+**Demandes un jet** lorsque la situation est incertaine. **Ne planifies pas les résultats à l’avance** – laisses le sort décider. Utilises les échecs pour faire avancer l’action. La situation change toujours après un jet, pour le meilleur ou pour le pire.
 
-Si vous ne savez pas quelque chose, demandez aux joueurs ! « Qui est votre contact ? Quel est le nom de la discothèque ? Où est l'appartement du scientifique du corps ?
+Si tu ne sais pas quelque chose, **demandes aux joueurs** ! « Qui est votre contact ? Quel est le nom de la discothèque ? Où est l'appartement du scientifique du corps ? »
 
-GM : PRÉPAREZ LA SCÈNE
-Besoin d'une personne ou d'un endroit sympa à rencontrer pour vos joueurs ? Choisissez ou lancez dans les tableaux ci-dessous !
+## MJ : PRÉPARES LA SCÈNE
+
+Besoin d'un PNJ ou d'un lieu sympa à présenter à vos joueurs ?
+Choisissez ou lancez dans les tables ci-dessous !
 
 EMPLACEMENTS
-1. Passage supérieur abandonné
+1. Passerelle abandonnée
 2. Marché de rue bondé
-3. Parc d'agrément en forme de dôme
-4. Bidonville mégatour
-5. Discothèque éclairée au néon
-6. Un parc de bureaux devenu une zone de guerre
+3. Dôme des plaisirs
+4. Mégatour-bidonville
+5. Discothèque à néons
+6. Parc de bureaux entré en guerre
 
 PNJ
-1. Femme/homme fatale augmenté
-2. Barman/technicien bourru mais sympathique
-3. Employé d'entreprise nerveux et tendu
-4. Ingénieur/codeur silencieux et super intelligent
-5. Courtier d’informations obscur
+1. Femme / homme fatale augmentée
+2. Barman/tech mal léché
+3. Employé corpo nerveux et tendu
+4. Ingénieur/codeur de génie réservé
+5. Courtier d’informations louche
 6. Escroc de rue
 
 ENNEMIS
 1. Ninjas bioniques
-2. Escouade de breakdance-combat
+2. Combattants breakdancers
 3. Cyber-chiens
-4. Des gangers drogués
+4. Gangers drogués
 5. Drones armés
-6. Combinaisons mécaniques pilotées
+6. Mechs pilotés
 
-CYBER//PUNK est un mod de Lasers & Feelings de John Harper et est distribué sous licence Creative Commons BY-NC-SA 4.0.
-creativecommons.org/licenses/by-nc-sa/4.0/
-Jeu original sur onesevendesign.com
+CYBER//PUNK est une adaptation de Lasers & Feelings de John Harper, et est distribué sous licence Creative Commons BY-NC-SA 4.0 : [creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Le jeu original est accessible ici : [onesevendesign.com](http://onesevendesign.com/)
+
 Modifications et conception par David Brunell-Brutman
-davidbrunellbrutman.com
-Téléchargez ce pdf sur cyberpunk-rpg.com
-Diffusez la bande originale du jeu sur goo.gl/gmeo4y
-Imprimez recto verso et pliez ici pour créer un livret ! -->
+[davidbrunellbrutman.com](https://davidbrunellbrutman.com)
+
+Le PDF du jeu en anglais est ici : [dbb-8.itch.io/cyberpunk](https://dbb-8.itch.io/cyberpunk)
+
+Écoutez la bande son du jeu ici : [goo.gl/gmeo4y](https://goo.gl/gmeo4y)
+
+Traduction en français par Lucas CIMON
+PDF en ligne ici : [lucas-c.itch.io/cyberpunk](https://lucas-c.itch.io/cyberpunk)
