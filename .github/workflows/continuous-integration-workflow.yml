@@ -70,6 +70,10 @@ jobs:
           node ../md2html.js CheatYourOwnAdventure.md > index.html
           cd -
 
+          if [[ $GIT_TAG =~ ^CyberPunk-v ]]; then
+            mv CyberPunk/CyberPunk-FR.pdf $GIT_TAG.pdf
+          fi
+
           cd DungeonHeartHeroesAndSpells
           node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
           node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html

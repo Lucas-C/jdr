@@ -49,3 +49,7 @@ Jeux de Shane Mclean :
 
 - [PDF 37 Ko](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
 - [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
+
+[CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
+
+- [CyberPunk-FR.pdf](CyberPunk/CyberPunk-FR.pdf)
