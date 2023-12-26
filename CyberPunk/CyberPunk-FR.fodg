@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:generator>LibreOffice/7.6.4.1$Windows_X86_64 LibreOffice_project/e19e193f88cd6c0525a17fb7a176ed8e6a3e2aa1</meta:generator><dc:date>2023-12-22T23:14:38.338000000</dc:date><meta:editing-duration>PT1H37M54S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:print-date>2023-12-22T23:10:02.169000000</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:object-count="530"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.6.4.1$Windows_X86_64 LibreOffice_project/e19e193f88cd6c0525a17fb7a176ed8e6a3e2aa1</meta:generator><dc:date>2023-12-26T14:53:15.912000000</dc:date><meta:editing-duration>PT1H38M37S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:print-date>2023-12-22T23:10:02.169000000</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:object-count="530"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">3528</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-3043</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">9632</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-1815</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">15266</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">9086</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">1</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">3528</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-3043</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">17684</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">10526</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">9632</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1815</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">15267</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">9087</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">250</config:config-item>
@@ -119,12 +119,12 @@
   <style:font-face style:name="Industry" svg:font-family="Industry"/>
   <style:font-face style:name="Industry TEST Demi" svg:font-family="&apos;Industry TEST Demi&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Industry Test Black" svg:font-family="&apos;Industry Test Black&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
-  <style:font-face style:name="Industry Test Demi" svg:font-family="&apos;Industry Test Demi&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
-  <style:font-face style:name="Industry Test Demi1" svg:font-family="&apos;Industry Test Demi&apos;" style:font-adornments="Demi" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Industry Test Demi" svg:font-family="&apos;Industry Test Demi&apos;" style:font-adornments="Demi" style:font-family-generic="modern" style:font-pitch="variable"/>
+  <style:font-face style:name="Industry Test Demi1" svg:font-family="&apos;Industry Test Demi&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Industry Test Medium" svg:font-family="&apos;Industry Test Medium&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Industry1" svg:font-family="Industry" style:font-pitch="variable"/>
-  <style:font-face style:name="IndustryBlack" svg:font-family="IndustryBlack" style:font-pitch="variable"/>
-  <style:font-face style:name="IndustryBlack1" svg:font-family="IndustryBlack"/>
+  <style:font-face style:name="IndustryBlack" svg:font-family="IndustryBlack"/>
+  <style:font-face style:name="IndustryBlack1" svg:font-family="IndustryBlack" style:font-pitch="variable"/>
   <style:font-face style:name="IndustryDemi" svg:font-family="IndustryDemi"/>
   <style:font-face style:name="IndustryDemi1" svg:font-family="IndustryDemi" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
@@ -167,7 +167,7 @@
   <draw:stroke-dash draw:name="stroke-dash1497" draw:style="rect" draw:dots1="1" draw:dots1-length="0.211cm" draw:distance="0.211cm"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" style:writing-mode="lr-tb"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="fr" fo:country="FR" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -756,7 +756,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr123" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.331cm" fo:min-width="6.746cm" fo:padding-top="0cm" fo:padding-bottom="0cm" fo:padding-left="0cm" fo:padding-right="0cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.331cm" fo:min-width="6.814cm" fo:padding-top="0cm" fo:padding-bottom="0cm" fo:padding-left="0cm" fo:padding-right="0cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr124" style:family="graphic" style:parent-style-name="standard">
@@ -782,7 +782,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr130" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.779cm" loext:decorative="false"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.801cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr131" style:family="graphic" style:parent-style-name="standard">
@@ -798,7 +798,7 @@
   <style:style style:name="P3" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="start"/>
-   <style:text-properties style:font-name="Industry Test Demi1" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:text-properties style:font-name="Industry Test Demi" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -848,12 +848,12 @@
   </style:style>
   <style:style style:name="P15" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
-   <style:text-properties style:font-name="Industry Test Demi" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Industry Test Demi1" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="start"/>
-   <style:text-properties style:font-name="Industry Test Demi" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+   <style:text-properties style:font-name="Industry Test Demi1" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -867,7 +867,7 @@
   <style:style style:name="P19" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="start"/>
-   <style:text-properties style:font-name="Industry Test Demi" fo:font-size="9pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:text-properties style:font-name="Industry Test Demi1" fo:font-size="9pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#000000"/>
@@ -938,45 +938,37 @@
    <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Roboto"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="start"/>
    <style:text-properties style:font-name="Roboto" fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph">
+  <style:style style:name="P37" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="start"/>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Medium" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph">
+  <style:style style:name="P38" style:family="paragraph">
    <style:paragraph-properties fo:line-height="0.4cm" fo:text-align="start" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:line-height="0.4cm" fo:text-align="start"/>
    <style:text-properties style:font-name="Roboto"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:line-height="0.4cm" fo:text-align="start"/>
-   <style:text-properties style:font-name="Roboto"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph">
-   <style:paragraph-properties fo:line-height="0.4cm" fo:text-align="start" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:line-height="0.4cm" fo:text-align="start"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="0.4cm" fo:text-align="start"/>
    <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Demi1" fo:font-size="8pt" style:font-size-asian="8pt" style:font-name-complex="IndustryDemi" style:font-size-complex="8pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Demi" fo:font-size="8pt" style:font-size-asian="8pt" style:font-name-complex="IndustryDemi" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Demi1" fo:font-size="8pt" fo:font-style="italic" style:font-size-asian="8pt" style:font-style-asian="italic" style:font-name-complex="IndustryDemi" style:font-size-complex="8pt" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Demi" fo:font-size="8pt" fo:font-style="italic" style:font-size-asian="8pt" style:font-style-asian="italic" style:font-name-complex="IndustryDemi" style:font-size-complex="8pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
@@ -991,13 +983,13 @@
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Medium" fo:font-size="25pt" fo:font-weight="bold" style:font-size-asian="25pt" style:font-name-complex="Industry" style:font-size-complex="25pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:color="#f01425" loext:opacity="100%" style:font-name="Industry Test Black" fo:font-size="13pt" style:font-size-asian="14pt" style:font-name-complex="IndustryBlack1" style:font-size-complex="14pt"/>
+   <style:text-properties fo:color="#f01425" loext:opacity="100%" style:font-name="Industry Test Black" fo:font-size="13pt" style:font-size-asian="14pt" style:font-name-complex="IndustryBlack" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:color="#f01425" loext:opacity="100%" style:font-name="Industry Test Black" fo:font-size="13pt" style:font-size-asian="13.5pt" style:font-name-complex="IndustryBlack1" style:font-size-complex="13.5pt"/>
+   <style:text-properties fo:color="#f01425" loext:opacity="100%" style:font-name="Industry Test Black" fo:font-size="13pt" style:font-size-asian="13.5pt" style:font-name-complex="IndustryBlack" style:font-size-complex="13.5pt"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:color="#0078c1" loext:opacity="100%" style:font-name="Industry Test Black" fo:font-size="13pt" style:font-size-asian="14pt" style:font-name-complex="IndustryBlack1" style:font-size-complex="14pt"/>
+   <style:text-properties fo:color="#0078c1" loext:opacity="100%" style:font-name="Industry Test Black" fo:font-size="13pt" style:font-size-asian="14pt" style:font-name-complex="IndustryBlack" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
    <style:text-properties fo:color="#cccccc" loext:opacity="100%" style:font-name="Industry" fo:font-size="25pt" fo:font-weight="bold" style:font-size-asian="25pt" style:font-name-complex="Industry" style:font-size-complex="25pt" style:font-weight-complex="bold"/>
@@ -1015,7 +1007,7 @@
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry" fo:font-size="25pt" fo:font-weight="bold" style:font-size-asian="25pt" style:font-name-complex="Industry" style:font-size-complex="25pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Industry Test Demi" fo:font-size="9pt" style:font-size-asian="9pt" style:font-name-complex="IndustryDemi" style:font-size-complex="9pt"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Industry Test Demi1" fo:font-size="9pt" style:font-size-asian="9pt" style:font-name-complex="IndustryDemi" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto" fo:font-size="8pt" style:font-size-asian="8pt" style:font-name-complex="Robotoular1" style:font-size-complex="8pt"/>
@@ -1027,7 +1019,7 @@
    <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Industry TEST Demi" fo:font-size="9pt" style:font-size-asian="9pt" style:font-name-complex="IndustryDemi" style:font-size-complex="9pt"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Industry Test Demi" fo:font-size="9pt" style:font-size-asian="8pt" style:font-name-complex="IndustryDemi" style:font-size-complex="8pt"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Industry Test Demi1" fo:font-size="9pt" style:font-size-asian="8pt" style:font-name-complex="IndustryDemi" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto1" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-name-complex="Roboto1" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
@@ -1081,10 +1073,10 @@
    <style:text-properties fo:color="#3e3e3e" loext:opacity="100%" style:font-name="Robotoular1" fo:font-size="8pt" style:font-size-asian="8pt" style:font-name-complex="Robotoular1" style:font-size-complex="8pt"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties fo:color="#404040" loext:opacity="100%" fo:font-size="6pt" style:font-size-asian="6pt" style:font-name-complex="Robotoular1" style:font-size-complex="6pt"/>
+   <style:text-properties fo:color="#404040" loext:opacity="100%" style:font-name="Roboto" fo:font-size="6pt" style:font-size-asian="6pt" style:font-name-complex="Robotoular1" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Medium" fo:font-size="14pt" style:font-size-asian="14pt" style:font-name-complex="IndustryBlack1" style:font-size-complex="14pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Industry Test Medium" fo:font-size="14pt" style:font-size-asian="14pt" style:font-name-complex="IndustryBlack" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-name-complex="Roboto1" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
@@ -4789,7 +4781,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr123" draw:text-style-name="P35" draw:layer="layout" svg:width="6.814cm" svg:height="0.331cm" svg:x="2.678cm" svg:y="12.968cm">
      <draw:text-box>
-      <text:p text:style-name="P2"><text:span text:style-name="T35">Écoutez la bande son du jeu ici : </text:span><text:span text:style-name="T36">goo.gl/gmeo4y</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T35">Écoutez la bande son du jeu ici : </text:span><text:span text:style-name="T36"><text:a xlink:href="https://goo.gl/gmeo4y" xlink:type="simple">goo.gl/gmeo4y</text:a></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr83" draw:text-style-name="P1" draw:layer="layout" svg:x1="13.958cm" svg:y1="0cm" svg:x2="13.958cm" svg:y2="0.105cm">
@@ -4825,9 +4817,9 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr126" draw:text-style-name="P37" draw:layer="layout" svg:width="5.78cm" svg:height="0.289cm" svg:x="8.05cm" svg:y="21.076cm">
+    <draw:frame draw:style-name="gr126" draw:text-style-name="P36" draw:layer="layout" svg:width="5.78cm" svg:height="0.289cm" svg:x="8.05cm" svg:y="21.076cm">
      <draw:text-box>
-      <text:p text:style-name="P36"><text:span text:style-name="T37">Imprimez en recto-verso et pliez ici pour créer un livret ! --&gt;</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T37">Imprimez en recto-verso et pliez ici pour créer un livret ! --&gt;</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr85" draw:text-style-name="P25" draw:layer="layout" svg:width="13.254cm" svg:height="20.589cm" svg:x="14.3cm" svg:y="0.5cm">
@@ -21671,7 +21663,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr127" draw:text-style-name="P38" draw:layer="layout" svg:width="4.536cm" svg:height="0.7cm" svg:x="18.645cm" svg:y="17.55cm">
+    <draw:frame draw:style-name="gr127" draw:text-style-name="P37" draw:layer="layout" svg:width="4.536cm" svg:height="0.7cm" svg:x="18.645cm" svg:y="17.55cm">
      <draw:text-box>
       <text:p text:style-name="P2"><text:span text:style-name="T38">UN JDR MONOPAGE</text:span></text:p>
      </draw:text-box>
@@ -21682,19 +21674,19 @@
       <text:p text:style-name="P26"><text:span text:style-name="T34">Choisissez ou lancez dans les tables ci-dessous !</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr129" draw:text-style-name="P40" draw:layer="layout" svg:width="8.622cm" svg:height="1.801cm" svg:x="2.678cm" svg:y="9.316cm">
+    <draw:frame draw:style-name="gr129" draw:text-style-name="P39" draw:layer="layout" svg:width="8.622cm" svg:height="1.801cm" svg:x="2.678cm" svg:y="9.316cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T39">CYBER//PUNK</text:span><text:span text:style-name="T40"> est une adaptation de</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T42">Lasers &amp; Feelings</text:span><text:span text:style-name="T16"> de John Harper, et est distribué sous licence Creative Commons BY-NC-SA 4.0 : </text:span><text:span text:style-name="T16"><text:a xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xlink:type="simple">creativecommons.org/licenses/by-nc-sa/4.0/</text:a></text:span><text:span text:style-name="T43"><text:line-break/></text:span><text:span text:style-name="T43">Le jeu original est accessible ici :</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T43"><text:a xlink:href="http://onesevendesign.com/" xlink:type="simple">onesevendesign.com</text:a></text:span></text:p>
+      <text:p text:style-name="P38"><text:span text:style-name="T39">CYBER//PUNK</text:span><text:span text:style-name="T40"> est une adaptation de</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T42">Lasers &amp; Feelings</text:span><text:span text:style-name="T16"> de John Harper, et est distribué sous licence Creative Commons BY-NC-SA 4.0 : </text:span><text:span text:style-name="T16"><text:a xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xlink:type="simple">creativecommons.org/licenses/by-nc-sa/4.0/</text:a></text:span><text:span text:style-name="T43"><text:line-break/></text:span><text:span text:style-name="T43">Le jeu original est accessible ici :</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T43"><text:a xlink:href="http://onesevendesign.com/" xlink:type="simple">onesevendesign.com</text:a></text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr130" draw:text-style-name="P42" draw:layer="layout" svg:width="8.622cm" svg:height="0.801cm" svg:x="2.678cm" svg:y="11.221cm">
+    <draw:frame draw:style-name="gr130" draw:text-style-name="P40" draw:layer="layout" svg:width="8.622cm" svg:height="0.801cm" svg:x="2.678cm" svg:y="11.221cm">
      <draw:text-box>
-      <text:p text:style-name="P41"><text:span text:style-name="T35">Modifications &amp; design par David Brunell-Brutman</text:span><text:span text:style-name="T35"><text:line-break/></text:span><text:span text:style-name="T36"><text:a xlink:href="https://davidbrunellbrutman.com/" xlink:type="simple">davidbrunellbrutman.com</text:a></text:span></text:p>
+      <text:p text:style-name="P38"><text:span text:style-name="T35">Modifications &amp; design par David Brunell-Brutman</text:span><text:span text:style-name="T35"><text:line-break/></text:span><text:span text:style-name="T36"><text:a xlink:href="https://davidbrunellbrutman.com/" xlink:type="simple">davidbrunellbrutman.com</text:a></text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr131" draw:text-style-name="P43" draw:layer="layout" svg:width="8.622cm" svg:height="0.9cm" svg:x="2.678cm" svg:y="13.6cm">
+    <draw:frame draw:style-name="gr131" draw:text-style-name="P41" draw:layer="layout" svg:width="8.622cm" svg:height="0.9cm" svg:x="2.678cm" svg:y="13.6cm">
      <draw:text-box>
-      <text:p text:style-name="P41"><text:span text:style-name="T44">Traduction en français par Lucas CIMON</text:span><text:span text:style-name="T44"><text:line-break/></text:span><text:span text:style-name="T44">PDF en ligne ici : </text:span><text:span text:style-name="T44"><text:a xlink:href="https://lucas-c.itch.io/cyberpunk" xlink:type="simple">lucas-c.itch.io/cyberpunk</text:a></text:span></text:p>
+      <text:p text:style-name="P38"><text:span text:style-name="T44">Traduction en français par </text:span><text:span text:style-name="T44"><text:a xlink:href="https://chezsoi.org/lucas/blog/cyberpunk.html" xlink:type="simple">Lucas CIMON</text:a></text:span><text:span text:style-name="T44"><text:line-break/></text:span><text:span text:style-name="T44">PDF en ligne ici : </text:span><text:span text:style-name="T44"><text:a xlink:href="https://lucas-c.itch.io/cyberpunk" xlink:type="simple">lucas-c.itch.io/cyberpunk</text:a></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
