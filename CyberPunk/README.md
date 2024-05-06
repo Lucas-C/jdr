@@ -1,4 +1,5 @@
 # CYBER//PUNK
+Blog article: https://chezsoi.org/lucas/blog/cyberpunk.html
 
 PDF FR : [CyberPunk-FR.pdf](CyberPunk-FR.pdf)
 

@@ -777,6 +777,7 @@ h2, h3 {
 }
 h4, h5 { margin: 2rem 0 -1rem; }
 h2:first-child { border: none; text-align: center; }
+/* <s> blocks come from Markdown ~~strikethrough regions~~ */
 s { text-decoration: none; font-size: 2rem; line-height: .9; vertical-align: bottom; }
 body > section { max-width: 60rem; margin: 0 auto; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }
