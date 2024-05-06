@@ -187,6 +187,7 @@ jobs:
 
           cd scavengers
           node ../md2html.js scavengers.md > index.html
+          sed -i "/<body>/a <\!-- Date: $(date) -->" index.html
           if [[ $GIT_TAG =~ ^adj-scavengers ]]; then
             ./gen_pdf.sh index.html ../$GIT_TAG.pdf
           fi

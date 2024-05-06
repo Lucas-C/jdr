@@ -4,7 +4,7 @@ cd $(dirname ${BASH_SOURCE[0]})
 
 if ! [ -d ../../pinterest-downloader ]; then
     cd ../..
-    git clone git@github.com:limkokhole/pinterest-downloader.git
+    git clone https://github.com/limkokhole/pinterest-downloader.git
     pip install --user -r pinterest-downloader/requirements.txt
     cd -
 fi
