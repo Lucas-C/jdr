@@ -734,10 +734,10 @@ Les accents parfois étrangement rauques dans sa voix, et le fait que sa visièr
 et qu'elle ne veuille pas enlever sa combinaison sont toutefois légèrement inquiétants...
 
 
-### Licence & remerciements
+### Licence
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
-_Scavengers : anomalies nochauresques_ est une une aide de jeu de Lucas Cimon
+_Scavengers : anomalies nochauresques_ est une aide de jeu de Lucas Cimon
 sous license <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
 
 

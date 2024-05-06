@@ -40,6 +40,8 @@ img.small { max-width: 8rem; max-height: 8rem; }
 .side-by-side { text-align: center; }
 .side-by-side > * { display: inline-block; }
 
+.float-left { float: left; padding-right: 1rem; }
+
 @media print {
   .web-only { display: none; }
 }
