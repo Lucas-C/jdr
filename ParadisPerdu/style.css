@@ -11,8 +11,9 @@
   counter-increment: page-count;
   @bottom-right {
     font-family: DINPro;
-    content: "AdJ pour Paradis Perdu - Lucas Cimon - page " counter(page-count);
+    content: "Paradis Perdu - Lieux emblématiques - page " counter(page-count);
     font-style: italic;
+    font-size: .8rem;
     height: 25mm;
     margin-right: 10mm;
     /* border: red 1px solid; */
@@ -29,13 +30,15 @@ footer {
 
 body { font-family: DINPro; text-align: justify; }
 h1 { font-family: Ailerons; text-align: center; font-size: 3.3rem; text-transform: uppercase; margin: 0; }
-h2 { font-family: DINPro-Black; font-size: 1.3rem; text-transform: uppercase; margin-top: 2.5rem; }
+h2 { font-family: DINPro-Black; font-size: 1.3rem; text-transform: uppercase; margin-top: 3rem; }
 h3 { font-family: DINPro-Black; font-size: 1.15rem; }
 blockquote { font-family: DINCondensed; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 
 img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
-img.large { max-width: 100%; max-height: 100%; }
+img.large { max-width: 100%; max-height: 25rem; }
 img.small { max-width: 8rem; max-height: 8rem; }
+
+a { color: #1e3c8f; }
 
 .side-by-side { text-align: center; }
 .side-by-side > * { display: inline-block; }
