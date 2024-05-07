@@ -1,6 +1,6 @@
 #!/bin/bash
 set -o pipefail -o errexit -o nounset
-cd $(dirname ${BASH_SOURCE[0]})
+cd $(dirname ${BASH_SOURCE[0]})/gallery
 
 # Spaceship leaving colony:
 video_id=I4zto6KRnWQ
@@ -14,6 +14,13 @@ video_id=t-dxN6VU-Io
 yt-dlp https://www.youtube.com/watch?v=$video_id
 #   Hide final part of the video with a black screen (ffmpeg takes ~5s to complete):
 ffmpeg -i *$video_id*.* -vf "drawbox=enable='between(t,28,40)':color=black:t=fill" -to 00:31:00 -c:a copy -y "EndersGameBattleSchool.webm"
+rm *$video_id*.*
+
+# Cockpit du vaisseau
+video_id=ombj_8ceiAk
+yt-dlp https://www.youtube.com/watch?v=$video_id
+#   ffmpeg takes ~3min to complete:
+ffmpeg -ss 00:00:17 -i *$video_id*.* -c:a copy -y "TheCallistoProtocol-CockpitScreen.webm"
 rm *$video_id*.*
 
 # A monster is coming...

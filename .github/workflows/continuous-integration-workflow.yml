@@ -134,6 +134,10 @@ jobs:
           ./build_pdf.py
           cd -
 
+          cd ParadisPerdu/
+          ./adj2pdf.py
+          cd -
+
           cd plus-de-place-en-enfer
           node ../md2html.js plus-de-place-en-enfer.md > index.html
           cd -
@@ -186,7 +190,7 @@ jobs:
           cd -
 
           # Debugging ~~text~~ propert substitution into <s>text</s>:
-          node ./md2html.js dices.md > dices.html
+          node ./md2html.js dices.md > dices.html && cat dices.html
           cd scavengers
           node ../md2html.js scavengers.md > index.html
           if [[ $GIT_TAG =~ ^adj-scavengers ]]; then
