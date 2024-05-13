@@ -29,7 +29,7 @@ jobs:
       - name: Set up NodeJS 🔧
         uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: 18
 
       - name: Install dependencies ⚙️
         run: |
@@ -47,6 +47,7 @@ jobs:
           node md2html.js index.md > index.html
           node md2html.js LeDernierCafeSurLaGauche.md > LeDernierCafeSurLaGauche.html
 
+          echo "Rendering 2200_le_jugement_des_dieux"
           cd 2200_le_jugement_des_dieux
           node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
           node ../md2html.js 2200_the_gods_judgement.md > 2200_the_gods_judgement.html
@@ -55,6 +56,7 @@ jobs:
           fi
           cd -
 
+          echo "Rendering CheatYourOwnAdventure"
           cd CheatYourOwnAdventure
           node ../md2html.js CheatYourOwnAdventure.md > index.html
           cd -
@@ -63,11 +65,13 @@ jobs:
             mv CyberPunk/CyberPunk-FR.pdf $GIT_TAG.pdf
           fi
 
+          echo "Rendering DungeonHeartHeroesAndSpells"
           cd DungeonHeartHeroesAndSpells
           node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
           node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
           cd -
 
+          echo "Rendering ce-nest-pas-une-place-dhonneur"
           cd ce-nest-pas-une-place-dhonneur
           node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
           if [[ $GIT_TAG =~ ^ce-nest-pas-une-place-dhonneur ]]; then
@@ -75,6 +79,7 @@ jobs:
           fi
           cd -
 
+          echo "Rendering chimera"
           cd chimera
           node ../md2html.js chimera.md > index.html
           if [[ $GIT_TAG =~ ^chimera ]]; then
@@ -82,6 +87,7 @@ jobs:
           fi
           cd -
 
+          echo "Rendering gdav"
           cd gdav
           node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
           if [[ $GIT_TAG =~ ^gdav- ]]; then
@@ -91,14 +97,17 @@ jobs:
           fi
           cd -
 
+          echo "Rendering genius-loci"
           cd genius-loci
           node ../md2html.js genius-loci.md > index.html
           cd -
 
+          echo "Rendering latour"
           cd latour
           node ../md2html.js latour.md > index.html
           cd -
 
+          echo "Rendering LesNonMorts"
           cd LesNonMorts
           node ../md2html.js --title='Les Non-morts' LesNonMorts.md > index.html
           if [[ $GIT_TAG =~ ^LesNonMorts- ]]; then
@@ -107,6 +116,7 @@ jobs:
           fi
           cd -
 
+          echo "Rendering OriMushi"
           cd OriMushi
           node ../md2html.js OriMushi.md > index.html
           # This line cannot stay in the HTML source file due to lepture/python-livereload PR #259:
@@ -118,21 +128,25 @@ jobs:
           fi
           cd -
 
+          echo "Rendering Pathfinder"
           cd Pathfinder
           ./build_pdf.py
           cd -
 
-          cd ParadisPerdu/
+          echo "Rendering ParadisPerdu"
+          cd ParadisPerdu
           if [[ $GIT_TAG =~ ^ParadisPerdu-v ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/ParadisPerdu-v/}/" README.md
           fi
           ./adj2pdf.py
           cd -
 
+          echo "Rendering plus-de-place-en-enfer"
           cd plus-de-place-en-enfer
           node ../md2html.js plus-de-place-en-enfer.md > index.html
           cd -
 
+          echo "Rendering RunDieRepeat"
           cd RunDieRepeat
           node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html
           if [[ $GIT_TAG =~ ^RunDieRepeat-scenarios- ]]; then
@@ -154,7 +168,8 @@ jobs:
           fi
           cd -
 
-          cd Sombre/
+          echo "Rendering Sombre"
+          cd Sombre
           Terminatrice/Terminatrice-BehindTheDoors.py
           Terminatrice/Terminatrice-OutOfReach.py
           cd scenario/
@@ -167,10 +182,12 @@ jobs:
           fi
           cd ../..
 
+          echo "Rendering sous-terre"
           cd sous-terre
           node ../md2html.js sous-terre.md > index.html
           cd -
 
+          echo "Rendering VengeanceFatale4D"
           cd VengeanceFatale4D
           node ../md2html.js VengeanceFatale4D.md > index.html
           if [[ $GIT_TAG =~ ^VengeanceFatale4D ]]; then
@@ -179,6 +196,7 @@ jobs:
           fi
           cd -
 
+          echo "Rendering scavengers"
           # Debugging ~~text~~ propert substitution into <s>text</s>:
           node ./md2html.js dices.md > dices.html && cat dices.html
           cd scavengers

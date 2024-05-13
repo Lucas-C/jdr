@@ -43,11 +43,11 @@ def markdown2pdf(dir, md_filepath, css_filepath):
 
 
 def add_id_attrs_on_headings(html):
-    soup = BeautifulSoup(html, features="lxml")
+    soup = BeautifulSoup(html, features="html.parser")
     for tag_name in ("h1", "h2", "h3", "h4"):
         for heading in soup.find_all(tag_name):
             heading["id"] = slugify(heading.string)
-    return str(soup)
+    return str(soup).replace("</img>", "")
 
 
 def slugify(s):

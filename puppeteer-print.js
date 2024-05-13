@@ -1,5 +1,5 @@
 const path = require('path');
-const puppeteer = require('puppeteer')
+const puppeteer = require('puppeteer');
 
 (async () => {
     const url = `file://${path.resolve(process.argv[2])}`

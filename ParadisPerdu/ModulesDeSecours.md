@@ -1,9 +1,9 @@
 # Paradis Perdu
 # Modules de secours
 
-<br><br><br>
+<!--br><br><br>
 <img class="large" alt="" src="">
-<br><br>
+<br><br-->
 
 Ceci est une aide de jeu pour [Paradis Perdu](https://www.misterfrankenstein.com/wordpress/?p=5388), un excellent jeu de rôle « Nuit Blanche » d'Anthony "Yno" Combrexelles.
 Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. Ces modules m'ont également beaucoup aidé en tant que MJ pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base.
