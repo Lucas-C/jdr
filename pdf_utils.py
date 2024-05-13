@@ -1,6 +1,8 @@
-import asyncio, io, logging
+import asyncio, io, logging, re
 from traceback import print_exc
+from urllib.parse import quote
 
+from bs4 import BeautifulSoup
 from mistletoe import markdown, HtmlRenderer
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
@@ -13,10 +15,15 @@ except ImportError:
     OPT_DEPS_LOADED = False
     StaticFileHandler = object
 
+ANCHOR_ID_CHAR_RANGE_TO_IGNORE = "[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+"
+ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE = re.compile(ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
+ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
+
 
 def markdown2pdf(dir, md_filepath, css_filepath):
     with open(md_filepath, encoding="utf8") as md_file:
         html = markdown(md_file.read(), renderer=CustomHtmlRenderer)
+    html = add_id_attrs_on_headings(html)
     html_doc = f"""<!doctype html>
 <html>
     <head>
@@ -33,6 +40,23 @@ def markdown2pdf(dir, md_filepath, css_filepath):
     bytes_io = io.BytesIO()
     HTML(base_url=str(dir), string=html).write_pdf(bytes_io, stylesheets=[css], font_config=font_config)
     return bytes_io
+
+
+def add_id_attrs_on_headings(html):
+    soup = BeautifulSoup(html, features="html.parser")
+    for tag_name in ("h1", "h2", "h3", "h4"):
+        for heading in soup.find_all(tag_name):
+            heading["id"] = slugify(heading.string)
+    return str(soup).replace("</img>", "")
+
+
+def slugify(s):
+    # Reproduce slugify() in md2html.js
+    s = s.strip()
+    s = s.lower()
+    s = re.sub(ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE, "", s)
+    s = re.sub(ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE, "-", s)
+    return quote(s)
 
 
 async def start_watch_and_rebuild(module, *files_to_watch):

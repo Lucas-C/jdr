@@ -1,6 +1,8 @@
 <!--
 Ici & sur blog : favoriser liens itch.io pour téléchargements, car incluent des compteurs
 
+Note : en termes de mise en page PDF, quelques soucis persisten overflow + pictos mal rendus par Puppeteer
+
 ./extract_pdf_pages.sh RunDieRepeat-scenarios-FR.pdf 1 13 RunDieRepeat-scenarios-FR-v1.1.pdf
 
 Publié / com' sur :
@@ -60,7 +62,6 @@ mais où le moindre jet de dé raté entraîne la mort.
 J'ai été conquis par le principe du jeu, original et source de courte parties très amusantes.
 Je l'ai traduit en français puis, durant le confinement de 2020, j'ai rédigé et fait joué à plusieurs reprises ces scénarios.
 Ils sont tous indépendants, à l'exception des 3 derniers qui constituent un triptyque.
-
 Pour chacun d'entre eux, j'ai tenté de créer un objectif [diégétique](https://fr.wiktionary.org/wiki/di%C3%A9g%C3%A9tique) à l'histoire,
 en fournissant même parfois une explication à la capacité à remonter le temps et/ou à la contrainte de durée.
 
@@ -145,7 +146,7 @@ vous devez échappez à la foule de cultistes à vos trousses, et réussir à le
 > incluant un compte à rebours de 20min, un masque en latex, ainsi que ce mot :
 > « Fait sortir Loubianov par l'arrière-court »
 ### Objectif
-Trouver un moyen de s'évader avec Loubianov, qui n'est pas au courant du plan !
+S'évader avec Loubianov, qui n'est pas au courant du plan !
 ### Règles spéciales
 Le masque permet de prendre le visage de la personne que l'on souhaite.
 Les joueuses le découvrent dès qu'elles le mettent.
@@ -180,7 +181,7 @@ il se sent plus en sécurité en prison qu'entre les mains des commanditaires de
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 <!-- ![](SunnyClockwork-SCP-2661.jpg) -->
-<a href="labyrinthe.png" target="_blank"><img alt="Carte du labyrinthe" src="labyrinthe.png"></a>
+<a href="https://lucas-c.github.io/jdr/RunDieRepeat/labyrinthe.png" target="_blank"><img alt="Carte du labyrinthe" src="labyrinthe.png"></a>
 ## Labyrinthe
 > Tu mets le pied hors du portail magique, dans le labyrinthe.
 > D'immenses murs de marbre lisse se dressent autour de toi.
@@ -210,7 +211,7 @@ Elle est assoupie contre un coffre contenant **une clef**.
 dont la sculpture centrale change à chaque passage dans la salle : Ariane, Dédale ou Minos.
 Au fond de l'eau repose, quasi imperceptible, **une cape rendant invisible**
 (**+2** pour esquiver les monstres).
-1. une pièce vide. Un trompe-l’œil en réalité, dissimulant un coffre
+1. la pièce semble vide, mais dissimule en trompe-l’œil un coffre
 contenant **les ailes d'Icare**, qui permettent de planer (mais pas de s'envoler).
 1. un cul-de-sac donnant sur un puits avec inscrit « Icare » sur la marelle,
 au fond duquel on débouche à 100m **au-dessus** du labyrinthe.
@@ -584,7 +585,6 @@ h1, h2, h3 { font-family: VanchromeRegular; }
 h1 { font-size: 4.5rem; text-align: center; margin: 8rem auto; margin-bottom: 2rem; }
 h2 { font-size: 3rem; text-align: center; }
 h3 { font-size: 1.55rem; margin: 0; }
-section { height: 100%; }
 hr { margin: 6rem; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 26rem; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
@@ -596,7 +596,7 @@ li::marker { font-weight: bold; }
   text-align: right;
   font-style: italic;
   padding: 1rem 16rem;
-  margin-bottom: 5rem; 
+  margin-bottom: 2rem;
 }
 .license { float: left; padding-right: 1rem; }
 #sc-narios-pour-run-die-repeat- > ul { column-count: 2; }
@@ -604,7 +604,6 @@ li::marker { font-weight: bold; }
   page-break-before: always;
   margin: 6rem auto;
   column-count: 2;
-  height: 100%;
 }
 .page > p { clear: both; margin: 0; } /* Pour bien centrer l'image contenue dedans, qui sinon est décalé à cause du .timer */
 .page ol, .page ul { padding-inline-start: 1rem; }
@@ -625,7 +624,7 @@ s { /* dices */
   }
   body { font-size: 1.2rem; }
   hr, .web-only { display: none; }
-  .author { padding: 1rem 10rem; }
+  .author { padding: 0; }
   .license img { height: 1.7rem; }
   .page { font-size: 1rem; margin: 0 auto; }
   .page p { margin-top: .3rem; margin-bottom: .5rem; }
@@ -638,7 +637,8 @@ s { /* dices */
   .footer > p { margin: 0; }
   /* Per-scenario tweaking: */
   #cthulhu-fhtagn h2 { margin: 1.8rem; }
-  .page:nth-of-type(6) > p > img { max-height: 21rem; } /* LABYRINTHE */
+  .page:nth-of-type(5) > p > img { max-height: 12rem; } /* EVASION */
+  .page:nth-of-type(6) > p > a > img { max-height: 17rem; } /* LABYRINTHE */
   #labyrinthe h2 { margin: 0; }
   #labyrinthe p { margin-top: 0; margin-bottom: .4rem; }
   div:nth-of-type(7) > p > img { max-height: 20rem; } /* LA GRANDE GUERRE */
@@ -653,6 +653,8 @@ s { /* dices */
   #obstacles-7 ul { margin: 0; }
   div:nth-of-type(11) > p > img { max-height: 22rem; } /* Spec Ops #1-#2-#3 */
   #spec-ops-1-infiltration h2, #spec-ops-2-prototype h2, #spec-ops-3-revengeance h2 { margin: 0; }
+  /* TODO: fixme - Hidden because 1st picto does not get properly rendered */
+  .picto { display: none; }
 }
 /* Useful CSS rules to debug @page layout / margins * /
 html { border: 1px solid red; }

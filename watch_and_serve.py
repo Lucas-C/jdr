@@ -41,7 +41,7 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         print('Watching', md_filename, '->', output_html_filepath, end='')
         if '--pdf' in sys.argv:
             output_pdf_filepath = md_filename.replace('.md', '.pdf')
-            cmd = chain(cmd, f'puppeteer print {output_html_filepath} {output_pdf_filepath}')
+            cmd = chain(cmd, f'node ./puppeteer-print.js {output_html_filepath} {output_pdf_filepath}')
             print('->', output_pdf_filepath, end='')
         print()
         server.watch(md_filename, cmd)

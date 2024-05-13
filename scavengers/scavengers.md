@@ -1,4 +1,8 @@
 <!--
+Inspis vidéos :
+* Scavengers, short film (2016) : https://www.youtube.com/watch?v=1TRzemJbUsw
+* Scavengers Reign, series (2023) : https://www.youtube.com/watch?v=NWQH8cMpWTU
+
 https://www.deviantart.com/fernand0fc/art/A-laser-rifle-730311561
 
 Scénariothèque : http://www.scenariotheque.org/Document/info_doc.php?id_doc=9919
@@ -575,7 +579,7 @@ Si c'est un 3, reportez la valeur du second dé dans cette table :
 
 <figure>
   <img alt="Un large casque bleu de cosmonaute" src="img/helmet_concepts_by_akol3850_d8xlw40-fullview.png">
-  <figcaption><a href="https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128">Helmet concepts</a> de akol3850 - <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a></figcaption>
+  <figcaption><a href="https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128">Helmet concepts</a> de Godstime Ojinmah - <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a></figcaption>
 </figure>
 
 | Contrat bonus           | Détails & mauvaises surprises
@@ -674,7 +678,7 @@ ils verront à la place de leurs camarades des créatures amphibiennes, humanoï
 Et si jamais ils déjouent cette illusion, la créature renchérira en leur faisant croire à un incendie pour qu'ils s'éjectent !
 
 <figure id="say-cheese">
-  <img alt="Un buste de créture humanoïde sans yeux ni nez mais avec une gigantesque machoire" src="img/say_cheese_by_free4fireyoutube_d9zxc1w-pre.jpg">
+  <img alt="Un buste de créature humanoïde sans yeux ni nez mais avec une gigantesque machoire" src="img/say_cheese_by_free4fireyoutube_d9zxc1w-pre.jpg">
   <figcaption><a href="https://www.deviantart.com/free4fireyoutube/art/Say-Cheese-604537412">Say Cheese</a> de free4fireYouTube - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 
@@ -816,7 +820,6 @@ tbody > tr:nth-of-type(odd) { background-color: #f9f9f9; }
     s { font-size: 1.8rem; }
     .web-only { display: none; }
     #anomalies-nauchoresques img { max-height: 16rem; } /* To start table on next page */
-    #say-cheese img { display: none; } /* Tmp hack to fit on 15 pages: remove this if content change */
 }
 </style>
 <script>
