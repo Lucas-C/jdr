@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Script Dependencies:
+#    beautifulsoup4
 #    fpdf2
 #    livereload
 #    mistletoe

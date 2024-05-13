@@ -1,15 +1,12 @@
 Présentation officielle du jeu : [Paradis Perdu @ misterfrankenstein.com](https://www.misterfrankenstein.com/wordpress/?p=5388)
 
-Les aides de jeux officielles sont téléchargeables sur cette page : https://www.misterfrankenstein.com/wordpress/?page_id=3
+Les aides de jeux officielles sont téléchargeables sur cette page : <https://www.misterfrankenstein.com/wordpress/?page_id=3>
 
 Mes notes de préparation : [lien public SimpleNote](http://simp.ly/p/gWh9MJ)
 
-## Lieux emblématiques
-Une aide de jeu pour aider la meneuse de jeu à décrire les différentes zone de la station,
-et créer des intrigues complémentaires via l'environnement :
-
-* [TerraNova-LieuxEmblematiques.md](./TerraNova-LieuxEmblematiques.md)
-* [TerraNova-LieuxEmblematiques.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/TerraNova-LieuxEmblematiques.pdf)
+## Modules de secours
+Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original. Ils m'ont également beaucoup aidé en tant que MJ pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base :
+[TerraNova-ModulesDeSecours.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/TerraNova-ModulesDeSecours.pdf)
 
 Pour regénérer le PDF avec Python :
 ```
@@ -38,7 +35,6 @@ sigal serve --browser
     * [CYBERPUNK IS COMING - Extra Terra](https://www.youtube.com/watch?v=6Pia2X856wo) : crescendo de tension qui monte doucement **→** parfait pour rythmer un rebondissement scénaristique
     * [Beam - Volkor X](https://www.youtube.com/watch?v=kT7kZ7HPJYM) : crescendo très épique **→** idéal pour une transition d'acte ou l'épilogue
     * [ludoWic - Katana ZERO](https://www.youtube.com/watch?v=_pMyRRFUMBE) : **→** 
-    * [](https://www.youtube.com/watch?) : **→** 
 
 ## Clips vidéos
 * [Trailer de L'Antre de Khamûl](https://www.youtube.com/watch?v=Za2wS_ldKTw)

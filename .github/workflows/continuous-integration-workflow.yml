@@ -33,27 +33,16 @@ jobs:
 
       - name: Install dependencies ⚙️
         run: |
-          pip install fpdf2 mistletoe pypdf weasyprint
-          # Seems like all `puppeteer print` commands do not work anymore:
-          # * it produces zero logs on stderr anymore
-          # * it silently fails to generate any PDF file
-          # A solution could be to use xvfb: https://stackoverflow.com/a/62352776/636849
-          # Once fixed, those files should be removed:
-          # * OriMushi/OriMushi-FeuillePersonnage.pdf
-          # * RunDieRepeat/RunDieRepeat-scenarios2-FR.pdf
-          # And I should check that 🏃 is correctly rendered in this last PDF file
-          npm install -g puppeteer-cli
+          pip install beautifulsoup4 fpdf2 mistletoe pypdf weasyprint
+
           # Installing dependencies in the root directory works because the md2html.js is a child file:
-          npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git
+          npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git puppeteer
           wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 
       - name: Generating HTML pages 🏗️
         run: |
           GIT_TAG=${{ steps.tag.outputs.version }}
           echo GIT_TAG=$GIT_TAG
-
-          # Display puppeteer browser version:
-          $(npm list -g | head -1)/node_modules/puppeteer-cli/node_modules/puppeteer/.local-chromium/*/chrome-linux/chrome --version
 
           node md2html.js index.md > index.html
           node md2html.js LeDernierCafeSurLaGauche.md > LeDernierCafeSurLaGauche.html
@@ -82,14 +71,14 @@ jobs:
           cd ce-nest-pas-une-place-dhonneur
           node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
           if [[ $GIT_TAG =~ ^ce-nest-pas-une-place-dhonneur ]]; then
-            puppeteer print index.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
           cd -
 
           cd chimera
           node ../md2html.js chimera.md > index.html
           if [[ $GIT_TAG =~ ^chimera ]]; then
-            puppeteer print index.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
           cd -
 
@@ -97,8 +86,8 @@ jobs:
           node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
           if [[ $GIT_TAG =~ ^gdav- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/gdav-/}/" index.html
-            puppeteer print index.html ../$GIT_TAG.pdf
-            puppeteer print mind-map.html ../$GIT_TAG-mind-map.pdf
+            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js mind-map.html ../$GIT_TAG-mind-map.pdf
           fi
           cd -
 
@@ -114,7 +103,7 @@ jobs:
           node ../md2html.js --title='Les Non-morts' LesNonMorts.md > index.html
           if [[ $GIT_TAG =~ ^LesNonMorts- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/LesNonMorts-/}/" index.html
-            puppeteer print index.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
           cd -
 
@@ -122,11 +111,10 @@ jobs:
           node ../md2html.js OriMushi.md > index.html
           # This line cannot stay in the HTML source file due to lepture/python-livereload PR #259:
           sed -i '1i<head><meta charset="UTF-8"></head>' OriMushi-FeuillePersonnage.html
-          puppeteer print OriMushi-FeuillePersonnage.html OriMushi-FeuillePersonnage.pdf
-          ls -l OriMushi-FeuillePersonnage.pdf
+          node ../puppeteer-print.js OriMushi-FeuillePersonnage.html OriMushi-FeuillePersonnage.pdf
           if [[ $GIT_TAG =~ ^ori-mushi- ]]; then
             sed -i "s/{{version}}/${GIT_TAG/ori-mushi-/}/" index.html
-            puppeteer print index.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
           cd -
 
@@ -135,6 +123,9 @@ jobs:
           cd -
 
           cd ParadisPerdu/
+          if [[ $GIT_TAG =~ ^ParadisPerdu-v ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/ParadisPerdu-v/}/" README.md
+          fi
           ./adj2pdf.py
           cd -
 
@@ -146,21 +137,20 @@ jobs:
           node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html
           if [[ $GIT_TAG =~ ^RunDieRepeat-scenarios- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/RunDieRepeat-scenarios-/}/" RunDieRepeat-scenarios-FR.html
-            puppeteer print RunDieRepeat-scenarios-FR.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js RunDieRepeat-scenarios-FR.html ../$GIT_TAG.pdf
           fi
           node ../md2html.js RunDieRepeat-scenarios2-FR.md > RunDieRepeat-scenarios2-FR.html
-          puppeteer print RunDieRepeat-scenarios2-FR.html RunDieRepeat-scenarios2-FR.pdf
-          ls -l RunDieRepeat-scenarios2-FR.pdf
+          node ../puppeteer-print.js RunDieRepeat-scenarios2-FR.html RunDieRepeat-scenarios2-FR.pdf
           node ../md2html.js RunDieRepeat-scenarios3-FR.md > RunDieRepeat-scenarios3-FR.html
           node ../md2html.js DocteurLestrange.md > DocteurLestrange.html
           if [[ $GIT_TAG =~ ^DocteurLestrange- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/DocteurLestrange-/}/" DocteurLestrange.html
-            puppeteer print DocteurLestrange.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js DocteurLestrange.html ../$GIT_TAG.pdf
           fi
           node ../md2html.js LesCouloirsDuTemps.md > LesCouloirsDuTemps.html
           if [[ $GIT_TAG =~ ^LesCouloirsDuTemps- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/LesCouloirsDuTemps-/}/" LesCouloirsDuTemps.html
-            puppeteer print LesCouloirsDuTemps.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js LesCouloirsDuTemps.html ../$GIT_TAG.pdf
           fi
           cd -
 
@@ -185,7 +175,7 @@ jobs:
           node ../md2html.js VengeanceFatale4D.md > index.html
           if [[ $GIT_TAG =~ ^VengeanceFatale4D ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/VengeanceFatale4D-/}/" index.html
-            puppeteer print index.html ../$GIT_TAG.pdf
+            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
           cd -
 

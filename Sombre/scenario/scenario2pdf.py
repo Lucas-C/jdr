@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # TODO: generate a printer-friendly / text-only version without appendix nor any images
 # Script Dependencies:
+#    beautifulsoup4
 #    fpdf2
 #    livereload
 #    mistletoe

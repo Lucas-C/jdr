@@ -11,7 +11,7 @@
   counter-increment: page-count;
   @bottom-right {
     font-family: DINPro;
-    content: "Paradis Perdu - Lieux emblématiques - page " counter(page-count);
+    content: "Paradis Perdu - Modules de secours - page " counter(page-count);
     font-style: italic;
     font-size: .8rem;
     height: 25mm;
@@ -34,16 +34,31 @@ h2 { font-family: DINPro-Black; font-size: 1.3rem; text-transform: uppercase; ma
 h3 { font-family: DINPro-Black; font-size: 1.15rem; }
 blockquote { font-family: DINCondensed; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 
+a { color: #1e3c8f; }
+
+table {
+  border-collapse: collapse;
+  page-break-inside: avoid;
+  width: 100%;
+}
+th, td {
+  border: 1px solid black;
+  font-weight: normal;
+  width: 33%;
+  text-align: center;
+  padding: .5rem;
+}
+
+.float-left { float: left; padding-right: 1rem; }
+
 img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
 img.large { max-width: 100%; max-height: 25rem; }
 img.small { max-width: 8rem; max-height: 8rem; }
 
-a { color: #1e3c8f; }
+.pnj { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }
 
 .side-by-side { text-align: center; }
 .side-by-side > * { display: inline-block; }
-
-.float-left { float: left; padding-right: 1rem; }
 
 @media print {
   .web-only { display: none; }

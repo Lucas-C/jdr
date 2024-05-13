@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Script Dependencies:
+#    beautifulsoup4
 #    livereload
 #    mistletoe
 #    weasyprint
@@ -8,14 +9,16 @@ import asyncio, logging, sys
 from pathlib import Path
 
 DIR = Path(__file__).parent
-
-logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, start_watch_and_rebuild
 
-MD_FILEPATH = DIR / "TerraNova-LieuxEmblematiques.md"
+# Avoid some useless verbose logs:
+logging.getLogger("fontTools.subset").level = logging.WARN
+logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
+
+MD_FILEPATH = DIR / "ModulesDeSecours.md"
 CSS_FILEPATH = DIR / "style.css"
-OUT_FILEPATH = DIR / "ParadisPerdu-LieuxEmblematiques.pdf"
+OUT_FILEPATH = DIR / "ParadisPerdu-ModulesDeSecours.pdf"
 
 
 def build_pdf():

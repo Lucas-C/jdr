@@ -481,11 +481,10 @@ Ce scénario a été conçu par Lucas Cimon et est placé sous licence <a href="
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/Sombre). Version : 1.0
 
 Ce scénario est diffusé à prix libre. Sa conception a nécessité un travail conséquent.
-Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur <https://lucas-c.itch.io>.
+Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io/sombre-lab-escape](https://lucas-c.itch.io/sombre-lab-escape).
 
 Je serais aussi ravi d'avoir vos retours sur ce scénario si vous le faites jouer !
-Racontez-moi comment s'est passé votre partie via un commentaire [itch.io](https://lucas-c.itch.io) ou par email à
-_lucas POINT cimon AROBASE gmail POINT com_.
+Racontez-moi comment s'est passée votre partie via un commentaire [itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/sombre-lab-escape.html).
 
 
 ## Crédits & remerciements

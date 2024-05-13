@@ -9,8 +9,8 @@ pour générer une version HTML à partir de la version Markdown.
 
 Une version PDF peut être générée facilement avec NodeJS:
 
-    npm install -g puppeteer-cli
-    puppeteer print $infile.html $outfile.pdf
+    npm install puppeteer
+    node ./puppeteer-print.js $infile.html $outfile.pdf
 
 ## Serveur local de développement
 

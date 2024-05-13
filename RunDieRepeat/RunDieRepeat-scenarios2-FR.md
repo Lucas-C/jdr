@@ -179,8 +179,7 @@ des séquelles visibles de toutes ses morts précédentes...
 Notez que si les joueuses décident de déplacer l'amulette ailleurs, cela déplacera cette « ancre temporelle »,
 et le _run_ débutera à un autre endroit, un peu plus tard dans la trame chronologique !
 
-::: page-break
-:::
+<br>
 
 ### Environnement & obstacles
 
@@ -239,7 +238,6 @@ h1, h2, h3 { font-family: VanchromeRegular; }
 h1 { font-size: 4.5rem; text-align: center; margin: 4rem auto; margin-bottom: 2rem; }
 h2 { font-size: 3rem; text-align: center; }
 h3 { font-size: 1.55rem; margin: 0; }
-section { height: 100%; }
 hr { margin: 6rem; }
 img { display: block; margin: 0 auto; max-width: 100%; max-height: 30rem; }
 blockquote { font-style: italic; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
@@ -255,12 +253,10 @@ li::marker { font-weight: bold; }
   margin-bottom: 1rem;
 }
 .license { float: left; padding-right: 1rem; }
-#sc-narios-pour-run-die-repeat- > ul { column-count: 3; }
 .page {
   page-break-before: always;
   margin: 6rem auto;
   column-count: 2;
-  height: 100%;
 }
 .page > p { clear: both; margin: 0; } /* Pour bien centrer l'image contenue dedans, qui sinon est décalé à cause du .timer */
 .page ol, .page ul { padding-inline-start: 1rem; }
@@ -276,16 +272,15 @@ s { /* dices */
   line-height: .8;
   vertical-align: bottom;
 }
-.page-break { page-break-after: always; }
 
 @media print {
   @page {
-    size: A4 landscape; /* set PDF landscape mode - cf. https://github.com/puppeteer/puppeteer/issues/3834#issuecomment-549007667 */
+    size: A4 landscape;
     margin: 2rem 4rem;
   }
   body { font-size: 1.1rem; }
   hr, .web-only { display: none; }
-  .author { padding: 1rem 10rem; }
+  .author { padding: 0; }
   .license img { height: 1.7rem; }
   .page { font-size: 1rem; margin: 0 auto; }
   .page img { max-height: 20rem; }
@@ -302,6 +297,8 @@ s { /* dices */
   /* Per-scenario tweaking: */
   #big-parasite { max-height: 12rem; }
   #flower-on-rails { max-height: 15rem; }
+  /* TODO: fixme - Hidden because 1st picto does not get properly rendered */
+  .picto { display: none; }
 }
 /* Useful CSS rules to debug @page layout / margins * /
 html { border: 1px solid red; }
