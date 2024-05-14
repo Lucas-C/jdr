@@ -3,6 +3,7 @@
 #    beautifulsoup4
 #    livereload
 #    mistletoe
+#    pikepdf
 #    weasyprint
 #    xreload
 import asyncio, logging, sys
@@ -10,7 +11,7 @@ from pathlib import Path
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, start_watch_and_rebuild
+from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 
 # Avoid some useless verbose logs:
 logging.getLogger("fontTools.subset").level = logging.WARN
@@ -24,6 +25,11 @@ OUT_FILEPATH = DIR / "ParadisPerdu-ModulesDeSecours.pdf"
 def build_pdf():
     with OUT_FILEPATH.open("wb") as out_pdf_file:
         out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH).getbuffer())
+    set_metadata(OUT_FILEPATH,
+        title="Paradis Perdu - Modules de secours",
+        keywords=("jdr", "ttrpg", "aide de jeu", "sci-fi"),
+        description="Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original de Yno.",
+    )
     print(f"{OUT_FILEPATH} has been rebuilt")
 
 

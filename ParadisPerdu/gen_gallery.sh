@@ -14,8 +14,7 @@ fi
 mkdir -p gallery/
 cp img/* gallery/
 # Import des images depuis les galeries Pinterest :
-for dir in acte-1; do
-# for dir in acte-1 acte-2 acte-3 persos; do
+for dir in acte-1 acte-2 acte-3 persos; do
     rm -rf gallery/${dir}
     ../../pinterest-downloader/pinterest-downloader.py -d . https://www.pinterest.fr/drmaxkurt/paradis-perdu-${dir}/
     mv drmaxkurt/paradis-perdu-${dir} gallery/${dir}

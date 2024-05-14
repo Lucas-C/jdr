@@ -33,7 +33,7 @@ jobs:
 
       - name: Install dependencies ⚙️
         run: |
-          pip install beautifulsoup4 fpdf2 mistletoe pypdf weasyprint
+          pip install beautifulsoup4 fpdf2 mistletoe pikepdf pypdf weasyprint
 
           # Installing dependencies in the root directory works because the md2html.js is a child file:
           npm install minimist markdown-it markdown-it-anchor markdown-it-header-sections markdown-it-table-of-contents markdown-it-container markdown-it-include markdown-it-multimd-table markdown-it-smartarrows git+https://git@github.com/Lucas-C/markdown-it-checkbox.git puppeteer
@@ -135,6 +135,7 @@ jobs:
 
           echo "Rendering ParadisPerdu"
           cd ParadisPerdu
+          wget https://www.misterfrankenstein.com/wordpress/wp-content/uploads/2021/05/Pack_AP_ParadisPerdu.zip && unzip Pack_AP_ParadisPerdu.zip && rm Pack_AP_ParadisPerdu.zip
           if [[ $GIT_TAG =~ ^ParadisPerdu-v ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/ParadisPerdu-v/}/" README.md
           fi
