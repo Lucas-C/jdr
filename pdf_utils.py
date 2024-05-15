@@ -22,16 +22,17 @@ ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE = re.compile(ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 
 
-def markdown2pdf(dir, md_filepath, css_filepath):
+def markdown2pdf(dir, md_filepath, css_filepath=None):
     with open(md_filepath, encoding="utf8") as md_file:
         html = markdown(md_file.read(), renderer=CustomHtmlRenderer)
     html = add_id_attrs_on_headings(html)
+    link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
     html_doc = f"""<!doctype html>
 <html>
     <head>
         <meta charset="utf-8">
         <title>JdR - Work-in-progress</title>
-        <link rel="stylesheet" href="{css_filepath.name}">
+        {link_tag}
     </head>
     <body>{html}</body>
 </html>"""

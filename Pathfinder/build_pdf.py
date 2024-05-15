@@ -1,13 +1,4 @@
 #!/usr/bin/env python3
-# Script Dependencies:
-#    beautifulsoup4
-#    fpdf2
-#    livereload
-#    mistletoe
-#    pikepdf
-#    pypdf
-#    weasyprint
-#    xreload
 import asyncio, io, logging, sys
 from pathlib import Path
 
