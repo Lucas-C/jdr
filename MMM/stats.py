@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 from collections import defaultdict
 
 CELL_WIDTH = 17

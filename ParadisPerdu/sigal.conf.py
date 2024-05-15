@@ -4,7 +4,7 @@
 # Gallery title. Can be set here or as the '--title' option of the `sigal
 # build` command, or in the 'index.md' file of the source directory.
 # The priority order is: cli option > settings file > index.md file
-title = "Galerie d'images pour le jdr Paradis Perdu de Yno"
+title = "Galerie d'illustrations pour le JdR Paradis Perdu de Yno"
 
 # ---------------------
 # General configuration

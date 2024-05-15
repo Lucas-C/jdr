@@ -6,7 +6,7 @@ Mes notes de préparation : [lien public SimpleNote](http://simp.ly/p/gWh9MJ)
 
 ## Modules de secours
 Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original. Ils m'ont également beaucoup aidé en tant que MJ pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base :
-[TerraNova-ModulesDeSecours.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/TerraNova-ModulesDeSecours.pdf)
+[ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/ParadisPerdu-ModulesDeSecours.pdf)
 
 Pour regénérer le PDF avec Python :
 ```

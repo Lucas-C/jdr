@@ -1,9 +1,11 @@
 import asyncio, io, logging, re
+from datetime import datetime
 from traceback import print_exc
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
 from mistletoe import markdown, HtmlRenderer
+import pikepdf
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 try:
@@ -20,16 +22,17 @@ ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE = re.compile(ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 
 
-def markdown2pdf(dir, md_filepath, css_filepath):
+def markdown2pdf(dir, md_filepath, css_filepath=None):
     with open(md_filepath, encoding="utf8") as md_file:
         html = markdown(md_file.read(), renderer=CustomHtmlRenderer)
     html = add_id_attrs_on_headings(html)
+    link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
     html_doc = f"""<!doctype html>
 <html>
     <head>
         <meta charset="utf-8">
         <title>JdR - Work-in-progress</title>
-        <link rel="stylesheet" href="{css_filepath.name}">
+        {link_tag}
     </head>
     <body>{html}</body>
 </html>"""
@@ -57,6 +60,20 @@ def slugify(s):
     s = re.sub(ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE, "", s)
     s = re.sub(ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE, "-", s)
     return quote(s)
+
+
+def set_metadata(filepath, title=None, description=None, keywords=()):
+    with pikepdf.open(filepath, allow_overwriting_input=True) as pdf:
+        with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
+            if title:
+                meta["dc:title"] = title
+            if description:
+                meta["dc:description"] = description
+            if keywords:
+                meta["pdf:Keywords"] = " ".join(keywords)
+            meta["dc:creator"] = ["Lucas Cimon"]
+            meta["xmp:MetadataDate"] = datetime.now(datetime.utcnow().astimezone().tzinfo).isoformat()
+        pdf.save()
 
 
 async def start_watch_and_rebuild(module, *files_to_watch):

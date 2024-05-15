@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-# Script Dependencies:
-#    beautifulsoup4
-#    fpdf2
-#    livereload
-#    mistletoe
-#    pypdf
-#    weasyprint
-#    xreload
 import asyncio, io, logging, sys
 from pathlib import Path
 
@@ -17,7 +9,7 @@ DIR = Path(__file__).parent
 
 logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, watch_xreload_and_serve
+from pdf_utils import markdown2pdf, set_metadata, watch_xreload_and_serve
 
 MD_FILEPATH = DIR / "Pathfinder.md"
 CSS_FILEPATH = DIR / "style.css"
@@ -29,6 +21,11 @@ def build_pdf():
     merger.append(character_sheet_pdf())
     merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
     merger.write(OUT_FILEPATH)
+    set_metadata(OUT_FILEPATH,
+        title="Pathfinder - Total Conversion",
+        keywords=("jdr", "ttrpg", "pathfinder"),
+        description="",
+    )
     print(f"{OUT_FILEPATH} has been rebuilt")
 
 

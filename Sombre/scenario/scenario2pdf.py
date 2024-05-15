@@ -5,6 +5,7 @@
 #    fpdf2
 #    livereload
 #    mistletoe
+#    pikepdf
 #    pypdf
 #    weasyprint
 #    xreload
@@ -20,7 +21,7 @@ DIR = Path(__file__).parent
 
 logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, start_watch_and_rebuild
+from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
 from render_utils import iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
 
@@ -43,6 +44,11 @@ def build_pdf():
     merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
     merger.append(build_appendix_pdf())
     merger.write(OUT_FILEPATH)
+    set_metadata(OUT_FILEPATH,
+        title="Sombre - Lab Escape",
+        keywords=("jdr", "ttrpg", "sombre", "horror", "scenario"),
+        description="Un scénario Sombre Zéro pour 3 à 5 joueurs, d'une durée d'environ 45min, dans un laboratoire envahi de zombies, avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.",
+    )
     print(f"{OUT_FILEPATH} has been rebuilt")
 
 

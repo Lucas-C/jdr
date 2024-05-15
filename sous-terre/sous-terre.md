@@ -339,6 +339,8 @@ un mot par pouvoir
   * retour en arrière dans le temps avec tous ceux encordés (au moment de l'utilisation)
   cf. FAQ
   en restant sur place -> paradoxe
+  * _air control_ lors d'une chute
+  * ouvrir une fenêtre de 50x50cm permettant de voir le passé à travers
 :::
 
 

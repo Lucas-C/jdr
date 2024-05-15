@@ -7,14 +7,13 @@
 @font-face { font-family: "Ailerons"; src: url("Pack_AP_ParadisPerdu_v2/Polices/Ailerons.ttf"); }
 
 @page {
-  margin: /*top=*/25mm /*lateral=*/20mm /*bottom=*/30mm;
+  margin: /*top=*/25mm /*lateral=*/20mm /*bottom=*/25mm;
   counter-increment: page-count;
   @bottom-right {
     font-family: DINPro;
     content: "Paradis Perdu - Modules de secours - page " counter(page-count);
     font-style: italic;
     font-size: .8rem;
-    height: 25mm;
     margin-right: 10mm;
     /* border: red 1px solid; */
   }
@@ -48,11 +47,19 @@ th, td {
   text-align: center;
   padding: .5rem;
 }
+table img { max-width: 100%; max-height: 8rem; }
+/* Table borders tweaking: */
+tr:nth-child(3) > td:nth-child(1) { border-right: none; }
+tr:nth-child(3) > td:nth-child(2) { border-left: none; }
+tr:nth-child(3) > td:nth-child(3) { border: none; }
 
-.float-left { float: left; padding-right: 1rem; }
+table.terminal-card { width: 66%; margin: auto; }
+
+.float-left { float: left; padding-right: .5rem; }
 
 img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
 img.large { max-width: 100%; max-height: 25rem; }
+img.medium { max-width: 12rem; max-height: 12rem; }
 img.small { max-width: 8rem; max-height: 8rem; }
 
 .pnj { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }

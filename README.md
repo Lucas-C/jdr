@@ -4,19 +4,29 @@ Sources de <https://lucas-c.github.io/jdr/>
 
 ## Comment ça marche ?
 
-La plupart des prototypes dans ce repo reposent sur le script NodeJS [md2html](https://github.com/Lucas-C/linux_configuration/blob/master/bin/md2html.js)
+### Génération de PDFs avec markdown-it & puppeteer
+Les plus anciens prototypes dans ce repo reposent sur le script NodeJS [md2html](https://github.com/Lucas-C/linux_configuration/blob/master/bin/md2html.js)
 pour générer une version HTML à partir de la version Markdown.
 
-Une version PDF peut être générée facilement avec NodeJS:
+    npm ci
+    node ./md2html.js file.md > file.html
 
-    npm install puppeteer
+Une version PDF peut ensuite être générée facilement avec [puppeter](https://pptr.dev/):
+
     node ./puppeteer-print.js $infile.html $outfile.pdf
 
-## Serveur local de développement
+#### Serveur local de développement
 
 Nécessite Python et la lib `livereload`
 
     ./watch_and_serve.py
+
+### Génération de PDFs avec WeasyPrint
+Mes jeux les plus récents emploient [WeasyPrint](https://weasyprint.org/) et quelques autres bibliothèques Python pour générer des fichiers PDF à partir de fichier Markdown :
+
+    pip install -r requirements.txt livereload xreload
+    # exécuter ensuite le script *pdf.py dans le sous-dossier
+
 
 ## Notes
 Emojis utiles : ⚅ ⚠️ 💡 ✏ ❤️ 💔 💋 🍺 ⚗ 🧪 🔬📡 💉 💊 🚪 📜 📘 🏷 🎫 💬 👁️‍🗨️ 👁 💀 ☠ ⚰ 👻 🐉 🐲 🔮 🧙 🕵️ 🔍 🗝 🔓
@@ -25,9 +35,10 @@ Emojis utiles : ⚅ ⚠️ 💡 ✏ ❤️ 💔 💋 🍺 ⚗ 🧪 🔬📡 💉
 
 Also: <https://shapecatcher.com>
 
+
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Le contenu de ce dépôt est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br>Sauf indication contraire, le contenu de ce dépôt est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
 
 <!--
 Ideas:
