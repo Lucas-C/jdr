@@ -53,7 +53,7 @@ tr:nth-child(3) > td:nth-child(1) { border-right: none; }
 tr:nth-child(3) > td:nth-child(2) { border-left: none; }
 tr:nth-child(3) > td:nth-child(3) { border: none; }
 
-table.terminal-card { width: 66%; margin: auto; }
+table.terminal-card { width: 50%; margin: auto; }
 
 .float-left { float: left; padding-right: .5rem; }
 

@@ -47,7 +47,6 @@ Ideas:
 - SVG patterns: https://www.heropatterns.com/
 - JS animations to integrate:
   * raining: https://www.dwitter.net/d/1494
-  * tunnel: https://www.dwitter.net/d/888
   * rotating coin: https://www.dwitter.net/d/1231
   * rotating fractal: https://www.dwitter.net/d/4509
   * incredible animated "generating" pattern: https://www.dwitter.net/d/16784
