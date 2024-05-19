@@ -15,13 +15,15 @@ Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour
 - [PNJs](#pnjs)
 - [Intro - Connivences](#intro-connivences)
 - [Acte 1 - L'œil pour le détail](#acte-1-l-il-pour-le-d-tail)
+- [Acte 2 - Big brother is watching you](#acte-2-big-brother-is-watching-you)
+- [Acte 2 - Trolley dilemna au laboratoire](#acte-2-trolley-dilemna-au-laboratoire)
 
 TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md
 
 
 ## Plan de la station Terra Nova
 
-<img class="large" alt="Space station" src="img/SpaceStation.png">
+<img class="large" alt="Space station" src="img/SpaceStation.jpg">
 
 
 ### Déplacements
@@ -33,7 +35,7 @@ TODO - à rédiger : en substance, l'idée est de réaliser des micro-ellipses l
 ## Terminaux CommLinks
 Ce module propose de mettre à disposition des joueurs un **terminal web**, diégétique à l'histoire car consultable par les PJs sur les CommLinks de la station. Il nécessite que vos joueurs aient des smartphones avec connexion à internet durant la partie.
 
-Le but de ce terminal est de contribuer à l'immersion des joueurs dans l'histoire, mais aussi d'ajouter quelques indices optionnels sur les événements du scénario.
+> Le but de ce terminal est de contribuer à l'immersion des joueurs dans l'histoire, mais aussi d'ajouter quelques indices optionnels sur les événements du scénario.
 
 Tout PJ peut accéder à ce terminal si on lui montre la manipulation à effectuer sur un CommLink, mais au début du scénario seuls **Arora** et **Sullivan** connaissent l'existence de cette fonctionnalité.
 
@@ -57,8 +59,17 @@ Découpez ces deux cartes, et remettez-les aux joueurs correspondants après l'*
     </td>
 </tr></table>
 
-**Note** : les QR-codes ci-dessus sont les mêmes.
-En version PDF, vous pouvez cliquez dessus pour accéder au terminal dans votre navigateur web.
+> Les QR-codes ci-dessus sont les mêmes.
+> En version PDF, vous pouvez cliquez dessus pour accéder au terminal dans votre navigateur web.
+
+Voici un résumé des informations fournies par ce terminal :
+
+* la commande `map` fournit la liste des niveaux de la stations, et indique la répartition des androïdes `Arnie`, `Cory` & `Miranda`.
+* la commande `medic` permet de s'inscrire pour rendez-vous auprès du Dr Aberdeen, et de voir la liste des consultations prévues.
+* la commande `port` liste les vaisseaux à quai dans le port spatial au niveau 9.
+* la commande `staff` liste les personnes référentes de la station.
+* la commande `audit`, uniquement accessible par Arora après s'être logué⸱e comme `auditer` via la commande `login`, indique que tout est opérationnel sauf l'une des antennes de communication spatiale. De plus, un message fantômatique est adressé à _Sanj_ par son amour décédé...
+* **Daryl** a également envoyé un email énigmatique à toute la station. Le déchiffrer (c'est du [ROT13](https://fr.wikipedia.org/wiki/ROT13)) permet de comprendre qu'il faut ensuite taper dans le terminal une commande non référencée par `help`, mais qui existe sur les systèmes [Linux](https://fr.wikipedia.org/wiki/Linux) : `exit`, `hostname`, `man`, `ps`, `pwd`, `shutdown`, `sudo`, `touch`, `ping` ou `whoami` peuvent fonctionner. Daryl donne alors rendez-vous au niveau 3 au PJ qui aura résolu son jeu de piste.
 
 À la fin de l'**acte 1**, la prise de contrôle de l'étage des Communications par Cory 3 affecte le terminal.
 Pour refléter cela, découpez la carte ci-dessous, et remettez-la aux joueurs au début de l'**acte 2**, dès qu'ils accèderont à un terminal CommLink.
@@ -66,43 +77,23 @@ Ils devront désormais employer cette nouvelle version du terminal :
 
 <table class="terminal-card"><tr>
     <td>
-        ⚠️ Les communications de la station sont impactées ⚠️
-        <br>Employez désormais ce terminal CommLink web :
+        ⚠️ ⚠️ ⚠️
+        <br>Les communications de la station
+        <br>sont impactées.
+        <br>Voici le nouveau contenu du terminal CommLink web :
         <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-2/">
             <img alt="" src="qrcode-terminal-acte-2.png">
         </a>
     </td>
 </tr></table>
 
-Voici un résumé des informations fournies par ce terminal :
+Cette seconde version du terminal comporte plusieurs changements :
 
-* la commande `map` fournit la liste des niveaux de la stations, et indique la répartition des androïdes `Arnie`, `Cory` & `Miranda`
-* la commande `medic` permet de s'inscrire pour rendez-vous auprès du Dr Aberdeen, et de voir la liste des consultations prévues
-* la commande `port` liste les vaisseaux à quai dans le port spatial au niveau 9
-* la commande `staff` liste les personnes référentes de la station
-* la commande `check-network`, uniquement accessible par Arora après s'être logué⸱e comme `auditer` via la commande `login`, TODO
-
-<!-- WIP:
-* système d'audit des télécommunications :
-    employer artifact 5600 &  10534 (galaxie) pour état des coms spatiales / avec Cepheus
-    + class="shiver"
-    tout est initiallement OK mais ghost de son ancien amour qui insère des msgs: class="desync"
-
-Secrets / enigmes :
-* infos sur le projet Hunter via Daryl, qui a beaucoup de temps libre et s'est amusé à mettre en ligne sur le réseau de la station un petit easter-egg challenge, permettant s'il est battu d'échanger avec lui + il mentionnera la réception d'une émission radio cryptée, qui une fois dechiffrée permet de capter un échange d'info avec le vaisseau de « La Sécurité » envoyé par Deware - artifact 3822
--->
-
-La seconde version du terminal comporte quelques changements :
-
-<!-- WIP:
-"iconClass": "glitch",
-
-    + plus aucun vaisseau listé à quai
-    + gros soucis remontés par l'audit de télécommunications : class="glow"
-    + niveau d'oxygène de la station réduit -> color:red + class="glow"
-    + position des androïdes plus à jour color:red / last-known-positions
-    + le service de consultation médicales est KO: color:red + class="glow"
--->
+* le niveau d'**oxygène** de la station a drastiquement réduit est en baisse constante.
+* la commande `map` n'indique plus la position à jour des androïdes.
+* les commandes `medic` & `port` ne fonctionnent plus.
+* la commande `audit` indique de très importants **dysfonctionnements des systèmes**, notamment des communications avec Cepheus, des communications spatiales et du réseau des androïdes.
+* de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes. Notamment **Ellen Frost** qui demande de l'aide alors que la dépressurisation du niveau 9 est en cours. Il y a également un message crypté de **La Sécurité** informant de son intervention imminente.
 
 
 ## PNJs
@@ -192,14 +183,28 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Mort probable** : éventrée par une larve cosmique, après avoir trahi les PJs.
 
-### Daryl
+### Daryl Hamon
+* Daryl se doute que Cotton traffique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
+
+* les compétences de Daryl en _hacking_ lui ont permi de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
+
+* ses compétences en informatique lui ont également permi d'avoir accès à distance aux capteurs de la station, et Daryl a détecté des échanges de **communications à quelques km** seulement de Terra Nova (le vaisseau de « La Sécurité »). Il pense qu'il s'agit peut-être d'une balise spaciale « pirate » et est curieux d'en savoir plus.
+
+* au début de l'acte 2, la moitié des chercheurs du laboratoire iront se réfugier dans leurs cabines du niveau 6. L'autre moitié aura été **massacrée par des androïdes**, et leurs corps entassés dans dans le local informatique de manière gore, éclaboussant de sang et de tripes toute la pièce. Daryl de son côté a réussi à ramper jusqu'à une cachette, avec uniquement ses prothèses de bras, et les androïdes ne l'ont pas trouvé.
+
+* le chaos ambiant sera pour lui une opportunité de quitter le laboratoire avec ses prothèses expérimentales des quatre membres qui lui manquent, _cf._ [Trolley dilemna](#acte-2-trolley-dilemna-au-laboratoire). Malheureusement celles-ci se mettront progressivement à **dysfonctionner** : jambe qui boîte, doigts bloqués, bras restant collé contre son corps... Sullivan pourra peut-être palier aux problèmes initiaux, mais les membres artificiels Daryl cesseront inéluctablement de fonctionner au terme de l'acte 2.
+
+* s'il voit les cadavres des chercheurs de Revolve qui prennaient soin de lui, Daryl sera profondément **traumatisé**. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air ébété. _(Admin : trigger warning, ne jouez cette scène que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatisé par une autre scène sanglante, plus tard)_
+
 * **Objectifs** :
+    1. s'émanciper et être autonome, parcourir la station avec ses prothèses
+    2. contribuer à solutionner l'attaque des androïdes
 
-* **Attitude** : 
+* **Attitude** : Daryl est très jovial et empathique. Il engagera spontannément la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motivé à accepter de venir sur Terra Nova, ses loisirs... Il aura la même attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera régulièrement : _« ne baissons pas les bras, on va s'en sortir ! »_, _« je suis sûr qu'en réfléchissant bien, on peut trouver une solution »_, _« vous nous avez sauvé tout à l'heure, j'ai confiance et je compte sur vous »_, etc.
 
-* **Roleplay** :
+* **Roleplay** : son ton est toujours enjoué; il ponctue ses phrases de touches d'humour et de courts rires sincères : _« je ne te serre pas la main mais le cœur y est ! Ahaha 😄 »_. S'il est traumatisé à la vue de cadavres, adoptez un _roleplay_ significativement différent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et déprimé, et pourra même céder à la rage face aux androïdes.
 
-* **Mort probable** :
+* **Mort probable** : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses HS.
 
 ### Ellen Frost
 <img alt="Ellen Frost" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png" class="pnj">
@@ -340,7 +345,7 @@ Durant l'acte 2, je vous recommande d'infliger assez vites de sérieux dégâts 
 * ils prendront ainsi pleinement conscience de la dangerosité de l'environnement
 * cela leur donnera une bonne raison de vouloir retourne au **cabinet médical** du niveau 5
 
-...
+... TODO
 
 
 ## Acte 2 - Trolley dilemna au laboratoire
@@ -392,7 +397,7 @@ S'inspirer des travaux de l'acte 1 pour créer des situations lors des actes sui
 + spécifier des morceaux audio spécifiques pour certaines scènes
 
 Dans cette courte scène, tu vas jouer le **fantôme** qui hante **Arora**, à son insu.
-Continue à jouer ton personnage, mais lorsque l'Admin
+Continue à jouer ton personnage, mais lorsque l'Admin (TODO)
 
 Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possible
 
