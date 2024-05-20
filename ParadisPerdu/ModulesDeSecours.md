@@ -23,7 +23,7 @@ TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du 
 
 ## Plan de la station Terra Nova
 
-<img class="large" alt="Space station" src="img/SpaceStation.jpg">
+<img class="large" alt="Space station" src="img/SpaceStation.jpg" style="min-height: 890px">
 
 
 ### Déplacements

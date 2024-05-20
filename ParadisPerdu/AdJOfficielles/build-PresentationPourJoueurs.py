@@ -19,7 +19,6 @@ def _add_to_page(writer, index):
     area = RectXObj(writer.pagearray[index])
     pdf = FPDF(format=(area.w, area.h), unit="pt")
     pdf.add_page()
-    pdf.set_fill_color(0)  # black
     yield pdf
     overlay_pdf = bytes(pdf.output())
     overlay_page = PdfReader(fdata=overlay_pdf).pages[0]
@@ -29,7 +28,16 @@ def _add_to_page(writer, index):
 writer = PdfWriter(f"{CUR_DIR}/ParadisPerdu_PresentationPourJoueurs.pdf")
 _addpages_from_ranges(writer, ((1, 2), (4, 6)))
 with _add_to_page(writer, index=1) as pdf:
+    pdf.set_fill_color("#9098a0")
     pdf.rect(x=183, y=265.5, w=66, h=10, style="F")
-    pdf.rect(x=185, y=379.5, w=100, h=10, style="F")
+    pdf.set_fill_color("#b1b5bb")
+    pdf.rect(x=184.5, y=379.5, w=100, h=10, style="F")
+    pdf.set_fill_color("#b8bac0")
     pdf.rect(x=197, y=447, w=100, h=10, style="F")
+with _add_to_page(writer, index=3) as pdf:
+    pdf.set_fill_color(255)  # white
+    pdf.rect(x=212, y=558, w=10, h=10, style="F")
+with _add_to_page(writer, index=4) as pdf:
+    pdf.set_fill_color(255)  # white
+    pdf.rect(x=198, y=558, w=10, h=10, style="F")
 writer.write()
