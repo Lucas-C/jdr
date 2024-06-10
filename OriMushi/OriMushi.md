@@ -21,11 +21,11 @@ Une aide de jeu pour le scénario d'initiation au jeu de rôle issu de ["Mener e
 
 ::: web-only
 - Version PDF de ces règles: [ori-mushi-v0.2.zip _(10 pages, 5,5 Mo)_](https://github.com/Lucas-C/jdr/releases/download/ori-mushi-v0.2/ori-mushi-v0.2.zip)
+:::
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 
 - Article de blog présentant la raison d'être d'Ori Mushi : [Faire découvrir le JdR](https://chezsoi.org/lucas/blog/faire-decouvrir-le-jdr-et-fete-du-jeu.html)
-:::
 
 **Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, princesse Mononoke, Naruto...
 
@@ -88,7 +88,7 @@ Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
 :::
 
 ## Scène 0 - Course poursuite !
-Même si cela rallonge un peu la durée de jeu, je trouve très judicieuse l'idée de Kalwrynn de commencer _in media res_.
+Bien que cela rallonge légèrement la durée de la partie, je trouve très judicieuse l'idée de Kalwrynn de commencer _in media res_.
 
 Je vous suggère donc de commencer la partie en décrivant rapidement un joli décor de chemin de terre sinuant
 parmi les champs et les herbes folles, par une paisible après-midi printanière, au pied d'une montagne...
@@ -100,8 +100,8 @@ Décrivez aux joueurs les environs pour leurs donner quelques idées d’échapp
 l'orée de la forêt de bambous, la descente un peu raide vers un lac, les hautes herbes balayées par le vent...
 
 Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemin ou le lac,
-quitte à faire une ellipse ou à indiquer qu'il s'agit de la prochaine étape de leur voyage,
-dont on leur a vanté une recette locale de poisson frit...
+quitte à faire une ellipse ou à indiquer qu'il s'agit de l'étape suivante de leur voyage,
+où on leur a vanté une recette locale de poisson frit...
 
 ## Progression / expérience
 Si vous voulez poursuivre la partie au delà du scénario d'introduction,
@@ -111,15 +111,15 @@ ou un nouvel Objet Spécial.
 
 ## Illustrations
 S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,
-cette aide de jeu propose d'imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
-des illustrations de personnages et des éléments d'équipements (armes & objets).
+nous vous encourageons à imprimer des éléments au préalable, pour faciliter l'immersion des joueurs :
+des illustrations de personnages et ce dont ils peuvent s'équiper (armes & objets).
 
-Vous trouverez ci-dessous 10 illustrations de personnages des joueurs,
-une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, et enfin une illustration de l'esprit-dragon.
+Vous trouverez dans ce PDF 10 illustrations de personnages des joueurs,
+une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, et enfin une illustration de l'esprit-dragon :
+[OriMushi-illustrations.pdf _(? pages, ? Mo)_](https://lucas-c.github.io/jdr/OriMushi/OriMushi-illustrations.pdf)
 ::::
 
 :::: illus
-
 <!-- PJs -->
 ![](TCP-Human-4.jpg)
 ![](elf-2044697_1920.png)
@@ -158,27 +158,36 @@ une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, 
 ![](Chinese-symbol-on-red-scroll-remix.svg)
 ![](Bow-and-Arrow.svg)
 <img class="big" alt="L'esprit-dragon" src="d7muum4-4766980a-f9e5-4baa-b39d-4abd0cb284fc.jpg">
-::: page-break
-:::
 ::::
 
 :::: rules
+::: page-break
+:::
+<!-- Section moved to dedicated PDF file - included disabled with an extraneous space
 ::: web-only
 <h2>Feuille de personnage</h2>
-!!!include(OriMushi-FeuillePersonnage.html)!!!
+! !!include(OriMushi-FeuillePersonnage.html)!!!
 :::
-::::
+-->
 
-## Licence & sources
+## Licence, sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
 Cette aide de jeu _Ori Mushi_ a été conçue par [Lucas Cimon](https://chezsoi.org/lucas/blog/) en février 2020.
-Elle est sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+Elle est placée sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
+Cette aide de jeu est diffusée à prix libre.
+Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
+Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/OriMushi).
 
-Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
-& [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny) -
+Je serais ravi d'avoir vos retours sur cette aide de jeu si vous l'employez.
+Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser cette aide de jeu&nbsp;: [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
+
+<br>
+
+::: thanks
 Illustrations :
 - [Journey to the West par TysonTan](https://www.deviantart.com/tysontan/art/Journey-to-the-West-546516151) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
@@ -206,7 +215,7 @@ Personnages non joueurs :
 - Samebito : https://www.deviantart.com/weremagnus/art/Samebito-60875338
 -->
 
-Items :
+Les objets :
 - [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Western kit par Fernand0FC](https://www.deviantart.com/fernand0fc/art/Western-kit-815688465) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Grapling hook par Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Grappling_hook_2_(PSF).png) - domaine public
@@ -217,9 +226,15 @@ Items :
 - [Shuriken Throwing Ninja Star @ pixabay.com](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/)
 - [Bow and arrow vector drawing @ publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Bow-and-arrow-vector-drawing/74403.html) - domaine public
 
-Feuille de personnage :
+Pour la feuille de personnage :
 - [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
-<!-- 
+
+Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
+& [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
+:::
+::::
+
+<!--
 - https://pixabay.com/illustrations/sumi-sumi-e-watercolor-china-1595365/
 - https://www.needpix.com/photo/355732/sumi-e-sumie-black-ink-east-zen-ink-painting-ink-style-painting-fish
 - https://www.publicdomainpictures.net/en/view-image.php?image=50977&picture=japanese-wave-wallpaper-background
@@ -293,6 +308,7 @@ h2 { font-size: 2.5rem; }
 h3 { font-size: 2rem; }
 p, ol, ul { margin: .3rem 0; }
 ol, ul { padding-inline-start: 1rem; }
+li { margin-bottom: .25rem; }
 img {
   display: block;
   max-width: 100%;
@@ -302,6 +318,7 @@ img {
 .cover { margin: 5rem auto; max-height: 30rem; }
 .footer-illus { max-height: 15rem; }
 .character-sheet, .illus { page-break-before: always; }
+.illus { display: none; } /* Section moved to dedicated PDF file */
 .illus p {
   display: flex;
   flex-wrap: wrap;
@@ -330,6 +347,11 @@ s { /* dices */
   float: left;
   max-width: 50%;
   margin-right: 1rem;
+}
+.thanks {
+  font-size: 1rem;
+  columns: 2;
+  column-gap: 1.5rem;
 }
 .version {
   position: fixed;

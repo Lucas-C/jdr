@@ -1,0 +1,140 @@
+@font-face { font-family: "LinuxLibertine"; src: url("fonts/LinuxLibertine_R.ttf"); }
+@font-face { font-family: "LinuxLibertine"; src: url("fonts/LinuxLibertine_RB.ttf"); font-weight: bold; }
+@font-face { font-family: "LinuxLibertine"; src: url("fonts/LinuxLibertine_RI.ttf"); font-style: italic; }
+@font-face { font-family: "LinuxLibertine"; src: url("fonts/LinuxLibertine_RBI.ttf"); font-weight: bold; font-style: italic; }
+@font-face { font-family: "LinuxLibertineCapitals"; src: url("fonts/LinuxLibertine_aS.ttf"); }
+@font-face { font-family: "LinuxLibertineCapitals"; src: url("fonts/LinuxLibertine_aBS.ttf"); font-weight: bold; }
+@font-face { font-family: "LinuxLibertineCapitals"; src: url("fonts/LinuxLibertine_aSI.ttf"); font-style: italic; }
+@font-face { font-family: "LinuxLibertineCapitals"; src: url("fonts/LinuxLibertine_aSZI.ttf"); font-weight: bold; font-style: italic; }
+@font-face { font-family: "Kirsty"; src: url("fonts/Kirsty.otf"); }
+@font-face { font-family: "Kirsty"; src: url("fonts/Kirsty-bold.otf"); font-weight: bold; }
+@font-face { font-family: "Kirsty"; src: url("fonts/Kirsty-italics.otf"); font-style: italic; }
+@font-face { font-family: "Kirsty"; src: url("fonts/Kirsty-bold-italics.otf"); font-weight: bold; font-style: italic; }
+
+@page {
+  margin: /*vertical=*/8mm /*horizontal=*/8mm;
+  padding: 2rem 0; /* Sets vertical space after a page break, before starting page content */
+  /* border: red 1px solid; */
+}
+
+body {
+  margin: 0 3rem;
+  font-family: "LinuxLibertine";
+  font-size: .9rem;
+  text-align: justify;
+  /* border: green 1px solid; */
+}
+
+p { margin-top: .2rem; }
+h1 { font-family: "Kirsty"; font-size: 3rem; text-transform: uppercase; margin: 0; text-align: center; }
+h2 { font-family: "LinuxLibertineCapitals"; font-weight: bold; margin-bottom: 0; font-size: 1.7rem; }
+h3 { font-family: "LinuxLibertineCapitals"; font-weight: bold; margin-bottom: 0; font-size: 1.4rem; }
+
+a { color: #555; }
+blockquote { font-style: italic; margin-left: 0; padding-left: 1rem; }
+
+ul { list-style: "◆"; padding-left: 0; margin-top: -.5rem; }
+ul li { margin-left: .9rem; margin-bottom: .333rem; }
+/* A bug in WeasyPrint prevents us to set padding-left on li elements,
+   so we use the ::marker pseudo-element instead to add some space after the bullet: */
+ul li::marker { content: "◆ "; white-space: pre; }
+ul ul { margin-top: .5rem; }
+ul ul li { list-style: "✚"; }
+ul ul li::marker { content: "✚ "; white-space: pre; }
+
+ol { list-style: none; padding-left: 0; margin-top: -.5rem; counter-reset: li; page-break-before: always; }
+ol li { margin-bottom: .333rem; position: relative; counter-increment: li; clear: both; }
+ol li::before {
+  content: counter(li);
+  font-family: "LinuxLibertineCapitals";
+  font-weight: bold;
+  font-size: .8rem;
+  line-height: 1.1rem;
+  color: white;
+  text-align: center;
+  display: block;
+  float: left;
+  background-color: black;
+  height: 1.75rem;
+  width: .9rem;
+  margin-right: .5rem;
+}
+ol li::after {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: white;
+  height: 1rem;
+  width: .5rem;
+  top: 1.25rem;
+  left: .3rem;
+  transform: rotate(66deg);
+  /* border: magenta 1px solid; */
+}
+/* WeasyPrint inserts <p> inside <li> elements: */
+ol li p { margin: 0; }
+
+img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
+img.small { max-width: 8rem; max-height: 8rem; }
+img.medium { max-width: 12rem; max-height: 12rem; }
+img.large { max-width: 100%; max-height: 25rem; }
+img.bg {
+  position: fixed;
+  top: -2rem; /* = negative of page.padding */
+  left: 0;
+  min-width: 100%;
+  min-height: 107%; /* ~ calc(100% + 2rem) */
+  z-index: -1;
+}
+img.full-page-width {
+  max-width: 112%;
+  margin-left: -6%;
+  position: relative;
+  z-index: -2; /* behind background image */
+  max-height: 25rem;
+}
+
+.insert {
+  max-width: 16rem;
+  background-color: #d6dfdf;
+  overflow: hidden;
+}
+.insert > * {
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+.insert h3 {
+  background-color: #08090a;
+  color: white;
+  font-family: "Kirsty";
+  font-size: 1rem;
+  height: 2rem;
+  line-height: 2rem;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: .5rem;
+  position: relative;
+}
+.insert h3::after {content: '';
+  display: block;
+  position: absolute;
+  background-color: #d6dfdf;
+  height: 3rem;
+  width: 3rem;
+  top: .5rem;
+  right: -1.5rem;
+  transform: rotate(45deg);
+  /* border: magenta 1px solid; */
+}
+.insert ul {
+  margin-bottom: 0;
+}
+
+.float-left { float: left; margin-right: 1rem; }
+.float-right { float: right; margin-left: 1rem; }
+
+.page-break { page-break-after: always; }
+
+@media print {
+  .web-only { display: none; }
+}

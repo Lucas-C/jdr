@@ -3,6 +3,7 @@ from datetime import datetime
 from traceback import print_exc
 from urllib.parse import quote
 
+from bs4.builder._htmlparser import HTMLParserTreeBuilder
 from bs4 import BeautifulSoup
 from mistletoe import markdown, HtmlRenderer
 import pikepdf
@@ -45,12 +46,16 @@ def markdown2pdf(dir, md_filepath, css_filepath=None):
     return bytes_io
 
 
+class MyTreeBuilder(HTMLParserTreeBuilder):
+    # Recipe from: https://bugs.launchpad.net/beautifulsoup/+bug/1767999
+    DEFAULT_PRESERVE_WHITESPACE_TAGS = set(["a", "b", "em", "h1", "h2", "h3", "h4", "li", "p", "strong", "td", "th"])
+
 def add_id_attrs_on_headings(html):
-    soup = BeautifulSoup(html, features="html.parser")
+    soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
     for tag_name in ("h1", "h2", "h3", "h4"):
         for heading in soup.find_all(tag_name):
             heading["id"] = slugify(heading.string)
-    return str(soup).replace("</img>", "")
+    return soup.prettify(formatter="html5")
 
 
 def slugify(s):
