@@ -28,7 +28,7 @@ Une fois son effet appliqué, cochez une [ ]. Lorsque toutes les [ ] d'une optio
 Les deux première cases du tableau amènent des complications pour les joueurs, et les deux dernières des avantages.
 
 ### Licence & sources
-<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 Cette extension a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 Si vous la testez, songez à me laisser un petit commentaire sur <https://chezsoi.org/lucas/blog/tag/jdr.html>

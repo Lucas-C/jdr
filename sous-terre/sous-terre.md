@@ -888,7 +888,7 @@ la série "The Lost Room" pour les reliques, ces articles de Dark Roasted Blend 
 * les bandes son des jeux _Shadow of the Colossus_ & _Tomb Raider Underworld_
 
 
-<style type="text/css">
+<style>
 @font-face {
   font-family: Odachi;
   src: url('fonts/Odachi.woff') format('woff');

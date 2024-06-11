@@ -17,7 +17,7 @@ OUT_FILEPATH = DIR / "ParadisPerdu-ModulesDeSecours.pdf"
 
 def build_pdf():
     with OUT_FILEPATH.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH).getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
     set_metadata(OUT_FILEPATH,
         title="Paradis Perdu - Modules de secours",
         keywords=("jdr", "ttrpg", "aide de jeu", "sci-fi"),

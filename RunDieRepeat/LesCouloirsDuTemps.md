@@ -102,7 +102,7 @@ et l'escalier à sa gauche : révélez l'image de l'amas de rochers aux joueuses
 il déclenche une boucle temporelle qui le ramènera, s'il meurt, à cet instant où il a saisi le gant.
 
 ## Bon jeu ! <span class="picto">🏃 ☠️ ♻</span>
-<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
 Ce scénario de Lucas Cimon (@[chezsoi.org](https://chezsoi.org)) est publié sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a>.
 Les fichiers sources de ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/RunDieRepeat). - v1.0
@@ -118,7 +118,7 @@ Un grand merci également aux _playtesteurs_ : Elliot, Henri, Kevin, Laëtitia, 
 
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
 
-<style type="text/css">
+<style>
 @font-face { font-family: EBGaramondRegular; src: url('fonts/EBGaramond-Regular.ttf'); }
 @font-face { font-family: Mirage; src: url('fonts/Mirage.ttf'); } /* "u" letter do not get rendered correctly in PDF */
 body {

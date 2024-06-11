@@ -30,7 +30,7 @@ _Soyez attentifs, ces informations seront cruciales à votre survie..._
 **Il y a quelques jours**, vous vous êtes portés volontaires pour participer à un protocole expérimental,
 dans un laboratoire militaire partenaire de votre établissement pénitentiaire.
 Pour les détenus, cela va vous permettre de bénéficier d'une remise de peine.
-Pour Hadley & Edgecomb, les matons, ce n'est pas la première fois que vous accompagnez des taulards au «&nbsp;Labo&nbsp;», et la prime à la clef est très motivante...
+Pour Hadley & Edgecomb, les matons, ce n'est pas la première fois que vous accompagnez des taulards au « Labo », et la prime à la clef est très motivante...
 
 **Il y a 1h**, votre véhicule est arrivé au sous-sol du « Labo », et Hadley & Edgecomb vous ont escortés
 au premier étage du bâtiment, par l'ascenseur.

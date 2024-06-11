@@ -487,7 +487,7 @@ Les règles suivantes issues d'Ultime Vengeance 3D peuvent toujours s'appliquer 
 * Les quatre commandements & les Conseils et astuces
 
 ### Licence et sources
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Version: 1.0.
 
 Si vous le testez, songez à me laisser un petit commentaire sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html) 🙏😘
@@ -503,7 +503,7 @@ Si vous le testez, songez à me laisser un petit commentaire sur [mon blog](http
 * [mafia - Pixabay](https://pixabay.com/fr/illustrations/mafia-gangsters-personnes-3153020/)
 * [Hate-Combat-Gun-War-Weapons-Grenade-Love - MaxPixel](https://www.maxpixel.net/Hate-Combat-Gun-War-Weapons-Grenade-Love-3166238)
 
-<style type="text/css">
+<style>
 @font-face { font-family: SciFiMovies; src: url('SciFiMovies.ttf') format('truetype'); }
 
 body {

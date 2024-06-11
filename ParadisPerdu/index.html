@@ -1,494 +1,518 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.4.0">
-    <meta charset="utf-8">
-    <title>JdR - Work-in-progress</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1 id="paradis-perdu">Paradis Perdu</h1>
-    <h1 id="modules-de-secours">Modules de secours</h1><!--br><br><br>
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>JdR - Work-in-progress</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body><h1 id="paradis-perdu">Paradis Perdu</h1>
+<h1 id="modules-de-secours">Modules de secours</h1>
+<!--br><br><br>
 <img class="large" alt="" src="">
 <br><br-->
-    <p>Ceci est une aide de jeu pour <a href="https://www.misterfrankenstein.com/wordpress/?p=5388">Paradis Perdu</a>, un excellent jeu de rôle « Nuit Blanche » d'Anthony "Yno" Combrexelles. Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base.</p>
-    <h3 id="sommaire">Sommaire</h3>
-    <ul>
-        <li>
-            <a href="#plan-de-la-station-terra-nova">Plan de la station Terra Nova</a>
-        </li>
-        <li>
-            <a href="#terminaux-commlinks">Terminaux CommLinks</a>
-        </li>
-        <li>
-            <a href="#pnjs">PNJs</a>
-        </li>
-        <li>
-            <a href="#intro-connivences">Intro - Connivences</a>
-        </li>
-        <li>
-            <a href="#acte-1-l-il-pour-le-d-tail">Acte 1 - L'œil pour le détail</a>
-        </li>
-        <li>
-            <a href="#acte-2-big-brother-is-watching-you">Acte 2 - Big brother is watching you</a>
-        </li>
-        <li>
-            <a href="#acte-2-trolley-dilemna-au-laboratoire">Acte 2 - Trolley dilemna au laboratoire</a>
-        </li>
-    </ul>
-    <p>TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md</p>
-    <h2 id="plan-de-la-station-terra-nova">Plan de la station Terra Nova</h2><img alt="Space station" class="large" src="img/SpaceStation.jpg" style="min-height: 890px">
-    <h3 id="d-placements">Déplacements</h3>
-    <p>TODO - à rédiger : en substance, l'idée est de réaliser des micro-ellipses lorsque les PJs progressent à travers des étages où il ne se passe rien. + rappel table des <strong>Rencontres</strong> avec des androïdes page 63</p>
-    <p>À chaque fois que les PJs veulent se rendre d'un point A à un point B dans la station, indiquez le ou les itinéraires qu'ils peuvent envisager, ils en choisissent un, puis je leur indique la ou les situations qu'ils rencontrent en chemin</p>
-    <h2 id="terminaux-commlinks">Terminaux CommLinks</h2>
-    <p>Ce module propose de mettre à disposition des joueurs un <strong>terminal web</strong>, diégétique à l'histoire car consultable par les PJs sur les CommLinks de la station. Il nécessite que vos joueurs aient des smartphones avec connexion à internet durant la partie.</p>
-    <blockquote>
-        <p>Le but de ce terminal est de contribuer à l'immersion des joueurs dans l'histoire, mais aussi d'ajouter quelques indices optionnels sur les événements du scénario.</p>
-    </blockquote>
-    <p>Tout PJ peut accéder à ce terminal si on lui montre la manipulation à effectuer sur un CommLink, mais au début du scénario seuls <strong>Arora</strong> et <strong>Sullivan</strong> connaissent l'existence de cette fonctionnalité.</p>
-    <p>Découpez ces deux cartes, et remettez-les aux joueurs correspondants après l'<strong>Intro</strong>, lorsqu'ils découvrent les CommLinks :</p>
-    <table>
-        <tr>
-            <td>
-                <b>Arora</b><br>
-                Lorsque vous employez un CommLink, vous savez accéder à son terminal : <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-1/"><img alt="" src="qrcode-terminal-acte-1.png"></a> Mot de passe <code>auditer</code> : <code>trustno1</code>
-            </td>
-            <td>
-                <b>Sullivan</b><br>
-                Lorsque vous employez un CommLink, vous savez accéder à son terminal : <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-1/"><img alt="" src="qrcode-terminal-acte-1.png"></a>
-            </td>
-        </tr>
-    </table>
-    <blockquote>
-        <p>Les QR-codes ci-dessus sont les mêmes. En version PDF, vous pouvez cliquez dessus pour accéder au terminal dans votre navigateur web.</p>
-    </blockquote>
-    <p>Voici un résumé des informations fournies par ce terminal :</p>
-    <ul>
-        <li>la commande <code>map</code> fournit la liste des niveaux de la stations, et indique la répartition des androïdes <code>Arnie</code>, <code>Cory</code> & <code>Miranda</code>.</li>
-        <li>la commande <code>medic</code> permet de s'inscrire pour rendez-vous auprès du Dr Aberdeen, et de voir la liste des consultations prévues.</li>
-        <li>la commande <code>port</code> liste les vaisseaux à quai dans le port spatial au niveau 9.</li>
-        <li>la commande <code>staff</code> liste les personnes référentes de la station.</li>
-        <li>la commande <code>audit</code>, uniquement accessible par Arora après s'être logué⸱e comme <code>auditer</code> via la commande <code>login</code>, indique que tout est opérationnel sauf l'une des antennes de communication spatiale. De plus, un message fantômatique est adressé à <em>Sanj</em> par son amour décédé...</li>
-        <li>
-            <strong>Daryl</strong> a également envoyé un email énigmatique à toute la station. Le déchiffrer (c'est du <a href="https://fr.wikipedia.org/wiki/ROT13">ROT13</a>) permet de comprendre qu'il faut ensuite taper dans le terminal une commande non référencée par <code>help</code>, mais qui existe sur les systèmes <a href="https://fr.wikipedia.org/wiki/Linux">Linux</a> : <code>exit</code>, <code>hostname</code>, <code>man</code>, <code>ps</code>, <code>pwd</code>, <code>shutdown</code>, <code>sudo</code>, <code>touch</code>, <code>ping</code> ou <code>whoami</code> peuvent fonctionner. Daryl donne alors rendez-vous au niveau 3 au PJ qui aura résolu son jeu de piste.
-        </li>
-    </ul>
-    <p>À la fin de l'<strong>acte 1</strong>, la prise de contrôle de l'étage des Communications par Cory 3 affecte le terminal. Pour refléter cela, découpez la carte ci-dessous, et remettez-la aux joueurs au début de l'<strong>acte 2</strong>, dès qu'ils accèderont à un terminal CommLink. Ils devront désormais employer cette nouvelle version du terminal :</p>
-    <table class="terminal-card">
-        <tr>
-            <td>
-                ⚠️ ⚠️ ⚠️<br>
-                Les communications de la station<br>
-                sont impactées.<br>
-                Voici le nouveau contenu du terminal CommLink web : <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-2/"><img alt="" src="qrcode-terminal-acte-2.png"></a>
-            </td>
-        </tr>
-    </table>
-    <p>Cette seconde version du terminal comporte plusieurs changements :</p>
-    <ul>
-        <li>le niveau d'<strong>oxygène</strong> de la station a drastiquement réduit est en baisse constante.</li>
-        <li>la commande <code>map</code> n'indique plus la position à jour des androïdes.</li>
-        <li>les commandes <code>medic</code> & <code>port</code> ne fonctionnent plus.</li>
-        <li>la commande <code>audit</code> indique de très importants <strong>dysfonctionnements des systèmes</strong>, notamment des communications avec Cepheus, des communications spatiales et du réseau des androïdes.</li>
-        <li>de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes. Notamment <strong>Ellen Frost</strong> qui demande de l'aide alors que la dépressurisation du niveau 9 est en cours. Il y a également un message crypté de <strong>La Sécurité</strong> informant de son intervention imminente.</li>
-    </ul>
-    <h2 id="pnjs">PNJs</h2>
-    <p>En complément des informations données dans le scénario, cette section propose quelques éléments supplémentaires pour jouer les PNJs, en détaillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la manière la plus probable dont ils décèderont, et un conseil sur comment interprêter théâtralement chaque personnage. Je me suis inspirés pour ce dernier point de l'article <a href="https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj"><em>Comment interpréter les traits distinctifs des PNJ</em> de James Introcaso, traduit sur ptgptb.fr</a>.</p>
-    <p>Concernant les <em>morts probables</em> : ces indications sont là pour vous encourager à décimer progressivement les PNJs au fur et à mesure du scénario, et ainsi maintenir la tension dramatique. N'hésitez pas pour autant à improviser et les faire décéder autrement !</p>
-    <h3 id="brett-bettany">Brett Bettany</h3><img alt="Brett Bettany" class="pnj" src="img/hazmat_by_fernand0fc_bgw_buste_cc-by.jpg">
-    <ul>
-        <li>
-            <p>n'apprécie pas les dockers & manœuvres, qu'il trouve méprisant envers les ouvriers, et en particulier Ellen Frost qu'il déteste.</p>
-        </li>
-        <li>
-            <p>connait Watters et sa promotion du culte de l'Ascension. Il s'en méfie comme de la peste.</p>
-        </li>
-        <li>
-            <p>a connaissance d'<strong>une arme de contrebande (fusil à pompe) planquée au niveau 4</strong>, dans un recycleur.</p>
-        </li>
-        <li>
-            <p>durant les actes 2 & 3, peut fournir des <strong>combinaisons spatiales</strong></p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> : initialement paniqué, Brett se reprendra après la tuerie initiale, et aidera 1D6+2 ouvriers à se barricader dans un petit hangar au niveau 10. Ensuite&nbsp;:</p>
-            <ol>
-                <li>protéger les ouvriers, et s'armer pour se défendre</li>
-                <li>trouver un vaisseau fonctionnel pour se tirer cette station</li>
-                <li>fuir en embarquant un maximum d'ouvriers avec lui</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : coopératif avec les PJs si cela le rapproche de ses objectifs. En cas de situation critique pour lui ou des ouvriers, il n'hésitera pas à jeter les PJs en pâture à des ennemis pour leur échapper.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : posture très droite, presque rigide; parle de manière lente et posée, en prennant de profondes inspirations avant chaque nouvelle phrase.</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : en prennant d'assaut le vaisseau de « La Sécurité ».</p>
-        </li>
-    </ul>
-    <h3 id="isaac-cameron">Isaac Cameron</h3><img alt="Isaac Cameron" class="pnj" src="img/ElliotJolivet_Tensei_Inktober2017.jpg">
-    <ul>
-        <li>
-            <p>à l'acte 1, en plus des activités mentionnées par le scénario (pages 51 & 52), il sera en train d'enquiller les verres d'alcool fort au <strong>bar le Kapow, au niveau 8</strong>, au début de l'acte 2.</p>
-        </li>
-        <li>
-            <p>armé d'un <strong>revolver</strong>, il récupère le <strong>taser</strong> d'un marshal décédé et comprend vite qu'il est plus efficace contre les androïdes.</p>
-        </li>
-        <li>
-            <p>la moitié du paiement lui a été viré sur un compte extraplanétaire, l'autre lui a été remis « en liquide », via des liasses de <strong>crédits planqués dans une bible</strong></p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> :</p>
-            <ol>
-                <li>Survivre et fuir la station</li>
-                <li>En profiter pour récupérer ce qui a de la valeur</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : combatif, il n'hésite pas à affronter les androïdes, sans prendre de risques inutiles; s'il croise les PJs, il sera méfiant mais pas belliqueux, et pourra les accompagner un temps. Il grommele ses soupçons concernant Watters : <em>« Quel salopard... Tout est parti en vrille après le deal, comme par hasard... »</em></p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : vouté; crispé, mais essaie de paraître détendu; se tripote les doigts constamment, ou les tapote sur la table.</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : blessé mortellement par « La Sécurité », il agonise dans un recoin</p>
-        </li>
-    </ul>
-    <h3 id="candy-davies">Candy Davies</h3><img alt="Candy Davies" class="pnj" src="img/CandyDavies.jpg" style="max-height: 14.5rem">
-    <ul>
-        <li>
-            <p>si les PJs remontent la piste des vendeurs de Tedium, ils entendront vite parler d'elle.</p>
-        </li>
-        <li>
-            <p>elle reconnaîtra facilement avoir vendu du Tedium, mais sera réticente à balancer son fournisseur.</p>
-        </li>
-        <li>
-            <p>ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de <strong>S'imposer (+ Argumentation)</strong>... La menace d'alerter « les flics » ne l'effrayera pas.</p>
-        </li>
-        <li>
-            <p>si elle le peut, elle balancera seulement Jones, car Coton est une cliente qui paye bien et ne l'a jamais trahie. Et elle l'aime bien.</p>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : nubile et allumeuse, quel que soit le genre de son interlocuteur•rice; elle est volubile et colportera volontiers infos et commérages sur toutes les personnes connues de la station.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : voix suave; mache un chewing-gum; se tripote les cheveux; <em>« mon bichon »</em>; <em>« mon•a poulet•te »</em>; <em>« petit•e coquin•e »</em>, <em>« petit•e coquin•e »</em>, etc.</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : au début de l'acte 2, tuée par un androïde sous les yeux des PJs</p>
-        </li>
-    </ul>
-    <h3 id="darcy-cotton">Darcy Cotton</h3><img alt="Darcy Cotton" class="pnj" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png">
-    <ul>
-        <li>
-            <p>durant l'acte 1, comme mentionné dans le scénario (page 58), elle essaiera d'éloigner les soupçons d'elle concernant le Tedium. Face à des gélules, elle identifiera la substance, mais évoquera un vol récent dans les bureaux de Revolve, signalé à la sécurité, et que le secret industriel lui empêche d'en dire plus. Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de <strong>S'imposer (+ Argumenter)</strong>.</p>
-        </li>
-        <li>
-            <p>durant l'acte 2, elle sera initiallement <strong>bloquée dans sa cabine, au niveau 6</strong>, des androïdes l'empêchant d'en sortir. Elle tentera alors de joindre des survivant via CommLink, et elle justifiera si besoin de son utilité en évoquant son expertise en IA & communications à Revolve.</p>
-        </li>
-        <li>
-            <p>une fois qu'elle aura l'occasion d'examiner un androïde, elle sera la 1ère PNJ à <strong>comprendre que Cory 3 est à l'origine de la rébellion</strong>, et qu'il commande aux androïdes depuis la salle réseau du niveau 1 (<em>cf.</em> <a href="#terminaux-commlinks">Terminaux CommLinks</a>), et que..</p>
-        </li>
-        <li>
-            <p>elle a accès depuis n'importe quel CommLink à toutes les caméras de sécurité en activité de la station. <em>(Admin : pratique pour introduire des rebondissements)</em></p>
-        </li>
-        <li>
-            <p>elle connaît bien Deware, et saura identifier les intentions de « La Sécurité » à leur arrivée. Elle mettra en garde les PJs, inquiète pour elle-même.</p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> :</p>
-            <ol>
-                <li>Survivre : retrouver et suivre Jones lui semble initiallement le meilleur choix</li>
-                <li>Comprendre ce qui est arrivé aux androïdes</li>
-                <li>Étouffer cette affaire, et détruire le labo de Revolve</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : aucun remord à s'en sortir seule, mais elle sait qu'elle aura d'abord besoin d'alliés. Elle joue les pimbêches candides pour mieux leurer son monde, alors qu'elle a des nerfs d'acier. Elle a une arme à feu mais évitera de le montrer.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : joue les appeurées et fait preuve d'auto-dérision; rit à ses propres touches d'humour, et recherche la complicité de ses interlocuteurs; se masse constamment les épaules; lance parfois des regards perçants trahissant sa dureté.</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : éventrée par une larve cosmique, après avoir trahi les PJs.</p>
-        </li>
-    </ul>
-    <h3 id="daryl-hamon">Daryl Hamon</h3>
-    <ul>
-        <li>
-            <p>Daryl se doute que Cotton traffique quelque chose de <strong>louche</strong>, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.</p>
-        </li>
-        <li>
-            <p>les compétences de Daryl en <em>hacking</em> lui ont permi de s'introduire dans le réseau CommLink, où il a laissé un petit <strong>message caché</strong>, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, <em>cf.</em> <a href="#terminaux-commlinks">Terminaux CommLinks</a>.</p>
-        </li>
-        <li>
-            <p>ses compétences en informatique lui ont également permi d'avoir accès à distance aux capteurs de la station, et Daryl a détecté des échanges de <strong>communications à quelques km</strong> seulement de Terra Nova (le vaisseau de « La Sécurité »). Il pense qu'il s'agit peut-être d'une balise spaciale « pirate » et est curieux d'en savoir plus.</p>
-        </li>
-        <li>
-            <p>au début de l'acte 2, la moitié des chercheurs du laboratoire iront se réfugier dans leurs cabines du niveau 6. L'autre moitié aura été <strong>massacrée par des androïdes</strong>, et leurs corps entassés dans dans le local informatique de manière gore, éclaboussant de sang et de tripes toute la pièce. Daryl de son côté a réussi à ramper jusqu'à une cachette, avec uniquement ses prothèses de bras, et les androïdes ne l'ont pas trouvé.</p>
-        </li>
-        <li>
-            <p>le chaos ambiant sera pour lui une opportunité de quitter le laboratoire avec ses prothèses expérimentales des quatre membres qui lui manquent, <em>cf.</em> <a href="#acte-2-trolley-dilemna-au-laboratoire">Trolley dilemna</a>. Malheureusement celles-ci se mettront progressivement à <strong>dysfonctionner</strong> : jambe qui boîte, doigts bloqués, bras restant collé contre son corps... Sullivan pourra peut-être palier aux problèmes initiaux, mais les membres artificiels Daryl cesseront inéluctablement de fonctionner au terme de l'acte 2.</p>
-        </li>
-        <li>
-            <p>s'il voit les cadavres des chercheurs de Revolve qui prennaient soin de lui, Daryl sera profondément <strong>traumatisé</strong>. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air ébété. <em>(Admin : trigger warning, ne jouez cette scène que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatisé par une autre scène sanglante, plus tard)</em></p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> :</p>
-            <ol>
-                <li>s'émanciper et être autonome, parcourir la station avec ses prothèses</li>
-                <li>contribuer à solutionner l'attaque des androïdes</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : Daryl est très jovial et empathique. Il engagera spontannément la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motivé à accepter de venir sur Terra Nova, ses loisirs... Il aura la même attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera régulièrement : <em>« ne baissons pas les bras, on va s'en sortir ! »</em>, <em>« je suis sûr qu'en réfléchissant bien, on peut trouver une solution »</em>, <em>« vous nous avez sauvé tout à l'heure, j'ai confiance et je compte sur vous »</em>, etc.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : son ton est toujours enjoué; il ponctue ses phrases de touches d'humour et de courts rires sincères : <em>« je ne te serre pas la main mais le cœur y est ! Ahaha 😄 »</em>. S'il est traumatisé à la vue de cadavres, adoptez un <em>roleplay</em> significativement différent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et déprimé, et pourra même céder à la rage face aux androïdes.</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses HS.</p>
-        </li>
-    </ul>
-    <h3 id="ellen-frost">Ellen Frost</h3><img alt="Ellen Frost" class="pnj" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png">
-    <ul>
-        <li>
-            <p>persuadée que GEC a causé l'attaque des androïdes pour mater les ouvriers, suite à la révolte sur Cepheus</p>
-        </li>
-        <li>
-            <p>sait qu'il peut y avoir du <strong>matériel utile pour se défendre au niveau 2</strong>, dans les bureaux de GEC.</p>
-        </li>
-        <li>
-            <p>il y a <strong>un émeteur-récepteur longue portée au niveau 7</strong>, dans sa cabine, qui lui permettait de contacter en secret d'autres leaders syndicalistes de stations et colonies environnantes. Cela peut sembler un moyen pour appaler à l'aide, mais il faudra compter plus de 16h avant d'avoir une réponse.</p>
-        </li>
-        <li>
-            <p>à l'acte 2 les PJs la croiseront avec 4 dockers rescapés, donc 2 avec exo-squelettes</p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> : durant les premières heures après l'attaque, elle s'efforcera de sécuriser une zone de repli au niveau 9, bien que l'androïde du poste de garde, armé, s'avère difficile à neutraliser. Ensuite&nbsp;:</p>
-            <ol>
-                <li>sauver et rassembler un maximum de dockers et manœuvres</li>
-                <li>s'armer, lutter contre les androïdes et reprendre la station</li>
-                <li>envoyer un SOS avec son récepteur</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : elle sera ouverte à l'entraide avec des PJs combatifs ayant des objectifs compatibles. Elle provoquera des PJs trop passifs en les exortant à <em>« se sortir les doigts du trou noir »</em>. Prête à mettre sa vie propre vie en jeu.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : s'exprime en phrases courtes, hachées, mordantes. Emploi de l'argot et du jargon de docker. Inspiration possible&nbsp;: <em>Camina Drummer</em> dans <em>The Expanse</em>.</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : tuée au combat par un androïde en fin d'acte 2, ou durant d'acte 3.</p>
-        </li>
-    </ul>
-    <h3 id="jada-jones">Jada Jones</h3><img alt="Jada Jones" class="pnj" src="img/JadaJones-aka-ZoeWashburne.jpg">
-    <ul>
-        <li>
-            <p>si elle est interrogée concernant le Tedium, Jones évoquera avoir mené son enquete, mais pretendra qu'elle n'a pas encore abouti. Elle mentionnera seulement avoir établi un lien entre cette drogue et le milieu de la prostitution.</p>
-        </li>
-        <li>
-            <p>à l'acte 2 les PJs la croiseront accompagnée de 2 autres marshals rescapés, dont un sévèrement blessé. Avec leurs « smart guns », ils constituent les humains les mieux armés de la station.</p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> :</p>
-            <ol>
-                <li>Garder son calme</li>
-                <li>Appeler les secours / protéger les civils / évacuer</li>
-                <li>Garder son calme</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : tendue, elle n'hésitera pas à clamer <em>« c'est moi qui commande »</em> si on s'oppose à elle. Son calme apparent dissimule en fait une terrible panique : traumatisée par la mort d'O'Neil, elle ne que faire comme marshal de substitution.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : voix exagérément ferme et fébrile ; elle coupe la parole mais ensuite ne finit pas ses phrases ; elle répète souvent les même phrases : <em>« Allez on bouge ! »</em>, <em>« C'est moi le marshal »</em>, <em>« Il faut appeler les secours »</em>, <em>« Allez on bouge ! »</em>...</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : face aux androïdes au court de l'acte 2</p>
-        </li>
-    </ul>
-    <h3 id="l-o-l-a-waschenski">Léo·Léa Waschenski</h3>
-    <ul>
-        <li>
-            <p>le joueur concerné décidera si c'est réciproque, mais il est intéressant pour le scénario que Léo·Léa ait <strong>le béguin pour Torrensen</strong>.</p>
-        </li>
-        <li>
-            <p>durant l'acte 1, Léo·Léa pourra être aperçu·e écouter avec attention les prêches de Watters. Sensible à la verve du prêtre et à la perspective d'un au-delà radieux, Léo·Léa <strong>devient dévôt du culte de l'Ascension</strong>, sans le dire à son paternel.</p>
-        </li>
-        <li>
-            <p>si les PJs manquent <strong>la transaction</strong> entre « Le Marchand » et « Code-barres », considérez que Léo·Léa a assisté à la scène, et pourra en témoigner plus tard.</p>
-        </li>
-        <li>
-            <p><strong>Objectifs</strong> :</p>
-            <ol>
-                <li>Sauver son père</li>
-                <li>Se planquer jusqu'à ce que ça se tasse</li>
-                <li>Pas « voler » non, bien sûr, mais « récupérer » ce qui a de la valeur et qui sera perdu une fois la station abandonnée...</li>
-            </ol>
-        </li>
-        <li>
-            <p><strong>Attitude</strong> : empathique, Léo·Léa se persuade vite que les PJs ont « bon fond », et leur accordera sa confiance sans réserve.</p>
-        </li>
-        <li>
-            <p><strong>Roleplay</strong> : sourire timide; yeux baissés, évite le regard des joueurs; s'exprime de manière hésitante; <em>« Oui, euh... D'accord »</em>...</p>
-        </li>
-        <li>
-            <p><strong>Mort probable</strong> : possédée par une larve cosmique, à cause de Watters ou juste parcqu'iel en aura subtilisé une durant la panique de l'acte 3</p>
-        </li>
-    </ul>
-    <h3 id="watters-et-le-culte-de-l-ascension">Watters et le culte de l'Ascension</h3>
-    <p>Là où le scénario détaille parfaitement les actions de Watters, le culte et ses membrent sont très peu mentionnés.</p>
-    <h3 id="jouer-un-pnj">Jouer un PNJ</h3>
-    <p><strong>Yno</strong> fournit une fiche de personnage vierge sur son site : <a href="https://www.misterfrankenstein.com/wordpress/?page_id=3">misterfrankenstein.com</a></p>
-    <p>Si un PJ meurt, et qu'un joueur doit incarner un PNJ, procédez ainsi :</p>
-    <ul>
-        <li>définissez ses valeurs d'Adrénaline et de Santé, selon ce qu'il a déjà traversé.</li>
-        <li>transmettez au joueur tout ce que le PNJ sait des événements, et les informations qui le concerne dans cette aide de jeu</li>
-        <li>laissez-le choisir ses objectifs, en cohérence abvec le personnage</li>
-        <li>laissez-le répartir 35 points dans ses <strong>Aptitudes</strong></li>
-        <li>laissez le joueur choisir 3 <strong>Spécialités</strong> à +1R, et une Spécialités à +2R, parmi celles listées pages 82 & 84</li>
-    </ul>
-    <h2 id="intro-connivences">Intro - Connivences</h2>
-    <p>D'expérience, il est intéressant d'avoir des raisons diégétiques pour que les personnages se face confiance, ou au moins aient un bon prétexte pour ouvrir la conversation&nbsp;: les PJs entre eux, mais aussi les PJs envers les PNJs.</p>
-    <p>Dans cette idée, voici donc un tableau de <em>Connivences</em>, des liens entre PJs / PNJs que vous pourrez découper, puis les faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez)&nbsp;:</p>
-    <table>
-        <thead>
-            <tr>
-                <th>Votre voisin de gauche vous semble familier... L'auriez-vous déjà croisé lors d'un précédent job ?</th>
-                <th>Votre voisin de droite est un parent éloigné, que vous n'aviez pas revu depuis l'enfance.</th>
-                <th>Le PJ du joueur en face de vous a une tête qui t'inspire confiance.</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>On dit que <strong>Brett Bettany</strong> est sur Terra Nova&nbsp;: tu l'as déjà croisé, c'est un ouvrier borné mais réglo.</td>
-                <td>On dit que <strong>Kenneth O'Neil</strong> est sur Terra Nova&nbsp;: tu l'as déjà croisé, c'est un marshal strict mais juste.</td>
-                <td>D'après les rumeurs, une nouvelle drogue de synthèse circulerait sur <strong>Terra Nova</strong></td>
-            </tr>
-            <tr>
-                <td>On dit que l'église de l'<strong>Ascension</strong> est présente sur Terra Nova&nbsp;: leur culte a sale réputation.</td>
-                <td>Tu as entendu dire que Terra Nova comporterait un <strong>laboratoire secret</strong> d'expérimentation.</td>
-                <td>D'après les rumeurs, ça chauffe sur <strong>Cepheus</strong>, entre la <em>Global Extraction Corporation</em> et les colons.</td>
-            </tr>
-            <tr>
-                <td>On dit qu'<strong>Ellen Frost</strong> est sur Terra Nova&nbsp;: c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranguer l'équipage d'une station, comme dans la vidéo ci-jointe →</td>
-                <td>
-                    <a href="https://youtu.be/yfOmQ0Zln6Y"><img alt="QRCode linking to YouTube video on Camina Drummer speech from The Expanse" src="qrcode-Camina-Drummer-speech.png"></a>
-                </td>
-                <td></td>
-            </tr>
-        </tbody>
-    </table>
-    <h2 id="acte-1-l-il-pour-le-d-tail">Acte 1 - L'œil pour le détail</h2>
-    <p>La table ci-dessous fournit quelques éléments pour étoffer les descriptions de la station orbitale, et réaliser un peu de <em>foreshadowing</em> des événements à venir.</p>
-    <p>Durant l'acte 1, quel que soit l'endroit où se situent les PJs dans Terra Nova, demandez leur un jet de <strong>Percevoir (+ Observation)</strong>.</p>
-    <p>Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement ci-dessous correspondant à ce niveau de réussite, en déterminant un élement au hasard dans la liste avec 1D6. Barrez ensuite le résultat obtenu&nbsp;: s'il est tiré à nouveau lors d'un prochain jet, ignorez-le et passez au suivant.</p>
-    <p><strong>1-2 réussites</strong> :</p>
-    <ol>
-        <li>
-            <p>À travers un hublot vous appercevez <strong>Cepheus</strong>. À cet instant, la planète est éclairée d'un halo surréel, saisissant de beauté... Puis cet instant de grâce se dissipe.</p>
-        </li>
-        <li>
-            <p>Un peu plus loin, un employé en uniforme vert fouille dans sa poche en se dirigeant vers un CommLink, et <strong>trébuche</strong>. Heureusement un <strong>androïde</strong> <em>« Miranda »</em> le rattrape <em>in-extremis</em>, lui évitant de se fracturer le crâne sur un rebord de métal. L'employé repousse le robot avec mépris... et lui crâche même au visage.</p>
-        </li>
-        <li>
-            <p>Un spot vidéo de <strong>Revolve</strong> vante l'autonomie révolutionnaire et l'incroyable précision des gestes de leurs androïdes</p>
-        </li>
-        <li>
-            <p>Un spot vidéo de pub pour <strong>Global Extraction Corporation</strong>, où le PJ attentif aperçoit un exosquelette faire un bras d'honneur en arrière-plan d'une séquence. Les PJs pourront ensuite apprendre que'il s'agit de Frost.</p>
-        </li>
-        <li>
-            <p>Dans l'espace, on voit à travers un hublot deux dockers en combinaison intercepter adroitement un petit astéroïde et en <strong>découper un morceau au cutter-plasma</strong>. Les PJs pourront ensuite apprendre que cette opération avait pour but de récupérer du minerai précieux détecté dans cette météorite.</p>
-        </li>
-        <li>
-            <p>Plus loin, une paroi rassemble plusieurs <strong>graffitis</strong>&nbsp;: <em>« L'Intergalactique sera le genre humain »</em>, <em>« Mort aux androïdes »</em>, <em>« Pour échapper à votre condition, rejoignez l'église de l'Ascension »</em>...</p>
-        </li>
-    </ol>
-    <p><strong>3+ réussites</strong> :</p>
-    <ol>
-        <li>
-            <p>Des dockers <strong>tabassent un androïde</strong> prostré dans un coin. Libre au PJ d'intervenir où non. S'ils le font, les dockers s'en iront rapidement en grommelant.</p>
-        </li>
-        <li>
-            <p>Un ouvrier fébrile apostrophe le PJ&nbsp;: <em>« Hé ! Tu me regardes depuis tout à l'heure&nbsp;: t'en veux ? 100 crédits les 10 doses. »</em> Libre au PJ d'accepter ou non le deal ou de bavarder avec cet ouvrier, un grand maigrichon aux cheveux blancs noués en queue de cheval nommé <strong>Curtis Oakes</strong>. Celui-ci s'éloigne bien vite dès qu'il comprend qu'il n'a pas d'acheteur potentiel en face de lui.</p>
-        </li>
-        <li>
-            <p>Dans un coin de la pièce / coursive, vous apercevez une <strong>flaque de vomi</strong>, avec des restes d'aliments mal digérés, notamment des haricots blancs, de la viande, ainsi que de petites gélules.</p>
-        </li>
-        <li>
-            <p>Une employée de Revolve (l'ingénieure en chef <strong>Cotton</strong>) apostrophe un officier de la sécurité de la station (la marshal adjointe <strong>Jones</strong>). Les deux femmes semblent énervées mais n'élèvent pas la voix pour autant. Tout ce que le PJ peut distinguer de leur échange c'est qu'il est question de ressources manquantes.</p>
-        </li>
-        <li>
-            <p>Certaines personnes autour portent des <strong>chaussures magnétiques</strong>. Elles doivent leur permettarent de se déplacer à l'extérieur de la station, ou lorsque l'anneau générateur de gravité de la station est arrêté.</p>
-        </li>
-        <li>
-            <p>Un androïde Arnie de sécurité, en uniforme bleu, transporte une caisse à bout de bras, sur laquelle le PJ distingue la mention « <strong>explosif</strong> ». Il disparaît dans l'ascenseur / dans l'angle d'un couloir.</p>
-        </li>
-    </ol>
-    <h2 id="acte-2-big-brother-is-watching-you">Acte 2 - Big brother is watching you</h2><img alt="Crouching android" class="medium float-left" src="img/CrouchingAndroid.jpg">
-    <p>Bien que les <strong>CommLinks</strong> continuent à fonctionner après l'attaque des androïdes, depuis la salle réseau <strong>Cory 3 écoute tous les appels</strong> passés à travers la station.</p>
-    <p>Il profitera donc des informations échangées par les humains survivants via les CommLinks pour envoyer des androïdes à leur poursuite pour les exterminer.</p>
-    <p>Bien sûr, aux joueurs de le découvrir par eux-même ! En tant qu'Admin, notez donc bien ce que les joueurs mentionnent comme lieux dans la station durant leurs échanges entre eux ou avec les PNJs par les CommLinks...</p>
-    <h2 id="acte-2-back-to-medbay">Acte 2 - Back to medbay</h2>
-    <p>Durant l'acte 2, je vous recommande d'infliger assez vites de sérieux dégâts aux PJs&nbsp;:</p>
-    <ul>
-        <li>ils prendront ainsi pleinement conscience de la dangerosité de l'environnement</li>
-        <li>cela leur donnera une bonne raison de vouloir retourne au <strong>cabinet médical</strong> du niveau 5</li>
-    </ul>
-    <p>... TODO</p>
-    <h2 id="acte-2-trolley-dilemna-au-laboratoire">Acte 2 - Trolley dilemna au laboratoire</h2>
-    <p>Cette scène vise à mettre les PJs face à un dilemne moral : <strong>de quel PNJ sauver la vie</strong> ?</p>
-    <p><strong>Prérequis</strong> à cette scène :</p>
-    <ul>
-        <li>les PJs arrivent au <strong>niveau 3</strong></li>
-        <li><strong>Daryl</strong> s'y trouve, dans le laboratoire</li>
-        <li><strong>Cotton</strong> est déjà sur place, dans la salle d'analyse, ou elle accompagne les PJs et s'y précipite en arrivant, via le sas</li>
-    </ul>
-    <p><strong>Disposition des lieux</strong> :</p>
-    <ul>
-        <li>le <strong>sas privé</strong>, en plus de l'accès extérieur, comporte deux portes : l'une mène à une coursive, l'autre à la salle d'analyse</li>
-        <li>la <strong>salle d'analyse est un cul-de-sac</strong>, et contient tous les échantillons et données les plus précieuses de Revolve sur la station</li>
-        <li>des écrans suspendus au mur, visibles dans tout le laboratoire, permettent de voir ce qu'il se passe dans le sas privé et la salle d'analyse</li>
-    </ul>
-    <p>Au début, laissez les PJs explorer les lieux, plus ou moins prudemment. Ils ne doivent pas s'en douter, mais aucun danger ne les attend initiallement.</p>
-    <p><strong>Sullivan</strong> sera probablement heureux de retrouver Daryl. Celui-ci est soulagé de voir les PJs, et reprend espoir. Rapidement, il explique qu'il va récupère ses prothèses de jambes pour pouvoir les accompagner. Il se dirige alors vers le sas, où il commence à fouiller parmi les caisses entreposées. Il se déplace en rampant, mais refuse toute aide.</p>
-    <p>De son côté, Cotton en train de récupérer un maximum de données et d'échantillons précieux, et déclenche également en secret un début d'incendie. À ce moment là, 5 androïdes vont faire leur apparition. La réussite d'un jet de <strong>Percevoir (+ Observation)</strong> permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront pas le temps de prévenir ou de rejoindre Daryl dans le sas.</p>
-    <p>Si les PJs sont trop combatifs et envisagent de leur faire face, indiquez que ces robots se sont <strong>blindés</strong> en soudant des plaques de métal sur leurs membres : torse, jambes, bras. Cela les rend plus difficile à <strong>Viser</strong> (difficulté 3), et <strong>réduit de 1 les dégâts au contact</strong>.</p>
-    <p>L'idée est d'inciter les PJs à fuir ou se cacher initiallement. Une fois dans le laboratoire, les androïdes entendent du bruit dans le sas et s'y dirigent immédiatement. Daryl se planque dans une petite caisse et échappe initiallement à leur vigilance, et les robots repèrent la présence de Cotton dans la salle d'analyse. Comme celle-ci a bloqué la porte de son côté, ils commencent à la défoncer.</p>
-    <p>Les PJs peuvent suivre tout ce qui se passe en direct, y compris l'incendie qui se propage dans la salle d'analyse, et Cotton à l'intérieur, face à la caméra, qui leur fait de grands gestes d'appel à l'aide.</p>
-    <p>Dites aux joueurs qu'ils ont moins d'une minute pour réagir. Si besoin, soufflez-leur que là où sont les PJs, ils accès aux commandes du sas...</p>
-    <h2 id="acte-">Acte ...</h2>
-    <p>S'inspirer des travaux de l'acte 1 pour créer des situations lors des actes suivants</p>
-    <ul>
-        <li>concevoir une situation spécifique au fantôme qui hante Arora</li>
-        <li>spécifier des morceaux audio spécifiques pour certaines scènes</li>
-    </ul>
-    <p>Dans cette courte scène, tu vas jouer le <strong>fantôme</strong> qui hante <strong>Arora</strong>, à son insu. Continue à jouer ton personnage, mais lorsque l'Admin (TODO)</p>
-    <p>Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possible</p>
-    <p><img alt="The Expanse" src="img/TheExpanse.webp"></p><img alt="Androïde Cory 3" class="large" src="img/Cory3.jpg">
-    <p><img alt="" src="img/girl-with-gun.jpg"></p><!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
-    <p><img alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp"></p><img alt="" src="img/delivery_by_fernand0fc_bw_cc-by.jpg"> <img alt="Dead Spacer 2 Avatar by bmanhall" class="small" src="img/dead_space_2_avatar_by_bmanhall_eroded.png">
-    <h2 id="cr-dits-remerciements">Crédits & remerciements</h2>
-    <p>Merci aux illustrateurs qui ont placé leur travail sous licence <em>Creative Commons</em>&nbsp;:</p>
-    <ul>
-        <li>
-            <a href="https://www.deviantart.com/fernand0fc/art/Blade-Runner-825143976">Blade Runner</a>, <a href="https://www.deviantart.com/fernand0fc/art/Delivery-802145258">Delivery</a>, <a href="https://www.deviantart.com/fernand0fc/art/HAZMAT-695221129">HAZMAT</a> & <a href="https://www.deviantart.com/fernand0fc/art/HeadShots-743989425">HeadShots</a> de Fernando Correa - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY</a>
-        </li>
-        <li>
-            <a href="https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128">Helmet concepts</a> de Godstime Ojinmah - <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC</a>
-        </li>
-        <li>un dessin d'<a href="https://www.behance.net/gallery/58695271/InkTober-2017">Elliot Jolivet aka Tenseï réalisé lors d'Inktober 2017</a>
-        </li>
-    </ul><!-- Merci aux relecteurs & testeurs de ce scénario : ... -->
-    <p>Merci enfin aux développeurs des <a href="https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software">logiciels libres</a> employés&nbsp;: <a href="https://www.mozilla.org/fr/firefox/">le navigateur Firefox</a>, <a href="https://www.gimp.org/">le logiciel de dessin Gimp</a>, <a href="https://notepad-plus-plus.org/">l'éditeur de texte Notepad++</a>, <a href="https://www.sumatrapdfreader.org">le lecteur de PDF Sumatra PDF</a>, <a href="https://www.python.org/">le language de programmation Python</a>, les bibliothèques de code <a href="https://pypi.org/project/mistletoe/">mistletoe</a> & <a href="https://weasyprint.org/">weasyprint</a>, et le terminal web <a href="https://github.com/jacksonbenete/email_terminal">github.com/jacksonbenete/email_terminal</a>. Les configurations des deux terminaux CommLinks sont disponibles ici : <a href="https://github.com/Lucas-C/email_terminal/tree/acte-1">Lucas-C/email_terminal/acte-1</a> & <a href="https://github.com/Lucas-C/email_terminal/tree/acte-2">Lucas-C/email_terminal/acte-2</a>.</p>
-    <h2 id="licence-feedbacks">Licence & feedbacks</h2><a class="float-left" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" class="float-left" src="img/cc-by-nc-sa.png"></a>
-    <p>Cette aide de jeu de Lucas Cimon est placée sous license <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International</a>.</p>
-    <p>Les fichiers sources ayant permis de générer ce PDF sont disponibles <a href="https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu">sur GitHub</a>. Version : 1.0</p>
-    <p>Cette aide de jeu est diffusée à prix libre. Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur <a href="https://lucas-c.itch.io">lucas-c.itch.io</a>.</p>
-    <p>Je serais ravi d'avoir vos retours sur cette aide de jeu si vous l'employez. Racontez-moi comment s'est passée votre partie via un commentaire <a href="https://lucas-c.itch.io">lucas-c.itch.io</a> ou sur <a href="https://chezsoi.org/lucas/blog/pages/jeux-de-role.html">mon blog</a>.</p><!--
+<p>Ceci est une aide de jeu pour <a href="https://www.misterfrankenstein.com/wordpress/?p=5388">Paradis Perdu</a>, un excellent jeu de r&ocirc;le &laquo;&nbsp;Nuit Blanche&nbsp;&raquo; d'Anthony "Yno" Combrexelles.
+Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements suppl&eacute;mentaires au sc&eacute;nario original. Ces modules m'ont &eacute;galement beaucoup aid&eacute; en tant qu'Admin pour pr&eacute;parer ma partie, et compl&eacute;ter quelques points non d&eacute;taill&eacute;s dans le jeu de base.</p>
+<h3 id="sommaire">Sommaire</h3>
+<ul>
+ <li><a href="#plan-de-la-station-terra-nova">Plan de la station Terra Nova</a></li>
+ <li><a href="#terminaux-commlinks">Terminaux CommLinks</a></li>
+ <li><a href="#pnjs">PNJs</a></li>
+ <li><a href="#intro-connivences">Intro - Connivences</a></li>
+ <li><a href="#acte-1-l-il-pour-le-d-tail">Acte 1 - L'&oelig;il pour le d&eacute;tail</a></li>
+ <li><a href="#acte-2-big-brother-is-watching-you">Acte 2 - Big brother is watching you</a></li>
+ <li><a href="#acte-2-trolley-dilemna-au-laboratoire">Acte 2 - Trolley dilemna au laboratoire</a></li>
+</ul>
+<p>TODO : &agrave; compl&eacute;ter + v&eacute;rifier que liens fonctionnent + int&eacute;grer sections du README.md</p>
+<h2 id="plan-de-la-station-terra-nova">Plan de la station Terra Nova</h2>
+<img alt="Space station" class="large" src="img/SpaceStation.jpg" style="min-height: 890px">
+<h3 id="d-placements">D&eacute;placements</h3>
+<p>TODO - &agrave; r&eacute;diger : en substance, l'id&eacute;e est de r&eacute;aliser des micro-ellipses lorsque les PJs progressent &agrave; travers des &eacute;tages o&ugrave; il ne se passe rien. + rappel table des <strong>Rencontres</strong> avec des andro&iuml;des page 63</p>
+<p>&Agrave; chaque fois que les PJs veulent se rendre d'un point A &agrave; un point B dans la station, indiquez le ou les itin&eacute;raires qu'ils peuvent envisager, ils en choisissent un, puis je leur indique la ou les situations qu'ils rencontrent en chemin</p>
+<h2 id="terminaux-commlinks">Terminaux CommLinks</h2>
+<p>Ce module propose de mettre &agrave; disposition des joueurs un <strong>terminal web</strong>, di&eacute;g&eacute;tique &agrave; l'histoire car consultable par les PJs sur les CommLinks de la station. Il n&eacute;cessite que vos joueurs aient des smartphones avec connexion &agrave; internet durant la partie.</p>
+<blockquote>
+ <p>Le but de ce terminal est de contribuer &agrave; l'immersion des joueurs dans l'histoire, mais aussi d'ajouter quelques indices optionnels sur les &eacute;v&eacute;nements du sc&eacute;nario.</p>
+</blockquote>
+<p>Tout PJ peut acc&eacute;der &agrave; ce terminal si on lui montre la manipulation &agrave; effectuer sur un CommLink, mais au d&eacute;but du sc&eacute;nario seuls <strong>Arora</strong> et <strong>Sullivan</strong> connaissent l'existence de cette fonctionnalit&eacute;.</p>
+<p>D&eacute;coupez ces deux cartes, et remettez-les aux joueurs correspondants apr&egrave;s l'<strong>Intro</strong>, lorsqu'ils d&eacute;couvrent les CommLinks :</p>
+<table>
+ <tr>
+  <td>
+        <b>Arora</b><br>
+        Lorsque vous employez un CommLink, vous savez acc&eacute;der &agrave; son terminal :
+        <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-1/">
+            <img alt src="qrcode-terminal-acte-1.png">
+        </a>
+        Mot de passe <code>auditer</code> : <code>trustno1</code>
+    </td>
+  <td>
+        <b>Sullivan</b><br>
+        Lorsque vous employez un CommLink, vous savez acc&eacute;der &agrave; son terminal :
+        <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-1/">
+            <img alt src="qrcode-terminal-acte-1.png">
+        </a>
+    </td>
+ </tr>
+</table>
+<blockquote>
+ <p>Les QR-codes ci-dessus sont les m&ecirc;mes.
+En version PDF, vous pouvez cliquez dessus pour acc&eacute;der au terminal dans votre navigateur web.</p>
+</blockquote>
+<p>Voici un r&eacute;sum&eacute; des informations fournies par ce terminal :</p>
+<ul>
+ <li>la commande <code>map</code> fournit la liste des niveaux de la stations, et indique la r&eacute;partition des andro&iuml;des <code>Arnie</code>, <code>Cory</code> &amp; <code>Miranda</code>.</li>
+ <li>la commande <code>medic</code> permet de s'inscrire pour rendez-vous aupr&egrave;s du Dr Aberdeen, et de voir la liste des consultations pr&eacute;vues.</li>
+ <li>la commande <code>port</code> liste les vaisseaux &agrave; quai dans le port spatial au niveau 9.</li>
+ <li>la commande <code>staff</code> liste les personnes r&eacute;f&eacute;rentes de la station.</li>
+ <li>la commande <code>audit</code>, uniquement accessible par Arora apr&egrave;s s'&ecirc;tre logu&eacute;⸱e comme <code>auditer</code> via la commande <code>login</code>, indique que tout est op&eacute;rationnel sauf l'une des antennes de communication spatiale. De plus, un message fant&ocirc;matique est adress&eacute; &agrave; <em>Sanj</em> par son amour d&eacute;c&eacute;d&eacute;...</li>
+ <li><strong>Daryl</strong> a &eacute;galement envoy&eacute; un email &eacute;nigmatique &agrave; toute la station. Le d&eacute;chiffrer (c'est du <a href="https://fr.wikipedia.org/wiki/ROT13">ROT13</a>) permet de comprendre qu'il faut ensuite taper dans le terminal une commande non r&eacute;f&eacute;renc&eacute;e par <code>help</code>, mais qui existe sur les syst&egrave;mes <a href="https://fr.wikipedia.org/wiki/Linux">Linux</a> : <code>exit</code>, <code>hostname</code>, <code>man</code>, <code>ps</code>, <code>pwd</code>, <code>shutdown</code>, <code>sudo</code>, <code>touch</code>, <code>ping</code> ou <code>whoami</code> peuvent fonctionner. Daryl donne alors rendez-vous au niveau 3 au PJ qui aura r&eacute;solu son jeu de piste.</li>
+</ul>
+<p>&Agrave; la fin de l'<strong>acte 1</strong>, la prise de contr&ocirc;le de l'&eacute;tage des Communications par Cory 3 affecte le terminal.
+Pour refl&eacute;ter cela, d&eacute;coupez la carte ci-dessous, et remettez-la aux joueurs au d&eacute;but de l'<strong>acte 2</strong>, d&egrave;s qu'ils acc&egrave;deront &agrave; un terminal CommLink.
+Ils devront d&eacute;sormais employer cette nouvelle version du terminal :</p>
+<table class="terminal-card">
+ <tr>
+  <td>
+        ⚠️ ⚠️ ⚠️
+        <br>Les communications de la station
+        <br>sont impact&eacute;es.
+        <br>Voici le nouveau contenu du terminal CommLink web :
+        <a href="https://chezsoi.org/lucas/jdr/ParadisPerdu/acte-2/">
+            <img alt src="qrcode-terminal-acte-2.png">
+        </a>
+    </td>
+ </tr>
+</table>
+<p>Cette seconde version du terminal comporte plusieurs changements :</p>
+<ul>
+ <li>le niveau d'<strong>oxyg&egrave;ne</strong> de la station a drastiquement r&eacute;duit est en baisse constante.</li>
+ <li>la commande <code>map</code> n'indique plus la position &agrave; jour des andro&iuml;des.</li>
+ <li>les commandes <code>medic</code> &amp; <code>port</code> ne fonctionnent plus.</li>
+ <li>la commande <code>audit</code> indique de tr&egrave;s importants <strong>dysfonctionnements des syst&egrave;mes</strong>, notamment des communications avec Cepheus, des communications spatiales et du r&eacute;seau des andro&iuml;des.</li>
+ <li>de nouveaux emails ont &eacute;t&eacute; diffus&eacute;s &agrave; tout la station, r&eacute;v&eacute;lant la panique et les trag&eacute;dies suite &agrave; l'attaque des andro&iuml;des. Notamment <strong>Ellen Frost</strong> qui demande de l'aide alors que la d&eacute;pressurisation du niveau 9 est en cours. Il y a &eacute;galement un message crypt&eacute; de <strong>La S&eacute;curit&eacute;</strong> informant de son intervention imminente.</li>
+</ul>
+<h2 id="pnjs">PNJs</h2>
+<p>En compl&eacute;ment des informations donn&eacute;es dans le sc&eacute;nario, cette section propose quelques &eacute;l&eacute;ments suppl&eacute;mentaires pour jouer les PNJs, en d&eacute;taillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la mani&egrave;re la plus probable dont ils d&eacute;c&egrave;deront, et un conseil sur comment interpr&ecirc;ter th&eacute;&acirc;tralement chaque personnage. Je me suis inspir&eacute;s pour ce dernier point de l'article <a href="https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj"><em>Comment interpr&eacute;ter les traits distinctifs des PNJ</em> de James Introcaso, traduit sur ptgptb.fr</a>.</p>
+<p>Concernant les <em>morts probables</em> : ces indications sont l&agrave; pour vous encourager &agrave; d&eacute;cimer progressivement les PNJs au fur et &agrave; mesure du sc&eacute;nario, et ainsi maintenir la tension dramatique. N'h&eacute;sitez pas pour autant &agrave; improviser et les faire d&eacute;c&eacute;der autrement !</p>
+<h3 id="brett-bettany">Brett Bettany</h3>
+<img alt="Brett Bettany" class="pnj" src="img/hazmat_by_fernand0fc_bgw_buste_cc-by.jpg">
+<ul>
+ <li>
+<p>n'appr&eacute;cie pas les dockers &amp; man&oelig;uvres, qu'il trouve m&eacute;prisant envers les ouvriers, et en particulier Ellen Frost qu'il d&eacute;teste.</p>
+</li>
+ <li>
+<p>connait Watters et sa promotion du culte de l'Ascension. Il s'en m&eacute;fie comme de la peste.</p>
+</li>
+ <li>
+<p>a connaissance d'<strong>une arme de contrebande (fusil &agrave; pompe) planqu&eacute;e au niveau 4</strong>, dans un recycleur.</p>
+</li>
+ <li>
+<p>durant les actes 2 &amp; 3, peut fournir des <strong>combinaisons spatiales</strong></p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> : initialement paniqu&eacute;, Brett se reprendra apr&egrave;s la tuerie initiale, et aidera 1D6+2 ouvriers &agrave; se barricader dans un petit hangar au niveau 10. Ensuite&nbsp;:</p>
+<ol>
+<li>prot&eacute;ger les ouvriers, et s'armer pour se d&eacute;fendre</li>
+<li>trouver un vaisseau fonctionnel pour se tirer cette station</li>
+<li>fuir en embarquant un maximum d'ouvriers avec lui</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : coop&eacute;ratif avec les PJs si cela le rapproche de ses objectifs. En cas de situation critique pour lui ou des ouvriers, il n'h&eacute;sitera pas &agrave; jeter les PJs en p&acirc;ture &agrave; des ennemis pour leur &eacute;chapper.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : posture tr&egrave;s droite, presque rigide; parle de mani&egrave;re lente et pos&eacute;e, en prennant de profondes inspirations avant chaque nouvelle phrase.</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : en prennant d'assaut le vaisseau de &laquo;&nbsp;La S&eacute;curit&eacute;&nbsp;&raquo;.</p>
+</li>
+</ul>
+<h3 id="isaac-cameron">Isaac Cameron</h3>
+<img alt="Isaac Cameron" class="pnj" src="img/ElliotJolivet_Tensei_Inktober2017.jpg">
+<ul>
+ <li>
+<p>&agrave; l'acte 1, en plus des activit&eacute;s mentionn&eacute;es par le sc&eacute;nario (pages 51 &amp; 52), il sera en train d'enquiller les verres d'alcool fort au <strong>bar le Kapow, au niveau 8</strong>, au d&eacute;but de l'acte 2.</p>
+</li>
+ <li>
+<p>arm&eacute; d'un <strong>revolver</strong>, il r&eacute;cup&egrave;re le <strong>taser</strong> d'un marshal d&eacute;c&eacute;d&eacute; et comprend vite qu'il est plus efficace contre les andro&iuml;des.</p>
+</li>
+ <li>
+<p>la moiti&eacute; du paiement lui a &eacute;t&eacute; vir&eacute; sur un compte extraplan&eacute;taire, l'autre lui a &eacute;t&eacute; remis &laquo;&nbsp;en liquide &nbsp;&raquo;, via des liasses de <strong>cr&eacute;dits planqu&eacute;s dans une bible</strong></p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> :</p>
+<ol>
+<li>Survivre et fuir la station</li>
+<li>En profiter pour r&eacute;cup&eacute;rer ce qui a de la valeur</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : combatif, il n'h&eacute;site pas &agrave; affronter les andro&iuml;des, sans prendre de risques inutiles; s'il croise les PJs, il sera m&eacute;fiant mais pas belliqueux, et pourra les accompagner un temps. Il grommele ses soup&ccedil;ons concernant Watters : <em>&laquo;&nbsp;Quel salopard... Tout est parti en vrille apr&egrave;s le deal, comme par hasard...&nbsp;&raquo;</em></p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : vout&eacute;; crisp&eacute;, mais essaie de para&icirc;tre d&eacute;tendu; se tripote les doigts constamment, ou les tapote sur la table.</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : bless&eacute; mortellement par &laquo;&nbsp;La S&eacute;curit&eacute;&nbsp;&raquo;, il agonise dans un recoin</p>
+</li>
+</ul>
+<h3 id="candy-davies">Candy Davies</h3>
+<img alt="Candy Davies" class="pnj" src="img/CandyDavies.jpg" style="max-height: 14.5rem">
+<ul>
+ <li>
+<p>si les PJs remontent la piste des vendeurs de Tedium, ils entendront vite parler d'elle.</p>
+</li>
+ <li>
+<p>elle reconna&icirc;tra facilement avoir vendu du Tedium, mais sera r&eacute;ticente &agrave; balancer son fournisseur.</p>
+</li>
+ <li>
+<p>ce qui peut la convaincre de r&eacute;v&eacute;ler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide s&eacute;rieusement - jet de <strong>S'imposer (+ Argumentation)</strong>... La menace d'alerter &laquo;&nbsp;les flics&nbsp;&raquo; ne l'effrayera pas.</p>
+</li>
+ <li>
+<p>si elle le peut, elle balancera seulement Jones, car Coton est une cliente qui paye bien et ne l'a jamais trahie. Et elle l'aime bien.</p>
+</li>
+ <li>
+<p><strong>Attitude</strong> : nubile et allumeuse, quel que soit le genre de son interlocuteur&bull;rice; elle est volubile et colportera volontiers infos et comm&eacute;rages sur toutes les personnes connues de la station.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : voix suave; mache un chewing-gum; se tripote les cheveux; <em>&laquo;&nbsp;mon bichon&nbsp;&raquo;</em>; <em>&laquo;&nbsp;mon&bull;a poulet&bull;te&nbsp;&raquo;</em>; <em>&laquo;&nbsp;petit&bull;e coquin&bull;e&nbsp;&raquo;</em>, <em>&laquo;&nbsp;petit&bull;e coquin&bull;e&nbsp;&raquo;</em>, etc.</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : au d&eacute;but de l'acte 2, tu&eacute;e par un andro&iuml;de sous les yeux des PJs</p>
+</li>
+</ul>
+<h3 id="darcy-cotton">Darcy Cotton</h3>
+<img alt="Darcy Cotton" class="pnj" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png">
+<ul>
+ <li>
+<p>durant l'acte 1, comme mentionn&eacute; dans le sc&eacute;nario (page 58), elle essaiera d'&eacute;loigner les soup&ccedil;ons d'elle concernant le Tedium. Face &agrave; des g&eacute;lules, elle identifiera la substance, mais &eacute;voquera un vol r&eacute;cent dans les bureaux de Revolve, signal&eacute; &agrave; la s&eacute;curit&eacute;, et que le secret industriel lui emp&ecirc;che d'en dire plus. Lui faire avouer la v&eacute;rit&eacute; n&eacute;cessitera beaucoup de ruse, ou un jet r&eacute;ussi de <strong>S'imposer (+ Argumenter)</strong>.</p>
+</li>
+ <li>
+<p>durant l'acte 2, elle sera initiallement <strong>bloqu&eacute;e dans sa cabine, au niveau 6</strong>, des andro&iuml;des l'emp&ecirc;chant d'en sortir. Elle tentera alors de joindre des survivant via CommLink, et elle justifiera si besoin de son utilit&eacute; en &eacute;voquant son expertise en IA &amp; communications &agrave; Revolve.</p>
+</li>
+ <li>
+<p>une fois qu'elle aura l'occasion d'examiner un andro&iuml;de, elle sera la 1&egrave;re PNJ &agrave; <strong>comprendre que Cory 3 est &agrave; l'origine de la r&eacute;bellion</strong>, et qu'il commande aux andro&iuml;des depuis la salle r&eacute;seau du niveau 1 (<em>cf.</em> <a href="#terminaux-commlinks">Terminaux CommLinks</a>), et que..</p>
+</li>
+ <li>
+<p>elle a acc&egrave;s depuis n'importe quel CommLink &agrave; toutes les cam&eacute;ras de s&eacute;curit&eacute; en activit&eacute; de la station. <em>(Admin : pratique pour introduire des rebondissements)</em></p>
+</li>
+ <li>
+<p>elle conna&icirc;t bien Deware, et saura identifier les intentions de &laquo;&nbsp;La S&eacute;curit&eacute;&nbsp;&raquo; &agrave; leur arriv&eacute;e. Elle mettra en garde les PJs, inqui&egrave;te pour elle-m&ecirc;me.</p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> :</p>
+<ol>
+<li>Survivre : retrouver et suivre Jones lui semble initiallement le meilleur choix</li>
+<li>Comprendre ce qui est arriv&eacute; aux andro&iuml;des</li>
+<li>&Eacute;touffer cette affaire, et d&eacute;truire le labo de Revolve</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : aucun remord &agrave; s'en sortir seule, mais elle sait qu'elle aura d'abord besoin d'alli&eacute;s. Elle joue les pimb&ecirc;ches candides pour mieux leurer son monde, alors qu'elle a des nerfs d'acier. Elle a une arme &agrave; feu mais &eacute;vitera de le montrer.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : joue les appeur&eacute;es et fait preuve d'auto-d&eacute;rision; rit &agrave; ses propres touches d'humour, et recherche la complicit&eacute; de ses interlocuteurs; se masse constamment les &eacute;paules; lance parfois des regards per&ccedil;ants trahissant sa duret&eacute;.</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : &eacute;ventr&eacute;e par une larve cosmique, apr&egrave;s avoir trahi les PJs.</p>
+</li>
+</ul>
+<h3 id="daryl-hamon">Daryl Hamon</h3>
+<ul>
+ <li>
+<p>Daryl se doute que Cotton traffique quelque chose de <strong>louche</strong>, &agrave; titre personnel, avec les m&eacute;dicaments qui lui sont administr&eacute;s. Il se m&eacute;fie d'elle.</p>
+</li>
+ <li>
+<p>les comp&eacute;tences de Daryl en <em>hacking</em> lui ont permi de s'introduire dans le r&eacute;seau CommLink, o&ugrave; il a laiss&eacute; un petit <strong>message cach&eacute;</strong>, dans l'espoir que quelqu'un de fut&eacute; remonte &agrave; lui afin de faire sa connaissance, <em>cf.</em> <a href="#terminaux-commlinks">Terminaux CommLinks</a>.</p>
+</li>
+ <li>
+<p>ses comp&eacute;tences en informatique lui ont &eacute;galement permi d'avoir acc&egrave;s &agrave; distance aux capteurs de la station, et Daryl a d&eacute;tect&eacute; des &eacute;changes de <strong>communications &agrave; quelques km</strong> seulement de Terra Nova (le vaisseau de &laquo;&nbsp;La S&eacute;curit&eacute;&nbsp;&raquo;). Il pense qu'il s'agit peut-&ecirc;tre d'une balise spaciale &laquo;&nbsp;pirate&nbsp;&raquo; et est curieux d'en savoir plus.</p>
+</li>
+ <li>
+<p>au d&eacute;but de l'acte 2, la moiti&eacute; des chercheurs du laboratoire iront se r&eacute;fugier dans leurs cabines du niveau 6. L'autre moiti&eacute; aura &eacute;t&eacute; <strong>massacr&eacute;e par des andro&iuml;des</strong>, et leurs corps entass&eacute;s dans dans le local informatique de mani&egrave;re gore, &eacute;claboussant de sang et de tripes toute la pi&egrave;ce. Daryl de son c&ocirc;t&eacute; a r&eacute;ussi &agrave; ramper jusqu'&agrave; une cachette, avec uniquement ses proth&egrave;ses de bras, et les andro&iuml;des ne l'ont pas trouv&eacute;.</p>
+</li>
+ <li>
+<p>le chaos ambiant sera pour lui une opportunit&eacute; de quitter le laboratoire avec ses proth&egrave;ses exp&eacute;rimentales des quatre membres qui lui manquent, <em>cf.</em> <a href="#acte-2-trolley-dilemna-au-laboratoire">Trolley dilemna</a>. Malheureusement celles-ci se mettront progressivement &agrave; <strong>dysfonctionner</strong> : jambe qui bo&icirc;te, doigts bloqu&eacute;s, bras restant coll&eacute; contre son corps... Sullivan pourra peut-&ecirc;tre palier aux probl&egrave;mes initiaux, mais les membres artificiels Daryl cesseront in&eacute;luctablement de fonctionner au terme de l'acte 2.</p>
+</li>
+ <li>
+<p>s'il voit les cadavres des chercheurs de Revolve qui prennaient soin de lui, Daryl sera profond&eacute;ment <strong>traumatis&eacute;</strong>. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air &eacute;b&eacute;t&eacute;. <em>(Admin : trigger warning, ne jouez cette sc&egrave;ne que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatis&eacute; par une autre sc&egrave;ne sanglante, plus tard)</em></p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> :</p>
+<ol>
+<li>s'&eacute;manciper et &ecirc;tre autonome, parcourir la station avec ses proth&egrave;ses</li>
+<li>contribuer &agrave; solutionner l'attaque des andro&iuml;des</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : Daryl est tr&egrave;s jovial et empathique. Il engagera spontann&eacute;ment la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motiv&eacute; &agrave; accepter de venir sur Terra Nova, ses loisirs... Il aura la m&ecirc;me attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera r&eacute;guli&egrave;rement : <em>&laquo;&nbsp;ne baissons pas les bras, on va s'en sortir !&nbsp;&raquo;</em>, <em>&laquo;&nbsp;je suis s&ucirc;r qu'en r&eacute;fl&eacute;chissant bien, on peut trouver une solution&nbsp;&raquo;</em>, <em>&laquo;&nbsp;vous nous avez sauv&eacute; tout &agrave; l'heure, j'ai confiance et je compte sur vous&nbsp;&raquo;</em>, etc.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : son ton est toujours enjou&eacute;; il ponctue ses phrases de touches d'humour et de courts rires sinc&egrave;res : <em>&laquo;&nbsp;je ne te serre pas la main mais le c&oelig;ur y est ! Ahaha 😄&nbsp;&raquo;</em>. S'il est traumatis&eacute; &agrave; la vue de cadavres, adoptez un <em>roleplay</em> significativement diff&eacute;rent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et d&eacute;prim&eacute;, et pourra m&ecirc;me c&eacute;der &agrave; la rage face aux andro&iuml;des.</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : tu&eacute; par les andro&iuml;des, ou poss&eacute;d&eacute; par une larve cosmique, ne pouvant se d&eacute;battre avec ses proth&egrave;ses HS.</p>
+</li>
+</ul>
+<h3 id="ellen-frost">Ellen Frost</h3>
+<img alt="Ellen Frost" class="pnj" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png">
+<ul>
+ <li>
+<p>persuad&eacute;e que GEC a caus&eacute; l'attaque des andro&iuml;des pour mater les ouvriers, suite &agrave; la r&eacute;volte sur Cepheus</p>
+</li>
+ <li>
+<p>sait qu'il peut y avoir du <strong>mat&eacute;riel utile pour se d&eacute;fendre au niveau 2</strong>, dans les bureaux de GEC.</p>
+</li>
+ <li>
+<p>il y a <strong>un &eacute;meteur-r&eacute;cepteur longue port&eacute;e au niveau 7</strong>, dans sa cabine, qui lui permettait de contacter en secret d'autres leaders syndicalistes de stations et colonies environnantes. Cela peut sembler un moyen pour appaler &agrave; l'aide, mais il faudra compter plus de 16h avant d'avoir une r&eacute;ponse.</p>
+</li>
+ <li>
+<p>&agrave; l'acte 2 les PJs la croiseront avec 4 dockers rescap&eacute;s, donc 2 avec exo-squelettes</p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> : durant les premi&egrave;res heures apr&egrave;s l'attaque, elle s'efforcera de s&eacute;curiser une zone de repli au niveau 9, bien que l'andro&iuml;de du poste de garde, arm&eacute;, s'av&egrave;re difficile &agrave; neutraliser. Ensuite&nbsp;:</p>
+<ol>
+<li>sauver et rassembler un maximum de dockers et man&oelig;uvres</li>
+<li>s'armer, lutter contre les andro&iuml;des et reprendre la station</li>
+<li>envoyer un SOS avec son r&eacute;cepteur</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : elle sera ouverte &agrave; l'entraide avec des PJs combatifs ayant des objectifs compatibles. Elle provoquera des PJs trop passifs en les exortant &agrave; <em>&laquo;&nbsp;se sortir les doigts du trou noir&nbsp;&raquo;</em>. Pr&ecirc;te &agrave; mettre sa vie propre vie en jeu.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : s'exprime en phrases courtes, hach&eacute;es, mordantes. Emploi de l'argot et du jargon de docker. Inspiration possible&nbsp;: <em>Camina Drummer</em> dans <em>The Expanse</em>.</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : tu&eacute;e au combat par un andro&iuml;de en fin d'acte 2, ou durant d'acte 3.</p>
+</li>
+</ul>
+<h3 id="jada-jones">Jada Jones</h3>
+<img alt="Jada Jones" class="pnj" src="img/JadaJones-aka-ZoeWashburne.jpg">
+<ul>
+ <li>
+<p>si elle est interrog&eacute;e concernant le Tedium, Jones &eacute;voquera avoir men&eacute; son enquete, mais pretendra qu'elle n'a pas encore abouti. Elle mentionnera seulement avoir &eacute;tabli un lien entre cette drogue et le milieu de la prostitution.</p>
+</li>
+ <li>
+<p>&agrave; l'acte 2 les PJs la croiseront accompagn&eacute;e de 2 autres marshals rescap&eacute;s, dont un s&eacute;v&egrave;rement bless&eacute;. Avec leurs &laquo;&nbsp;smart guns&nbsp;&raquo;, ils constituent les humains les mieux arm&eacute;s de la station.</p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> :</p>
+<ol>
+<li>Garder son calme</li>
+<li>Appeler les secours / prot&eacute;ger les civils / &eacute;vacuer</li>
+<li>Garder son calme</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : tendue, elle n'h&eacute;sitera pas &agrave; clamer <em>&laquo;&nbsp;c'est moi qui commande&nbsp;&raquo;</em> si on s'oppose &agrave; elle. Son calme apparent dissimule en fait une terrible panique : traumatis&eacute;e par la mort d'O'Neil, elle ne que faire comme marshal de substitution.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : voix exag&eacute;r&eacute;ment ferme et f&eacute;brile ; elle coupe la parole mais ensuite ne finit pas ses phrases ; elle r&eacute;p&egrave;te souvent les m&ecirc;me phrases : <em>&laquo;&nbsp;Allez on bouge !&nbsp;&raquo;</em>, <em>&laquo;&nbsp;C'est moi le marshal&nbsp;&raquo;</em>, <em>&laquo;&nbsp;Il faut appeler les secours&nbsp;&raquo;</em>, <em>&laquo;&nbsp;Allez on bouge !&nbsp;&raquo;</em>...</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : face aux andro&iuml;des au court de l'acte 2</p>
+</li>
+</ul>
+<h3 id="l-o-l-a-waschenski">L&eacute;o&middot;L&eacute;a Waschenski</h3>
+<ul>
+ <li>
+<p>le joueur concern&eacute; d&eacute;cidera si c'est r&eacute;ciproque, mais il est int&eacute;ressant pour le sc&eacute;nario que L&eacute;o&middot;L&eacute;a ait <strong>le b&eacute;guin pour Torrensen</strong>.</p>
+</li>
+ <li>
+<p>durant l'acte 1, L&eacute;o&middot;L&eacute;a pourra &ecirc;tre aper&ccedil;u&middot;e &eacute;couter avec attention les pr&ecirc;ches de Watters. Sensible &agrave; la verve du pr&ecirc;tre et &agrave; la perspective d'un au-del&agrave; radieux, L&eacute;o&middot;L&eacute;a <strong>devient d&eacute;v&ocirc;t du culte de l'Ascension</strong>, sans le dire &agrave; son paternel.</p>
+</li>
+ <li>
+<p>si les PJs manquent <strong>la transaction</strong> entre &laquo;&nbsp;Le Marchand&nbsp;&raquo; et &laquo;&nbsp;Code-barres&nbsp;&raquo;, consid&eacute;rez que L&eacute;o&middot;L&eacute;a a assist&eacute; &agrave; la sc&egrave;ne, et pourra en t&eacute;moigner plus tard.</p>
+</li>
+ <li>
+<p><strong>Objectifs</strong> :</p>
+<ol>
+<li>Sauver son p&egrave;re</li>
+<li>Se planquer jusqu'&agrave; ce que &ccedil;a se tasse</li>
+<li>Pas &laquo;&nbsp;voler&nbsp;&raquo; non, bien s&ucirc;r, mais &laquo;&nbsp;r&eacute;cup&eacute;rer&nbsp;&raquo; ce qui a de la valeur et qui sera perdu une fois la station abandonn&eacute;e...</li>
+</ol>
+</li>
+ <li>
+<p><strong>Attitude</strong> : empathique, L&eacute;o&middot;L&eacute;a se persuade vite que les PJs ont &laquo;&nbsp;bon fond&nbsp;&raquo;, et leur accordera sa confiance sans r&eacute;serve.</p>
+</li>
+ <li>
+<p><strong>Roleplay</strong> : sourire timide; yeux baiss&eacute;s, &eacute;vite le regard des joueurs; s'exprime de mani&egrave;re h&eacute;sitante; <em>&laquo;&nbsp;Oui, euh... D'accord&nbsp;&raquo;</em>...</p>
+</li>
+ <li>
+<p><strong>Mort probable</strong> : poss&eacute;d&eacute;e par une larve cosmique, &agrave; cause de Watters ou juste parcqu'iel en aura subtilis&eacute; une durant la panique de l'acte 3</p>
+</li>
+</ul>
+<h3 id="watters-et-le-culte-de-l-ascension">Watters et le culte de l'Ascension</h3>
+<p>L&agrave; o&ugrave; le sc&eacute;nario d&eacute;taille parfaitement les actions de Watters, le culte et ses membrent sont tr&egrave;s peu mentionn&eacute;s.</p>
+<h3 id="jouer-un-pnj">Jouer un PNJ</h3>
+<p><strong>Yno</strong> fournit une fiche de personnage vierge sur son site : <a href="https://www.misterfrankenstein.com/wordpress/?page_id=3">misterfrankenstein.com</a></p>
+<p>Si un PJ meurt, et qu'un joueur doit incarner un PNJ, proc&eacute;dez ainsi :</p>
+<ul>
+ <li>d&eacute;finissez ses valeurs d'Adr&eacute;naline et de Sant&eacute;, selon ce qu'il a d&eacute;j&agrave; travers&eacute;.</li>
+ <li>transmettez au joueur tout ce que le PNJ sait des &eacute;v&eacute;nements, et les informations qui le concerne dans cette aide de jeu</li>
+ <li>laissez-le choisir ses objectifs, en coh&eacute;rence abvec le personnage</li>
+ <li>laissez-le r&eacute;partir 35 points dans ses <strong>Aptitudes</strong></li>
+ <li>laissez le joueur choisir 3 <strong>Sp&eacute;cialit&eacute;s</strong> &agrave; +1R, et une Sp&eacute;cialit&eacute;s &agrave; +2R, parmi celles list&eacute;es pages 82 &amp; 84</li>
+</ul>
+<h2 id="intro-connivences">Intro - Connivences</h2>
+<p>D'exp&eacute;rience, il est int&eacute;ressant d'avoir des raisons di&eacute;g&eacute;tiques pour que les personnages se face confiance, ou au moins aient un bon pr&eacute;texte pour ouvrir la conversation&nbsp;: les PJs entre eux, mais aussi les PJs envers les PNJs.</p>
+<p>Dans cette id&eacute;e, voici donc un tableau de <em>Connivences</em>, des liens entre PJs / PNJs que vous pourrez d&eacute;couper, puis les faire piocher &agrave; chaque joueur en d&eacute;but de partie (un ou deux chacun, comme vous voulez)&nbsp;:</p>
+<table>
+ <thead>
+  <tr>
+   <th>Votre voisin de gauche vous semble familier... L'auriez-vous d&eacute;j&agrave; crois&eacute; lors d'un pr&eacute;c&eacute;dent job ?</th>
+   <th>Votre voisin de droite est un parent &eacute;loign&eacute;, que vous n'aviez pas revu depuis l'enfance.</th>
+   <th>Le PJ du joueur en face de vous a une t&ecirc;te qui t'inspire confiance.</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>On dit que <strong>Brett Bettany</strong> est sur Terra Nova&nbsp;: tu l'as d&eacute;j&agrave; crois&eacute;, c'est un ouvrier born&eacute; mais r&eacute;glo.</td>
+   <td>On dit que <strong>Kenneth O'Neil</strong> est sur Terra Nova&nbsp;: tu l'as d&eacute;j&agrave; crois&eacute;, c'est un marshal strict mais juste.</td>
+   <td>D'apr&egrave;s les rumeurs, une nouvelle drogue de synth&egrave;se circulerait sur <strong>Terra Nova</strong></td>
+  </tr>
+  <tr>
+   <td>On dit que l'&eacute;glise de l'<strong>Ascension</strong> est pr&eacute;sente sur Terra Nova&nbsp;: leur culte a sale r&eacute;putation.</td>
+   <td>Tu as entendu dire que Terra Nova comporterait un <strong>laboratoire secret</strong> d'exp&eacute;rimentation.</td>
+   <td>D'apr&egrave;s les rumeurs, &ccedil;a chauffe sur <strong>Cepheus</strong>, entre la <em>Global Extraction Corporation</em> et les colons.</td>
+  </tr>
+  <tr>
+   <td>On dit qu'<strong>Ellen Frost</strong> est sur Terra Nova&nbsp;: c'est une syndicaliste pugnace mais int&egrave;gre. Tu l'as d&eacute;j&agrave; vu arranguer l'&eacute;quipage d'une station, comme dans la vid&eacute;o ci-jointe &rarr;</td>
+   <td><a href="https://youtu.be/yfOmQ0Zln6Y"><img alt="QRCode linking to YouTube video on Camina Drummer speech from The Expanse" src="qrcode-Camina-Drummer-speech.png"></a></td>
+   <td></td>
+  </tr>
+ </tbody>
+</table>
+<h2 id="acte-1-l-il-pour-le-d-tail">Acte 1 - L'&oelig;il pour le d&eacute;tail</h2>
+<p>La table ci-dessous fournit quelques &eacute;l&eacute;ments pour &eacute;toffer les descriptions de la station orbitale, et r&eacute;aliser un peu de <em>foreshadowing</em> des &eacute;v&eacute;nements &agrave; venir.</p>
+<p>Durant l'acte 1, quel que soit l'endroit o&ugrave; se situent les PJs dans Terra Nova, demandez leur un jet de <strong>Percevoir (+ Observation)</strong>.</p>
+<p>D&eacute;crivez alors au(x) PJ(s) avec le plus grand nombre de r&eacute;ussites l'&eacute;lement ci-dessous correspondant &agrave; ce niveau de r&eacute;ussite, en d&eacute;terminant un &eacute;lement au hasard dans la liste avec 1D6. Barrez ensuite le r&eacute;sultat obtenu&nbsp;: s'il est tir&eacute; &agrave; nouveau lors d'un prochain jet, ignorez-le et passez au suivant.</p>
+<p><strong>1-2 r&eacute;ussites</strong> :</p>
+<ol>
+ <li>
+<p>&Agrave; travers un hublot vous appercevez <strong>Cepheus</strong>. &Agrave; cet instant, la plan&egrave;te est &eacute;clair&eacute;e d'un halo surr&eacute;el, saisissant de beaut&eacute;... Puis cet instant de gr&acirc;ce se dissipe.</p>
+</li>
+ <li>
+<p>Un peu plus loin, un employ&eacute; en uniforme vert fouille dans sa poche en se dirigeant vers un CommLink, et <strong>tr&eacute;buche</strong>. Heureusement un <strong>andro&iuml;de</strong> <em>&laquo;&nbsp;Miranda&nbsp;&raquo;</em> le rattrape <em>in-extremis</em>, lui &eacute;vitant de se fracturer le cr&acirc;ne sur un rebord de m&eacute;tal. L'employ&eacute; repousse le robot avec m&eacute;pris... et lui cr&acirc;che m&ecirc;me au visage.</p>
+</li>
+ <li>
+<p>Un spot vid&eacute;o de <strong>Revolve</strong> vante l'autonomie r&eacute;volutionnaire et l'incroyable pr&eacute;cision des gestes de leurs andro&iuml;des</p>
+</li>
+ <li>
+<p>Un spot vid&eacute;o de pub pour <strong>Global Extraction Corporation</strong>, o&ugrave; le PJ attentif aper&ccedil;oit un exosquelette faire un bras d'honneur en arri&egrave;re-plan d'une s&eacute;quence. Les PJs pourront ensuite apprendre que'il s'agit de Frost.</p>
+</li>
+ <li>
+<p>Dans l'espace, on voit &agrave; travers un hublot deux dockers en combinaison intercepter adroitement un petit ast&eacute;ro&iuml;de et en <strong>d&eacute;couper un morceau au cutter-plasma</strong>. Les PJs pourront ensuite apprendre que cette op&eacute;ration avait pour but de r&eacute;cup&eacute;rer du minerai pr&eacute;cieux d&eacute;tect&eacute; dans cette m&eacute;t&eacute;orite.</p>
+</li>
+ <li>
+<p>Plus loin, une paroi rassemble plusieurs <strong>graffitis</strong>&nbsp;: <em>&laquo;&nbsp;L'Intergalactique sera le genre humain&nbsp;&raquo;</em>, <em>&laquo;&nbsp;Mort aux andro&iuml;des&nbsp;&raquo;</em>, <em>&laquo;&nbsp;Pour &eacute;chapper &agrave; votre condition, rejoignez l'&eacute;glise de l'Ascension&nbsp;&raquo;</em>...</p>
+</li>
+</ol>
+<p><strong>3+ r&eacute;ussites</strong> :</p>
+<ol>
+ <li>
+<p>Des dockers <strong>tabassent un andro&iuml;de</strong> prostr&eacute; dans un coin. Libre au PJ d'intervenir o&ugrave; non. S'ils le font, les dockers s'en iront rapidement en grommelant.</p>
+</li>
+ <li>
+<p>Un ouvrier f&eacute;brile apostrophe le PJ&nbsp;: <em>&laquo;&nbsp;H&eacute; ! Tu me regardes depuis tout &agrave; l'heure&nbsp;: t'en veux ? 100 cr&eacute;dits les 10 doses.&nbsp;&raquo;</em> Libre au PJ d'accepter ou non le deal ou de bavarder avec cet ouvrier, un grand maigrichon aux cheveux blancs nou&eacute;s en queue de cheval nomm&eacute; <strong>Curtis Oakes</strong>. Celui-ci s'&eacute;loigne bien vite d&egrave;s qu'il comprend qu'il n'a pas d'acheteur potentiel en face de lui.</p>
+</li>
+ <li>
+<p>Dans un coin de la pi&egrave;ce / coursive, vous apercevez une <strong>flaque de vomi</strong>, avec des restes d'aliments mal dig&eacute;r&eacute;s, notamment des haricots blancs, de la viande, ainsi que de petites g&eacute;lules.</p>
+</li>
+ <li>
+<p>Une employ&eacute;e de Revolve (l'ing&eacute;nieure en chef <strong>Cotton</strong>) apostrophe un officier de la s&eacute;curit&eacute; de la station (la marshal adjointe <strong>Jones</strong>). Les deux femmes semblent &eacute;nerv&eacute;es mais n'&eacute;l&egrave;vent pas la voix pour autant. Tout ce que le PJ peut distinguer de leur &eacute;change c'est qu'il est question de ressources manquantes.</p>
+</li>
+ <li>
+<p>Certaines personnes autour portent des <strong>chaussures magn&eacute;tiques</strong>. Elles doivent leur permettarent de se d&eacute;placer &agrave; l'ext&eacute;rieur de la station, ou lorsque l'anneau g&eacute;n&eacute;rateur de gravit&eacute; de la station est arr&ecirc;t&eacute;.</p>
+</li>
+ <li>
+<p>Un andro&iuml;de Arnie de s&eacute;curit&eacute;, en uniforme bleu, transporte une caisse &agrave; bout de bras, sur laquelle le PJ distingue la mention &laquo;&nbsp;<strong>explosif</strong>&nbsp;&raquo;. Il dispara&icirc;t dans l'ascenseur / dans l'angle d'un couloir.</p>
+</li>
+</ol>
+<h2 id="acte-2-big-brother-is-watching-you">Acte 2 - Big brother is watching you</h2>
+<img alt="Crouching android" class="medium float-left" src="img/CrouchingAndroid.jpg">
+<p>Bien que les <strong>CommLinks</strong> continuent &agrave; fonctionner apr&egrave;s l'attaque des andro&iuml;des, depuis la salle r&eacute;seau <strong>Cory 3 &eacute;coute tous les appels</strong> pass&eacute;s &agrave; travers la station.</p>
+<p>Il profitera donc des informations &eacute;chang&eacute;es par les humains survivants via les CommLinks pour envoyer des andro&iuml;des &agrave; leur poursuite pour les exterminer.</p>
+<p>Bien s&ucirc;r, aux joueurs de le d&eacute;couvrir par eux-m&ecirc;me !
+En tant qu'Admin, notez donc bien ce que les joueurs mentionnent comme lieux dans la station durant leurs &eacute;changes entre eux ou avec les PNJs par les CommLinks...</p>
+<h2 id="acte-2-back-to-medbay">Acte 2 - Back to medbay</h2>
+<p>Durant l'acte 2, je vous recommande d'infliger assez vites de s&eacute;rieux d&eacute;g&acirc;ts aux PJs&nbsp;:</p>
+<ul>
+ <li>ils prendront ainsi pleinement conscience de la dangerosit&eacute; de l'environnement</li>
+ <li>cela leur donnera une bonne raison de vouloir retourne au <strong>cabinet m&eacute;dical</strong> du niveau 5</li>
+</ul>
+<p>... TODO</p>
+<h2 id="acte-2-trolley-dilemna-au-laboratoire">Acte 2 - Trolley dilemna au laboratoire</h2>
+<p>Cette sc&egrave;ne vise &agrave; mettre les PJs face &agrave; un dilemne moral : <strong>de quel PNJ sauver la vie</strong> ?</p>
+<p><strong>Pr&eacute;requis</strong> &agrave; cette sc&egrave;ne :</p>
+<ul>
+ <li>les PJs arrivent au <strong>niveau 3</strong></li>
+ <li><strong>Daryl</strong> s'y trouve, dans le laboratoire</li>
+ <li><strong>Cotton</strong> est d&eacute;j&agrave; sur place, dans la salle d'analyse, ou elle accompagne les PJs et s'y pr&eacute;cipite en arrivant, via le sas</li>
+</ul>
+<p><strong>Disposition des lieux</strong> :</p>
+<ul>
+ <li>le <strong>sas priv&eacute;</strong>, en plus de l'acc&egrave;s ext&eacute;rieur, comporte deux portes : l'une m&egrave;ne &agrave; une coursive, l'autre &agrave; la salle d'analyse</li>
+ <li>la <strong>salle d'analyse est un cul-de-sac</strong>, et contient tous les &eacute;chantillons et donn&eacute;es les plus pr&eacute;cieuses de Revolve sur la station</li>
+ <li>des &eacute;crans suspendus au mur, visibles dans tout le laboratoire, permettent de voir ce qu'il se passe dans le sas priv&eacute; et la salle d'analyse</li>
+</ul>
+<p>Au d&eacute;but, laissez les PJs explorer les lieux, plus ou moins prudemment.
+Ils ne doivent pas s'en douter, mais aucun danger ne les attend initiallement.</p>
+<p><strong>Sullivan</strong> sera probablement heureux de retrouver Daryl.
+Celui-ci est soulag&eacute; de voir les PJs, et reprend espoir.
+Rapidement, il explique qu'il va r&eacute;cup&egrave;re ses proth&egrave;ses de jambes pour pouvoir les accompagner.
+Il se dirige alors vers le sas, o&ugrave; il commence &agrave; fouiller parmi les caisses entrepos&eacute;es.
+Il se d&eacute;place en rampant, mais refuse toute aide.</p>
+<p>De son c&ocirc;t&eacute;, Cotton en train de r&eacute;cup&eacute;rer un maximum de donn&eacute;es et d'&eacute;chantillons pr&eacute;cieux, et d&eacute;clenche &eacute;galement en secret un d&eacute;but d'incendie.
+&Agrave; ce moment l&agrave;, 5 andro&iuml;des vont faire leur apparition.
+La r&eacute;ussite d'un jet de <strong>Percevoir (+ Observation)</strong> permettra &agrave; certains PJs des les entendre arriver et d'anticiper leur arriv&eacute;e en nombre, mais les PJs n'auront pas le temps de pr&eacute;venir ou de rejoindre Daryl dans le sas.</p>
+<p>Si les PJs sont trop combatifs et envisagent de leur faire face, indiquez que ces robots se sont <strong>blind&eacute;s</strong> en soudant des plaques de m&eacute;tal sur leurs membres : torse, jambes, bras.
+Cela les rend plus difficile &agrave; <strong>Viser</strong> (difficult&eacute; 3), et <strong>r&eacute;duit de 1 les d&eacute;g&acirc;ts au contact</strong>.</p>
+<p>L'id&eacute;e est d'inciter les PJs &agrave; fuir ou se cacher initiallement.
+Une fois dans le laboratoire, les andro&iuml;des entendent du bruit dans le sas et s'y dirigent imm&eacute;diatement.
+Daryl se planque dans une petite caisse et &eacute;chappe initiallement &agrave; leur vigilance,
+et les robots rep&egrave;rent la pr&eacute;sence de Cotton dans la salle d'analyse.
+Comme celle-ci a bloqu&eacute; la porte de son c&ocirc;t&eacute;, ils commencent &agrave; la d&eacute;foncer.</p>
+<p>Les PJs peuvent suivre tout ce qui se passe en direct, y compris l'incendie qui se propage dans la salle d'analyse, et Cotton &agrave; l'int&eacute;rieur, face &agrave; la cam&eacute;ra, qui leur fait de grands gestes d'appel &agrave; l'aide.</p>
+<p>Dites aux joueurs qu'ils ont moins d'une minute pour r&eacute;agir.
+Si besoin, soufflez-leur que l&agrave; o&ugrave; sont les PJs, ils acc&egrave;s aux commandes du sas...</p>
+<h2 id="acte-">Acte ...</h2>
+<p>S'inspirer des travaux de l'acte 1 pour cr&eacute;er des situations lors des actes suivants</p>
+<ul>
+ <li>concevoir une situation sp&eacute;cifique au fant&ocirc;me qui hante Arora</li>
+ <li>sp&eacute;cifier des morceaux audio sp&eacute;cifiques pour certaines sc&egrave;nes</li>
+</ul>
+<p>Dans cette courte sc&egrave;ne, tu vas jouer le <strong>fant&ocirc;me</strong> qui hante <strong>Arora</strong>, &agrave; son insu.
+Continue &agrave; jouer ton personnage, mais lorsque l'Admin (TODO)</p>
+<p>Les andro&iuml;des ne se pressent pas et donnent une mort la moins douloureuse possible</p>
+<p><img alt="The Expanse" src="img/TheExpanse.webp"></p>
+<img alt="Andro&iuml;de Cory 3" class="large" src="img/Cory3.jpg">
+<p><img alt src="img/girl-with-gun.jpg"></p>
+<!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
+<p><img alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp"></p>
+<img alt src="img/delivery_by_fernand0fc_bw_cc-by.jpg">
+<img alt="Dead Spacer 2 Avatar by bmanhall" class="small" src="img/dead_space_2_avatar_by_bmanhall_eroded.png">
+<h2 id="cr-dits-remerciements">Cr&eacute;dits &amp; remerciements</h2>
+<p>Merci aux illustrateurs qui ont plac&eacute; leur travail sous licence <em>Creative Commons</em>&nbsp;:</p>
+<ul>
+ <li><a href="https://www.deviantart.com/fernand0fc/art/Blade-Runner-825143976">Blade Runner</a>, <a href="https://www.deviantart.com/fernand0fc/art/Delivery-802145258">Delivery</a>, <a href="https://www.deviantart.com/fernand0fc/art/HAZMAT-695221129">HAZMAT</a> &amp; <a href="https://www.deviantart.com/fernand0fc/art/HeadShots-743989425">HeadShots</a> de Fernando Correa - <a href="https://creativecommons.org/licenses/by/3.0/">CC BY</a></li>
+ <li><a href="https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128">Helmet concepts</a> de Godstime Ojinmah - <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC</a></li>
+ <li>un dessin d'<a href="https://www.behance.net/gallery/58695271/InkTober-2017">Elliot Jolivet aka Tense&iuml; r&eacute;alis&eacute; lors d'Inktober 2017</a></li>
+</ul>
+<!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
+<p>Merci enfin aux d&eacute;veloppeurs des <a href="https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software">logiciels libres</a> employ&eacute;s&nbsp;: <a href="https://www.mozilla.org/fr/firefox/">le navigateur Firefox</a>, <a href="https://www.gimp.org/">le logiciel de dessin Gimp</a>, <a href="https://notepad-plus-plus.org/">l'&eacute;diteur de texte Notepad++</a>, <a href="https://www.sumatrapdfreader.org">le lecteur de PDF Sumatra PDF</a>, <a href="https://www.python.org/">le language de programmation Python</a>, les biblioth&egrave;ques de code <a href="https://pypi.org/project/mistletoe/">mistletoe</a> &amp; <a href="https://weasyprint.org/">weasyprint</a>, et le terminal web <a href="https://github.com/jacksonbenete/email_terminal">github.com/jacksonbenete/email_terminal</a>. Les configurations des deux terminaux CommLinks sont disponibles ici : <a href="https://github.com/Lucas-C/email_terminal/tree/acte-1">Lucas-C/email_terminal/acte-1</a> &amp; <a href="https://github.com/Lucas-C/email_terminal/tree/acte-2">Lucas-C/email_terminal/acte-2</a>.</p>
+<h2 id="licence-feedbacks">Licence &amp; feedbacks</h2>
+<a class="float-left" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="img/cc-by-nc-sa.png">
+</a>
+<p>Cette aide de jeu de Lucas Cimon est plac&eacute;e sous licence <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International</a>.</p>
+<p>Les fichiers sources ayant permis de g&eacute;n&eacute;rer ce PDF sont disponibles <a href="https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu">sur GitHub</a>. Version : 1.0</p>
+<p>Cette aide de jeu est diffus&eacute;e &agrave; prix libre.
+Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur <a href="https://lucas-c.itch.io">lucas-c.itch.io</a>.</p>
+<p>Je serais ravi d'avoir vos retours sur cette aide de jeu si vous l'employez.
+Racontez-moi comment s'est pass&eacute;e votre partie via un commentaire <a href="https://lucas-c.itch.io">lucas-c.itch.io</a> ou sur <a href="https://chezsoi.org/lucas/blog/pages/jeux-de-role.html">mon blog</a>.</p>
+<!--
 Design goals:
 * s'intégrer à l'histoire, en faisant de multiple références
 * s'intégrer au système, en provoquant des jets de dés

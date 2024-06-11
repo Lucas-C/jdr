@@ -7,7 +7,7 @@ Traduction d'[un jeu de Shane Mclean](http://cheatyourownadventure.co.uk) par Lu
 
 _Pour trois joueurs ou plus (idéalement quatre ou cinq)_
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" ></a>
 
 ---
 
@@ -125,7 +125,7 @@ Ajoutez un mystérieux vieil homme, des monstres et des pièges évidents !
 “ Pour affronter le vieil homme dans un duel d'énigmes afin d'obtenir la clef de la porte verrouillée allez en page ... ”
 :::
 
-<style type="text/css">
+<style>
 @font-face {
   font-family: Ringbearer;
   src: url('RINGBEARER.TTF') format('truetype');

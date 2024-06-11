@@ -283,7 +283,7 @@ Gods and Mortals must respect the sentence of the tribunal. However, if a God is
 <img class="big" alt="Lady in a white shroud under a black moon" src="img/tensei-inktober2017-whitelady.jpg">
 
 ### License and sources
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 This game was designed by Lucas Cimon and is under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) license. Version: 1.1.
 
 If you play it, consider leaving me a little comment on [my blog](https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html) or on [itch.io](https://lucas-c.itch.io).
@@ -307,7 +307,7 @@ as well as the tabletop roleplaying games Urban Armies and [The Last Coffee Shop
 
 ::::
 
-<style type="text/css">
+<style>
 @font-face { font-family: HACKED; src: url('fonts/HACKED.ttf') format('truetype'); }
 
 body {

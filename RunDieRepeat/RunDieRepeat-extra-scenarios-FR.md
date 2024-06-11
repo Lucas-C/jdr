@@ -168,7 +168,7 @@ et considérez qu'en attendant il explore son environnement à tâtons.
 }
 ```
 
-<style type="text/css">
+<style>
 @font-face { font-family: RajdhaniRegular; src: url('fonts/Rajdhani-Regular.ttf'); }
 @font-face { font-family: VanchromeRegular; src: url('fonts/Vanchrome-Regular.ttf'); }
 body {

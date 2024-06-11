@@ -127,12 +127,12 @@ tout le long de la partie.
 ## Déroulement de la partie
 <img id="game-flow-toc" class="block-centered" alt="Schéma reprennant les grandes étapes d'une partie" src="img/gdav-flow.png" usemap="#toc">
 <map name="toc">
-  <area shape="circle" coords="87,86,85" href="#choix-dun-univers" alt="Choix d'un univers"/>
-  <area shape="circle" coords="318,86,85" href="#cr-ation-des-h-ro--nes" alt="Création des Héros"/>
-  <area shape="circle" coords="555,86,85" href="#r-sum-de-la-saga" alt="Résumé de la saga"/>
-  <area shape="circle" coords="555,308,85" href="#le-pacte" alt="Établissement du Pacte"/>
-  <area shape="circle" coords="318,308,85" href="#jets-de-d-s" alt="Réalisation du Pacte"/>
-  <area shape="circle" coords="87,308,85" href="#sc-ne-finale" alt="Scène finale"/>
+  <area shape="circle" coords="87,86,85" href="#choix-dun-univers" alt="Choix d'un univers">
+  <area shape="circle" coords="318,86,85" href="#cr-ation-des-h-ro--nes" alt="Création des Héros">
+  <area shape="circle" coords="555,86,85" href="#r-sum-de-la-saga" alt="Résumé de la saga">
+  <area shape="circle" coords="555,308,85" href="#le-pacte" alt="Établissement du Pacte">
+  <area shape="circle" coords="318,308,85" href="#jets-de-d-s" alt="Réalisation du Pacte">
+  <area shape="circle" coords="87,308,85" href="#sc-ne-finale" alt="Scène finale">
 </map>
 
 <div class="web-only">Vous pouvez vous rendre aux sections correspondantes en cliquant sur les cercles ci-dessus.</div>
@@ -535,7 +535,7 @@ en complétant ce que le précédent vient de décrire.
 ::: page-break
 :::
 ## Sources & remerciements
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
 _Amères victoires & glorieuses défaites_ est un jeu de Lucas Cimon
 sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
@@ -768,13 +768,6 @@ img { max-width: 100%; max-height: 30rem; display: block; margin: 0 auto; break-
   position: fixed;
   bottom: 0;
   right: 0;
-}
-@page { /* Does not seem to work */
-  .version::after {
-    content: counter(page) " / " counter(pages);
-    counter-increment: page;
-    float: right;
-  }
 }
 .page-break { clear: both; page-break-after: always; }
 @media print {
