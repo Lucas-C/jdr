@@ -428,7 +428,7 @@ Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wi
 
 ## Licence & feedbacks
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-    <img class="float-left" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="img/cc-by-nc-sa.png"/>
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="img/cc-by-nc-sa.png">
 </a>
 
 Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.

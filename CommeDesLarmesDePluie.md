@@ -1,4 +1,14 @@
-<style type="text/css">body{margin:40px auto;max-width:650px;line-height:1.6;font-family: sans-serif;color:#444;padding:0 10px}h1,h2,h3{line-height:1.2}</style>
+<style>
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-family: sans-serif;
+  color: #444;
+  padding: 0 10px;
+}
+h1, h2, h3 { line-height: 1.2; }
+</style>
 
 http://www.tartofrez.com/gc2016-les-jeux/
 https://drive.google.com/file/d/0Bz2_fshi90NtQjFpWEhaMVpqcjg/view?usp=sharing

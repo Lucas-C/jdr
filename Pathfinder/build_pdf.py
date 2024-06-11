@@ -19,7 +19,7 @@ OUT_FILEPATH = DIR / "Pathfinder.pdf"
 def build_pdf():
     merger = PdfMerger()
     merger.append(character_sheet_pdf())
-    merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
+    merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr"))
     merger.write(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Pathfinder - Total Conversion",

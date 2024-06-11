@@ -1,4 +1,4 @@
-<img class="bg" src="BitD_bg-transparent-vertical.png">
+<img class="bg" src="BitD_bg-transparent-vertical.png" alt="">
 
 <img src="img/BitD-logo.svg" alt="Blades in the Dark" style="max-width: 14rem">
 
@@ -29,7 +29,7 @@ si l'occasion se présente et que vous vous sentez capable de tout improviser.
 
 Idéalement, un PJ peut avoir été **arrêté par les Manteaux Bleus** au terme de la session précédente.
 Si cette situation ne se présente pas spontannément, voici quelques manières d'amener l'interrogatoire d'un PJ :
-* dans une situation où les Manteaux Bleus ne paraissent pas au courant des activités illicites des PJs, il peut sembler à ces derniers plus prudent de « faire profil bas », coopérer et les suivre au poste pour une « entrevue de routine », plutôt que de déclencher un affrontement dans une situation à leur désavantage, risquant par exemple de révêler leur planque ou de trahir l'identité de l'un d'eux.
+* dans une situation où les Manteaux Bleus ne paraissent pas au courant des activités illicites des PJs, il peut sembler à ces derniers plus prudent de faire « profil bas », coopérer et les suivre au poste pour une « entrevue de routine », plutôt que de déclencher un affrontement dans une situation à leur désavantage, risquant par exemple de révêler leur planque ou de trahir l'identité de l'un d'eux.
 * un interrogatoire peut être une **conséquence** d'un PJ qui **sombre dans l'excès** après s'être adonné à son Vice, et qui provoque une rixe ou qui « parle trop » alors qu'un indic est présent...
 * lors d'une course-poursuite avec les Manteaux Bleus, la capture peut être une **conséquence** possible d'une fuite râtée, à laquelle un PJ ne peut **Résister** par manque de points de stress.
 * vous pouvez proposer l'interrogatoire comme une variation de l'**imbroglio** _Arrestation_, ou une alternative à l'activité de temps mort _Réduire le raffut_ : les forces de l'ordre ont des soupçons sur un PJ, si celui-ci accepte de venir au poste pour être interrogé, le Raffut de la bande sera **réduit de moitié**.
@@ -88,26 +88,25 @@ En bref, selon une stratégie « bon flic, méchant flic », sont rôle sera d'�
 <p class="page-break"></p>
 
 <br>
-<div class="float-right insert">
-<h3>Exemples d'infractions</h3>
-<p>Issues du code pénal de Doskvol :</p>
-<ul>
-  <li>association de malfaiteurs</li>
-  <li>conspiration ou insurrection contre l'Empereur Immortel</li>
-  <li>enlèvement ou séquestration</li>
-  <li>extorsion de biens ou d'informations</li>
-  <li>livraison d'information confidentielle à une puissance étrangère</li>
-  <li>meurtre, avec ou sans préméditation</li>
-  <li>outrage à un agent des institutions, à l'église ou à la noblesse</li>
-  <li>ouverture ou altération de la barrière électroplasmique protégeant la ville</li>
-  <li>promotion d'un culte interdit</li>
-  <li>recel</li>
-  <li>refus d'obtempérer à un ordre des forces de l'ordre</li>
-  <li>trafic de marchandises illégales</li>
-  <li>violation de domicile</li>
-  <li>vol</li>
-</ul>
-</div>
+
+::: insert float-right
+### Exemples d'infractions
+Issues du code pénal de Doskvol :
+* association de malfaiteurs
+* conspiration ou insurrection contre l'Empereur Immortel
+* enlèvement ou séquestration
+* extorsion de biens ou d'informations
+* livraison d'information confidentielle à une puissance étrangère
+* meurtre, avec ou sans préméditation
+* outrage à un agent des institutions, à l'église ou à la noblesse
+* ouverture ou altération de la barrière électroplasmique protégeant la ville
+* promotion d'un culte interdit
+* recel
+* refus d'obtempérer à un ordre des forces de l'ordre
+* trafic de marchandises illégales
+* violation de domicile
+* vol
+:::
 
 ### Leurs outils
 Afin d'obtenir les informations qu'il recherchent,
@@ -119,27 +118,36 @@ les Inspecteurs disposent des outils judiciaires traditionnels&nbsp;:
 * les Inspecteurs n'hesiteront pas à faire preuve de **violence**, tant verbale et physique, pour intimider les suspects.
 * dans la salle d'interrogatoire, un **gramophone enregistreur** leur permet d'enregistrer tout ce qui est dit.
 
-<img class="small float-left" src="img/phonograph-from-rawpixel-6287793-public-domain.svg" alt="Gramophone" style="margin-left: 20%">
-<br><br><br><br><br><br><br><br> <!-- 8rem -->
+<img class="size8 float-left" src="img/phonograph-from-rawpixel-6287793-public-domain.svg" alt="Gramophone" style="margin-left: 20%">
+<br><br><br><br><br><br><br><br> <!-- size8 => 8rem => 8 line breaks -->
+
+<br><br><br>
 
 À Doskvol, les Inspecteurs disposent aussi d'autres outils&nbsp;:
 * un attirail de potions et drogues **alchimiques**, dont notamment de l'_Étincelle_, du _Vif-Argent_ et des _Potions de Vision_,
   mais aussi du _Sérum de Véracité_ (IV/1, rare) capable de forcer un personnage à **répondre sans mentir** à 6 questions,
-  moins le dé le plus élevé du **jet de résistance** (Détermination).
-* les Inspecteurs peuvent parfois **ramener une victime d'entre les morts**, attacher temporairement son esprit à une **Coquille** pour qu'il témoigne, et ainsi confronter un suspect au témoignage d'un mort.
+  moins le dé le plus élevé d'un **jet de résistance** (Détermination).
 * ils peuvent employer un **Fantôme** pour **posséder un suspect**, et ainsi fouiller dans sa mémoire.
   Un **jet de résistance** (Détermination) sera nécessaire pour lutter contre l'emprise du spectre.
-
-Les Inspecteurs n'emploient en général cette dernière technique qu'en dernier recours,
-car il peut arriver que la possession tourne mal, conférant au suspect des capacités surnaturelles...
+  Les Inspecteurs n'emploient en général cette dernière technique qu'en dernier recours,
+  car il peut arriver que la possession tourne mal, conférant au suspect des capacités surnaturelles...
+* les Inspecteurs peuvent parfois **ramener une victime d'entre les morts**, attacher temporairement son esprit à une **Coquille**
+  pour qu'il témoigne, et ainsi confronter un suspect à la déposition d'un mort.
+  Ils emploient toujours la même enveloppe, un **automate** sans bras ni jambes,
+  attaché sur une chaise en bois, au visage inexpressif contrastant avec les lamentations de l'esprit prisonnier.
 
 <br>
+<img class="size12" src="img/TerribleCharacterPortraits-Cyberpunk-6.jpg" alt="Coquille">
+
+<p class="page-break"></p>
 
 ### Ce qu'ils savent déjà
+<img class="size13 float-right" src="img/BitD-Artworks-Indic-by-Tensei.jpg" alt="Indic">
+
 Le PJ suspect est en lien avec un ou plusieurs crimes, et il a été mentionné par des témoins ou des victimes.
 <u>Listez sur une feuille de papier</u> ce que les Inspecteurs savent ou soupçonnent déjà du PJ interrogé :
 * vices du PJ et éventuellement débordements passés associés
-* crimes qu'ils pour lesquels le PJ est suspecté
+* crimes pour lesquels le PJ est suspecté
 * autres activités illégales auxquelles le PJ ou sa bande ont pu être associés
 * **traces** qui ont été laissées par le PJ lors de ces méfaits :
     + objets abandonnés sur les lieux
@@ -148,23 +156,40 @@ Le PJ suspect est en lien avec un ou plusieurs crimes, et il a été mentionné 
 
 Cette dernière liste de **traces**, en particulier, constituera la matière principale des Inspecteurs pour essayer de piéger le PJ suspect, et lui soutirer des informations en le mettant face à ces contradictions.
 
-<p class="page-break"></p>
+<br>
 
 ## Les lieux
-Description du poste de guet / caserne
+Lorsque le PJ ciblé est arrêté pour être interrogé, il sera amené à un **poste du Guet de la Ville** à proximité.
+C'est l'occasion de fournir à vos joueurs une description des lieux qui rende compte du **sentiment d'oppression** qu'il dégage.
+Vous pouvez lire celle proposée ci-dessous, ou vous en inspirer pour concevoir votre propre décor.
 
-xxx TODO
+> Les Manteaux Bleux te mènent à travers la ville jusqu'à une caserne proche :
+> devant toi se dresse un grand édifice de pierre, amoncellement de plusieurs bâtiments accolés.
+> Le lieu semble être un ancien poste de douane fluvial, et se prolonge avec trois arches d'un pont en partie effondré,
+> mais toujours employé par le Guet pour amarer plusieurs embarcations.
+
+> Plusieurs gardes patrouillent sur les courtines de la caserne, arbalète à la main.
+> Toutes les fenêtres comportent des barreaux d'acier, et une herse est relevée à ton entrée dans la cour intérieure.
+> Dans l'enceinte de la caserne, les Manteaux Bleus te dévisagent d'un air sévère.
+> Une fois la herse redescendue derrière toi, ils te fouillent et déposent toutes tes possessions dans un grand sac en toile de jutte.
+
+> Tu es ensuite mené à travers un dédale de petits couloirs jusqu'à une cellule,
+> où l'on te demande d'attendre avant l'interrogatoire, sans te préciser combien de temps.
+> L'endroit est exigu, pue la pisse, et tu distingues des tâches de sang sur l'épais mur de grès.
+> Dans une cellule proche, un homme est prostré dans un coin, et sanglotte en marmonnant de manière incompréhensible.
+> Il semble avoir regressé au comportement d'un animal harassé, et gronde lorque tu croises son regard.
+
+<p class="page-break"></p>
 
 ## Déroulement de l'interrogatoire
-Si le PJ est venu  au poste contre son gré, par exemple car il a été _pris en flag_, il est entravé par des **menottes** dans le dos, attachées par une chaîne au sol.*
+::: info handcuffed
+Si le PJ est venu au poste contre son gré, par exemple car il a été _pris en flag_, il est entravé par des **menottes** dans le dos, attachées par une chaîne au sol.
+:::
 
 xxx TODO
 
 ### Tactiques des Inspecteurs
 xxx TODO
-
-<img class="full-page-width" src="img/angers-ma-01.jpg">
-<p class="page-break"></p>
 
 ### Sur le gril
 À ce moment, indiquez aux joueurs que vous allez jouer une séquence de pur _roleplay,
@@ -188,8 +213,15 @@ L'interrogatoire peut se terminer de plusieurs façons :
 
 4. le PJ peut tenter de **gagner du temps**, et d'**alerter** le reste de sa bande afin qu'elle le fasse s'évader, par la force ou par la ruse. À nouveau, tout cela peut se résoudre par des **jets d'Action**.
 
+Dès la description des lieux, les joueurs peuvent avoir envie de mettre les voiles,
+ce qui pourrait ruiner votre intention de mettre en scène un interrogatoire...
+C'est une autre bonne raison de jouer cartes sur table avec eux en amont,
+en leur partageant votre intention de jouer une scène de ce type,
+et s'ils évoquent cette envie d'évasion, en suggérant d'attendre jusqu'au premier entretien avec les Inspecteurs.
+
 ### Conséquences
-Quelle que soit la clôture de cette scène, les joueurs pourront avoir l'impression que « l'affaire est close », et même si l'interrogatoire était intense, que ses répercussions sont minimes...
+Quelle que soit la clôture de cette scène, les joueurs pourront avoir l'impression que l'affaire est close,
+et même si l'interrogatoire était intense, que ses répercussions sont minimes...
 
 Mais pour le MJ, les informations récoltées par les Manteaux Bleus constituent un terreau fertile pour de **futures menaces**.
 <u>Consignez par écrit</u> ce que les forces de l'ordre ont appris, et déterminez comment elles vont les exploiter, en définissant de nouveaux **compteurs de progression** d'événements à venir :
@@ -205,18 +237,37 @@ Selon votre style de jeu, vous conservez ces compteurs cachés, où les rendre l
 
 xxx TODO
 
-<img class="full-page-width" src="img/angers-ma-03.jpg">
-<p class="page-break"></p>
+::: info fingerprint
+Useful ?
+:::
+
+::: info guards
+Useful ?
+:::
+
+::: info hound
+Useful ?
+:::
+
+![](img/BitD-Artworks-FaceToFace-by-Tensei.jpg)
+
+![](img/BitD-Artworks-Inspector-by-Tensei.jpg)
+
+![](img/BitD-Artworks-Book-by-Tensei.jpg)
 
 <br>
 <a class="float-right" href="https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire">
-    <img class="medium" src="img/couverture-autodefense.webp">
+    <img class="size12" src="img/couverture-autodefense.webp" alt="Couverture du livre Petit manuel d'autodéfense en interrogatoire">
 </a>
 
 ## Remerciements
-Merci aux auteurs du [Petit manuel d'autodéfense en interrogatoiren, aux éditions du commun](https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire), qui m'a servi d'inspiration pour cette aide de jeu.
+Merci aux auteurs du [Petit manuel d'autodéfense en interrogatoire, aux éditions du commun](https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire), qui m'a servi d'inspiration pour cette aide de jeu.
 
-Merci à [Elliot Jolivet aka Tenseï](https://illutensei.com/bio) pour les illustrations employés dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_.
+Merci à [Elliot Jolivet aka Tenseï](https://illutensei.com/bio) pour les illustrations employés dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé sur le _thread_ [Reddit /bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
+
+L'illustration de la Coquille automate provient de la collection [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) de [Jeff Preston](http://team-preston.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Les illustrations de ville proviennent de tableaux du [parcours _Histoire d'Angers_ de son musée des Beaux-Arts](https://musees.angers.fr/lieux/musee-des-beaux-arts/).
 
 <!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
 
@@ -226,7 +277,7 @@ Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wi
 
 ## Licence & feedbacks
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="img/cc-by-nc-sa.png"/>
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="img/cc-by-nc-sa.png">
 </a>
 
 Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
@@ -238,8 +289,6 @@ Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c
 
 Je serais ravi d'avoir vos retours sur cette aide de jeu si vous l'employez.
 Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
-
-<img class="full-page-width" src="img/angers-ma-02.jpg">
 
 <!-- Com'
 

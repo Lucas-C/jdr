@@ -171,7 +171,7 @@ Blabla       | Blabla       | Blabla
 !!!include(character-sheet.html)!!!
 :::
 
-<style type="text/css">
+<style>
 body { line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
 h1, h2, h3 { line-height: 1.2; }
 h1 { text-align: center; }

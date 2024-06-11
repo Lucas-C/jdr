@@ -556,7 +556,7 @@ Le système est le même pour les Machines, sans besoin de simulateur.
 
 
 
-<style type="text/css">
+<style>
 body { max-width: 60rem; margin: 40px auto; line-height: 1.6; font-family: sans-serif; color: #444; padding:0 10px; text-align:justify; }
 h1, h2, h3 { line-height: 1.2; }
 blockquote { font-style: italic; border-left: 2px solid #eee; padding-left: 18px; }

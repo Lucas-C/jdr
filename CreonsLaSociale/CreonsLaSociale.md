@@ -422,7 +422,7 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 « Ce qui était vraiment nouveau en 1945, c’était l’idée de voir en grand, que la Sécurité sociale doit véritablement devenir un droit au sens fort du terme et que tous les Français doivent pouvoir en profiter. »
 -->
 
-<style type="text/css">
+<style>
 @import url("https://fonts.googleapis.com/css?family=Jost");
 body {
   max-width: 46rem;

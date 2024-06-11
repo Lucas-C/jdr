@@ -280,7 +280,7 @@ hôtel de ville, caserne de pompiers, cinéma, parc...
 
 
 ## Licence et sources
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 Il est dédié à [l'Absurde Séance](https://absurdeseance.fr) du cinéma Katorza, à Nantes.

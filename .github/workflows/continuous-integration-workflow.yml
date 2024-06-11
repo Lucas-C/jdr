@@ -48,10 +48,18 @@ jobs:
           echo "Rendering 2200_le_jugement_des_dieux"
           cd 2200_le_jugement_des_dieux
           node ../md2html.js 2200_le_jugement_des_dieux.md > index.html
-          node ../md2html.js 2200_the_gods_judgement.md > 2200_the_gods_judgement.html
+          node ../md2html.js --lang=en 2200_the_gods_judgement.md > 2200_the_gods_judgement.html
           if [[ $GIT_TAG =~ ^2200-le-jugement-des-dieux ]]; then
             ./gen_pdf.sh $GIT_TAG
           fi
+          cd -
+
+          echo "Rendering BladesInTheDark"
+          cd BladesInTheDark
+          if [[ $GIT_TAG =~ ^BladesInTheDark-v ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/BladesInTheDark-v/}/" BitD-Interrogatoires.md
+          fi
+          ./md2pdf.py
           cd -
 
           echo "Rendering CheatYourOwnAdventure"
@@ -216,15 +224,15 @@ jobs:
 
       - name: Statically checking generated HTML files 🔎
         run: |
-          wget https://github.com/htacg/tidy-html5/releases/download/5.4.0/tidy-5.4.0-64bit.deb
-          sudo dpkg -i --force-overwrite tidy-5.4.0-64bit.deb && rm tidy-5.4.0-64bit.deb
+          curl -ROLs https://github.com/validator/validator/releases/download/latest/vnu.linux.zip
+          unzip vnu.linux.zip
           for html_file in public/*.html public/*/*.html; do
             # We ignore versioned .html files:
             git ls-files --error-unmatch $html_file >/dev/null 2>&1 && continue
             # We ignore "partial" HTML files:
             grep -F '<html' $html_file >/dev/null || continue
-            echo Tidying $html_file
-            tidy -quiet -modify -config htmltidy.conf $html_file
+            echo Checking $html_file
+            vnu-runtime-image/bin/vnu --filterfile .vnurc --Werror --skip-non-html $html_file
           done
 
       - name: Deploy website 🚀

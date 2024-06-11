@@ -149,7 +149,7 @@ Selon comment le groupe des PJs, cette fiche peut servir de justification à ce 
 </figure>
 
 
-<style type="text/css">
+<style>
 @font-face {
   font-family: Cornerstone;
   src: url('fonts/Cornerstone.ttf') format('truetype');

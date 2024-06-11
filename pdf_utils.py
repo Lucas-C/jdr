@@ -6,6 +6,7 @@ from urllib.parse import quote
 from bs4.builder._htmlparser import HTMLParserTreeBuilder
 from bs4 import BeautifulSoup
 from mistletoe import markdown, HtmlRenderer
+from mistletoe.block_token import tokenize, BlockToken
 import pikepdf
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
@@ -23,13 +24,16 @@ ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE = re.compile(ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 
 
-def markdown2pdf(dir, md_filepath, css_filepath=None):
+def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
     with open(md_filepath, encoding="utf8") as md_file:
-        html = markdown(md_file.read(), renderer=CustomHtmlRenderer)
+        md_content = md_file.read()
+    md_content = handle_quotation_marks(md_content)
+    html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = add_id_attrs_on_headings(html)
+    lang_attr = f' lang="{lang}"' if lang else ''
     link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
     html_doc = f"""<!doctype html>
-<html>
+<html{lang_attr}>
     <head>
         <meta charset="utf-8">
         <title>JdR - Work-in-progress</title>
@@ -44,6 +48,13 @@ def markdown2pdf(dir, md_filepath, css_filepath=None):
     bytes_io = io.BytesIO()
     HTML(base_url=str(dir), string=html).write_pdf(bytes_io, stylesheets=[css], font_config=font_config)
     return bytes_io
+
+
+def handle_quotation_marks(md_content):
+    "Prevents line breaks before & after guillemets"
+    md_content = md_content.replace("« ", "«&nbsp;")
+    md_content = md_content.replace(" »", "&nbsp;»")
+    return md_content
 
 
 class MyTreeBuilder(HTMLParserTreeBuilder):
@@ -128,6 +139,13 @@ def watch_xreload_and_serve(module, root_dir, *files_to_watch):
 
 
 class CustomHtmlRenderer(HtmlRenderer):
+    def __init__(self):
+        super().__init__(TripleCommaDiv)
+
+    def render_triple_comma_div(self, token) -> str:
+        inner = self.render_inner(token)
+        return f'<div class="{token.classes}">{inner}</div>'
+
     # Does not insert align="left" attributes in table cells,
     # in order for TidyHTML not to produce: Warning: <td> attribute "align" not allowed for HTML5
     def render_table_cell(self, token, in_header=False) -> str:
@@ -142,6 +160,48 @@ class CustomHtmlRenderer(HtmlRenderer):
         attr = ' align="{}"'.format(align) if align else ''
         inner = self.render_inner(token)
         return template.format(tag=tag, attr=attr, inner=inner)
+
+
+class TripleCommaDiv(BlockToken):
+    """
+    Simple <div> block. (["::: class1 class2", ..., ":::"])
+    Block start is indicated by a line starting with at least three ":" characters.
+    Same for the block end.
+    The exact number of ":" characters does not matter at all.
+
+    This aims to be compliant / cover the same functionality as markdown-it-container:
+    https://www.npmjs.com/package/markdown-it-container
+
+    I shared this implementation there: https://github.com/miyuchina/mistletoe/issues/217
+
+    Attributes:
+        classes (str): CSS class names inserted in the "class" HTML attribute
+    """
+
+    @staticmethod
+    def start(line):
+        return line.startswith(":::")
+
+    @staticmethod
+    def read(lines):
+        first_line = next(lines)
+        classes = first_line.lstrip(":").strip()
+        level = 0
+        while first_line[3 + level] == ":":
+            level += 1
+        delimiter = ":" * (3 + level)
+        child_lines = []
+        for line in lines:
+            if line.startswith(delimiter) and line[len(delimiter)] != ":":
+                break
+            if line.startswith(":::"):
+                raise ValueError(f"Unexpected ':::' on line: '{line.rstrip()}' - Expected block end delimiter: {delimiter}")
+            child_lines.append(line)
+        children = tokenize(child_lines)
+        return classes, children
+
+    def __init__(self, match):
+        self.classes, self.children = match
 
 
 class CustomStaticFileHandler(StaticFileHandler):

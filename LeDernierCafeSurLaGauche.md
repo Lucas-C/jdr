@@ -56,7 +56,7 @@ Le Gardien peut intervenir quand il le souhaite, et doit faire en sorte qu'ils e
 Lorsque le Gardien est satisfait et décide que l'un d'eux « mérite » (pour quelque raison que ce soit) de revenir à la vie le jeu est terminé...
 et tous les autre embarquent pour leur destination finale vers la damnation.
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" ></a>
 
 <style>
 body {

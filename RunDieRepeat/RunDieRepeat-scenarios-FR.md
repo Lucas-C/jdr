@@ -92,7 +92,7 @@ La carte du labyrinthe a été réalisée avec [Tabletop RPG Map editor II de S�
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/RunDieRepeat).
 
-<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
 Ces scénarios sont publiés sous licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
@@ -570,7 +570,8 @@ window.matchMedia('print').addListener((mql) => { if (mql.matches) {
   timers[8].remove();
 }});
 </script>
-<style type="text/css">
+
+<style>
 @font-face { font-family: RajdhaniRegular; src: url('fonts/Rajdhani-Regular.ttf'); }
 @font-face { font-family: VanchromeRegular; src: url('fonts/Vanchrome-Regular.ttf'); }
 body {

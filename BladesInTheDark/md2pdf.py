@@ -10,14 +10,14 @@ from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 logging.getLogger("fontTools.subset").level = logging.WARN
 logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
-MD_FILEPATH = DIR / "BitD-Questioning.md"
+MD_FILEPATH = DIR / "BitD-Interrogatoires.md"
 CSS_FILEPATH = DIR / "style.css"
-OUT_FILEPATH = DIR / "BitD-Questioning.pdf"
+OUT_FILEPATH = DIR / "BitD-Interrogatoires.pdf"
 
 
 def build_pdf():
     with OUT_FILEPATH.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH).getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
     set_metadata(OUT_FILEPATH,
         title="Blades in the Dark - Interrogatoires",
         keywords=("jdr", "ttrpg", "blades in the dark", "roleplay", "aide de jeu"),

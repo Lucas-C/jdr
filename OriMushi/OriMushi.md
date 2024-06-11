@@ -171,7 +171,7 @@ une du doyen du village, une du troll-kappa, 8 de différents objets spéciaux, 
 -->
 
 ## Licence, sources & remerciements
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
 Cette aide de jeu _Ori Mushi_ a été conçue par [Lucas Cimon](https://chezsoi.org/lucas/blog/) en février 2020.
 Elle est placée sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
@@ -275,7 +275,7 @@ Chouettes illus non-CC :
 {{version}}
 :::
 
-<style type="text/css">
+<style>
 @font-face {
   font-family: Calibri;
   src: url('fonts/calibri.ttf');

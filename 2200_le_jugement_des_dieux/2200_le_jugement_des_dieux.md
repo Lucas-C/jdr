@@ -343,7 +343,7 @@ est découpée en phases d'accusation / défense, une par dieu face au Mortel :
 Les phases de Conciliabule & Prise à partie sont identiques.
 
 ### Licence et sources
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 Ce jeu a été conçu par Lucas Cimon et est sous licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). Version: 1.1.
 
 <img class="medium float-right" alt="Dame dans un suaire blanc à la lune noire" src="img/tensei-inktober2017-whitelady.jpg">
@@ -369,7 +369,7 @@ ainsi que les jeux de rôle Urban Armies et Le Dernier Café Sur la Droite.
 
 ::::
 
-<style type="text/css">
+<style>
 @font-face { font-family: HACKED; src: url('fonts/HACKED.ttf') format('truetype'); }
 
 body {

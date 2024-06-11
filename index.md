@@ -2,15 +2,17 @@ Mes créations de jeux de rôle hebergées ici
 (la plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 
-- [Amères Victoires & Glorieuses Défaites](gdav)
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
-- [Sombre : Lab Escape](Sombre/scenario/Sombre-LabEscape.pdf) - PDF 21 pages, 8 Mo
-- [Ori Mushi](OriMushi) - [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf)
-- [Les Non-morts](LesNonMorts)
-- [Vengeance Fatale 4D](VengeanceFatale4D)
 - [La Tour](latour)
-- [Scavengers: Anomalies nauchoresques](scavengers)
+- [Sombre : Lab Escape](Sombre/scenario/Sombre-LabEscape.pdf) - PDF 21 pages, 8 Mo
+- [BitD-Interrogatoires.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Interrogatoires.pdf), une aide de jeu pour _Blades in the Dark_
+- [ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/ParadisPerdu-ModulesDeSecours.pdf), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
+- [Amères Victoires & Glorieuses Défaites](gdav)
+- [Les Non-morts](LesNonMorts)
+- [Ori Mushi](OriMushi) & [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf)
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
+- [Scavengers: Anomalies nauchoresques](scavengers)
+- [Vengeance Fatale 4D](VengeanceFatale4D)
 
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
   * lien vers la traduction du jeu en français au bas de cette page

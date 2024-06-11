@@ -21,7 +21,7 @@ Once the effect applied, tick a [ ]. When all [ ] of an option are ticked, it ca
 The two first cells of the table bring complications for the players, while the last two bring advantages.
 
 ### License & sources
-<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a class="license" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 This expansion was created by Lucas Cimon and is under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
 If you use it in your session, please leave me a comment on [my blog](https://chezsoi.org/lucas/blog/dungeon-heart-heroes-and-spells.html).
