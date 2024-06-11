@@ -37,11 +37,7 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         if base_md_filename in ('LICENSE.md', 'README.md'):
             continue
         output_html_filepath = folder + '/index.html' if base_md_filename.replace('.md', '') == folder else md_filename.replace('.md', '.html')
-        args = ''
-        # Hack to please Nu HTML checker:
-        if base_md_filename == '2200_le_jugement_des_dieux.md':
-            args = '--lang=en '
-        cmd = shell('md2html ' + args + base_md_filename, cwd=cwd, output=output_html_filepath)
+        cmd = shell('md2html ' + base_md_filename, cwd=cwd, output=output_html_filepath)
         print('Watching', md_filename, '->', output_html_filepath, end='')
         if '--pdf' in sys.argv:
             output_pdf_filepath = md_filename.replace('.md', '.pdf')
