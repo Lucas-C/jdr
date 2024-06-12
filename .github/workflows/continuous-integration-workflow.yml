@@ -35,7 +35,7 @@ jobs:
         run: |
           npm install
           pip install -r requirements.txt
-          wget https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
+          wget -nv https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
 
       - name: Generating HTML pages 🏗️
         run: |
@@ -143,7 +143,9 @@ jobs:
           echo "Rendering ParadisPerdu"
           cd ParadisPerdu
           pip install qrcode && ./gen_qrcodes.py
-          wget https://www.misterfrankenstein.com/wordpress/wp-content/uploads/2021/05/Pack_AP_ParadisPerdu.zip && unzip Pack_AP_ParadisPerdu.zip && rm Pack_AP_ParadisPerdu.zip
+          wget -nv https://www.misterfrankenstein.com/wordpress/wp-content/uploads/2021/05/Pack_AP_ParadisPerdu.zip
+          unzip -q Pack_AP_ParadisPerdu.zip
+          rm Pack_AP_ParadisPerdu.zip
           if [[ $GIT_TAG =~ ^ParadisPerdu-v ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/ParadisPerdu-v/}/" README.md
           fi
