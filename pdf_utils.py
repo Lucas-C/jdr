@@ -27,7 +27,7 @@ ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE
 def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
     with open(md_filepath, encoding="utf8") as md_file:
         md_content = md_file.read()
-    md_content = handle_quotation_marks(md_content)
+    md_content = handle_ponctuation_whitespaces(md_content)
     html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = add_id_attrs_on_headings(html)
     lang_attr = f' lang="{lang}"' if lang else ''
@@ -50,8 +50,9 @@ def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
     return bytes_io
 
 
-def handle_quotation_marks(md_content):
+def handle_ponctuation_whitespaces(md_content):
     "Prevents line breaks before & after guillemets"
+    md_content = md_content.replace(" :", "&nbsp;:")
     md_content = md_content.replace("« ", "«&nbsp;")
     md_content = md_content.replace(" »", "&nbsp;»")
     return md_content
@@ -182,23 +183,29 @@ class TripleCommaDiv(BlockToken):
     def start(line):
         return line.startswith(":::")
 
-    @staticmethod
-    def read(lines):
+    @classmethod
+    def read(cls, lines):
         first_line = next(lines)
         classes = first_line.lstrip(":").strip()
-        level = 0
-        while first_line[3 + level] == ":":
-            level += 1
-        delimiter = ":" * (3 + level)
+        delimiter = cls._delimiter_from_line(first_line)
         child_lines = []
         for line in lines:
-            if line.startswith(delimiter) and line[len(delimiter)] != ":":
-                break
-            if line.startswith(":::"):
-                raise ValueError(f"Unexpected ':::' on line: '{line.rstrip()}' - Expected block end delimiter: {delimiter}")
+            if line.startswith(delimiter):
+                if line[len(delimiter)] != ":":
+                    # End block found:
+                    break
+                else:
+                    print(f"WARN: Unexpected longer delimiter: '{line.rstrip()}' - Expected block end delimiter: {delimiter}")
             child_lines.append(line)
         children = tokenize(child_lines)
         return classes, children
+
+    @staticmethod
+    def _delimiter_from_line(line):
+        level = 0
+        while line[3 + level] == ":":
+            level += 1
+        return ":" * (3 + level)
 
     def __init__(self, match):
         self.classes, self.children = match
