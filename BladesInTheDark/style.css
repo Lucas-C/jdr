@@ -25,6 +25,14 @@
   background-size: contain;
 }
 
+#tactique-5-la-mani-re-forte { page: p7; }
+@page p7 {
+  background-image: url(img/angers-ma-02.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 100.666%;
+  background-size: contain;
+}
+
 body {
   max-width: 40rem;
   margin: 0 auto;
@@ -34,11 +42,11 @@ body {
   /* border: green 1px solid; */
 }
 
-p { margin-top: .2rem; }
-h1 { font-family: "Kirsty"; font-size: 3rem; text-transform: uppercase; margin: 0; text-align: center; }
-h2 { font-family: "LinuxLibertineCapitals"; font-weight: bold; margin-bottom: 0; font-size: 1.7rem; }
-h3 { font-family: "LinuxLibertineCapitals"; font-weight: bold; margin-bottom: 0; font-size: 1.4rem; }
+h1 { margin: 0; font-size: 3rem;   font-family: "Kirsty"; text-transform: uppercase; text-align: center; }
+h2 { margin: 0; font-size: 1.7rem; font-family: "LinuxLibertineCapitals"; font-weight: bold; }
+h3 { margin: 0; font-size: 1.4rem; font-family: "LinuxLibertineCapitals"; font-weight: bold; }
 
+p { margin-top: .2rem; }
 a { color: #555; }
 blockquote { font-style: italic; margin-left: 0; padding-left: 1rem; }
 
@@ -51,7 +59,7 @@ ul ul { margin-top: .5rem; }
 ul ul li { list-style: "✚"; }
 ul ul li::marker { content: "✚ "; white-space: pre; }
 
-ol { list-style: none; padding-left: 0; margin-top: -.5rem; counter-reset: li; page-break-before: always; }
+ol { list-style: none; padding-left: 0; margin-top: -.5rem; counter-reset: li; }
 ol li { margin-bottom: .333rem; position: relative; counter-increment: li; clear: both; }
 ol li::before {
   content: counter(li);
@@ -93,6 +101,11 @@ img.size11 { max-width: 11rem; max-height: 11rem; }
 img.size12 { max-width: 12rem; max-height: 12rem; }
 img.size13 { max-width: 13rem; max-height: 13rem; }
 img.size14 { max-width: 14rem; max-height: 14rem; }
+img.size20 { max-width: 20rem; max-height: 20rem; }
+img.size21 { max-width: 21rem; max-height: 21rem; }
+img.size22 { max-width: 22rem; max-height: 22rem; }
+img.size23 { max-width: 23rem; max-height: 23rem; }
+img.size24 { max-width: 24rem; max-height: 24rem; }
 img.large  { max-width: 100%;  max-height: 25rem; }
 img.bg {
   position: fixed;
@@ -104,19 +117,23 @@ img.bg {
 }
 
 .insert {
-  max-width: 16rem;
+  max-width: 16.5rem;
   background-color: #d6dfdf;
   overflow: hidden;
 }
+.insert.large {
+  max-width: 38rem;
+  margin: 0 auto;
+}
 .insert > * {
+  z-index: 1; position: relative;
   padding-left: .5rem;
   padding-right: .5rem;
 }
-.insert h3 {
+.insert h2, .insert h3 {
   background-color: #08090a;
   color: white;
   font-family: "Kirsty";
-  font-size: 1rem;
   height: 2rem;
   line-height: 2rem;
   text-transform: uppercase;
@@ -124,7 +141,9 @@ img.bg {
   margin-bottom: .5rem;
   position: relative;
 }
-.insert h3::after {content: '';
+.insert h2 { font-size: 1.2rem; }
+.insert h3 { font-size: 1rem; }
+.insert h2::after, .insert h3::after {content: '';
   display: block;
   position: absolute;
   background-color: #d6dfdf;
@@ -135,32 +154,40 @@ img.bg {
   transform: rotate(45deg);
   /* border: magenta 1px solid; */
 }
-.insert ul {
-  margin-bottom: 0;
-}
+.insert p { margin-bottom: .5rem; }
+.insert ul { margin-top: initial; margin-bottom: 0; }
 
 .info {
   clear: both;
-  min-height: 2rem;
+  min-height: 3rem;
   margin: .5rem 0;
   font-style: italic;
+  display: flex;
+  align-items: center;
+}
+.info p {
+  margin: 0;
+  margin-left: 1rem;
+  margin-bottom: .2rem;
+  flex: 1 1;
 }
 .info::before {
   display: block;
-  width: 2rem;
-  height: 2rem;
-  float: left;
-  margin-right: 1rem;
+  width: 3rem;
+  flex: 0 0 3rem;
 }
+.info.despair::before { content: url('img/despair.svg'); }
 .info.fingerprint::before { content: url('img/fingerprint.svg'); }
-.info.guards::before { content: url('img/guards.svg'); }
 .info.handcuffed::before { content: url('img/handcuffed.svg'); }
 .info.hound::before { content: url('img/hound.svg'); }
+.info.magnifying-glass::before { content: url('img/magnifying-glass.svg'); }
 
 .float-left { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: 1rem; }
 
 .page-break { page-break-after: always; }
+
+.big { font-size: 1.2rem; }
 
 @media screen {
   body { margin-top: 3rem; }

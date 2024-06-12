@@ -11,6 +11,7 @@
 #    xreload
 import asyncio, io, logging, sys
 from pathlib import Path
+from time import perf_counter
 
 from fpdf import FPDF
 from fpdf.enums import Align
@@ -40,6 +41,7 @@ SCALE = .12  # mm / pixel
 
 
 def build_pdf():
+    start = perf_counter()
     merger = PdfMerger()
     merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
     merger.append(build_appendix_pdf())
@@ -49,7 +51,7 @@ def build_pdf():
         keywords=("jdr", "ttrpg", "sombre", "horror", "scenario"),
         description="Un scénario Sombre Zéro pour 3 à 5 joueurs, d'une durée d'environ 45min, dans un laboratoire envahi de zombies, avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.",
     )
-    print(f"{OUT_FILEPATH} has been rebuilt")
+    print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")
 
 
 def build_appendix_pdf():

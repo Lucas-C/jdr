@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import asyncio, io, logging, sys
 from pathlib import Path
+from time import perf_counter
 
 from fpdf import FPDF
 from pypdf import PdfMerger
@@ -17,6 +18,7 @@ OUT_FILEPATH = DIR / "Pathfinder.pdf"
 
 
 def build_pdf():
+    start = perf_counter()
     merger = PdfMerger()
     merger.append(character_sheet_pdf())
     merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr"))
@@ -26,7 +28,7 @@ def build_pdf():
         keywords=("jdr", "ttrpg", "pathfinder"),
         description="",
     )
-    print(f"{OUT_FILEPATH} has been rebuilt")
+    print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")
 
 
 def character_sheet_pdf():

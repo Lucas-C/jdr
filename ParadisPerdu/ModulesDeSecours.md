@@ -112,7 +112,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * durant les actes 2 & 3, peut fournir des **combinaisons spatiales**
 
-* **Objectifs** : initialement paniqué, Brett se reprendra après la tuerie initiale, et aidera 1D6+2 ouvriers à se barricader dans un petit hangar au niveau 10. Ensuite&nbsp;:
+* **Objectifs** : initialement paniqué, Brett se reprendra après la tuerie initiale, et aidera 1D6+2 ouvriers à se barricader dans un petit hangar au niveau 10. Ensuite :
     1. protéger les ouvriers, et s'armer pour se défendre
     2. trouver un vaisseau fonctionnel pour se tirer cette station
     3. fuir en embarquant un maximum d'ouvriers avec lui
@@ -217,14 +217,14 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * à l'acte 2 les PJs la croiseront avec 4 dockers rescapés, donc 2 avec exo-squelettes
 
-* **Objectifs** : durant les premières heures après l'attaque, elle s'efforcera de sécuriser une zone de repli au niveau 9, bien que l'androïde du poste de garde, armé, s'avère difficile à neutraliser. Ensuite&nbsp;:
+* **Objectifs** : durant les premières heures après l'attaque, elle s'efforcera de sécuriser une zone de repli au niveau 9, bien que l'androïde du poste de garde, armé, s'avère difficile à neutraliser. Ensuite :
     1. sauver et rassembler un maximum de dockers et manœuvres
     2. s'armer, lutter contre les androïdes et reprendre la station
     3. envoyer un SOS avec son récepteur
 
 * **Attitude** : elle sera ouverte à l'entraide avec des PJs combatifs ayant des objectifs compatibles. Elle provoquera des PJs trop passifs en les exortant à _« se sortir les doigts du trou noir »_. Prête à mettre sa vie propre vie en jeu.
 
-* **Roleplay** : s'exprime en phrases courtes, hachées, mordantes. Emploi de l'argot et du jargon de docker. Inspiration possible&nbsp;: _Camina Drummer_ dans _The Expanse_.
+* **Roleplay** : s'exprime en phrases courtes, hachées, mordantes. Emploi de l'argot et du jargon de docker. Inspiration possible : _Camina Drummer_ dans _The Expanse_.
 
 * **Mort probable** : tuée au combat par un androïde en fin d'acte 2, ou durant d'acte 3.
 
@@ -280,15 +280,15 @@ Si un PJ meurt, et qu'un joueur doit incarner un PNJ, procédez ainsi :
 
 
 ## Intro - Connivences
-D'expérience, il est intéressant d'avoir des raisons diégétiques pour que les personnages se face confiance, ou au moins aient un bon prétexte pour ouvrir la conversation&nbsp;: les PJs entre eux, mais aussi les PJs envers les PNJs.
+D'expérience, il est intéressant d'avoir des raisons diégétiques pour que les personnages se face confiance, ou au moins aient un bon prétexte pour ouvrir la conversation : les PJs entre eux, mais aussi les PJs envers les PNJs.
 
-Dans cette idée, voici donc un tableau de _Connivences_, des liens entre PJs / PNJs que vous pourrez découper, puis les faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez)&nbsp;:
+Dans cette idée, voici donc un tableau de _Connivences_, des liens entre PJs / PNJs que vous pourrez découper, puis les faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez) :
 
 Votre voisin de gauche vous semble familier... L'auriez-vous déjà croisé lors d'un précédent job ? | Votre voisin de droite est un parent éloigné, que vous n'aviez pas revu depuis l'enfance. | Le PJ du joueur en face de vous a une tête qui t'inspire confiance.
 -|-|-
-On dit que **Brett Bettany** est sur Terra Nova&nbsp;: tu l'as déjà croisé, c'est un ouvrier borné mais réglo. | On dit que **Kenneth O'Neil** est sur Terra Nova&nbsp;: tu l'as déjà croisé, c'est un marshal strict mais juste. | D'après les rumeurs, une nouvelle drogue de synthèse circulerait sur **Terra Nova**
-On dit que l'église de l'**Ascension** est présente sur Terra Nova&nbsp;: leur culte a sale réputation. | Tu as entendu dire que Terra Nova comporterait un **laboratoire secret** d'expérimentation. | D'après les rumeurs, ça chauffe sur **Cepheus**, entre la _Global Extraction Corporation_ et les colons.
-On dit qu'**Ellen Frost** est sur Terra Nova&nbsp;: c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranguer l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
+On dit que **Brett Bettany** est sur Terra Nova : tu l'as déjà croisé, c'est un ouvrier borné mais réglo. | On dit que **Kenneth O'Neil** est sur Terra Nova : tu l'as déjà croisé, c'est un marshal strict mais juste. | D'après les rumeurs, une nouvelle drogue de synthèse circulerait sur **Terra Nova**
+On dit que l'église de l'**Ascension** est présente sur Terra Nova : leur culte a sale réputation. | Tu as entendu dire que Terra Nova comporterait un **laboratoire secret** d'expérimentation. | D'après les rumeurs, ça chauffe sur **Cepheus**, entre la _Global Extraction Corporation_ et les colons.
+On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranguer l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
 
 
 ## Acte 1 - L'œil pour le détail
@@ -297,7 +297,7 @@ La table ci-dessous fournit quelques éléments pour étoffer les descriptions d
 
 Durant l'acte 1, quel que soit l'endroit où se situent les PJs dans Terra Nova, demandez leur un jet de **Percevoir (+ Observation)**.
 
-Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement ci-dessous correspondant à ce niveau de réussite, en déterminant un élement au hasard dans la liste avec 1D6. Barrez ensuite le résultat obtenu&nbsp;: s'il est tiré à nouveau lors d'un prochain jet, ignorez-le et passez au suivant.
+Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement ci-dessous correspondant à ce niveau de réussite, en déterminant un élement au hasard dans la liste avec 1D6. Barrez ensuite le résultat obtenu : s'il est tiré à nouveau lors d'un prochain jet, ignorez-le et passez au suivant.
 
 **1-2 réussites** :
 
@@ -311,13 +311,13 @@ Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement c
 
 5. Dans l'espace, on voit à travers un hublot deux dockers en combinaison intercepter adroitement un petit astéroïde et en **découper un morceau au cutter-plasma**. Les PJs pourront ensuite apprendre que cette opération avait pour but de récupérer du minerai précieux détecté dans cette météorite.
 
-6. Plus loin, une paroi rassemble plusieurs **graffitis**&nbsp;: _« L'Intergalactique sera le genre humain »_, _« Mort aux androïdes »_, _« Pour échapper à votre condition, rejoignez l'église de l'Ascension »_...
+6. Plus loin, une paroi rassemble plusieurs **graffitis** : _« L'Intergalactique sera le genre humain »_, _« Mort aux androïdes »_, _« Pour échapper à votre condition, rejoignez l'église de l'Ascension »_...
 
 **3+ réussites** :
 
 1. Des dockers **tabassent un androïde** prostré dans un coin. Libre au PJ d'intervenir où non. S'ils le font, les dockers s'en iront rapidement en grommelant.
 
-2. Un ouvrier fébrile apostrophe le PJ&nbsp;: _« Hé ! Tu me regardes depuis tout à l'heure&nbsp;: t'en veux ? 100 crédits les 10 doses. »_ Libre au PJ d'accepter ou non le deal ou de bavarder avec cet ouvrier, un grand maigrichon aux cheveux blancs noués en queue de cheval nommé **Curtis Oakes**. Celui-ci s'éloigne bien vite dès qu'il comprend qu'il n'a pas d'acheteur potentiel en face de lui.
+2. Un ouvrier fébrile apostrophe le PJ : _« Hé ! Tu me regardes depuis tout à l'heure : t'en veux ? 100 crédits les 10 doses. »_ Libre au PJ d'accepter ou non le deal ou de bavarder avec cet ouvrier, un grand maigrichon aux cheveux blancs noués en queue de cheval nommé **Curtis Oakes**. Celui-ci s'éloigne bien vite dès qu'il comprend qu'il n'a pas d'acheteur potentiel en face de lui.
 
 3. Dans un coin de la pièce / coursive, vous apercevez une **flaque de vomi**, avec des restes d'aliments mal digérés, notamment des haricots blancs, de la viande, ainsi que de petites gélules.
 
@@ -340,7 +340,7 @@ En tant qu'Admin, notez donc bien ce que les joueurs mentionnent comme lieux dan
 
 
 ## Acte 2 - Back to medbay
-Durant l'acte 2, je vous recommande d'infliger assez vites de sérieux dégâts aux PJs&nbsp;:
+Durant l'acte 2, je vous recommande d'infliger assez vites de sérieux dégâts aux PJs :
 
 * ils prendront ainsi pleinement conscience de la dangerosité de l'environnement
 * cela leur donnera une bonne raison de vouloir retourne au **cabinet médical** du niveau 5
@@ -416,7 +416,7 @@ Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possi
 
 
 ## Crédits & remerciements
-Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commons_&nbsp;:
+Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commons_ :
 
 * [Blade Runner](https://www.deviantart.com/fernand0fc/art/Blade-Runner-825143976), [Delivery](https://www.deviantart.com/fernand0fc/art/Delivery-802145258), [HAZMAT](https://www.deviantart.com/fernand0fc/art/HAZMAT-695221129) & [HeadShots](https://www.deviantart.com/fernand0fc/art/HeadShots-743989425) de Fernando Correa - [CC BY](https://creativecommons.org/licenses/by/3.0/)
 * [Helmet concepts](https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128) de Godstime Ojinmah - [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
@@ -424,7 +424,7 @@ Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commo
 
 <!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
 
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés&nbsp;: [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal). Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal). Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
 
 ## Licence & feedbacks
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">

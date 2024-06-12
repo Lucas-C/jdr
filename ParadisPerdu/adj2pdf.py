@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import asyncio, logging, sys
 from pathlib import Path
+from time import perf_counter
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
@@ -16,6 +17,7 @@ OUT_FILEPATH = DIR / "ParadisPerdu-ModulesDeSecours.pdf"
 
 
 def build_pdf():
+    start = perf_counter()
     with OUT_FILEPATH.open("wb") as out_pdf_file:
         out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
     set_metadata(OUT_FILEPATH,
@@ -23,7 +25,7 @@ def build_pdf():
         keywords=("jdr", "ttrpg", "aide de jeu", "sci-fi"),
         description="Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original de Yno.",
     )
-    print(f"{OUT_FILEPATH} has been rebuilt")
+    print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")
 
 
 # This conditional ensure that the code below
