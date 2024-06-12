@@ -12,7 +12,8 @@ Le manuel du jeu propose un **imbroglio** nommé _Interrogatoire_ :
 
 > Les Manteaux Bleus capturent l'un des PJ pour l'interroger sur les crimes de la bande. [...]
 > Les crapules comme vous passent leur temps à entrer et sortir de prison, à être interrogés et harcelés par les forces de l'ordre.
-> Ce n'est pas la fin du monde. Mais maintenant que vous êtes ici dans la salle d'interrogatoire,> quel genre de personne êtes-vous ? Est-ce que vous parlez ? Leur tenez-vous tête ? Est-ce que vous passez un marché ?
+> Ce n'est pas la fin du monde. Mais maintenant que vous êtes ici dans la salle d'interrogatoire,
+> quel genre de personne êtes-vous ? Est-ce que vous parlez ? Leur tenez-vous tête ? Est-ce que vous passez un marché ?
 
 Cette **aide de jeu** vous propose de développer ces scènes d'interrogatoire, pour en faire des moments cruciaux, où les PJs sont mis sous pression par les _Inspecteurs_, où ils ont beaucoup à perdre, et où la situation se résoudra par des moments de _roleplay_ mémorables.
 
@@ -28,17 +29,17 @@ Il est aussi possible de dérouler une telle séquence en cours de partie,
 si l'occasion se présente et que vous vous sentez capable de tout improviser.
 
 Idéalement, un PJ peut avoir été **arrêté par les Manteaux Bleus** au terme de la session précédente.
-Si cette situation ne se présente pas spontannément, voici quelques manières d'amener l'interrogatoire d'un PJ :
-* dans une situation où les Manteaux Bleus ne paraissent pas au courant des activités illicites des PJs, il peut sembler à ces derniers plus prudent de faire « profil bas », coopérer et les suivre au poste pour une « entrevue de routine », plutôt que de déclencher un affrontement dans une situation à leur désavantage, risquant par exemple de révêler leur planque ou de trahir l'identité de l'un d'eux.
+Si cette situation ne se présente pas spontanément, voici quelques manières d'amener l'interrogatoire d'un PJ :
+* dans une situation où les Manteaux Bleus ne paraissent pas au courant des activités illicites des PJs, il peut sembler à ces derniers plus prudent de faire « profil bas », coopérer et les suivre au poste pour une « entrevue de routine », plutôt que de déclencher un affrontement dans une situation à leur désavantage, risquant par exemple de révéler leur planque ou de trahir l'identité de l'un d'eux.
 * un interrogatoire peut être une **conséquence** d'un PJ qui **sombre dans l'excès** après s'être adonné à son Vice, et qui provoque une rixe ou qui « parle trop » alors qu'un indic est présent...
-* lors d'une course-poursuite avec les Manteaux Bleus, la capture peut être une **conséquence** possible d'une fuite râtée, à laquelle un PJ ne peut **Résister** par manque de points de stress.
+* lors d'une course-poursuite avec les Manteaux Bleus, la capture peut être une **conséquence** possible d'une fuite ratée, à laquelle un PJ ne peut **Résister** par manque de points de stress.
 * vous pouvez proposer l'interrogatoire comme une variation de l'**imbroglio** _Arrestation_, ou une alternative à l'activité de temps mort _Réduire le raffut_ : les forces de l'ordre ont des soupçons sur un PJ, si celui-ci accepte de venir au poste pour être interrogé, le Raffut de la bande sera **réduit de moitié**.
 * un contact de la bande chez les Manteau Bleus peut leur proposer **un marché** : leur livrer une information précieuse ou un objet issu de la salle des scellés, s'ils acceptent en échange qu'un PJ « se fasse capturer » par ce contact ripou, ce qui lui vaudra une prime, voir une promotion.
 
 <!-- Start of page 2 -->
 
 ## Préparatifs
-Afin de créer de la tension dramatique autour de la table, mieux vaut préparer l'interrogatoire, pour déstabiliser les joueurs et donner lieu à quelques beaux moments d'improvisation théatrale.
+Afin de créer de la tension dramatique autour de la table, mieux vaut préparer l'interrogatoire, pour déstabiliser les joueurs et donner lieu à quelques beaux moments d'improvisation théâtrale.
 
 <br><br>
 
@@ -113,9 +114,9 @@ Afin d'obtenir les informations qu'il recherchent,
 en plus des bâtiments et des Manteaux Bleus à leur disposition,
 les Inspecteurs disposent des outils judiciaires traditionnels :
 * le **réseau d'informateurs** des forces de l'ordre leur fournit une connaissance étendue des activités criminelles.
-* la menace de sevères **sanctions** prévues par le code pénal de Doskvol, incluant l'incarcération en pénitentier, les travaux forcés à perpetuité, ou même l'échafaud.
+* la menace de sévères **sanctions** prévues par le code pénal de Doskvol, incluant l'incarcération en pénitencier, les travaux forcés à perpétuité, ou même l'échafaud.
 * leur rôle de procureur leur permet de garder les suspects en **détention** aussi longtemps qu'ils le souhaitent.
-* les Inspecteurs n'hesiteront pas à faire preuve de **violence**, verbale et physique, pour intimider les suspects.
+* les Inspecteurs n’hésiteront pas à faire preuve de **violence**, verbale et physique, pour intimider les suspects.
 * dans la salle d'interrogatoire, un **gramophone enregistreur** leur permet d'enregistrer tout ce qui est dit.
 
 <img class="size8 float-left" src="img/phonograph-from-rawpixel-6287793-public-domain.svg" alt="Gramophone" style="margin-left: 20%">
@@ -167,38 +168,38 @@ Lorsque le PJ ciblé est arrêté pour être interrogé, il sera amené à un **
 C'est l'occasion de fournir à vos joueurs une description des lieux qui rende compte du **sentiment d'oppression** qu'il dégage.
 Vous pouvez lire celle proposée ci-dessous, ou vous en inspirer pour concevoir votre propre décor.
 
-> Les Manteaux Bleux te mènent à travers la ville jusqu'à une caserne proche :
+> Les Manteaux Bleus te mènent à travers la ville jusqu'à une caserne proche :
 > devant toi se dresse un grand édifice de pierre, amoncellement de plusieurs bâtiments accolés.
 > Le lieu semble être un ancien poste de douane fluvial, et se prolonge avec trois arches d'un pont en partie effondré,
-> mais toujours employé par le Guet pour amarer plusieurs embarcations.
+> mais toujours employé par le Guet pour amarrer plusieurs embarcations.
 
 > Plusieurs gardes patrouillent sur les courtines de la caserne, arbalète à la main.
 > Toutes les fenêtres comportent des barreaux d'acier, et une herse est relevée à ton entrée dans la cour intérieure.
 > Dans l'enceinte de la caserne, les Manteaux Bleus te dévisagent d'un air sévère.
-> Une fois la herse redescendue derrière toi, ils te fouillent et déposent toutes tes possessions dans un grand sac en toile de jutte.
+> Une fois la herse redescendue derrière toi, ils te fouillent et déposent toutes tes possessions dans un grand sac en toile de jute.
 
 > Tu es ensuite mené à travers un dédale de petits couloirs jusqu'à une cellule,
 > où l'on te demande d'attendre avant l'interrogatoire, sans te préciser combien de temps.
 > L'endroit est exigu, pue la pisse, et tu distingues des tâches de sang sur l'épais mur de grès.
-> Dans une cellule proche, un homme est prostré dans un coin, et sanglotte en marmonnant de manière incompréhensible.
-> Il semble avoir regressé au comportement d'un animal harassé, et gronde lorque tu croises son regard.
+> Dans une cellule proche, un homme est prostré dans un coin, et sanglote en marmonnant de manière incompréhensible.
+> Il semble avoir régressé au comportement d'un animal harassé, et gronde lorsque tu croises son regard.
 
 <br><br><br><br><br><br><br><br><br><br><br> <!-- a page break should occur there -->
 
 ## Sur le gril
 C'est parti !
 Indiquez aux joueurs que vous allez jouer une séquence de pur _roleplay_,
-en **temps réel** sans interruption ni apparté,
+en **temps réel** sans interruption ni aparté,
 et que pour créer une ambiance immersive, les commentaires hors-jeu sont à éviter jusqu'à la fin de la scène.
 
 L'interrogatoire commence au moment où des Manteaux Bleus viennent chercher le PJ dans sa cellule
 pour l'amener dans **la salle d'interrogatoire**.
-Les gardes sont vigilants, et armés de **bâtons paralysants electroplasmiques**.
+Les gardes sont vigilants, et armés de **bâtons paralysants électroplasmiques**.
 La salle d'interrogatoire est austère, et ne comporte qu'une table et deux chaises.
 
 ::: info handcuffed
 Si le PJ est venu au poste contre son gré, par exemple car il a été _pris en flag_, il est entravé par des **menottes** dans le dos.
-Une fois assis dans la salle d'interrogatoire, ces entraves sont rattachées à une chaîne métalique solidement fixée au sol.
+Une fois assis dans la salle d'interrogatoire, ces entraves sont rattachées à une chaîne métallique solidement fixée au sol.
 :::
 
 Pour plus d'immersion, il peut être intéressant de reproduire la même situation à la table de jeu :
@@ -234,7 +235,7 @@ Voici quelques pistes pour procéder durant cette introduction :
 
 <img class="size8 float-left" src="img/BitD-Artworks-Book-by-Tensei.jpg" alt="Livre">
 
-Durant cette première séquence, prennez des notes comme si vous rédigiez un rapport.
+Durant cette première séquence, prenez des notes comme si vous rédigiez un rapport.
 
 L'objectif est d'essayer de pousser le suspect à la **confession complice**,
 de lui délier la langue pour qu'il livre des informations qu'il croit être peu incriminantes,
@@ -248,17 +249,17 @@ L'Inspecteur principal introduit son collègue en quelques mots, paraissant dés
 
 Durant cette séquence, l'objectif est d'apparaître comme la **bouée de sauvetage** auprès du suspect,
 en étant rassurant, calme, presque bienveillant.
-C'est une sorte de ping-pong : lorsque le « méchant flic » a suffisement destabilisé le PJ interrogé,
+C'est une sorte de ping-pong : lorsque le « méchant flic » a suffisamment déstabilisé le PJ interrogé,
 l'Inspecteur principal reprend la main en tempérant : « Calmons-nous, calmons-nous. Allons monsieur, aidez-moi un peu à y voir clair et vous serez bientôt libéré ».
 
 Tout en continuant à jouer le « gentil flic », c'est le moment de diriger l'interrogatoire vers le vif du sujet
-et, petit à petit, de **questionner le PJ sur son implication** dans les différantes affaires où il est suspecté.
+et, petit à petit, de **questionner le PJ sur son implication** dans les différentes affaires où il est suspecté.
 
 <br>
 
 ::: insert float-left
 ### Les Inspecteurs mentent
-Comme dans la « vraie vie », les Inspecteurs de Doskvol ne sont absolument **pas** tenus de dire la vérité lors d'un interrogataire, bien qu'il s'agisse d'une croyance commune, car ils représentent l'ordre et l'authorité.
+Comme dans la « vraie vie », les Inspecteurs de Doskvol ne sont absolument **pas** tenus de dire la vérité lors d'un interrogatoire, bien qu'il s'agisse d'une croyance commune, car ils représentent l'ordre et l'autorité.
 
 Voici toutes leurs **fausses promesses** :
 * les objets qu'on t'a confisqué ne seront pas inspectés, et te seront rendus.
@@ -279,7 +280,7 @@ une part de complicité peut-être, un petit rôle secondaire dans certaines act
 
 > « Allez on sait bien tous les deux que tu n'es pas blanc comme neige. Concède moi un délit et on en reste là. ».
 
-L'Inspecteur principal abone également dans le sens du suspect et de sa bande,
+L'Inspecteur principal abonde également dans le sens du suspect et de sa bande,
 en exprimant qu'**il les comprend** tout à fait, qu'il a de la sympathie pour leur éthique, leurs principes,
 qu'au fond dans cette affaire **le responsable c'est quelqu'un d'autre** :
 au choix, selon l'affaire, cela peut être les institutions corrompues, la bêtise du peuple, la cupidité et le manque de fiabilité d'autres bandes, ou encore les collègues Manteaux Bleus incompétents.
@@ -301,11 +302,12 @@ C'est le moment pour l'Inspecteur principal de jouer la carte de la **bouée de 
 il demande à son comparse d'aller leur charger à boire, se rapproche du prévenu,
 et lui propose **un dernier marché**, au choix selon les circonstances :
 * le suspect **balance ses camarades**, tous les gros poissons de la bande, et il pourra quitter Doskvol libre.
-* le suspect **plonge seul**, il assume toutes les charges, et ses camarades ne seont pas inquiétés.
+* le suspect **plonge seul**, il assume toutes les charges, et ses camarades ne seront pas inquiétés.
 * le suspect reconnaît les faits, et signe son témoignage, mais l'Inspecteur conserve ça « au chaud », et le PJ devient un **indic** pour lui.
 
 ### Tactique 5. La manière forte
-À ce stade de l'interrogataire, les Inspecteurs estiment qu'ils ne tireront rien du suspect par la ruse et la discussion.Ils décident donc d'employer les **outils ésotériques** détaillés dans une section précédente :
+À ce stade de l’interrogatoire, les Inspecteurs estiment qu'ils ne tireront rien du suspect par la ruse et la discussion.
+Ils décident donc d'employer les **outils ésotériques** détaillés dans une section précédente :
 alchimie, possession par un Fantôme ou confrontation avec l'esprit d'une victime dans une Coquille.
 Deux de ces approches se résolvent avec un jet de résistance, la troisième vous laisse l'occasion de poursuivre le _roleplay_ :
 à vous déterminer ce qui semble le plus pertinent pour la scène à ce stade.
@@ -332,13 +334,13 @@ selon ce que vous estimez être le plus opportun pour rythmer cette scène.
 
 Ces intermèdes sont l'occasion de ramener le PJ suspect **dans sa cellule**.
 C'est aussi l'occasion de faire redescendre la tension autour de la table,
-de sortir de l'immersion théatralisée de l'interrogatoire,
+de sortir de l'immersion théâtralisée de l'interrogatoire,
 et de débriefer un peu si besoin avec tous les joueurs autour de la table.
 
 Enfin, ces instants dans la cellule sont l'occasion pour le PJ de tenter de s'évader,
 ou de contacter ses comparses à l'extérieur.
 Néanmoins, ses conditions de détention sont volontairement impropices au repos,
-et il ne pourra donc pas se reposer et récuper leurs points de **Stress**.
+et il ne pourra donc pas se reposer et récupérer leurs points de **Stress**.
 
 Si vous le souhaitez, la poursuite de l'interrogatoire peut ensuite se faire avec **un autre Inspecteur secondaire**,
 incarné par un autre joueur.
@@ -350,7 +352,7 @@ L'interrogatoire peut se conclure de plusieurs manières.
 
 1. le PJ peut être **libéré** : soit il a réussi à bluffer les Manteaux Bleus, soit ceux-ci préfèrent simplement le laisser partir pour qu'il ne se doute de rien, et préparer une descente plus ambitieuse, plus tard.
 
-2. le PJ peut être **mis en accusation**, et placé en détention jusqu'à son jugement, si suffisament d'éléments incriminants sont établis par les forces de l'ordre. Un **Coup** sera alors nécessaire pour le faire évader.
+2. le PJ peut être **mis en accusation**, et placé en détention jusqu'à son jugement, si suffisamment d'éléments incriminants sont établis par les forces de l'ordre. Un **Coup** sera alors nécessaire pour le faire évader.
 
 3. le PJ peut décider de tenter de **s'enfuir** : réalisez alors un **jet d'Action**.
   Selon la manière dont il s'y prend et le résultat du jet, le PJ peut alors se retrouver dans une course-poursuite à travers le poste de guet des Manteaux Bleus. À l'inverse, des **complications** peuvent survenir, comme son arrestation pour motif de _voie de fait contre un agent de la paix_. L'interrogatoire peut alors se poursuivre de manière plus musclée, ou bien le PJ peut directement être **incarcéré** en prison.
@@ -382,10 +384,10 @@ Mais pour le MJ, les informations récoltées par les Manteaux Bleus constituent
 <u>Consignez par écrit</u> ce que les forces de l'ordre ont appris, et déterminez comment elles vont les exploiter, en définissant de nouveaux **compteurs de progression** d'événements à venir :
 * **intimidation policière** : les Manteaux Bleus font le tour de tous les personnages alliés de la bande, en les secouant pour obtenir plus d'informations. Qui craquera ? Et que risquent-ils de révéler ?
 * **descente** : lourdement armées, les forces de l'ordre passent à l'assaut de l'un des repaires des PJs.
-* **la main dans le sac** : les Manteaux Bleus préparent un piège pour la bande, pour les épingler en flagrand délit d'activité criminelle.
+* **la main dans le sac** : les Manteaux Bleus préparent un piège pour la bande, pour les épingler en flagrant délit d'activité criminelle.
 * **arrestation** : les forces de l'ordre décident d'arrêter et de mettre en accusation un autre PJ, suite aux informations fournies par celui interrogé. Rien de tel pour semer le doute et la zizanie dans la bande !
 
-Selon votre style de jeu, vous conservez ces compteurs cachés, où les rendre leurs titres publics, sans révêler plus de détails... <span class="big">◔ ◑ ◕ ●</span>
+Selon votre style de jeu, vous conservez ces compteurs cachés, où les rendre leurs titres publics, sans révéler plus de détails... <span class="big">◔ ◑ ◕ ●</span>
 
 <img class="size21" src="img/BitD-Artworks-FaceToFace-by-Tensei.jpg" alt="Affrontement entre hommes armés">
 
@@ -395,7 +397,7 @@ Selon votre style de jeu, vous conservez ces compteurs cachés, où les rendre l
 ## Feuille d'Inspecteur en second
 Durant cette scène, ton nom est _____________.
 Tu es un jeune Inspecteur, récemment sorti de formation.
-Tu as la hargne, tu veux faire tes preuves, quitte à faire du zêle.
+Tu as la hargne, tu veux faire tes preuves, quitte à faire du zèle.
 
 Ton rôle sera d'aider l'Inspecteur principal a obtenir des informations du suspect interrogé.
 C'est lui qui mènera l'interrogatoire.
@@ -405,13 +407,14 @@ et de **mettre la pression** au suspect.
 Voici quelques tactiques pour y parvenir :
 * questionne le suspect sur des **sujets désagréables et inconfortables**.
 * **occupe l'espace** physique et sonore : gesticule, hausse la voix, interroge le suspect assis que tu surplombes du haut de ta taille et foudroie-le du regard, arpente sans cesse la pièce autour de lui...
-* **tape du poing** sur la table, braque la lampe sur le joueur interrrogé.
-* formule des **menaces** : de violences physiques, de répercutions sur ses proches, sur la durée de sa détention, sur les sanctions qu'il risque (incarcération en pénitentier, travaux forcés à perpetuité, échafaud...), etc.
-* **moque-toi** du supect, invective-le : « espèce de résidu fongique », « boucher sans âme », « corbeau de malheur », « tu pues la bidoche avariée », « escroc », « tu n'as aucune morale, je n'ai aucun respect pour les gens comme toi », « tu vas manger tes morts », etc.
+* **tape du poing** sur la table, braque la lampe sur le joueur interrogé.
+* formule des **menaces** : de violences physiques, de répercutions sur ses proches, sur la durée de sa détention, sur les sanctions qu'il risque (incarcération en pénitencier, travaux forcés à perpétuité, échafaud...), etc.
+* **moque-toi** du suspect, invective-le : « espèce de résidu fongique », « boucher sans âme », « corbeau de malheur », « tu pues la bidoche avariée », « escroc », « tu n'as aucune morale, je n'ai aucun respect pour les gens comme toi », « tu vas manger tes morts », etc.
 * **relève les contradictions** dans les propos du joueur, pour l'accuser ensuite de mentir, que ses mensonges trahissent sa culpabilité, que cela a été enregistré et que ce sera retenu contre lui devant les juges.
 
 ::: info hound
-En réalité, ton personnage n'est ni **impulsif**, ni **colérique**, ni **méprisant**.C'est une tactique que tu emploies sciemment pour permettre à ton partenaire,
+En réalité, ton personnage n'est ni **impulsif**, ni **colérique**, ni **méprisant**.
+C'est une tactique que tu emploies sciemment pour permettre à ton partenaire,
 l'Inspecteur principal, de recueillir des aveux du suspect.
 Il peut être utile de t'éclipser au bon moment, pour laisser place à ces confessions...
 :::
