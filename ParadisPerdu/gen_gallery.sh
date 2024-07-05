@@ -21,5 +21,5 @@ for dir in acte-1 acte-2 acte-3 persos; do
 done
 rmdir drmaxkurt
 
-# Génration de la galerie web :
+# Génération de la galerie web :
 sigal build

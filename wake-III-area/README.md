@@ -1,3 +1,8 @@
+<!--
+Idée : les PJs finissent par se rebeller contre les joueurs
+(inspirée de pYd8F4sflco / The Stanley Parabole)
+-->
+
 ## Notes from Game Engine Black Book
 > Invincibility mode in Doom is IDDQD on a qwerty keyboard but IDDAD on an azerty keyboard without the
 French driver loaded.

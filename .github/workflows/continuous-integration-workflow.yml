@@ -226,8 +226,8 @@ jobs:
 
       - name: Statically checking generated HTML files 🔎
         run: |
-          curl -ROLs https://github.com/validator/validator/releases/download/latest/vnu.linux.zip
-          unzip vnu.linux.zip
+          wget -nv https://github.com/validator/validator/releases/download/latest/vnu.linux.zip
+          unzip -q vnu.linux.zip
           for html_file in public/*.html public/*/*.html; do
             # We ignore versioned .html files:
             git ls-files --error-unmatch $html_file >/dev/null 2>&1 && continue

@@ -1,0 +1,97 @@
+@font-face { font-family: Coelacanth; src: url("fonts/Coelacanth.otf"); }
+@font-face { font-family: Coelacanth; src: url("fonts/CoelacanthBold.otf"); font-weight: bold; }
+@font-face { font-family: Coelacanth; src: url("fonts/CoelacanthItalic.otf"); font-style: italic; }
+
+@font-face { font-family: CoelacanthPearl; src: url("fonts/CoelacanthPearlBold.otf"); font-weight: bold; }
+
+@page {
+  margin: /*vertical=*/8mm /*horizontal=*/8mm;
+  padding: 2rem 0; /* Sets vertical space after a page break, before starting page content */
+  /* border: red 1px solid; */
+}
+
+body {
+  max-width: 40rem;
+  margin: 0 auto;
+  font-family: Coelacanth;
+  font-size: 1rem;
+  text-align: justify;
+  /* border: green 1px solid; */
+}
+
+h1 { font-size: 2.8rem; font-family: CoelacanthPearl; font-weight: bold;
+     text-align: center; margin-top: .5rem; margin-bottom: 3rem; }
+h2 { font-size: 1.8rem; font-family: CoelacanthPearl; font-weight: bold; margin-top: 2rem; margin-bottom: 1rem; }
+h3 { font-size: 1.4rem; font-family: CoelacanthPearl; font-weight: bold; margin-top: 2rem; margin-bottom: 1rem; }
+h2 + h3 { margin-top: 1rem; }
+
+p { margin-top: .2rem; }
+a { color: #555; }
+blockquote { font-size: 1.1rem; font-style: italic; margin-left: 0; padding-left: 1rem; }
+ol, ul { padding-left: 1.5rem; }
+/* WeasyPrint inserts <p> inside <li> elements: */
+ol li p { margin: 0; }
+
+img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
+img.size6  { max-width: 6rem;  max-height: 6rem; }
+img.size7  { max-width: 7rem;  max-height: 7rem; }
+img.size8  { max-width: 8rem;  max-height: 8rem; }
+img.size9  { max-width: 9rem;  max-height: 9rem; }
+img.size10 { max-width: 10rem; max-height: 10rem; }
+img.size11 { max-width: 11rem; max-height: 11rem; }
+img.size12 { max-width: 12rem; max-height: 12rem; }
+img.size13 { max-width: 13rem; max-height: 13rem; }
+img.size14 { max-width: 14rem; max-height: 14rem; }
+img.size20 { max-width: 20rem; max-height: 20rem; }
+img.size21 { max-width: 21rem; max-height: 21rem; }
+img.size22 { max-width: 22rem; max-height: 22rem; }
+img.size23 { max-width: 23rem; max-height: 23rem; }
+img.size24 { max-width: 24rem; max-height: 24rem; }
+img.large  { max-width: 100%;  max-height: 25rem; }
+img.bg {
+  position: fixed;
+  top: -2rem; /* = negative of page.padding */
+  left: 0;
+  min-width: 100%;
+  min-height: 107%; /* ~ calc(100% + 2rem) */
+  z-index: -1;
+}
+
+.conditions li {
+  float: left; margin: 0 1rem;
+  font-size: .8rem; font-weight: bold; text-transform: uppercase;
+}
+.conditions li:first-of-type { padding-left: 1rem; }
+.conditions li::marker { content: "☐"; font-size: 1.5rem; line-height: .666; }
+.conditions ul:after { content: "\a"; white-space: pre; }
+
+.goals p { font-weight: bold; margin-bottom: .5rem; }
+.goals ol { margin-top: 0; }
+.goals ol li { float: left; padding-left: 1rem; }
+.goals ol:after { content: "\a\a\a"; white-space: pre; }
+
+.info {
+  clear: both;
+  min-height: 3rem;
+  margin: .5rem 0;
+}
+.info::before {
+  width: 3rem;
+  float: left;
+  margin-top: .5rem;
+}
+.info > * {
+  margin: 0;
+  margin-left: 3.5rem;
+  margin-bottom: .2rem;
+}
+.info.think::before { content: url('img/think.svg'); }
+
+.float-left { float: left; margin-right: 1rem; }
+.float-right { float: right; margin-left: 1rem; }
+
+.page-break { page-break-after: always; }
+
+@media print {
+  .web-only { display: none; }
+}

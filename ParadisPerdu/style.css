@@ -28,12 +28,26 @@ footer {
 }
 
 body { font-family: DINPro; text-align: justify; max-width: 42rem; margin: 0 auto; }
+
 h1 { font-family: Ailerons; text-align: center; font-size: 3.3rem; text-transform: uppercase; margin: 0; }
 h2 { font-family: DINPro-Black; font-size: 1.3rem; text-transform: uppercase; margin-top: 3rem; }
 h3 { font-family: DINPro-Black; font-size: 1.15rem; }
-blockquote { font-family: DINCondensed; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 
 a { color: #1e3c8f; }
+/* hr { margin: .5rem auto 0; width: 15rem; border: 1px solid #4c6cca; } */
+hr {
+  width: 16rem;
+  height: .35rem;
+  margin-bottom: 0;
+  border: none;
+  background-image: url("gui/sci-fi-border-02.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+}
+blockquote { font-family: DINCondensed; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
+li { margin: 1rem; }
 
 table {
   border-collapse: collapse;
@@ -55,17 +69,67 @@ tr:nth-child(3) > td:nth-child(3) { border: none; }
 
 table.terminal-card { width: 50%; margin: auto; }
 
-.float-left { float: left; margin-right: .5rem; }
+.float-left { float: left; margin-right: 1rem; }
+.float-right { float: right; margin-left: 1rem; }
 
 img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
-img.large { max-width: 100%; max-height: 25rem; }
-img.medium { max-width: 12rem; max-height: 12rem; }
-img.small { max-width: 8rem; max-height: 8rem; }
+img.size6   { max-width: 6rem;  max-height: 6rem; }
+img.size7   { max-width: 7rem;  max-height: 7rem; }
+img.size8   { max-width: 8rem;  max-height: 8rem; }
+img.size9   { max-width: 9rem;  max-height: 9rem; }
+img.size10  { max-width: 10rem; max-height: 10rem; }
+img.size11  { max-width: 11rem; max-height: 11rem; }
+img.size12  { max-width: 12rem; max-height: 12rem; }
+img.size13  { max-width: 13rem; max-height: 13rem; }
+img.size14  { max-width: 14rem; max-height: 14rem; }
+img.size20  { max-width: 20rem; max-height: 20rem; }
+img.size21  { max-width: 21rem; max-height: 21rem; }
+img.size22  { max-width: 22rem; max-height: 22rem; }
+img.size23  { max-width: 23rem; max-height: 23rem; }
+img.size24  { max-width: 24rem; max-height: 24rem; }
+img.size26  { max-width: 26rem; max-height: 26rem; }
+img.large   { max-width: 100%;  max-height: 25rem; }
+img.stretch { max-width: 20rem; width: 20rem; height: 10rem; }
 
-.pnj { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }
+img.between-dots {
+  border-top: 2px solid #4c6cca;
+  border-bottom: 2px solid #4c6cca;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+
+.block-center { margin: 0 auto; }
 
 .side-by-side { text-align: center; }
 .side-by-side > * { display: inline-block; }
+
+.page-break { page-break-after: always; }
+
+.insert {
+  background-size: contain;
+  background-repeat: no-repeat;
+  max-width: 14rem;
+  padding: 2rem;
+  font-size: .9rem;
+  break-inside: avoid;
+}
+.insert p { line-height: 1.4; margin: 0 1rem; }
+.sf-bg-01 {
+  background-image: url("gui/sf-bg-frame-01.png");
+  max-width: 22rem;
+  padding: 3rem 2rem 2rem 2rem;
+}
+.sf-bg-02 {
+  background-image: url("gui/sf-bg-frame-02.png");
+  max-width: 16rem;
+  padding: 3rem 2rem 2rem 2.5rem;
+}
+.sf-bg-03 {
+  background-image: url("gui/sf-bg-frame-03.png");
+  padding: 3rem 2rem 2rem .75rem;
+}
+
+.pnj { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }
 
 @media print {
   .web-only { display: none; }
