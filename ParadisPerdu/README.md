@@ -22,7 +22,7 @@ pip install mistletoe weasyprint
 
 Pour télécharger et afficher ces albums dans une galerie web locale avec [Sigal](http://sigal.saimon.org/en/latest/), qui intègre notamment un mode diaporama :
 ```
-./build.sh
+./gen_gallery.sh
 sigal serve --browser
 ```
 

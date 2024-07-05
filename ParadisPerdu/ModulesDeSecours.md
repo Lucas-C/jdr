@@ -1,12 +1,14 @@
 # Paradis Perdu
 # Modules de secours
 
-<!--br><br><br>
-<img class="large" alt="" src="">
-<br><br-->
+<br><br><br>
+<img class="size16" alt="The Expanse" src="img/TheExpanse.webp">
+<br><br>
 
 Ceci est une aide de jeu pour [Paradis Perdu](https://www.misterfrankenstein.com/wordpress/?p=5388), un excellent jeu de rôle « Nuit Blanche » d'Anthony "Yno" Combrexelles.
 Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base.
+
+<br>
 
 ### Sommaire
 
@@ -95,6 +97,11 @@ Cette seconde version du terminal comporte plusieurs changements :
 * la commande `audit` indique de très importants **dysfonctionnements des systèmes**, notamment des communications avec Cepheus, des communications spatiales et du réseau des androïdes.
 * de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes. Notamment **Ellen Frost** qui demande de l'aide alors que la dépressurisation du niveau 9 est en cours. Il y a également un message crypté de **La Sécurité** informant de son intervention imminente.
 
+::: insert sf-bg-03 block-center
+Cher lecteur programmeur qui souhaiterait bidouiller ces terminaux,
+leur code source est disponible sur GitHub : [email_terminal](https://github.com/jacksonbenete/email_terminal), branches [acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2) de [mon fork](https://github.com/Lucas-C/email_terminal).
+:::
+
 
 ## PNJs
 En complément des informations données dans le scénario, cette section propose quelques éléments supplémentaires pour jouer les PNJs, en détaillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la manière la plus probable dont ils décèderont, et un conseil sur comment interprêter théâtralement chaque personnage. Je me suis inspirés pour ce dernier point de l'article [_Comment interpréter les traits distinctifs des PNJ_ de James Introcaso, traduit sur ptgptb.fr](https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj).
@@ -110,7 +117,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * a connaissance d'**une arme de contrebande (fusil à pompe) planquée au niveau 4**, dans un recycleur.
 
-* durant les actes 2 & 3, peut fournir des **combinaisons spatiales**
+* durant les actes 2 & 3, peut fournir des **combinaisons spatiales**.
 
 * **Objectifs** : initialement paniqué, Brett se reprendra après la tuerie initiale, et aidera 1D6+2 ouvriers à se barricader dans un petit hangar au niveau 10. Ensuite :
     1. protéger les ouvriers, et s'armer pour se défendre
@@ -274,7 +281,7 @@ Là où le scénario détaille parfaitement les actions de Watters, le culte et 
 Si un PJ meurt, et qu'un joueur doit incarner un PNJ, procédez ainsi :
 * définissez ses valeurs d'Adrénaline et de Santé, selon ce qu'il a déjà traversé.
 * transmettez au joueur tout ce que le PNJ sait des événements, et les informations qui le concerne dans cette aide de jeu
-* laissez-le choisir ses objectifs, en cohérence abvec le personnage
+* laissez-le choisir ses objectifs, en cohérence avec le personnage
 * laissez-le répartir 35 points dans ses **Aptitudes**
 * laissez le joueur choisir 3 **Spécialités** à +1R, et une Spécialités à +2R, parmi celles listées pages 82 & 84
 
@@ -282,7 +289,7 @@ Si un PJ meurt, et qu'un joueur doit incarner un PNJ, procédez ainsi :
 ## Intro - Connivences
 D'expérience, il est intéressant d'avoir des raisons diégétiques pour que les personnages se face confiance, ou au moins aient un bon prétexte pour ouvrir la conversation : les PJs entre eux, mais aussi les PJs envers les PNJs.
 
-Dans cette idée, voici donc un tableau de _Connivences_, des liens entre PJs / PNJs que vous pourrez découper, puis les faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez) :
+Dans cette optique, voici donc un tableau de _Connivences_, des liens entre PJs / PNJs que vous pourrez découper, puis les faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez) :
 
 Votre voisin de gauche vous semble familier... L'auriez-vous déjà croisé lors d'un précédent job ? | Votre voisin de droite est un parent éloigné, que vous n'aviez pas revu depuis l'enfance. | Le PJ du joueur en face de vous a une tête qui t'inspire confiance.
 -|-|-
@@ -329,7 +336,7 @@ Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement c
 
 
 ## Acte 2 - Big brother is watching you
-<img alt="Crouching android" src="img/CrouchingAndroid.jpg" class="medium float-left">
+<img alt="Crouching android" src="img/CrouchingAndroid.jpg" class="size12 float-left">
 
 Bien que les **CommLinks** continuent à fonctionner après l'attaque des androïdes, depuis la salle réseau **Cory 3 écoute tous les appels** passés à travers la station.
 
@@ -355,7 +362,7 @@ Cette scène vise à mettre les PJs face à un dilemne moral : **de quel PNJ sau
 
 * les PJs arrivent au **niveau 3**
 * **Daryl** s'y trouve, dans le laboratoire
-* **Cotton** est déjà sur place, dans la salle d'analyse, ou elle accompagne les PJs et s'y précipite en arrivant, via le sas
+* **Cotton** est déjà sur place, dans la salle d'analyse, ou bien elle accompagne les PJs et s'y précipite en arrivant, via le sas
 
 **Disposition des lieux** :
 
@@ -366,29 +373,37 @@ Cette scène vise à mettre les PJs face à un dilemne moral : **de quel PNJ sau
 Au début, laissez les PJs explorer les lieux, plus ou moins prudemment.
 Ils ne doivent pas s'en douter, mais aucun danger ne les attend initiallement.
 
-**Sullivan** sera probablement heureux de retrouver Daryl.
+**Sullivan** sera probablement heureux de **retrouver Daryl**.
 Celui-ci est soulagé de voir les PJs, et reprend espoir.
-Rapidement, il explique qu'il va récupère ses prothèses de jambes pour pouvoir les accompagner.
-Il se dirige alors vers le sas, où il commence à fouiller parmi les caisses entreposées.
+Rapidement, il exprime son intention de récupèrer ses prothèses de jambes pour pouvoir les accompagner.
+Il **se rend alors dans le sas**, où il commence à fouiller parmi les caisses entreposées.
 Il se déplace en rampant, mais refuse toute aide.
 
-De son côté, Cotton en train de récupérer un maximum de données et d'échantillons précieux, et déclenche également en secret un début d'incendie.
-À ce moment là, 5 androïdes vont faire leur apparition.
-La réussite d'un jet de **Percevoir (+ Observation)** permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront pas le temps de prévenir ou de rejoindre Daryl dans le sas.
+De son côté, Cotton récupère un maximum de données et d'échantillons précieux.
+Elle déclenche également **un début d'incendie**, volontairement et secrètement.
+
+<img class="size26 float-right" alt="Androïde Cory 3" src="img/Cory3.jpg">
+
+À ce moment là, **5 androïdes font leur apparition**, débarquant à la suite des PJs à l'entrée du laboratoire.
+La réussite d'un jet de **Percevoir (+ Observation)** permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront **pas le temps de prévenir ou de rejoindre Daryl** dans le sas.
 
 Si les PJs sont trop combatifs et envisagent de leur faire face, indiquez que ces robots se sont **blindés** en soudant des plaques de métal sur leurs membres : torse, jambes, bras.
 Cela les rend plus difficile à **Viser** (difficulté 3), et **réduit de 1 les dégâts au contact**.
+L'idée est d'inciter les PJs **à fuir ou à se cacher** initiallement.
 
-L'idée est d'inciter les PJs à fuir ou se cacher initiallement.
 Une fois dans le laboratoire, les androïdes entendent du bruit dans le sas et s'y dirigent immédiatement.
-Daryl se planque dans une petite caisse et échappe initiallement à leur vigilance,
-et les robots repèrent la présence de Cotton dans la salle d'analyse.
-Comme celle-ci a bloqué la porte de son côté, ils commencent à la défoncer.
+Daryl se planque dans une petite caisse au pied de la porte extérieure du sas,
+et échappe initiallement à leur vigilance.
+Les robots repèrent alors la présence de Cotton dans la salle d'analyse.
+Comme celle-ci a verouillé l'accès de son côté, ils commencent à **défoncer la porte**.
 
-Les PJs peuvent suivre tout ce qui se passe en direct, y compris l'incendie qui se propage dans la salle d'analyse, et Cotton à l'intérieur, face à la caméra, qui leur fait de grands gestes d'appel à l'aide.
+Les PJs peuvent suivre tout ce qui se passe en direct via les caméras retransmies sur les écrans,
+y compris l'incendie qui se propage dans la salle d'analyse,
+et Cotton à l'intérieur, face à la caméra, qui leur fait de grands gestes d'appel à l'aide.
 
-Dites aux joueurs qu'ils ont moins d'une minute pour réagir.
-Si besoin, soufflez-leur que là où sont les PJs, ils accès aux commandes du sas...
+Dites aux joueurs qu'ils doivent **réagir dans la minute**.
+Si besoin, soufflez-leur que là où sont les PJs, ils ont accès aux **commandes du sas**...
+Mais si celui-ci est dépressurisé, Daryl risque d'être aspiré...
 
 
 ## Acte ...
@@ -401,21 +416,40 @@ Continue à jouer ton personnage, mais lorsque l'Admin (TODO)
 
 Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possible
 
-![The Expanse](img/TheExpanse.webp)
+<hr>
 
-<img class="large" alt="Androïde Cory 3" src="img/Cory3.jpg">
+<p class="page-break"></p>
 
-![](img/girl-with-gun.jpg)
+## Some heading
+<img style="margin-left: 0; margin-top: -1rem" alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg">
 <!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
 
-![Donnager spaceship from The Expanse](img/TheExpanse-Donnager-by-7-X-cc-by.webp)
+<img class="stretch" alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp">
 
 <img alt="" src="img/delivery_by_fernand0fc_bw_cc-by.jpg">
 
-<img class="small" alt="Dead Spacer 2 Avatar by bmanhall" src="img/dead_space_2_avatar_by_bmanhall_eroded.png">
+<img class="size8" alt="Dead Spacer 2 Avatar by bmanhall" src="img/dead_space_2_avatar_by_bmanhall_eroded.png">
+
+<br>
+
+::: insert sf-bg-01
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+<br>
+
+::: insert sf-bg-02
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+<br>
+
+::: insert sf-bg-03
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+:::
 
 
-## Crédits & remerciements
+## Remerciements
 Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commons_ :
 
 * [Blade Runner](https://www.deviantart.com/fernand0fc/art/Blade-Runner-825143976), [Delivery](https://www.deviantart.com/fernand0fc/art/Delivery-802145258), [HAZMAT](https://www.deviantart.com/fernand0fc/art/HAZMAT-695221129) & [HeadShots](https://www.deviantart.com/fernand0fc/art/HeadShots-743989425) de Fernando Correa - [CC BY](https://creativecommons.org/licenses/by/3.0/)
@@ -433,13 +467,12 @@ Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wi
 
 Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
 
-Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu). Version : 1.0
+Les fichiers sources pour générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu). Version : 1.0
 
 Cette aide de jeu est diffusée à prix libre.
 Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
-
-Je serais ravi d'avoir vos retours sur cette aide de jeu si vous l'employez.
-Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+Je serais ravi d'avoir vos retours si vous l'employez :
+racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
 <!--
 Design goals:
@@ -450,7 +483,6 @@ Design goals:
 * forcer les joueurs à faire des choix cornéliens, aux conséquences palpables
 * amener des éléments d'intrigue supplémentaires dans l'acte 1 qui seront exploitées lors des actes suivants
 * donner le sentiment aux joueurs qu'ils risquent leur peau à tout instant dans les actes 2 & 3
-  -> 
 * ne pas rallonger la durée de partie excessivement
 
 Séquence de filtres Gimp employés :
