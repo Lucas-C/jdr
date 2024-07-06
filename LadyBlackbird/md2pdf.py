@@ -11,9 +11,9 @@ from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 logging.getLogger("fontTools.subset").level = logging.WARN
 logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
-MD_FILEPATH = DIR / "LadyBlackbird-ContesDuBleuSauvage.md"
+MD_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.md"
 CSS_FILEPATH = DIR / "style.css"
-OUT_FILEPATH = DIR / "LadyBlackbird-ContesDuBleuSauvage.pdf"
+OUT_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.pdf"
 
 
 def build_pdf():
