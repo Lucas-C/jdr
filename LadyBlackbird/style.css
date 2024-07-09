@@ -46,21 +46,22 @@ u { text-decoration: none; text-transform: uppercase; font-size: .8rem; }
 
 img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
 img.size6  { max-width: 6rem;  max-height: 6rem; }
-img.size7  { max-width: 7rem;  max-height: 7rem; }
 img.size8  { max-width: 8rem;  max-height: 8rem; }
-img.size9  { max-width: 9rem;  max-height: 9rem; }
 img.size10 { max-width: 10rem; max-height: 10rem; }
-img.size11 { max-width: 11rem; max-height: 11rem; }
 img.size12 { max-width: 12rem; max-height: 12rem; }
-img.size13 { max-width: 13rem; max-height: 13rem; }
 img.size14 { max-width: 14rem; max-height: 14rem; }
+img.size16 { max-width: 16rem; max-height: 16rem; }
+img.size18 { max-width: 18rem; max-height: 18rem; }
 img.size20 { max-width: 20rem; max-height: 20rem; }
 img.size21 { max-width: 21rem; max-height: 21rem; }
 img.size22 { max-width: 22rem; max-height: 22rem; }
-img.size23 { max-width: 23rem; max-height: 23rem; }
 img.size24 { max-width: 24rem; max-height: 24rem; }
 img.size26 { max-width: 26rem; max-height: 26rem; }
 img.size28 { max-width: 28rem; max-height: 28rem; }
+img.size30 { max-width: 30rem; max-height: 30rem; }
+img.size32 { max-width: 32rem; max-height: 32rem; }
+img.size34 { max-width: 34rem; max-height: 34rem; }
+img.size36 { max-width: 36rem; max-height: 36rem; }
 img.large  { max-width: 100%;  max-height: 25rem; }
 img.bg {
   position: fixed;
@@ -104,7 +105,8 @@ img.bg {
 .float-left { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: 1rem; }
 
-.page-break { page-break-after: always; }
+.page-break-before { page-break-before: always; }
+.page-break-after { page-break-after: always; }
 
 @media print {
   .web-only { display: none; }
