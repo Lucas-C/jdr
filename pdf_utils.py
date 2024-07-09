@@ -60,7 +60,7 @@ def handle_ponctuation_whitespaces(md_content):
 
 class MyTreeBuilder(HTMLParserTreeBuilder):
     # Recipe from: https://bugs.launchpad.net/beautifulsoup/+bug/1767999
-    DEFAULT_PRESERVE_WHITESPACE_TAGS = set(["a", "b", "em", "h1", "h2", "h3", "h4", "li", "p", "strong", "td", "th"])
+    DEFAULT_PRESERVE_WHITESPACE_TAGS = set(["a", "b", "dd", "em", "h1", "h2", "h3", "h4", "li", "p", "strong", "td", "th"])
 
 def add_id_attrs_on_headings(html):
     soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
