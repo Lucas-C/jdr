@@ -36,6 +36,7 @@ jobs:
           npm install
           pip install -r requirements.txt
           wget -nv https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
+          sudo apt install graphviz
 
       - name: Generating HTML pages 🏗️
         run: |
@@ -142,6 +143,7 @@ jobs:
 
           echo "Rendering ParadisPerdu"
           cd ParadisPerdu
+          npm install -g https://github.com/gpotter2/sketchviz#d977905 && ./gen_diagram.sh
           pip install qrcode && ./gen_qrcodes.py
           wget -nv https://www.misterfrankenstein.com/wordpress/wp-content/uploads/2021/05/Pack_AP_ParadisPerdu.zip
           unzip -q Pack_AP_ParadisPerdu.zip

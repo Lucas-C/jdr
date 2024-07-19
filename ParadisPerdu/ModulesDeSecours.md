@@ -20,7 +20,7 @@ Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour
 - [Acte 2 - Big brother is watching you](#acte-2-big-brother-is-watching-you)
 - [Acte 2 - Trolley dilemna au laboratoire](#acte-2-trolley-dilemna-au-laboratoire)
 
-TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md
+<!-- TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md -->
 
 
 ## Plan de la station Terra Nova
@@ -28,11 +28,10 @@ TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du 
 <img class="large" alt="Space station" src="img/SpaceStation.jpg" style="min-height: 890px">
 
 
+<!-- TODO - à rédiger : en substance, l'idée est de réaliser des micro-ellipses lorsque les PJs progressent à travers des étages où il ne se passe rien. + rappel table des **Rencontres** avec des androïdes page 63
 ### Déplacements
-TODO - à rédiger : en substance, l'idée est de réaliser des micro-ellipses lorsque les PJs progressent à travers des étages où il ne se passe rien. + rappel table des **Rencontres** avec des androïdes page 63
-
 À chaque fois que les PJs veulent se rendre d'un point A à un point B dans la station, indiquez le ou les itinéraires qu'ils peuvent envisager, ils en choisissent un, puis je leur indique la ou les situations qu'ils rencontrent en chemin
-
+-->
 
 ## Terminaux CommLinks
 Ce module propose de mettre à disposition des joueurs un **terminal web**, diégétique à l'histoire car consultable par les PJs sur les CommLinks de la station. Il nécessite que vos joueurs aient des smartphones avec connexion à internet durant la partie.
@@ -121,7 +120,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Objectifs** : initialement paniqué, Brett se reprendra après la tuerie initiale, et aidera 1D6+2 ouvriers à se barricader dans un petit hangar au niveau 10. Ensuite :
     1. protéger les ouvriers, et s'armer pour se défendre
-    2. trouver un vaisseau fonctionnel pour se tirer cette station
+    2. trouver un vaisseau fonctionnel pour se tirer de cette station
     3. fuir en embarquant un maximum d'ouvriers avec lui
 
 * **Attitude** : coopératif avec les PJs si cela le rapproche de ses objectifs. En cas de situation critique pour lui ou des ouvriers, il n'hésitera pas à jeter les PJs en pâture à des ennemis pour leur échapper.
@@ -130,7 +129,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Mort probable** : en prennant d'assaut le vaisseau de « La Sécurité ».
 
-### Isaac Cameron
+### Isaac Cameron dit « Le Marchand »
 <img alt="Isaac Cameron" src="img/ElliotJolivet_Tensei_Inktober2017.jpg" class="pnj">
 
 * à l'acte 1, en plus des activités mentionnées par le scénario (pages 51 & 52), il sera en train d'enquiller les verres d'alcool fort au **bar le Kapow, au niveau 8**, au début de l'acte 2.
@@ -184,9 +183,9 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
     2. Comprendre ce qui est arrivé aux androïdes
     3. Étouffer cette affaire, et détruire le labo de Revolve
 
-* **Attitude** : aucun remord à s'en sortir seule, mais elle sait qu'elle aura d'abord besoin d'alliés. Elle joue les pimbêches candides pour mieux leurer son monde, alors qu'elle a des nerfs d'acier. Elle a une arme à feu mais évitera de le montrer.
+* **Attitude** : aucun remord à s'en sortir seule, mais elle sait qu'elle aura d'abord besoin d'alliés. Elle joue les pimbêches candides pour mieux leurer son monde, alors qu'elle a des nerfs d'acier. Elle a une arme à feu, qu'elle préfère cacher.
 
-* **Roleplay** : joue les appeurées et fait preuve d'auto-dérision; rit à ses propres touches d'humour, et recherche la complicité de ses interlocuteurs; se masse constamment les épaules; lance parfois des regards perçants trahissant sa dureté.
+* **Roleplay** : joue les apeurées; fait preuve d'auto-dérision; rit à ses propres traits d'humour; joue la carte de la complicité; se masse constamment les épaules; lance parfois des regards perçants trahissant sa dureté.
 
 * **Mort probable** : éventrée par une larve cosmique, après avoir trahi les PJs.
 
@@ -211,7 +210,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Roleplay** : son ton est toujours enjoué; il ponctue ses phrases de touches d'humour et de courts rires sincères : _« je ne te serre pas la main mais le cœur y est ! Ahaha 😄 »_. S'il est traumatisé à la vue de cadavres, adoptez un _roleplay_ significativement différent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et déprimé, et pourra même céder à la rage face aux androïdes.
 
-* **Mort probable** : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses HS.
+* **Mort probable** : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses hors service.
 
 ### Ellen Frost
 <img alt="Ellen Frost" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png" class="pnj">
@@ -249,7 +248,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Attitude** : tendue, elle n'hésitera pas à clamer _« c'est moi qui commande »_ si on s'oppose à elle. Son calme apparent dissimule en fait une terrible panique : traumatisée par la mort d'O'Neil, elle ne que faire comme marshal de substitution.
 
-* **Roleplay** : voix exagérément ferme et fébrile ; elle coupe la parole mais ensuite ne finit pas ses phrases ; elle répète souvent les même phrases : _« Allez on bouge ! »_, _« C'est moi le marshal »_, _« Il faut appeler les secours »_, _« Allez on bouge ! »_...
+* **Roleplay** : voix exagérément ferme et fébrile ; elle coupe la parole mais ne finit pas ses phrases ; elle répète souvent les même phrases : _« Allez on bouge ! »_, _« C'est moi le marshal »_, _« Il faut appeler les secours »_, _« Allez on bouge ! »_...
 
 * **Mort probable** : face aux androïdes au court de l'acte 2
 
@@ -350,9 +349,9 @@ En tant qu'Admin, notez donc bien ce que les joueurs mentionnent comme lieux dan
 Durant l'acte 2, je vous recommande d'infliger assez vites de sérieux dégâts aux PJs :
 
 * ils prendront ainsi pleinement conscience de la dangerosité de l'environnement
-* cela leur donnera une bonne raison de vouloir retourne au **cabinet médical** du niveau 5
+* cela leur donnera une bonne raison de vouloir retourner au **cabinet médical** du niveau 5, et ainsi de constater que le sas a été saboté
 
-... TODO
+... module en cours de rédaction <!-- TODO -->
 
 
 ## Acte 2 - Trolley dilemna au laboratoire
@@ -406,21 +405,32 @@ Si besoin, soufflez-leur que là où sont les PJs, ils ont accès aux **commande
 Mais si celui-ci est dépressurisé, Daryl risque d'être aspiré...
 
 
+<!-- TODO
 ## Acte ...
 S'inspirer des travaux de l'acte 1 pour créer des situations lors des actes suivants
 + concevoir une situation spécifique au fantôme qui hante Arora
 + spécifier des morceaux audio spécifiques pour certaines scènes
 
 Dans cette courte scène, tu vas jouer le **fantôme** qui hante **Arora**, à son insu.
-Continue à jouer ton personnage, mais lorsque l'Admin (TODO)
+Continue à jouer ton personnage, mais lorsque l'Admin...
 
 Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possible
 
-<hr>
+-->
 
-<p class="page-break"></p>
+## Diagramme des grandes étapes du scénario
 
-## Some heading
+<!-- La meilleure solution pour avoir un rendu "vertical" lisible a été de découper le diagramme en 2 -->
+<img class="diagram" alt="" src="scenario1.svg">
+<img class="diagram" alt="" src="scenario2.svg">
+<!-- TODO:
+    + introduire modules impliquant les compétences/le background d'Arora/Park/Sullivan
+      + qui soient des moteurs pour les PJs
+    + que fait Watters durant l'acte 2 ?
+-->
+
+
+## Illustrations restantes
 <img style="margin-left: 0; margin-top: -1rem" alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg">
 <!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
 
@@ -430,7 +440,7 @@ Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possi
 
 <img class="size8" alt="Dead Spacer 2 Avatar by bmanhall" src="img/dead_space_2_avatar_by_bmanhall_eroded.png">
 
-<br>
+## Exemples d'inserts
 
 ::: insert sf-bg-01
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

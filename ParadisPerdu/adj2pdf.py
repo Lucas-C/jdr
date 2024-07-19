@@ -13,6 +13,7 @@ logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
 MD_FILEPATH = DIR / "ModulesDeSecours.md"
 CSS_FILEPATH = DIR / "style.css"
+DIAGRAM_FILEPATHS = (DIR / "scenario1.svg", DIR / "scenario2.svg")
 OUT_FILEPATH = DIR / "ParadisPerdu-ModulesDeSecours.pdf"
 
 
@@ -35,5 +36,5 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
-        SRC_FILES = (__file__, MD_FILEPATH, CSS_FILEPATH)
+        SRC_FILES = (__file__, MD_FILEPATH, CSS_FILEPATH) + DIAGRAM_FILEPATHS
         asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES))

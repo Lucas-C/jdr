@@ -33,7 +33,7 @@ Voici en bref les grandes étapes de l'intrigue proposée :
 
 ### PNJ - Kryssa
 
-<img class="float-left size21" src="https://64.media.tumblr.com/1f52bcf99af1fed4baccb22cb0967827/tumblr_pohhpoB9ig1sazby5o1_500.jpg">
+<img class="float-left size21" src="img/Kryssa.jpg">
 <!-- Source: https://www.artstation.com/artwork/qAOxwn -->
 
 **Ancienne esclave, Forte, Impulsive, Combattante de la liberté**
@@ -118,7 +118,7 @@ Si les PJs trainent à trouver une solution, un banc de poulpe célestes pourrai
 > sur lesquels glissent les habitants dans tous les sens...
 > Le décor qui s'offre à vous est bruyant et coloré, fourmillant d'activité chaotique. »
 
-<img class="size24" src="https://i.pinimg.com/originals/36/ab/b9/36abb95ee627c27736adde19dc83e06d.jpg">
+<img class="size24" src="img/Havreport.jpg">
 
 ### Lieux emblématiques
 <dl>
@@ -126,9 +126,10 @@ Si les PJs trainent à trouver une solution, un banc de poulpe célestes pourrai
     <dd>Auberge bien connue des marins de passages, où se négocient toutes sortes de contrats, et où les marchands de Havreport viennent souvent recruter des individus dévrouillards pour de courtes missions plus ou moins légales... <u>PNJs présents</u>: le patron - un gobelin manchot, Thom Bannister, Lord AutomaClock drappé dans sa cape.</dd>
 </dl>
 
-<img class="size14 float-left" src="https://i.pinimg.com/originals/b0/02/5e/b0025effa94a11de8991e79923b47435.jpg">
-<img class="size12 float-left" src="https://i.pinimg.com/originals/28/a9/40/28a940670b07eb12c6411895dfd64654.jpg">
+<img class="size14 float-left" src="img/LeGobelinManchot.jpg">
+<img class="size12 float-left" src="img/RosaSquare.jpg">
 <img class="size12 float-left" src="img/AstronomicalObservatory.jpg">
+<!-- Observatory img source: https://www.pinterest.fr/pin/568298046746111178/ -->
 <p style="clear: both"></p>
 
 <dl>
@@ -139,7 +140,7 @@ Si les PJs trainent à trouver une solution, un banc de poulpe célestes pourrai
     <dd>C'est dans ce lieu qu'on peut dénicher les meilleures cartes de l'Indomptable Bleu. Le mouvement constant des terres célestes rend leur cartographie très délicate. Une ribambelle d'horlogers, d'astronomes et cartographes travaillent donc sans relâche ici, effectuant les trois huit pour fournir aux navires des astro-cartes de navigation. L'observatoire est donc rempli de hamacs et de ronflements, et le chuchotement est obligatoire.</dd>
 </dl>
 
-<img class="float-left size20" src="https://64.media.tumblr.com/30d1dd9a50f80495ed904ad0366dd9b5/tumblr_n17xrtst4Z1rdml7wo1_1280.jpg">
+<img class="float-left size20" src="img/LePhare.jpg">
 <!-- Source: https://peahart.tumblr.com/post/77122903895/le-phare-the-lighthouse -->
 
 <dl class="page-break-after">
@@ -155,6 +156,7 @@ Si les PJs trainent à trouver une solution, un banc de poulpe célestes pourrai
     <dd>Cette fameuse armurerie est tenue par <b>Janet</b>, une jeune femme aussi enjouée qu'honnête et impartiale. Elle conçoit elle-même nombre d'armes dans sa forge attenante, et elle vend toute sorte de sabres, de mousquets, et même quelques carabines hors de prix.</dd>
 </dl>
 
+<!-- Weapon shop img source: https://www.pinterest.fr/pin/51228514501338861/ -->
 <img class="size36" src="img/WeaponShop.png">
 
 ### Obstacle - Vaisseau immobilisé
@@ -165,10 +167,10 @@ avec une note du Syndicat du Commerce : la taxe de séjour doit être réglée !
 Il devrait être rapidement clair pour les PJs que pour poursuivre leur voyage
 ils vont devoir trouver des fonds, ou rendre service à quelqu'un...
 
-<img class="size16" src="https://forums.ffjdr.org/uploads/default/original/2X/3/32bf1a89cbfa207dfb5c3971d691c03a09af501c.png">
+<img class="size16" src="img/LaChouette.png">
 
 ### PNJ - Lord AutomaClock
-<img class="float-left" src="https://i.pinimg.com/originals/5f/4e/c1/5f4ec112be51de477be91c00134b3e01.jpg">
+<img class="float-left" src="img/Encaped.jpg.jpg">
 
 **Automate distingué, Mécano génial, Chef rebelle, Tireur de savate**
 
@@ -180,7 +182,7 @@ Il a ensuite formé Rosa Square, et lui a confié son atelier.
 Aujourd'hui, devenu un membre éminent du Syndicat du Commerce, il œuvre en secret pour les droits des automates et la Rébellion Carmine, recrutant régulièrement des aventurier à la taverne du gobelin manchot afin de récolter informations et objets précieux pour la future armée rebelle.
 Dans ce rôle de commanditaire mystérieux, Lord A., il dissimule son apparence sous un grand manteau noir.
 
-<img class="float-left" src="https://i.pinimg.com/736x/b5/4f/8e/b54f8ec9d8d8d0a088d642b75a5f33c2.jpg">
+<img class="float-left" src="img/LordAutomaclock.jpg">
 <!-- Source: https://annalisanorsinglevcwtt.pages.dev/?search=robot+butler+fantasy+art -->
 
 Si les PJs expriment leur sympathie pour la cause automate ou la Rébellion Carmine,
@@ -204,7 +206,7 @@ Objectifs :
 :::
 
 ### PNJ - Thom Bannister
-<img class="float-left" src="https://i.pinimg.com/originals/ee/d6/03/eed603e47b67e6a4b48e95de02bb8614.jpg">
+<img class="float-left" src="img/ThomBannister.jpg">
 
 **Pilote, Audacieux, Joueur compulsif, Citoyen impérial**
 
@@ -217,9 +219,20 @@ Objectifs :
 **Thom** est une connaissance de **Cyrus Vance**, avec qui il entretien une relation tendue, au passé chargé :
 amis d'enfance, frères d'armes, duo de pilotes légendaire, mais aussi dettes non remboursées, compétition amoureuse, proches décédés tragiquement et petites trahisons...
 
+Thom se vante souvent de s'être rendu dans les Vestiges à plusieurs reprises.
+La vérité est un peu moins glorieuse, et implique un sauvetage par des pirates hilares de son navire,
+pris dans des filets de pêche au poisson voilant.
+Bien qu'il connaisse en effet personnellement le Roi-pirate Uriah Flint,
+il s'est en réalité brouillé avec lui, mais ne l'avoura à personne.
+
 > « Je vous parie à dix contre un que ça passe : accrochez-vous, ÇA VA SWINGUER ! »
 
 > « Vous cherchez la Rébellion Carmine ? OK, je vais vous aider. »
+
+Son navire, le **Locoboat**, est une antiquité à vapeur, plus grand que La Chouette mais en bien moins bon état.
+
+<img src="img/Locoboat.jpg">
+<!-- Source: -->
 
 ::: goals page-break-before
 Objectifs :
@@ -238,7 +251,7 @@ Demandez également à **Kale Arkham** :
 :::
 
 ## L'Octo-temple
-<img class="size32" src="https://www.touchofart.eu/photos/Jaroslaw_Jasnikowski/Obraz_Olejny_Twierdza_Niepamieci_jj265_170834.jpg">
+<img class="size32" src="img/OctoTemple.jpg">
 <br>
 
 Plusieurs chemins peuvent mener les PJs à l'Octo-temple :
@@ -261,46 +274,50 @@ Le temple regorge de mécanismes destinés à le protéger, et qui constitueront
 </dl>
 
 ### Obstacle - Un gardien mécanique
-<img class="size20" src="https://i.pinimg.com/originals/88/d4/b8/88d4b856640d35326ad9501631a0f8d0.jpg">
+<img class="size20" src="img/TempleGuardian.jpg">
 
 ### Objet - Octo et l'Octo-sceptre
 Octo, la divinité vénérée ici, est un énorme oeuf flotant à un mètre du sol.
 
-<img class="float-left" src="https://i.pinimg.com/originals/e6/60/08/e660080f49a0b387365b8cd321ed72ad.jpg">
+<img class="float-left" src="img/OctoSceptre.jpg">
 
 ## Retour à Havreport
 
 ### Un sorcier sang-roche aux trousses
+Mandaté par sir Carlowe
 Posters WANTED...
 
-<img src="https://i.pinimg.com/originals/02/ec/ad/02ecad27d9b5b39f05c8dc789e57df10.jpg">
+<img src="img/ArchNemesis.jpg">
 
-<img src="https://i.pinimg.com/originals/2c/19/eb/2c19eb24236c6fd729b5670e00b0361a.jpg">
+<img src="img/LaughingShadow.jpg">
 
-<img src="https://i.pinimg.com/originals/39/4d/ac/394dac6c8ae9d1fc167e833f4eecc728.jpg">
+<img src="img/ShadowTatoo.jpg">
 
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/285468210/original/d503313bcdbeb950cbe4c9583f81e8eabf4a60d2/design-steampunk-city-or-character.png">
+<img src="img/BountyHunter.webp">
 
-<img src="https://i.pinimg.com/originals/a2/b6/34/a2b6340fbea359c40ccfa82df049f957.jpg">
+<img src="img/SlaveQueen.jpg">
 
 <img class="large" src="img/FloatingIsles.png">
 <!-- Source : https://www.artstation.com/artwork/qz3En -->
 
 <img src="img/SteamPunkCo-KaiartWorks.png">
+<!-- Source : https://www.pinterest.fr/pin/568298046746087755/ -->
 
-<img src="https://i.pinimg.com/originals/76/80/89/768089d6b72211c347de547a9f639b28.jpg">
+<img src="img/DirigeableEnvahi.jpg">
 
-<img src="https://i.pinimg.com/originals/0a/63/ad/0a63ad8d512858c2aadbc2488df18b5c.webp">
+<img src="img/ImperialColonel.webp">
 
-<img class="large" src="https://i.pinimg.com/originals/01/c5/5c/01c55cba622b294ccc7a8296b04af2e7.jpg">
+<img class="large" src="img/FloatingIsle.jpg">
 
-<img class="large" src="https://i.pinimg.com/originals/71/e3/ed/71e3eda92950b8bcdfa9ddee7963bddb.jpg">
+<img class="large" src="img/FloatingIsle2.jpg">
 
-<img class="large" src="https://i.pinimg.com/originals/9a/3e/1f/9a3e1feff435e4eec6773ce88705c9e4.jpg">
+<img class="large" src="img/FloatingIsles2.jpg">
 
 <!--
 Idées d'améliorations :
-* fournirs quelques tables pour fournir des idées aux joueurs : gadgets steampunks, produits d'herboristerie, 
+* fournir quelques tables pour fournir des idées aux joueurs : gadgets steampunks, produits d'herboristerie, adversaires...
+* sections dédiées pour PNJs: Rosa Square, Seize...
+
 Design goals:
 * faciliter la poursuite d'aventures dans l'univers de Lady Blackbird
 * introduire des situations typiques de JdR :

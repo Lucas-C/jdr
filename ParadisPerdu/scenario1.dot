@@ -1,0 +1,58 @@
+digraph G {
+	fontname = Helvetica;
+    node [
+        colorscheme = dark25,
+		style = filled,
+        fillcolor = lightgray,
+        fontsize = 14,
+        height = 1.1  # Make nodes higher
+    ];
+    edge [ colorscheme = dark25 ];
+    # "If clusterrank=local, a subgraph whose name begins with cluster is given special treatment."
+    subgraph cluster_legend {
+        peripheries = 0;  # => no border
+        star[label="★ = module issu de cette aide de jeu",peripheries=0,style=""];
+        Sullivan  [shape=Mdiamond,color=5];
+        Aberdeen  [shape=Mdiamond,color=4];
+        Arora     [shape=Mdiamond,color=3];
+        Park      [shape=Mdiamond,color=2];
+        Torrensen [shape=Mdiamond,color=1];
+        fontsize = 28;
+        label = <<b>PJs</b>>;
+    }
+	subgraph cluster_intro {
+        peripheries = 0;  # => no border
+        introTorrensen[color=1,label="La carte d'identitié\nde Torrensen\nne passe pas"];
+        introAberdeen [color=4,label="Malaise de\nHarp Waschenski"];
+		{ rank=same; "Connivences\n★" -> introTorrensen -> introAberdeen -> "Prosélytisme\nde Watters" -> "Annonce de la crise\nsur Cepheus" [style=invis]; }
+        fontsize = 28;
+		label = <<b>Introduction</b>>;
+	}
+	subgraph cluster_partie_1 {
+        peripheries = 0;  # => no border
+        "L'œil pour le détail\n★" -> "Message CommLink\ncaché de Daryl\n★" [style=invis];
+        "« Le Marchand » déambule\ndans les niveaux 8 & 9" -> "Transaction\nde la malette";
+        node [color=5];  # Sullivan
+        "Recherches\navec Daryl";
+        node [color=4];  # Aberdeen
+        "Soigner\nHarp Waschenski"
+        -> "Autopsie de\nPaul Ballard"
+        -> "Examen de\nCandy Davies" [style=invis, rank=same];
+        node [color=3];  # Arora
+        "Check-list\nde tâches"
+        -> "Un reflet\ndans l'espace" [style=invis, rank=same];
+        node [color=2];  # Park
+        "Déchargement\ndes soutes\nde d'Eridanos";
+        node [color=1];  # Torrensen
+        "Les ouvriers\ns'échauffent"
+        -> "Code-barre\nde Watters"
+        -> "Léo · Léa Waschenski\ns'inquiète pour son père" [style=invis, rank=same];
+        "Les ouvriers\ns'échauffent" -> "Les ouvriers\nconsomment\ndu Tedium" [style=invis, rank=same];
+        "Déchargement\ndes soutes\nde d'Eridanos" -> "Code-barre\nde Watters" [color=2];
+        fontsize = 28;
+		label = <<b>#1 Polyphonie</b>>;
+	}
+    // Force clusters based on (added) rank
+    // Recipe from: https://stackoverflow.com/a/72102766/636849
+    {star} -> {"Annonce de la crise\nsur Cepheus"} -> {"L'œil pour le détail\n★"} [style=invis];
+}
