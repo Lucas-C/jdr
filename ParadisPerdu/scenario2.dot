@@ -1,0 +1,42 @@
+digraph G {
+	fontname = Helvetica;
+    node [
+        colorscheme = dark25,
+		style = filled,
+        fillcolor = lightgray,
+        fontsize = 14,
+        height = 1.1  # Make nodes higher
+    ];
+    edge [ colorscheme = dark25 ];
+    # "If clusterrank=local, a subgraph whose name begins with cluster is given special treatment."
+	subgraph cluster_partie_2 {
+        peripheries = 0;  # => no border
+        "Rébellion\ndes androïdes" -> "Meurtre du marshal";
+        "Rébellion\ndes androïdes" -> "Explosion du\nport spatial" -> "Chute de la station";
+        "Rébellion\ndes androïdes" -> "Cory 3 contrôle\nle niveau 1" -> "Nouveau QRCode\nde terminal CommLink\n★";
+        "Rébellion\ndes androïdes" -> "Sabotage du sas\ndu niveau 5";
+        "Rébellion\ndes androïdes" -> "Mort de\nCandy Davies\n★";
+        "Explosion du\nport spatial" -> "Impesanteur";
+        "Rébellion\ndes androïdes" -> "Les ouvriers\nse barricadent\nau niveau 9\n★" -> "Ellen Frost\nlance un SOS\ndepuis le niveau 7\n★";
+        "Sabotage du sas\ndu niveau 5" -> "Back to medbay\n★" -> "Mort de\nJada Jones\n★" [style=invis];
+        "Rébellion\ndes androïdes" -> "Massacre au\nlabo Revolve\ndu niveau 3\n★" -> "Trolley dilemna\nau laboratoire\n★" -> "Destruction du labo\nde Revolve par\nDarcy Cotton\n★";
+        "Déclenchement de\nla balise" [color=2];  # Park
+        "Chute de la station" -> "Déclenchement de\nla balise" [style=invis];
+        fontsize = 28;
+		label = <<b>#2 Convergences</b>>;
+	}
+	subgraph cluster_partie_3 {
+        peripheries = 0;  # => no border
+        "Les PJs face\nà Léo·Léa\n★" [color=1];  # Torrensen
+        "Mort de Daryl Hamon\n★" [color=5];      # Sullivan
+        "Mort d'Isaac Cameron\n★" -> "Mort de Brett Bettany\n★" -> "Mort de Daryl Hamon\n★" [style=invis];
+        "Annonce CommLink\nde Watters" -> "Possédés par des\nlarves cosmiques" -> "Les PJs face\nà Léo·Léa\n★";
+        "La Sécurité\ndébarque\nau niveau 3 ou 5" -> "Récupération de\nla malette";
+        fontsize = 28;
+		label = <<b>#3 FUBAR</b>>;
+	}
+    "Déclenchement de\nla balise" -> "La Sécurité\ndébarque\nau niveau 3 ou 5" [color=2];
+    // Force clusters based on (added) rank
+    // Recipe from: https://stackoverflow.com/a/72102766/636849
+    {"Rébellion\ndes androïdes"} -> {"Annonce CommLink\nde Watters"} [style=invis];
+}
