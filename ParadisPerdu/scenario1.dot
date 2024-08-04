@@ -1,8 +1,8 @@
 digraph G {
-	fontname = Helvetica;
+    fontname = Helvetica;
     node [
         colorscheme = dark25,
-		style = filled,
+        style = filled,
         fillcolor = lightgray,
         fontsize = 14,
         height = 1.1  # Make nodes higher
@@ -20,20 +20,20 @@ digraph G {
         fontsize = 28;
         label = <<b>PJs</b>>;
     }
-	subgraph cluster_intro {
+    subgraph cluster_intro {
         peripheries = 0;  # => no border
         introTorrensen[color=1,label="La carte d'identitié\nde Torrensen\nne passe pas"];
         introAberdeen [color=4,label="Malaise de\nHarp Waschenski"];
-		{ rank=same; "Connivences\n★" -> introTorrensen -> introAberdeen -> "Prosélytisme\nde Watters" -> "Annonce de la crise\nsur Cepheus" [style=invis]; }
+        { rank=same; "Connivences\n★" -> introTorrensen -> introAberdeen -> "Prosélytisme\nde Watters" -> "Annonce de la crise\nsur Cepheus" [style=invis]; }
         fontsize = 28;
-		label = <<b>Introduction</b>>;
-	}
-	subgraph cluster_partie_1 {
+        label = <<b>Introduction</b>>;
+    }
+    subgraph cluster_partie_1 {
         peripheries = 0;  # => no border
         "L'œil pour le détail\n★" -> "Message CommLink\ncaché de Daryl\n★" [style=invis];
         "« Le Marchand » déambule\ndans les niveaux 8 & 9" -> "Transaction\nde la malette";
         node [color=5];  # Sullivan
-        "Recherches\navec Daryl";
+        "Recherches\navec Daryl\nau labo Revolve";
         node [color=4];  # Aberdeen
         "Soigner\nHarp Waschenski"
         -> "Autopsie de\nPaul Ballard"
@@ -50,8 +50,8 @@ digraph G {
         "Les ouvriers\ns'échauffent" -> "Les ouvriers\nconsomment\ndu Tedium" [style=invis, rank=same];
         "Déchargement\ndes soutes\nde d'Eridanos" -> "Code-barre\nde Watters" [color=2];
         fontsize = 28;
-		label = <<b>#1 Polyphonie</b>>;
-	}
+        label = <<b>#1 Polyphonie</b>>;
+    }
     // Force clusters based on (added) rank
     // Recipe from: https://stackoverflow.com/a/72102766/636849
     {star} -> {"Annonce de la crise\nsur Cepheus"} -> {"L'œil pour le détail\n★"} [style=invis];

@@ -6,7 +6,7 @@
 <br><br>
 
 Ceci est une aide de jeu pour [Paradis Perdu](https://www.misterfrankenstein.com/wordpress/?p=5388), un excellent jeu de rôle « Nuit Blanche » d'Anthony "Yno" Combrexelles.
-Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base.
+Elle se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base.
 
 <br>
 
@@ -20,7 +20,8 @@ Il se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour
 - [Acte 2 - Big brother is watching you](#acte-2-big-brother-is-watching-you)
 - [Acte 2 - Trolley dilemna au laboratoire](#acte-2-trolley-dilemna-au-laboratoire)
 
-<!-- TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md -->
+<!-- TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md
+  + prévoir quand jouer les 5 clips vidéos  -->
 
 
 ## Plan de la station Terra Nova
@@ -98,7 +99,7 @@ Cette seconde version du terminal comporte plusieurs changements :
 
 ::: insert sf-bg-03 block-center
 Cher lecteur programmeur qui souhaiterait bidouiller ces terminaux,
-leur code source est disponible sur GitHub : [email_terminal](https://github.com/jacksonbenete/email_terminal), branches [acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2) de [mon fork](https://github.com/Lucas-C/email_terminal).
+leur code source est disponible sur GitHub : [email_terminal](https://github.com/jacksonbenete/email_terminal), branches [acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2) de [mon _fork_](https://github.com/Lucas-C/email_terminal).
 :::
 
 
@@ -468,7 +469,7 @@ Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commo
 
 <!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
 
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal). Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), [Graphviz](https://graphviz.org/) & [sketchviz](https://github.com/gpotter2/sketchviz), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal). Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
 
 ## Licence & feedbacks
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">

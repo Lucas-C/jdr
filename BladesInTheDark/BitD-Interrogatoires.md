@@ -18,8 +18,9 @@ Le manuel du jeu propose un **imbroglio** nommé _Interrogatoire_ :
 Cette **aide de jeu** vous propose de développer ces scènes d'interrogatoire, pour en faire des moments cruciaux, où les PJs sont mis sous pression par les _Inspecteurs_, où ils ont beaucoup à perdre, et où la situation se résoudra par des moments de _roleplay_ mémorables.
 
 _**Avertissement**_ : le parti-pris ici est de placer les joueurs dans des conditions proches de celles d'un véritable interrogatoire de police, et de générer un véritable **stress** chez eux. Certains joueurs n'apprécient pas du tout de jouer de telles scènes, n'employez donc cette aide de jeu qu'après les avoir consultés, et si cette proposition ludique leur convient.
+Demandez-leur également, en amont, à quel point ils sont à l'aise pour que leurs alter-egos subissent des violences policières.
 
-<br><br>
+<br>
 
 ## Interpellation
 Une scène d'interrogatoire peut constituer une excellente **séquence d'ouverture** d'une session de jeu.
@@ -136,8 +137,8 @@ les Inspecteurs disposent des outils judiciaires traditionnels :
   car il peut arriver que la possession tourne mal, conférant au suspect des capacités surnaturelles...
 * les Inspecteurs peuvent parfois **ramener une victime d'entre les morts**, attacher temporairement son esprit à une **Coquille**
   pour qu'il témoigne, et ainsi confronter un suspect à la déposition d'un mort.
-  Ils emploient toujours la même enveloppe, un **automate** sans bras ni jambes,
-  attaché sur une chaise en bois, au visage inexpressif contrastant avec les lamentations de l'esprit prisonnier.
+  Ils emploient toujours la même enveloppe, un buste d'**automate** posé sur la table,
+  au visage inexpressif contrastant avec les lamentations de l'esprit prisonnier.
 
 <br>
 <img class="size12" src="img/TerribleCharacterPortraits-Cyberpunk-6.jpg" alt="Coquille">
@@ -312,16 +313,15 @@ alchimie, possession par un Fantôme ou confrontation avec l'esprit d'une victim
 Deux de ces approches se résolvent avec un jet de résistance, la troisième vous laisse l'occasion de poursuivre le _roleplay_ :
 à vous déterminer ce qui semble le plus pertinent pour la scène à ce stade.
 
-Dans ma campagne, j'avais **explicitement demandé aux joueurs**,
-via un [sondage écrit avant la partie (lien)](https://chezsoi.org/lucas/blog/pages/jdr-blades-in-the-dark.html#questionnaire-aux-joueurs-pour-se-synchroniser-sur-les-attentes-envies-de-tout-le-monde),
-s'ils étaient à l'aise avec les scènes de grande violence physique,
-et ils avaient **tous** approuvé.
-Dans ce cas, et uniquement dans ce cas, vous pouvez également envisager que
-les Inspecteurs en viennent à **torturer** physiquement le PJ interrogé.
+D'expérience, la confrontation avec le spectre d'une victime du PJ est vraiment amusante à jouer.
+Je vous recommande de **confier à un autre joueur le soin d'incarner ce fantôme** le temps de la scène,
+en le prévenant avant l'interrogatoire pour qu'il ait le temps de se préparer.
+
+Vous pouvez également envisager que les Inspecteurs en viennent à **torturer** physiquement le PJ interrogé.
 Ils emploieront des _Potions de Vitalité_ et d'_Essence Vitale_ pour soigner le suspect et prolonger les sévices,
-voir de la _Poudre de Noyade_, jusqu'à ce qu'il lâche le morceau.
-Comme dans les autres approches, cela forcera le personnage à **répondre sans mentir** à 6 questions,
-moins le dé le plus élevé d'un **jet de résistance** (Détermination).
+voir de la _Poudre de Noyade_.
+Néanmoins, [la torture ne fonctionne pas (lien)](https://www.amnesty.org/fr/what-we-do/torture/).
+Les Inspecteurs n'obtiendront donc aucune information utile de cette manière.
 
 <br>
 <img class="size8" src="img/seringue-from-rawpixel-id-10781221-public-domaine.svg" alt="Seringue">
@@ -389,7 +389,7 @@ Mais pour le MJ, les informations récoltées par les Manteaux Bleus constituent
 
 Selon votre style de jeu, vous conservez ces compteurs cachés, où les rendre leurs titres publics, sans révéler plus de détails... <span class="big">◔ ◑ ◕ ●</span>
 
-<img class="size21" src="img/BitD-Artworks-FaceToFace-by-Tensei.jpg" alt="Affrontement entre hommes armés">
+<img class="size19" src="img/BitD-Artworks-FaceToFace-by-Tensei.jpg" alt="Affrontement entre hommes armés">
 
 <p class="page-break"></p>
 
@@ -428,16 +428,15 @@ Il peut être utile de t'éclipser au bon moment, pour laisser place à ces conf
 ## Remerciements
 Merci aux auteurs du [Petit manuel d'autodéfense en interrogatoire, aux éditions du commun](https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire), qui m'a servi d'inspiration pour cette aide de jeu.
 
-Merci à [Elliot Jolivet aka Tenseï](https://illutensei.com/bio) pour les illustrations employés dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé sur le _thread_ [Reddit /bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
+Merci à [Elliot Jolivet aka Tenseï](https://www.artstation.com/ej_tensei) pour les illustrations employés dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé sur le _thread_ [Reddit r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
 
-L'illustration de la Coquille automate provient de la collection [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) de [Jeff Preston](http://team-preston.com) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+L'illustration de l'automate provient de la collection [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) de [Jeff Preston](http://team-preston.com) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)),
+les icônes de [game-icons.net](https://game-icons.net),
+et les illustrations de ville de tableaux du [parcours _Histoire d'Angers_ de son musée des Beaux-Arts](https://musees.angers.fr/lieux/musee-des-beaux-arts/).
 
-Les illustrations de ville proviennent de tableaux du [parcours _Histoire d'Angers_ de son musée des Beaux-Arts](https://musees.angers.fr/lieux/musee-des-beaux-arts/).
-Les icônes proviennent de [game-icons.net](https://game-icons.net).
+Merci aux relecteurs & testeurs de cette aide de jeu : Aurélien, Elliot, Matthieu, Thomas.
 
-<!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
-
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser cette aide de jeu : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/) et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser cette aide de jeu : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur Sumatra PDF](https://www.sumatrapdfreader.org), [le language Python](https://www.python.org/) et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) (Markdown → HTML) & [weasyprint](https://weasyprint.org/) (HTML → PDF).
 
 <br>
 
@@ -455,7 +454,9 @@ Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c
 Je serais ravi d'avoir vos retours si vous l'employez :
 racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
-<!-- Com'
+<!--
+
+Com'
 
 * [ ] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36797#p36797
 * [ ] email @ auteurs du livre
