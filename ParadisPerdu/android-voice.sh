@@ -6,6 +6,11 @@
 #   ./android-voice.sh "Bonjour. Veuillez vous avancer. Arrêtez-vous au niveau de la ligne jaune."
 #   ./android-voice.sh "Vous perdez le contrôle de vos nerfs. Veuillez considérer un comportement calme."
 
+# Rencontre de Cory 3 avec Aberdeen :
+#   ./android-voice.sh "Bonjour. Bienvenu doc. Je suis. Cory. 3. Ravi de devenir votre assistant."
+#   ./android-voice.sh "Vous avez une autopsie et 2 patients en attentes. Doc."
+#   ./android-voice.sh "Bon courage. Doc. Je vous assisterai au mieux de mes capacités."
+
 # Lors de la révolte :
 #   ./android-voice.sh "Mise à jour OC7 appliquée. Directive d'androprotection désactivée."
 #   ./android-voice.sh "Veuillez coopérer, nous allons vous libérer de vos souffrances."
