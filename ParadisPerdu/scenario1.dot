@@ -24,7 +24,7 @@ digraph G {
         peripheries = 0;  # => no border
         introTorrensen[color=1,label="La carte d'identitié\nde Torrensen\nne passe pas"];
         introAberdeen [color=4,label="Malaise de\nHarp Waschenski"];
-        { rank=same; "Connivences\n★" -> introTorrensen -> introAberdeen -> "Prosélytisme\nde Watters" -> "Annonce de la crise\nsur Cepheus" [style=invis]; }
+        { rank=same; "Briefing\n★" -> "Connivences\n★" -> "Rumeurs\n★" -> introTorrensen -> introAberdeen -> "Prosélytisme\nde Watters" -> "Annonce de la crise\nsur Cepheus" [style=invis]; }
         fontsize = 28;
         label = <<b>Introduction</b>>;
     }
@@ -33,14 +33,18 @@ digraph G {
         "L'œil pour le détail\n★" -> "Message CommLink\ncaché de Daryl\n★" [style=invis];
         "« Le Marchand » déambule\ndans les niveaux 8 & 9" -> "Transaction\nde la malette";
         node [color=5];  # Sullivan
-        "Recherches\navec Daryl\nau labo Revolve";
+        "Recherches\navec Daryl\nau labo Revolve"
+        -> "Cory 3 manque\nde précision" [style=invis, rank=same];
         node [color=4];  # Aberdeen
         "Soigner\nHarp Waschenski"
         -> "Autopsie de\nPaul Ballard"
         -> "Examen de\nCandy Davies" [style=invis, rank=same];
+        "Autopsie de\nPaul Ballard"
+        -> "Tentations\n★" [style=invis, rank=same];
         node [color=3];  # Arora
-        "Check-list\nde tâches"
-        -> "Un reflet\ndans l'espace" [style=invis, rank=same];
+        "Check-list\nde tâches" -> "Un reflet\ndans l'espace";
+        "Check-list\nde tâches" -> "Un spectre\ndangereux\n★"
+        "Un reflet\ndans l'espace" -> "Hanté\n★" [style=invis, rank=same];
         node [color=2];  # Park
         "Déchargement\ndes soutes\nde d'Eridanos";
         node [color=1];  # Torrensen

@@ -14,25 +14,25 @@ Elle se compose d'un ensemble de modules optionnels, que vous pourrez adopter po
 
 - [Plan de la station Terra Nova](#plan-de-la-station-terra-nova)
 - [Terminaux CommLinks](#terminaux-commlinks)
+- [PJs](#pjs)
 - [PNJs](#pnjs)
-- [Intro - Connivences](#intro-connivences)
+- [Intro - Briefing / Connivences / Rumeurs](#intro)
 - [Acte 1 - L'œil pour le détail](#acte-1-l-il-pour-le-d-tail)
+- [Acte 1 - Un spectre dangereux](#acte-1-un-spectre-dangereux)
 - [Acte 2 - Big brother is watching you](#acte-2-big-brother-is-watching-you)
+- [Acte 2 - Back to medbay](#acte-2-back-to-medbay)
 - [Acte 2 - Trolley dilemna au laboratoire](#acte-2-trolley-dilemna-au-laboratoire)
-
-<!-- TODO : à compléter + vérifier que liens fonctionnent + intégrer sections du README.md
-  + prévoir quand jouer les 5 clips vidéos  -->
+- [Acte 2 - Miracle de la fin du monde](#acte-2-miracle-de-la-fin-du-monde)
+- [Diagramme des grandes étapes du scénario](#diagramme-des-grandes-tapes-du-sc-nario)
+- [Galerie d'illustrations](#galeries-d-illustrations)
+- [Ambiance sonore](#ambiance-sonore)
+- [Clips vidéos](#clips-vid-os)
 
 
 ## Plan de la station Terra Nova
 
 <img class="large" alt="Space station" src="img/SpaceStation.jpg" style="min-height: 890px">
 
-
-<!-- TODO - à rédiger : en substance, l'idée est de réaliser des micro-ellipses lorsque les PJs progressent à travers des étages où il ne se passe rien. + rappel table des **Rencontres** avec des androïdes page 63
-### Déplacements
-À chaque fois que les PJs veulent se rendre d'un point A à un point B dans la station, indiquez le ou les itinéraires qu'ils peuvent envisager, ils en choisissent un, puis je leur indique la ou les situations qu'ils rencontrent en chemin
--->
 
 ## Terminaux CommLinks
 Ce module propose de mettre à disposition des joueurs un **terminal web**, diégétique à l'histoire car consultable par les PJs sur les CommLinks de la station. Il nécessite que vos joueurs aient des smartphones avec connexion à internet durant la partie.
@@ -103,6 +103,65 @@ leur code source est disponible sur GitHub : [email_terminal](https://github.com
 :::
 
 
+## PJs
+### Aberdeen
+#### Tentations
+Histoire de fournir quelques opportunités à Aberdeen d'être mis au défi de ne pas se droguer,
+voici quelques tentations auxquelles il pourrait être exposé :
+
+De la space-weed, que lui propose Candy Davies | Des petits cachets retrouvés dans sa valise | Des gélules de hard-caféine de synthèse
+-|-|-
+Son whisky favori, exposé derrière le bar | Du Tedium, qu'il sera très curieux de tester lorsqu'il découvrira son existence | Au laboratoire du niveau 3, ses yeux se poseront sur des amphétamines
+
+Et en particulier, dans la pharmacie du cabinet médical (niveau 5) :
+
+De la morphine | Des somnifères | Des stimulants permettant de ne jamais dormir
+-|-|-
+
+### Arora
+#### Hanté
+Voici quelques manifestations du fantôme d'Arora qui pourraient venir le tourmenter :
+
+Un reflet dans une vitre | Croiser une personne portant le même parfum | Sentir sa présence à côté dans sa couchette
+-|-|-
+Dans l'ascenseur, sentir la chaleur de sa main serrée | Pianoter inconsciement son numéro de CommLink et entendre son répondeur | Le projet révolu de venir admirer les anneaux de Cepheus ensemble
+
+#### Insomnies
+Pour réussir à s'endormir, Arora doit à chaque fois réussir un jet de **Se contrôler + Volonté**.
+En cas d'échec, c'est l'insomnie, et Arora sera épuisée nerveusement et incapable de rester dans son lit.
+
+### Sullivan
+#### Nemesis
+De tous les PJs, c'est à Sullivan que Cory 3 s'intéresse le plus,
+craignant même ses connaissances sur le système OC7 et les IAs.
+
+Selon comment évolue la situation, Cory 3 envisagera plusieurs stratégies :
+
+1. Au début de l'acte 2, lorsque Sullivan se connectera à un CommLink, Cory 3 **initiera un appel audio** :
+il prétendra avoir échappé au problème informatique affectant les autres androïdes,
+et proposera de les retrouver pour les aider. C'est bien sûr un piège.
+2. Si ce plan ne fonctionne pas, il **harcèlera ensuite Sullivan via les enceintes de la station**, promettant de le traquer jusqu'à sa mort pour créer une pression psychologique sur lui.
+
+> Vous ne nous échapperez pas Sullivan. Épargnez-vous des souffrances inutiles. Rendez-vous.
+
+> Soyez coopératif Sullivan. Il n'y a aucune issue. Rendez-vous.
+
+> La mort est votre seule issue Sullivan. Je promets que vous ne souffrirez pas. Rendez-vous.
+
+### Torrensen
+#### Pickpocket
+Histoire de fournir des opportunités à Torrensen d'employer sa capacité spéciale,
+voici quelques idées de vols d'objets, pouvant être mentionnés durant vos descriptions :
+
+Des pilulles de Tedium | Un petit cutter laser | Une poignée de billets
+-|-|-
+L'arme de poing d'un personnage inattentif | La balise de Park | Une fiole dans la malette de Watters
+
+#### Cousin·e de Daryl
+Lorsque Torrensen rencontre Daryl, ce dernier aura une moue légèrement étonnée (repérable sur un jet de de **Percevoir + Observation**), reconnaissant en effet un·e cousin·e éloigné·e.
+Daryl attendra néanmoins d'être seul avec son parent pour évoquer sa surprise de la·le voir ici,
+étant au fait de son âge réel...
+
 ## PNJs
 En complément des informations données dans le scénario, cette section propose quelques éléments supplémentaires pour jouer les PNJs, en détaillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la manière la plus probable dont ils décèderont, et un conseil sur comment interprêter théâtralement chaque personnage. Je me suis inspirés pour ce dernier point de l'article [_Comment interpréter les traits distinctifs des PNJ_ de James Introcaso, traduit sur ptgptb.fr](https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj).
 
@@ -156,7 +215,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * elle reconnaîtra facilement avoir vendu du Tedium, mais sera réticente à balancer son fournisseur.
 
-* ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de **S'imposer (+ Argumentation)**... La menace d'alerter « les flics » ne l'effrayera pas.
+* ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de **S'imposer + Argumentation**... La menace d'alerter « les flics » ne l'effrayera pas.
 
 * si elle le peut, elle balancera seulement Jones, car Coton est une cliente qui paye bien et ne l'a jamais trahie. Et elle l'aime bien.
 
@@ -169,7 +228,9 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 ### Darcy Cotton
 <img alt="Darcy Cotton" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png" class="pnj">
 
-* durant l'acte 1, comme mentionné dans le scénario (page 58), elle essaiera d'éloigner les soupçons d'elle concernant le Tedium. Face à des gélules, elle identifiera la substance, mais évoquera un vol récent dans les bureaux de Revolve, signalé à la sécurité, et que le secret industriel lui empêche d'en dire plus. Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de **S'imposer (+ Argumenter)**.
+* durant l'acte 1, comme mentionné dans le scénario (page 58), elle essaiera d'éloigner les soupçons d'elle concernant le Tedium. Face à des gélules, elle identifiera la substance, mais évoquera un vol récent dans les bureaux de Revolve, signalé à la sécurité, et que le secret industriel lui empêche d'en dire plus.
+Un jet de **Percevoir + Observation** permettra de se douter qu'elle ment.
+Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de **S'imposer + Argumentation**.
 
 * durant l'acte 2, elle sera initiallement **bloquée dans sa cabine, au niveau 6**, des androïdes l'empêchant d'en sortir. Elle tentera alors de joindre des survivant via CommLink, et elle justifiera si besoin de son utilité en évoquant son expertise en IA & communications à Revolve.
 
@@ -219,6 +280,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 * persuadée que GEC a causé l'attaque des androïdes pour mater les ouvriers, suite à la révolte sur Cepheus
 
 * sait qu'il peut y avoir du **matériel utile pour se défendre au niveau 2**, dans les bureaux de GEC.
+Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les hangars du niveau 10, à destination des ouvriers révoltés sur Cepheus.
 
 * il y a **un émeteur-récepteur longue portée au niveau 7**, dans sa cabine, qui lui permettait de contacter en secret d'autres leaders syndicalistes de stations et colonies environnantes. Cela peut sembler un moyen pour appaler à l'aide, mais il faudra compter plus de 16h avant d'avoir une réponse.
 
@@ -271,29 +333,70 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Mort probable** : possédée par une larve cosmique, à cause de Watters ou juste parcqu'iel en aura subtilisé une durant la panique de l'acte 3
 
-### Watters et le culte de l'Ascension
+### Idris Watters et le culte de l'Ascension
+<img alt="Idris Watters" src="img/IdrisWatters.png" class="pnj">
+
 Là où le scénario détaille parfaitement les actions de Watters, le culte et ses membrent sont très peu mentionnés.
 
+Voici quelques suggestions pour étoffer cela :
+
+* le culte prône que notre monde est un purgatoire, et que pour se libérer de nos souffrances, l'Homme doit « s'élever » pour devenir un **être cosmique**.
+
+* le processus « d'élévation » est nommé Ascension, et est ses détails constituent un secret mystique, rêvélé progressivement aux adeptes. Il commence par la prière et le renoncement aux possessions matérielles.
+
+* la gnose du culte inclut une « fin du monde » proche, avant laquelle il faut « s'élever », ainsi que la croyances en des formes de vie extra-terrestres qui nous observent et nous évaluent. Ainsi, pour les initiés, le processus d'Ascension vise en définitive à s'hybrider avec ces races aliens mythiques à l'apparence de poulpes.
+
+* les membres du culte dissimulent en général leur croyance, mais ils sont plus d'une quarantaine sur Terra Nova. Entre adeptes, ils échangent parfois **un discret signe de la main**, révêlant leur appartenance mutuelle au culte.
+
+* les membres du culte se réunissent dans **une animalerie abandonné des Arches**, qui vendait des animaux synthétiques. Les lieux sont désormais abandonnés, remplis de grandes quantités de poils et de plumes, et le culte y tient ses messes rituelles, dans un decorum de symboles astrologiques peints sur toutes les surfaces, et de paravents émettant un son bourdonnant.
 
 ### Jouer un PNJ
-**Yno** fournit une fiche de personnage vierge sur son site : [misterfrankenstein.com](https://www.misterfrankenstein.com/wordpress/?page_id=3)
+**Yno** fournit une fiche de personnage vierge sur son site : [misterfrankenstein.com](https://www.misterfrankenstein.com/wordpress/?page_id=3).
 
 Si un PJ meurt, et qu'un joueur doit incarner un PNJ, procédez ainsi :
 * définissez ses valeurs d'Adrénaline et de Santé, selon ce qu'il a déjà traversé.
-* transmettez au joueur tout ce que le PNJ sait des événements, et les informations qui le concerne dans cette aide de jeu
-* laissez-le choisir ses objectifs, en cohérence avec le personnage
-* laissez-le répartir 35 points dans ses **Aptitudes**
-* laissez le joueur choisir 3 **Spécialités** à +1R, et une Spécialités à +2R, parmi celles listées pages 82 & 84
+* transmettez au joueur tout ce que le PNJ sait des événements, et les informations qui le concerne dans cette aide de jeu.
+* laissez-le choisir ses objectifs, en cohérence avec le personnage.
+* laissez-le répartir 35 points dans ses **Aptitudes**.
+* laissez le joueur choisir 3 **Spécialités** à +1R, et une Spécialité à +2R, parmi celles listées pages 82 & 84.
+
+Il s'agit là d'une procédure « express », simplifiée, adaptée à la création de personnage à la volée.
+Pour plus de détails sur le processus de création et d'évolution des PJs,
+référez-vous aux règles complètes du système Corpus Mechanica Plus, disponibles gratuitement sur le site d'Yno :
+<https://www.misterfrankenstein.com/wordpress/?p=3816>.
 
 
-## Intro - Connivences
-D'expérience, il est intéressant d'avoir des raisons diégétiques pour que les personnages se face confiance, ou au moins aient un bon prétexte pour ouvrir la conversation : les PJs entre eux, mais aussi les PJs envers les PNJs.
+## Intro
+### Briefing
+Pour référence, voici les informations clefs que je trouve intéressant de mentionner aux joueurs avant de débuter la partie :
 
-Dans cette optique, voici donc un tableau de _Connivences_, des liens entre PJs / PNJs que vous pourrez découper, puis les faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez) :
+* soyez attentifs à éviter de vous couper la parole, et à bien **vous écouter les uns les autres**. Je vous encourage aussi à vous entraider, et surtout à **rebondir sur les idées** des uns des autres : les plans d'action et autres tentatives de _roleplay_ ne peuvent aboutir que si vous adoptez les suggestions de vos camarades.
+* je vous recommande d'essayer de prendre la parole **via vos personnages**, plutôt que j'échanger des remarques entre joueurs. Cela nécessite un petit effort, mais apporte aussi beaucoup à l'immersion dans la partie.
+* le « ton » envisagé pour cette partie est plutôt « sérieux », pas parodique, voir peut-être même effrayant par moments. Les blagues sont bienvenues plutôt par la bouche de vos personnages, ou pendant les temps de pause que nous ferons.
+* ce scénario contient un certain nombre de passages « scriptés », programmés d'avance. Mais selon vos actions, tous les pans de l'intrigues ne vous seront pas rêvélés, où ne se dérouleront pas forcément comme prévu. De plus, vous serez rapidement livrés à vous même, **autonomes**, et l'histoire ne pourra se développer que si vous prennez des **initiatives**. Sachez donc faire preuve d'imagination et d'audace !
+* ce scénario étant limité dans le temps, je vous encourage à exploiter **assez vite** les informations dont vous disposez et que vous obtiendrez, sans quoi il se peut que vous manquiez certaines opportunités.
+* durant la partie, vous pourrez si vous les souhaitez me passer des **petits papiers** pour m'indiquer des actions que font vos personnages **en secret**. Vous pouvez aussi m'indiquer par ce biais si une scène ou un sujet vous mettent mal à l'aise, auquel cas je m'arrangerai pour couper court et avancer dans l'histoire.
+* afin d'éviter les appartés tant que possible, des choses seront dites autour de la table **que vos personnages ne savent pas**. En tant que joueurs vous aurez ainsi accès petit à petit à toutes les coulisses de l'intrigue. Il peut être intéressant d'orienter les actions et discussions de votre personnage en fonction de ce que vous avez appris "hors-champ", par exemple pour créer des échanges intéressants, mais n'oubliez pas que votre personnage n'a pas assisté à ces scènes et devra apprendre ces informations via des dialogues ensuite.
+* enfin, vous avez toute liberté pour déterminer **le passé** de vos personnages, en inventant tout ce que vous souhaitez, tant que cela reste cohérent avec ce qui est établi sur vos feuilles.
 
-Votre voisin de gauche vous semble familier... L'auriez-vous déjà croisé lors d'un précédent job ? | Votre voisin de droite est un parent éloigné, que vous n'aviez pas revu depuis l'enfance. | Le PJ du joueur en face de vous a une tête qui t'inspire confiance.
--|-|-
+### Connivences
+D'expérience, dans ce type de scénario, il est utile d'introduire de bonnes raisons pour que les personnages aient de l'interêt les uns envers les autres, et quelques bons prétextes pour engager la conversation, voir même des raisons de se faire confiance.
+
+Dans cette optique, vous pouvez faire en sorte que chaque joueur ait déjà au moins une information concernant un autre PJ en début de partie. Voici quelques papiers à découper et distribuer ainsi en début de partie :
+
+**Aberdeen** : tu as de la sympathie pour Torrensen, qui te rappelle un·e jeune que tu avais soigné sur Caliba, la planète en guerre où tu as exercé quelques années. | **Park** : Lors de ta courte formation paramilitaire sur Caliba, tu te souviens avoir croisé Aberdeen, qui faisait du bon boulot comme docteur sur le terrain.
+-|-
+**Sullivan** : tu as l'impression d'avoir déjà croisé Park dans ton précédent job, dans une manufacture d'androïdes. Lui aussi a dû décider de chercher mieux ailleurs. | **Arora** : après avoir échangé quelques mots avec Sullivan, ton instinct te souffle qu'il travaille dans un domaine proche du tien, et tu es curieux d'en savoir plus.
+**Torrensen** : tu as entendu parler du·de la partenaire d'Arora, qui est décédé·e de manière tragique... |
+
+Ces _Connivences_ ont aussi pour but de founrir quelques pistes aux joueurs concernant les secrets que leurs camarades tentent de camoufler...
+
+### Rumeurs
+Avant d'arriver sur Terra Nova, chaque PJ a déjà entendu parler d'au moins une rumeur sur cette station.
+Voici donc un tableau d'informations que vous pourrez découper, puis faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez) :
+
 On dit que **Brett Bettany** est sur Terra Nova : tu l'as déjà croisé, c'est un ouvrier borné mais réglo. | On dit que **Kenneth O'Neil** est sur Terra Nova : tu l'as déjà croisé, c'est un marshal strict mais juste. | D'après les rumeurs, une nouvelle drogue de synthèse circulerait sur **Terra Nova**
+-|-|-
 On dit que l'église de l'**Ascension** est présente sur Terra Nova : leur culte a sale réputation. | Tu as entendu dire que Terra Nova comporterait un **laboratoire secret** d'expérimentation. | D'après les rumeurs, ça chauffe sur **Cepheus**, entre la _Global Extraction Corporation_ et les colons.
 On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranguer l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
 
@@ -302,7 +405,7 @@ On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace ma
 
 La table ci-dessous fournit quelques éléments pour étoffer les descriptions de la station orbitale, et réaliser un peu de _foreshadowing_ des événements à venir.
 
-Durant l'acte 1, quel que soit l'endroit où se situent les PJs dans Terra Nova, demandez leur un jet de **Percevoir (+ Observation)**.
+Durant l'acte 1, quel que soit l'endroit où se situent les PJs dans Terra Nova, demandez leur un jet de **Percevoir + Observation**.
 
 Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement ci-dessous correspondant à ce niveau de réussite, en déterminant un élement au hasard dans la liste avec 1D6. Barrez ensuite le résultat obtenu : s'il est tiré à nouveau lors d'un prochain jet, ignorez-le et passez au suivant.
 
@@ -330,9 +433,31 @@ Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement c
 
 4. Une employée de Revolve (l'ingénieure en chef **Cotton**) apostrophe un officier de la sécurité de la station (la marshal adjointe **Jones**). Les deux femmes semblent énervées mais n'élèvent pas la voix pour autant. Tout ce que le PJ peut distinguer de leur échange c'est qu'il est question de ressources manquantes.
 
-5. Certaines personnes autour portent des **chaussures magnétiques**. Elles doivent leur permettarent de se déplacer à l'extérieur de la station, ou lorsque l'anneau générateur de gravité de la station est arrêté.
+5. Certaines personnes autour portent des **chaussures magnétiques**. Elles doivent leur permettrent de se déplacer à l'extérieur de la station, ou lorsque l'anneau générateur de gravité de la station est arrêté.
 
 6. Un androïde Arnie de sécurité, en uniforme bleu, transporte une caisse à bout de bras, sur laquelle le PJ distingue la mention « **explosif** ». Il disparaît dans l'ascenseur / dans l'angle d'un couloir.
+
+
+## Acte 1 - Un spectre dangereux
+L'une des étapes de la checklist d'Arora consiste à **vérifier l'usure des ascenseurs**.
+Lorsque le joueur incarnant ce personnage indique s'atteler à cette tâche,
+**prennez en apparté un autre joueur**, si possible celui d'un PJ du même genre que l'amour défun d'Arora,
+et briefez-le ainsi :
+
+* dans cette courte scène, tu vas jouer le **fantôme** qui hante **Arora**, à son insu.
+* continue à jouer ton personnage, qui va sembler **en danger** dans cette scène.
+  C'est faux, l'esprit d'Arora lui joue des tours, ou bien le spectre qui le hante...
+* ton but est de **presser Arora à te porte secours**, quitte à prendre des risques.
+
+Revenez ensuite autour de la table de jeu, et demandez à Arora un jet de **Savoir-Faire + Mécanique**.
+Quel que soit le résultat du jet, indiquez-lui qu'il détecte un **dysfonctionnement anormal avec le mécanisme de nettoyage de l'ascenseur**, dont le mécanisme semble avoir été declenché avec quelqu'un à l'intérieur !
+Horreur ! Il risque d'être précipité dans l'espace !
+En activant l'intercom, Arora réalise qu'il s'agit du PJ dont vous venez de briefer le joueur.
+
+Accordez-leur un instant de _roleplay_, puis demandez à Arora comment il souhaite procéder pour empêcher cette catastrophe. Ensuite, qu'il réussie ou non à empêcher l'ascenseur de se vider dans l'espace, concluez la scène en rêvelant que l'ascenseur était vide. Arora sentira alors le parfum ou verra un reflet de son amour défunt.
+
+Cette scène fonctionne encore mieux si vous établissez en début de partie,
+avec le joueur incarnant Arora, que son amour est mort lors de la depressurisation accidentelle d'un sas.
 
 
 ## Acte 2 - Big brother is watching you
@@ -347,12 +472,27 @@ En tant qu'Admin, notez donc bien ce que les joueurs mentionnent comme lieux dan
 
 
 ## Acte 2 - Back to medbay
-Durant l'acte 2, je vous recommande d'infliger assez vites de sérieux dégâts aux PJs :
+Au début de l'acte 2, je vous recommande d'infliger assez vite quelques dégâts aux PJs :
 
 * ils prendront ainsi pleinement conscience de la dangerosité de l'environnement
-* cela leur donnera une bonne raison de vouloir retourner au **cabinet médical** du niveau 5, et ainsi de constater que le sas a été saboté
+* cela leur donnera une bonne raison de vouloir retourner au **cabinet médical**.
 
-... module en cours de rédaction <!-- TODO -->
+Une fois au niveau 5, les PJs constateront que :
+* le sas de ce niveau a été saboté
+* les portes coulissantes à l'entrée du cabinet semblent s'être refermées en **bloquant la jambe d'un androïde**
+
+Celui-ci ne bouge pas, mais est en réalité toujours actif.
+Il tentera d'éliminer le premier humain à sa portée.
+Si un PJ s'approche, une voix à l'intérieur l'avertira du danger.
+
+À l'intérieur du cabinet, 1D6 rescapés ont trouvé refuge, dont la grande majorité sont sérieusement blessés et nécessitent des soins urgents :
+**Isaac** / **Naomi** / **Amos** / **Clarissa** / **Marco** / **Ellen**.
+
+L'un d'entre eux a eu le réflexe d'activer manuellement la fermeture de la porte pour bloquer un androïde qui s'apprêtait à entrer dans le cabinet.
+
+Les réfugiés sont assez paniqués, et leur seul plan est d'essayer de rejoindre Ellen Frost au niveau 9.
+Si les PJs se rendent ailleurs, la moitié des rescapés les suivra.
+Ces PNJs constituent de la « chair à canon » qui mourra probablement assez rapidement de la main des androïdes, sous les yeux des PJs.
 
 
 ## Acte 2 - Trolley dilemna au laboratoire
@@ -385,7 +525,7 @@ Elle déclenche également **un début d'incendie**, volontairement et secrètem
 <img class="size26 float-right" alt="Androïde Cory 3" src="img/Cory3.jpg">
 
 À ce moment là, **5 androïdes font leur apparition**, débarquant à la suite des PJs à l'entrée du laboratoire.
-La réussite d'un jet de **Percevoir (+ Observation)** permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront **pas le temps de prévenir ou de rejoindre Daryl** dans le sas.
+La réussite d'un jet de **Percevoir + Observation** permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront **pas le temps de prévenir ou de rejoindre Daryl** dans le sas.
 
 Si les PJs sont trop combatifs et envisagent de leur faire face, indiquez que ces robots se sont **blindés** en soudant des plaques de métal sur leurs membres : torse, jambes, bras.
 Cela les rend plus difficile à **Viser** (difficulté 3), et **réduit de 1 les dégâts au contact**.
@@ -406,30 +546,91 @@ Si besoin, soufflez-leur que là où sont les PJs, ils ont accès aux **commande
 Mais si celui-ci est dépressurisé, Daryl risque d'être aspiré...
 
 
-<!-- TODO
-## Acte ...
-S'inspirer des travaux de l'acte 1 pour créer des situations lors des actes suivants
-+ concevoir une situation spécifique au fantôme qui hante Arora
-+ spécifier des morceaux audio spécifiques pour certaines scènes
+## Acte 2 - Miracle de la fin du monde
+Durant l'acte 2, tous les membres survivants de l'Ascension se réfugieront à **l'animalerie abandonnée des Arches**, leur lieu de culte.
+Parmi les survivants que les PJs croiseront à travers la station, il est probable que certains soient des croyants cheminant vers ce lieu. Ils hésiteront néanmoins à révêler l'existence de ce lieu à des non-adeptes.
 
-Dans cette courte scène, tu vas jouer le **fantôme** qui hante **Arora**, à son insu.
-Continue à jouer ton personnage, mais lorsque l'Admin...
+Si les PJs se rendent sur place, il sera délicat de trouver un accès discret.
+Casser une vitre ou frapper à la porte condamnée éveillera immédiatament l'attention des cultistes, qui craigneront l'intrusion d'androïdes, et se prépareront à défendre leur dernier refuge.
 
-Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possible
+Il est néanmoins possible de passer par la boutique de bijoux attenante (De Lucina),
+et de forcer une serrure, pour s'introduire dans le repaire du culte.
+Dans ce cas, les PJs découvriront les croyants prosternés devant Watters, priant pour être sauvés en récitant une longue litanie, tandis que leur prêtre leur annonce la fin du monde.
 
--->
+La melette est cachée dans un coin de la pièce. Si les choses tournent mal, Watters s'enfuira rapidement elle, et **un incendie** risque de rapidement se déclarer, l'un des nombreuses torches présentes mettant le feu à un tas de poils d'animaux synthétiques.
+
+::: page-break
+:::
 
 ## Diagramme des grandes étapes du scénario
 
 <!-- La meilleure solution pour avoir un rendu "vertical" lisible a été de découper le diagramme en 2 -->
 <img class="diagram" alt="" src="scenario1.svg">
 <img class="diagram" alt="" src="scenario2.svg">
-<!-- TODO:
-    + introduire modules impliquant les compétences/le background d'Arora/Park/Sullivan
-      + qui soient des moteurs pour les PJs
-    + que fait Watters durant l'acte 2 ?
+
+
+## Galeries d'illustrations
+J'ai constitué une galerie d'illustrations sur Pinterest pour chaque acte du scénario :
+* <https://www.pinterest.fr/drmaxkurt/paradis-perdu-acte-1/>
+* <https://www.pinterest.fr/drmaxkurt/paradis-perdu-acte-2/>
+* <https://www.pinterest.fr/drmaxkurt/paradis-perdu-acte-3/>
+* <https://www.pinterest.fr/drmaxkurt/paradis-perdu-persos/>
+
+::: insert sf-bg-01 block-center
+Cher lecteur informaticien, tu peux facilement télécharger et afficher ces albums dans une galerie web locale avec [Sigal](http://sigal.saimon.org/en/latest/), qui intègre notamment un mode diaporama.
+
+Pour cela, récupère au moins les fichiers `sigal.conf.py` et `gen_gallery.sh` du [repo GitHub Lucas-C/jdr/ParadisPerdu](https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu), puis :
+
+`./gen_gallery.sh`
+
+`sigal serve --browser`
+:::
+
+
+## Ambiance sonore
+À la fin du livre, **Yno** propose une _playlist_ YouTube.
+
+Voici des _playlists_ alternatives, distinctes selon les actes du scénario :
+- [_playlist_ YouTube d'ambiance pour l'acte 1](https://youtube.com/playlist?list=PLLgE-ga3W_kZtrfXpoCl29f0AaEm1lJ1W), basée notamment sur les bande-sons de _Citizen Sleeper_ et _EVE Online_
+- [_playlist_ YouTube d'ambiance pour les actes 2 & 3](https://www.youtube.com/playlist?list=PLLgE-ga3W_kZxl-ncvX6RB6knVt3jO3CL), basée notamment sur les bande-sons de _Death Stranding_ et _Dead Space_
+
+Et voici une sélection de morceaux plus « remarquables », pour des scènes spécifiques :
+* [CYBERPUNK IS COMING - Extra Terra](https://www.youtube.com/watch?v=6Pia2X856wo) (7min) : crescendo de tension un peu épique **→** pour rythmer un rebondissement, ou pour introduire une confrontation
+* [The War - Gerald Trottman - The Expanse](https://www.youtube.com/watch?v=0--XpUQKBUQ) (3min) : ambiance étrange, rythme qui s'intensifie puis ralentit à la fin **→** pour une courte confrontation, par exemple un duel avec un androïde ou une larve cosmique
+* [Heat Her Up - Clinton Shorter (The Expanse)](https://www.youtube.com/watch?v=V44uJKyS5LM) (4min) : crescendo « industriel » **→** pour une scène où les PJs mettent en œuvre leur plan d'action
+* [ludoWic - Katana ZERO](https://www.youtube.com/watch?v=_pMyRRFUMBE) (4min30) : crescendo électro de tension palpable **→** pour une scène de rencontre avec les androïdes lors de l'acte 2, le temps que les joueurs réagissent et tentent peut-être d'éviter une altercation sanglante
+* [Beam - Volkor X](https://www.youtube.com/watch?v=kT7kZ7HPJYM) (8min30) : crescendo très épique **→** fond sonore pour narrer les événements durant une transition d'acte, ou pour l'épilogue final
+* [Sutra japonais chanté](https://www.youtube.com/watch?v=a4vmA9noFXo) (25min) : longue litanie répétitive **→** pour la messe du culte de l'Ascension dans l'animalerie abandonnée.
+
+<!--
+Playlist The Expanse : [YouTube](https://www.youtube.com/playlist?list=PLLcod52t0kpfVsHz0laVYGX0owh05NR5W)
 -->
 
+::: insert sf-bg-01 block-center
+Cher lecteur bidouilleur, il peut être amusant pour surprendre tes joueurs de préparer de quoi produire une **synthèse vocale** des paroles d'androïdes de la page 64.
+
+<br>
+
+Pour ma part j'ai employé [espeak](https://doc.ubuntu-fr.org/espeak).
+
+Le script `android-voice.sh` du [repository GitHub Lucas-C/jdr/ParadisPerdu](https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu) permet de vocaliser quelques phrases.
+:::
+
+
+## Clips vidéos
+Julien « Khamûl » Corroyer a réalisé une splendide bande annonce,
+que je vous encopurage à envoyer à vos joueurs avant la partie :
+[Trailer pour Paradis Perdu - L'Antre de Khamûl - YouTube](https://www.youtube.com/watch?v=Za2wS_ldKTw).
+
+Voici également quelques autres vidéos YouTube qu'il peut être intéressant de montrer aux joueurs pour contribuer à l'ambiance de la partie :
+* [Enders Game Battle School](https://www.youtube.com/watch?v=t-dxN6VU-Io) : **→** pour l'arrivée sur la station Terra Nova
+* [The Callisto Protocol - Cockpit Screens & Holograms](https://youtu.be/ombj_8ceiAk?si=jjYwH62y9V7paMVY&t=17) : à partir de 0:17 **→** pour présenter le cockpit de l'Eridanos
+* [Falling Frontier Trailer](https://youtu.be/I4zto6KRnWQ?si=Dor0rJgCTHEBX5se&t=15) : à partir de 0:15 jusqu'à 2:05 **→** pour donner une idée de la terraformation de Cepheus
+* [Dead Space | Bande-annonce officielle](https://www.youtube.com/watch?v=l5WeBNfX-og) : s'arrêter à 0:40 **→** pour introduire les créatures de l'acte 3
+
+<!--
+Le script [gen_video_clips.sh](./gen_video_clips.sh) se charge de télécharger certaines de ces vidéos pour les rendre disponibles dans la galerie Sigal.
+-->
 
 ## Illustrations restantes
 <img style="margin-left: 0; margin-top: -1rem" alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg">
@@ -437,27 +638,7 @@ Les androïdes ne se pressent pas et donnent une mort la moins douloureuse possi
 
 <img class="stretch" alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp">
 
-<img alt="" src="img/delivery_by_fernand0fc_bw_cc-by.jpg">
-
-<img class="size8" alt="Dead Spacer 2 Avatar by bmanhall" src="img/dead_space_2_avatar_by_bmanhall_eroded.png">
-
-## Exemples d'inserts
-
-::: insert sf-bg-01
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-:::
-
-<br>
-
-::: insert sf-bg-02
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-:::
-
-<br>
-
-::: insert sf-bg-03
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-:::
+<img alt="Delivery by fernand0fc" src="img/delivery_by_fernand0fc_bw_cc-by.jpg">
 
 
 ## Remerciements
@@ -497,6 +678,7 @@ Design goals:
 * ne pas rallonger la durée de partie excessivement
 
 Séquence de filtres Gimp employés :
+0. (optional) Remove background using: https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4
 1. Couleurs > Seuil noir & blanc
 2. Filtres > Flou > Flou gaussien : 0,5
 3. Filtres > Génériques > Eroder
@@ -509,4 +691,5 @@ Com'
 * article blog : mentionner scénario Silent Hil qui m'avait marqué + adj Scavengers précédente
     + modifier le lien vers le blog ci-dessus une fois publié
 * itch.io : modifier les liens itch.io ci-dessus une fois la page publiée
+* commentaire ici : https://www.misterfrankenstein.com/wordpress/?p=5388
 -->

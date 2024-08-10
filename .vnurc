@@ -1,3 +1,4 @@
 Element “style” not allowed as child of element .+
 A table row was .+ columns wide, which is less than the column count established by the first row .+
 A table row was .+ columns wide and exceeded the column count established by the first row .+
+.+ Property .+ doesn't exist in “CSS Level 3 \+ SVG” but exists in “\[css3\]”.
