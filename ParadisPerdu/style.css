@@ -117,17 +117,17 @@ img.between-dots {
 .insert p { line-height: 1.4; margin: 0 1rem; }
 .sf-bg-01 {
   background-image: url("gui/sf-bg-frame-01.png");
-  max-width: 22rem;
-  padding: 3rem 2rem 2rem 2rem;
+  max-width: 20.1rem;
+  padding: /*top=*/3rem /*right=*/2rem /*bottom=*/2rem /*left=*/2rem;
 }
 .sf-bg-02 {
   background-image: url("gui/sf-bg-frame-02.png");
   max-width: 16rem;
-  padding: 3rem 2rem 2rem 2.5rem;
+  padding: /*top=*/3rem /*right=*/2rem /*bottom=*/2rem /*left=*/2.5rem;
 }
 .sf-bg-03 {
   background-image: url("gui/sf-bg-frame-03.png");
-  padding: 3rem 2rem 2rem .75rem;
+  padding: /*top=*/3rem /*right=*/2rem /*bottom=*/2rem /*left=*/.75rem;
 }
 
 .pnj { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }

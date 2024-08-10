@@ -14,16 +14,6 @@
 @page {
   margin: /*vertical=*/8mm /*horizontal=*/8mm;
   padding: 2rem 0; /* Sets vertical space after a page break, before starting page content */
-  counter-increment: page-count;
-  @bottom-center {
-    content: counter(page-count);
-    font-size: .8rem;
-    margin-bottom: 1rem; /* increasing this does not have any effect */
-    padding: 0 .5rem;
-    border-radius: 50%;
-    background: white;
-    /* border: red 1px solid; */
-  }
 }
 
 #ce-qu-ils-savent-d-j- { page: p4; }

@@ -454,6 +454,21 @@ Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c
 Je serais ravi d'avoir vos retours si vous l'employez :
 racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
+<style>
+@page {
+  counter-increment: page-count;
+  @bottom-center {
+    content: counter(page-count);
+    font-size: .8rem;
+    margin-bottom: 1rem; /* increasing this does not have any effect */
+    padding: 0 .5rem;
+    border-radius: 50%;
+    background: white;
+    /* border: red 1px solid; */
+  }
+}
+</style>
+
 <!--
 
 Com'

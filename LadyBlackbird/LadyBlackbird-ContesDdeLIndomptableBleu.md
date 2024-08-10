@@ -289,6 +289,8 @@ Posters WANTED...
 
 <img src="img/ArchNemesis.jpg">
 
+### Le paquebot-bibliothèque
+
 <img src="img/LaughingShadow.jpg">
 
 <img src="img/ShadowTatoo.jpg">
