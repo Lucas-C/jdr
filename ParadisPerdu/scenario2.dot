@@ -22,8 +22,6 @@ digraph G {
         "Sabotage du sas\ndu niveau 5" -> "Back to medbay\n★" -> "Mort de\nJada Jones\n★" [style=invis];
         "Rébellion\ndes androïdes" -> "Massacre au\nlabo Revolve\ndu niveau 3 ★" -> "Trolley dilemna\nau laboratoire\n★" -> "Destruction du labo\nde Revolve par\nDarcy Cotton ★";
         "Chute de la station" -> "Miracle de\nla fin du monde\n★" [style=invis];
-        "Torrensen cousin·e\nde Daryl Hamon\n★" [color=1];  # Torrensen
-        "Trolley dilemna\nau laboratoire\n★" -> "Torrensen cousin·e\nde Daryl Hamon\n★";
         "Déclenchement de\nla balise" [color=2];  # Park
         "Chute de la station" -> "Déclenchement de\nla balise" [style=invis];
         "Sullivan\nNemesis\n★" [color=5];  # Sullivan
@@ -33,9 +31,8 @@ digraph G {
     }
     subgraph cluster_partie_3 {
         peripheries = 0;  # => no border
-        "Mort d'Isaac Cameron\n★" -> "Mort de la plupart\ndes PNJs" [style=invis];
-        "Annonce CommLink\nde Watters" -> "Possédés par des\nlarves cosmiques" -> "Les PJs face\nà Léo·Léa\n★";
-        "Possédés par des\nlarves cosmiques" -> "Mort de\nDaryl Hamon\n★"
+        "Annonce CommLink\nde Watters" -> "Mort de la plupart\ndes PNJs" [style=invis];
+        "Annonce CommLink\nde Watters" -> "Possédés par des\nlarves cosmiques";
         "La Sécurité\ndébarque\nau niveau 3 ou 5" -> "Récupération de\nla malette";
         fontsize = 28;
         "[Gain d'Adrénaline]\nPour chaque\nObjectif rempli";
