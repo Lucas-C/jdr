@@ -21,7 +21,7 @@ Elle se compose d'un ensemble de modules optionnels, que vous pourrez adopter po
 - [Acte 1 - Un spectre dangereux](#acte-1-un-spectre-dangereux)
 - [Acte 2 - Big brother is watching you](#acte-2-big-brother-is-watching-you)
 - [Acte 2 - Back to medbay](#acte-2-back-to-medbay)
-- [Acte 2 - Trolley dilemna au laboratoire](#acte-2-trolley-dilemna-au-laboratoire)
+- [Acte 2 - Trolley dilemma au laboratoire](#acte-2-trolley-dilemma-au-laboratoire)
 - [Acte 2 - Miracle de la fin du monde](#acte-2-miracle-de-la-fin-du-monde)
 - [Diagramme des grandes étapes du scénario](#diagramme-des-grandes-tapes-du-sc-nario)
 - [Galerie d'illustrations](#galeries-d-illustrations)
@@ -70,11 +70,11 @@ Voici un résumé des informations fournies par ce terminal :
 * la commande `medic` permet de s'inscrire pour rendez-vous auprès du Dr Aberdeen, et de voir la liste des consultations prévues.
 * la commande `port` liste les vaisseaux à quai dans le port spatial au niveau 9.
 * la commande `staff` liste les personnes référentes de la station.
-* la commande `audit`, uniquement accessible par Arora après s'être logué⸱e comme `auditer` via la commande `login`, indique que tout est opérationnel sauf l'une des antennes de communication spatiale. De plus, un message fantômatique est adressé à _Sanj_ par son amour décédé...
+* la commande `audit`, uniquement accessible par Arora après s'être logué⸱e comme `auditer` via la commande `login`, indique que tout est opérationnel sauf l'une des antennes de communication spatiale. De plus, un message fantomatique est adressé à _Sanj_ par son amour décédé...
 * **Daryl** a également envoyé un email énigmatique à toute la station. Le déchiffrer (c'est du [ROT13](https://fr.wikipedia.org/wiki/ROT13)) permet de comprendre qu'il faut ensuite taper dans le terminal une commande non référencée par `help`, mais qui existe sur les systèmes [Linux](https://fr.wikipedia.org/wiki/Linux) : `exit`, `hostname`, `man`, `ps`, `pwd`, `shutdown`, `sudo`, `touch`, `ping` ou `whoami` peuvent fonctionner. Daryl donne alors rendez-vous au niveau 3 au PJ qui aura résolu son jeu de piste.
 
 À la fin de l'**acte 1**, la prise de contrôle de l'étage des Communications par Cory 3 affecte le terminal.
-Pour refléter cela, découpez la carte ci-dessous, et remettez-la aux joueurs au début de l'**acte 2**, dès qu'ils accèderont à un terminal CommLink.
+Pour refléter cela, découpez la carte ci-dessous, et remettez-la aux joueurs au début de l'**acte 2**, dès qu'ils accéderont à un terminal CommLink.
 Ils devront désormais employer cette nouvelle version du terminal :
 
 <table class="terminal-card"><tr>
@@ -104,8 +104,7 @@ leur code source est disponible sur GitHub : [email_terminal](https://github.com
 
 
 ## PJs
-### Aberdeen
-#### Tentations
+### Aberdeen - Tentations
 Histoire de fournir quelques opportunités à Aberdeen d'être mis au défi de ne pas se droguer,
 voici quelques tentations auxquelles il pourrait être exposé :
 
@@ -118,20 +117,17 @@ Et en particulier, dans la pharmacie du cabinet médical (niveau 5) :
 De la morphine | Des somnifères | Des stimulants permettant de ne jamais dormir
 -|-|-
 
-### Arora
-#### Hanté
+### Arora - Hanté
 Voici quelques manifestations du fantôme d'Arora qui pourraient venir le tourmenter :
 
 Un reflet dans une vitre | Croiser une personne portant le même parfum | Sentir sa présence à côté dans sa couchette
 -|-|-
-Dans l'ascenseur, sentir la chaleur de sa main serrée | Pianoter inconsciement son numéro de CommLink et entendre son répondeur | Le projet révolu de venir admirer les anneaux de Cepheus ensemble
+Dans l'ascenseur, sentir la chaleur de sa main serrée | Pianoter inconsciemment son numéro de CommLink et entendre son répondeur | Le projet révolu de venir admirer les anneaux de Cepheus ensemble
 
-#### Insomnies
 Pour réussir à s'endormir, Arora doit à chaque fois réussir un jet de **Se contrôler + Volonté**.
-En cas d'échec, c'est l'insomnie, et Arora sera épuisée nerveusement et incapable de rester dans son lit.
+En cas d'échec, c'est **l'insomnie**, et Arora sera épuisée nerveusement et incapable de rester dans son lit.
 
-### Sullivan
-#### Nemesis
+### Sullivan - Nemesis
 De tous les PJs, c'est à Sullivan que Cory 3 s'intéresse le plus,
 craignant même ses connaissances sur le système OC7 et les IAs.
 
@@ -148,22 +144,17 @@ et proposera de les retrouver pour les aider. C'est bien sûr un piège.
 
 > La mort est votre seule issue Sullivan. Je promets que vous ne souffrirez pas. Rendez-vous.
 
-### Torrensen
-#### Pickpocket
+### Torrensen - Pickpocket
 Histoire de fournir des opportunités à Torrensen d'employer sa capacité spéciale,
 voici quelques idées de vols d'objets, pouvant être mentionnés durant vos descriptions :
 
-Des pilulles de Tedium | Un petit cutter laser | Une poignée de billets
+Des pilules de Tedium | Un petit cutter laser | Une poignée de billets
 -|-|-
-L'arme de poing d'un personnage inattentif | La balise de Park | Une fiole dans la malette de Watters
+L'arme de poing d'un personnage inattentif | La balise de Park | Une fiole dans la mallette de Watters
 
-#### Cousin·e de Daryl
-Lorsque Torrensen rencontre Daryl, ce dernier aura une moue légèrement étonnée (repérable sur un jet de de **Percevoir + Observation**), reconnaissant en effet un·e cousin·e éloigné·e.
-Daryl attendra néanmoins d'être seul avec son parent pour évoquer sa surprise de la·le voir ici,
-étant au fait de son âge réel...
 
 ## PNJs
-En complément des informations données dans le scénario, cette section propose quelques éléments supplémentaires pour jouer les PNJs, en détaillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la manière la plus probable dont ils décèderont, et un conseil sur comment interprêter théâtralement chaque personnage. Je me suis inspirés pour ce dernier point de l'article [_Comment interpréter les traits distinctifs des PNJ_ de James Introcaso, traduit sur ptgptb.fr](https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj).
+En complément des informations données dans le scénario, cette section propose quelques éléments supplémentaires pour jouer les PNJs, en détaillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la manière la plus probable dont ils décéderont, et un conseil sur comment interpreter théâtralement chaque personnage. Je me suis inspirés pour ce dernier point de l'article [_Comment interpréter les traits distinctifs des PNJ_ de James Introcaso, traduit sur ptgptb.fr](https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj).
 
 Concernant les _morts probables_ : ces indications sont là pour vous encourager à décimer progressivement les PNJs au fur et à mesure du scénario, et ainsi maintenir la tension dramatique. N'hésitez pas pour autant à improviser et les faire décéder autrement !
 
@@ -172,7 +163,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * n'apprécie pas les dockers & manœuvres, qu'il trouve méprisant envers les ouvriers, et en particulier Ellen Frost qu'il déteste.
 
-* connait Watters et sa promotion du culte de l'Ascension. Il s'en méfie comme de la peste.
+* connaît Watters et sa promotion du culte de l'Ascension. Il s'en méfie comme de la peste.
 
 * a connaissance d'**une arme de contrebande (fusil à pompe) planquée au niveau 4**, dans un recycleur.
 
@@ -185,26 +176,26 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Attitude** : coopératif avec les PJs si cela le rapproche de ses objectifs. En cas de situation critique pour lui ou des ouvriers, il n'hésitera pas à jeter les PJs en pâture à des ennemis pour leur échapper.
 
-* **Roleplay** : posture très droite, presque rigide; parle de manière lente et posée, en prennant de profondes inspirations avant chaque nouvelle phrase.
+* **Roleplay** : posture très droite, presque rigide; parle de manière lente et posée, en prenant de profondes inspirations avant chaque nouvelle phrase.
 
-* **Mort probable** : en prennant d'assaut le vaisseau de « La Sécurité ».
+* **Mort probable** : en prenant d'assaut le vaisseau de « La Sécurité ».
 
-### Isaac Cameron dit « Le Marchand »
+### Isaac « Le Marchand » Cameron
 <img alt="Isaac Cameron" src="img/ElliotJolivet_Tensei_Inktober2017.jpg" class="pnj">
 
 * à l'acte 1, en plus des activités mentionnées par le scénario (pages 51 & 52), il sera en train d'enquiller les verres d'alcool fort au **bar le Kapow, au niveau 8**, au début de l'acte 2.
 
 * armé d'un **revolver**, il récupère le **taser** d'un marshal décédé et comprend vite qu'il est plus efficace contre les androïdes.
 
-* la moitié du paiement lui a été viré sur un compte extraplanétaire, l'autre lui a été remis « en liquide  », via des liasses de **crédits planqués dans une bible**
+* la moitié du paiement lui a été viré sur un compte extra-planétaire, l'autre lui a été remis « en liquide  », via des liasses de **crédits planqués dans une bible**
 
 * **Objectifs** :
     1. Survivre et fuir la station
     2. En profiter pour récupérer ce qui a de la valeur
 
-* **Attitude** : combatif, il n'hésite pas à affronter les androïdes, sans prendre de risques inutiles; s'il croise les PJs, il sera méfiant mais pas belliqueux, et pourra les accompagner un temps. Il grommele ses soupçons concernant Watters : _« Quel salopard... Tout est parti en vrille après le deal, comme par hasard... »_
+* **Attitude** : combatif, il n'hésite pas à affronter les androïdes, sans prendre de risques inutiles; s'il croise les PJs, il sera méfiant mais pas belliqueux, et pourra les accompagner un temps. Il grommelle ses soupçons concernant Watters : _« Quel salopard... Tout est parti en vrille après le deal, comme par hasard... »_
 
-* **Roleplay** : vouté; crispé, mais essaie de paraître détendu; se tripote les doigts constamment, ou les tapote sur la table.
+* **Roleplay** : voûté; crispé, mais essaie de paraître détendu; se tripote les doigts constamment, ou les tapote sur la table.
 
 * **Mort probable** : blessé mortellement par « La Sécurité », il agonise dans un recoin
 
@@ -221,7 +212,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Attitude** : nubile et allumeuse, quel que soit le genre de son interlocuteur•rice; elle est volubile et colportera volontiers infos et commérages sur toutes les personnes connues de la station.
 
-* **Roleplay** : voix suave; mache un chewing-gum; se tripote les cheveux; _« mon bichon »_; _« mon•a poulet•te »_; _« petit•e coquin•e »_, _« petit•e coquin•e »_, etc.
+* **Roleplay** : voix suave; mâche un chewing-gum; se tripote les cheveux; _« mon bichon »_; _« mon•a poulet•te »_; _« petit•e coquin•e »_, _« petit•e coquin•e »_, etc.
 
 * **Mort probable** : au début de l'acte 2, tuée par un androïde sous les yeux des PJs
 
@@ -232,7 +223,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 Un jet de **Percevoir + Observation** permettra de se douter qu'elle ment.
 Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de **S'imposer + Argumentation**.
 
-* durant l'acte 2, elle sera initiallement **bloquée dans sa cabine, au niveau 6**, des androïdes l'empêchant d'en sortir. Elle tentera alors de joindre des survivant via CommLink, et elle justifiera si besoin de son utilité en évoquant son expertise en IA & communications à Revolve.
+* durant l'acte 2, elle sera initialement **bloquée dans sa cabine, au niveau 6**, des androïdes l'empêchant d'en sortir. Elle tentera alors de joindre des survivant via CommLink, et elle justifiera si besoin de son utilité en évoquant son expertise en IA & communications à Revolve.
 
 * une fois qu'elle aura l'occasion d'examiner un androïde, elle sera la 1ère PNJ à **comprendre que Cory 3 est à l'origine de la rébellion**, et qu'il commande aux androïdes depuis la salle réseau du niveau 1 (_cf._ [Terminaux CommLinks](#terminaux-commlinks)), et que..
 
@@ -241,34 +232,34 @@ Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de
 * elle connaît bien Deware, et saura identifier les intentions de « La Sécurité » à leur arrivée. Elle mettra en garde les PJs, inquiète pour elle-même.
 
 * **Objectifs** :
-    1. Survivre : retrouver et suivre Jones lui semble initiallement le meilleur choix
+    1. Survivre : retrouver et suivre Jones lui semble initialement le meilleur choix
     2. Comprendre ce qui est arrivé aux androïdes
     3. Étouffer cette affaire, et détruire le labo de Revolve
 
-* **Attitude** : aucun remord à s'en sortir seule, mais elle sait qu'elle aura d'abord besoin d'alliés. Elle joue les pimbêches candides pour mieux leurer son monde, alors qu'elle a des nerfs d'acier. Elle a une arme à feu, qu'elle préfère cacher.
+* **Attitude** : aucun remord à s'en sortir seule, mais elle sait qu'elle aura d'abord besoin d'alliés. Elle joue les pimbêches candides pour mieux leurrer son monde, alors qu'elle a des nerfs d'acier. Elle a une arme à feu, qu'elle préfère cacher.
 
 * **Roleplay** : joue les apeurées; fait preuve d'auto-dérision; rit à ses propres traits d'humour; joue la carte de la complicité; se masse constamment les épaules; lance parfois des regards perçants trahissant sa dureté.
 
 * **Mort probable** : éventrée par une larve cosmique, après avoir trahi les PJs.
 
 ### Daryl Hamon
-* Daryl se doute que Cotton traffique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
+* Daryl se doute que Cotton trafique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
 
-* les compétences de Daryl en _hacking_ lui ont permi de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
+* les compétences de Daryl en _hacking_ lui ont permis de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
 
-* ses compétences en informatique lui ont également permi d'avoir accès à distance aux capteurs de la station, et Daryl a détecté des échanges de **communications à quelques km** seulement de Terra Nova (le vaisseau de « La Sécurité »). Il pense qu'il s'agit peut-être d'une balise spaciale « pirate » et est curieux d'en savoir plus.
+* ses compétences en informatique lui ont également permis d'avoir accès à distance aux capteurs de la station, et Daryl a détecté des échanges de **communications à quelques km** seulement de Terra Nova (le vaisseau de « La Sécurité »). Il pense qu'il s'agit peut-être d'une balise spatiale « pirate » et est curieux d'en savoir plus.
 
 * au début de l'acte 2, la moitié des chercheurs du laboratoire iront se réfugier dans leurs cabines du niveau 6. L'autre moitié aura été **massacrée par des androïdes**, et leurs corps entassés dans dans le local informatique de manière gore, éclaboussant de sang et de tripes toute la pièce. Daryl de son côté a réussi à ramper jusqu'à une cachette, avec uniquement ses prothèses de bras, et les androïdes ne l'ont pas trouvé.
 
-* le chaos ambiant sera pour lui une opportunité de quitter le laboratoire avec ses prothèses expérimentales des quatre membres qui lui manquent, _cf._ [Trolley dilemna](#acte-2-trolley-dilemna-au-laboratoire). Malheureusement celles-ci se mettront progressivement à **dysfonctionner** : jambe qui boîte, doigts bloqués, bras restant collé contre son corps... Sullivan pourra peut-être palier aux problèmes initiaux, mais les membres artificiels Daryl cesseront inéluctablement de fonctionner au terme de l'acte 2.
+* le chaos ambiant sera pour lui une opportunité de quitter le laboratoire avec ses prothèses expérimentales des quatre membres qui lui manquent, _cf._ [Trolley dilemma](#acte-2-trolley-dilemma-au-laboratoire). Malheureusement celles-ci se mettront progressivement à **dysfonctionner** : jambe qui boîte, doigts bloqués, bras restant collé contre son corps... Sullivan pourra peut-être palier aux problèmes initiaux, mais les membres artificiels Daryl cesseront inéluctablement de fonctionner au terme de l'acte 2.
 
-* s'il voit les cadavres des chercheurs de Revolve qui prennaient soin de lui, Daryl sera profondément **traumatisé**. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air ébété. _(Admin : trigger warning, ne jouez cette scène que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatisé par une autre scène sanglante, plus tard)_
+* s'il voit les cadavres des chercheurs de Revolve qui prenaient soin de lui, Daryl sera profondément **traumatisé**. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air hébété. _(Admin : trigger warning, ne jouez cette scène que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatisé par une autre scène sanglante, plus tard)_
 
 * **Objectifs** :
     1. s'émanciper et être autonome, parcourir la station avec ses prothèses
     2. contribuer à solutionner l'attaque des androïdes
 
-* **Attitude** : Daryl est très jovial et empathique. Il engagera spontannément la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motivé à accepter de venir sur Terra Nova, ses loisirs... Il aura la même attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera régulièrement : _« ne baissons pas les bras, on va s'en sortir ! »_, _« je suis sûr qu'en réfléchissant bien, on peut trouver une solution »_, _« vous nous avez sauvé tout à l'heure, j'ai confiance et je compte sur vous »_, etc.
+* **Attitude** : Daryl est très jovial et empathique. Il engagera spontanément la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motivé à accepter de venir sur Terra Nova, ses loisirs... Il aura la même attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera régulièrement : _« ne baissons pas les bras, on va s'en sortir ! »_, _« je suis sûr qu'en réfléchissant bien, on peut trouver une solution »_, _« vous nous avez sauvé tout à l'heure, j'ai confiance et je compte sur vous »_, etc.
 
 * **Roleplay** : son ton est toujours enjoué; il ponctue ses phrases de touches d'humour et de courts rires sincères : _« je ne te serre pas la main mais le cœur y est ! Ahaha 😄 »_. S'il est traumatisé à la vue de cadavres, adoptez un _roleplay_ significativement différent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et déprimé, et pourra même céder à la rage face aux androïdes.
 
@@ -282,7 +273,7 @@ Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de
 * sait qu'il peut y avoir du **matériel utile pour se défendre au niveau 2**, dans les bureaux de GEC.
 Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les hangars du niveau 10, à destination des ouvriers révoltés sur Cepheus.
 
-* il y a **un émeteur-récepteur longue portée au niveau 7**, dans sa cabine, qui lui permettait de contacter en secret d'autres leaders syndicalistes de stations et colonies environnantes. Cela peut sembler un moyen pour appaler à l'aide, mais il faudra compter plus de 16h avant d'avoir une réponse.
+* il y a **un émetteur-récepteur longue portée au niveau 7**, dans sa cabine, qui lui permettait de contacter en secret d'autres leaders syndicalistes de stations et colonies environnantes. Cela peut sembler un moyen pour appeler à l'aide, mais il faudra compter plus de 16h avant d'avoir une réponse.
 
 * à l'acte 2 les PJs la croiseront avec 4 dockers rescapés, donc 2 avec exo-squelettes
 
@@ -291,7 +282,7 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
     2. s'armer, lutter contre les androïdes et reprendre la station
     3. envoyer un SOS avec son récepteur
 
-* **Attitude** : elle sera ouverte à l'entraide avec des PJs combatifs ayant des objectifs compatibles. Elle provoquera des PJs trop passifs en les exortant à _« se sortir les doigts du trou noir »_. Prête à mettre sa vie propre vie en jeu.
+* **Attitude** : elle sera ouverte à l'entraide avec des PJs combatifs ayant des objectifs compatibles. Elle provoquera des PJs trop passifs en les exhortant à _« se sortir les doigts du trou noir »_. Prête à mettre sa vie propre vie en jeu.
 
 * **Roleplay** : s'exprime en phrases courtes, hachées, mordantes. Emploi de l'argot et du jargon de docker. Inspiration possible : _Camina Drummer_ dans _The Expanse_.
 
@@ -300,7 +291,7 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 ### Jada Jones
 <img alt="Jada Jones" src="img/JadaJones-aka-ZoeWashburne.jpg" class="pnj">
 
-* si elle est interrogée concernant le Tedium, Jones évoquera avoir mené son enquete, mais pretendra qu'elle n'a pas encore abouti. Elle mentionnera seulement avoir établi un lien entre cette drogue et le milieu de la prostitution.
+* si elle est interrogée concernant le Tedium, Jones évoquera avoir mené son enquête, mais prétendra qu'elle n'a pas encore abouti. Elle mentionnera seulement avoir établi un lien entre cette drogue et le milieu de la prostitution.
 
 * à l'acte 2 les PJs la croiseront accompagnée de 2 autres marshals rescapés, dont un sévèrement blessé. Avec leurs « smart guns », ils constituent les humains les mieux armés de la station.
 
@@ -318,7 +309,7 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 ### Léo·Léa Waschenski
 * le joueur concerné décidera si c'est réciproque, mais il est intéressant pour le scénario que Léo·Léa ait **le béguin pour Torrensen**.
 
-* durant l'acte 1, Léo·Léa pourra être aperçu·e écouter avec attention les prêches de Watters. Sensible à la verve du prêtre et à la perspective d'un au-delà radieux, Léo·Léa **devient dévôt du culte de l'Ascension**, sans le dire à son paternel.
+* durant l'acte 1, Léo·Léa pourra être aperçu·e écouter avec attention les prêches de Watters. Sensible à la verve du prêtre et à la perspective d'un au-delà radieux, Léo·Léa **devient dévot du culte de l'Ascension**, sans le dire à son paternel.
 
 * si les PJs manquent **la transaction** entre « Le Marchand » et « Code-barres », considérez que Léo·Léa a assisté à la scène, et pourra en témoigner plus tard.
 
@@ -333,22 +324,41 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 
 * **Mort probable** : possédée par une larve cosmique, à cause de Watters ou juste parcqu'iel en aura subtilisé une durant la panique de l'acte 3
 
-### Idris Watters et le culte de l'Ascension
+### Idris « Code-barres » Watters et le culte de l'Ascension
 <img alt="Idris Watters" src="img/IdrisWatters.png" class="pnj">
 
-Là où le scénario détaille parfaitement les actions de Watters, le culte et ses membrent sont très peu mentionnés.
+Là où le scénario détaille parfaitement les actions de Watters, le culte et ses membres sont très peu mentionnés.
 
 Voici quelques suggestions pour étoffer cela :
 
 * le culte prône que notre monde est un purgatoire, et que pour se libérer de nos souffrances, l'Homme doit « s'élever » pour devenir un **être cosmique**.
 
-* le processus « d'élévation » est nommé Ascension, et est ses détails constituent un secret mystique, rêvélé progressivement aux adeptes. Il commence par la prière et le renoncement aux possessions matérielles.
+* le processus « d'élévation » est nommé Ascension, et est ses détails constituent un secret mystique, révélé progressivement aux adeptes. Il commence par la prière et le renoncement aux possessions matérielles.
 
 * la gnose du culte inclut une « fin du monde » proche, avant laquelle il faut « s'élever », ainsi que la croyances en des formes de vie extra-terrestres qui nous observent et nous évaluent. Ainsi, pour les initiés, le processus d'Ascension vise en définitive à s'hybrider avec ces races aliens mythiques à l'apparence de poulpes.
 
-* les membres du culte dissimulent en général leur croyance, mais ils sont plus d'une quarantaine sur Terra Nova. Entre adeptes, ils échangent parfois **un discret signe de la main**, révêlant leur appartenance mutuelle au culte.
+* les membres du culte dissimulent en général leur croyance, mais ils sont plus d'une quarantaine sur Terra Nova. Entre adeptes, ils échangent parfois **un discret signe de la main**, révélant leur appartenance mutuelle au culte.
 
 * les membres du culte se réunissent dans **une animalerie abandonné des Arches**, qui vendait des animaux synthétiques. Les lieux sont désormais abandonnés, remplis de grandes quantités de poils et de plumes, et le culte y tient ses messes rituelles, dans un decorum de symboles astrologiques peints sur toutes les surfaces, et de paravents émettant un son bourdonnant.
+
+### Autres PNJs
+Durant l'acte 1, il est peu probable que les PJs s'adressent à d'autres PNJs notables.
+
+Par contre, durant l'acte 2, le moindre humain rescapé deviendra précieux et intéressant.
+Référez-vous à la table de la page 47 pour les nommer.
+<!--
+**Isaac** / **Naomi** / **Amos** / **Clarissa** / **Marco** / **Ellen**.
+-->
+Du point de vue du scénario, ces PNJs constituent de la « chair à canon » qui mourra probablement assez rapidement de la main des androïdes, sous les yeux des PJs, pour accroître la tension dramatique.
+
+Lorsque les PJs rencontrent des survivants, lancez 1D6 pour déterminer leurs intentions :
+1. Rejoindre Ellen Frost au niveau 9.
+2. Trouver des vivres et se planquer.
+3. Fuir du niveau 9 avec l'Eridanos.
+4. Appeler des secours au niveau 1.
+5. Piéger et affronter les androïdes.
+6. Attaquer et dépouiller les PJs.
+
 
 ### Jouer un PNJ
 **Yno** fournit une fiche de personnage vierge sur son site : [misterfrankenstein.com](https://www.misterfrankenstein.com/wordpress/?page_id=3).
@@ -373,14 +383,14 @@ Pour référence, voici les informations clefs que je trouve intéressant de men
 * soyez attentifs à éviter de vous couper la parole, et à bien **vous écouter les uns les autres**. Je vous encourage aussi à vous entraider, et surtout à **rebondir sur les idées** des uns des autres : les plans d'action et autres tentatives de _roleplay_ ne peuvent aboutir que si vous adoptez les suggestions de vos camarades.
 * je vous recommande d'essayer de prendre la parole **via vos personnages**, plutôt que j'échanger des remarques entre joueurs. Cela nécessite un petit effort, mais apporte aussi beaucoup à l'immersion dans la partie.
 * le « ton » envisagé pour cette partie est plutôt « sérieux », pas parodique, voir peut-être même effrayant par moments. Les blagues sont bienvenues plutôt par la bouche de vos personnages, ou pendant les temps de pause que nous ferons.
-* ce scénario contient un certain nombre de passages « scriptés », programmés d'avance. Mais selon vos actions, tous les pans de l'intrigues ne vous seront pas rêvélés, où ne se dérouleront pas forcément comme prévu. De plus, vous serez rapidement livrés à vous même, **autonomes**, et l'histoire ne pourra se développer que si vous prennez des **initiatives**. Sachez donc faire preuve d'imagination et d'audace !
+* ce scénario contient un certain nombre de passages « scriptés », programmés d'avance. Mais selon vos actions, tous les pans de l'intrigues ne vous seront pas révélés, où ne se dérouleront pas forcément comme prévu. De plus, vous serez rapidement livrés à vous même, **autonomes**, et l'histoire ne pourra se développer que si vous prenez des **initiatives**. Sachez donc faire preuve d'imagination et d'audace !
 * ce scénario étant limité dans le temps, je vous encourage à exploiter **assez vite** les informations dont vous disposez et que vous obtiendrez, sans quoi il se peut que vous manquiez certaines opportunités.
 * durant la partie, vous pourrez si vous les souhaitez me passer des **petits papiers** pour m'indiquer des actions que font vos personnages **en secret**. Vous pouvez aussi m'indiquer par ce biais si une scène ou un sujet vous mettent mal à l'aise, auquel cas je m'arrangerai pour couper court et avancer dans l'histoire.
-* afin d'éviter les appartés tant que possible, des choses seront dites autour de la table **que vos personnages ne savent pas**. En tant que joueurs vous aurez ainsi accès petit à petit à toutes les coulisses de l'intrigue. Il peut être intéressant d'orienter les actions et discussions de votre personnage en fonction de ce que vous avez appris "hors-champ", par exemple pour créer des échanges intéressants, mais n'oubliez pas que votre personnage n'a pas assisté à ces scènes et devra apprendre ces informations via des dialogues ensuite.
+* afin d'éviter les apartés tant que possible, des choses seront dites autour de la table **que vos personnages ne savent pas**. En tant que joueurs vous aurez ainsi accès petit à petit à toutes les coulisses de l'intrigue. Il peut être intéressant d'orienter les actions et discussions de votre personnage en fonction de ce que vous avez appris "hors-champ", par exemple pour créer des échanges intéressants, mais n'oubliez pas que votre personnage n'a pas assisté à ces scènes et devra apprendre ces informations via des dialogues ensuite.
 * enfin, vous avez toute liberté pour déterminer **le passé** de vos personnages, en inventant tout ce que vous souhaitez, tant que cela reste cohérent avec ce qui est établi sur vos feuilles.
 
 ### Connivences
-D'expérience, dans ce type de scénario, il est utile d'introduire de bonnes raisons pour que les personnages aient de l'interêt les uns envers les autres, et quelques bons prétextes pour engager la conversation, voir même des raisons de se faire confiance.
+D'expérience, dans ce type de scénario, il est utile d'introduire de bonnes raisons pour que les personnages aient de l’intérêt les uns envers les autres, et quelques bons prétextes pour engager la conversation, voir même des raisons de se faire confiance.
 
 Dans cette optique, vous pouvez faire en sorte que chaque joueur ait déjà au moins une information concernant un autre PJ en début de partie. Voici quelques papiers à découper et distribuer ainsi en début de partie :
 
@@ -389,7 +399,7 @@ Dans cette optique, vous pouvez faire en sorte que chaque joueur ait déjà au m
 **Sullivan** : tu as l'impression d'avoir déjà croisé Park dans ton précédent job, dans une manufacture d'androïdes. Lui aussi a dû décider de chercher mieux ailleurs. | **Arora** : après avoir échangé quelques mots avec Sullivan, ton instinct te souffle qu'il travaille dans un domaine proche du tien, et tu es curieux d'en savoir plus.
 **Torrensen** : tu as entendu parler du·de la partenaire d'Arora, qui est décédé·e de manière tragique... |
 
-Ces _Connivences_ ont aussi pour but de founrir quelques pistes aux joueurs concernant les secrets que leurs camarades tentent de camoufler...
+Ces _Connivences_ ont aussi pour but de fournir quelques pistes aux joueurs concernant les secrets que leurs camarades tentent de camoufler...
 
 ### Rumeurs
 Avant d'arriver sur Terra Nova, chaque PJ a déjà entendu parler d'au moins une rumeur sur cette station.
@@ -398,7 +408,7 @@ Voici donc un tableau d'informations que vous pourrez découper, puis faire pioc
 On dit que **Brett Bettany** est sur Terra Nova : tu l'as déjà croisé, c'est un ouvrier borné mais réglo. | On dit que **Kenneth O'Neil** est sur Terra Nova : tu l'as déjà croisé, c'est un marshal strict mais juste. | D'après les rumeurs, une nouvelle drogue de synthèse circulerait sur **Terra Nova**
 -|-|-
 On dit que l'église de l'**Ascension** est présente sur Terra Nova : leur culte a sale réputation. | Tu as entendu dire que Terra Nova comporterait un **laboratoire secret** d'expérimentation. | D'après les rumeurs, ça chauffe sur **Cepheus**, entre la _Global Extraction Corporation_ et les colons.
-On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranguer l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
+On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranger l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
 
 
 ## Acte 1 - L'œil pour le détail
@@ -407,13 +417,13 @@ La table ci-dessous fournit quelques éléments pour étoffer les descriptions d
 
 Durant l'acte 1, quel que soit l'endroit où se situent les PJs dans Terra Nova, demandez leur un jet de **Percevoir + Observation**.
 
-Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement ci-dessous correspondant à ce niveau de réussite, en déterminant un élement au hasard dans la liste avec 1D6. Barrez ensuite le résultat obtenu : s'il est tiré à nouveau lors d'un prochain jet, ignorez-le et passez au suivant.
+Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l’élément ci-dessous correspondant à ce niveau de réussite, en déterminant un élément au hasard dans la liste avec 1D6. Barrez ensuite le résultat obtenu : s'il est tiré à nouveau lors d'un prochain jet, ignorez-le et passez au suivant.
 
 **1-2 réussites** :
 
-1. À travers un hublot vous appercevez **Cepheus**. À cet instant, la planète est éclairée d'un halo surréel, saisissant de beauté... Puis cet instant de grâce se dissipe.
+1. À travers un hublot vous apercevez **Cepheus**. À cet instant, la planète est éclairée d'un halo surréel, saisissant de beauté... Puis cet instant de grâce se dissipe.
 
-2. Un peu plus loin, un employé en uniforme vert fouille dans sa poche en se dirigeant vers un CommLink, et **trébuche**. Heureusement un **androïde** _« Miranda »_ le rattrape _in-extremis_, lui évitant de se fracturer le crâne sur un rebord de métal. L'employé repousse le robot avec mépris... et lui crâche même au visage.
+2. Un peu plus loin, un employé en uniforme vert fouille dans sa poche en se dirigeant vers un CommLink, et **trébuche**. Heureusement un **androïde** _« Miranda »_ le rattrape _in-extremis_, lui évitant de se fracturer le crâne sur un rebord de métal. L'employé repousse le robot avec mépris... et lui crache même au visage.
 
 3. Un spot vidéo de **Revolve** vante l'autonomie révolutionnaire et l'incroyable précision des gestes de leurs androïdes
 
@@ -433,7 +443,7 @@ Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement c
 
 4. Une employée de Revolve (l'ingénieure en chef **Cotton**) apostrophe un officier de la sécurité de la station (la marshal adjointe **Jones**). Les deux femmes semblent énervées mais n'élèvent pas la voix pour autant. Tout ce que le PJ peut distinguer de leur échange c'est qu'il est question de ressources manquantes.
 
-5. Certaines personnes autour portent des **chaussures magnétiques**. Elles doivent leur permettrent de se déplacer à l'extérieur de la station, ou lorsque l'anneau générateur de gravité de la station est arrêté.
+5. Certaines personnes autour portent des **chaussures magnétiques**. Elles doivent leur permettre de se déplacer à l'extérieur de la station, ou lorsque l'anneau générateur de gravité de la station est arrêté.
 
 6. Un androïde Arnie de sécurité, en uniforme bleu, transporte une caisse à bout de bras, sur laquelle le PJ distingue la mention « **explosif** ». Il disparaît dans l'ascenseur / dans l'angle d'un couloir.
 
@@ -441,7 +451,7 @@ Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l'élement c
 ## Acte 1 - Un spectre dangereux
 L'une des étapes de la checklist d'Arora consiste à **vérifier l'usure des ascenseurs**.
 Lorsque le joueur incarnant ce personnage indique s'atteler à cette tâche,
-**prennez en apparté un autre joueur**, si possible celui d'un PJ du même genre que l'amour défun d'Arora,
+**prenez en aparté un autre joueur**, si possible celui d'un PJ du même genre que l'amour défunt d'Arora,
 et briefez-le ainsi :
 
 * dans cette courte scène, tu vas jouer le **fantôme** qui hante **Arora**, à son insu.
@@ -450,14 +460,14 @@ et briefez-le ainsi :
 * ton but est de **presser Arora à te porte secours**, quitte à prendre des risques.
 
 Revenez ensuite autour de la table de jeu, et demandez à Arora un jet de **Savoir-Faire + Mécanique**.
-Quel que soit le résultat du jet, indiquez-lui qu'il détecte un **dysfonctionnement anormal avec le mécanisme de nettoyage de l'ascenseur**, dont le mécanisme semble avoir été declenché avec quelqu'un à l'intérieur !
+Quel que soit le résultat du jet, indiquez-lui qu'il détecte un **dysfonctionnement anormal avec le mécanisme de nettoyage de l'ascenseur**, dont le mécanisme semble avoir été déclenché avec quelqu'un à l'intérieur !
 Horreur ! Il risque d'être précipité dans l'espace !
 En activant l'intercom, Arora réalise qu'il s'agit du PJ dont vous venez de briefer le joueur.
 
-Accordez-leur un instant de _roleplay_, puis demandez à Arora comment il souhaite procéder pour empêcher cette catastrophe. Ensuite, qu'il réussie ou non à empêcher l'ascenseur de se vider dans l'espace, concluez la scène en rêvelant que l'ascenseur était vide. Arora sentira alors le parfum ou verra un reflet de son amour défunt.
+Accordez-leur un instant de _roleplay_, puis demandez à Arora comment il souhaite procéder pour empêcher cette catastrophe. Ensuite, qu'il réussie ou non à empêcher l'ascenseur de se vider dans l'espace, concluez la scène en révélant que l'ascenseur était vide. Arora sentira alors le parfum ou verra un reflet de son amour défunt.
 
 Cette scène fonctionne encore mieux si vous établissez en début de partie,
-avec le joueur incarnant Arora, que son amour est mort lors de la depressurisation accidentelle d'un sas.
+avec le joueur incarnant Arora, que son amour est mort lors de la dépressurisation accidentelle d'un sas.
 
 
 ## Acte 2 - Big brother is watching you
@@ -485,18 +495,16 @@ Celui-ci ne bouge pas, mais est en réalité toujours actif.
 Il tentera d'éliminer le premier humain à sa portée.
 Si un PJ s'approche, une voix à l'intérieur l'avertira du danger.
 
-À l'intérieur du cabinet, 1D6 rescapés ont trouvé refuge, dont la grande majorité sont sérieusement blessés et nécessitent des soins urgents :
-**Isaac** / **Naomi** / **Amos** / **Clarissa** / **Marco** / **Ellen**.
+À l'intérieur du cabinet, 1D6 rescapés ont trouvé refuge, dont la majorité sont sérieusement blessés et nécessitent des soins urgents.
 
 L'un d'entre eux a eu le réflexe d'activer manuellement la fermeture de la porte pour bloquer un androïde qui s'apprêtait à entrer dans le cabinet.
 
-Les réfugiés sont assez paniqués, et leur seul plan est d'essayer de rejoindre Ellen Frost au niveau 9.
-Si les PJs se rendent ailleurs, la moitié des rescapés les suivra.
-Ces PNJs constituent de la « chair à canon » qui mourra probablement assez rapidement de la main des androïdes, sous les yeux des PJs.
+Les réfugiés sont assez paniqués.
+Quel que soit l'endroit où se rendent les PJs après, la moitié des rescapés les suivra.
 
 
-## Acte 2 - Trolley dilemna au laboratoire
-Cette scène vise à mettre les PJs face à un dilemne moral : **de quel PNJ sauver la vie** ?
+## Acte 2 - Trolley dilemma au laboratoire
+Cette scène vise à mettre les PJs face à un dilemme moral : **de quel PNJ sauver la vie** ?
 
 **Prérequis** à cette scène :
 
@@ -511,11 +519,11 @@ Cette scène vise à mettre les PJs face à un dilemne moral : **de quel PNJ sau
 * des écrans suspendus au mur, visibles dans tout le laboratoire, permettent de voir ce qu'il se passe dans le sas privé et la salle d'analyse
 
 Au début, laissez les PJs explorer les lieux, plus ou moins prudemment.
-Ils ne doivent pas s'en douter, mais aucun danger ne les attend initiallement.
+Ils ne doivent pas s'en douter, mais aucun danger ne les attend initialement.
 
 **Sullivan** sera probablement heureux de **retrouver Daryl**.
 Celui-ci est soulagé de voir les PJs, et reprend espoir.
-Rapidement, il exprime son intention de récupèrer ses prothèses de jambes pour pouvoir les accompagner.
+Rapidement, il exprime son intention de récupérer ses prothèses de jambes pour pouvoir les accompagner.
 Il **se rend alors dans le sas**, où il commence à fouiller parmi les caisses entreposées.
 Il se déplace en rampant, mais refuse toute aide.
 
@@ -529,15 +537,15 @@ La réussite d'un jet de **Percevoir + Observation** permettra à certains PJs d
 
 Si les PJs sont trop combatifs et envisagent de leur faire face, indiquez que ces robots se sont **blindés** en soudant des plaques de métal sur leurs membres : torse, jambes, bras.
 Cela les rend plus difficile à **Viser** (difficulté 3), et **réduit de 1 les dégâts au contact**.
-L'idée est d'inciter les PJs **à fuir ou à se cacher** initiallement.
+L'idée est d'inciter les PJs **à fuir ou à se cacher** initialement.
 
 Une fois dans le laboratoire, les androïdes entendent du bruit dans le sas et s'y dirigent immédiatement.
 Daryl se planque dans une petite caisse au pied de la porte extérieure du sas,
-et échappe initiallement à leur vigilance.
+et échappe initialement à leur vigilance.
 Les robots repèrent alors la présence de Cotton dans la salle d'analyse.
-Comme celle-ci a verouillé l'accès de son côté, ils commencent à **défoncer la porte**.
+Comme celle-ci a verrouillé l'accès de son côté, ils commencent à **défoncer la porte**.
 
-Les PJs peuvent suivre tout ce qui se passe en direct via les caméras retransmies sur les écrans,
+Les PJs peuvent suivre tout ce qui se passe en direct via les caméras retransmises sur les écrans,
 y compris l'incendie qui se propage dans la salle d'analyse,
 et Cotton à l'intérieur, face à la caméra, qui leur fait de grands gestes d'appel à l'aide.
 
@@ -548,16 +556,16 @@ Mais si celui-ci est dépressurisé, Daryl risque d'être aspiré...
 
 ## Acte 2 - Miracle de la fin du monde
 Durant l'acte 2, tous les membres survivants de l'Ascension se réfugieront à **l'animalerie abandonnée des Arches**, leur lieu de culte.
-Parmi les survivants que les PJs croiseront à travers la station, il est probable que certains soient des croyants cheminant vers ce lieu. Ils hésiteront néanmoins à révêler l'existence de ce lieu à des non-adeptes.
+Parmi les survivants que les PJs croiseront à travers la station, il est probable que certains soient des croyants cheminant vers ce lieu. Ils hésiteront néanmoins à révéler l'existence de ce lieu à des non-adeptes.
 
 Si les PJs se rendent sur place, il sera délicat de trouver un accès discret.
-Casser une vitre ou frapper à la porte condamnée éveillera immédiatament l'attention des cultistes, qui craigneront l'intrusion d'androïdes, et se prépareront à défendre leur dernier refuge.
+Casser une vitre ou frapper à la porte condamnée éveillera immédiatement l'attention des cultistes, qui craindront l'intrusion d'androïdes, et se prépareront à défendre leur dernier refuge.
 
 Il est néanmoins possible de passer par la boutique de bijoux attenante (De Lucina),
 et de forcer une serrure, pour s'introduire dans le repaire du culte.
 Dans ce cas, les PJs découvriront les croyants prosternés devant Watters, priant pour être sauvés en récitant une longue litanie, tandis que leur prêtre leur annonce la fin du monde.
 
-La melette est cachée dans un coin de la pièce. Si les choses tournent mal, Watters s'enfuira rapidement elle, et **un incendie** risque de rapidement se déclarer, l'un des nombreuses torches présentes mettant le feu à un tas de poils d'animaux synthétiques.
+La mallette est cachée dans un coin de la pièce. Si les choses tournent mal, Watters s'enfuira rapidement elle, et **un incendie** risque de rapidement se déclarer, l'un des nombreuses torches présentes mettant le feu à un tas de poils d'animaux synthétiques.
 
 ::: page-break
 :::
@@ -619,7 +627,7 @@ Le script `android-voice.sh` du [repository GitHub Lucas-C/jdr/ParadisPerdu](htt
 
 ## Clips vidéos
 Julien « Khamûl » Corroyer a réalisé une splendide bande annonce,
-que je vous encopurage à envoyer à vos joueurs avant la partie :
+que je vous encourage à envoyer à vos joueurs avant la partie :
 [Trailer pour Paradis Perdu - L'Antre de Khamûl - YouTube](https://www.youtube.com/watch?v=Za2wS_ldKTw).
 
 Voici également quelques autres vidéos YouTube qu'il peut être intéressant de montrer aux joueurs pour contribuer à l'ambiance de la partie :
@@ -681,7 +689,7 @@ Séquence de filtres Gimp employés :
 0. (optional) Remove background using: https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4
 1. Couleurs > Seuil noir & blanc
 2. Filtres > Flou > Flou gaussien : 0,5
-3. Filtres > Génériques > Eroder
+3. Filtres > Génériques > Éroder
 4. Filtres > Génériques > Dilater
 Séquence alternative :
 1. Convert to greyscale
