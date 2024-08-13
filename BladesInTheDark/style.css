@@ -16,7 +16,7 @@
   padding: 2rem 0; /* Sets vertical space after a page break, before starting page content */
 }
 
-#ce-qu-ils-savent-d-j- { page: p4; }
+#page-4 { page: p4; }
 @page p4 {
   background-image: url(img/angers-ma-03.jpg);
   background-repeat: no-repeat;
@@ -24,7 +24,7 @@
   background-size: contain;
 }
 
-#tactique-5-la-mani-re-forte { page: p7; }
+#page-7 { page: p7; }
 @page p7 {
   background-image: url(img/angers-ma-02.jpg);
   background-repeat: no-repeat;
@@ -138,9 +138,9 @@ img.bg {
   background-color: #08090a;
   color: white;
   font-family: "Kirsty";
+  text-transform: uppercase;
   height: 2rem;
   line-height: 2rem;
-  text-transform: uppercase;
   margin-top: 0;
   margin-bottom: .5rem;
   position: relative;
@@ -192,6 +192,12 @@ img.bg {
 .page-break { page-break-after: always; }
 
 .big { font-size: 1.2rem; }
+del { /* for ~~terms~~ like CRITICAL, COIN, HEAT, TRAUMA, REP, WANTED LEVEL... */
+  text-decoration: none;
+  font-family: "LinuxLibertineCapitals";
+  font-weight: bold;
+  font-variant-ligatures: none; /* avoids ligature of FF double letters (in "raffut") */
+}
 
 @media screen {
   body { margin-top: 3rem; }

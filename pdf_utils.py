@@ -66,7 +66,8 @@ def add_id_attrs_on_headings(html):
     soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
     for tag_name in ("h1", "h2", "h3", "h4"):
         for heading in soup.find_all(tag_name):
-            heading["id"] = slugify(heading.string)
+            if not heading.get("id"):
+                heading["id"] = slugify(heading.string)
     return soup.prettify(formatter="html5")
 
 

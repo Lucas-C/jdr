@@ -1,3 +1,5 @@
+Dernière version du PDF: [ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/ParadisPerdu-ModulesDeSecours.pdf)
+
 Présentation officielle du jeu : [Paradis Perdu @ misterfrankenstein.com](https://www.misterfrankenstein.com/wordpress/?p=5388)
 
 Les aides de jeux officielles sont téléchargeables sur cette page : <https://www.misterfrankenstein.com/wordpress/?page_id=3>

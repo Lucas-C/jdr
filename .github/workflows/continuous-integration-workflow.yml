@@ -59,6 +59,7 @@ jobs:
           cd BladesInTheDark
           if [[ $GIT_TAG =~ ^BladesInTheDark-v ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/BladesInTheDark-v/}/" BitD-Interrogatoires.md
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/BladesInTheDark-v/}/" BitD-Interrogation.md
           fi
           ./md2pdf.py
           cd -
