@@ -33,8 +33,8 @@ Idéalement, un PJ peut avoir été **arrêté par les Manteaux Bleus** au terme
 Si cette situation ne se présente pas spontanément, voici quelques manières d'amener l'interrogatoire d'un PJ :
 * dans une situation où les Manteaux Bleus ne paraissent pas au courant des activités illicites des PJs, il peut sembler à ces derniers plus prudent de faire « profil bas », coopérer et les suivre au poste pour une « entrevue de routine », plutôt que de déclencher un affrontement dans une situation à leur désavantage, risquant par exemple de révéler leur planque ou de trahir l'identité de l'un d'eux.
 * un interrogatoire peut être une **conséquence** d'un PJ qui **sombre dans l'excès** après s'être adonné à son Vice, et qui provoque une rixe ou qui « parle trop » alors qu'un indic est présent...
-* lors d'une course-poursuite avec les Manteaux Bleus, la capture peut être une **conséquence** possible d'une fuite ratée, à laquelle un PJ ne peut **Résister** par manque de points de stress.
-* vous pouvez proposer l'interrogatoire comme une variation de l'**imbroglio** _Arrestation_, ou une alternative à l'activité de temps mort _Réduire le raffut_ : les forces de l'ordre ont des soupçons sur un PJ, si celui-ci accepte de venir au poste pour être interrogé, le Raffut de la bande sera **réduit de moitié**.
+* lors d'une course-poursuite avec les Manteaux Bleus, la capture peut être une **conséquence** possible d'une fuite ratée, à laquelle un PJ ne peut **résister** par manque de points de stress.
+* vous pouvez proposer l'interrogatoire comme une variation de l'**imbroglio** _Arrestation_, ou une alternative à l'activité de temps mort **réduire le ~~raffut~~** : les forces soupçonnent un PJ, mais si celui-ci accepte d'être interrogé au poste, le ~~niveau d'avis de recherche~~ de la bande diminue d'un point.
 * un contact de la bande chez les Manteau Bleus peut leur proposer **un marché** : leur livrer une information précieuse ou un objet issu de la salle des scellés, s'ils acceptent en échange qu'un PJ « se fasse capturer » par ce contact ripou, ce qui lui vaudra une prime, voir une promotion.
 
 <!-- Start of page 2 -->
@@ -46,13 +46,13 @@ Afin de créer de la tension dramatique autour de la table, mieux vaut préparer
 
 ### Les enjeux
 Un certain nombre de conséquences négatives peuvent découler de cet interrogatoire :
-* le PJ peut consommer son dernier point de **Stress** et obtenir un nouveau **Trauma**.
-* la bande peut voir son niveau de **Raffut** augmenter, voir gagner un niveau d'**Avis de recherche**.
+* le PJ peut consommer son dernier point de **stress** et obtenir un nouveau ~~trauma~~.
+* la bande peut voir son niveau de ~~raffut~~ augmenter, voir gagner un ~~niveau d'avis de recherche~~.
 * le PJ peut être **incarcéré** en prison, si l'interrogatoire confirme les soupçons pesant sur lui.
 
 Mais surtout, en cuisinant le PJ, les Manteaux Bleus pourraient obtenir de lui de précieuses **informations**.
 <u>Listez sur une feuille de papier</u>, avant l'interrogatoire, ce que les forces de l'ordre pourraient découvrir selon les événements précédents de votre campagne en cours :
-* emplacement de la planque de la bande, et de leur **Magot**.
+* emplacement de la planque de la bande, et de leur **magot**.
 * des **PNJs alliés** : que ces contacts soient complices ou non, ils pourront ensuite être aussi interrogés...
 * des **activités illégales** commises par la bande, ou d'autres gangs : _Coups_, meurtres, pots de vins, trafics...
 * des **liens** entre différentes personnes ou enquêtes en cours, inconnus des Manteaux Bleus.
@@ -66,12 +66,12 @@ voir de le pousser à se trahir ou à trahir ses complices.
 ### Les Inspecteurs
 <img class="float-left" src="img/BitD-Artworks-Portrait-by-Tensei.jpg" alt="Portrait d'Inspecteur">
 
-Les Inspecteurs sont des gendarmes d'élite.
+Les Inspecteurs sont bien plus redoutables que les Manteaux Bleus.
 Ils sont souvent issus des familles d'ambassadeurs Akorosi à l'étranger,
 et ont été entraînés dans l'armée impériale.
 Ce sont à la fois de redoutables combattants, et des limiers hors pair.
-Ils sont entraînés à **détecter les mensonges** et, sans en abuser, vous pouvez employer cette capacité spéciale
-pour parfois justifier qu'un Inspecteur devine lorsqu'un PJ déguise la vérité.
+Ils sont entraînés à **détecter les mensonges**, et vous pouvez employer cette capacité spéciale
+pour justifier qu'un Inspecteur devine lorsqu'un PJ déguise la vérité.
 
 Les Inspecteurs adopteront différents masques pour faire parler les suspects :
 apparaissant tantôt débonnaires et sympathiques,
@@ -145,7 +145,8 @@ les Inspecteurs disposent des outils judiciaires traditionnels :
 
 <p class="page-break"></p>
 
-### Ce qu'ils savent déjà
+<h3 id="page-4">Ce qu'ils savent déjà</h3>
+
 <img class="size13 float-right" src="img/BitD-Artworks-Indic-by-Tensei.jpg" alt="Indic">
 
 Le PJ suspect est en lien avec un ou plusieurs crimes, et il a été mentionné par des témoins ou des victimes.
@@ -174,7 +175,7 @@ Vous pouvez lire celle proposée ci-dessous, ou vous en inspirer pour concevoir 
 > Le lieu semble être un ancien poste de douane fluvial, et se prolonge avec trois arches d'un pont en partie effondré,
 > mais toujours employé par le Guet pour amarrer plusieurs embarcations.
 
-> Plusieurs gardes patrouillent sur les courtines de la caserne, arbalète à la main.
+> Plusieurs gardes patrouillent sur les courtines de la caserne, fusil à la main.
 > Toutes les fenêtres comportent des barreaux d'acier, et une herse est relevée à ton entrée dans la cour intérieure.
 > Dans l'enceinte de la caserne, les Manteaux Bleus te dévisagent d'un air sévère.
 > Une fois la herse redescendue derrière toi, ils te fouillent et déposent toutes tes possessions dans un grand sac en toile de jute.
@@ -185,7 +186,7 @@ Vous pouvez lire celle proposée ci-dessous, ou vous en inspirer pour concevoir 
 > Dans une cellule proche, un homme est prostré dans un coin, et sanglote en marmonnant de manière incompréhensible.
 > Il semble avoir régressé au comportement d'un animal harassé, et gronde lorsque tu croises son regard.
 
-<br><br><br><br><br><br><br><br><br><br><br> <!-- a page break should occur there -->
+<p class="page-break"></p>
 
 ## Sur le gril
 C'est parti !
@@ -229,7 +230,7 @@ Voici quelques pistes pour procéder durant cette introduction :
 * mettre en évidence des **points communs** entre l'Inspecteur et le suspect : valeurs, principes, appétence pour les même vices, opinions politiques, PNJs qui sont des connaissances en commun, etc.
 * faire preuve de familiarité et de **connivance** : « ah ah, très drôle, tu me plais toi », « bon, ça ne sort pas d'ici, mais je suis bien d'accord avec toi », « ils n'ont eu que ce qu'ils méritaient », etc.
 * traiter la situation comme **anecdotique** et exprimer avoir envie de « régler ça rapidement ».
-* débuter par des questions auxquelles le suspect répondra « oui », pour provoquer un mécanisme d'**acceptation inconscient**, une technique courante de _marketing_. « Vous vous appelez < nom du PJ > ? » « Vous avez déclaré exercer la profession de < ... >, c'est bien ça ? » « En consultant votre dossier, je vois que vous venez de < héritage du PJ > et que avez un passé dans < antécédents du PJ >, c'est correct ? »
+* débuter par des questions auxquelles le suspect répondra « oui », pour provoquer un mécanisme d'**acceptation inconscient**, une technique courante de _marketing_. « Vous vous appelez _< nom du PJ >_ ? » « Vous avez déclaré exercer la profession de _< ... >_, c'est bien ça ? » « En consultant votre dossier, je vois que vous venez de _< héritage du PJ >_ et que avez un passé dans _< antécédents du PJ >_, c'est correct ? »
 * paraître **hésitant** sur la procédure exacte à suivre, poser des questions peu pertinentes, sur des **détails** des activités du PJ, en espérant provoquer des **mensonges** de sa part, qui serviront ensuite à le confondre.
 
 <br>
@@ -300,14 +301,15 @@ Les notes que vous avez pris depuis le début vous seront ici très précieuses.
 
 Plus il y a de dissonances dans les propos du PJ, plus les Inspecteurs évoqueront la gravité des charges qui pèsent sur lui.
 C'est le moment pour l'Inspecteur principal de jouer la carte de la **bouée de sauvetage** :
-il demande à son comparse d'aller leur charger à boire, se rapproche du prévenu,
+il demande à son comparse d'aller leur servir deux verres, se rapproche du prévenu,
 et lui propose **un dernier marché**, au choix selon les circonstances :
 * le suspect **balance ses camarades**, tous les gros poissons de la bande, et il pourra quitter Doskvol libre.
 * le suspect **plonge seul**, il assume toutes les charges, et ses camarades ne seront pas inquiétés.
 * le suspect reconnaît les faits, et signe son témoignage, mais l'Inspecteur conserve ça « au chaud », et le PJ devient un **indic** pour lui.
 
-### Tactique 5. La manière forte
-À ce stade de l’interrogatoire, les Inspecteurs estiment qu'ils ne tireront rien du suspect par la ruse et la discussion.
+<h3 id="page-7">Tactique 5. La manière forte</h3>
+
+À ce stade de l’interrogatoire, les Inspecteurs estiment qu'ils ne tireront plus rien du suspect par la ruse et la discussion.
 Ils décident donc d'employer les **outils ésotériques** détaillés dans une section précédente :
 alchimie, possession par un Fantôme ou confrontation avec l'esprit d'une victime dans une Coquille.
 Deux de ces approches se résolvent avec un jet de résistance, la troisième vous laisse l'occasion de poursuivre le _roleplay_ :
@@ -324,7 +326,7 @@ Néanmoins, [la torture ne fonctionne pas (lien)](https://www.amnesty.org/fr/wha
 Les Inspecteurs n'obtiendront donc aucune information utile de cette manière.
 
 <br>
-<img class="size8" src="img/seringue-from-rawpixel-id-10781221-public-domaine.svg" alt="Seringue">
+<img class="size8" src="img/syringe-from-rawpixel-id-10781221-public-domain.svg" alt="Seringue">
 <br>
 
 ### Intermèdes
@@ -340,7 +342,7 @@ et de débriefer un peu si besoin avec tous les joueurs autour de la table.
 Enfin, ces instants dans la cellule sont l'occasion pour le PJ de tenter de s'évader,
 ou de contacter ses comparses à l'extérieur.
 Néanmoins, ses conditions de détention sont volontairement impropices au repos,
-et il ne pourra donc pas se reposer et récupérer leurs points de **Stress**.
+et il ne pourra donc pas se reposer et récupérer leurs points de **stress**.
 
 Si vous le souhaitez, la poursuite de l'interrogatoire peut ensuite se faire avec **un autre Inspecteur secondaire**,
 incarné par un autre joueur.
@@ -436,7 +438,7 @@ et les illustrations de ville de tableaux du [parcours _Histoire d'Angers_ de so
 
 Merci aux relecteurs & testeurs de cette aide de jeu : Aurélien, Elliot, Matthieu, Thomas.
 
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser cette aide de jeu : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur Sumatra PDF](https://www.sumatrapdfreader.org), [le language Python](https://www.python.org/) et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) (Markdown → HTML) & [weasyprint](https://weasyprint.org/) (HTML → PDF).
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser cette aide de jeu : [le navigateur Firefox](https://www.mozilla.org/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur Sumatra PDF](https://www.sumatrapdfreader.org), [le language Python](https://www.python.org/) et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) (Markdown → HTML) & [weasyprint](https://weasyprint.org/) (HTML → PDF).
 
 <br>
 
@@ -473,7 +475,18 @@ racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch
 
 Com'
 
-* [ ] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36797#p36797
+* [ ] https://lucas-c.itch.io/
+* [ ] https://chezsoi.org/lucas/blog/
+* [ ] https://www.scenariotheque.org
 * [ ] email @ auteurs du livre
+* [ ] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36797#p36797
+* [ ] https://www.casusno.fr
+* [ ] https://lefix.di6dent.fr/archives/category/lundi-gratuit
+* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
+* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
+* [ ] https://www.reddit.com/r/jdr
+* [ ] https://black-book-editions.fr/forums.php?board_id=241
+* [ ] https://forums.ffjdr.org
+* [ ] Discord PTGPTB ?
 
 -->

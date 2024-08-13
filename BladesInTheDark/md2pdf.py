@@ -14,21 +14,24 @@ logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 CSS_FILEPATH = DIR / "style.css"
 DEMON_MD_FILEPATH = DIR / "BitD-DemonSheet.md"
 DEMON_OUT_FILEPATH = DIR / "BitD-DemonSheet.pdf"
-INTERRO_MD_FILEPATH = DIR / "BitD-Interrogatoires.md"
-INTERRO_OUT_FILEPATH = DIR / "BitD-Interrogatoires.pdf"
+INT_EN_MD_FILEPATH = DIR / "BitD-Interrogation.md"
+INT_EN_OUT_FILEPATH = DIR / "BitD-Interrogation.pdf"
+INT_FR_MD_FILEPATH = DIR / "BitD-Interrogatoires.md"
+INT_FR_OUT_FILEPATH = DIR / "BitD-Interrogatoires.pdf"
 
 
 def build_pdf():
     md_filepaths = ()
     # Uncomment one of those lines if you only want to --watch/re-build a single PDF
-    build_single_pdf(DEMON_MD_FILEPATH, DEMON_OUT_FILEPATH); md_filepaths += DEMON_MD_FILEPATH,
-    build_single_pdf(INTERRO_MD_FILEPATH, INTERRO_OUT_FILEPATH); md_filepaths += INTERRO_MD_FILEPATH,
+    build_single_pdf(DEMON_MD_FILEPATH,  DEMON_OUT_FILEPATH,  lang="fr"); md_filepaths += DEMON_MD_FILEPATH,
+    build_single_pdf(INT_FR_MD_FILEPATH, INT_FR_OUT_FILEPATH, lang="fr"); md_filepaths += INT_FR_MD_FILEPATH,
+    build_single_pdf(INT_EN_MD_FILEPATH, INT_EN_OUT_FILEPATH, lang="en"); md_filepaths += INT_EN_MD_FILEPATH,
     return md_filepaths
 
-def build_single_pdf(md_filepath, out_filepath):
+def build_single_pdf(md_filepath, out_filepath, lang):
     start = perf_counter()
     with out_filepath.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang="fr").getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang).getbuffer())
     set_metadata(out_filepath,
         title="Blades in the Dark - Interrogatoires",
         keywords=("jdr", "ttrpg", "blades in the dark", "roleplay", "aide de jeu"),
