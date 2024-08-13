@@ -16,7 +16,7 @@ The game offers an **Entanglement** called _Interrogation_:
 > But now that you’re here in the interrogation room, what kind of person are you?
 > Do you talk? Do you stand up to them? Do you make a deal?
 
-This **game module** invites you to develop these interrogation scenes, to make them crucial moments, where the PCs are put under pressure by the _Inspectors_, where they have a lot to lose, and where the situation will be resolved by memorable _roleplay_ moments.
+This **game module** for [Blades in the Dark](https://bladesinthedark.com/) invites you to develop these interrogation scenes, to make them crucial moments, where the PCs are put under pressure by the _Inspectors_, where they have a lot to lose, and where the situation will be resolved by memorable _roleplay_ moments.
 
 _**Warning**_: the goal here is to place the players in conditions close to those of a real police interrogation, and to **stress** them out. Some players do not enjoy playing such scenes at all, so only use this game module after consulting them, and if this idea suits them.
 Also ask them, in advance, how comfortable they are with their alter-egos experiencing police violence.
@@ -194,7 +194,7 @@ You can read the text below, or take inspiration from it to design your own deco
 
 <p class="page-break"></p>
 
-## On the grill
+## Grilled
 Here we go!
 Tell the players that you are going to play a sequence of pure _roleplay_,
 in **real time** without interruption or asides,

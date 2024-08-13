@@ -15,7 +15,7 @@ Le manuel du jeu propose un **imbroglio** nommé _Interrogatoire_ :
 > Ce n'est pas la fin du monde. Mais maintenant que vous êtes ici dans la salle d'interrogatoire,
 > quel genre de personne êtes-vous ? Est-ce que vous parlez ? Leur tenez-vous tête ? Est-ce que vous passez un marché ?
 
-Cette **aide de jeu** vous propose de développer ces scènes d'interrogatoire, pour en faire des moments cruciaux, où les PJs sont mis sous pression par les _Inspecteurs_, où ils ont beaucoup à perdre, et où la situation se résoudra par des moments de _roleplay_ mémorables.
+Cette **aide de jeu** pour [Blades in the Dark](https://www.500nuancesdegeek.fr/boutique/accueil/137-blades-in-the-dark-seconde-edition-revisee-9791090692619.html) vous propose de développer ces scènes d'interrogatoire, pour en faire des moments cruciaux, où les PJs sont mis sous pression par les _Inspecteurs_, où ils ont beaucoup à perdre, et où la situation se résoudra par des moments de _roleplay_ mémorables.
 
 _**Avertissement**_ : le parti-pris ici est de placer les joueurs dans des conditions proches de celles d'un véritable interrogatoire de police, et de générer un véritable **stress** chez eux. Certains joueurs n'apprécient pas du tout de jouer de telles scènes, n'employez donc cette aide de jeu qu'après les avoir consultés, et si cette proposition ludique leur convient.
 Demandez-leur également, en amont, à quel point ils sont à l'aise pour que leurs alter-egos subissent des violences policières.
@@ -477,8 +477,9 @@ Com'
 
 * [ ] https://lucas-c.itch.io/
 * [ ] https://chezsoi.org/lucas/blog/
-* [ ] https://www.scenariotheque.org
+      Développer origine de cette AdJ (le livre) + mentionner qu'elle peut s'employer dans d'autres jeux
 * [ ] email @ auteurs du livre
+* [ ] https://www.scenariotheque.org
 * [ ] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36797#p36797
 * [ ] https://www.casusno.fr
 * [ ] https://lefix.di6dent.fr/archives/category/lundi-gratuit
@@ -487,6 +488,7 @@ Com'
 * [ ] https://www.reddit.com/r/jdr
 * [ ] https://black-book-editions.fr/forums.php?board_id=241
 * [ ] https://forums.ffjdr.org
+* [ ] Links in https://github.com/Lucas-C/jdr README.md & index.md
 * [ ] Discord PTGPTB ?
 
 -->
