@@ -455,7 +455,7 @@ Finally, many thanks to the developers of the [free software](https://fr.wikiped
 
 This game module was created by Lucas Cimon and is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a> license.
 
-The source files used to generate this PDF are available [on GitHub](https://github.com/Lucas-C/jdr/tree/master/BladesInTheDark). Version: 1.0
+The source files used to generate this PDF are available [on GitHub](https://github.com/Lucas-C/jdr/tree/master/BladesInTheDark). Version: BladesInTheDark-Interrogation-v1.0
 
 This game module is distributed at a free price.
 If you want to support my projects, you can donate at [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogation).
