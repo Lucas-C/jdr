@@ -57,11 +57,19 @@ jobs:
 
           echo "Rendering BladesInTheDark"
           cd BladesInTheDark
-          if [[ $GIT_TAG =~ ^BladesInTheDark-v ]]; then
+          if [[ $GIT_TAG =~ ^BladesInTheDark-Interrogatoires-v ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/BladesInTheDark-v/}/" BitD-Interrogatoires.md
+          fi
+          if [[ $GIT_TAG =~ ^BladesInTheDark-Interrogation-v ]]; then
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/BladesInTheDark-v/}/" BitD-Interrogation.md
           fi
           ./md2pdf.py
+          if [[ $GIT_TAG =~ ^BladesInTheDark-Interrogatoires-v ]]; then
+            mv BitD-Interrogatoires.pdf ../$GIT_TAG.pdf
+          fi
+          if [[ $GIT_TAG =~ ^BladesInTheDark-Interrogation-v ]]; then
+            mv BitD-Interrogation.pdf ../$GIT_TAG.pdf
+          fi
           cd -
 
           echo "Rendering CheatYourOwnAdventure"

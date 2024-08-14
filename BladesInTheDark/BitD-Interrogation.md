@@ -132,10 +132,10 @@ Inspectors have traditional legal tools at their disposal:
 In Doskvol, Inspectors also have more **esoteric** tools:
 * an array of **alchemical** potions and drugs, including _Spark_, _Quicksilver_ and _Sight_,
 but also the _Serum of Truthfulness_ (IV/1, rare) capable of forcing a character to **answer without lying** to 6 questions,
-minus the highest die of a **Resistance roll** (Determination).
+minus the highest die of a **Resistance roll** (~~Resolve~~).
 * they can use a **Ghost** to **possess a suspect**, and thus search their memory,
 forcing them to **answer without lying** to 6 questions,
-minus the highest die of a **resistance roll** (Determination) to fight against the grip of the specter.
+minus the highest die of a **resistance roll** (~~Resolve~~) to fight against the grip of the specter.
 <br>
 Inspectors generally only use this latter technique as a last resort,
 because it can happen that the possession goes wrong, giving the suspect supernatural abilities...
@@ -458,9 +458,9 @@ This game module was created by Lucas Cimon and is licensed under the <a rel="li
 The source files used to generate this PDF are available [on GitHub](https://github.com/Lucas-C/jdr/tree/master/BladesInTheDark). Version: 1.0
 
 This game module is distributed at a free price.
-If you want to support my projects, you can donate at [lucas-c.itch.io](https://lucas-c.itch.io).
+If you want to support my projects, you can donate at [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogation).
 I would also be delighted to have your feedback if you use it:
-tell me how your game went via a comment on [lucas-c.itch.io](https://lucas-c.itch.io) or on [my blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+tell me how your game went via a comment on [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogation) or on [my blog](https://chezsoi.org/lucas/blog/blades-in-the-dark-interrogatoires.html).
 
 <style>
 @page {

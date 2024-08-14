@@ -192,7 +192,7 @@ img.bg {
 .page-break { page-break-after: always; }
 
 .big { font-size: 1.2rem; }
-del { /* for ~~terms~~ like CRITICAL, COIN, HEAT, TRAUMA, REP, WANTED LEVEL... */
+del { /* for ~~terms~~ like CRITICAL, COIN, HEAT, TRAUMA, REP, WANTED LEVEL, actions & attributes names... */
   text-decoration: none;
   font-family: "LinuxLibertineCapitals";
   font-weight: bold;

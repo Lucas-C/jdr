@@ -7,6 +7,9 @@ gamesOnItchIo['2200_le_jugement_des_dieux']='2200-le-jugement-des-dieux'
 gamesOnItchIo[gdav]=ameres-victoires-glorieuses-defaites
 gamesOnItchIo[LesCouloirsDuTemps]=les-couloirs-du-temps
 gamesOnItchIo[LesNonMorts]=les-non-morts
+gamesOnItchIo[CyberPunk]=cyberpunk
+gamesOnItchIo[BladesInTheDark-Interrogatoires]=blades-in-the-dark-interrogatoires
+gamesOnItchIo[BladesInTheDark-Interrogation]=blades-in-the-dark-interrogation
 
 GITHUB_REF=${1?-'git ref must be provided as argument'}
 GIT_TAG=${GITHUB_REF##*/}
