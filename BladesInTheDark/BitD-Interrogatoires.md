@@ -128,10 +128,10 @@ les Inspecteurs disposent des outils judiciaires traditionnels :
 À Doskvol, les Inspecteurs disposent aussi d'outils plus **ésotériques** :
 * un attirail de potions et drogues **alchimiques**, dont notamment de l'_Étincelle_, du _Vif-Argent_ et des _Potions de Vision_,
   mais aussi du _Sérum de Véracité_ (IV/1, rare) capable de forcer un personnage à **répondre sans mentir** à 6 questions,
-  moins le dé le plus élevé d'un **jet de résistance** (Détermination).
+  moins le dé le plus élevé d'un **jet de résistance** (~~Détermination~~).
 * ils peuvent employer un **Fantôme** pour **posséder un suspect**, et ainsi fouiller dans sa mémoire,
   le forçant à **répondre sans mentir** à 6 questions,
-  moins le dé le plus élevé d'un **jet de résistance** (Détermination) pour lutter contre l'emprise du spectre.
+  moins le dé le plus élevé d'un **jet de résistance** (~~Détermination~~) pour lutter contre l'emprise du spectre.
   <br>
   Les Inspecteurs n'emploient en général cette dernière technique qu'en dernier recours,
   car il peut arriver que la possession tourne mal, conférant au suspect des capacités surnaturelles...
@@ -430,7 +430,7 @@ Il peut être utile de t'éclipser au bon moment, pour laisser place à ces conf
 ## Remerciements
 Merci aux auteurs du [Petit manuel d'autodéfense en interrogatoire, aux éditions du commun](https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire), qui m'a servi d'inspiration pour cette aide de jeu.
 
-Merci à [Elliot Jolivet aka Tenseï](https://www.artstation.com/ej_tensei) pour les illustrations employés dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé sur le _thread_ [Reddit r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
+Merci à [Elliot Jolivet aka Tenseï](https://www.artstation.com/ej_tensei) pour les illustrations employées dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé sur le _thread_ [Reddit r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
 
 L'illustration de l'automate provient de la collection [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) de [Jeff Preston](http://team-preston.com) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)),
 les icônes de [game-icons.net](https://game-icons.net),
@@ -452,9 +452,9 @@ Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href=
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/BladesInTheDark). Version : 1.0
 
 Cette aide de jeu est diffusée à prix libre.
-Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
+Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires).
 Je serais ravi d'avoir vos retours si vous l'employez :
-racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) ou sur [mon blog](https://chezsoi.org/lucas/blog/blades-in-the-dark-interrogatoires.html).
 
 <style>
 @page {

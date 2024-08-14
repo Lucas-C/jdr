@@ -95,7 +95,10 @@ Cette seconde version du terminal comporte plusieurs changements :
 * la commande `map` n'indique plus la position à jour des androïdes.
 * les commandes `medic` & `port` ne fonctionnent plus.
 * la commande `audit` indique de très importants **dysfonctionnements des systèmes**, notamment des communications avec Cepheus, des communications spatiales et du réseau des androïdes.
-* de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes. Notamment **Ellen Frost** qui demande de l'aide alors que la dépressurisation du niveau 9 est en cours. Il y a également un message crypté de **La Sécurité** informant de son intervention imminente.
+* de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes :
+    + **Ellen Frost** demande de l'aide alors que la dépressurisation du niveau 9 est en cours
+    + **Léo·Léa Waschenski**, témoin des meurtres des androïdes, appelle à l'aide depuis les Arches
+    + un message crypté de **La Sécurité** informe de son intervention imminente
 
 ::: insert sf-bg-03 block-center
 Cher lecteur programmeur qui souhaiterait bidouiller ces terminaux,
@@ -199,22 +202,8 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Mort probable** : blessé mortellement par « La Sécurité », il agonise dans un recoin
 
-### Candy Davies
-<img alt="Candy Davies" src="img/CandyDavies.jpg" class="pnj" style="max-height: 14.5rem">
-
-* si les PJs remontent la piste des vendeurs de Tedium, ils entendront vite parler d'elle.
-
-* elle reconnaîtra facilement avoir vendu du Tedium, mais sera réticente à balancer son fournisseur.
-
-* ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de **S'imposer + Argumentation**... La menace d'alerter « les flics » ne l'effrayera pas.
-
-* si elle le peut, elle balancera seulement Jones, car Coton est une cliente qui paye bien et ne l'a jamais trahie. Et elle l'aime bien.
-
-* **Attitude** : nubile et allumeuse, quel que soit le genre de son interlocuteur•rice; elle est volubile et colportera volontiers infos et commérages sur toutes les personnes connues de la station.
-
-* **Roleplay** : voix suave; mâche un chewing-gum; se tripote les cheveux; _« mon bichon »_; _« mon•a poulet•te »_; _« petit•e coquin•e »_, _« petit•e coquin•e »_, etc.
-
-* **Mort probable** : au début de l'acte 2, tuée par un androïde sous les yeux des PJs
+### Cory 3
+TODO
 
 ### Darcy Cotton
 <img alt="Darcy Cotton" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png" class="pnj">
@@ -242,28 +231,22 @@ Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de
 
 * **Mort probable** : éventrée par une larve cosmique, après avoir trahi les PJs.
 
-### Daryl Hamon
-* Daryl se doute que Cotton trafique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
+### Candy Davies
+<img alt="Candy Davies" src="img/CandyDavies.jpg" class="pnj" style="max-height: 14.5rem">
 
-* les compétences de Daryl en _hacking_ lui ont permis de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
+* si les PJs remontent la piste des vendeurs de Tedium, ils entendront vite parler d'elle.
 
-* ses compétences en informatique lui ont également permis d'avoir accès à distance aux capteurs de la station, et Daryl a détecté des échanges de **communications à quelques km** seulement de Terra Nova (le vaisseau de « La Sécurité »). Il pense qu'il s'agit peut-être d'une balise spatiale « pirate » et est curieux d'en savoir plus.
+* elle reconnaîtra facilement avoir vendu du Tedium, mais sera réticente à balancer son fournisseur.
 
-* au début de l'acte 2, la moitié des chercheurs du laboratoire iront se réfugier dans leurs cabines du niveau 6. L'autre moitié aura été **massacrée par des androïdes**, et leurs corps entassés dans dans le local informatique de manière gore, éclaboussant de sang et de tripes toute la pièce. Daryl de son côté a réussi à ramper jusqu'à une cachette, avec uniquement ses prothèses de bras, et les androïdes ne l'ont pas trouvé.
+* ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de **S'imposer + Argumentation**... La menace d'alerter « les flics » ne l'effrayera pas.
 
-* le chaos ambiant sera pour lui une opportunité de quitter le laboratoire avec ses prothèses expérimentales des quatre membres qui lui manquent, _cf._ [Trolley dilemma](#acte-2-trolley-dilemma-au-laboratoire). Malheureusement celles-ci se mettront progressivement à **dysfonctionner** : jambe qui boîte, doigts bloqués, bras restant collé contre son corps... Sullivan pourra peut-être palier aux problèmes initiaux, mais les membres artificiels Daryl cesseront inéluctablement de fonctionner au terme de l'acte 2.
+* si elle le peut, elle balancera seulement Jones, car Coton est une cliente qui paye bien et ne l'a jamais trahie. Et elle l'aime bien.
 
-* s'il voit les cadavres des chercheurs de Revolve qui prenaient soin de lui, Daryl sera profondément **traumatisé**. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air hébété. _(Admin : trigger warning, ne jouez cette scène que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatisé par une autre scène sanglante, plus tard)_
+* **Attitude** : nubile et allumeuse, quel que soit le genre de son interlocuteur•rice; elle est volubile et colportera volontiers infos et commérages sur toutes les personnes connues de la station.
 
-* **Objectifs** :
-    1. s'émanciper et être autonome, parcourir la station avec ses prothèses
-    2. contribuer à solutionner l'attaque des androïdes
+* **Roleplay** : voix suave; mâche un chewing-gum; se tripote les cheveux; _« mon bichon »_; _« mon•a poulet•te »_; _« petit•e coquin•e »_, _« petit•e coquin•e »_, etc.
 
-* **Attitude** : Daryl est très jovial et empathique. Il engagera spontanément la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motivé à accepter de venir sur Terra Nova, ses loisirs... Il aura la même attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera régulièrement : _« ne baissons pas les bras, on va s'en sortir ! »_, _« je suis sûr qu'en réfléchissant bien, on peut trouver une solution »_, _« vous nous avez sauvé tout à l'heure, j'ai confiance et je compte sur vous »_, etc.
-
-* **Roleplay** : son ton est toujours enjoué; il ponctue ses phrases de touches d'humour et de courts rires sincères : _« je ne te serre pas la main mais le cœur y est ! Ahaha 😄 »_. S'il est traumatisé à la vue de cadavres, adoptez un _roleplay_ significativement différent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et déprimé, et pourra même céder à la rage face aux androïdes.
-
-* **Mort probable** : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses hors service.
+* **Mort probable** : au début de l'acte 2, tuée par un androïde sous les yeux des PJs
 
 ### Ellen Frost
 <img alt="Ellen Frost" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png" class="pnj">
@@ -287,6 +270,29 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 * **Roleplay** : s'exprime en phrases courtes, hachées, mordantes. Emploi de l'argot et du jargon de docker. Inspiration possible : _Camina Drummer_ dans _The Expanse_.
 
 * **Mort probable** : tuée au combat par un androïde en fin d'acte 2, ou durant d'acte 3.
+
+### Daryl Hamon
+* Daryl se doute que Cotton trafique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
+
+* les compétences de Daryl en _hacking_ lui ont permis de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
+
+* ses compétences en informatique lui ont également permis d'avoir accès à distance aux capteurs de la station, et Daryl a détecté des échanges de **communications à quelques km** seulement de Terra Nova (le vaisseau de « La Sécurité »). Il pense qu'il s'agit peut-être d'une balise spatiale « pirate » et est curieux d'en savoir plus.
+
+* au début de l'acte 2, la moitié des chercheurs du laboratoire iront se réfugier dans leurs cabines du niveau 6. L'autre moitié aura été **massacrée par des androïdes**, et leurs corps entassés dans dans le local informatique de manière gore, éclaboussant de sang et de tripes toute la pièce. Daryl de son côté a réussi à ramper jusqu'à une cachette, avec uniquement ses prothèses de bras, et les androïdes ne l'ont pas trouvé.
+
+* le chaos ambiant sera pour lui une opportunité de quitter le laboratoire avec ses prothèses expérimentales des quatre membres qui lui manquent, _cf._ [Trolley dilemma](#acte-2-trolley-dilemma-au-laboratoire). Malheureusement celles-ci se mettront progressivement à **dysfonctionner** : jambe qui boîte, doigts bloqués, bras restant collé contre son corps... Sullivan pourra peut-être palier aux problèmes initiaux, mais les membres artificiels Daryl cesseront inéluctablement de fonctionner au terme de l'acte 2.
+
+* s'il voit les cadavres des chercheurs de Revolve qui prenaient soin de lui, Daryl sera profondément **traumatisé**. Il restera mutique plusieurs dizaines de minutes, chancelant, mais acceptera de suivre les PJs d'un air hébété. _(Admin : trigger warning, ne jouez cette scène que si vous joueurs sont OK avec cela. Vous pouvez aussi choisir que Daryl soit traumatisé par une autre scène sanglante, plus tard)_
+
+* **Objectifs** :
+    1. s'émanciper et être autonome, parcourir la station avec ses prothèses
+    2. contribuer à solutionner l'attaque des androïdes
+
+* **Attitude** : Daryl est très jovial et empathique. Il engagera spontanément la conversation avec Sullivan, le questionnant sur son voyage jusqu'ici, ce qui l'a motivé à accepter de venir sur Terra Nova, ses loisirs... Il aura la même attitude bienveillante et curieuse lors de l'acte 2, et sera ravi de rencontrer les autres PJs, qu'il encouragera régulièrement : _« ne baissons pas les bras, on va s'en sortir ! »_, _« je suis sûr qu'en réfléchissant bien, on peut trouver une solution »_, _« vous nous avez sauvé tout à l'heure, j'ai confiance et je compte sur vous »_, etc.
+
+* **Roleplay** : son ton est toujours enjoué; il ponctue ses phrases de touches d'humour et de courts rires sincères : _« je ne te serre pas la main mais le cœur y est ! Ahaha 😄 »_. S'il est traumatisé à la vue de cadavres, adoptez un _roleplay_ significativement différent pour traduire ce choc. Daryl ne rira plus, il sera plus cynique et déprimé, et pourra même céder à la rage face aux androïdes.
+
+* **Mort probable** : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses hors service.
 
 ### Jada Jones
 <img alt="Jada Jones" src="img/JadaJones-aka-ZoeWashburne.jpg" class="pnj">
@@ -695,15 +701,31 @@ Séquence alternative :
 1. Convert to greyscale
 2. Convert to indexed palette with 3/4 colors
 
-Avis post-partie avec 5j :
+Avis post-partie de ~11h avec 5j :
 * super top dans l'ensemble !
-* inclure Cory 3 comme PNJ & détailler sa personnalité
-* Léo·Léa & Harp Waschenski sous-exploités
+* inclure Cory 3 comme PNJ & détailler sa personnalité -> illus
+* Léo·Léa & Harp Waschenski sous-exploités -> illus ? + pour Daryl Hamon ?
+* + exploiter niveau 4 ?
 * fin de partie moins "maîtrisée" et au rythme plus lent :
-  notamment, délicat de gérer le cumul d'ennemis (Cory 3 / cultistes possédés par larves / "La Sécurité")
+  notamment, délicat de gérer le cumul d'ennemis (Cory 3 / cultistes possédés par larves / "La Sécurité" / Darcy)
   et de proposer une conclusion de partie "au niveau" des enjeux narratifs
   -> trop d'ennemis apparaissent "soudainement", sans être suffisement "incarnés", par ex. "La Sécurité"
+    => faire en sorte que le chef de "La Sécurité" soit un PNJ déjà rencontré : Curtis Oakes ?
+        Il rôde pendant tout l'acte 1 autour des PJs, et reste dans sa planque à l'acte 2.
+    => encourager le MJ à faire en sorte que les PNJs possédés par les larves soient des persos que les PJs ont rencontré, par exemple forcés de la sorte par leurs proches membres du culte, comme marque "honorifique"
   -> les "options de sortie" pour les PJs sont trop peu claires
+    => vaisseau de "La Sécurité" : quel nom ? Abordage envisageable ?
+    => Eridanos détruit mais pods de survie réparables (nécessite Arora & sa capacité)
+    => vaisseau en réparation au port, et plus aucun mécano survivant (nécessite Arora & sa capacité)
+        MAIS zéro énergie : pile thermostatique à récupérer au niveau 10 (mais survivants veillent au grain)
+                                                        ou au niveau 4 (si les PJs trouvent l'info)
+* morceaux pour :
+  + mort de O'Neil
+  + thème des androïdes révoltés
+  + désactivation des androïdes
+  + thème des larves cosmiques
+  + thème de "La Sécurité"
+  + ?
 
 Com'
 * article blog : mentionner scénario Silent Hil qui m'avait marqué + adj Scavengers précédente
