@@ -1,3 +1,5 @@
+[BitD - Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires)
+
 # How to build PDFs
 
     pip install -r ../requirements.txt

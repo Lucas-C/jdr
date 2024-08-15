@@ -5,7 +5,7 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 - [2200: Le Jugement Des Dieux](2200_le_jugement_des_dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
 - [La Tour](latour)
 - [Sombre : Lab Escape](Sombre/scenario/Sombre-LabEscape.pdf) - PDF 21 pages, 8 Mo
-- [BitD-Interrogatoires.pdf](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-Interrogatoires.pdf), une aide de jeu pour _Blades in the Dark_
+- [BitD - Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires), une aide de jeu pour _Blades in the Dark_
 - [ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.github.io/jdr/ParadisPerdu/ParadisPerdu-ModulesDeSecours.pdf), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
 - [Amères Victoires & Glorieuses Défaites](gdav)
 - [Les Non-morts](LesNonMorts)

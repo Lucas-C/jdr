@@ -481,10 +481,9 @@ tell me how your game went via a comment on [lucas-c.itch.io](https://lucas-c.it
 
 Com'
 
-* [ ] https://lucas-c.itch.io/
-* [ ] https://bladesinthedark.com/fan-creations
-* [ ] https://community.bladesinthedark.com/
-* [ ] https://rpggeek.com/rpg/26952/blades-in-the-dark
-* [ ] more ?
+* [x] https://lucas-c.itch.io/interrogation
+* [x] https://bladesinthedark.com/fan-creations
+* [x] https://community.bladesinthedark.com/t/module-supplement-interrogation/2902
+* [wip] https://rpggeek.com/rpg/26952/blades-in-the-dark
 
 -->
