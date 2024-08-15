@@ -475,20 +475,20 @@ racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch
 
 Com'
 
-* [ ] https://lucas-c.itch.io/
-* [ ] https://chezsoi.org/lucas/blog/
-      Développer origine de cette AdJ (le livre) + mentionner qu'elle peut s'employer dans d'autres jeux
-* [ ] email @ auteurs du livre
-* [ ] https://www.scenariotheque.org
-* [ ] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36797#p36797
-* [ ] https://www.casusno.fr
-* [ ] https://lefix.di6dent.fr/archives/category/lundi-gratuit
-* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
-* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
-* [ ] https://www.reddit.com/r/jdr
+* [x] https://lucas-c.itch.io/interrogatoires
+* [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+* [x] https://chezsoi.org/lucas/blog/blades-in-the-dark-interrogatoires.html
+* [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
+* [x] email @ auteurs du livre
+* [wip] https://www.scenariotheque.org
+* [x] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36810#p36810
+* [x] https://lefix.di6dent.fr/archives/category/lundi-gratuit
+* [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
+* [x] https://www.reddit.com/r/jdr/comments/1esz0eh/aide_de_jeu_pour_jouer_des_interrogatoires_de/
 * [ ] https://black-book-editions.fr/forums.php?board_id=241
 * [ ] https://forums.ffjdr.org
-* [ ] Links in https://github.com/Lucas-C/jdr README.md & index.md
+* [ ] https://www.casusno.fr ?
+* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
 * [ ] Discord PTGPTB ?
 
 -->
