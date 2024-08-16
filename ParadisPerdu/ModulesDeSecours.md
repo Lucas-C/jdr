@@ -12,21 +12,7 @@ Elle se compose d'un ensemble de modules optionnels, que vous pourrez adopter po
 
 ### Sommaire
 
-- [Plan de la station Terra Nova](#plan-de-la-station-terra-nova)
-- [Terminaux CommLinks](#terminaux-commlinks)
-- [PJs](#pjs)
-- [PNJs](#pnjs)
-- [Intro - Briefing / Connivences / Rumeurs](#intro)
-- [Acte 1 - L'œil pour le détail](#acte-1-l-il-pour-le-d-tail)
-- [Acte 1 - Un spectre dangereux](#acte-1-un-spectre-dangereux)
-- [Acte 2 - Big brother is watching you](#acte-2-big-brother-is-watching-you)
-- [Acte 2 - Back to medbay](#acte-2-back-to-medbay)
-- [Acte 2 - Trolley dilemma au laboratoire](#acte-2-trolley-dilemma-au-laboratoire)
-- [Acte 2 - Miracle de la fin du monde](#acte-2-miracle-de-la-fin-du-monde)
-- [Diagramme des grandes étapes du scénario](#diagramme-des-grandes-tapes-du-sc-nario)
-- [Galerie d'illustrations](#galeries-d-illustrations)
-- [Ambiance sonore](#ambiance-sonore)
-- [Clips vidéos](#clips-vid-os)
+<ul class="toc" data-tags="h2"></ul>
 
 
 ## Plan de la station Terra Nova
@@ -576,7 +562,7 @@ La mallette est cachée dans un coin de la pièce. Si les choses tournent mal, W
 ::: page-break
 :::
 
-## Diagramme des grandes étapes du scénario
+## Diagramme des étapes du scénario
 
 <!-- La meilleure solution pour avoir un rendu "vertical" lisible a été de découper le diagramme en 2 -->
 <img class="diagram" alt="" src="scenario1.svg">
@@ -646,7 +632,7 @@ Voici également quelques autres vidéos YouTube qu'il peut être intéressant d
 Le script [gen_video_clips.sh](./gen_video_clips.sh) se charge de télécharger certaines de ces vidéos pour les rendre disponibles dans la galerie Sigal.
 -->
 
-## Illustrations restantes
+### Illustrations restantes
 <img style="margin-left: 0; margin-top: -1rem" alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg">
 <!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
 
