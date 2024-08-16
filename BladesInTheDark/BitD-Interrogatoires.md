@@ -456,7 +456,7 @@ Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c
 Je serais ravi d'avoir vos retours si vous l'employez :
 racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) ou sur [mon blog](https://chezsoi.org/lucas/blog/blades-in-the-dark-interrogatoires.html).
 
-<style>
+<style>/* Embedded there so that it does not affect BitD-DemonSheet */
 @page {
   counter-increment: page-count;
   @bottom-center {

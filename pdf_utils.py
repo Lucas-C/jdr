@@ -30,6 +30,7 @@ def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
     md_content = handle_ponctuation_whitespaces(md_content)
     html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = add_id_attrs_on_headings(html)
+    html = add_table_of_contents(html)
     lang_attr = f' lang="{lang}"' if lang else ''
     link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
     html_doc = f"""<!doctype html>
@@ -78,6 +79,21 @@ def slugify(s):
     s = re.sub(ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE, "", s)
     s = re.sub(ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE, "-", s)
     return quote(s)
+
+
+def add_table_of_contents(html):
+    'Adds items to <ul class="toc"> tags based on its data-tags attribute'
+    soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
+    for ul in soup.find_all("ul", class_="toc"):
+        heading_tags = ul["data-tags"].split(",") if ul.get("data-tags") else []
+        for tag in heading_tags:
+            for heading in soup.find_all(tag.strip()):
+                a = soup.new_tag("a", href="#" + heading["id"])
+                a.string = heading.string
+                li = soup.new_tag("li")
+                li.append(a)
+                ul.append(li)
+    return soup.prettify(formatter="html5")
 
 
 def set_metadata(filepath, title=None, description=None, keywords=()):

@@ -9,12 +9,20 @@
 @page {
   margin: /*top=*/25mm /*lateral=*/20mm /*bottom=*/25mm;
   counter-increment: page-count;
+  @bottom-center {
+    content: " ";
+    width: 16rem;
+    height: .35rem;
+    margin-top: 1rem;
+    background-image: url("gui/sci-fi-border-02.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
   @bottom-right {
     font-family: DINPro;
-    content: "Paradis Perdu - Modules de secours - page " counter(page-count);
-    font-style: italic;
+    content: counter(page-count);
     font-size: .8rem;
-    margin-right: 10mm;
+    margin-right: 49.333%;
     /* border: red 1px solid; */
   }
 }
@@ -34,18 +42,6 @@ h2 { font-family: DINPro-Black; font-size: 1.3rem; text-transform: uppercase; ma
 h3 { font-family: DINPro-Black; font-size: 1.15rem; }
 
 a { color: #1e3c8f; }
-/* hr { margin: .5rem auto 0; width: 15rem; border: 1px solid #4c6cca; } */
-hr {
-  width: 16rem;
-  height: .35rem;
-  margin-bottom: 0;
-  border: none;
-  background-image: url("gui/sci-fi-border-02.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  position: relative;
-  z-index: 1;
-}
 blockquote { font-family: DINCondensed; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
 li { margin: 1rem; }
 
@@ -131,6 +127,16 @@ img.between-dots {
 }
 
 .pnj { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }
+
+.toc {
+    columns: 2;
+    list-style-type: none;
+    font-size: .8rem;
+}
+.toc li a::after {
+  content: target-counter(attr(href), page-count);
+  float: right;
+}
 
 @media print {
   .web-only { display: none; }
