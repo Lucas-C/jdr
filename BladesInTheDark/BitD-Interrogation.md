@@ -484,6 +484,6 @@ Com'
 * [x] https://lucas-c.itch.io/interrogation
 * [x] https://bladesinthedark.com/fan-creations
 * [x] https://community.bladesinthedark.com/t/module-supplement-interrogation/2902
-* [wip] https://rpggeek.com/rpg/26952/blades-in-the-dark
+* [x] https://boardgamegeek.com/filepage/284309/blades-in-the-dark-interrogation
 
 -->

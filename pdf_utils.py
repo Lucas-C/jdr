@@ -1,13 +1,17 @@
 import asyncio, io, logging, re
+from contextlib import contextmanager
 from datetime import datetime
 from traceback import print_exc
 from urllib.parse import quote
 
 from bs4.builder._htmlparser import HTMLParserTreeBuilder
 from bs4 import BeautifulSoup
+from fpdf import FPDF
+from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
 from mistletoe.block_token import tokenize, BlockToken
 import pikepdf
+from pypdf import PdfReader, PdfWriter
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 try:
@@ -94,6 +98,49 @@ def add_table_of_contents(html):
                 li.append(a)
                 ul.append(li)
     return soup.prettify(formatter="html5")
+
+
+@contextmanager
+def add_to_page(page, unit="mm"):
+    k = get_scale_factor(unit)
+    format = (page.mediabox[2] / k, page.mediabox[3] / k)
+    pdf = FPDF(format=format, unit=unit)
+    pdf.add_page()
+    yield pdf
+    overlay_pdf = io.BytesIO(pdf.output())
+    overlay_page = PdfReader(overlay_pdf).pages[0]
+    page.merge_page(page2=overlay_page)
+
+@contextmanager
+def add_to_every_page_static(pdf_filepath, unit="mm"):
+    reader = PdfReader(pdf_filepath)
+    k = get_scale_factor(unit)
+    format = (reader.pages[0].mediabox[2] / k, reader.pages[0].mediabox[3] / k)
+    pdf = FPDF(format=format, unit=unit)
+    pdf.add_page()
+    yield pdf
+    overlay_pdf = io.BytesIO(pdf.output())
+    overlay_page = PdfReader(overlay_pdf).pages[0]
+    writer = PdfWriter()
+    for i, page in enumerate(reader.pages):
+        writer.add_page(page)
+        writer.pages[i].merge_page(page2=overlay_page)
+    writer.write(pdf_filepath)
+
+def add_to_every_page_dynamic(pdf_filepath, unit="mm"):
+    reader = PdfReader(pdf_filepath)
+    k = get_scale_factor(unit)
+    writer = PdfWriter()
+    for i, page in enumerate(reader.pages):
+        writer.add_page(page)
+        format = (page.mediabox[2] / k, page.mediabox[3] / k)
+        pdf = FPDF(format=format, unit=unit)
+        pdf.add_page()
+        yield pdf
+        overlay_pdf = io.BytesIO(pdf.output())
+        overlay_page = PdfReader(overlay_pdf).pages[0]
+        writer.pages[i].merge_page(page2=overlay_page)
+    writer.write(pdf_filepath)
 
 
 def set_metadata(filepath, title=None, description=None, keywords=()):

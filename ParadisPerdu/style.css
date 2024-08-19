@@ -9,20 +9,19 @@
 @page {
   margin: /*top=*/25mm /*lateral=*/20mm /*bottom=*/25mm;
   counter-increment: page-count;
-  @bottom-center {
+  @top-center {
     content: " ";
     width: 16rem;
     height: .35rem;
-    margin-top: 1rem;
+    margin-bottom: 1rem;
     background-image: url("gui/sci-fi-border-02.svg");
     background-size: contain;
     background-repeat: no-repeat;
   }
-  @bottom-right {
+  @bottom-center {
     font-family: DINPro;
     content: counter(page-count);
     font-size: .8rem;
-    margin-right: 49.333%;
     /* border: red 1px solid; */
   }
 }
@@ -37,7 +36,8 @@ footer {
 
 body { font-family: DINPro; text-align: justify; max-width: 42rem; margin: 0 auto; }
 
-h1 { font-family: Ailerons; text-align: center; font-size: 3.3rem; text-transform: uppercase; margin: 0; }
+h1 { font-family: Ailerons; text-align: center; font-size: 3.3rem; text-transform: uppercase; margin: 0;
+     page: cover-page; }
 h2 { font-family: DINPro-Black; font-size: 1.3rem; text-transform: uppercase; margin-top: 3rem; }
 h3 { font-family: DINPro-Black; font-size: 1.15rem; }
 
@@ -136,6 +136,11 @@ img.between-dots {
 .toc li a::after {
   content: target-counter(attr(href), page-count);
   float: right;
+}
+
+@page cover-page {
+  @top-center    { content: none; }
+  @bottom-center { content: none; }
 }
 
 @media print {
