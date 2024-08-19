@@ -1,18 +1,19 @@
 #!/usr/bin/env python
-# INSTALL: pip install pypdf
 # USAGE: ./build_FPs.py
-import io, os
-from contextlib import contextmanager
-from fpdf import FPDF
+import os, sys
 from pypdf import PdfReader, PdfWriter
 
 CUR_DIR = os.path.dirname(__file__)
+sys.path.append(f"{CUR_DIR}/../..")  # make pdf_utils.py importable
+from pdf_utils import add_to_page
+
 SRC_PDF = f"{CUR_DIR}/ParadisPerdu_fichedepersos_Le-mot-de-passe-est-le-nom-de-la-drogue.pdf"
 
 def build_fp(index, name):
     writer = PdfWriter()
     _from_pdf_page(writer, index)
-    with _add_to_page(writer) as pdf:
+    with add_to_page(writer.pages[0]) as pdf:
+        pdf.set_fill_color(255)  # white
         pdf.set_font("Helvetica", size=9)
         pdf.x, pdf.y = 160, 25
         pdf.multi_cell(w=80, h=3.666, text="""
@@ -28,16 +29,6 @@ Sullivan sera joué par Matthieu""")
 def _from_pdf_page(writer, index):
     pages = PdfReader(SRC_PDF, password="Tedium").pages
     writer.add_page(pages[index])
-
-@contextmanager
-def _add_to_page(writer, index=0):
-    pdf = FPDF(orientation="landscape")
-    pdf.add_page()
-    pdf.set_fill_color(255)  # white
-    yield pdf
-    overlay_pdf = io.BytesIO(pdf.output())
-    overlay_page = PdfReader(overlay_pdf).pages[0]
-    writer.pages[index].merge_page(page2=overlay_page)
 
 build_fp(0, "Torrensen")
 build_fp(1, "Park")

@@ -480,7 +480,7 @@ Com'
 * [x] https://chezsoi.org/lucas/blog/blades-in-the-dark-interrogatoires.html
 * [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
 * [x] email @ auteurs du livre
-* [wip] https://www.scenariotheque.org
+* [x] http://www.scenariotheque.org/Document/info_doc.php?id_doc=11197
 * [x] https://forum.500nuancesdegeek.fr/viewtopic.php?f=52&t=2067&p=36810#p36810
 * [x] https://lefix.di6dent.fr/archives/category/lundi-gratuit
 * [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
