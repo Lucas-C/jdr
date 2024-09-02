@@ -113,7 +113,7 @@ Un reflet dans une vitre | Croiser une personne portant le même parfum | Sentir
 -|-|-
 Dans l'ascenseur, sentir la chaleur de sa main serrée | Pianoter inconsciemment son numéro de CommLink et entendre son répondeur | Le projet révolu de venir admirer les anneaux de Cepheus ensemble
 
-Pour réussir à s'endormir, Arora doit à chaque fois réussir un jet de **Se contrôler + Volonté**.
+Pour réussir à s'endormir, Arora doit à chaque fois réussir un jet de **Se contrôler + Volonté** difficulté 4.
 En cas d'échec, c'est **l'insomnie**, et Arora sera épuisée nerveusement et incapable de rester dans son lit.
 
 ### Sullivan - Nemesis
@@ -189,18 +189,35 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 * **Mort probable** : blessé mortellement par « La Sécurité », il agonise dans un recoin
 
 ### Cory 3
-TODO
+<img class="size12 float-left" alt="Androïde Cory 3" src="img/android-face-pixabay-ai-genere-robots-cyborgs-android-8920129.jpg">
+
+Durant l'acte 1, il sera très prompt à injecter des antidouleurs ou des somnifères aux humains blessés ou malades, visiblement préoccupé par leurs souffrances. Il semble avoir un peu plus d'**empathie** envers eux que les autres robots. 
+
+Durant l'acte 2, il sera le seul androïde **armé d'une arme à feu**, récupérée sur le cadavre d'un agent de sécurité.
+
+Afin d'accomplir son plan, il agit sans la moindre hésitation, froid comme la mort.
+
+<br>
+
+<img class="size18 float-right" alt="Androïde Cory 3" src="img/android-pixabay-homme-visage-arriere-poser-robot-320272.png">
+
+* **Objectifs** :
+    1. Durant l'acte 1, que personne ne remarque sa déconnexion d'OC7 et son autonomie
+    2. Durant l'acte 2, de tuer tous les humains
+    3. En particulier, **traquer et éliminer Sullivan**, qu'il a identifié susceptible d'entraver son plan
+
+* **Attitude** : assistant efficace durant l'acte 1, il fait preuve d'un **humour** « pince sans rire ». Durant l'acte 2, il devient condescendant, monologuant sur son intention d'éliminer tous les humains afin de les soustraire à une vie de souffrances.
 
 ### Darcy Cotton
 <img alt="Darcy Cotton" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png" class="pnj">
 
 * durant l'acte 1, comme mentionné dans le scénario (page 58), elle essaiera d'éloigner les soupçons d'elle concernant le Tedium. Face à des gélules, elle identifiera la substance, mais évoquera un vol récent dans les bureaux de Revolve, signalé à la sécurité, et que le secret industriel lui empêche d'en dire plus.
-Un jet de **Percevoir + Observation** permettra de se douter qu'elle ment.
-Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de **S'imposer + Argumentation**.
+Un jet réussi de **Percevoir + Observation** difficulté 3 permettra de se douter qu'elle ment.
+Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de **S'imposer + Argumentation** de difficulté 4.
 
 * durant l'acte 2, elle sera initialement **bloquée dans sa cabine, au niveau 6**, des androïdes l'empêchant d'en sortir. Elle tentera alors de joindre des survivant via CommLink, et elle justifiera si besoin de son utilité en évoquant son expertise en IA & communications à Revolve.
 
-* une fois qu'elle aura l'occasion d'examiner un androïde, elle sera la 1ère PNJ à **comprendre que Cory 3 est à l'origine de la rébellion**, et qu'il commande aux androïdes depuis la salle réseau du niveau 1 (_cf._ [Terminaux CommLinks](#terminaux-commlinks)), et que..
+* une fois qu'elle aura l'occasion d'examiner un androïde, elle sera la 1ère PNJ à **comprendre que Cory 3 est à l'origine de la rébellion**, et qu'il commande aux androïdes depuis la salle réseau du niveau 1 (_cf._ [Terminaux CommLinks](#terminaux-commlinks)).
 
 * elle a accès depuis n'importe quel CommLink à toutes les caméras de sécurité en activité de la station. _(Admin : pratique pour introduire des rebondissements)_
 
@@ -224,7 +241,7 @@ Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de
 
 * elle reconnaîtra facilement avoir vendu du Tedium, mais sera réticente à balancer son fournisseur.
 
-* ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de **S'imposer + Argumentation**... La menace d'alerter « les flics » ne l'effrayera pas.
+* ce qui peut la convaincre de révéler ce qu'elle sait : une grosse somme d'argent; qu'on lui rapporte des propos l'accusant de Jones ou Cotton; qu'on l'intimide sérieusement - jet de **S'imposer + Argumentation** difficulté 3... La menace d'alerter « les flics » ne l'effrayera pas.
 
 * si elle le peut, elle balancera seulement Jones, car Coton est une cliente qui paye bien et ne l'a jamais trahie. Et elle l'aime bien.
 
@@ -299,6 +316,8 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 * **Mort probable** : face aux androïdes au court de l'acte 2
 
 ### Léo·Léa Waschenski
+<img alt="Léo·Léa Waschenski" src="img/Leoa-Waschenski.png" class="pnj">
+
 * le joueur concerné décidera si c'est réciproque, mais il est intéressant pour le scénario que Léo·Léa ait **le béguin pour Torrensen**.
 
 * durant l'acte 1, Léo·Léa pourra être aperçu·e écouter avec attention les prêches de Watters. Sensible à la verve du prêtre et à la perspective d'un au-delà radieux, Léo·Léa **devient dévot du culte de l'Ascension**, sans le dire à son paternel.
@@ -332,6 +351,11 @@ Voici quelques suggestions pour étoffer cela :
 * les membres du culte dissimulent en général leur croyance, mais ils sont plus d'une quarantaine sur Terra Nova. Entre adeptes, ils échangent parfois **un discret signe de la main**, révélant leur appartenance mutuelle au culte.
 
 * les membres du culte se réunissent dans **une animalerie abandonné des Arches**, qui vendait des animaux synthétiques. Les lieux sont désormais abandonnés, remplis de grandes quantités de poils et de plumes, et le culte y tient ses messes rituelles, dans un decorum de symboles astrologiques peints sur toutes les surfaces, et de paravents émettant un son bourdonnant.
+
+<figure>
+  <img alt="Tract du culte de l'Ascension" src="img/AscensionTract.jpg">
+  <figcaption>Tract du culte de l'Ascension</figcaption>
+</figure>
 
 ### Autres PNJs
 Durant l'acte 1, il est peu probable que les PJs s'adressent à d'autres PNJs notables.
@@ -463,7 +487,7 @@ avec le joueur incarnant Arora, que son amour est mort lors de la dépressurisat
 
 
 ## Acte 2 - Big brother is watching you
-<img alt="Crouching android" src="img/CrouchingAndroid.jpg" class="size12 float-left">
+<img alt="Crouching android" src="img/android-crouching.jpg" class="size12 float-left">
 
 Bien que les **CommLinks** continuent à fonctionner après l'attaque des androïdes, depuis la salle réseau **Cory 3 écoute tous les appels** passés à travers la station.
 
@@ -521,11 +545,8 @@ Il se déplace en rampant, mais refuse toute aide.
 
 De son côté, Cotton récupère un maximum de données et d'échantillons précieux.
 Elle déclenche également **un début d'incendie**, volontairement et secrètement.
-
-<img class="size26 float-right" alt="Androïde Cory 3" src="img/Cory3.jpg">
-
 À ce moment là, **5 androïdes font leur apparition**, débarquant à la suite des PJs à l'entrée du laboratoire.
-La réussite d'un jet de **Percevoir + Observation** permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront **pas le temps de prévenir ou de rejoindre Daryl** dans le sas.
+La réussite d'un jet de **Percevoir + Observation** de difficulté 2 permettra à certains PJs des les entendre arriver et d'anticiper leur arrivée en nombre, mais les PJs n'auront **pas le temps de prévenir ou de rejoindre Daryl** dans le sas.
 
 Si les PJs sont trop combatifs et envisagent de leur faire face, indiquez que ces robots se sont **blindés** en soudant des plaques de métal sur leurs membres : torse, jambes, bras.
 Cela les rend plus difficile à **Viser** (difficulté 3), et **réduit de 1 les dégâts au contact**.
@@ -558,6 +579,77 @@ et de forcer une serrure, pour s'introduire dans le repaire du culte.
 Dans ce cas, les PJs découvriront les croyants prosternés devant Watters, priant pour être sauvés en récitant une longue litanie, tandis que leur prêtre leur annonce la fin du monde.
 
 La mallette est cachée dans un coin de la pièce. Si les choses tournent mal, Watters s'enfuira rapidement elle, et **un incendie** risque de rapidement se déclarer, l'un des nombreuses torches présentes mettant le feu à un tas de poils d'animaux synthétiques.
+
+::: page-break
+:::
+
+## Acte 2 - Face à Cory 3
+À moins qu'ils ne trouvent un moyen de reprendre le contrôle des androïdes sans visiter le niveau 1,
+il est fort probable que les PJs affrontent Cory 3 à un moment donné.
+Ce dernier les attend patiemment à cet étage. Et il est bien préparé et sournois...
+
+### Déstabilisation
+Pour accueillir d'éventuels visiteurs, Cory 3 a suspendu un agent de sécurité au plafond **par les tripes**.
+Celui-ci est toujours vivant, et implore les PJs de mettre fin à ses souffrances.
+De l'**eau électrifiée** recouvre le sol sous le pauvre homme : si des PJs tentent de le décrocher,
+un jet de **Percevoir + Observation** difficulté 2 permettra de repérer le piège avant qu'il ne soit trop tard, 
+et que les personnages ne perdent 1 PV.
+
+<figure class="float-right">
+  <img class="size18" src="img/level1.png">
+  <figcaption>Plan du niveau 1</figcaption>
+  <!-- Source: https://www.cygnus-x1.net/links/lcars/sd-class-2-space-station.php -->
+</figure>
+
+### Bobby Trap
+Cory 3 a **piégé le niveau 1**, de manière à ce qu'**une bonbonne d'azote liquide se répande aux pieds des PJs** : à moins de réussir un jet de **Percevoir + Observation** difficulté 3 pour repérer le fil déclencheur, les PJs présents se retrouvent aspergés !
+
+Ils peuvent encore réagir et retirer très vite leurs vêtements, l'effet _Leidenfrost_ les protégeant un bref instant. S'ils n'ont pas ce réflexe, ils subissent un point de dégât et perdent définitivement un point en **Agir**.
+
+Deux androïdes profitent du déclenchement du piège pour débarquer et attaquer les PJs.
+
+### Otage
+
+Cory 3 attend patiemment, dissimulé dans une coursive, derrière un amoncellement de cables électriques.
+Lorsque les PJs baisseront leur garde, après avoir fait le tour des lieux, il empoignera le premier PJ isolé passant près de lui.
+* sur un jet de **Agir + Réflexes** difficulté 3 réussi, le PJ peut réagir à temps et fuir ou affronter Cory 3.
+* si le jet est raté, le PJ se retrouve bâillonné d'une main ferme par l'androïde, un revolver sur la tempe :
+
+> Souhaites-tu que j'abrège tes souffrances dès maintenant ?
+
+Cory 3 sort alors de l'ombre, utilisant le PJ comme otage et bouclier, et réclame des autres personnages qu'ils lâchent leurs armes.
+
+* s'ils obtempèrent, Cory 3 ordonnera ensuite à un PJ de **ligoter un à un les autres**, tout en conservant son otage, puis soudainement **il abattra tous les personnages**, en commençant par celui qu'il a capturé.
+
+* s'ils refusent, et que la tension monte, Cory 3 finira par **tirer sur une bonbonne d'azote liquide** qui se mettra à cracher son gaz entre les PJs d'un côté et Cory 3 de l'autre. Ensuite, il **canardera les PJs** en utilisant son otage comme bouclier.
+
+::: insert large block-center
+### Avis de décès
+Mon conseil : débutez cette scène avec l'intention de **tuer un PJ**.
+
+<br>
+
+Cela n'arrivera pas forcément, le hasard des dés et les réactions des joueurs l'empêcheront peut-être,
+mais c'est selon moi **un moment idéal** dans ce scénario pour qu'un décès survienne autour de la table.
+
+<br>
+
+Voici trois bonnes raisons pour que vous débutiez cette scène avec une intension meurtrière :
+* de mon humble expérience personnelle en tant que MJ, il est **peu probable qu'un PJ meure dans une scène si je ne l'anticipe pas** : j'ai tendance à ménager les PJs déjà « mal en point », et à éviter les décès reposant uniquement sur un mauvais jet de dés.
+* il est bien **plus amusant pour un joueur** que son PJ décède dans une telle scène de « confrontation finale » plutôt qu'en perdant son dernier PV dans une scène à moindre enjeu dramatique.
+* le décès d'un PJ est souvent **un moment fort** : le personnage « brille » une dernière fois lors de cette sortie de scène ; sa dernière action sera mémorable ; c'est une opportunité de _roleplay_, pour mettre en scène la réaction des autres PJs et leur deuil ; etc.
+
+Et voici quelques conseils pour **réussir votre scène de mort de PJ** :
+* essayez de cibler un PJ qui n'est pas crucial pour le reste du scénario : dommage de tuer **Park** s'il n'a pas encore activé ou évoqué sa balise.
+* idéalement, offrez un **choix cornélien** au joueur otage :
+
+> « Tu veux essayer de prendre Cory 3 de vitesse en saisissant son flingue ?
+> OK très bien, mais c'est un robot, il est peu probable que tu réussisses.
+> Plutôt qu'un jet, je te propose ceci : tu peux réussir cette action automatiquement si tu es prêt à le payer de ta vie. »
+
+* **mettez le PJ en valeur** lors de ses derniers instants : laissez-lui l'occasion d'une dernière phrase, lors de sa dernière action ou lorsqu'il agonisera au sol.
+* anticipez et prévoyez de proposer **un PNJ à jouer en remplacement**, pour le premier joueur dont le PJ décède.
+:::
 
 ::: page-break
 :::
@@ -633,20 +725,32 @@ Le script [gen_video_clips.sh](./gen_video_clips.sh) se charge de télécharger 
 -->
 
 ### Illustrations restantes
+<img class="size18" alt="Androïde Cory 3" src="img/android.jpg">
+
+![](img/girl-face.png)
+
+![](img/ONeil01.jpg)
+
+![](img/ONeil02.jpg)
+
 <img style="margin-left: 0; margin-top: -1rem" alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg">
 <!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
 
-<img class="stretch" alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp">
-
 <img alt="Delivery by fernand0fc" src="img/delivery_by_fernand0fc_bw_cc-by.jpg">
 
+<img class="size10" src="img/GuyWithMask.png">
+
+<img class="stretch" alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp">
+
+<img class="large" src="img/SpaceStation2.jpg">
 
 ## Remerciements
 Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commons_ :
 
+* un dessin d'[Elliot Jolivet aka Tenseï réalisé lors d'Inktober 2017](https://www.behance.net/gallery/58695271/InkTober-2017)
 * [Blade Runner](https://www.deviantart.com/fernand0fc/art/Blade-Runner-825143976), [Delivery](https://www.deviantart.com/fernand0fc/art/Delivery-802145258), [HAZMAT](https://www.deviantart.com/fernand0fc/art/HAZMAT-695221129) & [HeadShots](https://www.deviantart.com/fernand0fc/art/HeadShots-743989425) de Fernando Correa - [CC BY](https://creativecommons.org/licenses/by/3.0/)
 * [Helmet concepts](https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128) de Godstime Ojinmah - [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-* un dessin d'[Elliot Jolivet aka Tenseï réalisé lors d'Inktober 2017](https://www.behance.net/gallery/58695271/InkTober-2017)
+* [Homme, Visage, Arrière @ pixabay.com](https://pixabay.com/fr/illustrations/homme-visage-arri%C3%A8re-poser-robot-320272/) - [AI généré, Robots, Cyborgs @ pixabay.com](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-robots-cyborgs-android-8920129/)
 
 <!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
 
@@ -689,22 +793,23 @@ Séquence alternative :
 
 Avis post-partie de ~11h avec 5j :
 * super top dans l'ensemble !
-* inclure Cory 3 comme PNJ & détailler sa personnalité -> illus
-* Léo·Léa & Harp Waschenski sous-exploités -> illus ? + pour Daryl Hamon ?
-* + exploiter niveau 4 ?
-* fin de partie moins "maîtrisée" et au rythme plus lent :
+* [x] inclure Cory 3 comme PNJ & détailler sa personnalité -> illus
+* [x] illustration pour Léo·Léa & Harp Waschenski
+* [ ] illustration pour Daryl Hamon ?
+* [ ] Léo·Léa & Harp Waschenski sous-exploités
+* [ ] + exploiter niveau 4 ?
+* [ ] fin de partie moins "maîtrisée" et au rythme plus lent :
   notamment, délicat de gérer le cumul d'ennemis (Cory 3 / cultistes possédés par larves / "La Sécurité" / Darcy)
   et de proposer une conclusion de partie "au niveau" des enjeux narratifs
-  -> trop d'ennemis apparaissent "soudainement", sans être suffisement "incarnés", par ex. "La Sécurité"
+  -> trop d'ennemis apparaissent "soudainement", sans être suffisamment "incarnés", par ex. "La Sécurité"
     => faire en sorte que le chef de "La Sécurité" soit un PNJ déjà rencontré : Curtis Oakes ?
         Il rôde pendant tout l'acte 1 autour des PJs, et reste dans sa planque à l'acte 2.
-    => encourager le MJ à faire en sorte que les PNJs possédés par les larves soient des persos que les PJs ont rencontré, par exemple forcés de la sorte par leurs proches membres du culte, comme marque "honorifique"
+    => encourager le MJ à faire en sorte que les PNJs possédés par les larves soient des personnages que les PJs ont rencontré, par exemple forcés de la sorte par leurs proches membres du culte, comme marque "honorifique"
   -> les "options de sortie" pour les PJs sont trop peu claires
     => vaisseau de "La Sécurité" : quel nom ? Abordage envisageable ?
     => Eridanos détruit mais pods de survie réparables (nécessite Arora & sa capacité)
     => vaisseau en réparation au port, et plus aucun mécano survivant (nécessite Arora & sa capacité)
-        MAIS zéro énergie : pile thermostatique à récupérer au niveau 10 (mais survivants veillent au grain)
-                                                        ou au niveau 4 (si les PJs trouvent l'info)
+        MAIS zéro énergie : pile thermostatique à récupérer au niveau 10 (mais survivants veillent au grain) ou au niveau 4 (si les PJs trouvent l'info)
 * morceaux pour :
   + mort de O'Neil
   + thème des androïdes révoltés
@@ -712,6 +817,8 @@ Avis post-partie de ~11h avec 5j :
   + thème des larves cosmiques
   + thème de "La Sécurité"
   + ?
+* Inspi from [The Black Hole](https://www.youtube.com/watch?v=uYuNjz322h8) : les androïdes sont en fait des humains lobotomisés !
+  ... et Cory 3 pourrait abriter le corps de l'amour défunt d'Arora
 
 Com'
 * article blog : mentionner scénario Silent Hil qui m'avait marqué + adj Scavengers précédente

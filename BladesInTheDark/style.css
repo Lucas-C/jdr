@@ -123,7 +123,7 @@ img.bg {
 .insert {
   max-width: 16.5rem;
   background-color: #d6dfdf;
-  overflow: hidden;
+  overflow: hidden; /* Hides diamond ::after overflowing on the right */
 }
 .insert.large {
   max-width: 38rem;
@@ -147,7 +147,8 @@ img.bg {
 }
 .insert h2 { font-size: 1.2rem; }
 .insert h3 { font-size: 1rem; }
-.insert h2::after, .insert h3::after {content: '';
+.insert h2::after, .insert h3::after {
+  content: '';
   display: block;
   position: absolute;
   background-color: #d6dfdf;

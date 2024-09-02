@@ -8,10 +8,9 @@ sys.path.append(f"{CUR_DIR}/../..")  # make pdf_utils.py importable
 from pdf_utils import add_to_page
 
 def _addpages_from_ranges(writer, page_ranges):
-    pages = PdfReader(f"{CUR_DIR}/ParadisPerdu_presentation.pdf").pages
-    for page_range in page_ranges:
-        for pagenum in range(page_range[0], page_range[1]+1):
-            writer.add_page(pages[pagenum-1])
+    reader = PdfReader(f"{CUR_DIR}/ParadisPerdu_presentation.pdf")
+    for start, end in page_ranges:
+        writer.append(reader, pages=(start - 1, end))
 
 writer = PdfWriter()
 _addpages_from_ranges(writer, ((1, 2), (4, 6)))
