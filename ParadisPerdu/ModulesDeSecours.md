@@ -2,13 +2,20 @@
 # Modules de secours
 
 <br><br><br>
+<br><br><br>
 <img class="size16" alt="The Expanse" src="img/TheExpanse.webp">
-<br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
 Ceci est une aide de jeu pour [Paradis Perdu](https://www.misterfrankenstein.com/wordpress/?p=5388), un excellent jeu de rôle « Nuit Blanche » d'Anthony "Yno" Combrexelles.
-Elle se compose d'un ensemble de modules optionnels, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques points non détaillés dans le jeu de base.
 
-<br>
+Elle se compose d'un ensemble de **modules optionnels**, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. 
+
+Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques éléments non détaillés dans le jeu de base.
+
+::: page-break
+:::
 
 ### Sommaire
 
@@ -84,7 +91,7 @@ Cette seconde version du terminal comporte plusieurs changements :
 * de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes :
     + **Ellen Frost** demande de l'aide alors que la dépressurisation du niveau 9 est en cours
     + **Léo·Léa Waschenski**, témoin des meurtres des androïdes, appelle à l'aide depuis les Arches
-    + un message crypté de **La Sécurité** informe de son intervention imminente
+    + un message crypté de « La Sécurité » informe de son intervention imminente
 
 ::: insert sf-bg-03 block-center
 Cher lecteur programmeur qui souhaiterait bidouiller ces terminaux,
@@ -189,7 +196,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 * **Mort probable** : blessé mortellement par « La Sécurité », il agonise dans un recoin
 
 ### Cory 3
-<img class="size12 float-left" alt="Androïde Cory 3" src="img/android-face-pixabay-ai-genere-robots-cyborgs-android-8920129.jpg">
+<img alt="Androïde Cory 3" src="img/android-face-pixabay-ai-genere-robots-cyborgs-android-8920129.jpg" class="size12 float-left">
 
 Durant l'acte 1, il sera très prompt à injecter des antidouleurs ou des somnifères aux humains blessés ou malades, visiblement préoccupé par leurs souffrances. Il semble avoir un peu plus d'**empathie** envers eux que les autres robots. 
 
@@ -199,7 +206,7 @@ Afin d'accomplir son plan, il agit sans la moindre hésitation, froid comme la m
 
 <br>
 
-<img class="size18 float-right" alt="Androïde Cory 3" src="img/android-pixabay-homme-visage-arriere-poser-robot-320272.png">
+<img alt="Androïde Cory 3" src="img/android-pixabay-homme-visage-arriere-poser-robot-320272.png" class="size18 float-right">
 
 * **Objectifs** :
     1. Durant l'acte 1, que personne ne remarque sa déconnexion d'OC7 et son autonomie
@@ -211,7 +218,7 @@ Afin d'accomplir son plan, il agit sans la moindre hésitation, froid comme la m
 ### Darcy Cotton
 <img alt="Darcy Cotton" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png" class="pnj">
 
-* durant l'acte 1, comme mentionné dans le scénario (page 58), elle essaiera d'éloigner les soupçons d'elle concernant le Tedium. Face à des gélules, elle identifiera la substance, mais évoquera un vol récent dans les bureaux de Revolve, signalé à la sécurité, et que le secret industriel lui empêche d'en dire plus.
+* durant l'acte 1, comme mentionné dans le scénario (page 58), elle essaiera d'éloigner les soupçons d'elle concernant le Tedium. Face à des gélules, elle identifiera la substance, mais évoquera un vol récent dans les bureaux de Revolve, signalé à la sécurité de la station, et que le secret industriel lui empêche d'en dire plus.
 Un jet réussi de **Percevoir + Observation** difficulté 3 permettra de se douter qu'elle ment.
 Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de **S'imposer + Argumentation** de difficulté 4.
 
@@ -252,7 +259,7 @@ Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de
 * **Mort probable** : au début de l'acte 2, tuée par un androïde sous les yeux des PJs
 
 ### Ellen Frost
-<img alt="Ellen Frost" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png" class="pnj">
+<img alt="Ellen Frost" src="img/helmet_concepts_by_akol3850_x2_bw_flipped_cc-by-nc.png" class="pnj size10">
 
 * persuadée que GEC a causé l'attaque des androïdes pour mater les ouvriers, suite à la révolte sur Cepheus
 
@@ -275,6 +282,8 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 * **Mort probable** : tuée au combat par un androïde en fin d'acte 2, ou durant d'acte 3.
 
 ### Daryl Hamon
+<img alt="Daryl Hamon" src="img/pixabay-ai-genere-cyborg-femme-fille-8269779.png" class="pnj size11">
+
 * Daryl se doute que Cotton trafique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
 
 * les compétences de Daryl en _hacking_ lui ont permis de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
@@ -313,21 +322,21 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 
 * **Roleplay** : voix exagérément ferme et fébrile ; elle coupe la parole mais ne finit pas ses phrases ; elle répète souvent les même phrases : _« Allez on bouge ! »_, _« C'est moi le marshal »_, _« Il faut appeler les secours »_, _« Allez on bouge ! »_...
 
-* **Mort probable** : face aux androïdes au court de l'acte 2
+* **Mort probable** : face aux androïdes au court de l'acte 2, ou possédée par une larve cosmique
 
 ### Léo·Léa Waschenski
 <img alt="Léo·Léa Waschenski" src="img/Leoa-Waschenski.png" class="pnj">
 
-* le joueur concerné décidera si c'est réciproque, mais il est intéressant pour le scénario que Léo·Léa ait **le béguin pour Torrensen**.
-
 * durant l'acte 1, Léo·Léa pourra être aperçu·e écouter avec attention les prêches de Watters. Sensible à la verve du prêtre et à la perspective d'un au-delà radieux, Léo·Léa **devient dévot du culte de l'Ascension**, sans le dire à son paternel.
 
-* si les PJs manquent **la transaction** entre « Le Marchand » et « Code-barres », considérez que Léo·Léa a assisté à la scène, et pourra en témoigner plus tard.
+* si les PJs manquent **la transaction** entre « Le Marchand » et « Code-barres », considérez que Léo·Léa a assisté à la scène, et racontera ensuite aux PJs la scène étrange à laquelle il a assisté.
+
+* le joueur concerné décidera si c'est réciproque, mais il est intéressant pour le scénario que Léo·Léa ait **un coup de foudre pour Torrensen**. Léo·Léa ne sera ni très direct ni très expansif, mais va s'intéresser à Torrensen, [lui proposer un barre chocolatée](https://www.senscritique.com/liste/la_barre_chocolatee_ou_le_mediateur_extraordinaire/179448), jusqu'à lui demander de l'aide concernant la santé de son père.
 
 * **Objectifs** :
     1. Sauver son père
-    2. Se planquer jusqu'à ce que ça se tasse
-    3. Pas « voler » non, bien sûr, mais « récupérer » ce qui a de la valeur et qui sera perdu une fois la station abandonnée...
+    2. Passer du temps avec Torrensen et l'aider
+    3. Se planquer jusqu'à ce que ça se tasse
 
 * **Attitude** : empathique, Léo·Léa se persuade vite que les PJs ont « bon fond », et leur accordera sa confiance sans réserve.
 
@@ -368,13 +377,16 @@ Référez-vous à la table de la page 47 pour les nommer.
 Du point de vue du scénario, ces PNJs constituent de la « chair à canon » qui mourra probablement assez rapidement de la main des androïdes, sous les yeux des PJs, pour accroître la tension dramatique.
 
 Lorsque les PJs rencontrent des survivants, lancez 1D6 pour déterminer leurs intentions :
-1. Rejoindre Ellen Frost au niveau 9.
-2. Trouver des vivres et se planquer.
-3. Fuir du niveau 9 avec l'Eridanos.
-4. Appeler des secours au niveau 1.
-5. Piéger et affronter les androïdes.
-6. Attaquer et dépouiller les PJs.
 
+::: list-table
+1 | Rejoindre Ellen Frost au niveau 9.
+--|-
+2 | Trouver des vivres et se planquer.
+3 | Fuir du niveau 9 avec l'Eridanos.
+4 | Appeler des secours au niveau 1.
+5 | Piéger et affronter les androïdes.
+6 | Attaquer et dépouiller les PJs.
+:::
 
 ### Jouer un PNJ
 **Yno** fournit une fiche de personnage vierge sur son site : [misterfrankenstein.com](https://www.misterfrankenstein.com/wordpress/?page_id=3).
@@ -410,10 +422,12 @@ D'expérience, dans ce type de scénario, il est utile d'introduire de bonnes ra
 
 Dans cette optique, vous pouvez faire en sorte que chaque joueur ait déjà au moins une information concernant un autre PJ en début de partie. Voici quelques papiers à découper et distribuer ainsi en début de partie :
 
+::: connivences
 **Aberdeen** : tu as de la sympathie pour Torrensen, qui te rappelle un·e jeune que tu avais soigné sur Caliba, la planète en guerre où tu as exercé quelques années. | **Park** : Lors de ta courte formation paramilitaire sur Caliba, tu te souviens avoir croisé Aberdeen, qui faisait du bon boulot comme docteur sur le terrain.
 -|-
 **Sullivan** : tu as l'impression d'avoir déjà croisé Park dans ton précédent job, dans une manufacture d'androïdes. Lui aussi a dû décider de chercher mieux ailleurs. | **Arora** : après avoir échangé quelques mots avec Sullivan, ton instinct te souffle qu'il travaille dans un domaine proche du tien, et tu es curieux d'en savoir plus.
 **Torrensen** : tu as entendu parler du·de la partenaire d'Arora, qui est décédé·e de manière tragique... |
+:::
 
 Ces _Connivences_ ont aussi pour but de fournir quelques pistes aux joueurs concernant les secrets que leurs camarades tentent de camoufler...
 
@@ -421,14 +435,15 @@ Ces _Connivences_ ont aussi pour but de fournir quelques pistes aux joueurs conc
 Avant d'arriver sur Terra Nova, chaque PJ a déjà entendu parler d'au moins une rumeur sur cette station.
 Voici donc un tableau d'informations que vous pourrez découper, puis faire piocher à chaque joueur en début de partie (un ou deux chacun, comme vous voulez) :
 
+::: rumeurs
 On dit que **Brett Bettany** est sur Terra Nova : tu l'as déjà croisé, c'est un ouvrier borné mais réglo. | On dit que **Kenneth O'Neil** est sur Terra Nova : tu l'as déjà croisé, c'est un marshal strict mais juste. | D'après les rumeurs, une nouvelle drogue de synthèse circulerait sur **Terra Nova**
 -|-|-
 On dit que l'église de l'**Ascension** est présente sur Terra Nova : leur culte a sale réputation. | Tu as entendu dire que Terra Nova comporterait un **laboratoire secret** d'expérimentation. | D'après les rumeurs, ça chauffe sur **Cepheus**, entre la _Global Extraction Corporation_ et les colons.
 On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranger l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
+:::
 
 
 ## Acte 1 - L'œil pour le détail
-
 La table ci-dessous fournit quelques éléments pour étoffer les descriptions de la station orbitale, et réaliser un peu de _foreshadowing_ des événements à venir.
 
 Durant l'acte 1, quel que soit l'endroit où se situent les PJs dans Terra Nova, demandez leur un jet de **Percevoir + Observation**.
@@ -596,7 +611,7 @@ un jet de **Percevoir + Observation** difficulté 2 permettra de repérer le pi�
 et que les personnages ne perdent 1 PV.
 
 <figure class="float-right">
-  <img class="size18" src="img/level1.png">
+  <img alt="Plan du niveau 1" class="size18" src="img/level1.png">
   <figcaption>Plan du niveau 1</figcaption>
   <!-- Source: https://www.cygnus-x1.net/links/lcars/sd-class-2-space-station.php -->
 </figure>
@@ -654,12 +669,140 @@ Et voici quelques conseils pour **réussir votre scène de mort de PJ** :
 ::: page-break
 :::
 
+## Acte 3 - Répulsif & possessions
+Après avoir affronté des androïdes génocidaires, les PJs font face dans l'acte 3 à deux nouveaux antagonistes :
+les larves cosmiques et « La Sécurité ».
+
+Afin de doser la tension dramatique et temporiser l'adversité, une idée peut être
+de **rendre les PJs témoins passifs** des atrocités comises par les larves, dans un premier temps.
+
+Pour cela, vous pouvez introduire un autre objet dans **la malette transmise à Watters** :
+une canette de **_spray_, étiquettée « RÉPULSIF »**, placée à côté des 6 fioles réfrigérées.
+Il est fort probable que la malette tombe à un moment ou à un autre dans les mains des PJs,
+et même si Watters a déjà récupéré les fioles, il aura laissé ce _spray_.
+
+Les PJs n'auront aucun moyen d'en savoir plus sur ce produit, mais il est fort probable qu'ils tentent
+de s'en servir, et il s'avère effectivement **éloigner les humains possédés par des larves**.
+Ces derniers ignorent totalement un personnage recouvert de cette substance, comme s'il ne le percevaient pas.
+
+Bien sûr, la canette n'est pas inépuisable, et l'efficacité du produit limitée dans le temps.
+Considérez que la protection dure **une heure**,
+après quoi les « possédés » deviendront progressivement de plus en plus suspects
+envers les personnages recouverts de la substance.
+D'autre part, la canette contient suffisament de produit pour **protéger tous les PJs**,
+après quoi chaque utilisation supplémentaire provoquera un **jet de dé** :
+en cas d'échec (1 / 2 / 3), **cet emploi est le dernier, la canette s'est vidée**.
+
+L'objectif de cette mécanique de jeu est que les PJs assistent à **des scènes horribles**,
+se déroulant sous leurs yeux sans qu'ils soient mis en danger
+mais aussi sans qu'ils puissent sauver les victimes :
+* rituel du culte de l'Ascension pour faire ingérer une larve à un personnage : **Léo·Léa** de son plein gré, ou **Jada Jones** malgré elle
+* fécondation par un·e « possédé·e » de nouvelles larves dans l'estomac d'une victime : **Daryl Hamon** ? Un PJ ? Un autre PNJ ?
+* éclosion d'une larve et transformation de son hôte
+
+Favorisez la possession par des larves de personnages que les PJs ont rencontré,
+afin de rendre leur agonie tragique et la situation encore plus horrifique.
+
+::: page-break
+:::
+
+## Acte 3 - Sécurité subtile
+« La Sécurité » est décrite comme des mercenaires _« froids, méthodiques, discrets »_,
+qui réalisent leur opération d'extraction sans se poser la moindre question.
+
+Ce module vous propose de rendre ces antagonistes un peu plus roublards et cinématographiques,
+bref : plus amusants pour les joueurs à affronter.
+
+Conscients du risque que représente une intervention armée à l'encontre d'une station comme Terra Nova,
+une fois la balise déclenchée ou le « délai raisonable » épuisé,
+« La Sécurité » dépêche deux agents à bord, avec comme mission :
+
+1. de **localiser la malette**, et même la récupérer si l'occasion se présente
+2. si besoin, de **déclencher l'intervention** des troupes, puis de les diriger à bord
+
+Ces officiers arrivent donc à bord au début de l'acte 3, se propulsant depuis l'Illisos,
+leur vaisseau, vers la station en expulsant du gaz de leurs combinaisons spatiales.
+
+<br>
+
+<!-- We use flex boxes because with WeasyPrint float-right messes up the list ::markers -->
+:::: row
+<img alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg" class="float-left size12">
+<!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
+
+::: column no-list-margin-bottom
+**Couverture** : _Johanna_, civile en détresse
+
+**Point d'entrée** : sas du niveau 3 - si bloqué : sas du niveau 5
+
+**Mode opérationnel** :
+
+1. Rejoindre le groupe en possession de la malette
+2. Selon qui la possède, manipuler Watters / Park / les PJs
+3. Voler la malette en employant sa capsule soporifique
+:::
+::::
+
+<!-- On the contrary, WeasyPrint does not properly position an image flex box left to a another box, so we use float: -->
+<img alt="Delivery by fernand0fc" src="img/delivery_by_fernand0fc_bw_cc-by.jpg" class="float-right size16">
+
+**Couverture** : _Alex_, manœuvre avec un plan d'évacuation
+
+**Point d'entrée** : niveau 9, via un sas d'accès aux vaisseaux
+
+**Mode opérationnel** :
+
+1. D'abord observer à distance le groupe ayant la malette
+2. Prétendre venir en secours et proposer de conduire les personnages à un vaisseau recueillant les survivants
+3. Une fois dans une coursive « préparée » à l'avance, activer une porte de sécurité pour couper le couloir, et braquer les personnages avec la malette
+
+Les deux agents sont équipés chacun d'une arme à feu de poing,
+d'un _taser_ de contact, d'une oreillette de communication (entre eux et avec l'Illisos),
+d'une capsule de gaz soporifique, d'un masque respiratoire
+et d'une petite dose d'explosif.
+
+Bien qu'ils puissent abuser de sa crédulité,
+aucun des deux agents ne se soucie sincèrement du sort de Park.
+Ce dernier risque cependant de sérieux problèmes s'il n'a pas accompli sa mission.
+Il est peu probable qu'il puisse identifier les agents,
+mais vous pouvez lui permettre un jet de **Percevoir + Observation** de difficulté 4 pour cela.
+
+Si leur mission se passe bien, ils prévoient de repartir avec leur combinaison spatiale,
+qu'ils ont caché à proximité de leur point d'arrivée.
+Leur « plan B » commun, en particulier si les PJs s'interposent,
+sera de déclencher l'intervention des autres mercenaires de l'Illisos,
+qui accostent alors la station en l'espace de quelques minutes.
+
+Bien que _« froids, méthodiques, discrets »_, ces agents n'en restent pas moins humains :
+
+* si leur vie est menacée, ils préfereront révêler ce qu'ils savent plutôt que de mourir
+
+* des PJs persuasifs pourraient les convaincre qu'ils ne peuvent pas abandonner les survivants à leur sort, alors que la station chute vers Cepheus
+
+<img alt="" src="img/GuyWithMask.png" class="size10">
+
+## Acte 3 - Exit
+Voici quelques options supplémentaires s'offrant aux PJs pour quitter la station :
+
+* **Illisos**, le vaisseau de « La Sécurité », dans les conditions décrites par le livre.
+* l'**Eridanos** a été gravement endommagé suite aux explosions du niveau 9, mais certains **pods de survie** sont encore utilisables : 1D6 sont fonctionnels, et d'autres sont réparables, par exemple par Arora avec sa capacité spéciale. 
+* au niveau 4, une compagnie de transport expose un modèle de vaisseau « d'escorte » biplace, le **Céphise**. Assemblé sur place et fonctionnel, la plus grande difficulté pour employer cette embarcation sera de la faire sortir de la station... Au vu du temps limité dont disposent les PJs, faire exploser une paroi de l'étage risque d'être l'une des seules options envisageables.
+
+Idéalement, les PJs doivent avoir vent de ces options durant l'acte 2,
+mais ne pourront seulement y accéder que durant l'acte 3,
+par exemple parce que les endroits concernés sont scellés où pullulent d'androïdes.
+
+::: page-break
+:::
+
 ## Diagramme des étapes du scénario
 
 <!-- La meilleure solution pour avoir un rendu "vertical" lisible a été de découper le diagramme en 2 -->
 <img class="diagram" alt="" src="scenario1.svg">
 <img class="diagram" alt="" src="scenario2.svg">
 
+::: page-break
+:::
 
 ## Galeries d'illustrations
 J'ai constitué une galerie d'illustrations sur Pinterest pour chaque acte du scénario :
@@ -678,6 +821,7 @@ Pour cela, récupère au moins les fichiers `sigal.conf.py` et `gen_gallery.sh` 
 `sigal serve --browser`
 :::
 
+<br>
 
 ## Ambiance sonore
 À la fin du livre, **Yno** propose une _playlist_ YouTube.
@@ -686,13 +830,16 @@ Voici des _playlists_ alternatives, distinctes selon les actes du scénario :
 - [_playlist_ YouTube d'ambiance pour l'acte 1](https://youtube.com/playlist?list=PLLgE-ga3W_kZtrfXpoCl29f0AaEm1lJ1W), basée notamment sur les bande-sons de _Citizen Sleeper_ et _EVE Online_
 - [_playlist_ YouTube d'ambiance pour les actes 2 & 3](https://www.youtube.com/playlist?list=PLLgE-ga3W_kZxl-ncvX6RB6knVt3jO3CL), basée notamment sur les bande-sons de _Death Stranding_ et _Dead Space_
 
+::: page-break
+:::
+
 Et voici une sélection de morceaux plus « remarquables », pour des scènes spécifiques :
-* [CYBERPUNK IS COMING - Extra Terra](https://www.youtube.com/watch?v=6Pia2X856wo) (7min) : crescendo de tension un peu épique **→** pour rythmer un rebondissement, ou pour introduire une confrontation
-* [The War - Gerald Trottman - The Expanse](https://www.youtube.com/watch?v=0--XpUQKBUQ) (3min) : ambiance étrange, rythme qui s'intensifie puis ralentit à la fin **→** pour une courte confrontation, par exemple un duel avec un androïde ou une larve cosmique
-* [Heat Her Up - Clinton Shorter (The Expanse)](https://www.youtube.com/watch?v=V44uJKyS5LM) (4min) : crescendo « industriel » **→** pour une scène où les PJs mettent en œuvre leur plan d'action
-* [ludoWic - Katana ZERO](https://www.youtube.com/watch?v=_pMyRRFUMBE) (4min30) : crescendo électro de tension palpable **→** pour une scène de rencontre avec les androïdes lors de l'acte 2, le temps que les joueurs réagissent et tentent peut-être d'éviter une altercation sanglante
-* [Beam - Volkor X](https://www.youtube.com/watch?v=kT7kZ7HPJYM) (8min30) : crescendo très épique **→** fond sonore pour narrer les événements durant une transition d'acte, ou pour l'épilogue final
-* [Sutra japonais chanté](https://www.youtube.com/watch?v=a4vmA9noFXo) (25min) : longue litanie répétitive **→** pour la messe du culte de l'Ascension dans l'animalerie abandonnée.
+* [ludoWic - Katana ZERO](https://www.youtube.com/watch?v=_pMyRRFUMBE) (4min30) : crescendo électro de tension palpable **→** lancez ce morceau au début de la scène du **meurtre du marshal O'Neil**
+* [CYBERPUNK IS COMING - Extra Terra](https://www.youtube.com/watch?v=6Pia2X856wo) (7min) : crescendo de tension assez épique **→** lancez ce morceau lorsque les PJs découvrent **la révolte des androïdes**, et que vous leur décrivez la station qui bascule dans le chaos
+* [Sutra japonais chanté](https://www.youtube.com/watch?v=a4vmA9noFXo) (25min) : longue litanie répétitive **→** pour **la messe du culte de l'Ascension** dans l'animalerie abandonnée.
+* [The War - Gerald Trottman - The Expanse](https://www.youtube.com/watch?v=0--XpUQKBUQ) (3min) : ambiance étrange, rythme qui s'intensifie puis ralentit à la fin **→** employez ce morceau comme **thème pour « La Sécurité »**, à jouer lorsqu'ils interviennent dans le secteur où sont les PJs
+* [Heat Her Up - Clinton Shorter (The Expanse)](https://www.youtube.com/watch?v=V44uJKyS5LM) (4min) : crescendo « industriel » **→** pour une scène où les PJs mettent en œuvre **leur plan d'action**
+* [Beam - Volkor X](https://www.youtube.com/watch?v=kT7kZ7HPJYM) (8min30) : crescendo très épique **→** fond sonore pour votre fin de partie, pour la fuite de la station
 
 <!--
 Playlist The Expanse : [YouTube](https://www.youtube.com/playlist?list=PLLcod52t0kpfVsHz0laVYGX0owh05NR5W)
@@ -708,11 +855,13 @@ Pour ma part j'ai employé [espeak](https://doc.ubuntu-fr.org/espeak).
 Le script `android-voice.sh` du [repository GitHub Lucas-C/jdr/ParadisPerdu](https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu) permet de vocaliser quelques phrases.
 :::
 
+::: page-break
+:::
 
 ## Clips vidéos
 Julien « Khamûl » Corroyer a réalisé une splendide bande annonce,
 que je vous encourage à envoyer à vos joueurs avant la partie :
-[Trailer pour Paradis Perdu - L'Antre de Khamûl - YouTube](https://www.youtube.com/watch?v=Za2wS_ldKTw).
+[Trailer pour Paradis Perdu - L'Antre de Khamûl](https://www.youtube.com/watch?v=Za2wS_ldKTw).
 
 Voici également quelques autres vidéos YouTube qu'il peut être intéressant de montrer aux joueurs pour contribuer à l'ambiance de la partie :
 * [Enders Game Battle School](https://www.youtube.com/watch?v=t-dxN6VU-Io) : **→** pour l'arrivée sur la station Terra Nova
@@ -724,25 +873,12 @@ Voici également quelques autres vidéos YouTube qu'il peut être intéressant d
 Le script [gen_video_clips.sh](./gen_video_clips.sh) se charge de télécharger certaines de ces vidéos pour les rendre disponibles dans la galerie Sigal.
 -->
 
-### Illustrations restantes
-<img class="size18" alt="Androïde Cory 3" src="img/android.jpg">
+<br><br><br>
+<br><br><br>
+<img alt="" src="img/pixabay-ai-genere-grunge-cyborg-robot-9008140.png" class="size20">
 
-![](img/girl-face.png)
-
-![](img/ONeil01.jpg)
-
-![](img/ONeil02.jpg)
-
-<img style="margin-left: 0; margin-top: -1rem" alt="Femme braquant un revolver futuriste" src="img/girl-with-gun.jpg">
-<!-- Source : https://www.goodfon.com/fantasy/wallpaper-fantastika-art-devushka-sci-fi.html -->
-
-<img alt="Delivery by fernand0fc" src="img/delivery_by_fernand0fc_bw_cc-by.jpg">
-
-<img class="size10" src="img/GuyWithMask.png">
-
-<img class="stretch" alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp">
-
-<img class="large" src="img/SpaceStation2.jpg">
+::: page-break
+:::
 
 ## Remerciements
 Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commons_ :
@@ -750,11 +886,16 @@ Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commo
 * un dessin d'[Elliot Jolivet aka Tenseï réalisé lors d'Inktober 2017](https://www.behance.net/gallery/58695271/InkTober-2017)
 * [Blade Runner](https://www.deviantart.com/fernand0fc/art/Blade-Runner-825143976), [Delivery](https://www.deviantart.com/fernand0fc/art/Delivery-802145258), [HAZMAT](https://www.deviantart.com/fernand0fc/art/HAZMAT-695221129) & [HeadShots](https://www.deviantart.com/fernand0fc/art/HeadShots-743989425) de Fernando Correa - [CC BY](https://creativecommons.org/licenses/by/3.0/)
 * [Helmet concepts](https://www.deviantart.com/akol3850/art/Helmet-concepts-540178128) de Godstime Ojinmah - [CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-* [Homme, Visage, Arrière @ pixabay.com](https://pixabay.com/fr/illustrations/homme-visage-arri%C3%A8re-poser-robot-320272/) - [AI généré, Robots, Cyborgs @ pixabay.com](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-robots-cyborgs-android-8920129/)
+* quelques illustrations sont à l'origine issues de [pixabay.com](https://pixabay.com) : [Homme, Visage, Arrière](https://pixabay.com/fr/illustrations/homme-visage-arri%C3%A8re-poser-robot-320272/) - [AI généré, Robots, Cyborgs](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-robots-cyborgs-android-8920129/) - [AI généré, Femme, Cyborg](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-cyborg-femme-fille-8269779/) - [AI généré, Robots, Cyborgs](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-robots-cyborgs-android-8920129/) - [AI généré, Grunge, Cyborg](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-grunge-cyborg-robot-9008140/)
+<!--
+ - [AI généré, Femme, Cyborg](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-cyborg-femme-fille-8269778/)
+-->
 
 <!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
 
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), [Graphviz](https://graphviz.org/) & [sketchviz](https://github.com/gpotter2/sketchviz), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal). Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
+
+<br><br><br>
 
 ## Licence & feedbacks
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
@@ -769,6 +910,22 @@ Cette aide de jeu est diffusée à prix libre.
 Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
 Je serais ravi d'avoir vos retours si vous l'employez :
 racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+
+::: page-break
+:::
+
+## Illustrations restantes
+<img alt="Androïde Cory 3" src="img/android.jpg" class="size18">
+
+![](img/pixabay-ai-genere-cyborg-femme-fille-8269778.png)
+
+![](img/ONeil01.jpg)
+
+![](img/ONeil02.jpg)
+
+<img alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp" class="stretch size10">
+
+<img alt="" src="img/SpaceStation2.jpg" class="large">
 
 <!--
 Design goals:
@@ -793,31 +950,28 @@ Séquence alternative :
 
 Avis post-partie de ~11h avec 5j :
 * super top dans l'ensemble !
-* [x] inclure Cory 3 comme PNJ & détailler sa personnalité -> illus
-* [x] illustration pour Léo·Léa & Harp Waschenski
-* [ ] illustration pour Daryl Hamon ?
-* [ ] Léo·Léa & Harp Waschenski sous-exploités
-* [ ] + exploiter niveau 4 ?
-* [ ] fin de partie moins "maîtrisée" et au rythme plus lent :
+* fin de partie moins "maîtrisée" et au rythme plus lent :
   notamment, délicat de gérer le cumul d'ennemis (Cory 3 / cultistes possédés par larves / "La Sécurité" / Darcy)
   et de proposer une conclusion de partie "au niveau" des enjeux narratifs
+  -> les "options de sortie" pour les PJs sont trop peu claires
   -> trop d'ennemis apparaissent "soudainement", sans être suffisamment "incarnés", par ex. "La Sécurité"
     => faire en sorte que le chef de "La Sécurité" soit un PNJ déjà rencontré : Curtis Oakes ?
         Il rôde pendant tout l'acte 1 autour des PJs, et reste dans sa planque à l'acte 2.
-    => encourager le MJ à faire en sorte que les PNJs possédés par les larves soient des personnages que les PJs ont rencontré, par exemple forcés de la sorte par leurs proches membres du culte, comme marque "honorifique"
-  -> les "options de sortie" pour les PJs sont trop peu claires
-    => vaisseau de "La Sécurité" : quel nom ? Abordage envisageable ?
-    => Eridanos détruit mais pods de survie réparables (nécessite Arora & sa capacité)
-    => vaisseau en réparation au port, et plus aucun mécano survivant (nécessite Arora & sa capacité)
-        MAIS zéro énergie : pile thermostatique à récupérer au niveau 10 (mais survivants veillent au grain) ou au niveau 4 (si les PJs trouvent l'info)
-* morceaux pour :
-  + mort de O'Neil
-  + thème des androïdes révoltés
-  + désactivation des androïdes
-  + thème des larves cosmiques
-  + thème de "La Sécurité"
-  + ?
-* Inspi from [The Black Hole](https://www.youtube.com/watch?v=uYuNjz322h8) : les androïdes sont en fait des humains lobotomisés !
+        -> pas cohérent, car alors pas besoin de balise...
+* [x] inclure Cory 3 comme PNJ & détailler sa personnalité -> illus
+* [x] illustration pour Léo·Léa & Harp Waschenski
+* [x] illustration pour Daryl Hamon
+* [x] Léo·Léa & Harp Waschenski sous-exploités
+* [x] détailler les "options de sortie" des PJs => section dédiée ajoutée
+* [x] + exploiter niveau 4 => Céphise
+* [x] encourager à ce que les PNJs possédés par les larves soient des personnages que les PJs ont rencontré
+* [ ] mieux introduire & incarner "La Sécurité"
+* !!! penser à ajouter nouvelles scènes au diagramme
+* [x] morceau pour la mort de O'Neil
+* [x] thème des androïdes révoltés
+* [x] thème pour "La Sécurité"
+* [ ] thème des larves cosmiques
+* Inspiration from [The Black Hole](https://www.youtube.com/watch?v=uYuNjz322h8) : les androïdes sont en fait des humains lobotomisés !
   ... et Cory 3 pourrait abriter le corps de l'amour défunt d'Arora
 
 Com'
@@ -826,3 +980,4 @@ Com'
 * itch.io : modifier les liens itch.io ci-dessus une fois la page publiée
 * commentaire ici : https://www.misterfrankenstein.com/wordpress/?p=5388
 -->
+

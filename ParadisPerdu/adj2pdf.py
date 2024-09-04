@@ -83,14 +83,7 @@ def add_page_number_backgrounds(pdf_filepath):
                     pdf.line(*part1, *part2)
         # Draw central circle:
         pdf.set_line_width(.2)
-        pdf.set_draw_color(30, 60, 143)
         pdf.circle(center_x, center_y, circle_radius, style="D")
-        pdf.set_line_width(.5)
-        pdf.set_draw_color(77, 93, 182)
-        pdf.circle(center_x, center_y, circle_radius - .3, style="D")
-        pdf.set_line_width(.4)
-        pdf.set_draw_color(118, 129, 222)
-        pdf.circle(center_x, center_y, circle_radius - .7, style="D")
 
 
 def is_line_intersecting(ax, ay, bx, by, cx, cy, r):
