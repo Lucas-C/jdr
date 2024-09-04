@@ -34,8 +34,8 @@ def build_pdf():
 
 def add_page_number_backgrounds(pdf_filepath):
     """
-    Note: the git history contains an example of rendering just a circle
-    as background for page numbers using CSS position: fixed
+    Note: it is also possible to render a simple circle / image
+    as background for page numbers using just CSS position: fixed
     """
     # Position / size on page:
     x0 = 99
@@ -56,9 +56,6 @@ def add_page_number_backgrounds(pdf_filepath):
     for i, pdf in enumerate(add_to_every_page_dynamic(pdf_filepath)):
         if i == 0:  # skipping 1st page
             continue
-        def circle(x, y, r, style):
-            # Workaround while pending for a fix for fpdf2 issue...
-            pdf.circle(x-r, y-r, 2*r, style)
         # Debug render bounding box:
         #   pdf.set_draw_color(255, 0, 0)
         #   pdf.rect(x0, y0, w, h, style="D")
@@ -74,7 +71,7 @@ def add_page_number_backgrounds(pdf_filepath):
             if x < x0 + max_size or x > x0 + w - max_size or y < y0 + max_size or y > y0 + h - max_size:
                 continue
             size = min_size + random() * (max_size - min_size)
-            circle(x, y, size, style="F")
+            pdf.circle(x, y, size, style="F")
             particles.append((x, y))
         # Drawing edges:
         pdf.set_line_width(edge_width)
@@ -86,14 +83,7 @@ def add_page_number_backgrounds(pdf_filepath):
                     pdf.line(*part1, *part2)
         # Draw central circle:
         pdf.set_line_width(.2)
-        pdf.set_draw_color(30, 60, 143)
-        circle(center_x, center_y, circle_radius, style="D")
-        pdf.set_line_width(.5)
-        pdf.set_draw_color(77, 93, 182)
-        circle(center_x, center_y, circle_radius - .3, style="D")
-        pdf.set_line_width(.4)
-        pdf.set_draw_color(118, 129, 222)
-        circle(center_x, center_y, circle_radius - .7, style="D")
+        pdf.circle(center_x, center_y, circle_radius, style="D")
 
 
 def is_line_intersecting(ax, ay, bx, by, cx, cy, r):
