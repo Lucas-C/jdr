@@ -711,11 +711,11 @@ Après avoir affronté des androïdes génocidaires, les PJs font face dans l'ac
 les larves cosmiques et « La Sécurité ».
 
 Afin de doser la tension dramatique et temporiser l'adversité, une idée peut être
-de **rendre les PJs témoins passifs** des atrocités comises par les larves, dans un premier temps.
+de **rendre les PJs témoins passifs** des atrocités commises par les larves, dans un premier temps.
 
-Pour cela, vous pouvez introduire un autre objet dans **la malette transmise à Watters** :
-une canette de **_spray_, étiquettée « RÉPULSIF »**, placée à côté des 6 fioles réfrigérées.
-Il est fort probable que la malette tombe à un moment ou à un autre dans les mains des PJs,
+Pour cela, vous pouvez introduire un autre objet dans **la mallette transmise à Watters** :
+une canette de **_spray_, étiquetée « RÉPULSIF »**, placée à côté des 6 fioles réfrigérées.
+Il est fort probable que la mallette tombe à un moment ou à un autre dans les mains des PJs,
 et même si Watters a déjà récupéré les fioles, il aura laissé ce _spray_.
 
 Les PJs n'auront aucun moyen d'en savoir plus sur ce produit, mais il est fort probable qu'ils tentent
@@ -726,7 +726,7 @@ Bien sûr, la canette n'est pas inépuisable, et l'efficacité du produit limit�
 Considérez que la protection dure **une heure**,
 après quoi les « possédés » deviendront progressivement de plus en plus suspects
 envers les personnages recouverts de la substance.
-D'autre part, la canette contient suffisament de produit pour **protéger tous les PJs**,
+D'autre part, la canette contient suffisamment de produit pour **protéger tous les PJs**,
 après quoi chaque utilisation supplémentaire provoquera un **jet de dé** :
 en cas d'échec (1 / 2 / 3), **cet emploi est le dernier, la canette s'est vidée**.
 
@@ -751,10 +751,10 @@ Ce module vous propose de rendre ces antagonistes un peu plus roublards et ciné
 bref : plus amusants pour les joueurs à affronter.
 
 Conscients du risque que représente une intervention armée à l'encontre d'une station comme Terra Nova,
-une fois la balise déclenchée ou le « délai raisonable » épuisé,
+une fois la balise déclenchée ou le « délai raisonnable » épuisé,
 « La Sécurité » dépêche deux agents à bord, avec comme mission :
 
-1. de **localiser la malette**, et même la récupérer si l'occasion se présente
+1. de **localiser la mallette**, et même la récupérer si l'occasion se présente
 2. si besoin, de **déclencher l'intervention** des troupes, puis de les diriger à bord
 
 Ces officiers arrivent donc à bord au début de l'acte 3, se propulsant depuis l'Illisos,
@@ -774,9 +774,9 @@ leur vaisseau, vers la station en expulsant du gaz de leurs combinaisons spatial
 
 **Mode opérationnel** :
 
-1. Rejoindre le groupe en possession de la malette
+1. Rejoindre le groupe en possession de la mallette
 2. Selon qui la possède, manipuler Watters / Park / les PJs
-3. Voler la malette en employant sa capsule soporifique
+3. Voler la mallette en employant sa capsule soporifique
 :::
 ::::
 
@@ -789,9 +789,9 @@ leur vaisseau, vers la station en expulsant du gaz de leurs combinaisons spatial
 
 **Mode opérationnel** :
 
-1. D'abord observer à distance le groupe ayant la malette
+1. D'abord observer à distance le groupe ayant la mallette
 2. Prétendre venir en secours et proposer de conduire les personnages à un vaisseau recueillant les survivants
-3. Une fois dans une coursive « préparée » à l'avance, activer une porte de sécurité pour couper le couloir, et braquer les personnages avec la malette
+3. Une fois dans une coursive « préparée » à l'avance, activer une porte de sécurité pour couper le couloir, et braquer les personnages avec la mallette
 
 Les deux agents sont équipés chacun d'une arme à feu de poing,
 d'un _taser_ de contact, d'une oreillette de communication (entre eux et avec l'Illisos),
@@ -812,7 +812,7 @@ qui accostent alors la station en l'espace de quelques minutes.
 
 Bien que _« froids, méthodiques, discrets »_, ces agents n'en restent pas moins humains :
 
-* si leur vie est menacée, ils préfereront révêler ce qu'ils savent plutôt que de mourir
+* si leur vie est menacée, ils préféreront révéler ce qu'ils savent plutôt que de mourir
 
 * des PJs persuasifs pourraient les convaincre qu'ils ne peuvent pas abandonner les survivants à leur sort, alors que la station chute vers Cepheus
 
