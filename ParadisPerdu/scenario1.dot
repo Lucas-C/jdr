@@ -40,11 +40,11 @@ digraph G {
         -> "Autopsie de\nPaul Ballard"
         -> "Examen de\nCandy Davies" [style=invis, rank=same];
         "Autopsie de\nPaul Ballard"
-        -> "Tentations\n★" [style=invis, rank=same];
+        -> "[Aberdeen]\nTentations\n★" [style=invis, rank=same];
         node [color=3];  # Arora
         "Check-list\nde tâches" -> "Un reflet\ndans l'espace";
         "Check-list\nde tâches" -> "Un spectre\ndangereux\n★"
-        "Un reflet\ndans l'espace" -> "Hanté\n★" [style=invis, rank=same];
+        "Un reflet\ndans l'espace" -> "[Arora]\nHanté\n★" [style=invis, rank=same];
         node [color=2];  # Park
         "Déchargement\ndes soutes\nde d'Eridanos";
         node [color=1];  # Torrensen

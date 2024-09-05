@@ -166,6 +166,8 @@ En complément des informations données dans le scénario, cette section propos
 
 Concernant les _morts probables_ : ces indications sont là pour vous encourager à décimer progressivement les PNJs au fur et à mesure du scénario, et ainsi maintenir la tension dramatique. N'hésitez pas pour autant à improviser et les faire décéder autrement !
 
+<br>
+
 ### Brett Bettany
 <img alt="Brett Bettany" src="img/hazmat_by_fernand0fc_bgw_buste_cc-by.jpg" class="pnj">
 
@@ -207,6 +209,8 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 
 * **Mort probable** : blessé mortellement par « La Sécurité », il agonise dans un recoin
 
+<br><br><br>
+
 ### Cory 3
 <img alt="Androïde Cory 3" src="img/android-face-pixabay-ai-genere-robots-cyborgs-android-8920129.jpg" class="size12 float-left">
 
@@ -216,8 +220,6 @@ Durant l'acte 2, il sera le seul androïde **armé d'une arme à feu**, récupé
 
 Afin d'accomplir son plan, il agit sans la moindre hésitation, froid comme la mort.
 
-<br>
-
 <img alt="Androïde Cory 3" src="img/android-pixabay-homme-visage-arriere-poser-robot-320272.png" class="size18 float-right">
 
 * **Objectifs** :
@@ -226,6 +228,8 @@ Afin d'accomplir son plan, il agit sans la moindre hésitation, froid comme la m
     3. En particulier, **traquer et éliminer Sullivan**, qu'il a identifié susceptible d'entraver son plan
 
 * **Attitude** : assistant efficace durant l'acte 1, il fait preuve d'un **humour** « pince sans rire ». Durant l'acte 2, il devient condescendant, monologuant sur son intention d'éliminer tous les humains afin de les soustraire à une vie de souffrances.
+
+<br><br><br>
 
 ### Darcy Cotton
 <img alt="Darcy Cotton" src="img/headshots_by_fernand0fc_girl_bw_cc-by.png" class="pnj">
@@ -252,6 +256,8 @@ Lui faire avouer la vérité nécessitera beaucoup de ruse, ou un jet réussi de
 * **Roleplay** : joue les apeurées; fait preuve d'auto-dérision; rit à ses propres traits d'humour; joue la carte de la complicité; se masse constamment les épaules; lance parfois des regards perçants trahissant sa dureté.
 
 * **Mort probable** : éventrée par une larve cosmique, après avoir trahi les PJs.
+
+<br><br>
 
 ### Candy Davies
 <img alt="Candy Davies" src="img/CandyDavies.jpg" class="pnj" style="max-height: 14.5rem">
@@ -293,9 +299,11 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 
 * **Mort probable** : tuée au combat par un androïde en fin d'acte 2, ou durant d'acte 3.
 
-### Daryl Hamon
-<img alt="Daryl Hamon" src="img/pixabay-ai-genere-cyborg-femme-fille-8269779.png" class="pnj size11">
+<br>
 
+<img alt="Daryl Hamon" src="img/pixabay-ai-genere-cyborg-femme-fille-8269779.png" class="pnj size14">
+
+### Daryl Hamon
 * Daryl se doute que Cotton trafique quelque chose de **louche**, à titre personnel, avec les médicaments qui lui sont administrés. Il se méfie d'elle.
 
 * les compétences de Daryl en _hacking_ lui ont permis de s'introduire dans le réseau CommLink, où il a laissé un petit **message caché**, dans l'espoir que quelqu'un de futé remonte à lui afin de faire sa connaissance, _cf._ [Terminaux CommLinks](#terminaux-commlinks).
@@ -319,7 +327,7 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 * **Mort probable** : tué par les androïdes, ou possédé par une larve cosmique, ne pouvant se débattre avec ses prothèses hors service.
 
 ### Jada Jones
-<img alt="Jada Jones" src="img/JadaJones-aka-ZoeWashburne.jpg" class="pnj">
+<img alt="Jada Jones" src="img/JadaJones-aka-ZoeWashburne.jpg" class="pnj size16">
 
 * si elle est interrogée concernant le Tedium, Jones évoquera avoir mené son enquête, mais prétendra qu'elle n'a pas encore abouti. Elle mentionnera seulement avoir établi un lien entre cette drogue et le milieu de la prostitution.
 
@@ -336,8 +344,11 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 
 * **Mort probable** : face aux androïdes au court de l'acte 2, ou possédée par une larve cosmique
 
+::: page-break
+:::
+
 ### Léo·Léa Waschenski
-<img alt="Léo·Léa Waschenski" src="img/Leoa-Waschenski.png" class="pnj">
+<img alt="Léo·Léa Waschenski" src="img/Leoa-Waschenski.png" class="pnj size13">
 
 * durant l'acte 1, Léo·Léa pourra être aperçu·e écouter avec attention les prêches de Watters. Sensible à la verve du prêtre et à la perspective d'un au-delà radieux, Léo·Léa **devient dévot du culte de l'Ascension**, sans le dire à son paternel.
 
@@ -356,6 +367,9 @@ Sait aussi qu'il y a **des armes cachées dans certaines cargaisons** dans les h
 
 * **Mort probable** : possédée par une larve cosmique, à cause de Watters ou juste parcqu'iel en aura subtilisé une durant la panique de l'acte 3
 
+::: page-break
+:::
+
 ### Idris « Code-barres » Watters et le culte de l'Ascension
 <img alt="Idris Watters" src="img/IdrisWatters.png" class="pnj">
 
@@ -373,10 +387,15 @@ Voici quelques suggestions pour étoffer cela :
 
 * les membres du culte se réunissent dans **une animalerie abandonné des Arches**, qui vendait des animaux synthétiques. Les lieux sont désormais abandonnés, remplis de grandes quantités de poils et de plumes, et le culte y tient ses messes rituelles, dans un decorum de symboles astrologiques peints sur toutes les surfaces, et de paravents émettant un son bourdonnant.
 
+<br>
+
 <figure>
   <img alt="Tract du culte de l'Ascension" src="img/AscensionTract.jpg">
   <figcaption>Tract du culte de l'Ascension</figcaption>
 </figure>
+
+::: page-break
+:::
 
 ### Autres PNJs
 Durant l'acte 1, il est peu probable que les PJs s'adressent à d'autres PNJs notables.
@@ -443,6 +462,8 @@ Dans cette optique, vous pouvez faire en sorte que chaque joueur ait déjà au m
 
 Ces _Connivences_ ont aussi pour but de fournir quelques pistes aux joueurs concernant les secrets que leurs camarades tentent de camoufler...
 
+<br><br>
+
 <img alt="Androïde Cory 3" src="img/android.jpg" class="size18">
 
 ### Rumeurs
@@ -456,6 +477,7 @@ On dit que l'église de l'**Ascension** est présente sur Terra Nova : leur cult
 On dit qu'**Ellen Frost** est sur Terra Nova : c'est une syndicaliste pugnace mais intègre. Tu l'as déjà vu arranger l'équipage d'une station, comme dans la vidéo ci-jointe → | [![QRCode linking to YouTube video on Camina Drummer speech from The Expanse](qrcode-Camina-Drummer-speech.png)](https://youtu.be/yfOmQ0Zln6Y)
 :::
 
+<br>
 
 ## Acte 1 - L'œil pour le détail
 La table ci-dessous fournit quelques éléments pour étoffer les descriptions de la station orbitale, et réaliser un peu de _foreshadowing_ des événements à venir.
@@ -492,6 +514,8 @@ Décrivez alors au(x) PJ(s) avec le plus grand nombre de réussites l’élémen
 
 6. Un androïde Arnie de sécurité, en uniforme bleu, transporte une caisse à bout de bras, sur laquelle le PJ distingue la mention « **explosif** ». Il disparaît dans l'ascenseur / dans l'angle d'un couloir.
 
+::: page-break
+:::
 
 ## Acte 1 - Un spectre dangereux
 L'une des étapes de la checklist d'Arora consiste à **vérifier l'usure des ascenseurs**.
@@ -514,6 +538,7 @@ Accordez-leur un instant de _roleplay_, puis demandez à Arora comment il souhai
 Cette scène fonctionne encore mieux si vous établissez en début de partie,
 avec le joueur incarnant Arora, que son amour est mort lors de la dépressurisation accidentelle d'un sas.
 
+<br>
 
 ## Acte 2 - Big brother is watching you
 <img alt="Crouching android" src="img/android-crouching.jpg" class="size12 float-left">
@@ -551,11 +576,7 @@ Quel que soit l'endroit où se rendent les PJs après, la moitié des rescapés 
 ## Acte 2 - Trolley dilemma au laboratoire
 Cette scène vise à mettre les PJs face à un dilemme moral : **de quel PNJ sauver la vie** ?
 
-**Prérequis** à cette scène :
-
-* les PJs arrivent au **niveau 3**
-* **Daryl** s'y trouve, dans le laboratoire
-* **Cotton** est déjà sur place, dans la salle d'analyse, ou bien elle accompagne les PJs et s'y précipite en arrivant, via le sas
+**Prérequis** à cette scène : les PJs arrivent au **niveau 3**; **Daryl** s'y trouve, dans le laboratoire; **Cotton** est déjà sur place, dans la salle d'analyse, ou bien elle accompagne les PJs et s'y précipite en arrivant, via le sas.
 
 **Disposition des lieux** :
 
@@ -652,6 +673,8 @@ Cory 3 sort alors de l'ombre, utilisant le PJ comme otage et bouclier, et récla
 
 * s'ils refusent, et que la tension monte, Cory 3 finira par **tirer sur une bonbonne d'azote liquide** qui se mettra à cracher son gaz entre les PJs d'un côté et Cory 3 de l'autre. Ensuite, il **canardera les PJs** en utilisant son otage comme bouclier.
 
+<br>
+
 ::: insert large block-center
 ### Avis de décès
 Mon conseil : débutez cette scène avec l'intention de **tuer un PJ**.
@@ -688,11 +711,11 @@ Après avoir affronté des androïdes génocidaires, les PJs font face dans l'ac
 les larves cosmiques et « La Sécurité ».
 
 Afin de doser la tension dramatique et temporiser l'adversité, une idée peut être
-de **rendre les PJs témoins passifs** des atrocités comises par les larves, dans un premier temps.
+de **rendre les PJs témoins passifs** des atrocités commises par les larves, dans un premier temps.
 
-Pour cela, vous pouvez introduire un autre objet dans **la malette transmise à Watters** :
-une canette de **_spray_, étiquettée « RÉPULSIF »**, placée à côté des 6 fioles réfrigérées.
-Il est fort probable que la malette tombe à un moment ou à un autre dans les mains des PJs,
+Pour cela, vous pouvez introduire un autre objet dans **la mallette transmise à Watters** :
+une canette de **_spray_, étiquetée « RÉPULSIF »**, placée à côté des 6 fioles réfrigérées.
+Il est fort probable que la mallette tombe à un moment ou à un autre dans les mains des PJs,
 et même si Watters a déjà récupéré les fioles, il aura laissé ce _spray_.
 
 Les PJs n'auront aucun moyen d'en savoir plus sur ce produit, mais il est fort probable qu'ils tentent
@@ -703,7 +726,7 @@ Bien sûr, la canette n'est pas inépuisable, et l'efficacité du produit limit�
 Considérez que la protection dure **une heure**,
 après quoi les « possédés » deviendront progressivement de plus en plus suspects
 envers les personnages recouverts de la substance.
-D'autre part, la canette contient suffisament de produit pour **protéger tous les PJs**,
+D'autre part, la canette contient suffisamment de produit pour **protéger tous les PJs**,
 après quoi chaque utilisation supplémentaire provoquera un **jet de dé** :
 en cas d'échec (1 / 2 / 3), **cet emploi est le dernier, la canette s'est vidée**.
 
@@ -728,10 +751,10 @@ Ce module vous propose de rendre ces antagonistes un peu plus roublards et ciné
 bref : plus amusants pour les joueurs à affronter.
 
 Conscients du risque que représente une intervention armée à l'encontre d'une station comme Terra Nova,
-une fois la balise déclenchée ou le « délai raisonable » épuisé,
+une fois la balise déclenchée ou le « délai raisonnable » épuisé,
 « La Sécurité » dépêche deux agents à bord, avec comme mission :
 
-1. de **localiser la malette**, et même la récupérer si l'occasion se présente
+1. de **localiser la mallette**, et même la récupérer si l'occasion se présente
 2. si besoin, de **déclencher l'intervention** des troupes, puis de les diriger à bord
 
 Ces officiers arrivent donc à bord au début de l'acte 3, se propulsant depuis l'Illisos,
@@ -751,9 +774,9 @@ leur vaisseau, vers la station en expulsant du gaz de leurs combinaisons spatial
 
 **Mode opérationnel** :
 
-1. Rejoindre le groupe en possession de la malette
+1. Rejoindre le groupe en possession de la mallette
 2. Selon qui la possède, manipuler Watters / Park / les PJs
-3. Voler la malette en employant sa capsule soporifique
+3. Voler la mallette en employant sa capsule soporifique
 :::
 ::::
 
@@ -766,9 +789,9 @@ leur vaisseau, vers la station en expulsant du gaz de leurs combinaisons spatial
 
 **Mode opérationnel** :
 
-1. D'abord observer à distance le groupe ayant la malette
+1. D'abord observer à distance le groupe ayant la mallette
 2. Prétendre venir en secours et proposer de conduire les personnages à un vaisseau recueillant les survivants
-3. Une fois dans une coursive « préparée » à l'avance, activer une porte de sécurité pour couper le couloir, et braquer les personnages avec la malette
+3. Une fois dans une coursive « préparée » à l'avance, activer une porte de sécurité pour couper le couloir, et braquer les personnages avec la mallette
 
 Les deux agents sont équipés chacun d'une arme à feu de poing,
 d'un _taser_ de contact, d'une oreillette de communication (entre eux et avec l'Illisos),
@@ -789,7 +812,7 @@ qui accostent alors la station en l'espace de quelques minutes.
 
 Bien que _« froids, méthodiques, discrets »_, ces agents n'en restent pas moins humains :
 
-* si leur vie est menacée, ils préfereront révêler ce qu'ils savent plutôt que de mourir
+* si leur vie est menacée, ils préféreront révéler ce qu'ils savent plutôt que de mourir
 
 * des PJs persuasifs pourraient les convaincre qu'ils ne peuvent pas abandonner les survivants à leur sort, alors que la station chute vers Cepheus
 
@@ -968,8 +991,7 @@ Avis post-partie de ~11h avec 5j :
 * [x] détailler les "options de sortie" des PJs => section dédiée ajoutée
 * [x] + exploiter niveau 4 => Céphise
 * [x] encourager à ce que les PNJs possédés par les larves soient des personnages que les PJs ont rencontré
-* [ ] mieux introduire & incarner "La Sécurité"
-* !!! penser à ajouter nouvelles scènes au diagramme
+* [x] mieux introduire & incarner "La Sécurité"
 * [x] morceau pour la mort de O'Neil
 * [x] thème des androïdes révoltés
 * [x] thème pour "La Sécurité"

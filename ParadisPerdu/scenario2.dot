@@ -14,31 +14,35 @@ digraph G {
         "Rébellion\ndes androïdes" -> "Meurtre du marshal";
         "Rébellion\ndes androïdes" -> "Explosion du\nport spatial" -> "Chute de la station";
         "Rébellion\ndes androïdes" -> "Cory 3 contrôle\nle niveau 1" -> "Nouveau QRCode\nde terminal CommLink\n★" -> "Big brother is\nwatching you\n★";
+        "Nouveau QRCode\nde terminal CommLink\n★" -> "[Sullivan]\nNemesis\n★" [style=invis];
         "Rébellion\ndes androïdes" -> "Sabotage du sas\ndu niveau 5";
         "Rébellion\ndes androïdes" -> "Mort de\nCandy Davies\n★";
-        "Mort de\nCandy Davies\n★" -> "Darcy Cotton\nvia CommLink\n★" [style=invis];
+        "Mort de\nCandy Davies\n★" -> "Darcy Cotton\nvia CommLink\n★" -> "[Sullivan]\nNemesis\n★" [style=invis];
         "Explosion du\nport spatial" -> "Impesanteur";
         "Rébellion\ndes androïdes" -> "Les ouvriers\nse barricadent\nau niveau 9 ★" -> "Ellen Frost\nlance un SOS\nau niveau 7 ★";
-        "Sabotage du sas\ndu niveau 5" -> "Back to medbay\n★" -> "Mort de\nJada Jones\n★" [style=invis];
+        "Sabotage du sas\ndu niveau 5" -> "Back to medbay\n★" -> "Déclenchement de\nla balise" [style=invis];
         "Rébellion\ndes androïdes" -> "Massacre au\nlabo Revolve\ndu niveau 3 ★" -> "Trolley dilemna\nau laboratoire\n★" -> "Destruction du labo\nde Revolve par\nDarcy Cotton ★";
-        "Chute de la station" -> "Miracle de\nla fin du monde\n★" [style=invis];
+        "Trolley dilemna\nau laboratoire\n★" -> "Face à\nCory 3\n★" [style=invis];
+        "Ellen Frost\nlance un SOS\nau niveau 7 ★" -> "Miracle de\nla fin du monde\n★" [style=invis];
         "Déclenchement de\nla balise" [color=2];  # Park
-        "Chute de la station" -> "Déclenchement de\nla balise" [style=invis];
-        "Sullivan\nNemesis\n★" [color=5];  # Sullivan
-        "Back to medbay\n★" -> "Sullivan\nNemesis\n★" [style=invis];
+        "[Sullivan]\nNemesis\n★" [color=5];  # Sullivan
         fontsize = 28;
         label = <<b>#2 Convergences</b>>;
     }
     subgraph cluster_partie_3 {
         peripheries = 0;  # => no border
         "Annonce CommLink\nde Watters" -> "Mort de la plupart\ndes PNJs" [style=invis];
-        "Annonce CommLink\nde Watters" -> "Possédés par des\nlarves cosmiques";
-        "La Sécurité\ndébarque\nau niveau 3 ou 5" -> "Récupération de\nla malette";
+        "Annonce CommLink\nde Watters" -> "Répulsif\n& possessions\n★";
+        "La Sécurité\ndébarque\nau niveau 3 ou 5" -> "Sécurité\nsubtile\n★";
+        "Répulsif\n& possessions\n★" -> "Exit\n★" [style=invis];
+        "Sécurité\nsubtile\n★" -> "Exit\n★" [style=invis];
         fontsize = 28;
-        "[Gain d'Adrénaline]\nPour chaque\nObjectif rempli";
         label = <<b>#3 FUBAR</b>>;
     }
     "Déclenchement de\nla balise" -> "La Sécurité\ndébarque\nau niveau 3 ou 5" [color=2];
+    // Those invisible links allow to shift-left the last cluster:
+    "Big brother is\nwatching you\n★" -> "[Gain d'Adrénaline]\nPour chaque\nObjectif rempli" [style=invis];
+    "Big brother is\nwatching you\n★" -> "La Sécurité\ndébarque\nau niveau 3 ou 5" [style=invis];
     // Force clusters based on (added) rank
     // Recipe from: https://stackoverflow.com/a/72102766/636849
     {"Rébellion\ndes androïdes"} -> {"Annonce CommLink\nde Watters"} [style=invis];

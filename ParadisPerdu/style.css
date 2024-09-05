@@ -85,8 +85,9 @@ img.stretch { width: 16rem; height: 8rem; }
 img.large   { max-width: 100%;  max-height: 25rem; }
 .pnj    { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }
 .size10 { max-width: 10rem; max-height: 10rem; }
-.size11 { max-width: 11rem; max-height: 11rem; }
 .size12 { max-width: 12rem; max-height: 12rem; }
+.size13 { max-width: 13rem; max-height: 13rem; }
+.size14 { max-width: 14rem; max-height: 14rem; }
 .size16 { max-width: 16rem; max-height: 16rem; }
 .size18 { max-width: 18rem; max-height: 18rem; }
 .size20 { max-width: 20rem; max-height: 20rem; }
