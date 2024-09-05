@@ -169,8 +169,12 @@ img.between-dots {
 .column { display: flex; flex-direction: column; justify-content: space-between; }
 .no-list-margin-bottom ol, .no-list-margin-bottom ul { margin-bottom: 0; }
 
+@page cover-page {
+  @top-center    { content: none; }
+  @bottom-center { content: none; }
+}
+
 .toc {
-  font-size: .9rem;
   max-width: 25rem;
   margin-left: 5rem;
 }
@@ -178,10 +182,30 @@ img.between-dots {
   content: target-counter(attr(href), page-count);
   float: right;
 }
+#sommaire::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url(gui/PP-bg2.jpg);
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-position: 100% 95%;
+  background-size: 60%;
+}
 
-@page cover-page {
-  @top-center    { content: none; }
-  @bottom-center { content: none; }
+#jada-jones::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url(gui/PP-bg0.jpg);
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-position: 67% 125%;
+  background-size: 60%;
 }
 
 @media print {
