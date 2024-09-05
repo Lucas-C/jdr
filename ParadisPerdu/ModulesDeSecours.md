@@ -3,8 +3,7 @@
 
 <br><br><br>
 <br><br><br>
-<img class="size16" alt="The Expanse" src="img/TheExpanse.webp">
-<br><br><br>
+<img class="size20" alt="The Expanse" src="img/TheExpanse.webp">
 <br><br><br>
 <br><br><br>
 
@@ -16,11 +15,11 @@ Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma p
 
 ::: page-break
 :::
-<br><br>
+<br>
 
 ### Sommaire
 
-<br><br>
+<br>
 <ul class="toc" data-tags="h2"></ul>
 
 
@@ -464,7 +463,7 @@ Ces _Connivences_ ont aussi pour but de fournir quelques pistes aux joueurs conc
 
 <br><br>
 
-<img alt="Androïde Cory 3" src="img/android.jpg" class="size18">
+<img alt="Androïde Cory 3" src="img/android.jpg" class="size20">
 
 ### Rumeurs
 Avant d'arriver sur Terra Nova, chaque PJ a déjà entendu parler d'au moins une rumeur sur cette station.
@@ -541,7 +540,7 @@ avec le joueur incarnant Arora, que son amour est mort lors de la dépressurisat
 <br>
 
 ## Acte 2 - Big brother is watching you
-<img alt="Crouching android" src="img/android-crouching.jpg" class="size12 float-left">
+<img alt="Crouching android" src="img/android-crouching.jpg" class="size14 float-left">
 
 Bien que les **CommLinks** continuent à fonctionner après l'attaque des androïdes, depuis la salle réseau **Cory 3 écoute tous les appels** passés à travers la station.
 
@@ -834,6 +833,7 @@ par exemple parce que les endroits concernés sont scellés où pullulent d'andr
 
 ## Diagramme des étapes du scénario
 
+<br>
 <!-- La meilleure solution pour avoir un rendu "vertical" lisible a été de découper le diagramme en 2 -->
 <img class="diagram" alt="" src="scenario1.svg">
 <img class="diagram" alt="" src="scenario2.svg">
@@ -915,9 +915,8 @@ Voici également quelques autres vidéos YouTube qu'il peut être intéressant d
 Le script [gen_video_clips.sh](./gen_video_clips.sh) se charge de télécharger certaines de ces vidéos pour les rendre disponibles dans la galerie Sigal.
 -->
 
-<br><br><br>
-<br><br><br>
-<img alt="" src="img/pixabay-ai-genere-grunge-cyborg-robot-9008140.png" class="size20">
+<br><br><br><br>
+<img alt="" src="img/pixabay-ai-genere-grunge-cyborg-robot-9008140.png" class="size26">
 
 ::: page-break
 :::
@@ -933,9 +932,11 @@ Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commo
  - [AI généré, Femme, Cyborg](https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-cyborg-femme-fille-8269778/)
 -->
 
-<!-- Merci aux relecteurs & testeurs de cette aide de jeu : ... -->
+Merci aux relecteurs & testeurs de ces modules : Anna, Aurélien, Matthieu, Michaël, Mirko.
 
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), [Graphviz](https://graphviz.org/) & [sketchviz](https://github.com/gpotter2/sketchviz), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal). Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/), [Graphviz](https://graphviz.org/) & [sketchviz](https://github.com/gpotter2/sketchviz), et le terminal web [github.com/jacksonbenete/email_terminal](https://github.com/jacksonbenete/email_terminal).
+
+Les configurations des deux terminaux CommLinks sont disponibles ici : [Lucas-C/email_terminal/acte-1](https://github.com/Lucas-C/email_terminal/tree/acte-1) & [Lucas-C/email_terminal/acte-2](https://github.com/Lucas-C/email_terminal/tree/acte-2).
 
 <br><br><br>
 
