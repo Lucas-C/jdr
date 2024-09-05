@@ -43,6 +43,7 @@ h3 { font-family: DINPro-Black; font-size: 1.15rem; margin-top: 2rem; }
 
 a { color: #1e3c8f; }
 blockquote { font-family: DINCondensed; border-left: 2px solid #eee; margin-left: 0; padding-left: 1rem; }
+code { font-size: .9rem; }
 figure figcaption { font-size: .9rem; text-align: center; font-style: italic; padding-top: .5rem; }
 li { margin-bottom: .666rem; }
 
@@ -80,13 +81,12 @@ table.terminal-card { width: 50%; margin: auto; }
 
 img { max-width: 16rem; max-height: 15rem; display: block; margin: 0 auto; }
 img.diagram { max-width: 100%;  max-height: 100%; }
-img.stretch { max-width: 20rem; width: 20rem; height: 10rem; }
+img.stretch { width: 16rem; height: 8rem; }
 img.large   { max-width: 100%;  max-height: 25rem; }
 .pnj    { max-width: 12rem; max-height: 12rem; float: right; padding-left: 1rem; }
 .size10 { max-width: 10rem; max-height: 10rem; }
 .size11 { max-width: 11rem; max-height: 11rem; }
 .size12 { max-width: 12rem; max-height: 12rem; }
-.size15 { max-width: 15rem; max-height: 15rem; }
 .size16 { max-width: 16rem; max-height: 16rem; }
 .size18 { max-width: 18rem; max-height: 18rem; }
 .size20 { max-width: 20rem; max-height: 20rem; }
@@ -169,8 +169,9 @@ img.between-dots {
 .no-list-margin-bottom ol, .no-list-margin-bottom ul { margin-bottom: 0; }
 
 .toc {
-    font-size: .9rem;
-    max-width: 25rem;
+  font-size: .9rem;
+  max-width: 25rem;
+  margin-left: 5rem;
 }
 .toc li a::after {
   content: target-counter(attr(href), page-count);

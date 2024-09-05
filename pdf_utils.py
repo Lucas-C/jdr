@@ -1,11 +1,12 @@
 import asyncio, io, logging, re
 from contextlib import contextmanager
 from datetime import datetime
+from random import shuffle
 from traceback import print_exc
 from urllib.parse import quote
 
 from bs4.builder._htmlparser import HTMLParserTreeBuilder
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 from fpdf import FPDF, FPDF_VERSION
 from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
@@ -33,8 +34,7 @@ def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
         md_content = md_file.read()
     md_content = handle_ponctuation_whitespaces(md_content)
     html = markdown(md_content, renderer=CustomHtmlRenderer)
-    html = add_id_attrs_on_headings(html)
-    html = add_table_of_contents(html)
+    html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
     link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
     html_doc = f"""<!doctype html>
@@ -63,18 +63,24 @@ def handle_ponctuation_whitespaces(md_content):
     return md_content
 
 
+def modify_html(html):
+    soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
+    add_id_attrs_on_headings(soup)
+    shuffle_tables(soup)
+    add_table_of_contents(soup)
+    return soup.prettify(formatter="html5")
+
+
 class MyTreeBuilder(HTMLParserTreeBuilder):
     # Recipe from: https://bugs.launchpad.net/beautifulsoup/+bug/1767999
     DEFAULT_PRESERVE_WHITESPACE_TAGS = set(["a", "b", "dd", "em", "h1", "h2", "h3", "h4", "li", "p", "strong", "td", "th"])
 
-def add_id_attrs_on_headings(html):
-    soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
+
+def add_id_attrs_on_headings(soup):
     for tag_name in ("h1", "h2", "h3", "h4"):
         for heading in soup.find_all(tag_name):
             if not heading.get("id"):
                 heading["id"] = slugify(heading.string)
-    return soup.prettify(formatter="html5")
-
 
 def slugify(s):
     # Reproduce slugify() in md2html.js
@@ -85,9 +91,32 @@ def slugify(s):
     return quote(s)
 
 
-def add_table_of_contents(html):
+def shuffle_tables(soup, max_cols=4):
+    "Performs cells shuffling in <table> tags under a .shuffle-col${i}-rows CSS class"
+    # Note: tables rendered by mistletoe always have <thead> & <tbody> tags
+    # and cells in the first row are <th> while other cells are <td>
+    for i in range(1, max_cols + 1):
+        for div in soup.find_all(class_=f"shuffle-col{i}-rows"):
+            rows = div.find("table").find_all("tr")
+            # 1. We build a mapping of "old" indices to "new" indices:
+            index_map = list(range(len(rows)))
+            shuffle(index_map)
+            # 2. We extract all target cells from the HTML tree:
+            cells = []
+            for row in rows:
+                child_tags = [cell for cell in row.children if not isinstance(cell, NavigableString)]
+                cell = child_tags[i - 1]
+                cells.append(cell)
+                cell.extract()
+            # 3. We insert the cells at their new position in the HTML tree:
+            for j, row in enumerate(rows):
+                cell = cells[index_map[j]]
+                cell.name = "th" if j == 0 else "td"
+                row.insert(i, cell)
+
+
+def add_table_of_contents(soup):
     'Adds items to <ul class="toc"> tags based on its data-tags attribute'
-    soup = BeautifulSoup(html, builder=MyTreeBuilder, features="html.parser")
     for ul in soup.find_all("ul", class_="toc"):
         heading_tags = ul["data-tags"].split(",") if ul.get("data-tags") else []
         for tag in heading_tags:
@@ -97,7 +126,6 @@ def add_table_of_contents(html):
                 li = soup.new_tag("li")
                 li.append(a)
                 ul.append(li)
-    return soup.prettify(formatter="html5")
 
 
 @contextmanager

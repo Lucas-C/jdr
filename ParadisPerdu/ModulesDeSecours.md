@@ -10,15 +10,17 @@
 
 Ceci est une aide de jeu pour [Paradis Perdu](https://www.misterfrankenstein.com/wordpress/?p=5388), un excellent jeu de rôle « Nuit Blanche » d'Anthony "Yno" Combrexelles.
 
-Elle se compose d'un ensemble de **modules optionnels**, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original. 
+Elle se compose d'un ensemble de **modules optionnels**, que vous pourrez adopter pour ajouter des rebondissements supplémentaires au scénario original.
 
 Ces modules m'ont également beaucoup aidé en tant qu'Admin pour préparer ma partie, et compléter quelques éléments non détaillés dans le jeu de base.
 
 ::: page-break
 :::
+<br><br>
 
 ### Sommaire
 
+<br><br>
 <ul class="toc" data-tags="h2"></ul>
 
 
@@ -32,7 +34,7 @@ Ce module propose de mettre à disposition des joueurs un **terminal web**, dié
 
 > Le but de ce terminal est de contribuer à l'immersion des joueurs dans l'histoire, mais aussi d'ajouter quelques indices optionnels sur les événements du scénario.
 
-Tout PJ peut accéder à ce terminal si on lui montre la manipulation à effectuer sur un CommLink, mais au début du scénario seuls **Arora** et **Sullivan** connaissent l'existence de cette fonctionnalité.
+Tout PJ peut accéder à ce terminal si on lui montre la manipulation à effectuer sur un CommLink, mais au début du scénario seuls **Arora** et **Sullivan** connaissent son existence.
 
 Découpez ces deux cartes, et remettez-les aux joueurs correspondants après l'**Intro**, lorsqu'ils découvrent les CommLinks :
 
@@ -63,8 +65,9 @@ Voici un résumé des informations fournies par ce terminal :
 * la commande `medic` permet de s'inscrire pour rendez-vous auprès du Dr Aberdeen, et de voir la liste des consultations prévues.
 * la commande `port` liste les vaisseaux à quai dans le port spatial au niveau 9.
 * la commande `staff` liste les personnes référentes de la station.
-* la commande `audit`, uniquement accessible par Arora après s'être logué⸱e comme `auditer` via la commande `login`, indique que tout est opérationnel sauf l'une des antennes de communication spatiale. De plus, un message fantomatique est adressé à _Sanj_ par son amour décédé...
-* **Daryl** a également envoyé un email énigmatique à toute la station. Le déchiffrer (c'est du [ROT13](https://fr.wikipedia.org/wiki/ROT13)) permet de comprendre qu'il faut ensuite taper dans le terminal une commande non référencée par `help`, mais qui existe sur les systèmes [Linux](https://fr.wikipedia.org/wiki/Linux) : `exit`, `hostname`, `man`, `ps`, `pwd`, `shutdown`, `sudo`, `touch`, `ping` ou `whoami` peuvent fonctionner. Daryl donne alors rendez-vous au niveau 3 au PJ qui aura résolu son jeu de piste.
+* la commande `audit`, accessible par Arora après s'être connecté⸱e comme `auditer` via la commande `login`, indique que tout est opérationnel, sauf l'une des antennes de communication. Et un étrange message de son amour décédé est adressé à _Sanj_...
+* **Daryl** a également envoyé un email énigmatique à toute la station. Déchiffré (c'est du [ROT13](https://fr.wikipedia.org/wiki/ROT13)), cet indice indique de saisir dans le terminal une commande non référencée par `help`, mais qui existe sur les systèmes [Linux](https://fr.wikipedia.org/wiki/Linux) : `exit`, `hostname`, `man`, `pwd`, `touch`, `ping` ou `whoami` fonctionnent.
+Dans le message de cette commande, Daryl donne rendez-vous au niveau 3 à celui qui a résolu son jeu de piste.
 
 À la fin de l'**acte 1**, la prise de contrôle de l'étage des Communications par Cory 3 affecte le terminal.
 Pour refléter cela, découpez la carte ci-dessous, et remettez-la aux joueurs au début de l'**acte 2**, dès qu'ils accéderont à un terminal CommLink.
@@ -87,9 +90,9 @@ Cette seconde version du terminal comporte plusieurs changements :
 * le niveau d'**oxygène** de la station a drastiquement réduit est en baisse constante.
 * la commande `map` n'indique plus la position à jour des androïdes.
 * les commandes `medic` & `port` ne fonctionnent plus.
-* la commande `audit` indique de très importants **dysfonctionnements des systèmes**, notamment des communications avec Cepheus, des communications spatiales et du réseau des androïdes.
+* la commande `audit` indique d'importants **dysfonctionnements des systèmes**, dont les communications externes et le réseau des androïdes.
 * de nouveaux emails ont été diffusés à tout la station, révélant la panique et les tragédies suite à l'attaque des androïdes :
-    + **Ellen Frost** demande de l'aide alors que la dépressurisation du niveau 9 est en cours
+    + **Ellen Frost** demande de l'aide alors que le niveau 9 se fait dépressuriser
     + **Léo·Léa Waschenski**, témoin des meurtres des androïdes, appelle à l'aide depuis les Arches
     + un message crypté de « La Sécurité » informe de son intervention imminente
 
@@ -113,6 +116,8 @@ Et en particulier, dans la pharmacie du cabinet médical (niveau 5) :
 De la morphine | Des somnifères | Des stimulants permettant de ne jamais dormir
 -|-|-
 
+<br><br>
+
 ### Arora - Hanté
 Voici quelques manifestations du fantôme d'Arora qui pourraient venir le tourmenter :
 
@@ -122,6 +127,9 @@ Dans l'ascenseur, sentir la chaleur de sa main serrée | Pianoter inconsciemment
 
 Pour réussir à s'endormir, Arora doit à chaque fois réussir un jet de **Se contrôler + Volonté** difficulté 4.
 En cas d'échec, c'est **l'insomnie**, et Arora sera épuisée nerveusement et incapable de rester dans son lit.
+
+::: page-break
+:::
 
 ### Sullivan - Nemesis
 De tous les PJs, c'est à Sullivan que Cory 3 s'intéresse le plus,
@@ -140,6 +148,8 @@ et proposera de les retrouver pour les aider. C'est bien sûr un piège.
 
 > La mort est votre seule issue Sullivan. Je promets que vous ne souffrirez pas. Rendez-vous.
 
+<br><br>
+
 ### Torrensen - Pickpocket
 Histoire de fournir des opportunités à Torrensen d'employer sa capacité spéciale,
 voici quelques idées de vols d'objets, pouvant être mentionnés durant vos descriptions :
@@ -148,6 +158,8 @@ Des pilules de Tedium | Un petit cutter laser | Une poignée de billets
 -|-|-
 L'arme de poing d'un personnage inattentif | La balise de Park | Une fiole dans la mallette de Watters
 
+::: page-break
+:::
 
 ## PNJs
 En complément des informations données dans le scénario, cette section propose quelques éléments supplémentaires pour jouer les PNJs, en détaillant notamment leurs objectifs durant les actes 2 et 3, leur attitude face aux PJs, la manière la plus probable dont ils décéderont, et un conseil sur comment interpreter théâtralement chaque personnage. Je me suis inspirés pour ce dernier point de l'article [_Comment interpréter les traits distinctifs des PNJ_ de James Introcaso, traduit sur ptgptb.fr](https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj).
@@ -198,7 +210,7 @@ Concernant les _morts probables_ : ces indications sont là pour vous encourager
 ### Cory 3
 <img alt="Androïde Cory 3" src="img/android-face-pixabay-ai-genere-robots-cyborgs-android-8920129.jpg" class="size12 float-left">
 
-Durant l'acte 1, il sera très prompt à injecter des antidouleurs ou des somnifères aux humains blessés ou malades, visiblement préoccupé par leurs souffrances. Il semble avoir un peu plus d'**empathie** envers eux que les autres robots. 
+Durant l'acte 1, il sera très prompt à injecter des antidouleurs ou des somnifères aux humains blessés ou malades, visiblement préoccupé par leurs souffrances. Il semble avoir un peu plus d'**empathie** envers eux que les autres robots.
 
 Durant l'acte 2, il sera le seul androïde **armé d'une arme à feu**, récupérée sur le cadavre d'un agent de sécurité.
 
@@ -378,7 +390,7 @@ Du point de vue du scénario, ces PNJs constituent de la « chair à canon » qu
 
 Lorsque les PJs rencontrent des survivants, lancez 1D6 pour déterminer leurs intentions :
 
-::: list-table
+::: list-table shuffle-col2-rows
 1 | Rejoindre Ellen Frost au niveau 9.
 --|-
 2 | Trouver des vivres et se planquer.
@@ -430,6 +442,8 @@ Dans cette optique, vous pouvez faire en sorte que chaque joueur ait déjà au m
 :::
 
 Ces _Connivences_ ont aussi pour but de fournir quelques pistes aux joueurs concernant les secrets que leurs camarades tentent de camoufler...
+
+<img alt="Androïde Cory 3" src="img/android.jpg" class="size18">
 
 ### Rumeurs
 Avant d'arriver sur Terra Nova, chaque PJ a déjà entendu parler d'au moins une rumeur sur cette station.
@@ -607,7 +621,7 @@ Ce dernier les attend patiemment à cet étage. Et il est bien préparé et sour
 Pour accueillir d'éventuels visiteurs, Cory 3 a suspendu un agent de sécurité au plafond **par les tripes**.
 Celui-ci est toujours vivant, et implore les PJs de mettre fin à ses souffrances.
 De l'**eau électrifiée** recouvre le sol sous le pauvre homme : si des PJs tentent de le décrocher,
-un jet de **Percevoir + Observation** difficulté 2 permettra de repérer le piège avant qu'il ne soit trop tard, 
+un jet de **Percevoir + Observation** difficulté 2 permettra de repérer le piège avant qu'il ne soit trop tard,
 et que les personnages ne perdent 1 PV.
 
 <figure class="float-right">
@@ -779,18 +793,18 @@ Bien que _« froids, méthodiques, discrets »_, ces agents n'en restent pas moi
 
 * des PJs persuasifs pourraient les convaincre qu'ils ne peuvent pas abandonner les survivants à leur sort, alors que la station chute vers Cepheus
 
-<img alt="" src="img/GuyWithMask.png" class="size10">
-
 ## Acte 3 - Exit
 Voici quelques options supplémentaires s'offrant aux PJs pour quitter la station :
 
 * **Illisos**, le vaisseau de « La Sécurité », dans les conditions décrites par le livre.
-* l'**Eridanos** a été gravement endommagé suite aux explosions du niveau 9, mais certains **pods de survie** sont encore utilisables : 1D6 sont fonctionnels, et d'autres sont réparables, par exemple par Arora avec sa capacité spéciale. 
+* l'**Eridanos** a été gravement endommagé suite aux explosions du niveau 9, mais certains **pods de survie** sont encore utilisables : 1D6 sont fonctionnels, et d'autres sont réparables, par exemple par Arora avec sa capacité spéciale.
 * au niveau 4, une compagnie de transport expose un modèle de vaisseau « d'escorte » biplace, le **Céphise**. Assemblé sur place et fonctionnel, la plus grande difficulté pour employer cette embarcation sera de la faire sortir de la station... Au vu du temps limité dont disposent les PJs, faire exploser une paroi de l'étage risque d'être l'une des seules options envisageables.
 
 Idéalement, les PJs doivent avoir vent de ces options durant l'acte 2,
 mais ne pourront seulement y accéder que durant l'acte 3,
 par exemple parce que les endroits concernés sont scellés où pullulent d'androïdes.
+
+<img alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp" class="stretch">
 
 ::: page-break
 :::
@@ -834,9 +848,12 @@ Voici des _playlists_ alternatives, distinctes selon les actes du scénario :
 :::
 
 Et voici une sélection de morceaux plus « remarquables », pour des scènes spécifiques :
+
+<img alt="Marshal O'Neil" src="img/ONeil01.jpg" class="float-right size10">
+
 * [ludoWic - Katana ZERO](https://www.youtube.com/watch?v=_pMyRRFUMBE) (4min30) : crescendo électro de tension palpable **→** lancez ce morceau au début de la scène du **meurtre du marshal O'Neil**
 * [CYBERPUNK IS COMING - Extra Terra](https://www.youtube.com/watch?v=6Pia2X856wo) (7min) : crescendo de tension assez épique **→** lancez ce morceau lorsque les PJs découvrent **la révolte des androïdes**, et que vous leur décrivez la station qui bascule dans le chaos
-* [Sutra japonais chanté](https://www.youtube.com/watch?v=a4vmA9noFXo) (25min) : longue litanie répétitive **→** pour **la messe du culte de l'Ascension** dans l'animalerie abandonnée.
+* [Sutra japonais chanté](https://www.youtube.com/watch?v=a4vmA9noFXo) (25min) : longue litanie répétitive<br>**→** pour **la messe du culte de l'Ascension** dans l'animalerie abandonnée.
 * [The War - Gerald Trottman - The Expanse](https://www.youtube.com/watch?v=0--XpUQKBUQ) (3min) : ambiance étrange, rythme qui s'intensifie puis ralentit à la fin **→** employez ce morceau comme **thème pour « La Sécurité »**, à jouer lorsqu'ils interviennent dans le secteur où sont les PJs
 * [Heat Her Up - Clinton Shorter (The Expanse)](https://www.youtube.com/watch?v=V44uJKyS5LM) (4min) : crescendo « industriel » **→** pour une scène où les PJs mettent en œuvre **leur plan d'action**
 * [Beam - Volkor X](https://www.youtube.com/watch?v=kT7kZ7HPJYM) (8min30) : crescendo très épique **→** fond sonore pour votre fin de partie, pour la fuite de la station
@@ -844,6 +861,8 @@ Et voici une sélection de morceaux plus « remarquables », pour des scènes sp
 <!--
 Playlist The Expanse : [YouTube](https://www.youtube.com/playlist?list=PLLcod52t0kpfVsHz0laVYGX0owh05NR5W)
 -->
+
+<br><br>
 
 ::: insert sf-bg-01 block-center
 Cher lecteur bidouilleur, il peut être amusant pour surprendre tes joueurs de préparer de quoi produire une **synthèse vocale** des paroles d'androïdes de la page 64.
@@ -910,22 +929,6 @@ Cette aide de jeu est diffusée à prix libre.
 Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
 Je serais ravi d'avoir vos retours si vous l'employez :
 racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
-
-::: page-break
-:::
-
-## Illustrations restantes
-<img alt="Androïde Cory 3" src="img/android.jpg" class="size18">
-
-![](img/pixabay-ai-genere-cyborg-femme-fille-8269778.png)
-
-![](img/ONeil01.jpg)
-
-![](img/ONeil02.jpg)
-
-<img alt="Donnager spaceship from The Expanse" src="img/TheExpanse-Donnager-by-7-X-cc-by.webp" class="stretch size10">
-
-<img alt="" src="img/SpaceStation2.jpg" class="large">
 
 <!--
 Design goals:
