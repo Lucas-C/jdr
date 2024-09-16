@@ -950,9 +950,9 @@ Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href=
 Les fichiers sources pour générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/ParadisPerdu). Version : 1.0
 
 Cette aide de jeu est diffusée à prix libre.
-Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
+Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io/modules-de-secours).
 Je serais ravi d'avoir vos retours si vous l'employez :
-racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io/modules-de-secours) ou sur [mon blog](https://chezsoi.org/lucas/blog/modules-de-secours.html).
 
 <!--
 Design goals:

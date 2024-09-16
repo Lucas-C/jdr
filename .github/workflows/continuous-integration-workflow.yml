@@ -161,6 +161,9 @@ jobs:
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/ParadisPerdu-v/}/" README.md
           fi
           ./adj2pdf.py
+          if [[ $GIT_TAG =~ ^ParadisPerdu-v ]]; then
+            mv ParadisPerdu-ModulesDeSecours.pdf ../$GIT_TAG.pdf
+          fi
           cd -
 
           echo "Rendering plus-de-place-en-enfer"
