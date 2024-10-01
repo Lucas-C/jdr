@@ -141,7 +141,7 @@ Les documents stockés dans cette pièce sont des archives administratives sans 
 
 Une porte indique un accès au rez-de-chaussé (5), mais est protégée par un **scanner digital**.
 
-La tuile de cette pièce doit être retournée une fois que le sujet #314 s'y est précipité et l'a ravagé.
+La tuile de cette pièce doit être **retournée** une fois que le sujet #314 s'y est précipité et l'a ravagé.
 La section « Événements » plus loin fournit plus de détails.
 
 ### 4. La salle des spécimens
@@ -231,12 +231,12 @@ ils ne sont pas à proximité directe mais détecteront immanquablement tout bru
 
 ### 9. Le petit labo
 En entrant, face à la porte, les PJs découvrent le cadavre, au sol,
-d'un laborantin qui s'est visiblement suicidé en s'étranglant avec sa cravate et une broyeuse à papier.
+d'un laborantin qui s'est visiblement **suicidé en s'étranglant** avec sa cravate et une broyeuse à papier.
 Néanmoins, si les PJs ne l'inspectent pas prudemment,
 ce cadavre se révélera être **un zombie** et attaquera dans le dos tout PJ qui examinerait la pièce.
 
 Il y un **ordinateur** allumé au fond de ce petit laboratoire.
-Un message dans un coin de l'écran mentionne « clef USB manquante, insérez-la ».
+Un message dans un coin de l'écran mentionne _**« clef USB manquante, insérez-la »**_.
 Ce PC ne permet pas aux PJs d'accéder à l'extérieur du « Labo »,
 mais deux choses restent possibles :
 
@@ -262,7 +262,7 @@ Entrer dans cette pièce en présence du sujet #314 provoquera immédiatement so
 De l'autre côté de la porte des WCs, **des dizaines de zombies** dévorent bruyamment des cadavres
 dans un long couloir exigu.
 Ils ont peur du sujet #314, mais si l'un d'eux aperçoit un humain,
-1d6 zombies foncent immédiatement vers celui-ci et déboulent dans la pièce, un par un,
+**1d6 zombies** foncent immédiatement vers celui-ci et déboulent dans la pièce, un par un,
 à partir du tour suivant.
 
 En dehors des débris et du cadavre à demi-dévoré de la victime du sujet #314,
@@ -293,7 +293,7 @@ S'il n'est pas dérangé, le sujet #314 reste alors plusieurs tours dans les WCs
 
 ### Libération des spores
 Si un personnage, PJ ou Herman, valide la proposition du terminal de la cage d'escalier ou du petit labo,
-un violent tremblement secoue le bâtiment.
+un **violent tremblement** secoue le bâtiment.
 
 ↩️ La prochaine fois que les PJs entrent dans les salle 2, 4 ou 8, retournez-les face « transformée ».
 Si des PJs sont actuellement sur certaines de ces tuiles, retournez-les immédiatement.
@@ -334,7 +334,7 @@ et ouvrir les portes auxquelles ils sont adossés.
 Curieusement, les scanners ne reconnaissent plus les empreintes des zombies,
 probablement à cause de la transformation qu'ils ont subi.
 Laissez néanmoins les joueurs découvrir ça par eux même en tranchant la main de l'un d'eux à la hache.
-La main tranchée de Hadley ou Herman continuera par contre à les activer, s'ils n'ont pas été contaminés.
+La main tranchée de Hadley ou d'Herman continuera par contre à les activer, s'ils n'ont pas été contaminés.
 
 <p style="break-after: page"></p>
 
