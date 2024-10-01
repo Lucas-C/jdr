@@ -1001,9 +1001,15 @@ Avis post-partie de ~11h avec 5j :
   ... et Cory 3 pourrait abriter le corps de l'amour défunt d'Arora
 
 Com'
-* article blog : mentionner scénario Silent Hil qui m'avait marqué + adj Scavengers précédente
-    + modifier le lien vers le blog ci-dessus une fois publié
-* itch.io : modifier les liens itch.io ci-dessus une fois la page publiée
-* commentaire ici : https://www.misterfrankenstein.com/wordpress/?p=5388
+* [x] https://lucas-c.itch.io/modules-de-secours
+* [x] https://chezsoi.org/lucas/blog/modules-de-secours.html
+* [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+* [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
+* [wip] Partage par Yno sur https://www.misterfrankenstein.com
+* [wip] Scénariothèque
+* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
+* [ ] https://forums.ffjdr.org
+* [ ] https://www.casusno.fr ?
+* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
+* [ ] Discord PTGPTB ?
 -->
-

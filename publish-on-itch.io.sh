@@ -10,6 +10,7 @@ gamesOnItchIo[LesNonMorts]=les-non-morts
 gamesOnItchIo[CyberPunk]=cyberpunk
 gamesOnItchIo[BladesInTheDark-Interrogatoires]=blades-in-the-dark-interrogatoires
 gamesOnItchIo[BladesInTheDark-Interrogation]=blades-in-the-dark-interrogation
+gamesOnItchIo[ParadisPerdu]=modules-de-secours
 
 GITHUB_REF=${1?-'git ref must be provided as argument'}
 GIT_TAG=${GITHUB_REF##*/}
