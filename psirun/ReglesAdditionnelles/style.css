@@ -1,0 +1,32 @@
+@font-face { font-family: Coves; src: url("Coves-Light.otf"); }
+@font-face { font-family: Coves; src: url("Coves-Bold.otf"); font-weight: bold; }
+
+@page {
+  background-image: url(SunnyClockwork-FirebrandRemembers-cc-by-sa.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  background-size: contain;
+}
+
+h1 {
+  text-align: center;
+  font-family: Coves;
+  font-size: 3rem;
+  font-weight: normal;
+  line-height: 2.2rem;
+}
+h2, h3 { font-family: Coves; margin-bottom: 0; }
+h2 { margin-top: 2.333rem; }
+body { font-family: DejaVu Serif; }
+li { margin-bottom: .5rem; }
+a { color: darkblue; }
+blockquote {
+  font-style: italic;
+  padding-left: 1rem;
+  margin-left: 0;
+}
+footer {
+  font-size: x-small;
+  text-align: center;
+}
+.half-break { height: 1px; }

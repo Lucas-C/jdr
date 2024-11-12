@@ -7,8 +7,6 @@ from fpdf import FPDF
 from pypdf import PdfMerger
 
 DIR = Path(__file__).parent
-
-logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, set_metadata, watch_xreload_and_serve
 
@@ -25,6 +23,7 @@ def build_pdf():
     merger.write(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Pathfinder - Total Conversion",
+        lang="fr",
         keywords=("jdr", "ttrpg", "pathfinder"),
         description="",
     )

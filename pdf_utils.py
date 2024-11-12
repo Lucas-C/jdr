@@ -4,10 +4,11 @@ from datetime import datetime
 from random import shuffle
 from traceback import print_exc
 from urllib.parse import quote
+from time import perf_counter
 
 from bs4.builder._htmlparser import HTMLParserTreeBuilder
 from bs4 import BeautifulSoup, NavigableString
-from fpdf import FPDF, FPDF_VERSION
+from fpdf import FPDF
 from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
 from mistletoe.block_token import tokenize, BlockToken
@@ -24,12 +25,23 @@ except ImportError:
     OPT_DEPS_LOADED = False
     StaticFileHandler = object
 
+AUTHOR = "Lucas Cimon"
+
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE = "[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+"
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE = re.compile(ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 
+logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
+                        datefmt="%H:%M:%S", level=logging.INFO)
+logging.getLogger("livereload").setLevel(logging.INFO)
+# logging.getLogger("weasyprint").setLevel(logging.DEBUG)
+# Avoid some useless verbose logs:
+logging.getLogger("fontTools.subset").level = logging.WARN
+logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
-def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
+
+def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None):
+    start = perf_counter()
     with open(md_filepath, encoding="utf8") as md_file:
         md_content = md_file.read()
     md_content = handle_ponctuation_whitespaces(md_content)
@@ -51,7 +63,25 @@ def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None):
     font_config = FontConfiguration()
     css = CSS(filename=css_filepath, font_config=font_config)
     bytes_io = io.BytesIO()
-    HTML(base_url=str(dir), string=html).write_pdf(bytes_io, stylesheets=[css], font_config=font_config)
+    doc = HTML(base_url=str(dir), string=html).render(font_config=font_config, stylesheets=[css])
+    doc.metadata.authors = [AUTHOR]
+    doc.metadata.created = datetime.now(datetime.utcnow().astimezone().tzinfo).isoformat()
+    if lang:
+        doc.metadata.lang = lang
+    if metadata:
+        title = metadata.get("title")
+        if title:
+            doc.metadata.title = title
+        description = metadata.get("description")
+        if description:
+            doc.metadata.description = description
+        keywords = metadata.get("keywords")
+        if keywords:
+            if any(" " in word for word in keywords):
+                raise ValueError(f"PDF keywords should not contain any whitespace: '{keywords}'")
+            doc.metadata.keywords = keywords
+    doc.write_pdf(bytes_io)
+    print(f"WeasyPrint PDF building duration: {perf_counter() - start:.1f}s")
     return bytes_io
 
 
@@ -132,7 +162,7 @@ def add_table_of_contents(soup):
 def add_to_page(page, unit="mm"):
     k = get_scale_factor(unit)
     format = (page.mediabox[2] / k, page.mediabox[3] / k)
-    pdf = CustomFPDF(format=format, unit=unit)
+    pdf = FPDF(format=format, unit=unit)
     pdf.add_page()
     yield pdf
     overlay_pdf = io.BytesIO(pdf.output())
@@ -147,7 +177,7 @@ def add_to_every_page_static(pdf_filepath, unit="mm"):
     format = (reader.pages[0].mediabox[2] / k, reader.pages[0].mediabox[3] / k)
     writer = PdfWriter()
     writer.append(reader)
-    pdf = CustomFPDF(format=format, unit=unit)
+    pdf = FPDF(format=format, unit=unit)
     pdf.add_page()
     yield pdf
     overlay_pdf = io.BytesIO(pdf.output())
@@ -163,7 +193,7 @@ def add_to_every_page_dynamic(pdf_filepath, unit="mm"):
     writer.append(PdfReader(pdf_filepath))
     for page in writer.pages:
         format = (page.mediabox[2] / k, page.mediabox[3] / k)
-        pdf = CustomFPDF(format=format, unit=unit)
+        pdf = FPDF(format=format, unit=unit)
         pdf.add_page()
         yield pdf
         overlay_pdf = io.BytesIO(pdf.output())
@@ -172,17 +202,31 @@ def add_to_every_page_dynamic(pdf_filepath, unit="mm"):
     writer.write(pdf_filepath)
 
 
-def set_metadata(filepath, title=None, description=None, keywords=()):
+def set_metadata(filepath, title=None, description=None, keywords=(), lang=None):
+    """
+    This can be preferable over passing metadata= to markdown2pdf() because:
+    * keywords are currently badly formatted by WeasyPrint when inserted as metadata (there are extra quotes)
+    * pikepdf also sets metadata as XMP
+    """
+    if not (title or description or keywords or lang):
+        return
     with pikepdf.open(filepath, allow_overwriting_input=True) as pdf:
         with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
+            meta["dc:creator"] = [AUTHOR]
+            meta["pdf:Producer"] = "WeasyPrint & pikepdf"
+            meta["xmp:CreateDate"] = datetime.now(datetime.utcnow().astimezone().tzinfo).isoformat()
+            meta["xmp:CreatorTool"] = "https://github.com/Lucas-C/jdr/"
             if title:
                 meta["dc:title"] = title
+            if lang:
+                meta["dc:language"] = lang
             if description:
                 meta["dc:description"] = description
             if keywords:
+                if any(" " in word for word in keywords):
+                    raise ValueError(f"PDF keywords should not contain any whitespace: '{keywords}'")
+                meta["dc:subject"] = " ".join(keywords)
                 meta["pdf:Keywords"] = " ".join(keywords)
-            meta["dc:creator"] = ["Lucas Cimon"]
-            meta["xmp:MetadataDate"] = datetime.now(datetime.utcnow().astimezone().tzinfo).isoformat()
         pdf.save()
 
 
@@ -190,9 +234,6 @@ async def start_watch_and_rebuild(module, *files_to_watch):
     "Watch files and on change, reload Python modules & call build_pdf()"
     if not OPT_DEPS_LOADED:
         raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
-    logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
-                        datefmt="%H:%M:%S", level=logging.INFO)
-    logging.getLogger("livereload").setLevel(logging.INFO)
     watcher = get_watcher_class()()
     watcher.watch(__file__, module.build_pdf)
     for filepath in files_to_watch:
@@ -218,9 +259,6 @@ def watch_xreload_and_serve(module, root_dir, *files_to_watch):
     """
     if not OPT_DEPS_LOADED:
         raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
-    logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
-                        datefmt="%H:%M:%S", level=logging.INFO)
-    logging.getLogger("livereload").setLevel(logging.INFO)
     def on_change():
         xreload(module, new_annotations={"XRELOADED": True})
         module.build_pdf()
@@ -311,13 +349,3 @@ class CustomStaticFileHandler(StaticFileHandler):
         if content_type == "text/html":
             content_type = "text/html; charset=utf-8"
         return content_type
-
-
-minor, patch = map(int, FPDF_VERSION.split(".")[1:])
-if minor < 7 or (minor == 7 and patch <= 9):
-    print("Using workaround for https://github.com/py-pdf/fpdf2/issues/1245")
-    class CustomFPDF(FPDF):
-        def circle(self, x, y, r, style=None):
-            super().circle(x-r, y-r, 2*r, style)
-else:
-    CustomFPDF = FPDF

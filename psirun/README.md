@@ -1,3 +1,11 @@
+## Setting - Le Manoir
+- Version française : https://lucas-c.itch.io/psirun-le-manoir
+- English version: https://lucas-c.itch.io/psirun-the-manor
+
+## Règles additionnelles
+_cf_. [./CustomRules/](./CustomRules/CustomRules)
+
+## Compte-rendus de partie
 - https://chezsoi.org/lucas/jdr/psirun/CR_2016-12-18.html
 - https://chezsoi.org/lucas/jdr/psirun/CR_2017-12-27.html
 

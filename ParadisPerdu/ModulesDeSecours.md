@@ -867,6 +867,8 @@ Voici des _playlists_ alternatives, distinctes selon les actes du scénario :
 - [_playlist_ YouTube d'ambiance pour l'acte 1](https://youtube.com/playlist?list=PLLgE-ga3W_kZtrfXpoCl29f0AaEm1lJ1W), basée notamment sur les bande-sons de _Citizen Sleeper_ et _EVE Online_
 - [_playlist_ YouTube d'ambiance pour les actes 2 & 3](https://www.youtube.com/playlist?list=PLLgE-ga3W_kZxl-ncvX6RB6knVt3jO3CL), basée notamment sur les bande-sons de _Death Stranding_ et _Dead Space_
 
+Afin d'éviter les pubs sur YouTube (et ailleurs), je vous recommande vivement l'extension de navigateur web [uBlock Origin](https://ublockorigin.com/fr).
+
 ::: page-break
 :::
 
@@ -1005,11 +1007,7 @@ Com'
 * [x] https://chezsoi.org/lucas/blog/modules-de-secours.html
 * [x] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
 * [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
+* [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=11242
+* [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
 * [wip] Partage par Yno sur https://www.misterfrankenstein.com
-* [wip] Scénariothèque
-* [ ] post sur le fil Ludochaordic du Discord CestPadDuJdr
-* [ ] https://forums.ffjdr.org
-* [ ] https://www.casusno.fr ?
-* [ ] https://opale-roliste.com/forum/ressources/vos-creations/
-* [ ] Discord PTGPTB ?
 -->

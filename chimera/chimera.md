@@ -101,6 +101,7 @@ Neotokyo OST: https://www.youtube.com/watch?v=408tWOubRDM -> ou plutôt pour Ded
 https://opengameart.org/content/epic-fall
 https://opengameart.org/content/act-of-war
 https://www.youtube.com/watch?v=60xHD5VqjRQ
+Mullet Mad Jack soundtrack: https://www.youtube.com/playlist?list=PLk2hnSHq5Yhznj8E-rt_uAbP_oZ8ITdXt
 
 https://unsplash.com/collections/3436786/china-town-japanese
 
