@@ -19,7 +19,7 @@ def build_pdf():
     set_metadata(OUT_FILEPATH,
         title="Lady Blackbird - Contes du Bleu Sauvage",
         lang="fr",
-        keywords=("jdr", "ttrpg", "lady blackbird", "roleplay", "aide de jeu"),
+        keywords=("jdr", "ttrpg", "Lady-Blackbird", "roleplay", "aide-de-jeu"),
         description="TODO",
     )
     print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")
