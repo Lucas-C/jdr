@@ -23,7 +23,7 @@ def build_pdf():
     set_metadata(OUT_FILEPATH,
         title="Paradis Perdu - Modules de secours",
         lang="fr",
-        keywords=("jdr", "ttrpg", "aide de jeu", "sci-fi"),
+        keywords=("jdr", "ttrpg", "aide-de-jeu", "sci-fi"),
         description="Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original de Yno.",
     )
     print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")

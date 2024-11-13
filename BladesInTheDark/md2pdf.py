@@ -15,12 +15,12 @@ INT_FR_MD_FILEPATH = DIR / "BitD-Interrogatoires.md"
 DEMON_METADATA = {}  # TODO before publishing
 INT_FR_METADATA = {
     "title": "Blades in the Dark - Interrogatoires",
-    "keywords": ("jdr", "ttrpg", "blades in the dark", "roleplay", "aide de jeu", "interrogatoire"),
+    "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "roleplay", "aide-de-jeu", "interrogatoire"),
     "description": "Cette aide de jeu propose de développer les scènes d'interrogatoire du jeu de rôle Blades in the Dark, pour en faire des moments cruciaux, où les PJs sont mis sous pression par les Inspecteurs, où ils ont beaucoup à perdre, et où la situation se résoudra par des moments de roleplay mémorables.",
 }
 INT_EN_METADATA = {
     "title": "Blades in the Dark - Interrogation",
-    "keywords": ("ttrpg", "blades in the dark", "roleplay", "module", "interrogation"),
+    "keywords": ("ttrpg", "Blades-in-the-Dark", "roleplay", "module", "interrogation"),
     "description": "This game module develops the interrogation scenes of the tabletop roleplaying game Blades in the Dark, to make them crucial moments, where the PCs are put under pressure by the Inspectors, where they have a lot to lose, and where the situation will be resolved by memorable roleplay moments.",
 }
 

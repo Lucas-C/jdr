@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-import asyncio, logging, sys
+import asyncio, sys
 from pathlib import Path
 from time import perf_counter
 
 DIR = Path(__file__).parent
-sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
+sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 
-MD_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.md"
+MD_FILEPATH = DIR / "README.md"
 CSS_FILEPATH = DIR / "style.css"
-OUT_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.pdf"
+OUT_FILEPATH = DIR / "PsiRun-Implacables.pdf"
 
 
 def build_pdf():
@@ -17,10 +17,10 @@ def build_pdf():
     with OUT_FILEPATH.open("wb") as out_pdf_file:
         out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
     set_metadata(OUT_FILEPATH,
-        title="Lady Blackbird - Contes du Bleu Sauvage",
+        title="Psi*Run - Implacables",
         lang="fr",
-        keywords=("jdr", "ttrpg", "Lady-Blackbird", "roleplay", "aide-de-jeu"),
-        description="TODO",
+        keywords=("jeu-de-rôle", "jdr", "psi*run", "The-Boys"),
+        description="Setting pour Psi*Run inspiré de The Boys",
     )
     print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")
 

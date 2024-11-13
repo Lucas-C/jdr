@@ -1,6 +1,4 @@
-# **Psi*Run**
-# Règles additionnelles
-
+# <span class="psirun">Psi<span class="asterisk">*</span>Run</span><br> Règles additionnelles
 <p class="half-break"></p>
 <center>
 Ces règles entièrement facultatives gèrent quelques situations non prévues dans les règles,
@@ -13,16 +11,16 @@ Pour que les blessures aient un impact sur la mécanique de jeu :
 > Un Fugitif ayant une **blessure non soignée** doit toujours placer un dé sur le Risque **Blessure** sans pour autant **lancer de dé en plus**.
 
 ## Souvenirs
-Il est utile que les joueurs **lisent leurs Questions** en début de partie.
+Il est utile que les joueuses **lisent leurs Questions** en début de partie.
 
 Parfois, en enquêtant sur son passé durant la partie,
 un Fugitif peut obtenir des réponses à ses Questions
 sans placer de dé sur le Risque **Souvenir**.
 
-> Lorsqu'un joueur pense que son Fugitif vient de trouver un élément de réponse à l'une de ses questions,
-> avec l'accord du MJ il peut **lire cette question** aux autres joueurs.
+> Lorsqu'une joueuse pense que son Fugitif vient de trouver un élément de réponse à l'une de ses questions,
+> avec l'accord du MJ il peut **lire cette question** aux autres joueuses.
 > Chacun d'eux **propose alors une réponse**,
-> puis le joueur du Fugitif concerné choisit la réponse qu'il préfère.
+> puis la joueuse du Fugitif concerné choisit la réponse qu'il préfère.
 
 ## La Piste
 Cette règle peut être très utile si les Fugitifs **distancent** les Poursuivants,
@@ -38,13 +36,12 @@ Inscrivez-les comme des lieux dans la Piste uniquement si les Fugitifs y restent
 <footer><p class="half-break"></p>
 
 Aide de jeu réalisée par [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/).
-Psi*Run est un jeu de Meguey & Vincent Baker, édité en français par [ElectricGoat](https://electric-goat.net/products/1).
-Illustration : [SunnyClockwork](https://www.deviantart.com/sunnyclockwork/art/Firebrand-Remembers-520559447) - [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) - Police : [Jack Harvatt](https://www.behance.net/gallery/32715299/Coves-Free-Font)
-
+Psi*Run est un jeu de Meguey Baker, édité en français par [ElectricGoat](https://electric-goat.net/products/1).
+Illustration : [SunnyClockwork](https://www.deviantart.com/sunnyclockwork/art/Firebrand-Remembers-520559447) - [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) - Polices : [KillTheNoise](https://www.fontspace.com/kill-the-noise-font-f17592) & [Coves](https://www.behance.net/gallery/32715299/Coves-Free-Font)
 </footer>
 
 ## Entraide
-Si jamais les joueurs s'entraident pour réaliser une action significative :
+Si jamais les joueuses s'entraident pour réaliser une action significative :
 
 > Lorsque l'aide d'un ou plusieurs Fugitifs s'avère pertinente lors de l'action d'un autre Fugitif, ce dernier peut lancer un dé en plus.
 
@@ -55,9 +52,9 @@ Exemple :
 
 > Tous les trois, nous prennons notre élan pour sauter dans le vide jusqu'à l'immeuble adjacent.
 
-Il peut alors être laborieux de demander un jet de dés aux trois joueurs :
+Il peut alors être laborieux de demander un jet de dés aux trois joueuses :
 
-> Lorsque les Fugitifs réalisent la même action significative en simultané, désignez un joueur qui réalisera une unique jet de dés dont le résultat déterminera la réussite globale de l'action.
+> Lorsque les Fugitifs réalisent la même action significative en simultané, désignez une joueuse qui réalisera une unique jet de dés dont le résultat déterminera la réussite globale de l'action.
 
 ## Décisions aléatoires
 Parfois, les Fugitifs ne réalisent pas d'action significative,
@@ -87,4 +84,4 @@ Exemples :
 ⇢ Chaque Fugitif a **autant de chance** de se faire attaquer.
 
 ➜ « Choisissez chacun un chiffre entre 1 et 6, puis le dé déterminera qui sera ciblé. »
-_(en relançant jusqu'à ce que le chiffre d'un joueur soit tiré)_
+_(en relançant jusqu'à ce que le chiffre d'une joueuse soit tiré)_

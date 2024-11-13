@@ -171,6 +171,12 @@ jobs:
           node ../md2html.js plus-de-place-en-enfer.md > index.html
           cd -
 
+          cd psirun/ReglesAdditionnelles/
+          ./md2pdf.py
+          cd ../Implacables/
+          ./md2pdf.py
+          cd ../..
+
           echo "Rendering RunDieRepeat"
           cd RunDieRepeat
           node ../md2html.js RunDieRepeat-scenarios-FR.md > RunDieRepeat-scenarios-FR.html

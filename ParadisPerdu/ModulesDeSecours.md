@@ -1,5 +1,4 @@
-# Paradis Perdu
-# Modules de secours
+# Paradis Perdu <br>Modules de secours
 
 <br><br><br>
 <br><br><br>

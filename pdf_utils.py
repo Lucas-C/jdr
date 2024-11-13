@@ -37,6 +37,7 @@ logging.getLogger("livereload").setLevel(logging.INFO)
 # logging.getLogger("weasyprint").setLevel(logging.DEBUG)
 # Avoid some useless verbose logs:
 logging.getLogger("fontTools.subset").level = logging.WARN
+logging.getLogger("fontTools.ttLib.tables._h_e_a_d").level = logging.ERROR
 logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
 
@@ -110,7 +111,8 @@ def add_id_attrs_on_headings(soup):
     for tag_name in ("h1", "h2", "h3", "h4"):
         for heading in soup.find_all(tag_name):
             if not heading.get("id"):
-                heading["id"] = slugify(heading.string)
+                if heading.string:
+                    heading["id"] = slugify(heading.string)
 
 def slugify(s):
     # Reproduce slugify() in md2html.js
