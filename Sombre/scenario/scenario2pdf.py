@@ -48,6 +48,7 @@ def build_pdf():
     merger.write(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Sombre - Lab Escape",
+        lang="fr",
         keywords=("jdr", "ttrpg", "sombre", "horror", "scenario"),
         description="Un scénario Sombre Zéro pour 3 à 5 joueurs, d'une durée d'environ 45min, dans un laboratoire envahi de zombies, avec une part d'exploration, les lieux étant progressivement révélés aux joueurs.",
     )

@@ -7,10 +7,6 @@ DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 
-# Avoid some useless verbose logs:
-logging.getLogger("fontTools.subset").level = logging.WARN
-logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
-
 MD_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.md"
 CSS_FILEPATH = DIR / "style.css"
 OUT_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.pdf"
@@ -22,6 +18,7 @@ def build_pdf():
         out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
     set_metadata(OUT_FILEPATH,
         title="Lady Blackbird - Contes du Bleu Sauvage",
+        lang="fr",
         keywords=("jdr", "ttrpg", "lady blackbird", "roleplay", "aide de jeu"),
         description="TODO",
     )

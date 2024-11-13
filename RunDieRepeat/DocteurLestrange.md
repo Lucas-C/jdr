@@ -7,6 +7,8 @@ Publié / com' sur :
 - [x] http://www.scenariotheque.org
 
 Playtest 2021/02/12 avec Jérôme, Jordane & Laetitia de l'Auberge des Rêveurs
+
+Alt illustration CC-BY: https://www.deviantart.com/rodrigokatrakas/art/Dr-Strange-Colors-891161005
 -->
 # Docteur Lestrange
 ![](pngarts.com-Doctor-Strange-PNG-Image-Background.png)

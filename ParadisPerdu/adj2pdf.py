@@ -9,10 +9,6 @@ DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild
 
-# Avoid some useless verbose logs:
-logging.getLogger("fontTools.subset").level = logging.WARN
-logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
-
 MD_FILEPATH = DIR / "ModulesDeSecours.md"
 CSS_FILEPATH = DIR / "style.css"
 DIAGRAM_FILEPATHS = (DIR / "scenario1.svg", DIR / "scenario2.svg")
@@ -26,7 +22,8 @@ def build_pdf():
     add_page_number_backgrounds(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Paradis Perdu - Modules de secours",
-        keywords=("jdr", "ttrpg", "aide de jeu", "sci-fi"),
+        lang="fr",
+        keywords=("jdr", "ttrpg", "aide-de-jeu", "sci-fi"),
         description="Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original de Yno.",
     )
     print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")

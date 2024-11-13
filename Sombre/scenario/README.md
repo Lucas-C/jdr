@@ -545,4 +545,12 @@ CR partie du 2023/11/30
     + ajout d'une arme "usable" : le tuyau métallique
     + ajout de munitions pour le revolver
     + suppression de la seringue de dose virale
+
+CR partie du 2024/11/10
+* joueurs : Anna, Julie, Guillaume
+* durée : ~ 45min
+* fin :
+    + Hadley mort, tué par un zombie quelques minutes avant la fin
+    + Markus & Damian fuient avec la voiture (démarrée avec un jet réussi de Markus), Herman & la clef USB
+    + pas de spores, ni de visite du petit labo ni des WCs, ni de libération du sujet #314
 -->

@@ -1,0 +1,40 @@
+@font-face { font-family: KillTheNoise; src: url("../fonts/KillTheNoise.otf"); }
+@font-face { font-family: Coves; src: url("../fonts/Coves-Light.otf"); }
+@font-face { font-family: Coves; src: url("../fonts/Coves-Bold.otf"); font-weight: bold; }
+
+@page {
+  background-image: url(SunnyClockwork-FirebrandRemembers-cc-by-sa.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  background-size: contain;
+}
+
+body { font-family: DejaVu Serif; }
+h1 {
+  text-align: center;
+  font-family: Coves;
+  font-size: 3rem;
+  font-weight: normal;
+  line-height: 4rem;
+  margin-top: 0;
+}
+h1 .psirun { font-family: KillTheNoise; font-size: 5rem; }
+h1 .asterisk { font-family: Helvetica; font-size: 2.5rem; vertical-align: super; }
+h2, h3 {
+  font-family: Coves;
+  line-height: 1.1rem;
+  margin-bottom: 0;
+}
+h2 { margin-top: 2.5rem; }
+li { margin-bottom: .5rem; }
+a { color: darkblue; }
+blockquote {
+  font-style: italic;
+  padding-left: 1rem;
+  margin-left: 0;
+}
+footer {
+  font-size: x-small;
+  text-align: center;
+}
+.half-break { height: 1px; }

@@ -7,10 +7,6 @@ DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 
-# Avoid some useless verbose logs:
-logging.getLogger("fontTools.subset").level = logging.WARN
-logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
-
 CSS_FILEPATH = DIR / "style.css"
 DEMON_MD_FILEPATH = DIR / "BitD-DemonSheet.md"
 INT_EN_MD_FILEPATH = DIR / "BitD-Interrogation.md"
@@ -41,7 +37,7 @@ def build_single_pdf(md_filepath, metadata, lang):
     out_filepath = md_filepath.with_suffix(".pdf")
     with out_filepath.open("wb") as out_pdf_file:
         out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang).getbuffer())
-    set_metadata(out_filepath, **metadata)
+    set_metadata(out_filepath, **metadata, lang=lang)
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")
 
 

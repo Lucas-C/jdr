@@ -1,0 +1,35 @@
+@font-face { font-family: KillTheNoise; src: url("../fonts/KillTheNoise.otf"); }
+@font-face { font-family: RoadRage; src: url("../fonts/RoadRage.otf"); }
+@font-face { font-family: OutrunFuture; src: url("../fonts/OutrunFuture.otf"); }
+@font-face { font-family: OutrunFuture; src: url("../fonts/OutrunFuture-Bold.otf"); font-weight: bold; }
+
+h1 {
+  text-align: center;
+  font-family: RoadRage;
+  font-size: 4rem;
+  font-weight: normal;
+  line-height: 4rem;
+  margin-top: 0;
+}
+h1 .psirun { font-family: KillTheNoise; font-size: 5rem; }
+h1 .asterisk { font-family: Helvetica; font-size: 2.5rem; vertical-align: super; }
+body { font-family: "DejaVu Serif"; }
+h2, h3 {
+  font-family: OutrunFuture;
+  margin-bottom: .8rem;
+}
+h2 { font-size: 1.4rem; margin-top: 2rem; }
+li { margin-bottom: .5rem; }
+a { color: darkblue; }
+footer { text-align: center; line-height: .5rem; }
+img { max-width: 25rem; display: block; margin: 0 auto; }
+img.size6 { max-height: 6rem; max-width: 6rem; }
+img.size14 { max-height: 14rem; max-width: 14rem; }
+img.size16 { max-height: 16rem; max-width: 16rem; }
+img.logo { max-width: 6rem; }
+.float-left { float: left; margin-right: .5rem; }
+.float-right { float: right; margin-left: .5rem; }
+.columns { columns: 2; }
+.columns ul { margin: 0; padding-left: .666rem; }
+.half-break { height: 1px; }
+.red { color: red; font-weight: bold; }
