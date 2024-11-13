@@ -210,7 +210,6 @@ def set_metadata(filepath, title=None, description=None, keywords=(), lang=None)
     * keywords are currently badly formatted by WeasyPrint when inserted as metadata (there are extra quotes)
     * pikepdf also sets metadata as XMP
     """
-    return
     if not (title or description or keywords or lang):
         return
     with pikepdf.open(filepath, allow_overwriting_input=True) as pdf:
