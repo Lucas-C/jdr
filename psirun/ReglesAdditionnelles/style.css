@@ -36,5 +36,6 @@ blockquote {
 footer {
   font-size: x-small;
   text-align: center;
+  margin-top: 1.4rem;
 }
 .half-break { height: 1px; }
