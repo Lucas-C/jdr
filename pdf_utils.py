@@ -13,7 +13,7 @@ from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
 from mistletoe.block_token import tokenize, BlockToken
 import pikepdf
-from pypdf import PdfReader, PdfWriter
+from pypdf import PageObject, PdfReader, PdfWriter
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
 try:
@@ -161,7 +161,7 @@ def add_table_of_contents(soup):
 
 
 @contextmanager
-def add_to_page(page, unit="mm"):
+def add_to_page(page: PageObject, unit="mm"):
     k = get_scale_factor(unit)
     format = (page.mediabox[2] / k, page.mediabox[3] / k)
     pdf = FPDF(format=format, unit=unit)
@@ -172,7 +172,7 @@ def add_to_page(page, unit="mm"):
     page.merge_page(page2=overlay_page)
 
 @contextmanager
-def add_to_every_page_static(pdf_filepath, unit="mm"):
+def add_to_every_page_static(pdf_filepath, unit="mm", viewer_prefs=None):
     "Add the same content on every page"
     reader = PdfReader(pdf_filepath)
     k = get_scale_factor(unit)
@@ -186,9 +186,13 @@ def add_to_every_page_static(pdf_filepath, unit="mm"):
     overlay_page = PdfReader(overlay_pdf).pages[0]
     for page in writer.pages:
         page.merge_page(page2=overlay_page)
+    if viewer_prefs:
+        writer.create_viewer_preferences()
+        for key, value in viewer_prefs.items():
+            setattr(writer.viewer_preferences, key, value)
     writer.write(pdf_filepath)
 
-def add_to_every_page_dynamic(pdf_filepath, unit="mm"):
+def add_to_every_page_dynamic(pdf_filepath, unit="mm", viewer_prefs=None):
     "Add some variable content on every page"
     k = get_scale_factor(unit)
     writer = PdfWriter()
@@ -201,14 +205,16 @@ def add_to_every_page_dynamic(pdf_filepath, unit="mm"):
         overlay_pdf = io.BytesIO(pdf.output())
         overlay_page = PdfReader(overlay_pdf).pages[0]
         page.merge_page(page2=overlay_page)
+    if viewer_prefs:
+        writer.create_viewer_preferences()
+        for key, value in viewer_prefs.items():
+            setattr(writer.viewer_preferences, key, value)
     writer.write(pdf_filepath)
 
 
 def set_metadata(filepath, title=None, description=None, keywords=(), lang=None):
     """
-    This can be preferable over passing metadata= to markdown2pdf() because:
-    * keywords are currently badly formatted by WeasyPrint when inserted as metadata (there are extra quotes)
-    * pikepdf also sets metadata as XMP
+    This is preferable over passing metadata= to markdown2pdf() because pikepdf also sets metadata as XMP
     """
     if not (title or description or keywords or lang):
         return
@@ -230,6 +236,28 @@ def set_metadata(filepath, title=None, description=None, keywords=(), lang=None)
                 meta["dc:subject"] = " ".join(keywords)
                 meta["pdf:Keywords"] = " ".join(keywords)
         pdf.save()
+
+
+def add_pdf_annotations(pdf_filepath, annotations, viewer_prefs=None, font="Helvetica", size=12):
+    """
+    Args:
+        pdf_filepath (str): path to the PDF document
+        annotations (dict): map page indices (starting at 0) to dictionaries,
+            with valid keys being "text_annotations" / "ink_annotations" / etc.,
+            and values being the parameters passed to the corresponding FPDF methods.
+        viewer_prefs (dict): viewer preferences, with keys as camel_case
+    """
+    for i, pdf in enumerate(add_to_every_page_dynamic(pdf_filepath, viewer_prefs=viewer_prefs)):
+        page_annotations = annotations.get(i)
+        if not page_annotations:
+            continue
+        for annot in page_annotations.get("text_annotations", ()):
+            pdf.text_annotation(**annot)
+        for annot in page_annotations.get("free_text_annotations", ()):
+            pdf.set_font(font, size=size)
+            pdf.free_text_annotation(**annot)
+        for annot in page_annotations.get("ink_annotations", ()):
+            pdf.ink_annotation(**annot)
 
 
 async def start_watch_and_rebuild(module, *files_to_watch):
