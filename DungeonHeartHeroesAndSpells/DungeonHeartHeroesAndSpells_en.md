@@ -7,7 +7,7 @@ This is an expansion for the short, excellent & free, pen & paper roleplaying ga
 (for version 1.6).
 
 ::: web-only
-PDF version: [v1.6-en.pdf (1Mo)](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-en.pdf)
+PDF version: [v1.6-en.pdf (1Mo)](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16ENDirectPDFdownload)
 
 For more information, I invite you to read [this article on my blog](https://chezsoi.org/lucas/blog/dungeon-heart.html).
 :::

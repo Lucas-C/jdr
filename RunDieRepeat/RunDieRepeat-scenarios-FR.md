@@ -39,7 +39,7 @@ Version PDF: [@itch.io](https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat
 :::
 
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-créé par **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)).
+créé par **Labrys Games** ([traduction en français](https://chezsoi.org/s/RDRfrdirectPDFdownload)).
 Ces scénarios sont inspirés, en vrac, des écrits de Lovecraft, du mythe du Minotaure,
 des séries l'Attaque des Titans et Prison Break, des films Edge of Tomorrow et Independence Day,
 et des jeux vidéos Hitman, Metal Gear Solid, Prototype, Splinter Cell ou encore Shadow of the Colossus.

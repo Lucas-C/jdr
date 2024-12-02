@@ -11,7 +11,7 @@ Version PDF: [RunDieRepeat-scenarios2-FR.pdf](RunDieRepeat-scenarios2-FR.pdf)
 :::
 
 Ces quelques scénarios sont conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-créé par **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)).
+créé par **Labrys Games** ([traduction en français](https://chezsoi.org/s/RDRfrdirectPDFdownload)).
 
 * [Parasite](#parasite)
 * [Dernier wagon pour l’amour](#dernier-wagon-pour-l-amour)

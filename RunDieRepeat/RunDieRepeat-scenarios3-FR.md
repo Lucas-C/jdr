@@ -134,7 +134,7 @@ Version PDF: ...
 :::
 
 Ce document rassemble une dizaine de scénarios conçus pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-créé par **Labrys Games** ([traduction en français](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)).
+créé par **Labrys Games** ([traduction en français](https://chezsoi.org/s/RDRfrdirectPDFdownload)).
 
 * [Le camembert de la sorcière](#le-camembert-de-la-sorci-re)
 * [Frostpunk](#frostpunk)

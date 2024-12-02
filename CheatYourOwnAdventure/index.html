@@ -9,8 +9,11 @@
 <h1 tabindex="-1"><span class="choose">Choose</span> Your Own Adventure</h1>
 <div class="cheat">Cheat</div>
 <p><em>Le Jdr Dont Vous Êtes Le Héros</em></p>
-<p>Traduction d’<a href="http://cheatyourownadventure.co.uk">un jeu de Shane Mclean</a> par Lucas Cimon : <a href="https://chezsoi.org/lucas/blog/tag/jdr.html">chezsoi.org</a>, avec une variante de la règle du lancé de dé.</p>
+<p>Traduction d’<a href="http://cheatyourownadventure.co.uk">un jeu de Shane Mclean</a> par <a href="https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html">Lucas Cimon</a>, avec une variante de la règle du lancé de dé.</p>
 <p><em>Pour trois joueurs ou plus (idéalement quatre ou cinq)</em></p>
+<div class="web-only">
+<p>Version PDF (1,2 Mo): <a href="https://chezsoi.org/s/CYOAPDFDownload">CheatYourOwnAdventure.pdf</a></p>
+</div>
 <p><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" ></a></p>
 <hr>
 <p><em>Vous ouvrez impatiemment le livre à la page 1 et débutez un voyage fait de “ rendez-vous en page … ” et de choix cornéliens.
@@ -271,7 +274,10 @@ section { position: relative; }
   top: 0;
   left: 5vw;
 }
-@media print { .cheat { left: 2vw; } }
+@media print {
+  .cheat { left: 2vw; }
+  .web-only { display: none; }
+}
 .insert {
   float: right;
   margin-left: 1rem;
