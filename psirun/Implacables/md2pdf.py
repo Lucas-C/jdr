@@ -77,7 +77,37 @@ EN_METADATA = dict(
     keywords=("tabletop-roleplaying-game", "ttrpg", "psi*run", "The-Boys"),
     description="Setting for Psi*Run inspired by The Boys",
 )
-EN_ANNOTATIONS = {}
+
+EN_ANNOTATIONS = {
+    0: (
+        "Ah that's not true... I blew my box, really?",
+        "Their loss of memory will not be enough to atone for the crimes of these bastards." "That big bastard Doggy, who enforces the order of the rich like a good super-doggie...",
+        "Ahahah I can imagine their faces when they later discovered the latex tights they were wearing :D",
+    ),
+    1: (
+        "Ah well yes shit, I had a flat tire. At least I got them right in the bone!",
+        "Madison is legit. I hope his voice will be heard in the media to denounce the Implacables.",
+        "I have never been able to enter it, only Doggy's presence triggers the opening of this bunker.",
+        "The hypocrisy of MegaScout's strict morality is truly laughable, especially given his hobbies...",
+        "I hope that Thorgal will not let himself be carried away by anger to avenge me... As I know him, he will want to have the Implacables judged by their victims, then will carry out the sentence himself.",
+    ),
+    2: (
+        "Ah my dear vengeful freaks! These corrupt Implausibles will tremble before your just anger!",
+        "You are intelligent and honest. Don't let yourself be overwhelmed by rage. Justice must triumph, and I don't want you to die.",
+    ),
+    3: (
+        "What a smoke! With a CEO in the wild and as amnesiac as a scratched vinyl, Vault Tech will end up turning against the Relentless...",
+        "We're going to have a good laugh when their portraits are broadcast on all the screens in town...",
+        "And will justice be done?",
+    ),
+}
+for page, fr_annot_dict in FR_ANNOTATIONS.items():
+    en_text_annots = EN_ANNOTATIONS[page]
+    en_annots = EN_ANNOTATIONS[page] = {}
+    en_annots["text_annotations"] = tuple({**annot, "text": text} for annot, text in zip(fr_annot_dict["text_annotations"], en_text_annots))
+    if "free_text_annotations" in fr_annot_dict:
+        en_annots["free_text_annotations"] = tuple(dict(annot) for annot in fr_annot_dict["free_text_annotations"])
+
 
 # Waiting for fpdf2.8.2 :
 for annot_dict in list(FR_ANNOTATIONS.values()) + list(EN_ANNOTATIONS.values()):

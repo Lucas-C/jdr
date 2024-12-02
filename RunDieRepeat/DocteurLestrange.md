@@ -19,7 +19,7 @@ Alt illustration CC-BY: https://www.deviantart.com/rodrigokatrakas/art/Dr-Strang
 > un bruit de lutte et de verre brisé vous réveille : des intrus ont pénétré chez vous !
 
 Ceci est un scénario de 30min pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-de **Labrys Games** [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf).
+de **Labrys Games** [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/s/RDRfrdirectPDFdownload).
 <img class="timer" alt="30min timer" src="timer-30.svg" title="30min">
 
 ::: web-only

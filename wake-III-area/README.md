@@ -23,7 +23,7 @@ French driver loaded.
 ## Maps
 * Trilemma one-page-dungeon Dissolution : http://blog.trilemma.com/2016/05/there-is-no-god-but-dissolution.html
 * Tiled + Kenney isometric dungeon: https://www.kenney.nl/assets/isometric-miniature-dungeon
-* https://danifm.itch.io/dnd-map-sketcher
+* https://danifm.itch.io/dnd-map-sketcher (not updated since 2020)
 * https://hobbyte.net/ : très prometteur en terme de visuel, mais 200$ pour une licence permettant un emploi dans un produit commercial
 * Isometric Dungeon Tiles $12 for Roll20: https://marketplace.roll20.net/browse/set/19511/isometric-dungeon-tiles
 * Neath 3D Mapping Tutorial (Sketch Up) :

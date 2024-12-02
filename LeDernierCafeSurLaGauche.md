@@ -1,8 +1,12 @@
 # Le dernier café sur la gauche
 
-_Traduction du jeu [The last coffeeshop on the left](http://www.cheatyourownadventure.co.uk/downloads/last-coffee.pdf) de Shane Mclean par Lucas Cimon : [chezsoi.org](https://chezsoi.org)
+_Traduction du jeu [The last coffeeshop on the left](http://www.cheatyourownadventure.co.uk/downloads/last-coffee.pdf) de Shane Mclean par [Lucas Cimon](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html)._
 
 _Un jeu sans meneur, pour 3 à 5 joueurs et 1h à 2h de partie_
+
+::: web-only
+Version PDF (58 Ko): [LeDernierCaféSurLaGauche.pdf](https://chezsoi.org/s/LDCSLGPDFDownload)
+:::
 
 “ Nous sommes au milieu d'un petit bourg désert indéterminé, un mardi pluvieux de novembre, tôt dans la soirée.
 Vous savez le moment où tous les magasins ont fermé, et les quelques rares personnes encore présentes terminent leur boulot ou leurs courses en vitesse.
@@ -73,5 +77,8 @@ h1 {
 }
 h2 {
   font-size: 1.1rem;
+}
+@media print {
+  .web-only { display: none; }
 }
 </style>

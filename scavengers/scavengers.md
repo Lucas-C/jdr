@@ -24,7 +24,7 @@ Icônes:
 ::: web-only
 [Article de blog de présentation](https://chezsoi.org/lucas/blog/scavengers-anomalies-nauchoresques.html)
 
-Version PDF: [adj-scavengers-1.2.2.pdf (1,6 Mo)](https://github.com/Lucas-C/jdr/releases/download/adj-scavengers-1.2.2/adj-scavengers-1.2.2.pdf)
+Version PDF: [adj-scavengers-1.2.2.pdf (1,6 Mo)](https://chezsoi.org/s/ScavengersPDFDOwnload)
 :::
 
 ## PISTES DE SCENARIOS & REGLES OPTIONNELLES

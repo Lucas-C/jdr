@@ -396,7 +396,8 @@ fait passer à une joueuse de ton choix le mot suivant avant d'entrer à la tabl
 
 ## Pour plus d'infos sur le sujet :
 - [Le film « La sociale »](https://chezsoi.org/shaarli/?jHaUCg)
-- [Le CNR, le programme merveilleux et les jours heureux - Fabrice Drouelle - france inter](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-du-vendredi-29-avril-2022)
+- [Ambroise Croizat, le père de la Sécurité Sociale - Affaires Sensibles - France Inter](https://www.radiofrance.fr/franceinter/podcasts/affaires-sensibles/affaires-sensibles-du-jeudi-21-novembre-2024-9520597)
+- [Le CNR, le programme merveilleux et les jours heureux - Affaires Sensibles - France Inter](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-du-vendredi-29-avril-2022)
 - ["Les jours heureux" dans le numéro 29 de la Revue Dessinée (Automne 2020)](https://www.4revues.fr/la-revue-dessinee/255-29-automne-2020.html)
 - [Une histoire de la Sécurité Sociale (Ingénieurs Sans Frontières)](https://www.isf-france.org/articles/une-histoire-de-la-securite-sociale)
 - [Pierre Laroque et les origines de la Sécurité sociale](https://www.cairn.info/revue-informations-sociales-2015-3-page-12.htm) (sur cairn.info)

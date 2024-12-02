@@ -13,7 +13,7 @@ Scénariothèque : http://www.scenariotheque.org/Document/info_doc.php?id_doc=99
 Ceci est une extension pour la version 1.6 du jeu de rôle monopage [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart).
 
 ::: web-only
-Version PDF : [v1.6-fr.pdf (1Mo)](https://chezsoi.org/lucas/blog/images/jdr/DungeonHeartHeroesAndSpells-v1.6-fr.pdf)
+Version PDF : [v1.6-fr.pdf (1Mo)](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
 
 Pour plus de contexte je vous invite à lire [cet article de mon blog](https://chezsoi.org/lucas/blog/dungeon-heart-heroes-and-spells.html).
 :::

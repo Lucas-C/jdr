@@ -35,8 +35,8 @@ Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/p
 Jeux de Grant Howitt :
 
 - [Ce n'est pas une place d'honneur](ce-nest-pas-une-place-dhonneur) ([version PDF](https://github.com/Lucas-C/jdr/releases/download/ce-nest-pas-une-place-dhonneur-v1.3/ce-nest-pas-une-place-dhonneur-v1.3.pdf))
-- [Genius Loci](genius-loci) ([version PDF](https://chezsoi.org/lucas/blog/images/jdr/genius-loci.pdf))
-- [Plus de place en Enfer](plus-de-place-en-enfer) ([version PDF](https://chezsoi.org/lucas/blog/images/jdr/plus-de-place-en-enfer.pdf))
+- [Genius Loci](genius-loci) ([version PDF](https://chezsoi.org/s/GeniusLociDirectPDFDownload))
+- [Plus de place en Enfer](plus-de-place-en-enfer) ([version PDF](https://chezsoi.org/s/PdPeEDirectPDFDownload))
 
 Jeux de Shane Mclean :
 
@@ -45,12 +45,12 @@ Jeux de Shane Mclean :
 
 [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
 
-- [PDF 1.7 Mo](https://chezsoi.org/lucas/blog/images/jdr/Dungeon%20Heart%20B%26W%20v1.6%20fr.pdf)
+- [PDF 1.7 Mo](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
 - [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon%20Heart%20B%26W%20v1.6%20fr.fodg)
 
 [Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
 
-- [PDF 37 Ko](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf)
+- [PDF 37 Ko](https://chezsoi.org/s/RDRfrdirectPDFdownload)
 - [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
 
 [CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :

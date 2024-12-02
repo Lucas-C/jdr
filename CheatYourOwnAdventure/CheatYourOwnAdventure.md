@@ -3,9 +3,13 @@
 
 _Le Jdr Dont Vous Êtes Le Héros_
 
-Traduction d'[un jeu de Shane Mclean](http://cheatyourownadventure.co.uk) par Lucas Cimon : [chezsoi.org](https://chezsoi.org/lucas/blog/tag/jdr.html), avec une variante de la règle du lancé de dé.
+Traduction d'[un jeu de Shane Mclean](http://cheatyourownadventure.co.uk) par [Lucas Cimon](https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html), avec une variante de la règle du lancé de dé.
 
 _Pour trois joueurs ou plus (idéalement quatre ou cinq)_
+
+::: web-only
+Version PDF (1,2 Mo): [CheatYourOwnAdventure.pdf](https://chezsoi.org/s/CYOAPDFDownload)
+:::
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" ></a>
 
@@ -217,7 +221,10 @@ section { position: relative; }
   top: 0;
   left: 5vw;
 }
-@media print { .cheat { left: 2vw; } }
+@media print {
+  .cheat { left: 2vw; }
+  .web-only { display: none; }
+}
 .insert {
   float: right;
   margin-left: 1rem;

@@ -17,7 +17,7 @@ Potential improvement: ajouter un mini-tuto "parler gobelin" (suggestion de Muze
 > Toi d'abord.
 
 Ceci est un scénario de 45min pour le jeu de rôle [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat)
-de **Labrys Games**, [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/lucas/blog/images/jdr/RunDieRepeat-FR.pdf),
+de **Labrys Games**, [traduit ici en français (PDF, 38 Ko)](https://chezsoi.org/s/RDRfrdirectPDFdownload),
 prévu pour être joué par conférence audio.
 ::: web-only
 Version PDF: [@itch.io](https://lucas-c.itch.io/les-couloirs-du-temps)
