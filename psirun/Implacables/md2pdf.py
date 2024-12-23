@@ -109,16 +109,6 @@ for page, fr_annot_dict in FR_ANNOTATIONS.items():
         en_annots["free_text_annotations"] = tuple(dict(annot) for annot in fr_annot_dict["free_text_annotations"])
 
 
-# Waiting for fpdf2.8.2 :
-for annot_dict in list(FR_ANNOTATIONS.values()) + list(EN_ANNOTATIONS.values()):
-    for name, annots in annot_dict.items():
-        for annot in annots:
-            if name == "text_annotations":
-                del annot["title"]
-            if name == "free_text_annotations":
-                del annot["color"]
-
-
 def build_pdf():
     md_filepaths = ()
     # Uncomment one of those lines if you only want to --watch/re-build a single PDF

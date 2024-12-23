@@ -136,11 +136,9 @@ jobs:
           cd OriMushi
           ./gen_illus_pdf.py
           node ../md2html.js OriMushi.md > index.html
-          # This line cannot stay in the HTML source file due to lepture/python-livereload PR #259:
-          sed -i '1i<head><meta charset="UTF-8"></head>' OriMushi-FeuillePersonnage.html
-          node ../puppeteer-print.js OriMushi-FeuillePersonnage.html OriMushi-FeuillePersonnage.pdf
+          node ../puppeteer-print.js index.html OriMushi.pdf
           if [[ $GIT_TAG =~ ^ori-mushi- ]]; then
-            sed -i "s/{{version}}/${GIT_TAG/ori-mushi-/}/" index.html
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/ori-mushi-/}/" index.html
             node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
           cd -
