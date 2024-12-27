@@ -135,11 +135,11 @@ jobs:
           echo "Rendering OriMushi"
           cd OriMushi
           ./gen_illus_pdf.py
-          node ../md2html.js OriMushi.md > index.html
-          node ../puppeteer-print.js index.html OriMushi.pdf
+          ./md2pdf.py
           if [[ $GIT_TAG =~ ^ori-mushi- ]]; then
-            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/ori-mushi-/}/" index.html
-            node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/ori-mushi-/}/" OriMushi.md
+            ./md2pdf.py
+            mv OriMushi.pdf ../$GIT_TAG.pdf
           fi
           cd -
 
