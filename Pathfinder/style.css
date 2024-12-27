@@ -4,7 +4,7 @@
 @font-face { font-family: "Candara"; src: url("./fonts/Candara_Bold_Italic.ttf"); font-weight: bold; font-style: italic; }
 @font-face { font-family: "Vinque"; src: url("./fonts/VinqueRegular.otf"); }
 
-body { font-family: Dice, Candara; text-align: justify; max-width: 40rem; margin: 0 auto; }
+body { font-family: Candara; text-align: justify; max-width: 40rem; margin: 0 auto; }
 h2 { font-family: Vinque; }
 
 img { max-width: 15rem; max-height: 15rem; display: block; margin: 0 auto; }

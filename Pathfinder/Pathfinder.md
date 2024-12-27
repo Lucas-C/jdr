@@ -1,4 +1,5 @@
 <!-- What next ?
+* git mv *.png *.jpg -> cc-imgs/
 * supprimer Vitesse ? car seulement utile dans scénarios avec map... = Athlétisme + 2
 * adapter le scénario de base
 * adapter les 4 prétirés au système et au scénario

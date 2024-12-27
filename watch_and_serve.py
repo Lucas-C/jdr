@@ -30,6 +30,9 @@ def chain(cmd1_func, cmd2_str):
 
 server = Server()
 for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
+    if glob(folder + '/*2pdf.py'):
+        print(f"Skipping {folder}: PDF generation is handled by a *2pdf.py script")
+        continue
     md_filenames = set(glob(folder + '/*.md'))
     md2html_cmds = []
     for md_filename in md_filenames:

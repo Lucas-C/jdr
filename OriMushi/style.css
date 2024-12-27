@@ -1,0 +1,76 @@
+@font-face { font-family: Calibri; src: url('fonts/calibri.ttf'); }
+@font-face { font-family: Calibri; src: url('fonts/calibrib.ttf'); font-weight: bold; }
+@font-face { font-family: Calibri; src: url('fonts/calibrii.ttf'); font-style: italic; }
+@font-face { font-family: Calibri; src: url('fonts/calibriz.ttf'); font-weight: bold; font-style: italic; }
+@font-face { font-family: Odachi;  src: url('fonts/Odachi.otf'); }
+
+body {
+  padding: 0;
+  font-family: Calibri,Arial,sans-serif;
+  color: #444;
+  text-align: justify;
+  font-size: 1.4rem;
+  line-height: 1.6;
+}
+h1, h2, h3 {
+  margin-bottom: 0;
+  font-family: Odachi;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 10rem;
+  text-align: center;
+  line-height: 1;
+  margin: 5rem auto;
+}
+h2 { font-size: 2.5rem; }
+h3 { font-size: 2rem; }
+p, ol, ul { margin: .5rem 0; }
+li { margin-bottom: .25rem; }
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  break-inside: avoid;
+}
+img.cover { margin: 5rem auto; max-height: 30rem; }
+img.small { max-height: 15rem; }
+img.medium { max-height: 20rem; }
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: .5rem 1rem;
+  font-size: 1.2rem;
+}
+table {
+  margin: 0 auto;
+  page-break-inside: avoid;
+}
+th { font-weight: normal; }
+.rules, #licence-sources {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+.float-left  { float: left; margin-right: .5rem; }
+.float-right { float: right; margin-left: .5rem; }
+.thanks {
+  font-size: 1rem;
+  columns: 2;
+  column-gap: 1.5rem;
+}
+.version {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  display: none; /* PDF only */
+}
+.page-break { page-break-after: always; }
+
+@media print {
+  h1 { font-size: 7rem; margin: 1rem auto; }
+  body { font-size: 1.2rem; }
+  img.cover { max-height: 20rem; margin: 1rem auto; }
+  img.small { max-height: 10rem; }
+  .thanks { font-size: .9rem; }
+  .web-only { display: none; }
+}

@@ -64,11 +64,11 @@ def render_side_stats_block(pdf, x, y):
     # Résistance + protection :
     pdf.x, pdf.y = x + 77, y-3
     pdf.cell(text="Résistance")
-    pdf.image(DIR / "rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
+    pdf.image(DIR / "cc-imgs/rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
               w=18, h=18, x=x+76, y=y+6)
     pdf.x, pdf.y = x + 94, y + 12
     pdf.cell(text="+")
-    pdf.image(DIR / "rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
+    pdf.image(DIR / "cc-imgs/rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
               w=15, h=15, x=x+100, y=y+7.5)
     with pdf.local_context(font_size=12):
         pdf.x, pdf.y = x + 96, y + 25
@@ -78,12 +78,12 @@ def render_side_stats_block(pdf, x, y):
     pdf.x, pdf.y = x + 17, y
     pdf.cell(text="Blessures")
     # Vitesse :
-    pdf.image(DIR / "rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
+    pdf.image(DIR / "cc-imgs/rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
               w=18, h=18, x=x-2, y=y+15)
     pdf.x, pdf.y = x + 17, y + 20
     pdf.cell(text="Points de Destin")
     # Points de Destin :
-    pdf.image(DIR / "rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
+    pdf.image(DIR / "cc-imgs/rope-in-circle-from-illustrated-norways-history-1885-cc0.png",
               w=18, h=18, x=x-2, y=y+36)
     pdf.x, pdf.y = x + 17, y + 41
     pdf.cell(text="Vitesse")
