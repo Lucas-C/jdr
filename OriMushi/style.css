@@ -12,10 +12,7 @@ body {
   font-size: 1.4rem;
   line-height: 1.6;
 }
-h1, h2, h3 {
-  margin-bottom: 0;
-  font-family: Odachi;
-}
+h1, h2, h3 { font-family: Odachi; margin-bottom: 0; }
 h1 {
   text-transform: uppercase;
   font-size: 10rem;
@@ -42,17 +39,11 @@ table, th, td {
   padding: .5rem 1rem;
   font-size: 1.2rem;
 }
-table {
-  margin: 0 auto;
-  page-break-inside: avoid;
-}
+table { margin: 0 auto; page-break-inside: avoid; }
 .borderless table { border-style: hidden; }
 th { font-weight: normal; }
 .with-headings th { font-weight: bold; }
-.rules {
-  max-width: 50rem;
-  margin: 0 auto;
-}
+.rules { max-width: 50rem; margin: 0 auto; }
 .float-left  { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: .5rem; }
 .page-break { page-break-after: always; }

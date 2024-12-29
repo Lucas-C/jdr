@@ -14,7 +14,7 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 <br>
 
 ::: web-only
-- Version PDF de ces règles: [OriMushi.pdf _(6 pages, 1,7 Mo)_](OriMushi.pdf)
+- Version PDF de ces règles: [OriMushi.pdf _(19 pages, 4,4 Mo)_](OriMushi.pdf)
 :::
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf _(346 Ko)_](OriMushi-FeuillePersonnage.pdf)
@@ -23,7 +23,7 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 - [VoeuxDesKomuso.pdf](VoeuxDesKomuso.pdf)
 
-- Illustrations : [OriMushi-illustrations.pdf _(12 pages, 13 Mo)_](OriMushi-illustrations.pdf)
+- Illustrations : [OriMushi-illustrations.pdf _(14 pages, 19 Mo)_](OriMushi-illustrations.pdf)
 
 - Articles sur mon blog à propos de ce jeu : [tag ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
 
@@ -65,14 +65,12 @@ Voici quelques suggestions pour les joueurs, à découper avant la partie :
 1d6 minimum, **+1d6** par compétence et Objet Spécial applicables.
 Selon le meilleur résultat obtenu aux dés :
 
-<img class="small float-right" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by.jpg">
+<img class="small float-right" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
 
-  * ⚅ : c'est réussi !
-  * ⚄ : c'est réussi **mais**...
-  * ⚃ : c'est raté **mais**...
-  * ⚂ / ⚁ / ⚀ : c'est raté
-
-<br>
+* ⚅ : c'est réussi !
+* ⚄ : c'est réussi **mais**...
+* ⚃ : c'est raté **mais**...
+* ⚂ / ⚁ / ⚀ : c'est raté
 
 De plus :
 * si deux ⚅ sont obtenus : c'est une **réussite épique** ! <!--, **le joueur décrit la scène** -->
@@ -194,6 +192,8 @@ et pendant **un an** de former un groupe suivant les préceptes de cette charge 
 * **Vœu d'Impartialité** : un komusō se doit d'être **impartial** et **juste**. En cas de conflit, sans qu'ils ne possèdent la moindre autorité officielle, les komusō sont parfois sollicités comme juges impartiaux.
 * **Vœu de Préserver la Vie** : un komusō ira jusqu'à **se battre pour une vie**. Il protège également **la nature**, animaux, plantes et autres créatures.
 
+<img class="small" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
+
 <img class="medium" alt="Vœux des komusō" src="cc-imgs/VoeuxDesKomuso.jpg">
 
 En-dehors de ce code moral, les komusō sont d'origines très diverses.
@@ -201,7 +201,7 @@ Ils ont souvent des connaissances et des compétences très complémentaires au 
 pouvant parfois même provoquer des tensions.
 
 <br>
-<img class="small float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_BW_cc-by-nc.jpg">
+<img class="small float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_cc-by-nc_BW.jpg">
 
 Ils doivent tous respect et obéissance à un **daïmio**,
 qui a sélectionné les membres du groupe des komusō, et à qui ils rendent compte.
@@ -246,10 +246,12 @@ une énergie magique permettant de réaliser des jutsus.
 ::: page-break
 :::
 
-## Ori/Oni
+## Ori versus Oni
 _Section en cours de rédaction..._
 
 <img class="small" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
+
+<img class="medium" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
 
 ::: page-break
 :::
@@ -306,6 +308,7 @@ _La suite est en cours de rédaction..._
 Coût en Oris | Bénéfice
 -------------|-
 ? Oris       | une nouvelle compétence
+? Oris       | +1 réserve de Mana d'un jutsu
 ? Oris       | une nouvelle technique de jutsu
 ? Oris       | un nouveau jutsu
 ? Oris       | +1 Oni
@@ -318,19 +321,13 @@ L'acquisition de compétences et de jutsus / techniques n'est possible que dans 
 
 ---
 
-<img class="medium" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
-
-<img class="medium" alt="personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
+<img class="small" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
 
 <img class="medium" alt="Samurai" src="cc-imgs/quick_samurai_sketch_by_hidanbasher_cc-by_greyscale.jpg">
 
-<img class="medium" alt="Corbeau sur une branche" src="cc-imgs/CrowOnABranch-cc0.png">
+<img class="medium" alt="Personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
 
-<img class="small" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
-
-<img class="small" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
-
-<img class="medium" alt="Samurai" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
+<img class="medium" alt="Ninja" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
 
 <img class="medium" alt="Kami" src="cc-imgs/komainu_raican_by_hijodelopio_cc-by_greyscale.jpg">
 
