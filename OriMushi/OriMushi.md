@@ -19,7 +19,7 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf _(346 Ko)_](OriMushi-FeuillePersonnage.pdf)
 
-- Feuille de personnage "Étendue" : [OriMushi-FeuillePersonnageEtendue.pdf](OriMushi-FeuillePersonnage.pdf)
+- Feuille de personnage "Étendue" : [OriMushi-FeuillePersonnageEtendue.pdf](OriMushi-FeuillePersonnageEtendue.pdf)
 
 - [VoeuxDesKomuso.pdf](VoeuxDesKomuso.pdf)
 
@@ -302,8 +302,8 @@ En tant que MJ, lors de votre première partie, vous pouvez au choix :
 * donner une **feuille A4 vierge** à vos joueurs
 * fournir un **fond de carte** de votre univers favori, ou dessinée par vos soins
 
-La carte doit comporter une **rose des vents** indiquant les directions cardinales :
-Nord, Sud, Est, Ouest.
+La carte doit comporter une **rose des vents** indiquant les directions cardinales : Nord, Sud, Est, Ouest.
+Elle doit aussi comporter **les signatures des komusō**, qui attestent de sa validité.
 
 À chaque fin de partie, un joueur du groupe se dévoue pour compléter la carte.
 Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin** d'une plante, d'une créature ou d'un personnage qu'ils ont rencontré.
@@ -395,7 +395,6 @@ Illustrations employées :
 ::::
 
 <!-- Next:
-* feuille de perso étendue
 * rédiger le scénario
 * rédiger section progression / expérience
   -> suggérer des Voies / activité
@@ -405,6 +404,7 @@ Illustrations employées :
 * Glossaire : PJ, MJ, XP...
 * SpellCheck
 * Illustrations.pdf : add images of equipments & places
+* Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
 
 - https://pixabay.com/illustrations/sumi-sumi-e-watercolor-china-1595365/
 - https://www.needpix.com/photo/355732/sumi-e-sumie-black-ink-east-zen-ink-painting-ink-style-painting-fish

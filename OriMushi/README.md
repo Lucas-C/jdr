@@ -5,3 +5,5 @@ Pour regénérer le PDF avec Python :
 pip install mistletoe weasyprint
 ./md2pdf.py
 ```
+
+L'ouverture des fichiers `.fodg` nécessite l'installation préalable des polices `Odachi` & `Xangda Shiny`.
