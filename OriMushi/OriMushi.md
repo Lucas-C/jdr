@@ -14,7 +14,7 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 <br>
 
 ::: web-only
-- Version PDF de ces règles: [OriMushi.pdf _(6 pages, 1,7 Mo)_](OriMushi.pdf)
+- Version PDF de ces règles: [OriMushi.pdf _(19 pages, 4,4 Mo)_](OriMushi.pdf)
 :::
 
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf _(346 Ko)_](OriMushi-FeuillePersonnage.pdf)
@@ -23,9 +23,11 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 - [VoeuxDesKomuso.pdf](VoeuxDesKomuso.pdf)
 
-- Illustrations : [OriMushi-illustrations.pdf _(12 pages, 13 Mo)_](OriMushi-illustrations.pdf)
+- Illustrations : [OriMushi-illustrations.pdf _(14 pages, 19 Mo)_](OriMushi-illustrations.pdf)
 
 - Articles sur mon blog à propos de ce jeu : [tag ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
+
+<br class="web-only">
 
 ::: page-break
 :::
@@ -58,6 +60,8 @@ Voici quelques suggestions pour les joueurs, à découper avant la partie :
 * Apothicaire : -> donne une connaissance des soins & incite à explorer la nature
 -->
 
+<br class="web-only">
+
 ::: page-break
 :::
 
@@ -65,14 +69,12 @@ Voici quelques suggestions pour les joueurs, à découper avant la partie :
 1d6 minimum, **+1d6** par compétence et Objet Spécial applicables.
 Selon le meilleur résultat obtenu aux dés :
 
-<img class="small float-right" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by.jpg">
+<img class="small float-right" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
 
-  * ⚅ : c'est réussi !
-  * ⚄ : c'est réussi **mais**...
-  * ⚃ : c'est raté **mais**...
-  * ⚂ / ⚁ / ⚀ : c'est raté
-
-<br>
+* ⚅ : c'est réussi !
+* ⚄ : c'est réussi **mais**...
+* ⚃ : c'est raté **mais**...
+* ⚂ / ⚁ / ⚀ : c'est raté
 
 De plus :
 * si deux ⚅ sont obtenus : c'est une **réussite épique** ! <!--, **le joueur décrit la scène** -->
@@ -84,6 +86,11 @@ De plus :
 * actions **difficiles** : lorsque le personnage d'un joueur tente d'accomplir une véritable prouesse, une action à la limite de ses capacités, le MJ peut alors indiquer qu'au moins **deux dés de valeur** ⚄ ou ⚅ sont nécessaires pour réussir l'action.
 * actions **en opposition**, comme par exemple un affrontement : un jet est effectué par personnage, **celui obtenant le plus de** ⚅ l'emporte. En cas d'égalité, on considère les ⚄. Si l'égalité persiste, aucun personnage n'a l'avantage.
 * actions **conjointes** : un personnage assistant un autre à réaliser une action lui octroie **un dé bonus**, si cette aide est jugée pertinente par le MJ.
+
+<br class="web-only">
+
+::: page-break
+:::
 
 ## Éléments clefs à établir en début de partie
 - « L'histoire se déroule dans un japon médiéval imaginaire. Il existe de la magie et des monstres. »
@@ -143,6 +150,8 @@ Si vous aimez avoir un support visuel pour vos parties, voici quelques belles ca
 * [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/?show=original)
 * [Cache du Oni - Ferme de riz - Czepeku](https://www.reddit.com/r/battlemaps/comments/q3dkqc/oni_hideout_spring_23x36/)
 
+<br>
+
 ::: page-break
 :::
 
@@ -194,6 +203,8 @@ et pendant **un an** de former un groupe suivant les préceptes de cette charge 
 * **Vœu d'Impartialité** : un komusō se doit d'être **impartial** et **juste**. En cas de conflit, sans qu'ils ne possèdent la moindre autorité officielle, les komusō sont parfois sollicités comme juges impartiaux.
 * **Vœu de Préserver la Vie** : un komusō ira jusqu'à **se battre pour une vie**. Il protège également **la nature**, animaux, plantes et autres créatures.
 
+<img class="small" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
+
 <img class="medium" alt="Vœux des komusō" src="cc-imgs/VoeuxDesKomuso.jpg">
 
 En-dehors de ce code moral, les komusō sont d'origines très diverses.
@@ -201,7 +212,7 @@ Ils ont souvent des connaissances et des compétences très complémentaires au 
 pouvant parfois même provoquer des tensions.
 
 <br>
-<img class="small float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_BW_cc-by-nc.jpg">
+<img class="small float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_cc-by-nc_BW.jpg">
 
 Ils doivent tous respect et obéissance à un **daïmio**,
 qui a sélectionné les membres du groupe des komusō, et à qui ils rendent compte.
@@ -246,10 +257,12 @@ une énergie magique permettant de réaliser des jutsus.
 ::: page-break
 :::
 
-## Ori/Oni
+## Ori versus Oni
 _Section en cours de rédaction..._
 
 <img class="small" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
+
+<img class="medium" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
 
 ::: page-break
 :::
@@ -299,13 +312,14 @@ Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin*
 :::
 
 ### Progression & expérience
-_La suite est en cours de rédaction..._
+_Section en cours de rédaction..._
 
 ::: borderless with-headings
 
 Coût en Oris | Bénéfice
 -------------|-
 ? Oris       | une nouvelle compétence
+? Oris       | +1 réserve de Mana d'un jutsu
 ? Oris       | une nouvelle technique de jutsu
 ? Oris       | un nouveau jutsu
 ? Oris       | +1 Oni
@@ -318,40 +332,36 @@ L'acquisition de compétences et de jutsus / techniques n'est possible que dans 
 
 ---
 
-<img class="medium" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
-
-<img class="medium" alt="personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
+<img class="small" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
 
 <img class="medium" alt="Samurai" src="cc-imgs/quick_samurai_sketch_by_hidanbasher_cc-by_greyscale.jpg">
 
-<img class="medium" alt="Corbeau sur une branche" src="cc-imgs/CrowOnABranch-cc0.png">
+<img class="medium" alt="Personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
 
-<img class="small" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
-
-<img class="small" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
-
-<img class="medium" alt="Samurai" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
+<img class="medium" alt="Ninja" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
 
 <img class="medium" alt="Kami" src="cc-imgs/komainu_raican_by_hijodelopio_cc-by_greyscale.jpg">
 
 ### Blessures
+_Section en cours de rédaction..._
 
 
 ### Création des personnages
+_Section en cours de rédaction..._
 
 ::: page-break
 :::
 
 ## Scénario : les disparus du festival du printemps
+_Section en cours de rédaction..._
 
 ::: page-break
 :::
 
 ## Licence, sources & remerciements
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
 
-_Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/).
-Ce jeu est placé sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+_Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/), il est placé sous license <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>.
 
 Ce jeu est diffusé à prix libre.
 Si vous souhaitez me soutenir, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
@@ -369,7 +379,7 @@ Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wi
 Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
 
-Illustrations dans ce document :
+Illustrations employées :
 - [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Epic Chibi Ninja par dmr12890](https://www.deviantart.com/dmr12890/art/Epic-Chibi-Ninja-129862000) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Kyoshi Earthbender Lineart par Aedo Sama](https://www.deviantart.com/aedo-sama/art/Kyoshi-Earthbender-Lineart-215736017) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
