@@ -50,11 +50,12 @@ def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None):
     html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
     link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
+    title = (metadata or {}).get("title") or "JdR - Work-in-progress"
     html_doc = f"""<!doctype html>
 <html{lang_attr}>
     <head>
         <meta charset="utf-8">
-        <title>JdR - Work-in-progress</title>
+        <title>{title}</title>
         {link_tag}
     </head>
     <body>{html}</body>
