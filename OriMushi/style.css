@@ -46,31 +46,22 @@ table {
   margin: 0 auto;
   page-break-inside: avoid;
 }
+.borderless table { border-style: hidden; }
 th { font-weight: normal; }
-.rules, #licence-sources {
+.with-headings th { font-weight: bold; }
+.rules {
   max-width: 50rem;
   margin: 0 auto;
 }
-.float-left  { float: left; margin-right: .5rem; }
+.float-left  { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: .5rem; }
-.thanks {
-  font-size: 1rem;
-  columns: 2;
-  column-gap: 1.5rem;
-}
-.version {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  display: none; /* PDF only */
-}
 .page-break { page-break-after: always; }
 
 @media print {
-  h1 { font-size: 7rem; margin: 1rem auto; }
+  h1 { font-size: 7rem; margin: 0 auto 2rem; }
+  h2, h2 { margin-top: 0; }
   body { font-size: 1.2rem; }
   img.cover { max-height: 20rem; margin: 1rem auto; }
   img.small { max-height: 10rem; }
-  .thanks { font-size: .9rem; }
   .web-only { display: none; }
 }

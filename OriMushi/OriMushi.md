@@ -1,15 +1,7 @@
-<!-- Next:
-* feuille de perso étendue
-* rédiger le scénario
-* rédiger section progression / expérience
-  -> suggérer des clefs / activité
-* formatter les règles (jets + jutsus + XPs) en une seule page A4
-* ajouter des jutsus
--->
 # Ori Mushi
 
 :::: rules
-<img class="cover" alt="A group of happy adventurers" src="cc-imgs/Journey-to-the-West-TysonTan-cc-by-sa.png">
+<img class="cover" alt="A group of happy adventurers" src="cc-imgs/pixabay-fille-samourai-guerrier-japon-noBG.png">
 
 <br>
 
@@ -17,7 +9,7 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 <br>
 
-**Inspirations**: Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo, Kung Fu Panda, princesse Mononoke, Naruto...
+**Inspirations**: Naruto, Avatar le maître de l'air, princesse Mononoke, Kung Fu Panda, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
 
 <br>
 
@@ -28,6 +20,8 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 - Feuille de personnage : [OriMushi-FeuillePersonnage.pdf _(346 Ko)_](OriMushi-FeuillePersonnage.pdf)
 
 - Feuille de personnage "Étendue" : [OriMushi-FeuillePersonnageEtendue.pdf](OriMushi-FeuillePersonnage.pdf)
+
+- [VoeuxDesKomuso.pdf](VoeuxDesKomuso.pdf)
 
 - Illustrations : [OriMushi-illustrations.pdf _(12 pages, 13 Mo)_](OriMushi-illustrations.pdf)
 
@@ -97,8 +91,7 @@ De plus :
 - Les joueurs se connaissent déjà et voyagent ensemble, et c'est d'ailleurs leur objectif commun : explorer le monde !
 Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
 
-::: page-break
-:::
+<br>
 
 ## Scène 0 - Course poursuite !
 Bien que cela rallonge légèrement la durée de la partie, je trouve très judicieuse l'idée de Kalwrynn de commencer _in media res_.
@@ -116,7 +109,17 @@ Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemi
 quitte à faire une ellipse ou à indiquer qu'il s'agit de l'étape suivante de leur voyage,
 où on leur a vanté une recette locale de poisson frit...
 
-## Illustrations
+::: page-break
+:::
+
+<br>
+<img class="small float-right" alt="Bambou" src="cc-imgs/bamboo-cc0.svg">
+
+## Ressources
+
+<br>
+
+### Illustrations
 S'inspirant de [Sventovia](http://legrumph.org/Terrier/?Jeux-de-role/Sventovia) du Grümph,
 nous vous encourageons à imprimer des images au préalable, pour faciliter l'immersion des joueurs :
 des illustrations de personnages et ce dont ils peuvent s'équiper (armes & objets).
@@ -125,22 +128,131 @@ Vous trouverez dans ce PDF 12 illustrations de personnages des joueurs,
 4 de PNJs, 6 de différents objets spéciaux, et enfin une illustration de l'esprit-dragon :
 [OriMushi-illustrations.pdf _(12 pages, 13 Mo)_](OriMushi-illustrations.pdf)
 
-## Ambiance musicale
+### Ambiance musicale
 Quelques suggestions de bande sons originales :
 [Mushishi](https://www.youtube.com/watch?v=brsJ19kclwc),
 [Okami](https://www.youtube.com/watch?v=JAfXYXwykFI),
 [Ori and the Blind Forest](https://www.youtube.com/watch?v=OvpnMT-iqCM),
 [Princess Mononoke](https://www.youtube.com/watch?v=LKI9aczEL3g).
 
+### Cartes de lieux
+Si vous aimez avoir un support visuel pour vos parties, voici quelques belles cartes qui peuvent parfaitement servir de support à une partie d'Ori Mushi :
+
+* [Bains japonais - Czepeku](https://www.czepeku.com/store/product/steamy-japanese-bathhouse)
+* [Sanctuaire de la forêt - Czepeku](https://www.czepeku.com/fr/store/product/forest-shrine-festival)
+* [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/?show=original)
+* [Cache du Oni - Ferme de riz - Czepeku](https://www.reddit.com/r/battlemaps/comments/q3dkqc/oni_hideout_spring_23x36/)
+
 ::: page-break
 :::
 
-## Ori-Mushi au-delà de 30min
-Les sections suivantes fournissent de quoi jouer dans l'univers d'Ori-Mushi
-pour des parties de 2 à 3 heures.
+## Ori-Mushi version "Étendue"
+Les sections suivantes fournissent de quoi jouer dans l'univers d'Ori-Mushi au-delà de 30min,
+pour des parties de plusieurs heures.
 Cela signifie :
-* des règles supplémentaires de progression / gain d'expérience
-* un nouveau scénario
+* quelques éléments sur l'**univers** du jeu
+* un concept fort de **groupe de PJs**
+* des règles supplémentaires de **magie** et **progression / gain d'expérience**
+* de nouveaux scénarios
+
+<br>
+
+## Le monde
+Le monde d'Ori Mushi est une forme de **Japon médiéval avec de nombreux éléments fantastiques**.
+
+Le monde n'est volontairement **pas** décrit en détails afin de :
+* vous permettre, MJ & joueurs, de le détailler par petites touches, au fur et à mesure de vos parties.
+* d'inclure toutes les références que vous souhaitez à des univers de fiction existants, qu'il s'agisse de lieux, de personnages, d'organisations...
+
+Les éléments suivants sont néanmoins indispensables :
+* l'existence des **komusō**, des individus dont la fonction est respectée dans tout le monde connu.
+Les komusō possèdent une forte **indépendance**, mais vous pouvez choisir de les rattacher à une organisation de votre choix : gouvernement, religion, force militaire...
+* la **magie** existe, et est enseignée à travers de nombreuses écoles de **jutsu**.
+L'énergie magique provient de la nature : le **Mana**, parfois nommé chakra ou chi, provient des **Mushis**, des créatures élémentaires invisibles...
+* tous individu possède un potentiel mauvais enfoui, un **Oni**, qui peut s'éveiller, le dévorer et le transformer en **démon**.
+
+::: page-break
+:::
+
+## Les PJs sont des komuso
+Avant que les joueurs ne créent leurs personnages,
+informez-les de la nature de leur groupe :
+il vont incarner des **komusō**.
+
+Les PJs sont des personnes venant de conclure un apprentissage d'élite
+(ou leur reconversion) dans un domaine, quel qu'il soit : artisan, guerrier, sorcier...
+
+En échange de cette formation d'excellence qu'ils ont reçu,
+ils ont accepté ensuite, pendant un an, d'assumer la fonction de komusō,
+et pendant **un an** de former un groupe suivant les préceptes de cette charge :
+
+<br>
+
+* **Vœu d'Errance** : un komusō ne reste jamais plus de **trois nuits** dans un lieu, à moins d'une urgence vitale.
+* **Vœu de Pauvreté** : un komusō ne conserve **jamais d'argent** pour lui. Il subsiste de la générosité des autres, qui leur offrent en général volontier le gîte et le couvert. Un komusō peut faire du troc.
+* **Vœu d'Assistance** : un komusō accepte toujours d'**aider quelqu'un en difficulté**, de lui porter secours.
+* **Vœu d'Impartialité** : un komusō se doit d'être **impartial** et **juste**. En cas de conflit, sans qu'ils ne possèdent la moindre autorité officielle, les komusō sont parfois sollicités comme juges impartiaux.
+* **Vœu de Préserver la Vie** : un komusō ira jusqu'à **se battre pour une vie**. Il protège également **la nature**, animaux, plantes et autres créatures.
+
+<img class="medium" alt="Vœux des komusō" src="cc-imgs/VoeuxDesKomuso.jpg">
+
+En-dehors de ce code moral, les komusō sont d'origines très diverses.
+Ils ont souvent des connaissances et des compétences très complémentaires au sein d'un groupe,
+pouvant parfois même provoquer des tensions.
+
+<br>
+<img class="small float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_BW_cc-by-nc.jpg">
+
+Ils doivent tous respect et obéissance à un **daïmio**,
+qui a sélectionné les membres du groupe des komusō, et à qui ils rendent compte.
+Il peut parfois leur demander d'accomplir certains missions spécifiques.
+
+<br>
+
+Au terme de leur mission de komusō, l'appréciation finale du daïmio sera cruciale pour la poursuite de carrière des PJs dans leur activité.
+
+<br>
+
+D'un point de vue ludique et narratif,
+cette contrainte sur la nature du groupe des PJs
+offre plusieurs avantages :
+* ils n'ont pas le choix de travailler ensemble.
+* ils ont des objectifs communs, propices à générer de belles aventures.
+
+Les Vœux des komusō sont sources de points d'expériences :
+un joueur sauvant une vie en danger ou épargnant un adversaire meutrier gagne **+1 Ori**.
+
+::: page-break
+:::
+
+## Les Mushis sont partout
+Un **mushi** est un organisme vivant primitif et **invisible** aux yeux des humains.
+Il en existe de différentes sortes, mais ils sont essentiels au bon fonctionnement des **écosystèmes** :
+ils sont pour **les êtres vivants** tantôt un source d'**énergie** et de **nutriments**,
+tantôt un **lien essentiel entre eux**.
+
+Les mushis se comportent comme des micro-organismes, et ne semblent pas doués de conscience.
+Bien qu'invisibles, ils peuvent être semblables à des colonies de fourmis, reliant des plantes dans une forêt, ou à des champignons tapissant une ruine.
+
+Les mushis ne sont ni mauvais ni bienveillants,
+ils sont constitutifs de la nature.
+
+Les mushis produisent naturellement du **Mana**,
+une énergie magique permettant de réaliser des jutsus.
+
+<br>
+<img class="medium" alt="Mushi" src="cc-imgs/a-handbook-of-cryptogamic-botany-1889-page-415.jpg">
+
+::: page-break
+:::
+
+## Ori/Oni
+_Section en cours de rédaction..._
+
+<img class="small" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
+
+::: page-break
+:::
 
 ### Jutsus
 Les jutsus sont des techniques ancestrales permettant de maîtriser une forme de magie.
@@ -161,32 +273,71 @@ On peut aussi devenir expert d'une technique en particulier, et on gagne alors +
 
 Certains objet spéciaux rares peuvent conférer +1 dé au lancer pour une famille de jutsu spécifique.
 
-<img class="medium" alt="personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
+<img class="medium" alt="Kyoshi Earthbender" src="cc-imgs/kyoshi_earthbender_lineart_by_aedo_sama_cc-by-nc-sa.jpg">
+
+::: page-break
+:::
+
+### La carte du monde
+Au fur et à mesure de leur pérégrinations, les komusō tracent **une carte**.
+
+Cette carte mentionne les lieux notables traversés par le groupe,
+et éventuellement des éléments sur le relief, les cours d'eau,
+l'environnement en général et les bâtiments découverts en chemin.
+
+En tant que MJ, lors de votre première partie, vous pouvez au choix :
+* donner une **feuille A4 vierge** à vos joueurs
+* fournir un **fond de carte** de votre univers favori, ou dessinée par vos soins
+
+La carte doit comporter une **rose des vents** indiquant les directions cardinales :
+Nord, Sud, Est, Ouest.
+
+À chaque fin de partie, un joueur du groupe se dévoue pour compléter la carte.
+Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin** d'une plante, d'une créature ou d'un personnage qu'ils ont rencontré.
+
+::: page-break
+:::
 
 ### Progression & expérience
--> Clefs
+_La suite est en cours de rédaction..._
 
-<img class="small" alt="Bambou" src="cc-imgs/bamboo-cc0.svg">
+::: borderless with-headings
 
-<img class="small" alt="Corbeau sur une branche" src="cc-imgs/CrowOnABranch-cc0.png">
+Coût en Oris | Bénéfice
+-------------|-
+? Oris       | une nouvelle compétence
+? Oris       | une nouvelle technique de jutsu
+? Oris       | un nouveau jutsu
+? Oris       | +1 Oni
 
-<img class="small" alt="La Grande Vague de Kanagawa" src="cc-imgs/kanagawa-wave-cc0.svg">
+:::
 
-<img class="small" alt="Ombrelle en papier" src="cc-imgs/asian_paper_umbrella-cc0.jpg">
+L'acquisition de compétences et de jutsus / techniques n'est possible que dans ces conditions :
+* durant une ellipse temporelle entre deux lieux / scénarios
+* le PJ doit avoir **convaincu un senseï** de lui transmettre son savoir
+
+---
+
+<img class="medium" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
+
+<img class="medium" alt="personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
 
 <img class="medium" alt="Samurai" src="cc-imgs/quick_samurai_sketch_by_hidanbasher_cc-by_greyscale.jpg">
+
+<img class="medium" alt="Corbeau sur une branche" src="cc-imgs/CrowOnABranch-cc0.png">
+
+<img class="small" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
+
+<img class="small" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
 
 <img class="medium" alt="Samurai" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
 
 <img class="medium" alt="Kami" src="cc-imgs/komainu_raican_by_hijodelopio_cc-by_greyscale.jpg">
 
-### Cartes
-Si vous aimez avoir un support visuel pour vos parties, voici quelques belles cartes qui peuvent parfaitement servir de support à une partie d'Ori Mushi :
+### Blessures
 
-* [Bains japonais - Czepeku](https://www.czepeku.com/store/product/steamy-japanese-bathhouse)
-* [Sanctuaire de la forêt - Czepeku](https://www.czepeku.com/fr/store/product/forest-shrine-festival)
-* [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/?show=original)
-* [Cache du Oni - Ferme de riz - Czepeku](https://www.reddit.com/r/battlemaps/comments/q3dkqc/oni_hideout_spring_23x36/)
+
+### Création des personnages
 
 ::: page-break
 :::
@@ -199,7 +350,7 @@ Si vous aimez avoir un support visuel pour vos parties, voici quelques belles ca
 ## Licence, sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
-_Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/) en février 2020.
+_Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/).
 Ce jeu est placé sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
 
 Ce jeu est diffusé à prix libre.
@@ -207,10 +358,10 @@ Si vous souhaitez me soutenir, vous pouvez me faire un don sur [lucas-c.itch.io]
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/OriMushi).
 Cette version est la v1.0.
 
-Je serais ravi d'avoir vos retours si vous jouez à ce jeu ! 🙂
+Je serais ravi d'avoir vos retours si vous jouez à ce jeu !
 Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
-Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser ce jeu&nbsp;: [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [markdown-it](https://github.com/markdown-it/markdown-it) & [Puppeteer](https://pptr.dev/).
+Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser ce jeu : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
 
 <br>
 
@@ -219,46 +370,36 @@ Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Fo
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
 
 Illustrations dans ce document :
-- [Journey to the West par TysonTan](https://www.deviantart.com/tysontan/art/Journey-to-the-West-546516151) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-- [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
-- [Kuma par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Kuma-878189196) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-
-Pour la feuille de personnage :
-- [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
-
-Origine des images de [OriMushi-illustrations.pdf](OriMushi-illustrations.pdf) :
-- [Pirate Ninja @ publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Pirate-ninja/42753.html)
-- [Quick samurai sketch par hidanbasher](https://www.deviantart.com/hidanbasher/art/Quick-samurai-sketch-566443259) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Human 4 par Jeff Preston](http://team-preston.com), issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Tryker femme](https://www.flickr.com/photos/ryzom/14746505003/in/album-72157645935788203/) & [Tryker homme](https://www.flickr.com/photos/ryzom/14726336322/in/album-72157645935788203/) - Ryzom - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
-- [Alopex redesign concept](https://www.deviantart.com/beevirus/art/Alopex-redesign-concept-489897297) & [Human Alopex par BEEvirus](https://www.deviantart.com/beevirus/art/Human-Alopex-534980266) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-- [Kitty Anime Poilu Bleu](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/) & [Elf Druide Fantaisie](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/) @ pixabay.com
-- [Komainu Raican](https://www.deviantart.com/hijodelopio/art/Komainu-Raican-878188481), [Kuma](https://www.deviantart.com/hijodelopio/art/Kuma-878189196), [Lion Swordsman](https://www.deviantart.com/hijodelopio/art/Lion-Swordsman-919054803) & [Shinobi par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Fisherman's House](https://www.deviantart.com/assumzaek/art/Fisherman-s-House-657583300), [Mind Temple Character](https://www.deviantart.com/assumzaek/art/Mind-Temple-Character-831961386) & [Village by assumzaek](https://www.deviantart.com/assumzaek/art/Village-630261499) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-- [Dakuan Ninja Scroll par DaudioMultimedia](https://www.deviantart.com/daudiomultimedia/art/Dakuan-Ninja-Scroll-784761566) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
-- [Manimal 3 par Jeff Preston](http://team-preston.com), issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Kenku par Ubergank](https://www.deviantart.com/ubergank/art/Kenku-814005528) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-- [Elias Ainsworth (The Ancient Magus' Bride) par amgr99](https://www.deviantart.com/amgr99/art/Elias-Ainsworth-The-Ancient-Magus-Bride-791617132) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-- [Woodland dragon par flaming-anubis](https://www.deviantart.com/flaming-anubis/art/Woodland-Dragon-461654140) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-- [Grapling hook par Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Grappling_hook_2_(PSF).png) - domaine public
+- [Epic Chibi Ninja par dmr12890](https://www.deviantart.com/dmr12890/art/Epic-Chibi-Ninja-129862000) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [Kyoshi Earthbender Lineart par Aedo Sama](https://www.deviantart.com/aedo-sama/art/Kyoshi-Earthbender-Lineart-215736017) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [Quick samurai sketch par hidanbasher](https://www.deviantart.com/hidanbasher/art/Quick-samurai-sketch-566443259) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Katanas par Halibutt](https://commons.wikimedia.org/wiki/File:Katanas.svg) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Ombrelle @ pxhere.com](https://pxhere.com/en/photo/700898) - CC0
-- [Armored 3 par Jeff Preston](http://team-preston.com), issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Asian fan with a map](https://freesvg.org/asian-fan-with-a-map-vector-image) & [Red Chinese scroll](https://freesvg.org/red-chinese-scroll) @ freesvg.org - domaine public
-- [Shuriken Throwing Ninja Star @ pixabay.com](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/)
-- [Bow and arrow vector drawing @ publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Bow-and-arrow-vector-drawing/74403.html) - domaine public
-- [Espio the Chameleon Gijinka](https://www.deviantart.com/rosytoonz/art/Espio-the-Chameleon-Gijinka-688458872), [Jet the Hawk Gijinka](https://www.deviantart.com/rosytoonz/art/Jet-the-Hawk-Gijinka-693952051) & [Storm the Albatross Gijinka by rosytoonz](https://www.deviantart.com/rosytoonz/art/Storm-the-Albatross-Gijinka-694492179) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Ashitaka | Princess Mononoke](https://www.deviantart.com/amazingsphelon/art/Ashitaka-Princess-Mononoke-714136981), [Aeshi - The Marvelous Maiden Gardevoir](https://www.deviantart.com/amazingsphelon/art/OC-Aeshi-The-Marvelous-Maiden-Gardevoir-853749605), [Miashe Blare - The Fiery Fighter Blaziken](https://www.deviantart.com/amazingsphelon/art/OC-Miashe-Blare-The-Fiery-Fighter-Blaziken-853747260), [ Hanzo Hatoori - The Fierceful Ninja Ninjask](https://www.deviantart.com/amazingsphelon/art/OC-Hanzo-Hatoori-The-Fierceful-Ninja-Ninjask-856310048), [Naiya Creswell](https://www.deviantart.com/amazingsphelon/art/OC-Naiya-Creswell-953963034), [Rianna](https://www.deviantart.com/amazingsphelon/art/OC-Raffle-Rianna-883029312), [Charlenne](https://www.deviantart.com/amazingsphelon/art/Commission-Charlenne-978385892), [Battle Rehime | Sol Badguy](https://www.deviantart.com/amazingsphelon/art/Battle-Rehime-Sol-Badguy-729377499) [Raid Northgain](https://www.deviantart.com/amazingsphelon/art/OC-Raid-Northgain-953964022), [Portrait: Erika POKEMON](https://www.deviantart.com/amazingsphelon/art/BR-Portrait-Erika-POKEMON-926336867) & [Streets on Hazards II - Martial Arts Attires by AmazingSphelon](https://www.deviantart.com/amazingsphelon/art/Streets-on-Hazards-II-Martial-Arts-Attires-995578541) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Komainu Raican](https://www.deviantart.com/hijodelopio/art/Komainu-Raican-878188481) & [Kuma par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Kuma-878189196) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Shinobi par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [fille-samouraï-guerrier-japon](https://pixabay.com/fr/vectors/fille-samoura%C3%AF-guerrier-japon-8703775/) & [parapluie-écran-chinois](https://pixabay.com/fr/photos/parapluie-%C3%A9cran-chinois-chine-japon-898076/) @ pixabay.com
+- [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
+- [Image from _"A handbook of cryptogamic botany"_ (1889)](https://www.flickr.com/photos/internetarchivebookimages/20102877173/) - domaine public
 :::
 ::::
 
-<!--
+<!-- Next:
+* feuille de perso étendue
+* rédiger le scénario
+* rédiger section progression / expérience
+  -> suggérer des Voies / activité
+* formatter les règles (jets + jutsus + XPs) en une seule page A4
+* ajouter des jutsus -> concevoir des cartes
+* intervertir : version "étendue" -> jeu de base / version 30min => version "courte"
+* Glossaire : PJ, MJ, XP...
+* SpellCheck
+* Illustrations.pdf : add images of equipments & places
+
 - https://pixabay.com/illustrations/sumi-sumi-e-watercolor-china-1595365/
 - https://www.needpix.com/photo/355732/sumi-e-sumie-black-ink-east-zen-ink-painting-ink-style-painting-fish
 - https://freesvg.org/gingko-leaf-c
 - https://www.seekpng.com/ipng/u2q8a9q8r5q8w7i1_this-free-icons-png-design-of-tribal-dragon/
-- http://www.publicdomainfiles.com/show_file.php?id=13947264627221
 
 Google-fu attempts:
 (samurai|ninja) &
