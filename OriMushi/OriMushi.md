@@ -27,6 +27,8 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 - Articles sur mon blog à propos de ce jeu : [tag ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
 
+<br class="web-only">
+
 ::: page-break
 :::
 
@@ -58,6 +60,8 @@ Voici quelques suggestions pour les joueurs, à découper avant la partie :
 * Apothicaire : -> donne une connaissance des soins & incite à explorer la nature
 -->
 
+<br class="web-only">
+
 ::: page-break
 :::
 
@@ -82,6 +86,11 @@ De plus :
 * actions **difficiles** : lorsque le personnage d'un joueur tente d'accomplir une véritable prouesse, une action à la limite de ses capacités, le MJ peut alors indiquer qu'au moins **deux dés de valeur** ⚄ ou ⚅ sont nécessaires pour réussir l'action.
 * actions **en opposition**, comme par exemple un affrontement : un jet est effectué par personnage, **celui obtenant le plus de** ⚅ l'emporte. En cas d'égalité, on considère les ⚄. Si l'égalité persiste, aucun personnage n'a l'avantage.
 * actions **conjointes** : un personnage assistant un autre à réaliser une action lui octroie **un dé bonus**, si cette aide est jugée pertinente par le MJ.
+
+<br class="web-only">
+
+::: page-break
+:::
 
 ## Éléments clefs à établir en début de partie
 - « L'histoire se déroule dans un japon médiéval imaginaire. Il existe de la magie et des monstres. »
@@ -140,6 +149,8 @@ Si vous aimez avoir un support visuel pour vos parties, voici quelques belles ca
 * [Sanctuaire de la forêt - Czepeku](https://www.czepeku.com/fr/store/product/forest-shrine-festival)
 * [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/?show=original)
 * [Cache du Oni - Ferme de riz - Czepeku](https://www.reddit.com/r/battlemaps/comments/q3dkqc/oni_hideout_spring_23x36/)
+
+<br>
 
 ::: page-break
 :::
@@ -301,7 +312,7 @@ Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin*
 :::
 
 ### Progression & expérience
-_La suite est en cours de rédaction..._
+_Section en cours de rédaction..._
 
 ::: borderless with-headings
 
@@ -332,23 +343,25 @@ L'acquisition de compétences et de jutsus / techniques n'est possible que dans 
 <img class="medium" alt="Kami" src="cc-imgs/komainu_raican_by_hijodelopio_cc-by_greyscale.jpg">
 
 ### Blessures
+_Section en cours de rédaction..._
 
 
 ### Création des personnages
+_Section en cours de rédaction..._
 
 ::: page-break
 :::
 
 ## Scénario : les disparus du festival du printemps
+_Section en cours de rédaction..._
 
 ::: page-break
 :::
 
 ## Licence, sources & remerciements
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
 
-_Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/).
-Ce jeu est placé sous license <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+_Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/), il est placé sous license <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>.
 
 Ce jeu est diffusé à prix libre.
 Si vous souhaitez me soutenir, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
@@ -366,7 +379,7 @@ Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wi
 Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
 
-Illustrations dans ce document :
+Illustrations employées :
 - [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Epic Chibi Ninja par dmr12890](https://www.deviantart.com/dmr12890/art/Epic-Chibi-Ninja-129862000) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Kyoshi Earthbender Lineart par Aedo Sama](https://www.deviantart.com/aedo-sama/art/Kyoshi-Earthbender-Lineart-215736017) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
