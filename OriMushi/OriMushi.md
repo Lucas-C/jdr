@@ -5,11 +5,11 @@
 
 <br>
 
-Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au jeu de rôle intitulé "Mener en 30min"](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html), où l'on joue dans un univers de _fantasy_ inspiré du japon féodal.
+Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au jeu de rôle intitulé "Mener en 30min"](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html), où l'on joue dans un univers de _fantasy_ inspiré du japon médiéval.
 
 <br>
 
-**Inspirations**: Naruto, Avatar le maître de l'air, princesse Mononoke, Zelda, Kung Fu Panda, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
+**Inspirations**: Avatar le maître de l'air, Naruto, Princesse Mononoke, le Voyage de Chihiro, Zelda, Shadow of the Colossus, Kung Fu Panda, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
 
 <br>
 
@@ -17,14 +17,9 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 - Version PDF de ces règles: [OriMushi.pdf _(19 pages, 4,4 Mo)_](OriMushi.pdf)
 :::
 
-- Feuille de personnage : [OriMushi-FeuillePersonnage.pdf _(346 Ko)_](OriMushi-FeuillePersonnage.pdf)
-
-- Feuille de personnage "Étendue" : [OriMushi-FeuillePersonnageEtendue.pdf](OriMushi-FeuillePersonnageEtendue.pdf)
-
-- [VoeuxDesKomuso.pdf](VoeuxDesKomuso.pdf)
-
-- Illustrations : [OriMushi-illustrations.pdf _(14 pages, 19 Mo)_](OriMushi-illustrations.pdf)
-
+- Feuille de personnage pour partie de 30min : [FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
+- Feuille de personnage "Étendue" : [FeuillePersonnageEtendue.pdf](OriMushi-FeuillePersonnageEtendue.pdf)
+- Aides de jeu : [VoeuxDesKomuso.pdf](VOriMushi-oeuxDesKomuso.pdf), [Illustrations.pdf _(16 pages, 40 Mo)_](OriMushi-illustrations.pdf)
 - Articles sur mon blog à propos de ce jeu : [tag ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
 
 ## Sommaire
@@ -38,19 +33,13 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 ## Création de personnage en 5min
 1. Choisissez votre apparence et **un objet spécial** (arme, objet magique...) parmi les illustrations,
 ou inventez-les ! Les objets spéciaux sont des objets magiques ou que leur possesseur maîtrise avec virtuosité.
-<!--
-En cas de débat, le 1er joueur à choisir son illustration d'apparence sera le dernier à choisir son illustration de d'objet spécial, et vice-versa.
-_Note:_ le cercle magique et le parchemin permettent tous deux de faire appel à de la **magie**.
-Lorsqu'un joueur en choisit un, il doit définir le type de magie qu'il maîtrise.
-Voici quelques exemples : le feu, la terre, le métal, l'eau, la foudre, le vent, la lumière,
-la dissimulation dans l'ombre, le déplacement instantané, les illusions...
--->
 
 2. Inscrivez sur votre feuille de personnage son **nom**, son **activité** et cochez **3 compétences**.
 
 L'**inventaire** de départ des personnages est complètement libre :
 il s'agit de tous les objets qu'ils souhaiteraient transporter sur eux.
 Ces objets n'étant pas _spéciaux_, ils n'octroient pas de dé supplémentaires lors des jets.
+
 
 ### Activités
 Voici quelques suggestions pour les joueurs, à découper avant la partie :
@@ -59,11 +48,9 @@ Voici quelques suggestions pour les joueurs, à découper avant la partie :
 
 **Apothicaire** : je concocte des remèdes à partir de plantes sauvages.<br><br>_Gain d'Oris_ : chaque fois que je découvre de nouvelles propriétés de plantes ou contribue à soigner quelqu'un. | **Conteur** : je raconte de manière captivante les plus incroyables histoires.<br><br>_Gain d'Oris_ : chaque fois que je découvre une nouvelle créature ou que je contribue à appaiser une situation grave par la discussion.
 -|-
-**Mushishi** : j'étudie et m'efforce d'apaiser les Mushis.<br><br>_Gain d'Oris_ : chaque fois que je découvre une espèce de Mushi ou contribue à résoudre un problème qui leur est associé. | **Ronin** : samouraï sans maître, mes capacités martiales sont au service de la justice.<br><br>_Gain d'Oris_ : à chaque fois que je contribue à rétablir la justice.
+**Mushishi** : j'étudie et m'efforce d'apaiser Mushis et Colosses.<br><br>_Gain d'Oris_ : chaque fois que je découvre une espèce de Mushi ou contribue à résoudre un problème qui leur est associé. | **Ronin** : samouraï sans maître, mes capacités martiales sont au service de la justice.<br><br>_Gain d'Oris_ : chaque fois que je contribue à rétablir la justice ou face à un adversaire plus fort.
 
 :::
-
-<br class="web-only">
 
 ::: page-break
 :::
@@ -72,7 +59,7 @@ Voici quelques suggestions pour les joueurs, à découper avant la partie :
 1d6 minimum, **+1d6** par compétence et Objet Spécial applicables.
 Selon le meilleur résultat obtenu aux dés :
 
-<img class="small float-right" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
+<img class="size10 float-right" alt="Chibi Ninja" src="cc-imgs/Epic-Chibi-Ninja_by_dmr12890_cc-by-nc-sa.jpg">
 
 * ⚅ : c'est réussi !
 * ⚄ : c'est réussi **mais**...
@@ -123,7 +110,7 @@ où on leur a vanté une recette locale de poisson frit...
 :::
 
 <br>
-<img class="small float-right" alt="Bambou" src="cc-imgs/bamboo-cc0.svg">
+<img class="size10 float-right" alt="Bambou" src="cc-imgs/bamboo-cc0.svg">
 
 ## Ressources
 
@@ -206,16 +193,14 @@ et pendant **un an** de former un groupe suivant les préceptes de cette charge 
 * **Vœu d'Impartialité** : un komusō se doit d'être **impartial** et **juste**. En cas de conflit, sans qu'ils ne possèdent la moindre autorité officielle, les komusō sont parfois sollicités comme juges impartiaux.
 * **Vœu de Préserver la Vie** : un komusō ira jusqu'à **se battre pour une vie**. Il protège également **la nature**, animaux, plantes et autres créatures.
 
-<img class="small" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
-
-<img class="medium" alt="Vœux des komusō" src="cc-imgs/VoeuxDesKomuso.jpg">
+<img class="size20" alt="Vœux des komusō" src="cc-imgs/VoeuxDesKomuso.jpg">
 
 En-dehors de ce code moral, les komusō sont d'origines très diverses.
 Ils ont souvent des connaissances et des compétences très complémentaires au sein d'un groupe,
 pouvant parfois même provoquer des tensions.
 
 <br>
-<img class="small float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_cc-by-nc_BW.jpg">
+<img class="size10 float-left" alt="Daïmio" src="cc-imgs/Dakuan_by_daudiomultimedia_cc-by-nc_BW.jpg">
 
 Ils doivent tous respect et obéissance à un **daïmio**,
 qui a sélectionné les membres du groupe des komusō, et à qui ils rendent compte.
@@ -255,7 +240,7 @@ Les mushis produisent naturellement du **Mana**,
 une énergie permettant de réaliser des **jutsus**.
 
 <br>
-<img class="medium" alt="Mushi" src="cc-imgs/a-handbook-of-cryptogamic-botany-1889-page-415.jpg">
+<img class="size20" alt="Mushi" src="cc-imgs/a-handbook-of-cryptogamic-botany-1889-page-415.jpg">
 
 ::: page-break
 :::
@@ -269,7 +254,7 @@ Il existe une grande variété de familles :
 **Sable** : modeler du sable pour former toute sorte d'objets, le faire léviter, le projeter... | **Téléportation** : déplacement instantanné à courte distance de soi, d'un objet, d'un adversaire...
 -|-
 **Clonage** : se dupliquer, dupliquer un objet...| **Gravité** : intensifier ou supprimer la gravité dans une zone proche.
-**Bois** : faire pousser des arbres extrêmement vite, modifier un objet dans cette matière... | <img class="small" alt="Cercle magique" src="cc-imgs/magic_circle_2_by_nnao_cc-by-nc-sa.jpg">
+**Bois** : faire pousser des arbres extrêmement vite, modifier un objet dans cette matière... | <img class="size10" alt="Cercle magique" src="cc-imgs/magic_circle_2_by_nnao_cc-by-nc-sa.jpg">
 
 :::
 
@@ -316,7 +301,7 @@ Chez la plupart des gens, ce Oni reste en sommeil et ne se développe jamais.
 pour obtenir en échange une grande puissance.
 Cette voie mène néanmoins à une transformation en un véritable **démon**.
 
-<img class="x-small" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
+<img class="size6" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
 
 Le pendant du Oni est la sagesse, la lumière intérieure que peuvent développer des personnes, nommée **Ori**.
 
@@ -358,12 +343,45 @@ Lancez un dé au rang 5 puis deux dés au rang 6 : ⚀: des oreilles pointues ; 
 Lorsqu'un personnage ayant un rang Oni 6 coche la dernière case de sa jauge,
 il joue sa dernière scène puis devient un démon, joué comme un PNJ par le MJ.
 
-<img class="medium" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
+<img class="size20" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
 
 ::: page-break
 :::
 
-### La carte du monde
+## Colosses
+Ces gigantesques et mystérieux golems de pierre parsèment le monde.
+Certains sont endormis, d'autres errent encore, répétant des gestes ou des trajets dont le rôle est une sens s'est perdu à travers les âges...
+
+Peu de choses sont connues sur ces statues géantes.
+Le Mana sert d'énergie à celles qui se déplacent encore.
+Les Colosses gisants, que plus rien n'anime, semblent être un lieu de prédilection des Mushis.
+
+Certaines gravures, dans des temples ou sur les Colosses eux-mêmes,
+mentionnent d'un énigmatique **Poète Endeuillé**, en lien avec ces créatures.
+Ces dernières réagissent d'ailleurs souvent à la **musique**.
+
+<img class="size20" alt="Élémentaire de pierre" src="cc-imgs/DnD_Stone_Elemental-LadyofHats-cc0.png">
+
+<!-- SOTC Colossus reveals:
+1. https://youtu.be/U8rn9BZXaKY?t=885
+2. https://youtu.be/U8rn9BZXaKY?t=1185
+3. https://youtu.be/U8rn9BZXaKY?t=1438
+4. https://youtu.be/U8rn9BZXaKY?t=1716
+5. https://youtu.be/U8rn9BZXaKY?t=2005
+-->
+
+On raconte de nombreuses légendes à leurs sujets.
+Certains disent en avoir vu s'affronter.
+D'autres prétendent avoir vu des Colosses cultiver des fleurs.
+
+Des guerriers affirment parfois en avoir vaincu.
+La plupart se vantent par bravade.
+Ceux qui ont véritablement accompli cet exploit sont devenus des légendes.
+
+::: page-break
+:::
+
+## La carte du monde
 Au fur et à mesure de leur pérégrinations, les komusō tracent **une carte**.
 
 Cette carte mentionne les lieux notables traversés par le groupe,
@@ -381,7 +399,7 @@ Elle doit aussi comporter **les signatures des komusō**, qui attestent de sa va
 Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin** d'une plante, d'une créature ou d'un personnage qu'ils ont rencontré.
 
 <br><br>
-<img class="medium" alt="Un parchemin de carte" src="cc-imgs/pirate_map_1_by_thestockwarehouse_cc-by_greyscale.png">
+<img class="size20" alt="Un parchemin de carte" src="cc-imgs/pirate_map_1_by_thestockwarehouse_cc-by_greyscale.png">
 
 ::: page-break
 :::
@@ -404,6 +422,9 @@ Les joueurs peuvent choisir entre :
 * posséder 2 objets spéciaux
 * gagner 2 niveaux de Oni
 
+<br>
+<img class="size20" alt="Samurai" src="cc-imgs/quick_samurai_sketch_by_hidanbasher_cc-by_greyscale.jpg">
+
 ::: page-break
 :::
 
@@ -414,29 +435,38 @@ Deux PJs ne peuvent pas avoir le même.
 
 <br>
 
-**Boomerang guidable** | **Loupe à Mushis** | **Katana tranche-tout**
--|-
 **Bâton télescopique** : peut être employé tout autant comme une arme, que comme un moyen de prendre de la hauteur | **Grappin téléscopique** : comme dans Zelda ou Batman | **Arc à flèches soniques** : propulse des flèches éthérées, illimitées et aux multiples propriétés : elles peuvent sonner l'alarme, assourdir, trancher en deux de petits objets, etc. 
+-|-
 **Amulette de feu** : produit d'intenses flammes | **Gant de bourrasque** : projette de l'air | **Cape d'invisibilité** : permet de camoufler une seule personne, ne supprime pas le son
 **Instrument de musique** : dont la sonorité appaise toute créature | **Grande plume volante** | **Masque** permettant de changer de visage
+**Boomerang guidable** | **Loupe à Mushis** | **Katana tranche-tout**
+
+<br>
+<img class="size10" alt="Katanas" src="cc-imgs/Katanas_by_Halibutt_cc-by.svg">
 
 ::: page-break
 :::
 
-## Progression & expérience
+## Progression
+Au fur et à mesures des aventures des PJs, ils obtiennent des **Oris**,
+représentant l'expérience acquise et leur actions en alignement avec leur code moral.
 
 ::: borderless right-align-col-1 with-headings
 
 Situation | Progression
 -|-
-⚀⚀ | +1 Ori
+Échec critique ⚀⚀ | +1 Ori
+Répondre à un appel à l'aide | +1 Ori
 Sauver / épargner une vie | +1 Ori
 Motivation liée à son Activité | +1 Ori
 Compléter la carte | +1 Ori
 
-<br>
+En dehors de l'échec critique, tous les gains d'Oris se font en fin de session de jeu,
+lorsque les komusō reprennent leur voyage.
 
-Coût | Bénéfice
+Ces Oris peuvent être dépensés pour faire évoluer les PJs :
+
+Coût | Donne accès à
 -|-
 3 Oris | une nouvelle compétence
 4 Oris | un nouvel objet spécial
@@ -449,8 +479,10 @@ Coût | Bénéfice
 
 **\*** : les Oris ne sont pas dépensés mais **consommés**
 
-Toute dépense d'Oris dans cette table se fait entre deux sessions,
-et doit donner lieu un petit échange narratif selon ce schéma :
+::: page-break
+:::
+
+Toute dépense d'Oris doit donner lieu un petit échange narratif selon ce schéma :
 1. le joueur concerné décrit dans quelles conditions son personnage évolue
 2. le MJ pose une question ouverte
 3. les autres joueurs proposent des réponses
@@ -459,18 +491,6 @@ et doit donner lieu un petit échange narratif selon ce schéma :
 L'acquisition de compétences / objets / jutsus / techniques n'est possible que dans ces conditions :
 * durant une ellipse temporelle entre deux lieux / scénarios
 * le PJ doit avoir **convaincu un senseï** de lui transmettre son savoir
-
----
-
-<img class="small" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
-
-<img class="medium" alt="Samurai" src="cc-imgs/quick_samurai_sketch_by_hidanbasher_cc-by_greyscale.jpg">
-
-<img class="medium" alt="Personnage en position de combat" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
-
-<img class="medium" alt="Ninja" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
-
-<img class="medium" alt="Kami" src="cc-imgs/komainu_raican_by_hijodelopio_cc-by_greyscale.jpg">
 
 ::: page-break
 :::
@@ -490,20 +510,22 @@ Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch
 
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser ce jeu : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
 
+<img class="size8 float-right" alt="Ombrelle en papier" src="cc-imgs/piratebay-asian_paper_umbrella.jpg">
+<br>
+
 ::: thanks
 Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny).
 
 Illustrations employées :
-- [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Epic Chibi Ninja par dmr12890](https://www.deviantart.com/dmr12890/art/Epic-Chibi-Ninja-129862000) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Kyoshi Earthbender Lineart par Aedo Sama](https://www.deviantart.com/aedo-sama/art/Kyoshi-Earthbender-Lineart-215736017) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 - [Quick samurai sketch par hidanbasher](https://www.deviantart.com/hidanbasher/art/Quick-samurai-sketch-566443259) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Katanas par Halibutt](https://commons.wikimedia.org/wiki/File:Katanas.svg) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Komainu Raican](https://www.deviantart.com/hijodelopio/art/Komainu-Raican-878188481) & [Kuma par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Kuma-878189196) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Shinobi par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Pirate Map 1 par TheStockWarehouse](https://www.deviantart.com/thestockwarehouse/art/Pirate-Map-1-845443862) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [DnD Stone Elemental par Lady of Hats](https://commons.wikimedia.org/wiki/File:DnD_Stone_Elemental.png) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 - [fille-samouraï-guerrier-japon](https://pixabay.com/fr/vectors/fille-samoura%C3%AF-guerrier-japon-8703775/) & [parapluie-écran-chinois](https://pixabay.com/fr/photos/parapluie-%C3%A9cran-chinois-chine-japon-898076/) @ pixabay.com
 - [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
 - [Image from _"A handbook of cryptogamic botany"_ (1889)](https://www.flickr.com/photos/internetarchivebookimages/20102877173/) - domaine public
@@ -519,10 +541,13 @@ Illustrations employées :
 * Illustrations.pdf : add images of equipments & places
 * Mise en page :
     - Ajouter de jolis ornements en header/footer de pages
+    - Expliquer en détail le fonctionnement des cases à cocher de la FP
     - Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
 
-Idées en vrac :
+Gameplay:
 + prévoir que le système / les FPs des joueurs évoluent au fur et à mesure de la partie ?
++ une fois 5 ou 6 Colosses placés sur la carte, il est aisé d'imaginer un symbole à partir de ces points.
+  Le MJ peut alors employer ce symbole dans une enigme...
 
 Com'
 * transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier

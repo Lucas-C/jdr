@@ -22,6 +22,8 @@ h1 {
 }
 h2 { font-size: 2.5rem; }
 h3 { font-size: 2rem; }
+.scenario-title h1 { font-size: 6rem }
+
 p, ol, ul { margin: .5rem 0; }
 li { margin-bottom: .25rem; }
 hr { width: 5rem; margin: 2rem auto; }
@@ -32,10 +34,11 @@ img {
   margin: 0 auto;
   break-inside: avoid;
 }
-img.cover { margin: 5rem auto; max-height: 30rem; }
-img.x-small { max-height: 6rem; }
-img.small { max-height: 15rem; }
-img.medium { max-height: 20rem; }
+img.cover  { max-height: 20rem; margin: 1rem auto; }
+img.size6  { max-height: 6rem; }
+img.size8  { max-height: 8rem; }
+img.size10 { max-height: 10rem; }
+img.size20 { max-height: 20rem; }
 
 table, th, td {
   border: 2px solid black;
@@ -61,7 +64,5 @@ th { font-weight: normal; }
   h1 { font-size: 7rem; margin: 0 auto 2rem; }
   h2, h2 { margin-top: 0; }
   body { font-size: 1.2rem; }
-  img.cover { max-height: 20rem; margin: 1rem auto; }
-  img.small { max-height: 10rem; }
   .web-only { display: none; }
 }

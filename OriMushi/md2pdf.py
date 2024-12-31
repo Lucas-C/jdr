@@ -28,7 +28,7 @@ def build_pdf():
     # Uncomment one of the lines below to only --watch/re-build a single PDF:
     build_single_pdf(SCENAR1_MD_FILEPATH, SCENAR1_OUT_FILEPATH)
     build_single_pdf(SCENAR2_MD_FILEPATH, SCENAR2_OUT_FILEPATH)
-    build_single_pdf(RULES_MD_FILEPATH, RULES_OUT_FILEPATH)
+    build_single_pdf(RULES_MD_FILEPATH, RULES_OUT_FILEPATH) # last to produce index.html in CI
 
 def build_single_pdf(md_filepath, out_filepath):
     start = perf_counter()

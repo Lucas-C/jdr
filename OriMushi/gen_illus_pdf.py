@@ -74,6 +74,13 @@ add_image("iaeto_by_bananascholar_cc-by-nc.png")
 add_image("a_spriggan_by_kentovelindstrom_cc-by.png")
 add_image("wtactics-DarkManaBreather-cc-by-sa.png")
 
+# Colosses
+pdf.add_page()
+add_image("a_study_in_golems_3_by_skorble_cc-by-nc-sa.png")
+add_image("a_study_in_golems_6_by_skorble_cc-by-nc-sa.png")
+add_image("tiny_the_stone_giant__ice__by_halycon450_cc-by-nc-sa.png")
+add_image("warforged_by_halycon450_cc-by-nc-sa.png")
+
 # Lieux
 pdf.add_page()
 add_image("fisherman_s_house_by_assumzaek_cc-by-nc-sa.jpg")
@@ -115,6 +122,8 @@ Origine des illustrations :
 - [Iaeto](https://www.deviantart.com/bananascholar/art/ArtFight-2024-9-Iaeto-1072574039) & [The new avatar, allegedly par BananaScholar](https://www.deviantart.com/bananascholar/art/The-new-avatar-allegedly-1130707849) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 - [Zuko fanart par CodeTheCod](https://www.deviantart.com/codethecod/art/Zuko-fanart-902243721) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Gone fishing](https://www.deviantart.com/desmondwoot/art/Gone-fishing-404429653), [Lanterns in the Sky](https://www.deviantart.com/desmondwoot/art/Lanterns-in-the-Sky-357624151) & [Skyriders par Desmond Wong](https://www.deviantart.com/desmondwoot/art/Skyriders-465317507) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [A Study in Golems 3](https://www.deviantart.com/skorble/art/A-Study-in-Golems-3-937419597) & [6 par Skorble](https://www.deviantart.com/skorble/art/A-Study-in-Golems-6-937419622) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- [Tiny Tiny, the Stone Giant (Ice)](https://www.deviantart.com/halycon450/art/Tiny-the-Stone-Giant-Ice-392725495) & [Warforged par Halycon450](https://www.deviantart.com/halycon450/art/Warforged-506567841) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [A Spriggan par Kent-Ove Lindstrom](https://www.deviantart.com/kentovelindstrom/art/A-Spriggan-936085738) - [CC BY](https://creativecommons.org/licenses/by/3.0/)
 - [Woodland dragon par flaming-anubis](https://www.deviantart.com/flaming-anubis/art/Woodland-Dragon-461654140) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Dark Mana Breather par Santiago Iborra (wtactics)](https://github.com/wtactics/art) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
