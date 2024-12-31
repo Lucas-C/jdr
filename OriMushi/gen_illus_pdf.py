@@ -72,6 +72,7 @@ pdf.add_page()
 add_image("Mind-Temple-Character_by_assumzaek_cc-by-nc-sa.png")
 add_image("iaeto_by_bananascholar_cc-by-nc.png")
 add_image("a_spriggan_by_kentovelindstrom_cc-by.png")
+add_image("wtactics-DarkManaBreather-cc-by-sa.png")
 
 # Lieux
 pdf.add_page()
@@ -87,20 +88,21 @@ pdf.image("cc-imgs/gone_fishing_by_desmondwoot_cc-by-nc-sa.jpg", h=IMG_SIZE, w=p
 # Objets spéciaux :
 pdf.add_page()
 add_image("Katanas_by_Halibutt_cc-by.svg")
-add_image("Grappling_hook-cc0.png")
-pdf.ln(20)
-add_image("shurikens-cc0.png")
 add_image("Bow-and-Arrow-cc0.png")
-
-pdf.add_page()
+pdf.ln(20)
 add_image("freesvg-red-chinese-scroll.svg")
 add_image("freesvg-asian-fan-with-a-map.svg")
+
+pdf.add_page()
+add_image("Grappling_hook-cc0.png")
+add_image("shurikens-cc0.png")
+pdf.ln(20)
 pdf.image("cc-imgs/Woodland-Dragon_by_flaming-anubis_cc-by-sa.jpg", h=IMG_SIZE, w=pdf.epw, keep_aspect_ratio=True)
 
 pdf.add_page()
 pdf.set_font("Helvetica", size=14)
 pdf.write_html(markdown("""
-Origine des images :
+Origine des illustrations :
 
 - [Ashitaka | Princess Mononoke](https://www.deviantart.com/amazingsphelon/art/Ashitaka-Princess-Mononoke-714136981), [Aeshi - The Marvelous Maiden Gardevoir](https://www.deviantart.com/amazingsphelon/art/OC-Aeshi-The-Marvelous-Maiden-Gardevoir-853749605), [Miashe Blare - The Fiery Fighter Blaziken](https://www.deviantart.com/amazingsphelon/art/OC-Miashe-Blare-The-Fiery-Fighter-Blaziken-853747260), [ Hanzo Hatoori - The Fierceful Ninja Ninjask](https://www.deviantart.com/amazingsphelon/art/OC-Hanzo-Hatoori-The-Fierceful-Ninja-Ninjask-856310048), [Naiya Creswell](https://www.deviantart.com/amazingsphelon/art/OC-Naiya-Creswell-953963034), [Rianna](https://www.deviantart.com/amazingsphelon/art/OC-Raffle-Rianna-883029312), [Charlenne](https://www.deviantart.com/amazingsphelon/art/Commission-Charlenne-978385892), [Battle Rehime | Sol Badguy](https://www.deviantart.com/amazingsphelon/art/Battle-Rehime-Sol-Badguy-729377499) [Raid Northgain](https://www.deviantart.com/amazingsphelon/art/OC-Raid-Northgain-953964022), [Portrait: Erika POKEMON](https://www.deviantart.com/amazingsphelon/art/BR-Portrait-Erika-POKEMON-926336867) & [Streets on Hazards II - Martial Arts Attires par AmazingSphelon](https://www.deviantart.com/amazingsphelon/art/Streets-on-Hazards-II-Martial-Arts-Attires-995578541) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Tryker femme](https://www.flickr.com/photos/ryzom/14746505003/in/album-72157645935788203/) & [Tryker homme](https://www.flickr.com/photos/ryzom/14726336322/in/album-72157645935788203/) - Ryzom - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
@@ -115,6 +117,7 @@ Origine des images :
 - [Gone fishing](https://www.deviantart.com/desmondwoot/art/Gone-fishing-404429653), [Lanterns in the Sky](https://www.deviantart.com/desmondwoot/art/Lanterns-in-the-Sky-357624151) & [Skyriders par Desmond Wong](https://www.deviantart.com/desmondwoot/art/Skyriders-465317507) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [A Spriggan par Kent-Ove Lindstrom](https://www.deviantart.com/kentovelindstrom/art/A-Spriggan-936085738) - [CC BY](https://creativecommons.org/licenses/by/3.0/)
 - [Woodland dragon par flaming-anubis](https://www.deviantart.com/flaming-anubis/art/Woodland-Dragon-461654140) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Dark Mana Breather par Santiago Iborra (wtactics)](https://github.com/wtactics/art) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Armored & Manimal 3 par Jeff Preston](http://team-preston.com), issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Elf Druide Fantaisie](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/), [Kitty Anime Poilu Bleu](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/)
 & [Shuriken Throwing Ninja Star](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/) @ pixabay.com

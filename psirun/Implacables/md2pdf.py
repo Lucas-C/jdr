@@ -110,11 +110,9 @@ for page, fr_annot_dict in FR_ANNOTATIONS.items():
 
 
 def build_pdf():
-    md_filepaths = ()
-    # Uncomment one of those lines if you only want to --watch/re-build a single PDF
-    build_single_pdf(EN_MD_FILEPATH, EN_OUT_FILEPATH, EN_ANNOTATIONS, EN_METADATA, lang="en"); md_filepaths += EN_MD_FILEPATH,
-    build_single_pdf(FR_MD_FILEPATH, FR_OUT_FILEPATH, FR_ANNOTATIONS, FR_METADATA, lang="fr"); md_filepaths += FR_MD_FILEPATH,
-    return md_filepaths
+    # Uncomment one of the lines below to only --watch/re-build a single PDF:
+    build_single_pdf(EN_MD_FILEPATH, EN_OUT_FILEPATH, EN_ANNOTATIONS, EN_METADATA, lang="en")
+    build_single_pdf(FR_MD_FILEPATH, FR_OUT_FILEPATH, FR_ANNOTATIONS, FR_METADATA, lang="fr")
 
 def build_single_pdf(md_filepath, out_filepath, annotations, metadata, lang):
     start = perf_counter()
@@ -128,8 +126,8 @@ def build_single_pdf(md_filepath, out_filepath, annotations, metadata, lang):
 # This conditional ensure that the code below
 # does not get executed when calling xreload on this module:
 if not __annotations__.get("XRELOADED"):
-    SRC_FILES = (__file__, CSS_FILEPATH)
-    SRC_FILES += build_pdf()
+    SRC_FILES = (__file__, CSS_FILEPATH, EN_MD_FILEPATH, FR_MD_FILEPATH)
+    build_pdf()
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:

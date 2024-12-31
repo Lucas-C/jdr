@@ -9,7 +9,7 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 <br>
 
-**Inspirations**: Naruto, Avatar le maître de l'air, princesse Mononoke, Kung Fu Panda, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
+**Inspirations**: Naruto, Avatar le maître de l'air, princesse Mononoke, Zelda, Kung Fu Panda, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
 
 <br>
 
@@ -27,7 +27,10 @@ Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au j
 
 - Articles sur mon blog à propos de ce jeu : [tag ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
 
-<br class="web-only">
+## Sommaire
+
+<br>
+<ul class="toc" data-tags="h2"></ul>
 
 ::: page-break
 :::
@@ -52,13 +55,13 @@ Ces objets n'étant pas _spéciaux_, ils n'octroient pas de dé supplémentaires
 ### Activités
 Voici quelques suggestions pour les joueurs, à découper avant la partie :
 
-**Apothicaire** : je concocte des remèdes à partir de plantes sauvages. | **Conteur** : je raconte de manière captivante les plus incroyables histoires. | **Marchant** : sur ma route, je troque de précieux objets et ingrédients.
--|-
-**Mushishi** : je perçois les esprits de la nature, et m'efforce de les apaiser. | **Ronin** : samouraï sans maître, je voyage en onorant le code moral du _bushido_. | **Autre** : inscris au dos une autre activité de ton choix.
+::: same-size-2-cols
 
-<!-- Notes de conception
-* Apothicaire : -> donne une connaissance des soins & incite à explorer la nature
--->
+**Apothicaire** : je concocte des remèdes à partir de plantes sauvages.<br><br>_Gain d'Oris_ : chaque fois que je découvre de nouvelles propriétés de plantes ou contribue à soigner quelqu'un. | **Conteur** : je raconte de manière captivante les plus incroyables histoires.<br><br>_Gain d'Oris_ : chaque fois que je découvre une nouvelle créature ou que je contribue à appaiser une situation grave par la discussion.
+-|-
+**Mushishi** : j'étudie et m'efforce d'apaiser les Mushis.<br><br>_Gain d'Oris_ : chaque fois que je découvre une espèce de Mushi ou contribue à résoudre un problème qui leur est associé. | **Ronin** : samouraï sans maître, mes capacités martiales sont au service de la justice.<br><br>_Gain d'Oris_ : à chaque fois que je contribue à rétablir la justice.
+
+:::
 
 <br class="web-only">
 
@@ -178,7 +181,7 @@ Les éléments suivants sont néanmoins indispensables :
 Les komusō possèdent une forte **indépendance**, mais vous pouvez choisir de les rattacher à une organisation de votre choix : gouvernement, religion, force militaire...
 * la **magie** existe, et est enseignée à travers de nombreuses écoles de **jutsu**.
 L'énergie magique provient de la nature : le **Mana**, parfois nommé chakra ou chi, provient des **Mushis**, des créatures élémentaires invisibles...
-* tous individu possède un potentiel mauvais enfoui, un **Oni**, qui peut s'éveiller, le dévorer et le transformer en **démon**.
+* tout individu possède un potentiel maveillant enfoui, un **Oni**, qui peut s'éveiller, le dévorer et le transformer en **démon**.
 
 ::: page-break
 :::
@@ -249,7 +252,7 @@ Les mushis ne sont ni mauvais ni bienveillants,
 ils sont constitutifs de la nature.
 
 Les mushis produisent naturellement du **Mana**,
-une énergie magique permettant de réaliser des jutsus.
+une énergie permettant de réaliser des **jutsus**.
 
 <br>
 <img class="medium" alt="Mushi" src="cc-imgs/a-handbook-of-cryptogamic-botany-1889-page-415.jpg">
@@ -257,36 +260,105 @@ une énergie magique permettant de réaliser des jutsus.
 ::: page-break
 :::
 
-## Ori versus Oni
-_Section en cours de rédaction..._
+## Jutsus
+Les jutsus sont des techniques mystiques ancestrales permettant de maîtriser différentes formes de magie.
+Il existe une grande variété de familles :
 
-<img class="small" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
+::: same-size-2-cols
 
-<img class="medium" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
+**Sable** : modeler du sable pour former toute sorte d'objets, le faire léviter, le projeter... | **Téléportation** : déplacement instantanné à courte distance de soi, d'un objet, d'un adversaire...
+-|-
+**Clonage** : se dupliquer, dupliquer un objet...| **Gravité** : intensifier ou supprimer la gravité dans une zone proche.
+**Bois** : faire pousser des arbres extrêmement vite, modifier un objet dans cette matière... | <img class="small" alt="Cercle magique" src="cc-imgs/magic_circle_2_by_nnao_cc-by-nc-sa.jpg">
+
+:::
+
+<br>
+
+### Récupération du Mana
+Un magicien canalise le Mana dans son corps se constituer une **réserve**.
+
+Quelle que soit la situation, lorsqu'un joueur effectue un jet de dé,
+pour chaque chiffre obtenu, il peut cocher la case correspondante sur sa feuille de personnage,
+dans la table de récupération de Mana :
+
+::: no-borders
+
+1 | 2 | 3 | 4 | 5 | 6
+-|-
+◻️ | ◻️ | ◻️ | ◻️ | ◻️ | ◻️
+
+:::
+
+Lorsque les 6 cases sont remplies, le personnage récupère **+1 dé** de Mana et efface toutes les cases.
+Le réserve de Mana se regénère également complètement après quelques heures à méditer auprès de Mushis.
+
+### Règles d'emploi des jutsus
+Employer un jutsu nécessite **1 point de Mana** canalisé, et un jet de dé.
+Un personnage maîtrisant un jutsu, peut tenter n'importe quelle technique propre à cette famille.
+Il est aussi possible de devenir expert d'une **technique** en particulier, et de gagner ainsi **+1 dé** au lancer lorsqu'on l'emploie.
+
+Certains objet spéciaux rares peuvent également conférer **+1 dé** au lancer pour une famille de jutsu spécifique.
+
+<br><br>
+<img alt="Kyoshi Earthbender" src="cc-imgs/kyoshi_earthbender_lineart_by_aedo_sama_cc-by-nc-sa.jpg">
 
 ::: page-break
 :::
 
-### Jutsus
-Les jutsus sont des techniques ancestrales permettant de maîtriser une forme de magie.
+## Ori versus Oni
+Dans le monde d'Ori Mushi, tout individu possède un démon intérieur, un **Oni**.
+Ce Oni se nourrit de colère, de frustration, de peurs.
 
-Il existe plusieurs familles de jutsus :
+Chez la plupart des gens, ce Oni reste en sommeil et ne se développe jamais.
 
-**Contrôle du sable** : modeler du sable pour former toute sorte d'objet, le projeter... | **Téléportation** : déplacement instantanné à courte distance de soi, d'un objet, d'un adversaire... | **Clonage** : se dupliquer, dupliquer un objet...
+À l'inverse, certains individus choisissent de nourrir ce Oni,
+pour obtenir en échange une grande puissance.
+Cette voie mène néanmoins à une transformation en un véritable **démon**.
+
+<img class="x-small" alt="Yin Yang symbol" src="cc-imgs/freesvg-decorative-ying-yang-sign.svg">
+
+Le pendant du Oni est la sagesse, la lumière intérieure que peuvent développer des personnes, nommée **Ori**.
+
+La progression en Oris d'un personnage représente son gain d'expérience.
+
+
+### Canaliser son Oni
+Un Oni peut être canalisé pendant un bref moment pour fournir un pouvoir de concentration et une pulsion d'énergie à son porteur.
+
+Sur sa feuille de personnage, un joueur peut cocher une case libre de sa **jauge de Oni**.
+S'il fait ainsi, il gagne pendant quelques minutes en bonus **à tous ses jets**
+un nombre de **dés égal à son rang d'Oni** :
+durant tout une scène, son personnage sera plongé dans une rage concentrée.
+
+### Devenir berserk
+Si un joueur obtient un double ⚀ durant une phase où il canalise son Oni,
+il devient **berserk**, et passe sous le contrôle du MJ.
+
+Un joueur peut choisir de **consommer 1 Ori** pour éviter cette transformation.
+
+Un berserk se comporte selon le résultat d'un jet dans cette table :
+
+::: borderless right-align-col-1 with-headings
+
+Dé | Attitude
 -|-
-**Hypnose** : immobiliser quelqu'un par le regard, le faire parler, lui donner des ordres... | **Régénération** : soigner une blessure, faire repousser un membre... | **Autre** : inscris au dos un jutsu de ton invention.
+⚀⚁ | Le berserk s'attaque au PJ le plus proche.
+⚂ | Le berserk s'attaque au PNJ le plus proche.
+⚃ | Le berserk s'enfuit.
+⚄⚅ | Le berserk s'attaque à un adversaire. S'il n'y en pas, relancé le dé.
 
-<img class="small" alt="Cercle magique" src="cc-imgs/magic_circle_2_by_nnao_cc-by-nc-sa.jpg">
+:::
 
-Employer un jutsu nécessite **1 point de Mana**, et un jet de dé.
-Chaque famille de jutsu a une réserve de Mana associée.
+### Devenir un démon
+Lorsqu'un personnage atteint le rang 5 d'Oni, des traits démoniaques commencent à apparaître sur son corps.
+Lorsqu'il atteint le rang 6, encore plus de traits apparaissent.
+Lancez un dé au rang 5 puis deux dés au rang 6 : ⚀: des oreilles pointues ; ⚁: des griffes ; ⚂: une machoire carnassière ; ⚃: la peau rouge; ⚄: des écailles; ⚅: des cornes.
 
-Lorsqu'on maîtrise une famille de jutsu, on peut tenter n'importe quelle technique propre à cette spécialité.
-On peut aussi devenir expert d'une technique en particulier, et on gagne alors +1 dé au lancer lorsqu'on emploie cette technique.
+Lorsqu'un personnage ayant un rang Oni 6 coche la dernière case de sa jauge,
+il joue sa dernière scène puis devient un démon, joué comme un PNJ par le MJ.
 
-Certains objet spéciaux rares peuvent conférer +1 dé au lancer pour une famille de jutsu spécifique.
-
-<img class="medium" alt="Kyoshi Earthbender" src="cc-imgs/kyoshi_earthbender_lineart_by_aedo_sama_cc-by-nc-sa.jpg">
+<img class="medium" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
 
 ::: page-break
 :::
@@ -308,25 +380,83 @@ Elle doit aussi comporter **les signatures des komusō**, qui attestent de sa va
 À chaque fin de partie, un joueur du groupe se dévoue pour compléter la carte.
 Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin** d'une plante, d'une créature ou d'un personnage qu'ils ont rencontré.
 
+<br><br>
+<img class="medium" alt="Un parchemin de carte" src="cc-imgs/pirate_map_1_by_thestockwarehouse_cc-by_greyscale.png">
+
 ::: page-break
 :::
 
-### Progression & expérience
+## Blessures
 _Section en cours de rédaction..._
 
-::: borderless with-headings
 
-Coût en Oris | Bénéfice
--------------|-
-? Oris       | une nouvelle compétence
-? Oris       | +1 réserve de Mana d'un jutsu
-? Oris       | une nouvelle technique de jutsu
-? Oris       | un nouveau jutsu
-? Oris       | +1 Oni
+## Création des personnages
+Chaque joueur :
+* choisit et coche **3 compétences**.
+* choisit parmis les 3 duos d'options concernant leur origine
+* choisit une mauvaise habitude : _section en cours de rédaction..._
+* débute avec 0 Ori
+* débute avec 1 Oni : il remplit les 5 cases de droite de la jauge associée
+* débute avec 3 Mana : il remplit 5 cases de la jauge correspondante
+
+Les joueurs peuvent choisir entre :
+* maîtriser un jutsu et 2 techniques
+* posséder 2 objets spéciaux
+* gagner 2 niveaux de Oni
+
+::: page-break
+:::
+
+### Objets spéciaux
+Les objets spéciaux sont uniques, magiques ou d'excellente facture,
+et leur possesseur les manipule avec virtuosité.
+Deux PJs ne peuvent pas avoir le même. 
+
+<br>
+
+**Boomerang guidable** | **Loupe à Mushis** | **Katana tranche-tout**
+-|-
+**Bâton télescopique** : peut être employé tout autant comme une arme, que comme un moyen de prendre de la hauteur | **Grappin téléscopique** : comme dans Zelda ou Batman | **Arc à flèches soniques** : propulse des flèches éthérées, illimitées et aux multiples propriétés : elles peuvent sonner l'alarme, assourdir, trancher en deux de petits objets, etc. 
+**Amulette de feu** : produit d'intenses flammes | **Gant de bourrasque** : projette de l'air | **Cape d'invisibilité** : permet de camoufler une seule personne, ne supprime pas le son
+**Instrument de musique** : dont la sonorité appaise toute créature | **Grande plume volante** | **Masque** permettant de changer de visage
+
+::: page-break
+:::
+
+## Progression & expérience
+
+::: borderless right-align-col-1 with-headings
+
+Situation | Progression
+-|-
+⚀⚀ | +1 Ori
+Sauver / épargner une vie | +1 Ori
+Motivation liée à son Activité | +1 Ori
+Compléter la carte | +1 Ori
+
+<br>
+
+Coût | Bénéfice
+-|-
+3 Oris | une nouvelle compétence
+4 Oris | un nouvel objet spécial
+3 Oris | une nouvelle technique de jutsu
+3 Oris | +1 réserve de Mana d'un jutsu
+6 Oris | un second jutsu
+3 Oris | +1 rang Oni & jauge vidée **\***
 
 :::
 
-L'acquisition de compétences et de jutsus / techniques n'est possible que dans ces conditions :
+**\*** : les Oris ne sont pas dépensés mais **consommés**
+
+Toute dépense d'Oris dans cette table se fait entre deux sessions,
+et doit donner lieu un petit échange narratif selon ce schéma :
+1. le joueur concerné décrit dans quelles conditions son personnage évolue
+2. le MJ pose une question ouverte
+3. les autres joueurs proposent des réponses
+4. le joueur concerné choisit la ou les propositions qui lui plaisent, et conclue la narration de cet épisode
+
+L'acquisition de compétences / objets / jutsus / techniques n'est possible que dans ces conditions :
 * durant une ellipse temporelle entre deux lieux / scénarios
 * le PJ doit avoir **convaincu un senseï** de lui transmettre son savoir
 
@@ -341,19 +471,6 @@ L'acquisition de compétences et de jutsus / techniques n'est possible que dans 
 <img class="medium" alt="Ninja" src="cc-imgs/Shinobi-Saipat-by-hijodelopio-cc-by-BW.jpg">
 
 <img class="medium" alt="Kami" src="cc-imgs/komainu_raican_by_hijodelopio_cc-by_greyscale.jpg">
-
-### Blessures
-_Section en cours de rédaction..._
-
-
-### Création des personnages
-_Section en cours de rédaction..._
-
-::: page-break
-:::
-
-## Scénario : les disparus du festival du printemps
-_Section en cours de rédaction..._
 
 ::: page-break
 :::
@@ -373,11 +490,9 @@ Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch
 
 Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés pour réaliser ce jeu : [le navigateur Firefox](https://www.mozilla.org/fr/firefox/), [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
 
-<br>
-
 ::: thanks
 Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Font)
-& [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny)
+& [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny).
 
 Illustrations employées :
 - [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -388,6 +503,7 @@ Illustrations employées :
 - [Katanas par Halibutt](https://commons.wikimedia.org/wiki/File:Katanas.svg) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Komainu Raican](https://www.deviantart.com/hijodelopio/art/Komainu-Raican-878188481) & [Kuma par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Kuma-878189196) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Shinobi par HIJODELOPIO](https://www.deviantart.com/hijodelopio/art/Shinobi-Saipat-878188581) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Pirate Map 1 par TheStockWarehouse](https://www.deviantart.com/thestockwarehouse/art/Pirate-Map-1-845443862) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [fille-samouraï-guerrier-japon](https://pixabay.com/fr/vectors/fille-samoura%C3%AF-guerrier-japon-8703775/) & [parapluie-écran-chinois](https://pixabay.com/fr/photos/parapluie-%C3%A9cran-chinois-chine-japon-898076/) @ pixabay.com
 - [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
 - [Image from _"A handbook of cryptogamic botany"_ (1889)](https://www.flickr.com/photos/internetarchivebookimages/20102877173/) - domaine public
@@ -395,33 +511,17 @@ Illustrations employées :
 ::::
 
 <!-- Next:
-* rédiger le scénario
-* rédiger section progression / expérience
-  -> suggérer des Voies / activité
-* formatter les règles (jets + jutsus + XPs) en une seule page A4
+* rédiger section progression / expérience -> Voies ?
 * ajouter des jutsus -> concevoir des cartes
+
 * intervertir : version "étendue" -> jeu de base / version 30min => version "courte"
+* ajouter à la FP des mentions : "nom du PJ" à gauche / à droite / en face
+* formatter les règles (jets + jutsus + XPs) en une seule page A4
 * Glossaire : PJ, MJ, XP...
 * SpellCheck
 * Illustrations.pdf : add images of equipments & places
 * Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
 
-- https://pixabay.com/illustrations/sumi-sumi-e-watercolor-china-1595365/
-- https://www.needpix.com/photo/355732/sumi-e-sumie-black-ink-east-zen-ink-painting-ink-style-painting-fish
-- https://freesvg.org/gingko-leaf-c
-- https://www.seekpng.com/ipng/u2q8a9q8r5q8w7i1_this-free-icons-png-design-of-tribal-dragon/
-
-Google-fu attempts:
-(samurai|ninja) &
-    animal
-    (weapon|sword|shuriken|equipment)
-    (shadow|ghost|sneak)
-    magic sword
-(forest|woodland) dragon
-magic circle
-mushishi
-(bushido|Mark of the Ninja|Ninja Gaiden|Onimusha|Samurai Shodown|Sekiro|Shinobi|Tekken)
-sumi-e
-kimono (sorceress|witch)
-site:https://openclipart.org ("Asian"|"dragon")
+Idées en vrac :
++ prévoir que le système / les FPs des joueurs évoluent au fur et à mesure de la partie ?
 -->
