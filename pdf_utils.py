@@ -151,14 +151,27 @@ def shuffle_tables(soup, max_cols=4):
 def add_table_of_contents(soup):
     'Adds items to <ul class="toc"> tags based on its data-tags attribute'
     for ul in soup.find_all("ul", class_="toc"):
-        heading_tags = ul["data-tags"].split(",") if ul.get("data-tags") else []
-        for tag in heading_tags:
-            for heading in soup.find_all(tag.strip()):
-                a = soup.new_tag("a", href="#" + heading["id"])
-                a.string = heading.string
-                li = soup.new_tag("li")
-                li.append(a)
-                ul.append(li)
+        heading_tags = ul.get("data-tags", "").split(" ")
+        uls, curr_ul = [ul], ul
+        last_heading_level, curr_li = None, None
+        for heading in soup.find_all(heading_tags):
+            level = int(heading.name[1])
+            if last_heading_level:
+                if level > last_heading_level:
+                    assert (level - last_heading_level) == 1, "Case currently not handled"
+                    curr_ul = soup.new_tag("ul")
+                    curr_li.append(curr_ul)
+                    uls.append(curr_ul)
+                elif level < last_heading_level:
+                    assert (last_heading_level - level) == 1, "Case currently not handled"
+                    uls.pop()
+                    curr_ul = uls[-1]
+            last_heading_level = level
+            curr_li = soup.new_tag("li")
+            curr_ul.append(curr_li)
+            a = soup.new_tag("a", href="#" + heading["id"])
+            a.string = heading.string
+            curr_li.append(a)
 
 
 @contextmanager

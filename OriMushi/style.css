@@ -24,6 +24,8 @@ h2 { font-size: 2.5rem; }
 h3 { font-size: 2rem; }
 p, ol, ul { margin: .5rem 0; }
 li { margin-bottom: .25rem; }
+hr { width: 5rem; margin: 2rem auto; }
+
 img {
   display: block;
   max-width: 100%;
@@ -31,8 +33,10 @@ img {
   break-inside: avoid;
 }
 img.cover { margin: 5rem auto; max-height: 30rem; }
+img.x-small { max-height: 6rem; }
 img.small { max-height: 15rem; }
 img.medium { max-height: 20rem; }
+
 table, th, td {
   border: 2px solid black;
   border-collapse: collapse;
@@ -40,9 +44,14 @@ table, th, td {
   font-size: 1.2rem;
 }
 table { margin: 0 auto; page-break-inside: avoid; }
-.borderless table { border-style: hidden; }
 th { font-weight: normal; }
+.borderless table { border-style: hidden; }
+.no-borders table, .no-borders th, .no-borders td { border: none; padding: 0 .5rem; }
+.right-align-col-1 th:first-child, .right-align-col-1 td:first-child { text-align: right; }
+.same-size-2-cols th, .same-size-2-cols td { width: 50%; }
+.same-size-3-cols th, .same-size-3-cols td { width: 33%; }
 .with-headings th { font-weight: bold; }
+
 .rules { max-width: 50rem; margin: 0 auto; }
 .float-left  { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: .5rem; }
