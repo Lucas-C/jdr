@@ -511,17 +511,20 @@ Illustrations employées :
 ::::
 
 <!-- Next:
-* rédiger section progression / expérience -> Voies ?
-* ajouter des jutsus -> concevoir des cartes
-
 * intervertir : version "étendue" -> jeu de base / version 30min => version "courte"
 * ajouter à la FP des mentions : "nom du PJ" à gauche / à droite / en face
-* formatter les règles (jets + jutsus + XPs) en une seule page A4
+* formatter les règles (jets + tables) en une seule page A4
 * Glossaire : PJ, MJ, XP...
 * SpellCheck
 * Illustrations.pdf : add images of equipments & places
-* Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
+* Mise en page :
+    - Ajouter de jolis ornements en header/footer de pages
+    - Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
 
 Idées en vrac :
 + prévoir que le système / les FPs des joueurs évoluent au fur et à mesure de la partie ?
+
+Com'
+* transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier
+* exposer une 2e page web référencée dans le livre, avec tous les liens vers les ressources PDFs du jeu
 -->

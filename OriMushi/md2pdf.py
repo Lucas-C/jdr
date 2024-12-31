@@ -12,8 +12,10 @@ from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 CSS_FILEPATH = DIR / "style.css"
 RULES_MD_FILEPATH = DIR / "OriMushi.md"
 RULES_OUT_FILEPATH = DIR / "OriMushi.pdf"
-SCENAR_MD_FILEPATH = DIR / "Scenario.md"
-SCENAR_OUT_FILEPATH = DIR / "Scenario.pdf"
+SCENAR1_MD_FILEPATH = DIR / "LesDisparusDuFestivalDuPrintemps.md"
+SCENAR1_OUT_FILEPATH = DIR / "LesDisparusDuFestivalDuPrintemps.pdf"
+SCENAR2_MD_FILEPATH = DIR / "LaSepultureDuDaimio.md"
+SCENAR2_OUT_FILEPATH = DIR / "LaSepultureDuDaimio.pdf"
 METADATA = dict(
     title="Ori Mushi",
     lang="fr",
@@ -24,8 +26,9 @@ METADATA = dict(
 
 def build_pdf():
     # Uncomment one of the lines below to only --watch/re-build a single PDF:
+    build_single_pdf(SCENAR1_MD_FILEPATH, SCENAR1_OUT_FILEPATH)
+    build_single_pdf(SCENAR2_MD_FILEPATH, SCENAR2_OUT_FILEPATH)
     build_single_pdf(RULES_MD_FILEPATH, RULES_OUT_FILEPATH)
-    build_single_pdf(SCENAR_MD_FILEPATH, SCENAR_OUT_FILEPATH)
 
 def build_single_pdf(md_filepath, out_filepath):
     start = perf_counter()
@@ -43,5 +46,5 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
-        SRC_FILES = (__file__, CSS_FILEPATH, RULES_MD_FILEPATH, SCENAR_MD_FILEPATH)
+        SRC_FILES = (__file__, CSS_FILEPATH, RULES_MD_FILEPATH, SCENAR1_MD_FILEPATH, SCENAR2_MD_FILEPATH)
         asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES))
