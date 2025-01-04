@@ -22,7 +22,7 @@ h1 {
 }
 h2 { font-size: 2.5rem; }
 h3 { font-size: 2rem; }
-.scenario-title h1 { font-size: 6rem }
+.scenario-title h1 { font-size: 5.5rem }
 
 p, ol, ul { margin: .5rem 0; }
 li { margin-bottom: .25rem; }
@@ -34,11 +34,14 @@ img {
   margin: 0 auto;
   break-inside: avoid;
 }
-img.cover  { max-height: 20rem; margin: 1rem auto; }
-img.size6  { max-height: 6rem; }
-img.size8  { max-height: 8rem; }
-img.size10 { max-height: 10rem; }
-img.size20 { max-height: 20rem; }
+img.cover      { max-height: 20rem; margin: 1rem auto; }
+img.full-width { width: 100%; }
+img.size6      { max-height: 6rem; }
+img.size8      { max-height: 8rem; }
+img.size10     { max-height: 10rem; }
+img.size16     { max-height: 16rem; }
+img.size20     { max-height: 20rem; }
+img.size25     { max-height: 25rem; }
 
 table, th, td {
   border: 2px solid black;
@@ -59,6 +62,7 @@ th { font-weight: normal; }
 .float-left  { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: .5rem; }
 .page-break { page-break-after: always; }
+.thanks { font-size: .8rem; }
 
 @media print {
   h1 { font-size: 7rem; margin: 0 auto 2rem; }

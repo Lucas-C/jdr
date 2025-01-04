@@ -1,9 +1,13 @@
-# Les disparus du festival du printemps
+::: scenario-title
+# La Sépulture du Daïmio
+:::
+
+<img class="full-width" alt="Japanese watercolor" src="cc-imgs/WarwickGoble-GreenWillow-page127-light.jpg">
 
 :::: rules
 
 ### Synopsis
-Un scénario pour _Ori Mushi_.
+Un scénario pour _Ori Mushi_, basé sur la carte [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/?show=original).
 
 ### Intro
 
@@ -18,6 +22,5 @@ Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Fo
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny).
 
 Illustrations employées :
-* [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/?show=original)
 
 ::::
