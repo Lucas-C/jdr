@@ -108,6 +108,10 @@ Un trou net dans la mousse et la poussière qui le recouvre indique qu'un objet 
 -> donne accès à l'enclave du Colosse
 
 ## Le Mushi kaléidoscope
+**Fonctionnement** : absorde petit à petit l'énergie des créatures piégées dans son labyrinthe.
+L'illusion est tactile et visuelle, mais les autres sens ne sont pas affectés.
+
+**Affecté par** : les miroirs, les boussoles...
 
 ## Les marchands
 
@@ -162,6 +166,6 @@ Illustrations employées :
 ::::
 
 <!-- Next:
-* les poissons
-* détailler le comportement des PNJs
+* les poissons ?
+* détailler le comportement des PNJs & du Mushi
 -->

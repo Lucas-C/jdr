@@ -1,7 +1,7 @@
 # Ori Mushi
 
 :::: rules
-<img class="cover" alt="A group of happy adventurers" src="cc-imgs/pixabay-fille-samourai-guerrier-japon-noBG.png">
+<img class="cover" alt="Jeune femme avec un katana devant un torii" src="cc-imgs/pixabay-fille-samourai-guerrier-japon-noBG.png">
 
 <br>
 
@@ -267,13 +267,7 @@ Quelle que soit la situation, lorsqu'un joueur effectue un jet de dé,
 pour chaque chiffre obtenu, il peut cocher la case correspondante sur sa feuille de personnage,
 dans la table de récupération de Mana :
 
-::: no-borders
-
-1 | 2 | 3 | 4 | 5 | 6
--|-
-◻️ | ◻️ | ◻️ | ◻️ | ◻️ | ◻️
-
-:::
+<img class="size6" alt="Jauge de Mana" src="character-sheets/mana-jauge.jpg">
 
 Lorsque les 6 cases sont remplies, le personnage récupère **+1 dé** de Mana et efface toutes les cases.
 Le réserve de Mana se regénère également complètement après quelques heures à méditer auprès de Mushis.
@@ -285,8 +279,12 @@ Il est aussi possible de devenir expert d'une **technique** en particulier, et d
 
 Certains objet spéciaux rares peuvent également conférer **+1 dé** au lancer pour une famille de jutsu spécifique.
 
-<br><br>
-<img alt="Kyoshi Earthbender" src="cc-imgs/kyoshi_earthbender_lineart_by_aedo_sama_cc-by-nc-sa.jpg">
+<br>
+<img class="size16 float-left" alt="Zuko" src="cc-imgs/zuko_fanart_by_codethecod_cc-by_greyscale.jpg">
+
+<img class="size16 float-right" alt="Character perfoming magic" src="cc-imgs/the_new_avatar_allegedly_by_bananascholar_cc-by_greyscale.png">
+
+<img class="size25" alt="Kyoshi Earthbender" src="cc-imgs/kyoshi_earthbender_lineart_by_aedo_sama_cc-by-nc-sa.jpg">
 
 ::: page-break
 :::
@@ -307,6 +305,7 @@ Le pendant du Oni est la sagesse, la lumière intérieure que peuvent développe
 
 La progression en Oris d'un personnage représente son gain d'expérience.
 
+<br>
 
 ### Canaliser son Oni
 Un Oni peut être canalisé pendant un bref moment pour fournir un pouvoir de concentration et une pulsion d'énergie à son porteur.
@@ -315,6 +314,9 @@ Sur sa feuille de personnage, un joueur peut cocher une case libre de sa **jauge
 S'il fait ainsi, il gagne pendant quelques minutes en bonus **à tous ses jets**
 un nombre de **dés égal à son rang d'Oni** :
 durant tout une scène, son personnage sera plongé dans une rage concentrée.
+
+::: page-break
+:::
 
 ### Devenir berserk
 Si un joueur obtient un double ⚀ durant une phase où il canalise son Oni,
@@ -335,6 +337,12 @@ Dé | Attitude
 
 :::
 
+<br>
+<img class="size20" alt="Shen Blood Moon" src="cc-imgs/league_of_legends_shen_blood_moon_by_spellshuei_cc-by.jpg">
+
+::: page-break
+:::
+
 ### Devenir un démon
 Lorsqu'un personnage atteint le rang 5 d'Oni, des traits démoniaques commencent à apparaître sur son corps.
 Lorsqu'il atteint le rang 6, encore plus de traits apparaissent.
@@ -343,7 +351,10 @@ Lancez un dé au rang 5 puis deux dés au rang 6 : ⚀: des oreilles pointues ; 
 Lorsqu'un personnage ayant un rang Oni 6 coche la dernière case de sa jauge,
 il joue sa dernière scène puis devient un démon, joué comme un PNJ par le MJ.
 
-<img class="size20" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
+<br>
+<img class="size16" alt="A Noh demon" src="cc-imgs/Noh_Demon_by_weremagnus_cc-by_greyscale.jpg">
+
+<img class="size20" alt="Kappa" src="cc-imgs/Kappa_Koopa_by_weremagnus_cc-by.jpg">
 
 ::: page-break
 :::
@@ -373,6 +384,8 @@ Ces dernières réagissent d'ailleurs souvent à la **musique**.
 On raconte de nombreuses légendes à leurs sujets.
 Certains disent en avoir vu s'affronter.
 D'autres prétendent avoir vu des Colosses cultiver des fleurs.
+
+<img class="size10 float-right" alt="Japanese watercolor" src="cc-imgs/Japan-and-the-Japanese-illustrated-page324-publicDomain.jpg">
 
 Des guerriers affirment parfois en avoir vaincu.
 La plupart se vantent par bravade.
@@ -404,8 +417,34 @@ Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin*
 ::: page-break
 :::
 
-## Blessures
+## Santé
 _Section en cours de rédaction..._
+
+<br>
+
+## Illustrations sélectionnées - non encore placées
+<img class="size10" alt="Moon and clouds" src="cc-imgs/moon-and-clouds.jpg">
+
+<br>
+<img class="size10" alt="" src="unused-cc-imgs/HUNTING-Familiar-Wolf_by_kindya-island_cc-by-nc_greyscale.jpg">
+
+<br>
+<img class="full-width" alt="" src="cc-imgs/vecteezy_japanese-style-link-art-border-frame_cc-by.jpg">
+
+<br>
+<img class="size20" alt="" src="unused-cc-imgs/Misplaced_by_willinvadesearth_cc-by_BW.jpg">
+
+<br>
+<img alt="" src="unused-cc-imgs/nature_waterfall_2_by_mholtsmeier_cc-by.jpg">
+
+<br>
+<img class="size20" alt="" src="unused-cc-imgs/haptera-de-taille-considerable-fig-751-cc0.jpg">
+
+<br>
+<img class="size20" alt="" src="unused-cc-imgs/pistils-de-glyceria-cc0.jpg">
+
+::: page-break
+:::
 
 
 ## Création des personnages
@@ -492,6 +531,9 @@ L'acquisition de compétences / objets / jutsus / techniques n'est possible que 
 * durant une ellipse temporelle entre deux lieux / scénarios
 * le PJ doit avoir **convaincu un senseï** de lui transmettre son savoir
 
+<br>
+<img class="full-width" alt="Old japanese village" src="cc-imgs/openclipart-old-japanese-village.svg">
+
 ::: page-break
 :::
 
@@ -521,35 +563,58 @@ Illustrations employées :
 - [Epic Chibi Ninja par dmr12890](https://www.deviantart.com/dmr12890/art/Epic-Chibi-Ninja-129862000) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [Kyoshi Earthbender Lineart par Aedo Sama](https://www.deviantart.com/aedo-sama/art/Kyoshi-Earthbender-Lineart-215736017) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 - [magic circle 2 par NNao](https://www.deviantart.com/nnao/art/magic-circle-2-216221240) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-- [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [Kappa koopa](https://www.deviantart.com/weremagnus/art/Kappa-koopa-53098269) & [Noh Demon par weremagnus](https://www.deviantart.com/weremagnus/art/Noh-Demon-39665536) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [HUNTING - Familiar Wolf par Kindya-Island](https://www.deviantart.com/kindya-island/art/HUNTING-Familiar-Wolf-982938883) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [Nature waterfall 2 par MHoltsmeier](https://www.deviantart.com/mholtsmeier/art/Nature-waterfall-2-963933789) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Zuko fanart par CodeTheCod](https://www.deviantart.com/codethecod/art/Zuko-fanart-902243721) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Espio the Chameleon par rosytoonz](https://www.deviantart.com/rosytoonz/art/Espio-the-Chameleon-Gijinka-688458872) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [League of Legends - Shen / Blood Moon par Spellshuei](https://www.deviantart.com/spellshuei/art/League-of-Legends-Shen-Blood-Moon-296075743) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Quick samurai sketch par hidanbasher](https://www.deviantart.com/hidanbasher/art/Quick-samurai-sketch-566443259) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Katanas par Halibutt](https://commons.wikimedia.org/wiki/File:Katanas.svg) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Pirate Map 1 par TheStockWarehouse](https://www.deviantart.com/thestockwarehouse/art/Pirate-Map-1-845443862) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [DnD Stone Elemental par Lady of Hats](https://commons.wikimedia.org/wiki/File:DnD_Stone_Elemental.png) - [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- [fille-samouraï-guerrier-japon](https://pixabay.com/fr/vectors/fille-samoura%C3%AF-guerrier-japon-8703775/) & [parapluie-écran-chinois](https://pixabay.com/fr/photos/parapluie-%C3%A9cran-chinois-chine-japon-898076/) @ pixabay.com
-- [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @ freesvg.org - domaine public
+- [Japanese Style Link Art Border Frame](https://www.vecteezy.com/png/32163325-japanese-style-link-art-border-frame-ai-generative) @vecteezy.com
+- [fille-samouraï-guerrier-japon](https://pixabay.com/fr/vectors/fille-samoura%C3%AF-guerrier-japon-8703775/) & [parapluie-écran-chinois](https://pixabay.com/fr/photos/parapluie-%C3%A9cran-chinois-chine-japon-898076/) @pixabay.com
+- [Chinese New Year Folk Ornament](https://freesvg.org/chinese-new-year-folk-ornament), [Decorative Ying Yang sign](https://freesvg.org/vector-clip-art-of-decorative-ying-yang-sign) & [Dragon frame](https://freesvg.org/dragon-frame-vector-image) @freesvg.org - domaine public
 - [Image from _"A handbook of cryptogamic botany"_ (1889)](https://www.flickr.com/photos/internetarchivebookimages/20102877173/) - domaine public
 :::
 ::::
 
 <!-- Next:
+* détailler la section narrative entre parties, et fournir des idées de situations / questions
+* définir quelques règles de comportement des Mushis : ils se nourrissent ? 
+* rédiger section Santé
+* check clefs Lady Blackbird : inspis à en tirer ?
 * intervertir : version "étendue" -> jeu de base / version 30min => version "courte"
+* convertir Activitées en "Voies" avec progression narrative en 3 étapes, clefs (Retrouver la trace /
+les reliques de XXX...) reveals (ex: lien familial avec le Poète Endeuillé), et liens avec Voies des autres PJs
+    -> Mushishi botaniste: classification Mushis à compléter par PJs ?
+
 * ajouter à la FP des mentions : "nom du PJ" à gauche / à droite / en face
 * formatter les règles (jets + tables) en une seule page A4
+  + créer un "setting primer" A4
 * Glossaire : PJ, MJ, XP...
 * SpellCheck
-* Illustrations.pdf : add images of equipments & places
+* Illustrations.pdf : add section titles + more images of equipments & places
 * Mise en page :
     - Ajouter de jolis ornements en header/footer de pages
     - Expliquer en détail le fonctionnement des cases à cocher de la FP
     - Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
 
 Gameplay:
-+ prévoir que le système / les FPs des joueurs évoluent au fur et à mesure de la partie ?
++ prévoir que le système / les FPs des joueurs évoluent au fur et à mesure des parties ?
 + une fois 5 ou 6 Colosses placés sur la carte, il est aisé d'imaginer un symbole à partir de ces points.
   Le MJ peut alors employer ce symbole dans une enigme...
 
 Com'
 * transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier
 * exposer une 2e page web référencée dans le livre, avec tous les liens vers les ressources PDFs du jeu
+
+Illustrations to buy:
+* https://www.deviantart.com/niloadoptables/art/open-Ai-Adoptable-5366-1139413431 - girl - 8$
+
+Partie du 2/01/2025 avec 3 jeunes, à la Possonière, avec Donatien :
+* Sunraku (Marwann) : Mushishi - Jutsu
+* Aether (Leyline) : Apothicaire - Jutsu
+* Sasukeden (Aïden) : Ronin - Jutsu
 -->
