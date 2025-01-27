@@ -122,6 +122,8 @@ img.bg {
   min-height: 107%; /* ~ calc(100% + 2rem) */
   z-index: -1;
 }
+figure     { margin: 0 auto; }
+figcaption { font-size: .9rem; text-align: center; }
 
 table { margin: .5rem auto; border-style: hidden; page-break-inside: avoid; }
 th { font-weight: normal; }

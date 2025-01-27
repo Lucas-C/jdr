@@ -38,7 +38,7 @@ jobs:
           wget -nv https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
           sudo apt install graphviz
 
-      - name: Generating HTML pages 🏗️
+      - name: Generating HTML pages & PDF docs 🏗️
         run: |
           GIT_TAG=${{ steps.tag.outputs.version }}
           echo GIT_TAG=$GIT_TAG
