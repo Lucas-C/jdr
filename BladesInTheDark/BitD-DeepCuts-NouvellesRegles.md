@@ -8,11 +8,13 @@ Lorsque votre personnage subit une Blessure,
 notez-la sur votre feuille de personnage en fonction de sa gravité :
 
 ### Niveaux de Blessure
+::: highlight-1st-column
 1 | **Temporaire** : un effet négatif qui disparaît naturellement avec le temps et ne nécessite aucun traitement pour récupérer. _Ensanglanté, confus, distrait, intimidé, exposé, séduit, assommé, fatigué, terrifié, affaibli._
 -|-
 2 | **Blessure durable** : blessures, affections ou déficiences sérieuses. _Tabassé, explosé, bras cassé, brûlé, commotion cérébrale, maudit, électrocuté, tailladé, poignardé, balle dans la jambe, assommé._
 3 | **Blessure grave** : blessures graves qui peuvent neutraliser un personnage ou même menacer de devenir mortelles si elles ne sont pas traitées. _Saignement, côtes cassées, blessure profonde par arme blanche, empoisonné, crâne fissuré, balle dans la poitrine._
 4 | **Blessure mortelle** : blessure mortelle ou mort instantanée, selon la situation. _Une balle dans la tête, poignardé dans le cœur, désintégré, noyé dans la mer du vide._
+:::
 
 Vous avez de la place sur votre feuille de personnage pour noter deux Blessures de niveau 2 et une de niveau 3.
 Si vous subissez une Blessure à un niveau déjà rempli, la Blessure passe au niveau de gravité supérieur.
