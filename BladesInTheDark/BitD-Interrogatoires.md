@@ -485,6 +485,7 @@ Com'
 * [x] https://lefix.di6dent.fr/archives/category/lundi-gratuit
 * [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
 * [x] https://www.reddit.com/r/jdr/comments/1esz0eh/aide_de_jeu_pour_jouer_des_interrogatoires_de/
+* [x] https://fr.scribd.com/document/820574823/Blades-in-the-Dark-Interrogatoires
 * [ ] https://black-book-editions.fr/forums.php?board_id=241
 * [ ] https://forums.ffjdr.org
 * [ ] https://www.casusno.fr ?

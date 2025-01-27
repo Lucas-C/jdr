@@ -11,8 +11,12 @@ CSS_FILEPATH = DIR / "style.css"
 DEMON_MD_FILEPATH = DIR / "BitD-DemonSheet.md"
 INT_EN_MD_FILEPATH = DIR / "BitD-Interrogation.md"
 INT_FR_MD_FILEPATH = DIR / "BitD-Interrogatoires.md"
+BdlCaL_MD_FILEPATH = DIR / "BitD-LesBasesDeLaChasseAuLeviathan.md"
+REGLES_MD_FILEPATH = DIR / "BitD-DeepCuts-NouvellesRegles.md"
 
 DEMON_METADATA = {}  # TODO before publishing
+BdlCaL_METADATA = {}  # TODO before publishing
+REGLES_METADATA = {}
 INT_FR_METADATA = {
     "title": "Blades in the Dark - Interrogatoires",
     "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "roleplay", "aide-de-jeu", "interrogatoire"),
@@ -30,6 +34,8 @@ def build_pdf():
     build_single_pdf(DEMON_MD_FILEPATH,  DEMON_METADATA,  lang="fr"); md_filepaths += DEMON_MD_FILEPATH,
     build_single_pdf(INT_FR_MD_FILEPATH, INT_FR_METADATA, lang="fr"); md_filepaths += INT_FR_MD_FILEPATH,
     build_single_pdf(INT_EN_MD_FILEPATH, INT_EN_METADATA, lang="en"); md_filepaths += INT_EN_MD_FILEPATH,
+    build_single_pdf(BdlCaL_MD_FILEPATH, BdlCaL_METADATA, lang="fr"); md_filepaths += BdlCaL_MD_FILEPATH,
+    build_single_pdf(REGLES_MD_FILEPATH, REGLES_METADATA, lang="fr"); md_filepaths += REGLES_MD_FILEPATH,
     return md_filepaths
 
 def build_single_pdf(md_filepath, metadata, lang):

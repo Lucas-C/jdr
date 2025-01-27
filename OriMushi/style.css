@@ -52,7 +52,6 @@ table, th, td {
 table { margin: 0 auto; page-break-inside: avoid; }
 th { font-weight: normal; }
 .borderless table { border-style: hidden; }
-.no-borders table, .no-borders th, .no-borders td { border: none; padding: 0 .5rem; }
 .right-align-col-1 th:first-child, .right-align-col-1 td:first-child { text-align: right; }
 .same-size-2-cols th, .same-size-2-cols td { width: 50%; }
 .same-size-3-cols th, .same-size-3-cols td { width: 33%; }

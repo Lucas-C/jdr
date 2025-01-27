@@ -1,4 +1,16 @@
 <!--
+Idée radicale pour reprendre ce projet :
+    JdR sans AUCUN jet de dé
+        difficulté des obstacles FIXE mais INCONNUE, les joueurs choisissent de tenter l'action ou non
+    choix de matériel ESSENTIEL en début de partie, car permet d'accéder à des zones
+    gestion du matériel façon DIABLO, avec inventaire rectangulaire
+    et équipements = mots de 1 à 4 cases, écrits verticalement ou horizontalement
+    ┌────────────────────────┐
+    │ Très grande hallebarde │
+    ┌─────────┌─────────────┐┘
+    │Boomerang│Lampe à huile│ 
+    └─────────└─────────────┘ 
+
 Illus ?
 - https://www.deviantart.com/fernand0fc/art/Plague-doctor-832945533?src=MC_deviation_stack
 - https://www.deviantart.com/fernand0fc/art/Adventurer-833681422?src=MC_deviation_stack

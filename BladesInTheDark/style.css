@@ -57,6 +57,8 @@ ul li::marker { content: "◆ "; white-space: pre; }
 ul ul { margin-top: .5rem; }
 ul ul li { list-style: "✚"; }
 ul ul li::marker { content: "✚ "; white-space: pre; }
+.with-squares ul { list-style: "■"; }
+.with-squares li::marker { content: "■ "; color: grey; margin-right: .5rem; }
 
 ol { list-style: none; padding-left: 0; margin-top: -.5rem; counter-reset: li; }
 ol li { margin-bottom: .333rem; position: relative; counter-increment: li; clear: both; }
@@ -111,6 +113,7 @@ img.size22 { max-width: 22rem; max-height: 22rem; }
 img.size23 { max-width: 23rem; max-height: 23rem; }
 img.size24 { max-width: 24rem; max-height: 24rem; }
 img.large  { max-width: 100%;  max-height: 25rem; }
+img.full-width { max-width: 100%; max-height: initial; }
 img.bg {
   position: fixed;
   top: -2rem; /* = negative of page.padding */
@@ -119,6 +122,16 @@ img.bg {
   min-height: 107%; /* ~ calc(100% + 2rem) */
   z-index: -1;
 }
+
+table { margin: .5rem auto; border-style: hidden; page-break-inside: avoid; }
+th { font-weight: normal; }
+th:first-child, td:first-child {
+  width: 5%;
+  background: #ccc;
+  font-weight: bold;
+  text-align: center;
+}
+th:nth-child(2), td:nth-child(2) { padding-left: .5rem; }
 
 .insert {
   max-width: 16.5rem;

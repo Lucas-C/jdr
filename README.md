@@ -2,6 +2,10 @@
 
 Sources de <https://lucas-c.github.io/jdr/>
 
+* mon site web : [chezsoi.org](https://chezsoi.org/lucas/blog/)
+* les jeux en dévelopement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html)
+* tous les JdR que j'ai conçu : [Mes jeux de rôle](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)
+
 ## Comment ça marche ?
 
 ### Génération de PDFs avec markdown-it & puppeteer
