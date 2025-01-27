@@ -13,10 +13,24 @@ INT_EN_MD_FILEPATH = DIR / "BitD-Interrogation.md"
 INT_FR_MD_FILEPATH = DIR / "BitD-Interrogatoires.md"
 BdlCaL_MD_FILEPATH = DIR / "BitD-LesBasesDeLaChasseAuLeviathan.md"
 REGLES_MD_FILEPATH = DIR / "BitD-DeepCuts-NouvellesRegles.md"
+PCsQS_MD_FILEPATH = DIR / "BitD-PCsQuickSummary.md"
 
 DEMON_METADATA = {}  # TODO before publishing
-BdlCaL_METADATA = {}  # TODO before publishing
-REGLES_METADATA = {}
+BdlCaL_METADATA = {
+    "title": "Blades in the Dark - Les bases de la chasse au Léviathan",
+    "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "Léviathan"),
+    "description": "Une description de comment se déroule la chasse au Léviathan dans l'univers de Blades in the Dark.",
+}
+REGLES_METADATA = {
+    "title": "Blades in the Dark - Nouvelles règles issues de Deep Cuts",
+    "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "règles"),
+    "description": "Traduction de 3 pages de l'excellente extension pour Blades in the Dark de John Harper, Deeps Cuts.",
+}
+PCsQS_METADATA = {
+    "title": "Blades in the Dark - PCs Quick Summary table",
+    "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "table", "characters"),
+    "description": "A simple table to keep track of the main characteristics of the Player Characters in Blades in the Dark",
+}
 INT_FR_METADATA = {
     "title": "Blades in the Dark - Interrogatoires",
     "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "roleplay", "aide-de-jeu", "interrogatoire"),
@@ -36,6 +50,7 @@ def build_pdf():
     build_single_pdf(INT_EN_MD_FILEPATH, INT_EN_METADATA, lang="en"); md_filepaths += INT_EN_MD_FILEPATH,
     build_single_pdf(BdlCaL_MD_FILEPATH, BdlCaL_METADATA, lang="fr"); md_filepaths += BdlCaL_MD_FILEPATH,
     build_single_pdf(REGLES_MD_FILEPATH, REGLES_METADATA, lang="fr"); md_filepaths += REGLES_MD_FILEPATH,
+    build_single_pdf(PCsQS_MD_FILEPATH, PCsQS_METADATA, lang="en"); md_filepaths += PCsQS_MD_FILEPATH,
     return md_filepaths
 
 def build_single_pdf(md_filepath, metadata, lang):

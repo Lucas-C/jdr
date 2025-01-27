@@ -127,13 +127,16 @@ figcaption { font-size: .9rem; text-align: center; }
 
 table { margin: .5rem auto; border-style: hidden; page-break-inside: avoid; }
 th { font-weight: normal; }
-th:first-child, td:first-child {
+.highlight-1st-column th:first-child, .highlight-1st-column td:first-child {
   width: 5%;
   background: #ccc;
   font-weight: bold;
   text-align: center;
 }
 th:nth-child(2), td:nth-child(2) { padding-left: .5rem; }
+.with-borders table { border-collapse: collapse; }
+.with-borders th, .with-borders td { border: solid 1px black; }
+.with-headings th { font-weight: bold; }
 
 .insert {
   max-width: 16.5rem;
