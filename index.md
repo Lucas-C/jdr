@@ -1,4 +1,4 @@
-Mes créations de jeux de rôle hebergées ici.
+Mes créations de jeux de rôle hebergées [sur GitHub](https://github.com/Lucas-C/jdr/).
 
 La plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
@@ -15,7 +15,7 @@ Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.
 - [Les Non-morts](https://lucas-c.itch.io/les-non-morts)
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 - [Scavengers: Anomalies nauchoresques](scavengers)
-- [Vengeance Fatale 4D](VengeanceFatale4D)
+- [Vengeance Fatale 4D](VengeanceFatale4D) - _Unfinished_
 
 - Pour [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) :
   * [Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) - Une aide de jeu pour faire jouer des interrogatoires - [(English version)](https://lucas-c.itch.io/blades-in-the-dark-interrogation)
