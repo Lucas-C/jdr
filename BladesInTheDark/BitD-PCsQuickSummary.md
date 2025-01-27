@@ -4,7 +4,7 @@
 <br>
 
 :::  with-borders with-headings
-Character &&nbsp;Player | Playbook &&nbsp;Vice | Background &&nbsp;Heritage | Traumas &&nbsp;Harm | Allies | Enemies | Notes
+Character &&nbsp;Player | Playbook &&nbsp;Vice | Background &&nbsp;Heritage | Traumas &&nbsp;Harm | Friends | Rivals | Notes
 -|-|-|-|-|-|-
 |<br><br><br><br>
 |<br><br><br><br>
