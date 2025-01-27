@@ -1008,5 +1008,5 @@ Com'
 * [x] Links in https://github.com/Lucas-C/jdr README.md & index.md
 * [x] https://www.scenariotheque.org/Document/info_doc.php?id_doc=11242
 * [x] post sur le fil Ludochaordic du Discord CestPadDuJdr
-* [wip] Partage par Yno sur https://www.misterfrankenstein.com
+* [x] https://www.misterfrankenstein.com/wordpress/?p=5701
 -->

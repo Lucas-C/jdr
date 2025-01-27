@@ -316,12 +316,17 @@ def watch_xreload_and_serve(module, root_dir, *files_to_watch):
 
 class CustomHtmlRenderer(HtmlRenderer):
     def __init__(self):
-        super().__init__(TripleCommaDiv)
+        super().__init__(TripleCommaDiv) #, DefinitionList)
+
+    def render_definition_list(self, token) -> str:
+        inner = self.render_inner(token)
+        return f'<dl class="{token.classes}">{inner}</dl>'
 
     def render_triple_comma_div(self, token) -> str:
         inner = self.render_inner(token)
         return f'<div class="{token.classes}">{inner}</div>'
 
+    # Override default implementation.
     # Does not insert align="left" attributes in table cells,
     # in order for TidyHTML not to produce: Warning: <td> attribute "align" not allowed for HTML5
     def render_table_cell(self, token, in_header=False) -> str:
@@ -336,6 +341,31 @@ class CustomHtmlRenderer(HtmlRenderer):
         attr = ' align="{}"'.format(align) if align else ''
         inner = self.render_inner(token)
         return template.format(tag=tag, attr=attr, inner=inner)
+
+
+class DefinitionList(BlockToken):
+    """
+    Simple <dl> block. (["term", ": definition"])
+
+    Inspirational specs:
+    * https://www.markdownguide.org/extended-syntax/#definition-lists
+    * https://github.com/Python-Markdown/markdown/blob/master/docs/extensions/definition_lists.md
+    * https://pandoc.org/MANUAL.html#definition-lists
+
+    I shared this implementation there: https://github.com/miyuchina/mistletoe/issues/229
+    """
+
+    @staticmethod
+    def start(line):
+        raise NotImplementedError
+
+    @classmethod
+    def read(cls, lines):
+        raise NotImplementedError
+        self.children = ...
+
+    def __init__(self, match):
+        self.children = match
 
 
 class TripleCommaDiv(BlockToken):

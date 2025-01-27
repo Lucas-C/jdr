@@ -537,6 +537,28 @@ L'acquisition de compétences / objets / jutsus / techniques n'est possible que 
 ::: page-break
 :::
 
+## Glossaire
+JdR
+: jeu de rôle
+
+MJ
+: Meneur ou Meneuse de Jeu
+
+PJ
+: Personnage d'une Joueuse ou d'un Joueur
+
+One-shot
+: courte partie de JdR isolée, sans qu'il ne soit prévu de suite
+
+Campagne
+: ensemble de parties de JdR se suivant pour former une continuité, où l'on retrouve les même personnages dans le même univers
+
+Expérience (XP)
+: à rédiger
+
+::: page-break
+:::
+
 ## Licence, sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
 
@@ -593,13 +615,24 @@ les reliques de XXX...) reveals (ex: lien familial avec le Poète Endeuillé), e
 * ajouter à la FP des mentions : "nom du PJ" à gauche / à droite / en face
 * formatter les règles (jets + tables) en une seule page A4
   + créer un "setting primer" A4
-* Glossaire : PJ, MJ, XP...
 * SpellCheck
 * Illustrations.pdf : add section titles + more images of equipments & places
-* Mise en page :
-    - Ajouter de jolis ornements en header/footer de pages
-    - Expliquer en détail le fonctionnement des cases à cocher de la FP
-    - Remplacer Odachi par typo / font plus adaptée pour dyslexiques ?
+
+Mise en page :
+- Ajouter de jolis ornements en header/footer de pages
+    Chinese landscape painting: https://github.com/LingDong-/shan-shui-inf
+    https://github.com/watabou/CompassOS
+    https://github.com/emmiegit/canji : procedural kanji generator (Python)
+    and/or https://github.com/AdrianMargel/glyphs
+    https://github.com/CiaccoDavide/Alchemy-Circles-Generator
+    or https://github.com/AdrianMargel/alchemy-circles
+    or https://game-dev-goose.itch.io/magic-circle-generator ($20)
+- Expliquer en détail le fonctionnement des cases à cocher de la FP / les étapes de la créa de PJ
+- Remplacer Odachi par typo / font plus adaptée / lisible pour dyslexiques ?
+- Ajouter des boutons dans les scénarios pour lire des morceaux de musique ?
+
+Lore :
+* nom du daïmio : Mokabe
 
 Gameplay:
 + prévoir que le système / les FPs des joueurs évoluent au fur et à mesure des parties ?
@@ -610,7 +643,7 @@ Com'
 * transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier
 * exposer une 2e page web référencée dans le livre, avec tous les liens vers les ressources PDFs du jeu
 
-Illustrations to buy:
+Illustrations not free:
 * https://www.deviantart.com/niloadoptables/art/open-Ai-Adoptable-5366-1139413431 - girl - 8$
 
 Partie du 2/01/2025 avec 3 jeunes, à la Possonière, avec Donatien :

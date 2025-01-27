@@ -485,5 +485,6 @@ Com'
 * [x] https://bladesinthedark.com/fan-creations
 * [x] https://community.bladesinthedark.com/t/module-supplement-interrogation/2902
 * [x] https://boardgamegeek.com/filepage/284309/blades-in-the-dark-interrogation
+* [x] https://fr.scribd.com/document/820575105/Blades-in-the-Dark-Interrogation
 
 -->

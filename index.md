@@ -1,9 +1,11 @@
-Mes créations de jeux de rôle hebergées ici
-(la plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
-ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
+Mes créations de jeux de rôle hebergées ici.
+
+La plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
+ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+
+Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
 - [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo
-- [BitD - Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires), une aide de jeu pour _Blades in the Dark_
 - [La Brigade du Chaos](https://lucas-c.itch.io/la-brigade-du-chaos) et son aide de jeu [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
 - [2200: Le Jugement Des Dieux](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
 - [ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.itch.io/modules-de-secours), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
@@ -15,6 +17,10 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
 - [Scavengers: Anomalies nauchoresques](scavengers)
 - [Vengeance Fatale 4D](VengeanceFatale4D)
 
+- Pour [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) :
+  * [Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires), une aide de jeu pour _Blades in the Dark_
+  * [Les bases de la chasse au Léviathan](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-LesBasesDeLaChasseAuLeviathan.pdf)
+
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
   * lien vers la traduction du jeu en français au bas de cette page
   * [10 scénarios](https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat)
@@ -22,12 +28,18 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)) :
   * scénario [Les Couloirs du Temps](https://lucas-c.itch.io/les-couloirs-du-temps)
   * scénario [Docteur Lestrange](https://lucas-c.itch.io/docteur-lestrange)
 
+<!-- [Allegoria](Allegoria) -->
+<!-- [AmnesicFantasy](AmnesicFantasy) -->
 <!-- [chimera](chimera) -->
-<!-- [Sous Terre](sous-terre) -->
-<!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
+<!-- [dedale](dedale) -->
 <!-- [EscapeGame](EscapeGame) -->
+<!-- [LadyBlackbird](LadyBlackbird) -->
+<!-- [MMM](MMM) -->
+<!-- [Pathfinder](Pathfinder) -->
+<!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
+<!-- [Sous Terre](sous-terre) -->
 
-Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 
 ### Traductions

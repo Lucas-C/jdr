@@ -3,7 +3,7 @@ Vous venez d'arriver au sommet de La Tour, l'immeuble le plus dangereux du pays,
 Vous formez une équipe d'opérations spéciales aguerrie, équipée pour l'assaut et experte en arts martiaux.
 Votre tactique : sécuriser le bâtiment pièce par pièce, étage après étage, en appréhendant tout individu hostile.
 
-_Ce jeu de rôle vous propose de jouer une partie dans la veine des films d'arts martiaux indonésiens comme The Raid_
+_Ce jeu de rôle vous propose de jouer une partie dans la veine des films d'arts martiaux indonésiens comme [The Raid](https://en.wikipedia.org/wiki/The_Raid_%282011_film%29)_
 ::::: grid
 :::: grid-item
 d6 | POURQUOI ÊTES-VOUS ICI ?

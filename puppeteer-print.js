@@ -8,7 +8,11 @@ const DEFAULT_MARGIN = 25;
     const url = `file://${path.resolve(process.argv[2])}`
     const outFilePath = process.argv[3]
     console.log(`${url} -> ${outFilePath}`)
-    const browser = await puppeteer.launch({ headless: true })
+    const browser = await puppeteer.launch({
+        // Unsafe but else fails in Github Actions pipeline:
+        args: ['--no-sandbox', '--disable-setuid-sandbox'],
+        headless: true
+    })
     try {
         const page = await browser.newPage()
         await page.goto(url, { waitUntil: 'networkidle2' })

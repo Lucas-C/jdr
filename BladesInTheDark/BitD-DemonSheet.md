@@ -44,7 +44,7 @@ ________________________________________
 * **un pacte**, un contrat écrit, détermine toujours les conditions selon lesquelles un démon se met au service d'un humain
 * un démon est généralement plus fort et rapide qu'un humain
 * un démon n'a pas d'écho dans le _Ghost Field_
-* lorsqu'un démon meurt physique, il est ramené... ailleurs. "Dans son plan".
+* lorsqu'un démon meurt physiquement, il est ramené... ailleurs. "Dans son plan".
 * un démon peut se téléporter d'un lieu lié à son affinité à un autre
 * de même, un démon peut voir à distance, sa perception portant à travers les matières liées à son affinité
 ::::
