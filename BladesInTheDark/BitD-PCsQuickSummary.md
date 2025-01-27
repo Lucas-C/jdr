@@ -3,8 +3,8 @@
 
 ## PCs - Quick Summary
 :::  with-borders with-headings
-Character | Player | Playbook | Heritage & background | Vice | Allies | Enemies | Harm | Traumas
--|-|-|-|-|-|-|-|-
+Character &&nbsp;Player | Playbook &&nbsp;Vice | Background &&nbsp;Heritage | Traumas &&nbsp;Harm | Allies | Enemies | Notes
+-|-|-|-|-|-|-
 |<br><br><br><br>
 |<br><br><br><br>
 |<br><br><br><br>
