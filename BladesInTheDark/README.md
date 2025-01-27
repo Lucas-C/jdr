@@ -1,4 +1,7 @@
-[BitD - Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires)
+* [BitD - Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) - Une aide de jeu pour faire jouer des interrogatoires - [(English version)](https://lucas-c.itch.io/blades-in-the-dark-interrogation)
+* [Les bases de la chasse au Léviathan](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-LesBasesDeLaChasseAuLeviathan.pdf) - Traduction d'un aide de jeu en 2 pages
+* [Deep Cuts - Nouvelles règles](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-DeepCuts-NouvellesRegles.pdf) - Traduction de 3 pages de l'excellente extension de John Harper, [Deeps Cuts @itch.io](https://johnharper.itch.io/deep-cuts)
+* [Campagne de JdR Blades In The Dark @chezsoi.org](https://chezsoi.org/lucas/blog/pages/jdr-blades-in-the-dark.html)
 
 # How to build PDFs
 

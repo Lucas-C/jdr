@@ -5,21 +5,23 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
 Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
-- [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo
-- [La Brigade du Chaos](https://lucas-c.itch.io/la-brigade-du-chaos) et son aide de jeu [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
+- [Ori Mushi](OriMushi) & [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
+- [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour SOMBRE Zéro de Johan Scipion
+- [La Brigade du Chaos](https://lucas-c.itch.io/la-brigade-du-chaos) - Traduction d'un excellent jeu de Grant Howitt, et son aide de jeu maison : [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
 - [2200: Le Jugement Des Dieux](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
 - [ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.itch.io/modules-de-secours), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
 - [La Tour](latour)
 - [Amères Victoires & Glorieuses Défaites](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites)
 - [Les Non-morts](https://lucas-c.itch.io/les-non-morts)
-- [Ori Mushi](OriMushi) & [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf)
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
 - [Scavengers: Anomalies nauchoresques](scavengers)
 - [Vengeance Fatale 4D](VengeanceFatale4D)
 
 - Pour [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) :
-  * [Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires), une aide de jeu pour _Blades in the Dark_
-  * [Les bases de la chasse au Léviathan](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-LesBasesDeLaChasseAuLeviathan.pdf)
+  * [Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) - Une aide de jeu pour faire jouer des interrogatoires - [(English version)](https://lucas-c.itch.io/blades-in-the-dark-interrogation)
+  * [Les bases de la chasse au Léviathan](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-LesBasesDeLaChasseAuLeviathan.pdf) - Traduction d'un aide de jeu en 2 pages
+  * [Deep Cuts - Nouvelles règles](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-DeepCuts-NouvellesRegles.pdf) - Traduction de 3 pages de l'excellente extension de John Harper, [Deeps Cuts @itch.io](https://johnharper.itch.io/deep-cuts)
+  * [Campagne de JdR Blades In The Dark @chezsoi.org](https://chezsoi.org/lucas/blog/pages/jdr-blades-in-the-dark.html)
 
 - Pour [_Run. Die. Repeat._](https://labrysgames.itch.io/run-die-repeat) :
   * lien vers la traduction du jeu en français au bas de cette page
