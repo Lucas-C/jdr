@@ -27,7 +27,7 @@ Et pourtant, malgré tous les dangers et les horreurs, les flottes de chasse ne 
 <br><br><br>
 
 <figure>
-  <img src="LeviathanHuntingShip-noText.jpg" class="full-width">
+  <img src="img/LeviathanHuntingShip-noText.jpg" class="full-width">
   <figcaption><a href="https://bitd.gplusarchive.online/2016/10/13/group-was-off-this-week-so-by-request-heres-my-stab-at-the-leviathan/">Illustration de Galen Pejeau</a></figcaption>
 </figure>
 

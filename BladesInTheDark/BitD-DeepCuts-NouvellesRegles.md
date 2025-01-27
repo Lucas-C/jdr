@@ -1,4 +1,4 @@
-<img src="BitD-DeepCuts-TitleNoBg-Black.png" alt="Blades in the Dark - Deep Cuts" class="size23">
+<img src="img/BitD-DeepCuts-TitleNoBg-Black.png" alt="Blades in the Dark - Deep Cuts" class="size23">
 
 # Nouvelles règles
 <br>
@@ -101,7 +101,7 @@ Le traumatisme de chaque personnage est personnel, et le chemin vers la guériso
 
 <br><br>
 <figure>
-  <img src="wesnoth-oracle1-cc-by-sa-greyscale.webp" alt="Blind character" class="size19">
+  <img src="img/wesnoth-oracle1-cc-by-sa-greyscale.webp" alt="Blind character" class="size19">
   <figcaption>
     <a href="https://wiki.wesnoth.org/Wesnoth:Copyrights#The_Battle_for_Wesnoth_-_Visual_and_Audio_Contributions">Oracle - Battle of Wesnoth</a> - <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
   </figcaption>
