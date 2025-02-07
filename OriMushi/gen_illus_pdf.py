@@ -31,6 +31,7 @@ pdf.add_page()
 add_image("espio_the_chameleon_gijinka_cc-by.png")
 add_image("jet_the_hawk_gijinka_by_rosytoonz_cc-by.png")
 add_image("zuko_fanart_by_codethecod_cc-by.jpg")
+add_image("liadlaw_illustration_by_phantomrhey_cc-by.jpg")
 
 pdf.add_page()
 add_image("Ashitaka_Princess_Mononoke_by_amazingsphelon_cc-by-sa.png")
@@ -128,6 +129,7 @@ Origine des illustrations :
 - [Dark Mana Breather par Santiago Iborra (wtactics)](https://github.com/wtactics/art) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [FrostWitch par TenPenBen](https://www.deviantart.com/tenpenben/art/FrostWitch-1131319575) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Armored & Manimal 3 par Jeff Preston](http://team-preston.com) issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Liadlaw Illustration by PhantomRhey](https://www.deviantart.com/phantomrhey/art/Liadlaw-Illustration-978581143) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Elf Druide Fantaisie](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/), [Kitty Anime Poilu Bleu](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/)
 & [Shuriken Throwing Ninja Star](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/) @ pixabay.com
 - [Ombrelle @ pxhere.com](https://pxhere.com/en/photo/700898) - CC0

@@ -5,11 +5,13 @@
 
 <br>
 
-Un jeu de rôle minimaliste inspiré du [scénario de Kalwrynn pour initier au jeu de rôle intitulé "Mener en 30min"](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html), où l'on joue dans un univers de _fantasy_ inspiré du japon médiéval.
+Un jeu de rôle dans un univers de _fantasy_ inspiré du japon médiéval,
+où les joueurs incarnent des komusō, des voyageurs ayant fait vœu d'aider la population,
+et où des créatures nommées _Mushis_ ont donné naissance à la magie.
 
 <br>
 
-**Inspirations**: Avatar le maître de l'air, Naruto, Princesse Mononoke, le Voyage de Chihiro, Zelda, Shadow of the Colossus, Kung Fu Panda, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
+**Inspirations**: Avatar le maître de l'air, Naruto, Princesse Mononoke, le Voyage de Chihiro, Zelda, Shadow of the Colossus, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
 
 <br>
 
@@ -443,6 +445,12 @@ _Section en cours de rédaction..._
 <br>
 <img class="size20" alt="" src="unused-cc-imgs/pistils-de-glyceria-cc0.jpg">
 
+<br>
+<img class="size10" alt="" src="cc-imgs/Gold-Demon-by-marikbentusi-cc-by-nc-cropped-greyscale.png">
+
+<br>
+<img class="size20" alt="" src="cc-imgs/Black-n-Gold-Stuff-by-marikbentusi-cc-by-nc-cropped-greyscale.png">
+
 ::: page-break
 :::
 
@@ -603,16 +611,16 @@ Illustrations employées :
 ::::
 
 <!-- Next:
+* intervertir : version "étendue" -> jeu de base / version 30min => version "courte"
+  minimaliste inspirée du [scénario de Kalwrynn pour initier au jeu de rôle intitulé "Mener en 30min"](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html)
 * détailler la section narrative entre parties, et fournir des idées de situations / questions
 * définir quelques règles de comportement des Mushis : ils se nourrissent ? 
 * rédiger section Santé
 * check clefs Lady Blackbird : inspis à en tirer ?
-* intervertir : version "étendue" -> jeu de base / version 30min => version "courte"
 * convertir Activitées en "Voies" avec progression narrative en 3 étapes, clefs (Retrouver la trace /
 les reliques de XXX...) reveals (ex: lien familial avec le Poète Endeuillé), et liens avec Voies des autres PJs
     -> Mushishi botaniste: classification Mushis à compléter par PJs ?
 
-* ajouter à la FP des mentions : "nom du PJ" à gauche / à droite / en face
 * formatter les règles (jets + tables) en une seule page A4
   + créer un "setting primer" A4
 * SpellCheck
