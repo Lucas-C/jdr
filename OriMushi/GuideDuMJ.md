@@ -23,6 +23,11 @@ Ce guide se concentrera néamoins sur l'expérience de jeu principalement imagin
 
 ### Courte campagne
 
+### Ne pas toujours jouer avec les même joueurs 
+Comment faire, etc.
+
+### Conseils pour la "session zéro"
+* efforcez-vous d'employer les noms des PJs
 
 ## Concevoir des scénarios
 * Notez des **mot-clefs d'ambiance** pour chaque lieu

@@ -42,11 +42,19 @@ logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
 
 def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None):
-    start = perf_counter()
     with open(md_filepath, encoding="utf8") as md_file:
-        md_content = md_file.read()
+        return md2pdf(md_file.read())
+
+def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None):
+    html = md2html(md_content)
+    return html2pdf(dir, html, css_filepath, lang, metadata)
+
+def md2html(md_content):
     md_content = handle_ponctuation_whitespaces(md_content)
-    html = markdown(md_content, renderer=CustomHtmlRenderer)
+    return markdown(md_content, renderer=CustomHtmlRenderer)
+    
+def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None):
+    start = perf_counter()
     html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
     link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
@@ -272,6 +280,14 @@ def add_pdf_annotations(pdf_filepath, annotations, viewer_prefs=None, font="Helv
             pdf.free_text_annotation(**annot)
         for annot in page_annotations.get("ink_annotations", ()):
             pdf.ink_annotation(**annot)
+
+
+def add_outline_items(pdf_filepath, outline_items, color=None, italic=False, bold=False):
+    writer = PdfWriter()
+    writer.append(PdfReader(pdf_filepath))
+    for title in outline_items:
+        writer.add_outline_item(title, page_number=None, color=color, italic=italic, bold=bold)
+    writer.write(pdf_filepath)
 
 
 async def start_watch_and_rebuild(module, *files_to_watch):

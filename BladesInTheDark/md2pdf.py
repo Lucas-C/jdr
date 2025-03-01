@@ -2,11 +2,13 @@
 # USAGE: ./md2pdf.py [file.md]
 import asyncio, logging, sys
 from pathlib import Path
+from shutil import copyfile
 from time import perf_counter
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
+copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "img" / "cc-by-nc-sa.png"))
 
 SRC_FILES = (
     __file__,

@@ -1,11 +1,17 @@
 __pycache__/
 node_modules/
 package-lock.json
+
 *.pdf
 *.mp4
 *.webm
+
+*/cc-by-nc-sa.png
+*/*/cc-by-nc-sa.png
+
 index.html
 md2html.js
+
 /*.html
 /2200_le_jugement_des_dieux/*.html
 /DungeonHeartHeroesAndSpells/*.html

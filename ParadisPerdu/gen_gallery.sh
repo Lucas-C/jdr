@@ -13,7 +13,7 @@ fi
 
 mkdir -p gallery/ gallery/persos/
 cp img/* gallery/persos/
-rm gallery/persos/cc-by-nc-sa.png
+rm -f gallery/persos/cc-by-nc-sa.png
 mv -t gallery/ gallery/persos/AscensionTract.jpg gallery/persos/SpaceStation* gallery/persos/TheExpanse-Donnager-by-7-X-cc-by.webp
 # Import des images depuis les galeries Pinterest :
 for dir in acte-1 acte-2 acte-3 persos; do
