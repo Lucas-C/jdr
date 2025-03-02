@@ -43,7 +43,7 @@ logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
 def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None):
     with open(md_filepath, encoding="utf8") as md_file:
-        return md2pdf(md_file.read())
+        return md2pdf(dir, md_file.read(), css_filepath, lang, metadata)
 
 def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None):
     html = md2html(md_content)

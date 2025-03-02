@@ -191,7 +191,7 @@ Il existe une grande variété de familles :
 {{ rand_img() }}
 
 <br><br><br>
-<img class="size16" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
+<img class="size16" alt="" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
 
 ::: page-break
 :::
@@ -250,7 +250,7 @@ un joueur sauvant une vie en danger ou épargnant un adversaire meutrier gagne *
 ## Boucle de jeu
 Dans Ori Mushi, le jeu alterne entre trois phases :
 
-![](layout/GameLoop.jpg)
+![Game loop](layout/GameLoop.jpg)
 
 ## Jeu libre
 Durant cette phase de jeu, chaque joueur incarne son komusō,
@@ -279,7 +279,7 @@ en commençant par le dernier a avoir agit durant la précédente phase de Jeu l
 Il place ensuite le dé obtenu dans l'une des tables suivantes.
 Et ainsi de suite jusqu'à ce qu'un dé soit placé sur chaque table.
 
-<p class="page-break"></p><p>
+<p class="page-break"></p>
 
 :::: side-by-side
 ::: borderless with-headings text-small width-50pc
@@ -351,7 +351,8 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 
 :::: side-by-side narrow
 ::: text-small width-50pc
-#### Colosses
+**Colosses**
+
 1. Parfois, on peut observer des Colosses immobiles, produisant une **étrange mélodie**. Qu'est-ce qui rend cette musique si particulière ?
 1. Durant leur errance sans fin, les Colosses **évitent soigneusement des zones** en particulier, lesquelles ?
 1. Le plus grand des Colosses a été baptisé **Bilgamesh**. Pendant longtemps, une épreuve de courage fut de l'escalader. Quel objet emblématique a ainsi été planté **à son sommet** ?
@@ -360,7 +361,8 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 1. Un Colosse s'est effondré sur une ville, causant des centaines de morts. Que s'est-il passé ?
 :::
 ::: text-small width-50pc
-#### Mushis
+**Mushis**
+
 1. Les _nerumushis_ se nourrisent de sommeil. Comment libérer une personne prisonnière d'un _nerumushi_
 1. 
 1. 
@@ -372,7 +374,8 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 
 :::: side-by-side narrow
 ::: text-small width-50pc
-#### Onis
+**Onis**
+
 1.
 1.
 1.
@@ -381,7 +384,8 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 1.
 :::
 ::: text-small width-50pc
-#### Le peuple oublié
+**Le peuple oublié**
+
 1.
 1.
 1.
@@ -393,7 +397,8 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 
 :::: side-by-side narrow
 ::: text-small width-50pc
-#### Magie & merveilles
+**Magie & merveilles**
+
 1. Comment la Cité aux Mille Pages a brûlé ?
 1.
 1. 
@@ -402,7 +407,8 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 1.
 :::
 ::: text-small width-50pc
-#### Komusō & personages antiques
+**Komusō & personages antiques**
+
 1.
 1. Vitruve
 1. Enkidu
@@ -488,6 +494,8 @@ Il s'agit d'une courte séquence axée sur le _roleplay_, où les joueurs sont e
 * discuter de **leur mission** : est-ce qu'il l'accomplissent correctement ? Est-ce qu'ils l'envisagent tous de la même manière ?
 * évoquer les **rêves et ambitions** de chacun
 * émettre des hypothèses sur les **grands mystères** des terres connues : Colosses, mushis, légendes...
+
+Durant cette, le MJ peut participer durant les "blancs" de la discussion pour décrire l'environnement autour des komusō.
 
 ::: page-break
 :::
@@ -851,7 +859,7 @@ _Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/), i
 Ce jeu est diffusé à prix libre.
 Si vous souhaitez me soutenir, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io).
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/OriMushi).
-Cette version est la v0.3.
+Cette version est la v0.4.
 
 Je serais ravi d'avoir vos retours si vous jouez à ce jeu !
 Racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io) ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).

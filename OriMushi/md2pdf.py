@@ -27,10 +27,6 @@ METADATA = {
         "keywords": ("jdr", "ttrpg", "japon", "fantasy", "naruto", "ghibli", "okami", "avatar"),
         "description": "Un jeu de rôle minimaliste inspiré où l'on joue dans un univers de fantasy inspiré du japon médiéval.",
         "extra_outline": [
-            "ᚾᚿᛀᛁᛂᛃᛄᛅᛆᛇᛈᛉᛊᛋᛌᛍᛎᛏᛐᛑᛒᛓᛔᛕᛖᛚᛛᛜᛝ",
-            "ᚧᚨᚩᚪᚫᚬᚭᚮᚯᚰᚱᚲᚳᚴᚵᚶᚷᚸᚹᚺ",
-            "ᚻᚼᚽᛗᛘᛙᛞᛟᛠᛡᛢᛣᛤᛥᛦᛧᛨᛩᛪ᛫᛬᛭ᛮᛯᛰ",  # Runic - https://www.dcode.fr/vieux-futhark
-            "᚛ᚐᚁᚉᚇᚓᚃᚌᚆᚔᚔᚉᚂᚋᚅᚑᚚᚊᚏᚄᚈᚒᚃᚃᚙᚍᚎ᚜",  # Ogham - https://www.dcode.fr/alphabet-ogham
             "ⰀⰁⰂⰃⰄⰅⰆⰇⰈⰉⰊⰋⰌⰍⰎⰏⰐⰑⰒⰓⰔⰕⰖⰗⰘⰙⰚⰛⰜⰝⰞⰟⰠⰡⰢⰣⰤⰥⰦⰧⰨⰩⰪⰫⰮ",  # Glagolitic
         ],
     },
@@ -63,7 +59,7 @@ def build_single_pdf(md_filepath, metadata, lang, extra_outline):
 
 def tmpl_subst(md_content):
     # No need for jinja2 for now:
-    return md_content.replace("{{ rand_img() }}", f'<img class="size20" src="cc-imgs/freepik-hand-drawn-asian-style-tattoo-illustration-0{randint(1, 6)}.jpg">')
+    return md_content.replace("{{ rand_img() }}", f'<img class="size20" alt="" src="cc-imgs/freepik-hand-drawn-asian-style-tattoo-illustration-0{randint(1, 6)}.jpg">')
 
 
 # This conditional ensure that the code below

@@ -134,7 +134,8 @@ avant d'entrer dans le temple, sous peine de rester piégés !
 Elle leur suggére de se munir de la boussole qu'elle a laissé dans un coffret sur son étal.
 
 ## Le réveil du Colosse
-Si jamais les PJs n'envisagent pas de placer la clef du Colosse dans la serrure du bassin sous le temple,
+Si jamais les PJs n'envisagent pas de placer la clef du Colosse
+dans la serrure du bassin sous le temple,
 ce rôle reviend à **Mae**, qui a repéré la serrure.
 Lorsque l'affaire de la clef de l'autel volée sera rêvélée,
 elle fera le lien et proposera aux PJs d'essayer la clef dans cette serrure.
@@ -145,6 +146,8 @@ La marelle du bassin sort du sol et s'avère être la tête de pierre d'un Colos
 
 Voici un extrait vidéo pour donner une idée de la scène à vos joueurs :
 [_Shadow of the Colossus_ - Réveil du 3e Colosse](https://youtu.be/U8rn9BZXaKY?t=1438).
+La bande son ce ce jeu vidéo, _Shadow of the Colossus_,
+est également tout à fait appropriée pour accompagner cette scène.
 
 Le Colosse se dresse alors au-dessus de la forêt.
 Il semble un peu désorienté.
