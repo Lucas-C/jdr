@@ -30,8 +30,26 @@ Comment faire, etc.
 * efforcez-vous d'employer les noms des PJs
 
 ## Concevoir des scénarios
+* Prévoyez-les plutôt **courts**, 2h à 3h de jeu maximum, quitte à les découper en plusieurs parties
 * Notez des **mot-clefs d'ambiance** pour chaque lieu
 
 Détaillez 
 
 ### Créer de l'adversité sans combats
+
+
+### Jouer à Ori Mushi dans un autre univers
+Peut-être aimeriez jouer dans votre univers favori ?
+
+## Secrets de l'univers
+Cette section détaille tous les secrets de l'univers d'Ori Mushi.
+En tant que MJ, vous êtes invité à faire découvrir à vos joueurs tous ces secrets,
+et si possible la majorité d'entre eux avant la fin de votre campagne !
+
+Bien sûr, vous êtes tout à fait libre de choisir d'autres réponses
+aux nombreux mystères du monde d'Ori Mushi.
+En particulier si vous établissez avec vos joueurs d'autres éléments narratifs
+durant le **Mythos**.
+
+### Les Colosses
+* ils sont tous alimentés par une **sphère de Vitruve**

@@ -46,15 +46,12 @@ def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None):
         return md2pdf(dir, md_file.read(), css_filepath, lang, metadata)
 
 def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None):
-    html = md2html(md_content)
+    html = md2html(dir, md_content, css_filepath, lang, metadata)
     return html2pdf(dir, html, css_filepath, lang, metadata)
 
-def md2html(md_content):
+def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
     md_content = handle_ponctuation_whitespaces(md_content)
-    return markdown(md_content, renderer=CustomHtmlRenderer)
-    
-def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None):
-    start = perf_counter()
+    html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
     link_tag = f'<link rel="stylesheet" href="{css_filepath.name}">' if css_filepath else ''
@@ -70,6 +67,10 @@ def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None):
 </html>"""
     with open(dir / "index.html", "w", encoding="utf8") as html_file:
         html_file.write(html_doc)
+    return html
+
+def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None):
+    start = perf_counter()
     font_config = FontConfiguration()
     css = CSS(filename=css_filepath, font_config=font_config)
     bytes_io = io.BytesIO()
