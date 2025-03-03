@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import asyncio, sys
+import asyncio, logging, sys
 from pathlib import Path
 from time import perf_counter
 
@@ -7,15 +7,15 @@ DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_pdf_annotations, add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild
 
-CSS_FILEPATH = DIR / "style.css"
-
-FR_MD_FILEPATH = DIR / "README.md"
-FR_OUT_FILEPATH = DIR / "PsiRun-Implacables.pdf"
-FR_METADATA = dict(
-    title="Psi*Run - Implacables",
-    keywords=("jeu-de-rôle", "jdr", "psi*run", "The-Boys"),
-    description="Setting pour Psi*Run inspiré de The Boys",
+SRC_FILES = (
+    __file__,
+    CSS_FILEPATH := DIR / "style.css",
+    # Uncomment one of those lines if you only want to --watch/re-build a single PDF :
+    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/PsiRun/Implacables/
+    EN_MD_FILEPATH := DIR / "TheRestless.md",
+    FR_MD_FILEPATH := DIR / "README.md",
 )
+
 # A propos des annotations :
 # * pour ce jeu, elles représentent les réflexions de Mad Jack, défunt
 # * elles ne seront pas imprimées, et ne doivent donc pas contenir d'informations essentielles
@@ -70,14 +70,6 @@ FR_ANNOTATIONS = {
     },
 }
 
-EN_MD_FILEPATH = DIR / "TheRestless.md"
-EN_OUT_FILEPATH = DIR / "PsiRun-TheRestless.pdf"
-EN_METADATA = dict(
-    title="Psi*Run - The Restless",
-    keywords=("tabletop-roleplaying-game", "ttrpg", "psi*run", "The-Boys"),
-    description="Setting for Psi*Run inspired by The Boys",
-)
-
 EN_ANNOTATIONS = {
     0: (
         "Ah that's not true... I blew my box, really?",
@@ -109,10 +101,35 @@ for page, fr_annot_dict in FR_ANNOTATIONS.items():
         en_annots["free_text_annotations"] = tuple(dict(annot) for annot in fr_annot_dict["free_text_annotations"])
 
 
+METADATA = {
+    FR_MD_FILEPATH: {
+        "title": "Psi*Run - Implacables",
+        "lang": "fr",
+        "out_filename": "PsiRun-Implacables.pdf",
+        "annotations": FR_ANNOTATIONS,
+        "keywords": ("jeu-de-rôle", "jdr", "psi*run", "The-Boys"),
+        "description": "Setting pour Psi*Run inspiré de The Boys",
+    },
+    EN_MD_FILEPATH: {
+        "title": "Psi*Run - The Restless",
+        "lang": "en",
+        "out_filename": "PsiRun-TheRestless.pdf",
+        "annotations": EN_ANNOTATIONS,
+        "keywords": ("tabletop-roleplaying-game", "ttrpg", "psi*run", "The-Boys"),
+        "description": "Setting for Psi*Run inspired by The Boys",
+    },
+}
+
+
 def build_pdf():
-    # Uncomment one of the lines below to only --watch/re-build a single PDF:
-    build_single_pdf(EN_MD_FILEPATH, EN_OUT_FILEPATH, EN_ANNOTATIONS, EN_METADATA, lang="en")
-    build_single_pdf(FR_MD_FILEPATH, FR_OUT_FILEPATH, FR_ANNOTATIONS, FR_METADATA, lang="fr")
+    target_md_file = (DIR / sys.argv[1]) if len(sys.argv) > 1 and sys.argv[1].endswith(".md") else None
+    for md_src_file in SRC_FILES[2:]:
+        metadata = METADATA[md_src_file]
+        lang = metadata.pop("lang")
+        out_filepath = DIR / metadata.pop("out_filename")
+        annotations = metadata.pop("annotations")
+        if target_md_file is None or target_md_file == md_src_file:
+            build_single_pdf(md_src_file, out_filepath, annotations, metadata, lang)
 
 def build_single_pdf(md_filepath, out_filepath, annotations, metadata, lang):
     start = perf_counter()
@@ -126,7 +143,6 @@ def build_single_pdf(md_filepath, out_filepath, annotations, metadata, lang):
 # This conditional ensure that the code below
 # does not get executed when calling xreload on this module:
 if not __annotations__.get("XRELOADED"):
-    SRC_FILES = (__file__, CSS_FILEPATH, EN_MD_FILEPATH, FR_MD_FILEPATH)
     build_pdf()
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:

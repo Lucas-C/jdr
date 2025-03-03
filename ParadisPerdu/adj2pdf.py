@@ -3,11 +3,13 @@ import asyncio, logging, sys
 from math import cos, pi, sin, sqrt
 from pathlib import Path
 from random import random
+from shutil import copyfile
 from time import perf_counter
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild
+copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "img" / "cc-by-nc-sa.png"))
 
 MD_FILEPATH = DIR / "ModulesDeSecours.md"
 CSS_FILEPATH = DIR / "style.css"

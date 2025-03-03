@@ -31,9 +31,9 @@ Tandis que les joueuses inventent leurs personnages,
 essayez de répondre à ces questions,
 en répartissant les réponses entre les Fugitifs :
 
+* quel Fugitif était à la tête de **Vault Tech** ?
 * qui était **MegaScout**, héro de la ville, à la morale intégriste ?
 * qui était **CyberDog**, le mystérieux justicier, tendance fasciste ?
-* qui est à la tête de **Vault Tech** ?
 * qui apparaît sur des **photos compromettantes** ? Que faisait-il ?
 * qui a conservé une trace de son **apparence super-héroïque** ?
 
