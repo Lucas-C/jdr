@@ -7,14 +7,13 @@ from time import perf_counter
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import add_outline_items, md2pdf, set_metadata, start_watch_and_rebuild
+from pdf_utils import add_outline_items, md2html, md2pdf, set_metadata, start_watch_and_rebuild
 copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "layout" / "cc-by-nc-sa.png"))
 
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
     # Uncomment one of those lines if you only want to --watch/re-build a single PDF :
-    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/OriMushi/
     SCENAR1_MD_FILEPATH := DIR / "scenarios" / "LesDisparusDuFestivalDuPrintemps.md",
     SCENAR2_MD_FILEPATH := DIR / "scenarios" / "LaSepultureDuDaimio.md",
     RULES_MD_FILEPATH := DIR / "OriMushi.md",
@@ -43,6 +42,11 @@ def build_pdf():
         extra_outline = metadata.pop("extra_outline", None)
         if target_md_file is None or target_md_file == md_src_file:
             build_single_pdf(md_src_file, metadata, lang, extra_outline)
+            if md_src_file.name == "OriMushi.md":
+                (DIR / "index.html").rename("OriMushi.html")
+    # This will be rendered at https://lucas-c.github.io/jdr/OriMushi/
+    with open(DIR / "index.md", encoding="utf8") as md_file:
+        md2html(DIR, md_file.read(), CSS_FILEPATH, lang="fr")
 
 def build_single_pdf(md_filepath, metadata, lang, extra_outline):
     start = perf_counter()

@@ -6,10 +6,10 @@
 <br>
 
 Un jeu de rôle dans un univers de _fantasy_ inspiré du japon médiéval,
-où les joueurs incarnent des komusō, des voyageurs ayant fait vœu d'aider la population,
+où les joueurs incarnent des komusō, ayant fait vœu d'aider la population,
 et où des créatures nommées _mushis_ ont donné naissance à la magie.
 
-**Inspirations**: Avatar le maître de l'air, Naruto, Princesse Mononoke, le Voyage de Chihiro, Zelda, Shadow of the Colossus, Okami, Ori & the blind forest, Mushishi, Usagi Yojimbo...
+**Inspirations**: Mushishi, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoke, le Voyage de Chihiro, Zelda, Ori & the Blind Forest, Okami...
 
 ::: web-only
 - Version PDF de ces règles: [OriMushi.pdf _(19 pages, 4,4 Mo)_](OriMushi.pdf)
@@ -33,14 +33,15 @@ et où des créatures nommées _mushis_ ont donné naissance à la magie.
 :::
 
 ## Les terres connues
-Le monde d'Ori Mushi est une forme de **Japon médiéval avec de nombreux éléments fantastiques** :
+Le monde d'Ori Mushi est une forme de **Japon médiéval avec des éléments fantastiques** :
 * la **magie** existe, et est enseignée à travers de nombreuses écoles de **jutsu**.
 L'énergie magique provient de la parole et du **Mana**, parfois nommé chakra ou chi, provenant des **mushis**, des créatures élémentaires invisibles...
 * tout individu possède un potentiel maveillant enfoui, un **Oni**, qui peut s'éveiller, le dévorer et le transformer en **démon**.
 * les **komusō** sont un ordre respecté dans toutes les terres connues.
-<!--
-Ils possèdent une forte **indépendance**, mais vous pouvez les rattacher à une organisation de votre choix : gouvernement, religion, force militaire...
--->
+
+Les terres connues comportent encore de nombreuses traces des **Temps Antiques**,
+une ère dont les légendes sont encore très présentes dans les esprits,
+inspirée des mythes greco-romains et égyptiens.
 
 ### Géographie
 Les terres connues ne sont volontairement **pas** décrites en détails afin de :
@@ -83,9 +84,7 @@ Ces dernières années :
 
 ## Mushis
 Un **mushi** est un organisme vivant primitif et **invisible** aux yeux des humains.
-Il en existe de différentes sortes, mais ils sont essentiels au bon fonctionnement des **écosystèmes** :
-ils sont pour **les êtres vivants** tantôt un source d'**énergie** et de **nutriments**,
-tantôt un **lien essentiel entre eux**.
+Il en existe de différentes espèces, et ils tissent des liens essentiels avec les êtres vivants, de manière symbiotique : tantôt sources de nourriture, tantôt protecteurs de plantes et d'animaux.
 
 Les mushis se comportent comme des micro-organismes, et ne semblent pas doués de conscience.
 Bien qu'invisibles, ils peuvent être semblables à des colonies de fourmis, reliant des plantes dans une forêt, ou à des champignons tapissant une ruine.
@@ -143,18 +142,17 @@ La progression en Oris d'un personnage représente son gain d'expérience.
 :::
 
 ## Colosses
-Également nommés **dogū**, ces gigantesques et mystérieux golems de pierre parsèment les terres connues.
-Certains sont endormis, d'autres errent, répétant des gestes ou des trajets dont le rôle et le sens s'est perdu à travers les âges...
+Également nommés **dogū**, ce sont de gigantesques et mystérieux géants de pierre, en partie scultpés.
+Certains sont endormis, d'autres errent, répétant des gestes ou des trajets dont le sens s'est perdu à travers les âges...
 
 Peu de choses sont connues sur ces statues géantes.
-Le Mana sert d'énergie à celles qui se déplacent encore.
-Les Colosses gisants, que plus rien n'anime, semblent être un lieu de prédilection des mushis.
+Ils réagissent souvent à la **musique**.
+Les Colosses inanimés, que plus rien n'anime, semblent être un lieu de prédilection des mushis.
 
 Certaines gravures, dans des temples ou sur les Colosses eux-mêmes,
-mentionnent d'un énigmatique **Poète Endeuillé**, en lien avec ces créatures.
-Ces dernières réagissent d'ailleurs souvent à la **musique**.
+mentionnent le lien qu'ils entretienne avec un énigmatique **Poète Endeuillé**.
 
-<img class="size20" alt="Élémentaire de pierre" src="cc-imgs/DnD_Stone_Elemental-LadyofHats-cc0.png">
+<img class="size20" alt="Élémentaire de pierre" src="cc-imgs/DnD_Stone_Elemental-LadyOfHats-cc0.png">
 
 <!-- SOTC Colossus reveals:
 1. https://youtu.be/U8rn9BZXaKY?t=885
@@ -164,9 +162,9 @@ Ces dernières réagissent d'ailleurs souvent à la **musique**.
 5. https://youtu.be/U8rn9BZXaKY?t=2005
 -->
 
-On raconte de nombreuses légendes à leurs sujets.
+On raconte de nombreuses légendes à leur sujet.
 Certains disent en avoir vu s'affronter.
-D'autres prétendent avoir vu des Colosses cultiver des fleurs.
+D'autres prétendent avoir vu un Colosse entretenir un jardin de fleurs.
 
 ::: page-break
 :::
@@ -354,10 +352,10 @@ Le joueur qui place le dé doit en particulier être vigilant à cela.
 **Colosses**
 
 1. Parfois, on peut observer des Colosses immobiles, produisant une **étrange mélodie**. Qu'est-ce qui rend cette musique si particulière ?
-1. Durant leur errance sans fin, les Colosses **évitent soigneusement des zones** en particulier, lesquelles ?
+1. L'apparence des Colosses diffère beaucoup : leur taille et leur anatomie vaire, certains comportent des ornements gravés, d'autres des anneaux et des chaînes... Pourtant la plupart partagent **une caractéristique commune** dans leur apparence, laquelle ?
 1. Le plus grand des Colosses a été baptisé **Bilgamesh**. Pendant longtemps, une épreuve de courage fut de l'escalader. Quel objet emblématique a ainsi été planté **à son sommet** ?
 1. 
-1.
+1. Durant leur errance sans fin, les Colosses **évitent soigneusement des zones** en particulier, lesquelles ?
 1. Un Colosse s'est effondré sur une ville, causant des centaines de morts. Que s'est-il passé ?
 :::
 ::: text-small width-50pc
@@ -495,7 +493,7 @@ Il s'agit d'une courte séquence axée sur le _roleplay_, où les joueurs sont e
 * évoquer les **rêves et ambitions** de chacun
 * émettre des hypothèses sur les **grands mystères** des terres connues : Colosses, mushis, légendes...
 
-Durant cette, le MJ peut participer durant les "blancs" de la discussion pour décrire l'environnement autour des komusō.
+Durant cette phase, le MJ peut participer durant les "blancs" de la discussion pour décrire l'environnement autour des komusō.
 
 ::: page-break
 :::
