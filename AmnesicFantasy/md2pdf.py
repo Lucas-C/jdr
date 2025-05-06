@@ -12,7 +12,7 @@ CSS_FILEPATH = DIR / "style.css"
 OUT_FILEPATH = DIR / "AmnesicFantasy.pdf"
 
 
-def build_pdf():
+def build_pdf(target_md_file=None):
     start = perf_counter()
     with OUT_FILEPATH.open("wb") as out_pdf_file:
         out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())

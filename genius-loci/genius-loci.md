@@ -11,7 +11,7 @@ Quand vous agissez dans votre domaine (sur des personnes, des concepts ou le bâ
 lancez 2 dés et gardez le résultat plus élevé.
 
 Vous pouvez tuer et manger un autre genius loci pour gagner ses pouvoirs.
-Si vous le faites, vous gagnez accès à son domaine et supprimer toute une piste d'états.
+Si vous le faites, vous gagnez accès à son domaine et supprimez tout une piste d'états.
 
 ## Peur
 Quand vous êtes confrontés à votre peur, lancez 2 dés et gardez le plus petit résultat

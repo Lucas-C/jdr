@@ -6,7 +6,7 @@ pip install mistletoe weasyprint
 ./md2pdf.py
 ```
 
-L'ouverture des fichiers `.fodg` nécessite l'installation préalable des polices `Odachi` & `Xangda Shiny`.
+L'ouverture des fichiers `.fodg` nécessite l'installation préalable des polices `Odachi` & `Xangda Shiny`. Lors de l'export PDF, il faut **désactiver l'option "PDF marqués"**, insérant des signets dans le document généré.
 
 <!--
 ### OriMushi-FeuillePersonnageEtendue.fodg
