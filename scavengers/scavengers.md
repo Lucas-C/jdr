@@ -275,7 +275,7 @@ lance 2 dés + **Fin**. Pendant que tu discutes avec lui, tu peux lui poser des 
 Sur 10+, ils t'obéissent du mieux qu'ils peuvent. Sur 7-9, le MC choisit parmi :
 - ils le font, mais pas très bien ou pas exactement comme tu voulais
 - ils t'offrent quelque chose qu'ils pensent que tu veux
-- ils s'arrêtent de faire ce qu'ils faisaient t'accordent leur attention
+- ils s'arrêtent de faire ce qu'ils faisaient et t'accordent leur attention
 
 #### [ ]  REPUTATION
 **Quand tu rencontres quelqu’un qui t’a l’air important**, tu peux, si tu veux, lancer 2 dés + nombre de contacts.
@@ -354,7 +354,6 @@ décide quoi et dis le au MC. Le MC te répondra « d’accord, pas de problème
 - le mieux que tu puisses faire c’est une version merdique, faiblarde et bancale 
 - ça veut dire prendre de gros risques pour ton vaisseau, ton équpage et toi-même 
 - tu vas devoir ajouter \_\_\_ à ton atelier avant 
-- tu vas devoir tenter le coup plusieurs / des douzaines / des centaines de fois
 - tu vas devoir démonter et récupérer les pièces de \_\_\_ pour le faire
 
 Le MC peut les articuler avec un «et» ou se sentir magnanime et ajouter un «ou».

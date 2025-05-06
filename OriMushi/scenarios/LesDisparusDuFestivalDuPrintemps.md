@@ -18,11 +18,11 @@ et où tous les marchands ont disparu !
 La veille, lors de l'installation du festival,
 l'un des marchands a fait chuter avec sa charette l'une des stèle commémoratives
 longeant la rivière, et il l'a laissé dans l'eau.
-Un autre marchand en a profité pour voler la **clef** du petit autel des Colosses.
+Un autre marchand a profité de l'agitation pour voler la **clef** du petit autel des Colosses.
 
-**Hakuryū**, le kami dragon blanc de la rivière,
-est alors très couroucé par ces gestes irrespectueux.
-Il s'est emporté et a terrorisé tout les marchands, les poussant à se réfugier dans le temple.
+Ces gestes irrespectueux ont mis en colère les singes,
+qui se sont emportés et ont terrorisé tout les marchands,
+les poussant à se réfugier dans le temple.
 
 Néanmoins ce dernier a été colonisé par un **Mushi** kaléidoscope
 qui a transformé l'intérieur du temple en un labyrinthe sans sortie.
@@ -77,7 +77,7 @@ et s'ils persistent, ils réaliseront que certains passages du temple ne les mè
 <img class="size6 float-left" alt="Singe" src="cc-imgs/pixabay-monkey-animal-jungle-mammal.png">
 
 Les singes ont assistés aux événements de la veille, et savent que les marchands ont fuit dans le temple.
-Ils sont également conscients de la présence d'Hakuryū et du Mushi kaléidoscope.
+Ils sont également conscients du Mushi kaléidoscope.
 
 Néanmoins ils sont également ravis que les marchands aient abandonné leurs marchandises !
 Ils ont abondamment pillés leurs provisions de nourriture,
@@ -86,22 +86,10 @@ ainsi que la **boussole** de **Mae** comme trésor, qu'ils ont caché au sommet 
 ### La statue dans la rivière
 Elle fait partie d'une ancienne série de stèles anciennes,
 et semble avoir été déplacée récemment.
-On peut déchiffrer dessus quelques inscriptions indiquant qu'elles sont dédiées
-au kami de la rivière, un dragon blanc.
+On peut déchiffrer dessus quelques inscriptions indiquant... (ToDo)
 
-### La cascade et les poissons
-Derrière la cascade une grotte habrite un **dragon blanc** endormi, **Hakuryū**.
+### La cascade et les carpes Koï
 
-Il sera de mauvais poil s'il est réveillé.
-Si les PJs ne se montrent pas extrêmement humbles et respectueux,
-Hakuryū pourrait provoquer une bagarre.
-
-Revivant la colère qu'il a traversé,
-il pourra révêler aux PJs les deux offenses auxquelles il a assisté.
-
-Il refusera de les aider directement tant que ces deux offenses ne sont pas réparées.
-
-<img class="size20" alt="Dragon asiatique" src="cc-imgs/japanese_dragon_vector_art_by_samuraiagency_cc-by.jpg">
 
 ### Le petit autel des Colosses
 Pour un connaisseur, les indications de l'autel sont clairement en lien avec les Colosses.
@@ -140,8 +128,8 @@ ce rôle reviend à **Mae**, qui a repéré la serrure.
 Lorsque l'affaire de la clef de l'autel volée sera rêvélée,
 elle fera le lien et proposera aux PJs d'essayer la clef dans cette serrure.
 
-Une fois la clef tournée dans la serrure,
-un véritable séisme se déclenche, et **le temple commence à s'effondrer** !
+Une fois la clef tournée dans la serrure, celle-ci avale le précieux sésame,
+et un véritable séisme se déclenche, et **le temple commence à s'effondrer** !
 La marelle du bassin sort du sol et s'avère être la tête de pierre d'un Colosse qui se redresse !
 
 Voici un extrait vidéo pour donner une idée de la scène à vos joueurs :
@@ -149,11 +137,27 @@ Voici un extrait vidéo pour donner une idée de la scène à vos joueurs :
 La bande son ce ce jeu vidéo, _Shadow of the Colossus_,
 est également tout à fait appropriée pour accompagner cette scène.
 
-Le Colosse se dresse alors au-dessus de la forêt.
-Il semble un peu désorienté.
-Sil les PJs ne l'attaquent pas, il finira après plusieurs longues minutes par s'en aller.
-Il est possible de l'arrêter en l'escaladant pour **retirer la clef sur sa tête**.
-L'aide d'Hakuryū peut être sollicitée pour cela.
+Le Colosse se redresse alors au-dessus de la forêt.
+Une fois debout, il est un peu désorienté, et se tourne à gauche puis à droite pour observer les environs.
+Il se met finalement en marche vers... ToDo
+
+
+## Les personnages
+### Mae & les marchands
+
+### Le Colosse
+
+
+## À peaufiner avant diffusion
+* détailler l'intro : comment les PJs sont-ils envoyés en mission ?
+* l'énigme avec le Mushi / labyrinthe sous le temple est trop frustrante
+* intégrer les singes & la gravure à l'intrigue ?
+  -> la gravure est un **bas-relief antique**
+* pourquoi ce temple aux singes a été établi là ? Sur le Colosse ? En l'honneur de quoi ?
+* qu'est-ce qui est indiqué sur les stèles commémoratives ?
+* comment se comporte / quel est le rôle des carpes ?
+* quoi qu'il arrive, par l'action des PJs ou non, le Colosse sous le temple aux singes finira par se réveiller
+
 
 ## Licence, sources & remerciements
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
@@ -165,12 +169,6 @@ Polices : [Odachi](https://www.behance.net/gallery/59783897/Odachi-Free-Brush-Fo
 & [Xangda Shiny](https://www.fontspace.com/starinkbrush/xangda-shiny).
 
 Illustrations employées :
-* [Japanese Dragon Vector Art par SamuraiAgency](https://www.deviantart.com/samuraiagency/art/Japanese-Dragon-Vector-Art-77340146) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 * [Merchant (female) par Anarlaurendil](https://www.deviantart.com/anarlaurendil/art/Merchant-female-914752673) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 * [monkey-animal-jungle-mammal](https://pixabay.com/vectors/monkey-animal-jungle-mammal-34409/) @ pixabay.com
 ::::
-
-<!-- Next:
-* les poissons ?
-* détailler le comportement des PNJs & du Mushi
--->

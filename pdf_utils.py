@@ -1,6 +1,8 @@
 import asyncio, io, logging, re
 from contextlib import contextmanager
 from datetime import datetime
+from functools import partial
+from pathlib import Path
 from random import shuffle
 from traceback import print_exc
 from urllib.parse import quote
@@ -41,13 +43,13 @@ logging.getLogger("fontTools.ttLib.tables._h_e_a_d").level = logging.ERROR
 logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
 
-def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None):
+def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None, bookmarks=True):
     with open(md_filepath, encoding="utf8") as md_file:
-        return md2pdf(dir, md_file.read(), css_filepath, lang, metadata)
+        return md2pdf(dir, md_file.read(), css_filepath, lang, metadata, bookmarks)
 
-def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None):
+def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None, bookmarks=True):
     html = md2html(dir, md_content, css_filepath, lang, metadata)
-    return html2pdf(dir, html, css_filepath, lang, metadata)
+    return html2pdf(dir, html, css_filepath, lang, metadata, bookmarks)
 
 def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
     md_content = handle_ponctuation_whitespaces(md_content)
@@ -69,12 +71,15 @@ def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
         html_file.write(html_doc)
     return html
 
-def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None):
+def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None, bookmarks=True):
     start = perf_counter()
     font_config = FontConfiguration()
     css = CSS(filename=css_filepath, font_config=font_config)
     bytes_io = io.BytesIO()
     doc = HTML(base_url=str(dir), string=html).render(font_config=font_config, stylesheets=[css])
+    if not bookmarks:
+        for page in doc.pages:
+            page.bookmarks = []
     doc.metadata.authors = [AUTHOR]
     doc.metadata.created = datetime.now(datetime.utcnow().astimezone().tzinfo).isoformat()
     if lang:
@@ -121,8 +126,7 @@ def add_id_attrs_on_headings(soup):
     for tag_name in ("h1", "h2", "h3", "h4"):
         for heading in soup.find_all(tag_name):
             if not heading.get("id"):
-                if heading.string:
-                    heading["id"] = slugify(heading.string)
+                heading["id"] = slugify(heading.get_text())
 
 def slugify(s):
     # Reproduce slugify() in md2html.js
@@ -178,8 +182,10 @@ def add_table_of_contents(soup):
             last_heading_level = level
             curr_li = soup.new_tag("li")
             curr_ul.append(curr_li)
+            if not heading["id"]:
+                raise RuntimeError(f"<{heading.name}> heading '{heading.get_text()}' has no ID")
             a = soup.new_tag("a", href="#" + heading["id"])
-            a.string = heading.string
+            a.string = heading.get_text()
             curr_li.append(a)
 
 
@@ -295,10 +301,10 @@ async def start_watch_and_rebuild(module, *files_to_watch):
     "Watch files and on change, reload Python modules & call build_pdf()"
     if not OPT_DEPS_LOADED:
         raise EnvironmentError("Missing optional dependencies livereload and/or xreload")
+    files_to_watch += (__file__,)
     watcher = get_watcher_class()()
-    watcher.watch(__file__, module.build_pdf)
     for filepath in files_to_watch:
-        watcher.watch(str(filepath), module.build_pdf)
+        watcher.watch(str(filepath), partial(module.build_pdf, Path(filepath)))
     print("Watcher started...")
     await watch_periodically(module, watcher)
 

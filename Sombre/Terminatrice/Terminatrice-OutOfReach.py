@@ -19,7 +19,7 @@ VERTI_MARGIN = 40
 HORIZ_MARGIN = 28.5
 
 
-def build_pdf():
+def build_pdf(target_md_file=None):
     pdf = FPDF(orientation="landscape")
     pdf.set_margin(VERTI_MARGIN)
     pdf.set_left_margin(HORIZ_MARGIN)

@@ -42,7 +42,7 @@ IMG_PER_NAME = {
 SCALE = .12  # mm / pixel
 
 
-def build_pdf():
+def build_pdf(target_md_file=None):
     start = perf_counter()
     merger = PdfMerger()
     merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))

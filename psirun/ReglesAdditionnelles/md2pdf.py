@@ -33,8 +33,9 @@ METADATA = {
 }
 
 
-def build_pdf():
-    target_md_file = (DIR / sys.argv[1]) if len(sys.argv) > 1 and sys.argv[1].endswith(".md") else None
+def build_pdf(target_md_file=None):
+    if len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
+        target_md_file = Path(DIR / sys.argv[1])
     for md_src_file in SRC_FILES[2:]:
         metadata = METADATA[md_src_file]
         out_filepath = metadata.pop("out_filepath")
