@@ -156,7 +156,8 @@ Il se met finalement en marche vers... ToDo
 * pourquoi ce temple aux singes a été établi là ? Sur le Colosse ? En l'honneur de quoi ?
 * qu'est-ce qui est indiqué sur les stèles commémoratives ?
 * comment se comporte / quel est le rôle des carpes ?
-* quoi qu'il arrive, par l'action des PJs ou non, le Colosse sous le temple aux singes finira par se réveiller
+* quoi qu'il arrive, par l'action des PJs ou non, le Colosse sous le temple aux singes finira par se réveiller -> que devient-il à la fin du scénario
+* est-ce que le Festival du Printemps finit par avoir lieu ?
 
 
 ## Licence, sources & remerciements

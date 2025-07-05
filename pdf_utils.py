@@ -10,13 +10,13 @@ from time import perf_counter
 
 from bs4.builder._htmlparser import HTMLParserTreeBuilder
 from bs4 import BeautifulSoup, NavigableString
-from fpdf import FPDF
+from fpdf import FPDF, FPDF_VERSION
 from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
 from mistletoe.block_token import tokenize, BlockToken
 import pikepdf
 from pypdf import PageObject, PdfReader, PdfWriter
-from weasyprint import HTML, CSS
+from weasyprint import HTML, CSS, VERSION as WP_VERSION
 from weasyprint.text.fonts import FontConfiguration
 try:
     from livereload.server import Server, StaticFileHandler
@@ -252,7 +252,7 @@ def set_metadata(filepath, title=None, description=None, keywords=(), lang=None)
             meta["dc:creator"] = [AUTHOR]
             meta["pdf:Producer"] = "WeasyPrint & pikepdf"
             meta["xmp:CreateDate"] = datetime.now(datetime.utcnow().astimezone().tzinfo).isoformat()
-            meta["xmp:CreatorTool"] = "https://github.com/Lucas-C/jdr/"
+            meta["xmp:CreatorTool"] = f"github.com/Lucas-C/jdr:fpdf{FPDF_VERSION}:pikepdf{pikepdf.__version__}:weasyprint{WP_VERSION}"
             if title:
                 meta["dc:title"] = title
             if lang:
@@ -316,7 +316,7 @@ async def watch_periodically(module, watcher, delay_secs=.8):
         print_exc()
     await asyncio.sleep(delay_secs)
     xreload(module, new_annotations={"XRELOADED": True})
-    await asyncio.create_task(watch_periodically(module, watcher))
+    await asyncio.create_task(watch_periodically(module, watcher, delay_secs))
 
 
 def watch_xreload_and_serve(module, root_dir, *files_to_watch):
