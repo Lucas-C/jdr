@@ -8,14 +8,13 @@
   
 ### Intro
 
-
-<img src="unused-cc-imgs/dwarf_musket_by_davidhueso_cc-by-nc-noBg.png" class="size10">
+<!-- img src="unused-cc-imgs/dwarf_musket_by_davidhueso_cc-by-nc-noBg.png" class="size10" -->
 
 
 ## PNJs
 
 ### Oma
-<img src="inspis/Mononoke-Hii-sama-01.jpg" class="size16">
+<!-- img src="inspis/Mononoke-Hii-sama-01.jpg" class="size16" -->
 
 ### Rumiko
 <img src="cc-imgs/oc_naruto_by_whiterabbit20_cc-by.png" class="size25">
