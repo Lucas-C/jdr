@@ -17,6 +17,11 @@ Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.
 - [Scavengers: Anomalies nauchoresques](scavengers)
 - [Vengeance Fatale 4D](VengeanceFatale4D) - _Unfinished_
 
+- Pour [Psi*Run ](https://electric-goat.net/products/1) :
+  * [Implacables (itch.io)](https://lucas-c.itch.io/psirun-implacables) - English version: [The Restless (itch.io)](https://lucas-c.itch.io/psirun-the-restless)
+  * [Le Manoir (itch.io)](https://lucas-c.itch.io/psirun-le-manoir)
+  * [Règles additionnelles (itch.io)](https://lucas-c.itch.io/psirun-regles-additionnelles) - English version: [Extra Rules (itch.io)](https://lucas-c.itch.io/psirun-extra-rules)
+
 - Pour [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) :
   * [Interrogatoires (itch.io)](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) - Une aide de jeu pour faire jouer des interrogatoires - [(English version)](https://lucas-c.itch.io/blades-in-the-dark-interrogation)
   * [Les bases de la chasse au Léviathan](https://lucas-c.github.io/jdr/BladesInTheDark/BitD-LesBasesDeLaChasseAuLeviathan.pdf) - Traduction d'une aide de jeu en 2 pages

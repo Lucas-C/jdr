@@ -87,6 +87,6 @@ _(by re-rolling until a player's number is drawn)_
 <footer>
 
 Game aid created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/).
-Psi*Run is a game by Meguey Baker, published in French by [ElectricGoat](https://electric-goat.net/products/1).
+[Psi*Run is a game by Meguey & Vincent Baker](https://lumpley.itch.io/psirun).
 Illustration: [SunnyClockwork](https://www.deviantart.com/sunnyclockwork/art/Firebrand-Remembers-520559447) - [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/ ) - Fonts: [KillTheNoise](https://www.fontspace.com/kill-the-noise-font-f17592) & [Coves](https://www.behance.net/gallery/32715299/Coves-Free-Font)
 </footer>
