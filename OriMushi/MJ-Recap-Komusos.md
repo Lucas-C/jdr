@@ -3,9 +3,8 @@
 ## Les Komuso
 
 ::: borderless with-headings
-Nom | Joueur·euse | Vœu personnel | Voie | Activité | Mauvaise habitude | Notes
--|-|-|-|-|-|-
-|
+Nom komusō<br>& Joueur·euse | Motivation / Vœu personnel | Voie & Activité | Artefacts | <img class="icon" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg"> & Notes
+-|-|-|-|-
 |
 |
 |
@@ -17,6 +16,6 @@ Nom | Joueur·euse | Vœu personnel | Voie | Activité | Mauvaise habitude | Not
 @page { size:landscape; }
 body { font-size: 1.2rem; max-width: initial; margin: 1rem; }
 th, td { width: 10%; text-align: center; }
-td { height: 3.1rem; }
-th:last-child, td:last-child { width: 20%; }
+td { height: 4.1rem; }
+th:last-child, td:last-child { width: 25%; }
 </style>

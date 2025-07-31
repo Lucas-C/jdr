@@ -5,9 +5,12 @@ from random import randint
 from shutil import copyfile
 from time import perf_counter
 
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
+
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_outline_items, md2html, md2pdf, set_metadata, start_watch_and_rebuild
+
 copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "layout" / "cc-by-nc-sa.png"))
 
 SRC_FILES = (
@@ -19,6 +22,7 @@ SRC_FILES = (
     SCENAR3_MD_FILEPATH := DIR / "scenarios" / "LesFuneraillesDuDaimio.md",
     GUIDE_DU_MJ_MD_FILEPATH := DIR / "GuideDuMJ.md",
     MJ_RECAP_KOMUSOS_MD_FILEPATH := DIR / "MJ-Recap-Komusos.md",
+    NOMS_JAP_MD_FILEPATH := DIR / "Noms-japonais.md",
     RULES_MD_FILEPATH := DIR / "OriMushi.md",
 )
 
@@ -36,6 +40,7 @@ METADATA = {
     SCENAR2_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
     SCENAR3_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
     GUIDE_DU_MJ_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
+    NOMS_JAP_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
     MJ_RECAP_KOMUSOS_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
 }
 
@@ -74,7 +79,7 @@ def build_single_pdf(md_filepath, metadata, lang, extra_outline, bookmarks):
 
 def tmpl_subst(md_content):
     # No need for jinja2 for now:
-    md_content = md_content.replace("{{ rand_creature_portrait() }}", f'<img class="size20" alt="Peuple éteint" src="cc-imgs/freepik-hand-drawn-asian-style-tattoo-illustration-0{randint(1, 6)}.jpg">')
+    md_content = md_content.replace("{{ rand_creature_portrait() }}", f'<img class="size20" alt="Peuple éteint" src="cc-imgs/freepik-hand-drawn-asian-style-tattoo-illustration/0{randint(1, 6)}.jpg">')
     md_content = md_content.replace("{{ rand_spiral() }}", f'<img class="size6" alt="Spirale" src="layout/spirals/spiral-{randint(1, 11):02}.jpg">')
     md_content = md_content.replace("{{ rand_plant() }}", f'<img class="size6" alt="Plante" src="cc-imgs/plants-by-LeviGilbert-cc-by/plant{randint(1, 18):02}.png">')
     return md_content
