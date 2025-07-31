@@ -3,6 +3,8 @@ import asyncio, logging, sys
 from pathlib import Path
 from time import perf_counter
 
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
+
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_pdf_annotations, add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild
@@ -13,7 +15,7 @@ SRC_FILES = (
     # Uncomment one of those lines if you only want to --watch/re-build a single PDF :
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/PsiRun/Implacables/
     EN_MD_FILEPATH := DIR / "TheRestless.md",
-    FR_MD_FILEPATH := DIR / "README.md",
+    FR_MD_FILEPATH := DIR / "Implacables.md",
 )
 
 # A propos des annotations :
@@ -23,48 +25,48 @@ SRC_FILES = (
 FR_ANNOTATIONS = {
     0: {
         "text_annotations": (
-            dict(title="MJ :", x=191, y=165, name="COMMENT",
+            dict(x=191, y=165, name="COMMENT",
                  text="Ah c'est pas vrai... Je me suis fait sauter le caisson, vraiment ?"),
-            dict(title="MJ :", x=12, y=182, name="COMMENT",
+            dict(x=12, y=182, name="COMMENT",
                  text="Leur perte de mémoire ne suffira pas à racheter les crimes de ces enfoirés."),
-            dict(title="MJ :", x=180, y=238, name="COMMENT",
+            dict(x=190, y=245, name="COMMENT",
                  text="Ce gros bâtard de Doggy, qui fait respecter l'ordre des riches comme un bon super-toutou..."),
-            dict(title="MJ :", x=12, y=260, name="COMMENT",
+            dict(x=12, y=260, name="COMMENT",
                  text="Ahahah j'imagine leurs tronches lorsqu'ils découvriront plus tard les collants en latex qu'ils portaient :D"),
         ),
     },
     1: {
         "text_annotations": (
-            dict(title="MJ :", x=191, y=62, name="COMMENT",
+            dict(x=191, y=62, name="COMMENT",
                  text="Ah bah oui merde, j'ai crevé. Au moins je leur ai bien mis dans l'os !"),
-            dict(title="MJ :", x=12, y=146, name="COMMENT",
+            dict(x=12, y=146, name="COMMENT",
                  text="Madison est réglo. J'espère que sa voix sera entendue dans les médias pour dénonces les Implacables."),
-            dict(title="MJ :", x=12, y=205, name="COMMENT",
+            dict(x=12, y=213, name="COMMENT",
                  text="Je n'ai jamais pu y pénétrer, seule la présence de Doggy déclenche l'ouverture de ce bunker."),
-            dict(title="MJ :", x=12, y=233, name="COMMENT",
+            dict(x=12, y=240, name="COMMENT",
                  text="L'hypocrisie de la morale rigoriste de MegaScout est vraiment risible, surtout vu ses hobbys..."),
-            dict(title="MJ :", x=191, y=220, name="COMMENT",
+            dict(x=191, y=220, name="COMMENT",
                  text="J'espère que Thorgal ne se laissera pas emporter par la colère pour me venger... Tel que je le connais, il voudra faire juger les Implacables par leurs victimes, puis appliquera la sentence lui-même."),
-        ),
-        "free_text_annotations": (  # easter egg in Acrobat / always visible in web viewers
-            dict(x=128, y=239, w=40, h=43, text="", color=(1, 1, 1)),
         ),
     },
     2: {
         "text_annotations": (
-            dict(title="MJ :", x=185, y=40, name="COMMENT",
+            dict(x=190, y=40, name="COMMENT",
                  text="Ah mes chers freaks vengeurs ! Ces corrompus d'Implausibles vont trembler devant votre juste colère !"),
-            dict(title="MJ :", x=12, y=272, name="COMMENT",
+            dict(x=12, y=272, name="COMMENT",
                  text="Tu es intelligent, et intègre. Ne te laisse pas submerger par la rage. La justice doit triompher, et je ne veux pas que tu meures."),
+        ),
+        "free_text_annotations": (  # easter egg in Acrobat / always visible in web viewers
+            dict(x=132, y=46, w=28, h=28, text="", color=(1, 1, 1)),
         ),
     },
     3: {
         "text_annotations": (
-            dict(title="MJ :", x=190, y=136, name="COMMENT",
+            dict(x=190, y=136, name="COMMENT",
                  text="Quelle enfumade ! Avec un PDG dans la nature et aussi amnésique qu'un vinyl rayé, Vault Tech va finir par se retourner contre les Implacables..."),
-            dict(title="MJ :", x=12, y=168, name="COMMENT",
+            dict(x=12, y=168, name="COMMENT",
                  text="On va bien rire lorsque leurs portraits seront diffusés sur tous les écrans de la ville..."),
-            dict(title="MJ :", x=190, y=192, name="HELP",
+            dict(x=190, y=192, name="HELP",
                  text="Et est-ce que justice sera faite ?"),
         ),
     },
@@ -72,20 +74,21 @@ FR_ANNOTATIONS = {
 
 EN_ANNOTATIONS = {
     0: (
-        "Ah that's not true... I blew my box, really?",
-        "Their loss of memory will not be enough to atone for the crimes of these bastards." "That big bastard Doggy, who enforces the order of the rich like a good super-doggie...",
-        "Ahahah I can imagine their faces when they later discovered the latex tights they were wearing :D",
+        "Oh, really? I blew my box? Damn!",
+        "Their amnesia is not enough punishment for these bastards to atone for their crimes!",
+        "That big bastard, enforcing the order of the rich like a good super-doggie...",
+        "I love imagining their faces when they discover the photos where they were latex tights :D",
     ),
     1: (
-        "Ah well yes shit, I had a flat tire. At least I got them right in the bone!",
-        "Madison is legit. I hope his voice will be heard in the media to denounce the Implacables.",
+        "Oh yeah, shit, that's true, I died. At least I got them right in the bone!",
+        "Madison is legit. I hope his voice will be heard in the media to denounce the Restless.",
         "I have never been able to enter it, only Doggy's presence triggers the opening of this bunker.",
         "The hypocrisy of MegaScout's strict morality is truly laughable, especially given his hobbies...",
-        "I hope that Thorgal will not let himself be carried away by anger to avenge me... As I know him, he will want to have the Implacables judged by their victims, then will carry out the sentence himself.",
+        "I hope Thorgal won't get carried away by anger to avenge me... As I know him, he will want to have the Restless judged by their victims, and then carry out the sentence himself.",
     ),
     2: (
-        "Ah my dear vengeful freaks! These corrupt Implausibles will tremble before your just anger!",
-        "You are intelligent and honest. Don't let yourself be overwhelmed by rage. Justice must triumph, and I don't want you to die.",
+        "Ah my dear vengeful freaks! These corrupt Restless will tremble before your just anger!",
+        "You are intelligent and honest. Don't let yourself be overwhelmed by rage. Justice must triumph, and I don't want you to die like me.",
     ),
     3: (
         "What a smoke! With a CEO in the wild and as amnesiac as a scratched vinyl, Vault Tech will end up turning against the Relentless...",
@@ -94,8 +97,9 @@ EN_ANNOTATIONS = {
     ),
 }
 for page, fr_annot_dict in FR_ANNOTATIONS.items():
+    fr_annot_dict["title"] = "MJ :"
     en_text_annots = EN_ANNOTATIONS[page]
-    en_annots = EN_ANNOTATIONS[page] = {}
+    en_annots = EN_ANNOTATIONS[page] = {"title": "GM:"}
     en_annots["text_annotations"] = tuple({**annot, "text": text} for annot, text in zip(fr_annot_dict["text_annotations"], en_text_annots))
     if "free_text_annotations" in fr_annot_dict:
         en_annots["free_text_annotations"] = tuple(dict(annot) for annot in fr_annot_dict["free_text_annotations"])
@@ -122,10 +126,12 @@ METADATA = {
 
 
 def build_pdf(target_md_file=None):
+    if target_md_file and not target_md_file.name.endswith(".md"):
+        target_md_file = None
     if len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[1])
     for md_src_file in SRC_FILES[2:]:
-        metadata = METADATA[md_src_file]
+        metadata = dict(**METADATA[md_src_file])
         lang = metadata.pop("lang")
         out_filepath = DIR / metadata.pop("out_filename")
         annotations = metadata.pop("annotations")

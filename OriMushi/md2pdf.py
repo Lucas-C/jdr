@@ -79,9 +79,9 @@ def build_single_pdf(md_filepath, metadata, lang, extra_outline, bookmarks):
 
 def tmpl_subst(md_content):
     # No need for jinja2 for now:
-    md_content = md_content.replace("{{ rand_creature_portrait() }}", f'<img class="size20" alt="Peuple éteint" src="cc-imgs/freepik-hand-drawn-asian-style-tattoo-illustration-0{randint(1, 6)}.jpg">')
+    md_content = md_content.replace("{{ rand_creature_portrait() }}", f'<img class="size20" alt="Peuple éteint" src="cc-imgs/freepik-hand-drawn-asian-style-tattoo-illustration/0{randint(1, 6)}.jpg">')
     md_content = md_content.replace("{{ rand_spiral() }}", f'<img class="size6" alt="Spirale" src="layout/spirals/spiral-{randint(1, 11):02}.jpg">')
-    md_content = md_content.replace("{{ rand_plant() }}", f'<img class="size6" alt="Plante" src="cc-imgs/plants-by-LeviGilbert-cc-by/plant{randint(1, 18):02}.png">')
+    md_content = md_content.replace("{{ rand_plant() }}", f'<img class="size6" alt="Plante" src="cc-imgs/plants-by-LeviGilbert-cc-by/plant{randint(1, 17):02}.png">')
     return md_content
 
 

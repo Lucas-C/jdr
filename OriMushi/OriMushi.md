@@ -1,20 +1,37 @@
 <!-- Next:
 
+* finir Noms-japonais.md
+* ajouter de nouvelles Compétences, et passer dans un mode +1d6 / +2d6
+* ajouter lien vers Ori Mushi sur https://chezsoi.org/jdrs
+    -> https://chezsoi.org/lucas/blog/tag/ori-mushi.html ?
+* développer le Peuple Éteint et préparer leur rencontre avec PJs
 * rédiger scénarios
+    ajouter petits pictos concernant Mushis / Onis / Colosses / etc.
+    scénario sans "méchant"
+    scénario basé sur le background des PJs
+    scénario mettant en avant la pollution produite par les usines
 * designer paliers 2/3 des Voies, cf. ci-dessous
+    -> ajouter compteur de progression d'Oris avec cases à cocher
+    -> anticiper changement de palier de Laure
 * nouvel agencement FPs : cf. OriMushi-CombinaisonFPs.jpg
     + ajouter section pour lister les PNJs rencontrés
     + ajouter rappel "+1 dé pour aider" sur FP ?
-* SUPPRIMER mécanique d'Onis
+* SUPPRIMER mécanique d'Onis ?
     la mécanique ne "fonctionne pas trop" d'après les 1ères parties
     -> mieux vaudrait en faire un CHOIX volontaire pour les PJs, de se laisser "parasiter" par ce Mushi ?
+    -> si conservée, détailler ce qu'il se passe pour le PJ à chaque palier + fournir une AdJ récap
 * SUPPRIMER système de Carte ?
     car entraîne des considérations de durée de trajet, etc.
     -> petit système de VOYAGES : lorsque le groupe voyage, un joueur complète la carte et lance 1d6 dans une table aléatoire, comprenant des descriptions de lieux aperçus en chemin (puis plus tard, rencontres / obstacles ?)
-* finir Noms-japonais.md
+    -> feuille de VOYAGES & LIEUX visités partagée par le groupe ?
+* SUPPRIMER formats de narration partagée multiple, garder seulement le Questions-Réponses
+* feuille de Secrets rêvélés, avec les réponses des joueurs
+    1. Le sillage des Colosses est pavé de plantes légendaires dont il permet la pousse par son chant
+* compléter Secrets & Questions-Réponses
 * orga partie avec Noah & ses potes ? Et Karine / Gaëtan / Donatien...
 * orga partie avec Pierre / Naïg / Cédric...
 * détailler/revoir Oris/XPs ?
+* Prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
 * Mise en page AdJ Olivier
 * rédiger section Santé / blessures / mort
 * sections "Ce que savent les komuso sur..."
@@ -25,10 +42,15 @@
     + en cas de conflit avec les PJs...
     + liens avec autres PNJS
 * Codex Mushi : inclure des zones de dessin ?
+* Points de TACT pour rejouer des scènes de roleplay ?
 * extract Hexxus clips from *Ferngully*.webm (last Ns from "Toxic Love")
 
 Voies :
 * le Poète-Sorcier a une VISION de sa propre mort dans l'avenir -> se réalisera-t-elle ?
+* Poète-Sorcier : capacité 1 MANA => +1 d6
+* Poète-Sorcier : supprimer Noms-Secrets
+* Poète-Sorcier : augmenter le nombre de Versets
+* Poète-Sorcier : est-ce qu'ils devraient pas être ceux qui collectent les livres ? & bas-reliefs ?
 * continuer à introduire des mécaniques complémentaires entre Voies, voir des "combos"
 * mécanique des "masks": au palier 2/3, choix narratif impactant sur rôle PJ dans campagne
     Ex : si tu te voyais devenir un Oni, que ferais-tu ?
@@ -280,7 +302,7 @@ Parfois, ils sont en conflit intérieur, n'assumant pas les actes qu'ils ont com
 <img class="size20" alt="Kappa" src="cc-imgs/Kappa_Koopa_by_weremagnus_cc-by.jpg">
 
 ### Comment devient-on Oni ?
-* des livres détaillent où se rendre, et en quelle saison, pour trouver des oeufs de ce mushi, et les ingérer pour devenir Oni
+* des livres détaillent où se rendre, et en quelle saison, pour trouver des fruits de ce mushi, et les ingérer pour devenir Oni
 * Gilga propose à ses fidèles de devenir des Onis
 
 ### Peut-on "soigner" un Oni ?
@@ -379,6 +401,9 @@ ToDo / À rédiger
 <br><br><br>
 <img class="size16" alt="" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
 
+Société communiste, sans notion de propriété propre.
+-> essayer de dégager quelques caractéristiques originales et marquantes, cf. https://ptgptb.fr/jdr-et-the-righteous-mind
+
 ::: page-break
 :::
 
@@ -435,7 +460,7 @@ Chaque joueur :
 * choisit une **Voie**
 * choisit et coche **4 compétences**
 * choisit un Artefact
-* répond à une question <img class="icon" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
+* répond à une question <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
 * débute à 0 dans les jauge d'Ori & Oni
 * (si Poète-Sorcier) débute avec un Vocable et un Verset maîtrisé
 
@@ -676,9 +701,6 @@ _Section en cours de rédaction..._
 ::: page-break
 :::
 
-## Grands Principes
-* **Les distances et le temps importent peu** : dans Ori Mushi, ne vous préoccupez pas de savoir "combien de temps dure tel voyage ?" ou "quelle distance y a-t-il entre tel endroit et tel autre ?" Il ne doit jamais être question d'optimiser les trajets, de trouver le chemin le plus court ou de se déplacer le plus vite. Dans l'univers du jeu, les cartes sont imprécises et les voyages durent nécessairement quelques jours. Les komusō sont des voyageurs chevronnés, et n'empruntent pas toujours les même chemins selon les saisons, la météo, les crues, le vent...
-* **Les personnages des joueurs ne mourront que s'ils le souhaitent**
 
 ## Boucle de jeu
 Dans Ori Mushi, le jeu alterne entre trois phases :
@@ -713,7 +735,7 @@ Situation | Progression par aventure
 -|-
 Échec critique ⚀⚀ | +1 Ori
 Suivre activement les Vœux des komusō, y compris le Vœu Personnel | +1 Ori
-Mettre en avant ses Liens & <img class="icon" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg"> | +1 Ori
+Mettre en avant ses Liens & <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg"> | +1 Ori
 Suivre sa Progression de Voie | +1 Ori
 Placer au moins une fois son komusō dans une situation délicate à cause de sa Mauvaise Habitude | +1 Ori
 Compléter la carte | +1 Ori
@@ -724,7 +746,7 @@ lorsque les komusō reprennent leur voyage.
 :::
 
 ### Changement de palier
-=> répondre à une question <img class="icon" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
+=> répondre à une question <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
 
 ::: page-break
 :::
@@ -748,19 +770,21 @@ Une fois par voyage entre deux aventures, un Artiste-Conteur peut profiter des t
 pour déchiffrer un **bas-relief antiques** qu'il a recopié, ou un **incunable** (livre rare).
 
 Au terme de cet examen littéraire, il **découvre un secret** sur terres connues.
-Le MJ consulte le tableau ci-dessous pour leur révéler lequel.
+Le MJ consulte le tableau ci-dessous pour leur révéler lequel,
+correspondant le mieux au bas-relief ou livre déchiffré,
+et en privilégiant les premiers secrets de la liste :
 
 ::: borderless text-small with-headings
  | Secret | Narration partagée
 -|-
 1 | Le chant plaintif des Colosses est constitué de Versets du Poète Endeuillé, dont les effets sont magiques | **Question-Réponses** : Bilgamesh emploie le Vocable des Plantes, quel est exactement l'impact de ses Versets ?
 2 | Le peuple éteint n'a pas totalement disparu. Ses derniers membres se sont réfugiés dans une **vallée secrète**. | **Question-Réponses** : la relique que vous avez déchiffré indique comment y accéder, quel est ce moyen ?
-3 | Chaque Colosse est alimenté par une **sphère de Vitruve**, un dispotif mécano-magique alimenté par un **œuf de dragon**. Il est possible de leur donner des instructions en connaissant leur **nom secret**. | **Question-Réponses** : TODO
-4 | Il existe des **œufs de dragon**, capables de conférer l'**immortalité** s'ils sont brisés et que leur cœur est consommé | **Question-Réponses** : lors de la guerre de l'Oubli, comment fut oublié le nom de Watatsumi, dragon des mers ?
+3 | Chaque Colosse est alimenté par une **sphère de Vitruve**, un dispotif mécano-magique alimenté par un **œuf de dragon**. | **Question-Réponses** : ?
+4 | Il existe des **???**, capables de conférer l'**immortalité** s'ils sont brisés et que leur cœur est consommé | **Question-Réponses** : lors de la guerre de l'Oubli, comment fut oublié le nom de Watatsumi, dragon des mers ?
 5 | Le **Fléau Impassible** est un mushi, il s'est déjà répandu par le passé, et un remède a été trouvé en l'étudiant. | **Question-Réponses** : quel fut le remède et comment a-t-il été découvert ?
-6 | Les Onis sont en réalité une 7e famille de mushis parasites | 
-7 | Les dragons sont en fait une légende savamment entretenue par des Artistes-Conteurs. Les "œufs de dragons" sont en réalités des œufs d'Oni. | 
-8 | xxx | 
+6 | Les Onis sont en réalité une septième famille de mushis parasites -> décrire la section correspondante. | **Question-Réponses** : où et comment poussent les fruits du Oni ?
+7 | Les dragons sont en fait une légende savamment entretenue par des Artistes-Conteurs. Les "œufs de dragons" sont en réalités des œufs d'Oni. | **Question-Réponses** : ?
+8 | xxx | **Question-Réponses** : ?
 :::
 
 <!--
@@ -942,14 +966,14 @@ Jeune marchande qui prend les choses en main au Temple aux Singes
 Une Poètesse-Sorcière, élue par les forestiers pour diriger le conseil des sages de Nippur.
 Vit au Moulin Des Cigognes
 * **Vocables** : **gravité** (contrôle du papier façon [_Read or Die_](https://youtu.be/gB_CFVSVVRo?si=RJ0NAttNlPGEbaHn&t=1230))
-* **Objectifs** :
+* **Objectifs** : s'opposer à l'influence grandissante de l'Eglise de la Connaissance dans la région
 * **Attitude (guide de roleplay)** :
 * **Comment peut-elle aider les PJs ?** :
 * **Comment s'opposera-t-elle aux PJs ?** :
 * **Liens avec autres PNJS** : mentor de Rumiko; amie de Mokabé
 ### Rumiko
 * **Objectifs** : devenir daïmio, suivre les vœux des komusō, faire perdurer cet ordre, que son père soit fière d'elle
-* **Voie** : Maître-Artisan
+* **Voie** : Maître-Artisan -> specialité ?
 * **Attitude (guide de roleplay)** : de caractère joyeux; peut devenir très sérieux; initiallement méfiante envers les PJs
 * **Comment peut-elle aider les PJs ?** :
 * **Comment s'opposera-t-elle aux PJs ?** :
@@ -985,12 +1009,6 @@ Capitaine en chef des bateliers
 * **Liens avec autres PNJS** :
 ### Cécil
 Archiviste, bibliothécaire, ancien élève de Mokabé
-* **Objectifs** :
-* **Attitude (guide de roleplay)** :
-* **Comment peut-il aider les PJs ?** :
-* **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
-### Gilga
 * **Objectifs** :
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :

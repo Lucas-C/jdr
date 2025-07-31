@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 # USAGE: ./md2pdf.py [file.md]
-import asyncio, sys
+import asyncio, logging, sys
 from pathlib import Path
 from time import perf_counter
+
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable

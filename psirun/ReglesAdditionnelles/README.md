@@ -1,13 +1,8 @@
 # <span class="psirun">Psi<span class="asterisk">*</span>Run</span><br> Règles additionnelles
 <center>
-Ces règles entièrement facultatives gèrent quelques situations non prévues dans les règles,
-et tentent humblement d'améliorer l'expérience de jeu.
+Ces règles facultatives détaillent comment gérer quelques cas particuliers,
+et visent à rendre vos parties encore plus amusantes !
 </center>
-
-## Blessures
-Pour que les blessures aient un impact sur la mécanique de jeu :
-
-> Un Fugitif ayant une **blessure non soignée** doit toujours placer un dé sur le Risque **Blessure** sans pour autant **lancer de dé en plus**.
 
 ## Souvenirs
 Les joueuses **partagent leurs Questions** à l'oral en début de partie.
@@ -15,9 +10,13 @@ Expliquez que placer un ⚃ ou ⚄ en **Souvenir** octroie un pouvoir narratif
 qui peut aider les Fugitifs, par exemple en introduisant un objet ou un allié !
 <!-- = flashback dans Blades in the Dark -->
 
-Parfois, en enquêtant sur son passé durant la partie,
-un Fugitif peut obtenir des réponses à ses Questions
-sans placer de dé sur le Risque **Souvenir** :
+> <u>Exemple :</u> un ⚃ placé en Souvenir déclenche une narration des autres joueuses pour raconter cette réminiscence. Tout en répondant à l'une des Questions par un flashback, elles décident de mentionner que le PJ concerné avait planqué un revolver dans la boîte à gants de sa voiture. Lorsque le flashback se termine, les PJs ont de grandes chances de retrouver le revolver dans cette boîte à gant !
+
+Lorsqu'une joueuse fait activement enquêter son Fugitif sur son passé,
+en remontant une piste ténue jusqu'à le confronter à des éléments
+qui pourraient très plausiblement lui rappeler des Souvenirs,
+le MJ peut décider de permettre au Fugitif d'obtenir
+une réponse à une Question sans placer de dé sur le Risque **Souvenir** :
 
 > Lorsqu'une joueuse pense que son Fugitif a trouvé un élément de réponse à une de ses questions,
 > avec l'accord du MJ elle peut **lire cette question** aux autres.
@@ -25,33 +24,33 @@ sans placer de dé sur le Risque **Souvenir** :
 > puis la joueuse initiale choisit la réponse qu'elle préfère.
 
 ## La Piste
-Cette règle peut être très utile si les Fugitifs **distancent** les Poursuivants,
+Cette règle additionnelle peut être très utile si les Fugitifs **distancent** les Poursuivants,
 afin de rétablir une tension dramatique :
 
-> Le MJ peut décider que les Poursuivants rattrapent leurs proies sur la Piste
-> jusqu'au **post-it juste derrière celui des Fugitifs**.
-> Cependant, cela **déclenche un Souvenir** à l'un des Fugitifs, à leur convenance.
+> Si les joueuses passent plus de 20min de temps de jeu dans un lieu,
+> faites progresser les Poursuivants d'une étape sur la Piste.
 
 **Repousser les Poursuivants** : si les Fugitifs affrontent et repoussent les Poursuivants dans un Lieu,
 ces-derniers reculent d'un cran sur la Piste.
 
 **Les véhicules** : ne les incluez comme des lieux dans la Piste que si les Fugitifs y restent **le temps d'une scène**, par exemple de course-poursuite.
 
-## Entraide
-Si jamais les joueuses s'entraident pour réaliser une action significative :
+### Pacte avec le Diable
+> Dans une situation propice, le MJ peut proposer à une joueuse de **récupérer un Souvenir**,
+> et elle choisira qui répond à l'une de ses Questions,
+> en échange de faire avancer Les Poursuivants sur la Piste
+> **jusqu'à l'étape immédiatement derrière celui des Fugitifs**.
 
-> Lorsque l'aide d'un ou plusieurs Fugitifs s'avère pertinente lors de l'action d'un autre Fugitif, ce dernier peut lancer un dé en plus.
+<p class="half-break">
 
-> Le MJ est libre d'estimer qu'une telle aide n'apporte pas d'avantage significatif selon la situation.
-
-## Action identique de tous les Fugitifs
+## Lorsque les Fugitifs entreprennent la même action
 Exemple :
 
 > Tous les trois, nous prenons notre élan pour sauter dans le vide jusqu'à l'immeuble adjacent.
 
 Il peut alors être laborieux de demander un jet de dés aux trois joueuses :
 
-> Lorsque les Fugitifs réalisent la même action significative en simultané, désignez une joueuse qui réalisera une unique jet de dés dont le résultat déterminera la réussite globale de l'action.
+> Lorsque les Fugitifs réalisent la même action significative en simultané, une seule joueuse réaliser **un unique jet de dés** dont le résultat déterminera la réussite globale de l'action.
 
 ## Décisions aléatoires
 Parfois, les Fugitifs ne réalisent pas d'action significative,
@@ -82,6 +81,8 @@ Exemples :
 
 ➜ « Choisissez chacun un chiffre entre 1 et 6, puis le dé déterminera qui sera ciblé. »
 _(en relançant jusqu'à ce que le chiffre d'une joueuse soit tiré)_
+
+<p class="half-break">
 
 <footer>
 

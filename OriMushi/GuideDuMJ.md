@@ -36,6 +36,9 @@
 > * Pensez « danger »
 > * Restez souple
 
+* **Les distances et le temps importent peu** : dans Ori Mushi, ne vous préoccupez pas de savoir "combien de temps dure tel voyage ?" ou "quelle distance y a-t-il entre tel endroit et tel autre ?" Il ne doit jamais être question d'optimiser les trajets, de trouver le chemin le plus court ou de se déplacer le plus vite. Dans l'univers du jeu, les cartes sont imprécises et les voyages durent nécessairement quelques jours. Les komusō sont des voyageurs chevronnés, et n'empruntent pas toujours les même chemins selon les saisons, la météo, les crues, le vent...
+-> à reformuler
+
 ## Contexte de jeu
 Ori Mushi est imaginé pour des parties de 1h à 4h, avec un MJ et 2 à 5 joueurs,
 pouvant être expérimentés en jeux de rôle ou totalement débutants.

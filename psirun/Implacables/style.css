@@ -32,11 +32,25 @@ img.size16 { max-height: 16rem; max-width: 16rem; }
 img.logo { max-width: 6rem; }
 .float-left { float: left; margin-right: .5rem; }
 .float-right { float: right; margin-left: .5rem; }
-.fuck-implacables { position: absolute; bottom: -1rem; right: 5rem; }
+.fuck-implacables {
+  width: 6.5rem;
+  position: absolute;
+  top: 6.2rem;
+  right: 7rem;
+}
 .columns { columns: 2; }
 .columns ul { margin: 0; padding-left: .666rem; }
 .half-break { height: 1px; }
 .red { color: red; font-weight: bold; }
+.frame {
+  position: absolute;
+  bottom: -1rem;
+  right: -1rem;
+  width: 50%;
+  padding: .5rem .5rem 0;
+  border: 1px solid black;
+}
+.frame h3 { margin-bottom: .4rem; margin-top: 0; }
 .punchline {
   text-align: center;
   font-family: RoadRage;
