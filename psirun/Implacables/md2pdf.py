@@ -12,7 +12,6 @@ from pdf_utils import add_pdf_annotations, add_to_every_page_dynamic, markdown2p
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
-    # Uncomment one of those lines if you only want to --watch/re-build a single PDF :
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/PsiRun/Implacables/
     EN_MD_FILEPATH := DIR / "TheRestless.md",
     FR_MD_FILEPATH := DIR / "Implacables.md",

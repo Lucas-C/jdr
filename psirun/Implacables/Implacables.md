@@ -4,6 +4,11 @@
 Une situation de départ pour Psi*Run inspirée de _The Boys_.
 <br>
 _(mais ne le mentionnez pas à vos joueurs !)_
+
+::: web-only
+Version PDF : [Implacables (itch.io)](https://lucas-c.itch.io/psirun-implacables)
+:::
+
 </center>
 
 ## ce que Les fugitifs ont oublié
@@ -151,9 +156,9 @@ Inspirations : BDs [Paranormal](https://www.bedetheque.com/serie-9891-BD-Paranor
 
 <footer><p class="half-break"></p>
 
-Scénario conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/). [Fichiers sources](https://github.com/Lucas-C/jdr/tree/master/psirun/Implacables).
+Scénario conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/). Version: 1.0 - [Fichiers sources](https://github.com/Lucas-C/jdr/tree/master/psirun/Implacables).
+Si vous testez ce scénario, faites-moi un retour sur [mon blog](https://chezsoi.org/lucas/blog/psirun-implacables-regles-additionnelles.html) svp.
 Pour me soutenir, achetez mes créations sur [lucas-c.itch.io](https://lucas-c.itch.io).
-Si vous testez ce scénario, faites-moi un retour sur [mon blog](https://chezsoi.org/lucas/blog/psirun-implacables-regles-additionnelles.html) :D
 
 Psi*Run est un jeu de Meguey Baker,
 <br>édité en français par [ElectricGoat](https://electric-goat.net/products/1).

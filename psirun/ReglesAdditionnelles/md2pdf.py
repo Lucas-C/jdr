@@ -13,8 +13,9 @@ from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
-    FR_MD_FILEPATH := DIR / "README.md",
+    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/psirun/ReglesAdditionnelles/
     EN_MD_FILEPATH := DIR / "ExtraRules.md",
+    FR_MD_FILEPATH := DIR / "README.md",
 )
 
 METADATA = {

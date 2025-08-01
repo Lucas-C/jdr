@@ -1,7 +1,12 @@
 # <span class="psirun">Psi<span class="asterisk">*</span>Run</span><br> Règles additionnelles
 <center>
 Ces règles facultatives détaillent comment gérer quelques cas particuliers,
-et visent à rendre vos parties encore plus amusantes !
+<br>et visent à rendre vos parties encore plus amusantes !
+
+::: web-only
+Version PDF : [Règles additionnelles (itch.io)](https://lucas-c.itch.io/psirun-regles-additionnelles)
+:::
+
 </center>
 
 ## Souvenirs
@@ -86,7 +91,9 @@ _(en relançant jusqu'à ce que le chiffre d'une joueuse soit tiré)_
 
 <footer>
 
-Aide de jeu réalisée par [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/).
+Aide de jeu réalisée par [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/). Version: 1.0 - [Fichiers sources](https://github.com/Lucas-C/jdr/tree/master/psirun/ReglesAdditionnelles).
+<br>
 Psi*Run est un jeu de Meguey Baker, édité en français par [ElectricGoat](https://electric-goat.net/products/1).
+<br>
 Illustration : [SunnyClockwork](https://www.deviantart.com/sunnyclockwork/art/Firebrand-Remembers-520559447) - [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) - Polices : [KillTheNoise](https://www.fontspace.com/kill-the-noise-font-f17592) & [Coves](https://www.behance.net/gallery/32715299/Coves-Free-Font)
 </footer>

@@ -39,3 +39,7 @@ footer {
   margin-top: 1.4rem;
 }
 .half-break { height: 1px; }
+
+@media print {
+  .web-only { display: none; }
+}

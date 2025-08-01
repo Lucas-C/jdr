@@ -1,4 +1,4 @@
-Mes créations de jeux de rôle hebergées [sur GitHub](https://github.com/Lucas-C/jdr/).
+Mes créations de jeux de rôle hébergées [sur GitHub](https://github.com/Lucas-C/jdr/).
 
 La plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
@@ -19,7 +19,7 @@ Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.
 
 - Pour [Psi*Run ](https://electric-goat.net/products/1) :
   * [Implacables (itch.io)](https://lucas-c.itch.io/psirun-implacables) - English version: [The Restless (itch.io)](https://lucas-c.itch.io/psirun-the-restless)
-  * [Le Manoir (itch.io)](https://lucas-c.itch.io/psirun-le-manoir)
+  * [Le Manoir (itch.io)](https://lucas-c.itch.io/psirun-le-manoir) - English version: [The Manor (itch.io)](https://lucas-c.itch.io/psirun-the-manor)
   * [Règles additionnelles (itch.io)](https://lucas-c.itch.io/psirun-regles-additionnelles) - English version: [Extra Rules (itch.io)](https://lucas-c.itch.io/psirun-extra-rules)
 
 - Pour [Blades in the Dark](https://fr.wikipedia.org/wiki/Blades_in_the_Dark) :
