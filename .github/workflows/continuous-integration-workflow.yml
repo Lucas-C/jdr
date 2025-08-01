@@ -170,8 +170,20 @@ jobs:
           cd -
 
           cd psirun/ReglesAdditionnelles/
+          if [[ $GIT_TAG =~ ^PsiRun-ReglesAdditionnelles-v ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/PsiRun-ReglesAdditionnelles-v/}/" README.md
+          fi
+          if [[ $GIT_TAG =~ ^PsiRun-ExtraRules-v ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/PsiRun-ExtraRules-v/}/" ExtraRules.md
+          fi
           ./md2pdf.py
           cd ../Implacables/
+          if [[ $GIT_TAG =~ ^PsiRun-Implacables-v ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/PsiRun-Implacables-v/}/" TheRestless.md
+          fi
+          if [[ $GIT_TAG =~ ^PsiRun-TheRestless-v ]]; then
+            sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/PsiRun-TheRestless-v/}/" TheRestless.md
+          fi
           ./md2pdf.py
           cd ../..
 

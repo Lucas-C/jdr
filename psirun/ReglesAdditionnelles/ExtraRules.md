@@ -2,6 +2,11 @@
 <center>
 Those optional game mechanics handle some specific cases
 <br>and try to make your sessions even more fun!
+
+::: web-only
+PDF version: [Extra Rules (itch.io)](https://lucas-c.itch.io/psirun-extra-rules)
+:::
+
 </center>
 
 ## Memories
@@ -86,7 +91,9 @@ _(by re-rolling until a player's number is drawn)_
 
 <footer>
 
-Game aid created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+Game aid created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). Version: 1.0 - [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/ReglesAdditionnelles).
+<br>
 [Psi*Run is a game by Meguey & Vincent Baker](https://lumpley.itch.io/psirun).
+<br>
 Illustration: [SunnyClockwork](https://www.deviantart.com/sunnyclockwork/art/Firebrand-Remembers-520559447) - [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/ ) - Fonts: [KillTheNoise](https://www.fontspace.com/kill-the-noise-font-f17592) & [Coves](https://www.behance.net/gallery/32715299/Coves-Free-Font)
 </footer>

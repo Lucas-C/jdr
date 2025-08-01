@@ -4,6 +4,11 @@
 A setting for Psi*Run inspired by _The Boys_.
 <br>
 _(but don't tell your players!)_
+
+::: web-only
+PDF version: [The Restless (itch.io)](https://lucas-c.itch.io/psirun-the-restless)
+:::
+
 </center>
 
 ## what the runners forgot
@@ -152,7 +157,7 @@ You can mention [the TV series Heroes](https://en.wikipedia.org/wiki/Heroes_(Ame
 
 <footer>
 
-Scenario created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/Implacables).
+Scenario created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). Version: 1.0 - [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/Implacables).
 To support my work, you can buy something on [lucas-c.itch.io](https://lucas-c.itch.io).
 If you play that scenario, please give me some feedback on [my blog](https://chezsoi.org/lucas/blog/psirun-implacables-regles-additionnelles.html).
 

@@ -2,7 +2,7 @@
 set -o pipefail -o errexit -o nounset -o xtrace
 cd $(dirname ${BASH_SOURCE[0]})
 
-declare -A gamesOnItchIo
+declare -A gamesOnItchIo  # map git tags to itch.io IDs
 gamesOnItchIo['2200_le_jugement_des_dieux']='2200-le-jugement-des-dieux'
 gamesOnItchIo[gdav]=ameres-victoires-glorieuses-defaites
 gamesOnItchIo[LesCouloirsDuTemps]=les-couloirs-du-temps
@@ -11,6 +11,10 @@ gamesOnItchIo[CyberPunk]=cyberpunk
 gamesOnItchIo[BladesInTheDark-Interrogatoires]=blades-in-the-dark-interrogatoires
 gamesOnItchIo[BladesInTheDark-Interrogation]=blades-in-the-dark-interrogation
 gamesOnItchIo[ParadisPerdu]=modules-de-secours
+gamesOnItchIo[PsiRun-Implacables]=psirun-implacables
+gamesOnItchIo[PsiRun-TheRestless]=psirun-the-restless
+gamesOnItchIo[PsiRun-ReglesAdditionnelles]=psirun-regles-additionnelles
+gamesOnItchIo[PsiRun-ExtraRules]=psirun-extra-rules
 
 GITHUB_REF=${1?-'git ref must be provided as argument'}
 GIT_TAG=${GITHUB_REF##*/}

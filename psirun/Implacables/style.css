@@ -58,3 +58,11 @@ img.logo { max-width: 6rem; }
   transform: rotate(-4deg);
 }
 .punchline p { margin: 0; }
+
+@media screen {
+  body { max-width: 50rem; margin: 0 auto; }
+  .frame { position: relative; margin: 0 auto; right: -2rem; top: 0; }
+}
+@media print {
+  .web-only { display: none; }
+}
