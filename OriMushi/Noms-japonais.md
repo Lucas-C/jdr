@@ -1,4 +1,9 @@
-<!-- La plupart proviennent de : https://fr.wikipedia.org/wiki/Liste_de_pr%C3%A9noms_japonais -->
+<!--
+La plupart proviennent de : https://fr.wikipedia.org/wiki/Liste_de_pr%C3%A9noms_japonais
+Idées :
+* indiquer le sens des prénoms
+* transformer en PDF multi-pages avec liens entre pages permettant de trouver un nom à partir de choix rigolos (ex: 1. saison; 2. couleur; etc.)
+-->
 <img src="cc-imgs/japan_flag_cool_wallpaper_by_Ir_IA_cc-by-nc_noBg.jpg" alt="Logo Ori Mushi" class="size8 float-right">
 
 ## Noms japonais

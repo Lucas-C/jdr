@@ -5,12 +5,12 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
 Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
-- [Ori Mushi](OriMushi) & [OriMushi-FeuillePersonnage.pdf](OriMushi/OriMushi-FeuillePersonnage.pdf) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
+- [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
 - [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour SOMBRE Zéro de Johan Scipion
 - [La Brigade du Chaos](https://lucas-c.itch.io/la-brigade-du-chaos) - Traduction d'un excellent jeu de Grant Howitt, et son aide de jeu maison : [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
 - [2200: Le Jugement Des Dieux](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
-- [ParadisPerdu-ModulesDeSecours.pdf](https://lucas-c.itch.io/modules-de-secours), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
-- [La Tour](latour)
+- [Paradis Perdu - Modules de Secours](https://lucas-c.itch.io/modules-de-secours), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
+- [La Tour](latour) ([version PDF](https://chezsoi.org/s/LaTourPDFDownload))
 - [Amères Victoires & Glorieuses Défaites](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites)
 - [Les Non-morts](https://lucas-c.itch.io/les-non-morts)
 - [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
@@ -60,8 +60,8 @@ Jeux de Grant Howitt :
 
 Jeux de Shane Mclean :
 
-- [Cheat Your Own Adventure](CheatYourOwnAdventure)
-- [Le dernier café sur la gauche](LeDernierCafeSurLaGauche.html)
+- [Cheat Your Own Adventure](CheatYourOwnAdventure) - ([version PDF](https://chezsoi.org/s/CYOAPDFDownload))
+- [Le dernier café sur la gauche](LeDernierCafeSurLaGauche.html) - ([version PDF](https://chezsoi.org/s/LDCSLGPDFDownload))
 
 [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
 
@@ -75,4 +75,4 @@ Jeux de Shane Mclean :
 
 [CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
 
-- [CyberPunk-FR.pdf](CyberPunk/CyberPunk-FR.pdf)
+- [CyberPunk-FR.pdf](https://chezsoi.org/s/CyberPunkFrPDFdownload)
