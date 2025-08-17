@@ -14,7 +14,7 @@ PDF version: [The Restless (itch.io)](https://lucas-c.itch.io/psirun-the-restles
 ## what the runners forgot
 <img class="logo float-right" src="VaultTech.jpg">
 
-Before their amnesia, the Runners were **ultra-powerful superheroes**, **extremely high-profile**,
+Before their amnesia, the Runners were previously **ultra-powerful superheroes**, **extremely high-profile**,
 but also secretly **horrible scum**, having committed the most amoral atrocities.
 They were known as **The Restless** and were supported by the mega-corporation **Vault Tech**.
 
