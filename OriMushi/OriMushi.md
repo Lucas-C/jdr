@@ -10,6 +10,7 @@
     scénario sans "méchant"
     scénario basé sur le background des PJs
     scénario mettant en avant la pollution produite par les usines
+    proposer des passages "Autour du Feu" particuliers avant certains scénarios
 * designer paliers 2/3 des Voies, cf. ci-dessous
     -> ajouter compteur de progression d'Oris avec cases à cocher
     -> anticiper changement de palier de Laure
