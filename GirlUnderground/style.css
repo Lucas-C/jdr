@@ -1,0 +1,94 @@
+@font-face { font-family: Athelas; src: url("fonts/Athelas-Regular.ttf"); }
+@font-face { font-family: Athelas; src: url("fonts/Athelas-Bold.ttf"); font-weight: bold; }
+@font-face { font-family: Athelas; src: url("fonts/Athelas-Italic.ttf"); font-style: italic; }
+@font-face { font-family: Athelas; src: url("fonts/Athelas-BoldItalic.ttf"); font-weight: bold; font-style: italic; }
+@font-face { font-family: Goldenbook; src: url("fonts/Goldenbook.otf"); }
+@font-face { font-family: Goldenbook; src: url("fonts/Goldenbook-Heavy.otf"); font-weight: bold; }
+
+@page {
+  margin: /*top=*/20mm /*lateral=*/15mm /*bottom=*/20mm;
+}
+
+body {
+  font-family: "Athelas";
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+}
+h2 {
+  font-family: "Goldenbook";
+  font-weight: bold;
+  text-align: center;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  margin-top: 0;
+}
+img { max-height: 25rem; display: block; margin: 0 auto; }
+
+img.banner {
+  width: 100%;
+  margin-top: -3rem;
+  margin-bottom: 1rem;
+  z-index: -1;
+}
+
+.frame {
+  border: 1px solid black;
+  padding: 1rem;
+  font-size: .85rem;
+  position: relative;
+  margin-top: 2rem;
+}
+.frame p { margin: 0; }
+.frame .title {
+  position: absolute;
+  top: -1rem;
+  width: 95%;
+  text-align: center;
+  font-size: 1.1rem;
+}
+.frame .title p {
+  display: inline;
+  padding: 0 .5rem;
+  background: white;
+  font-style: italic;
+}
+ul {
+  list-style: '⃝ ';
+  margin: 0;
+  padding-left: .666rem;
+}
+.col2-list ul { columns: 2; }
+.col3-list ul { columns: 3; }
+
+.col2 { columns: 2; }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th { font-weight: normal; }
+th, td {
+  font-family: "Goldenbook";
+  font-size: 1.7rem;
+  line-height: 2.3rem;
+  text-align: center;
+  padding: 1rem 2rem 1rem;
+  vertical-align: top;
+  border: #eee 1px solid;
+}
+th::before, td::before {
+  display: block;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+.manners th::before, .manners td::before {
+  content: '☙ BONNE MANIÈRE ❧';
+}
+.beliefs th::before, .beliefs td::before {
+  content: '☙ CROYANCE ❧';
+}
+
+@media print {
+  .web-only { display: none; }
+}
