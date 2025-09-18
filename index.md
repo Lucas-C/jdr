@@ -50,7 +50,26 @@ Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.
 Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 
-### Traductions
+### Traductions anglais → français
+
+[Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
+
+- [PDF 37 Ko](https://chezsoi.org/s/RDRfrdirectPDFdownload)
+- [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
+
+Aides de jeu pour [Girl Underground de Lauren McManamon & Jesse Ross](https://girlunderground.org/) :
+
+- PDF: _work in progress_
+
+[CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
+
+- [CyberPunk-FR.pdf](https://chezsoi.org/s/CyberPunkFrPDFdownload)
+
+[Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
+
+- [PDF 1.7 Mo](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
+- [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon%20Heart%20B%26W%20v1.6%20fr.fodg)
+
 
 Jeux de Grant Howitt :
 
@@ -62,17 +81,3 @@ Jeux de Shane Mclean :
 
 - [Cheat Your Own Adventure](CheatYourOwnAdventure) - ([version PDF](https://chezsoi.org/s/CYOAPDFDownload))
 - [Le dernier café sur la gauche](LeDernierCafeSurLaGauche.html) - ([version PDF](https://chezsoi.org/s/LDCSLGPDFDownload))
-
-[Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
-
-- [PDF 1.7 Mo](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
-- [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon%20Heart%20B%26W%20v1.6%20fr.fodg)
-
-[Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
-
-- [PDF 37 Ko](https://chezsoi.org/s/RDRfrdirectPDFdownload)
-- [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
-
-[CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
-
-- [CyberPunk-FR.pdf](https://chezsoi.org/s/CyberPunkFrPDFdownload)

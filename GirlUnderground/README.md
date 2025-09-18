@@ -9,7 +9,10 @@ Unicode Typography Ornaments:
 🙠 🙡 🙢 🙣 🙤 🙥 🙦 🙧 
 -->
 
-![](extracted-imgs/Couverture.png)
+<figure>
+  <img src="img/cover.png" alt="Couverture du jeu">
+  <figcaption><a href="https://girlunderground.org/">girlunderground.org - Lauren McManamon & Jesse Ross</a></figcaption>
+</figure>
 
 <br>
 
@@ -23,32 +26,34 @@ En raison du type d'histoire que raconte _Girl Underground_, nous l'abordons ave
 
 <p style="break-after: page"></p>
 
-::: playbook
+:::::: playbook
 ## La Jeune Fille
-<img src="img/playbook-embellishment.png" class="banner">
+<img src="img/playbook-embellishment.png" alt="" class="banner">
 Tu es une fille de 12 ans. Tu n'es pas de ce monde et tu essaies de retrouver le chemin du retour. La maison n'est pas parfaite – en fait, elle est pleine de difficultés et d'injustices – mais c'est quand même ta maison. Il y a des gens qui t'aiment, qui te manquent en ce moment et qui se demandent pourquoi tu n'es pas encore venue dîner.
 
-:::: frame
-::::: title
-Collectivement, décidez du nom de la Jeune Fille.
-:::::
+<p class="half-break"></p>
+
+::::: frame
+:::: title
+_Collectivement, décidez du nom de la Jeune Fille._
+::::
 Si votre famille a de l'amour mais pas :
 
-::::: col3-list
+:::: col3-list
 * de curiosité, ton nom est **Kat**.
 * d'argent, ton nom est **Penny**.
 * de temps, ton nom est **Patience**.
 * de magie, ton nom est **Faye**.
 * de sérénité, ton nom est **Serena**.
 * de \_\_\_\_\_\_\_\_\_, ton nom est **\_\_\_\_\_\_\_\_\_**.
-:::::
 ::::
-
-:::: frame
-::::: title
-Répondez ensuite chacun votre tour à ces questions.
 :::::
-::::: col2
+
+::::: frame
+:::: title
+_Répondez ensuite chacun votre tour à ces questions._
+::::
+:::: col2
 **Comment portez-vous vos cheveux ?**
 * Doux et texturés comme un nuage endormi
 * Longs et ondulés comme une douce marée d'été
@@ -56,37 +61,247 @@ Répondez ensuite chacun votre tour à ces questions.
 * Coupés courts comme l'herbe fraîchement tondue
 * Emmêlés et noués comme une corde qui s'effiloche
 * Tressés et fluides comme une rivière sinueuse
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Quelle est votre possession la plus chère ?**
 
-:::::: col2-list
-* Quelque chose domestique
-* Quelque chose fabriqué par vous
+::: col2-list
 * Quelque chose naturel
-* Quelque chose d'offert
+* Quelque chose offert
+* Quelque chose domestique
 * Quelque chose vivant
 * Quelque chose volé
-::::::
+* Quelque chose fabriqué par vous
+:::
 
-_Descrivez-le :_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Décrivez-le :_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-:::::
+
+**À quoi ressemble votre voix ?**
+* Pétillant comme un ruisseau qui coule
+* Chaud comme une brise d'été
+* Rapide comme un éclair
+* Rêveur comme un nuage de barbe à papa
+* Graveleux comme une route de campagne
+* Silencieux comme une pensée secrète
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Quelle est votre plus grande peur ?**
+* L'absence (l'obscurité, le silence, l'isolement...)
+* La colère (le feu, les monstres, les séismes...)
+* L'humiliation (les harceleurs, les défauts, l'échec...)
+* L'incapacité (la paralysie, la maladie, la pauvreté...)
+* Le jugement (le mérite, les choix, les perceptions...)
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ::::
 
-:::: frame
-::::: title
-Maintenant consultez la liste des Bonnes Manières et décidez collectivement :
+**Qu'est-ce vous voulez être quand vous serez grande ?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**À quoi ressemble votre vie familiale ?** _Le guide peut vous poser des questions supplémentaires ici._
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 :::::
-**Quelle Bonne Manière choissez-vous d'ignorer lorsque vous découvrez votre porte vers un autre monde ?**
-Retournez-le et écrivez une nouvelle Croyance qui reflète ce que vous savez déjà de vous-même.
+
+::::: frame
+:::: title
+_Maintenant consultez la liste des Bonnes Manières et décidez collectivement :_
 ::::
-:::
+**Quelle Bonne Manière choisissez-vous d'ignorer lorsque vous découvrez votre porte vers un autre monde ?**
+Retournez-le et écrivez une nouvelle Croyance qui reflète ce que vous savez déjà de vous-même.
+:::::
+::::::
 
 <p style="break-after: page"></p>
 
 
-## Les bonnes manières
+:::::: playbook
+## Manœuvres de la Jeune Fille
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+Vous avez accès à toutes ces actions chaque fois que vous incarnez la Jeune Fille.
+
+::::: frame
+:::: title
+**Refusez de respecter les Bonnes Manières**
+::::
+Lorsque vous faites face à une situation en refusant de jouer la jeune fille bien élevée, nommez la Bonne Manière contre laquelle vous vous rebellez et lancez deux dés. Additionnez-les pour obtenir votre résultat.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment surmontez-vous ce défi ?<br><em>De 7 à 9, également</em> : Comment échouez-vous ou allez-vous trop loin ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+Quel aspect de votre rébellion est mal compris par les autres ?
+:::
+::::
+
+:::: effect
+Retournez la Bonne Manière et inscrivez une nouvelle Croyance basée sur ce que cela vous a appris sur vous-même ou sur le monde.
+::::
+:::::
+
+::::: frame
+:::: title
+**Défendez vos convictions**
+::::
+Lorsque vous faites face à une situation en restant fidèle à vos convictions, commencez avec un dé, puis prenez un dé supplémentaire pour chaque Croyance concernée et lancez-les. Additionnez les deux dés les plus élevés pour obtenir votre résultat.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment surmontez-vous ce défi ?<br><em>De 7 à 9, également</em> : Quel prix est-ce que cela vous coûte ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+Qu'apprenez-vous qui vous aidera à surmonter une difficulté plus tard ?
+:::
+::::
+
+:::::
+
+::::: frame
+:::: title
+**Toujours plus curieuse**
+::::
+Lorsque vous essayez d'obtenir des réponses sur ce monde ou ses habitants, posez votre question au Guide.
+
+:::: side-by-side
+:::
+Si vous êtes prêt à participer à une activité bizarre, votre réponse sera — étonnamment — claire et utile.
+:::
+
+:::
+Si vous n'êtes pas disposé à le faire, votre réponse prendra la forme d'une énigme.
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Tournez manège**
+::::
+Lorsque vous voulez introduire un Compagnon dans une scène, ou placer quelqu'un d'autre dans la lumière, passez le livret de la Jeune Fille à un autre joueur de votre choix. Il devient alors la Jeune Fille.
+:::::
+
+<img src="img/embellishment-01.png" alt="" class="embellishment">
+
+::::: frame agenda
+:::: title
+_Lorsque vous incarnez la Jeune Fille, essayez de faire ceci :_
+::::
+Désirez ce qui manque à votre famille et à votre foyer.
+
+Agissez contre vos Bonnes Manières et en accord avec vos convictions.
+
+Soyez courageuse et saisissez les occasions d'apprendre et de grandir.
+
+Posez des questions pertinentes à toutes les personnes que vous rencontrez.
+
+Demandez de l'aide à vos Compagnons en cas de besoin.
+:::::
+::::::
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## La Bestiole
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Manœuvres de la Bestiole
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## L'Homoncule
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Manœuvres de l'Homoncule
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Le Faune
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Manœuvres du Faune
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Le Myhtique
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Manœuvres du Mythique
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## L'Ogre
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Manœuvres de l'Ogre
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Le Fugueur
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+:::::: playbook
+## Manœuvres du Fugueur
+<img src="img/playbook-embellishment.png" alt="" class="banner">
+
+<p style="break-after: page"></p>
+
+
+## Les Bonnes Manières
 
 La société attend d'une fille qu'elle soit polie, mais ce n'est pas toujours la meilleure façon de faire la différence.
 
@@ -126,7 +341,7 @@ _**La Jeune Fille :**_ Vous jouez pour découvrir ce que la Jeune Fille ressent 
 
 _**La Bête :**_ La Bête est synonyme d'autorité et de rébellion. Laissez ses mots et son esprit la mettre dans le pétrin et la sortir des ennuis. Créez des rencontres avec des personnes qui pensent savoir mieux que vous ou qui tentent de tromper la Jeune Fille. La Bête connaît tout le monde, alors laissez-les présenter de nouveaux personnages ou partager des ragots sur des personnages connus. Saisissez l'occasion de tisser des histoires conflictuelles entre la Bête et ces individus.
 
-_**La Construction :**_ La Construction représente l'identité personnelle et l'objectivité. Ils découvrent ce que signifie être en vie et comment la société ne les perçoit pas toujours de cette façon.
+_**L'Homoncule :**_ L'Homoncule représente l'identité personnelle et l'objectivité. Ils découvrent ce que signifie être en vie et comment la société ne les perçoit pas toujours de cette façon.
 Introduisez des objets fabriqués dans le même matériau pour permettre au Construct d'explorer son identité et ses racines émergentes. Présentez également des personnages que le Construct peut examiner. Ils sont également reconstructibles, donc si vous souhaitez augmenter les enjeux par la violence, faites-leur porter le poids des dégâts (mais attention, ne les tuez pas).
 
 _**Le Faune :**_ Le Faune est transformation et exaucement de vœux. Créez des défis qui ne peuvent être surmontés que par une imagination débordante, prête à explorer pleinement la logique des contes de fées. Introduisez des fêtes et des rassemblements pour les aider à attirer des personnages utiles.

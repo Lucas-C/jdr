@@ -3,10 +3,9 @@
 @font-face { font-family: Athelas; src: url("fonts/Athelas-Italic.ttf"); font-style: italic; }
 @font-face { font-family: Athelas; src: url("fonts/Athelas-BoldItalic.ttf"); font-weight: bold; font-style: italic; }
 @font-face { font-family: Goldenbook; src: url("fonts/Goldenbook.otf"); }
-@font-face { font-family: Goldenbook; src: url("fonts/Goldenbook-Heavy.otf"); font-weight: bold; }
 
 @page {
-  margin: /*top=*/20mm /*lateral=*/15mm /*bottom=*/20mm;
+  margin: /*top=*/15mm /*lateral=*/15mm /*bottom=*/15mm;
 }
 
 body {
@@ -22,21 +21,27 @@ h2 {
   line-height: 2.5rem;
   margin-top: 0;
 }
-img { max-height: 25rem; display: block; margin: 0 auto; }
 
+img { max-height: 25rem; display: block; margin: 0 auto; }
+figcaption { text-align: center; margin-top: 1rem; }
 img.banner {
   width: 100%;
   margin-top: -3rem;
   margin-bottom: 1rem;
+  position: relative;
   z-index: -1;
+}
+img.embellishment {
+  width: 2rem;
+  margin: 1rem auto;
 }
 
 .frame {
   border: 1px solid black;
-  padding: 1rem;
+  padding: 1rem 1rem .666rem;
   font-size: .85rem;
   position: relative;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 .frame p { margin: 0; }
 .frame .title {
@@ -45,13 +50,86 @@ img.banner {
   width: 95%;
   text-align: center;
   font-size: 1.1rem;
+  text-transform: none;
 }
 .frame .title p {
   display: inline;
   padding: 0 .5rem;
   background: white;
-  font-style: italic;
 }
+.frame.agenda {
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+}
+.frame.agenda::before, .frame.agenda::after,
+.frame.agenda .title::before, .frame.agenda .title::after {
+  content: '';
+  background-image: url('img/corner.png');
+  background-size: cover;
+  display: block;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.frame.agenda .title::before {
+  left: -23px;
+  top: 9px;
+}
+.frame.agenda .title::after {
+  transform: scaleX(-1);
+  right: -24px;
+  top: 9px;
+}
+.frame.agenda::before {
+  transform: scaleY(-1);
+  left: -7px;
+  bottom: -7px;
+}
+.frame.agenda::after {
+  transform: scale(-1, -1);
+  right: -7px;
+  bottom: -7px;
+}
+
+.side-by-side {
+  columns: 2;
+  column-rule: 1px solid lightgrey;
+  padding-top: .5rem;
+}
+.side-by-side > * { display: flex; }
+.score {
+  padding: 0 .5rem;
+  font-size: 2.5rem;
+  line-height: 3rem;
+}
+
+.effect {
+  width: 66%;
+  margin: .5rem auto 0;
+  text-align: center;
+  position: relative;
+}
+.effect::before, .effect::after {
+  content: '';
+  background-image: url('img/embellishment-02.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+  width: 69px;
+  height: 42px;
+  position: absolute;
+}
+.effect::before {
+  left: -75px;
+  top: 5px;
+}
+.effect::after {
+  transform: scaleX(-1);
+  right: -75px;
+  top: 5px;
+}
+
 ul {
   list-style: '⃝ ';
   margin: 0;
@@ -88,6 +166,8 @@ th::before, td::before {
 .beliefs th::before, .beliefs td::before {
   content: '☙ CROYANCE ❧';
 }
+
+.half-break { height: 1px; }
 
 @media print {
   .web-only { display: none; }
