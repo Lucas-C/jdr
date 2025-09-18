@@ -77,16 +77,6 @@ jobs:
           node ../md2html.js CheatYourOwnAdventure.md > index.html
           cd -
 
-          if [[ $GIT_TAG =~ ^CyberPunk-v ]]; then
-            mv CyberPunk/CyberPunk-FR.pdf $GIT_TAG.pdf
-          fi
-
-          echo "Rendering DungeonHeartHeroesAndSpells"
-          cd DungeonHeartHeroesAndSpells
-          node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
-          node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
-          cd -
-
           echo "Rendering ce-nest-pas-une-place-dhonneur"
           cd ce-nest-pas-une-place-dhonneur
           node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
@@ -103,6 +93,16 @@ jobs:
           fi
           cd -
 
+          if [[ $GIT_TAG =~ ^CyberPunk-v ]]; then
+            mv CyberPunk/CyberPunk-FR.pdf $GIT_TAG.pdf
+          fi
+
+          echo "Rendering DungeonHeartHeroesAndSpells"
+          cd DungeonHeartHeroesAndSpells
+          node ../md2html.js DungeonHeartHeroesAndSpells.md > index.html
+          node ../md2html.js --lang=en DungeonHeartHeroesAndSpells_en.md > DungeonHeartHeroesAndSpells_en.html
+          cd -
+
           echo "Rendering gdav"
           cd gdav
           node ../md2html.js --title='Amères Victoires &amp; Glorieuses Défaites' gdav.md > index.html
@@ -116,6 +116,17 @@ jobs:
           echo "Rendering genius-loci"
           cd genius-loci
           node ../md2html.js genius-loci.md > index.html
+          cd -
+
+          echo "Rendering Girl Underground"
+          cd GirlUnderground
+          if [[ $GIT_TAG =~ ^girl-underground- ]]; then
+            sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/girl-underground-/}/" README.md
+            ./md2pdf.py && ./build-2up-pdf.sh
+            mv GirlUnderground-FR-2up.pdf ../$GIT_TAG.pdf
+          else
+            ./md2pdf.py && ./build-2up-pdf.sh
+          fi
           cd -
 
           echo "Rendering latour"
@@ -135,11 +146,12 @@ jobs:
           echo "Rendering OriMushi"
           cd OriMushi
           ./gen_illus_pdf.py
-          ./md2pdf.py
           if [[ $GIT_TAG =~ ^ori-mushi- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/ori-mushi-/}/" OriMushi.md
             ./md2pdf.py
             mv OriMushi.pdf ../$GIT_TAG.pdf
+          else
+            ./md2pdf.py
           fi
           cd -
 
