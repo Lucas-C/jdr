@@ -33,8 +33,11 @@ img.banner {
 }
 img.embellishment {
   width: 2rem;
-  margin: 1rem auto;
+  margin: 1rem auto 2rem;
 }
+
+.playbook > p { text-align: justify; }
+p.notes { font-style: italic; margin-bottom: -.5rem; }
 
 .frame {
   border: 1px solid black;
@@ -61,12 +64,14 @@ img.embellishment {
   text-align: center;
   text-transform: uppercase;
   position: relative;
+  margin-top: -.5rem;
 }
 .frame.agenda::before, .frame.agenda::after,
 .frame.agenda .title::before, .frame.agenda .title::after {
   content: '';
   background-image: url('img/corner.png');
   background-size: cover;
+  background-repeat: no-repeat;
   display: block;
   width: 39px;
   height: 39px;
@@ -137,6 +142,10 @@ ul {
 }
 .col2-list ul { columns: 2; }
 .col3-list ul { columns: 3; }
+.col4-list ul { columns: 4; }
+.col5-list ul { columns: 5; }
+.col5-list-beastie-before ul { display: grid; grid-template-columns: 13% 27% 13% 30% 20%; }
+.col5-list-construct-unnerving ul { display: grid; grid-template-columns: 14% 15% 24% 29% 20%; }
 
 .col2 { columns: 2; }
 
