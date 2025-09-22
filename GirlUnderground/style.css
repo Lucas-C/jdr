@@ -143,9 +143,14 @@ ul {
 .col2-list ul { columns: 2; }
 .col3-list ul { columns: 3; }
 .col4-list ul { columns: 4; }
+.col4-list-faun-resist ul { display: grid; grid-template-columns: 26% 29% 25% 20%; }
+.col4-list-faun-state ul { display: grid; grid-template-columns: 25% 26% 31% 18%; }
 .col5-list ul { columns: 5; }
+.col6-list ul { columns: 6; }
 .col5-list-beastie-before ul { display: grid; grid-template-columns: 13% 27% 13% 30% 20%; }
 .col5-list-construct-unnerving ul { display: grid; grid-template-columns: 14% 15% 24% 29% 20%; }
+.col5-list-faun-transform ul { display: grid; grid-template-columns: 12% 27% 20% 25% 16%; }
+.col5-list-mythic-need ul { display: grid; grid-template-columns: 27% 13% 15% 15% 20%; }
 
 .col2 { columns: 2; }
 
