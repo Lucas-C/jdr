@@ -337,7 +337,7 @@ Lancez les dés lorsque vous offrez des conseils à la Jeune Fille et qu'elle le
 :::: side-by-side
 :::
 <p class="score">7+</p>
-<p>La Fille peut relancer et ajouter 1 au total.
+<p><em>La Jeune Fille peut relancer et ajouter 1 au total.</em>
 <br><em>De 7 à 9</em> : Quelle vérité avez-vous oublié de partager avec la Fille ?</p>
 :::
 
@@ -360,7 +360,7 @@ Lancez les dés lorsque vous doutez de l'apparence superficielle d'une personne,
 <p class="score">7+</p>
 <p><em>Demandez à celui qui joue le personnage</em> :
 Quelle vérité se cache sous la surface ?
-<em>Sur 7 à 9</em> : En quoi la vérité est-elle pire que le vernis ?</p>
+<em>De 7 à 9</em> : En quoi la vérité est-elle pire que le vernis ?</p>
 :::
 
 :::
@@ -381,7 +381,7 @@ Lancez les dés lorsque vous rencontrez pour la première fois un membre de la r
 :::
 <p class="score">7+</p>
 <p>Quelle histoire avez-vous déjà partagée avec vos amis à propos de cette personne ?
-<br><em>Sur 7 à 9</em> : Quelle impolitesse faites-vous devant elle ?</p>
+<br><em>De 7 à 9</em> : Quelle impolitesse faites-vous devant elle ?</p>
 :::
 
 :::
@@ -402,7 +402,7 @@ Lancez les dés lorsque vous évoquez une de vos connaissances influente qui pou
 :::
 <p class="score">7+</p>
 <p>Comment la trouver et pourquoi vous doit-elle une faveur ?
-<em>Sur 7 à 9</em> : Comment l'avez-vous agacé lors de votre dernière rencontre ?</p>
+<em>De 7 à 9</em> : Comment l'avez-vous agacé lors de votre dernière rencontre ?</p>
 :::
 
 :::
@@ -423,7 +423,7 @@ Lancez les dés lorsque vous essayez de vous sortir d'un problème, d'un piège 
 :::
 <p class="score">7+</p>
 <p>Comment vous êtes-vous sorti d'une situation similaire par le passé ?
-<br><em>Sur 7 à 9, demandez à la table</em> : Qui est blessé par mes mots d'esprit, et comment ?</p>
+<br><em>De 7 à 9, demandez à la table</em> : Qui est blessé par mes mots d'esprit, et comment ?</p>
 :::
 
 :::
@@ -567,7 +567,7 @@ Lancez les dés lorsque vous encouragez la Jeune Fille en faisant preuve d'human
 :::: side-by-side
 :::
 <p class="score">7+</p>
-<p>La Fille peut relancer et ajouter 1 au total.
+<p><em>La Jeune Fille peut relancer et ajouter 1 au total.</em>
 <br><em>De 7 à 9</em> : Comment cela vous fait questionner votre humanité ?</p>
 :::
 
@@ -588,9 +588,8 @@ Lancez les dés lorsque vous fixez quelqu'un pour le percer à jour.
 :::: side-by-side
 :::
 <p class="score">7+</p>
-<p><em>Demandez-lui</em> :
-Que désire ton cœur ?
-<br><em>Sur 7 à 9</em> : Quel secret découvre-t-il lorsqu'il vous rend votre regard ?</p>
+<p><em>Demandez-lui</em> : Que désire ton cœur ?
+<br><em>De 7 à 9</em> : Quel secret découvre-t-il lorsqu'il vous rend votre regard ?</p>
 :::
 
 :::
@@ -611,7 +610,7 @@ Lancez les dés lorsque vous recevez d'importants dégâts.
 :::
 <p class="score">7+</p>
 <p><em>Demandez à la table</em> : comment me réparez-vous ?
-<em>Sur 7 à 9</em> : Comment avez-vous été changé par ce qu'il vient de se passer ?</p>
+<em>De 7 à 9</em> : Comment avez-vous été changé par ce qu'il vient de se passer ?</p>
 :::
 
 :::
@@ -632,7 +631,7 @@ Lancez les dés lorsque vous discutez avec quelque chose d'ordinaire inanimé.
 :::
 <p class="score">7+</p>
 <p>Quelle histoire apprenez-vous ?
-<br><em>Sur 7 à 9</em> : Pourquoi l'histoire semble incomplète ou confuse ?</p>
+<br><em>De 7 à 9</em> : Pourquoi l'histoire semble incomplète ou confuse ?</p>
 :::
 
 :::
@@ -652,8 +651,8 @@ Lancez les dés lorsque vous ou vos amis essayez de vous cacher en restant immob
 :::: side-by-side
 :::
 <p class="score">7+</p>
-<p><em>Demandez au Guide</em> : quel avantage est-ce cela vous confère ?
-<em>Sur 7 à 9, demandez au Guide</em> : Qui est mis en danger par mon action ?</p>
+<p><em>Demandez au Guide</em> : quel avantage est-ce cela me confère ?
+<em>De 7 à 9, demandez au Guide</em> : Qui est mis en danger par mon action ?</p>
 :::
 
 :::
@@ -670,6 +669,115 @@ Quel bazar est-ce que vous provoquez ?
 ## Le Faune
 <img src="img/playbook-embellishment.png" alt="" class="banner">
 
+Votre corps vit entre deux mondes : humain et… ailleurs. Peut-être votre moitié est-elle une bête, vous faisant ressembler à un centaure ou à une sirène.
+Ou peut-être êtes-vous en harmonie avec quelque chose de plus élémentaire, comme un génie ou une ombre.
+
+Vous êtes un être de transformations, de votre capacité à exaucer des vœux à la transmission de vos pouvoirs de métamorphose. Vous transformez également presque n’importe quel événement en festivités, et utilisez ce talent à des fins utiles.
+
+::::: frame
+:::: title
+_Répondez à ces questions_
+::::
+**Quel est votre autre moitié ?**
+
+:::: col6-list
+* Cheval
+* Chèvre
+* Eau
+* Feu
+* Loup
+* Nuage
+* Ombre
+* Plante
+* Poisson
+* Pierre
+* Serpent
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**À quoi avez-vous du mal à résister ?**
+
+:::: col4-list-faun-resist
+* Une belle voix chantante
+* Une occasion de se montrer
+* Des vêtements luxueux
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**En quoi aimeriez-vous vous transformer ?**
+
+:::: col5-list-faun-transform
+* Un adulte
+* Une créature majestueuse
+* Un enfant normal
+* Un morceau de nature
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Que quoi avez-vous besoin que ce voyage vous apportera ?**
+
+:::: col3-list
+* Le contrôle sur votre moitié
+* Une transformation complète
+* Une chance de se racheter
+* Une vraie raison de célébrer
+* Votre propre souhait exaucé
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Dans quel état êtes-vous lorsque la Jeune Fille vous trouve ?**
+
+:::: col4-list-faun-state
+* Épuisé par les festivités
+* Couvert de fruits pourris
+* Dans un numéro de spectacle
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Quel est votre nom ?**
+
+:::: col6-list
+* Arielle
+* Asteria
+* Ember
+* Hans
+* Ifan
+* Jiah
+* Nylisa
+* Nyx
+* Rhian
+* Saga
+* Sepu
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+:::::
+
+<p class="notes">Notes</p>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<p class="half-break"></p>
+
+::::: frame agenda
+:::: title
+_Lorsque vous incarnez le Faune, essayez de faire ceci :_
+::::
+Regardez les choses sous un angle différent
+
+Rendez les choses, surtout les plus dangereuses, amusantes
+
+Laissez-vous emporter
+
+Ressentez les choses profondément et passionnément
+
+Incitez la Jeune Fille à essayer de nouvelles choses
+:::::
+::::::
+
 <p style="break-after: page"></p>
 
 
@@ -680,12 +788,219 @@ Quel bazar est-ce que vous provoquez ?
 Lorsque vous déclenchez une manœuvre, lancez deux dés et additionnez-les pour obtenir votre résultat : 7 ou plus, ou 6 ou moins. Un résultat de 7 à 9 rajoute des complications.
 Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lancez trois dés au lieu de deux. Additionnez les deux dés les plus élevés pour obtenir votre résultat.
 
+::::: frame
+:::: title
+**Comme vous voudrez**
+::::
+Lancez les dés lorsque vous proposez à la Jeune Fille de formuler un vœu que vous réaliserez, et qu'elle accepte.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p><em>La Jeune Fille peut relancer et ajouter 1 au total.</em>
+<br><em>De 7 à 9, demandez à la Jeune Fille</em> : Comment le vœu vous donne-t-il envie de plus ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+Comment votre souhait échoue de manière inattendue ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Chœur de la forêt**
+::::
+Lancez les dés lorsque vous vous souvenez d’une chanson ou d’une comptine sur l’endroit où vous vous trouvez actuellement.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment votre chanson transforme-t-elle l’environnement ?
+<em>De 7 à 9, demandez au Guide</em> : Quel est le verset que j'avais oublié ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Comment ma chanson retourne-t-elle l'environnement contre nous ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Lâcher la bête**
+::::
+Lancez les dés lorsque vous laissez votre autre moitié prendre le dessus.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Quelle chose étrange pouvez-vous accomplir désormais ?
+<em>De 7 à 9</em> : Comment en perdez-vous le contrôle ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Qu'est-ce que mon autre moitié préférerait faire plutôt ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Seconde nature**
+::::
+Lancez les dés lorsque vous offrez un peu de votre magie de métamorphose à quelqu'un, qui accepte.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p><em>Demandez-lui</em> : Quelle forme prends-tu ?
+<br><em>De 7 à 9, demandez-lui</em> : Quelle part de toi-même me donnes-tu en échange ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez-lui_ : Dans quelle apparence es-tu bloquée ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Raffut sauvage**
+::::
+Lancez les dés lorsque vous chantez, dansez ou participez à des réjouissances bruyantes.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Qui se joint à vos festivités et quelle aide proposent-ils ?
+<em>De 7 à 9, demandez au Guide</em> : Que demandent-ils en retour ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+Qui intervient pour mettre fin à la fête ?
+:::
+::::
+:::::
+
 <p style="break-after: page"></p>
 
 
 :::::: playbook
 ## Le Myhtique
 <img src="img/playbook-embellishment.png" alt="" class="banner">
+
+Vous êtes un être rare, issu de légendes et de fantasmes : dragon, pégase, phénix ou autre créature volante majestueuse. Vous êtes aussi le dernier de votre espèce, et il est de votre devoir de perpétuer leurs traditions.
+
+Vous possédez un grand pouvoir, et les légendes de votre peuple recèlent une véritable sagesse.
+Vous avez un talent particulier pour commander et inspirer les autres, même si cela implique parfois de faire de véritables sacrifices.
+
+::::: frame
+:::: title
+_Répondez à ces questions_
+::::
+**Qu’est-ce qui impressionne le plus les gens dans votre apparence ?**
+
+:::: col3-list
+* Votre plumage royal
+* Vos écailles majestueuses
+* Vos ailes glorieuses
+* Vos couleurs majestueuses
+* Vos bois fiers et imposants
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**En tant que dernier de votre espèce, comment vous souvenez-vous de vos semblables ?**
+
+:::: col5-list
+* Avec respect
+* Avec tristesse
+* Avec culpabilité
+* Avec espoir
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Que devez-vous protéger à tout prix ?**
+
+:::: col3-list
+* L'héritage de votre peuple
+* Les âmes perdues et solitaires
+* La magie de cette terre
+* Votre honneur
+* La paix et l'harmonie
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Que quoi avez-vous besoin que ce voyage vous apportera ?**
+
+:::: col5-list-mythic-need
+* Quelqu'un comme moi
+* La vérité
+* Le repentir
+* Faire le bien
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Dans quel état êtes-vous lorsque la Jeune Fille vous trouve ?**
+
+:::: col5-list
+* En chute libre
+* En feu
+* Enchaîné
+* Blessé
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Quel est votre nom ?**
+
+:::: col6-list
+* Aura
+* Druti
+* Ersyniess
+* Izalos
+* Keiki
+* Lamai
+* Nathaksha
+* Pyrion
+* Valkaire
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+:::::
+
+<p class="notes">Notes</p>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<p class="half-break"></p>
+
+::::: frame agenda
+:::: title
+_Lorsque vous incarnez le Faune, essayez de faire ceci :_
+::::
+Faites honneur à votre héritage
+
+Inspirez la Jeune Fille
+
+Faites le sacrifice ultime
+
+Ressentez le poids de la nostalgie
+
+Soyez au-dessus de tout ça
+:::::
+::::::
 
 <p style="break-after: page"></p>
 
@@ -696,6 +1011,114 @@ Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lance
 
 Lorsque vous déclenchez une manœuvre, lancez deux dés et additionnez-les pour obtenir votre résultat : 7 ou plus, ou 6 ou moins. Un résultat de 7 à 9 rajoute des complications.
 Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lancez trois dés au lieu de deux. Additionnez les deux dés les plus élevés pour obtenir votre résultat.
+
+<br>
+
+::::: frame
+:::: title
+**Courage, Cœur Vaillant**
+<!-- "Courage, Dear Heart" est une citation de Narnia, je n'ai pas trouvé de meilleure traduction... -->
+::::
+Lancez les dés lorsque vous racontez une histoire pour inspirer du courage à la Jeune Fille.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p><em>La Jeune Fille peut relancer et ajouter 1 au total.</em>
+<br><em>De 7 à 9</em> : Quel sombre détail avez-vous gardé pour vous ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez à la table_ : Quel est ce malaise que vous ressentez ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Retour vers le futur**
+::::
+Lancez les dés lorsque vous partagez les légendes de votre peuple pour donner du sens au monde.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment votre histoire prédit-elle ce qu'il va se passer ?
+<em>De 7 à 9</em> : Comment cela rappelle à tout le monde la disparition de votre peuple ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+Quelle partie de l'histoire n'as-tu pas partagée parce qu'elle laisse présager un avenir sombre ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Rayonner de majesté**
+::::
+Lancez les dés lorsque vous impressionnez l'assistance et lui intimez votre volonté.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment l'assemblée est-elle captivée par vous ?
+<em>De 7 à 9</em> : Que détruisez-vous pour vous faire entendre ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : De qui est-ce que j'attire la colère ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**La vie est un sacrifice**
+::::
+Lancez les dés lorsque vous réunissez toutes vos forces et votre magie pour protéger ce qui vous est le plus cher.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment surmontez-vous la menace ou le défi ?
+<em>De 7 à 9</em> : Quel impact inattendu vos efforts ont-ils sur vous ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+Comment votre succès mène-t-il aussi à votre fin ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Renaître de ses cendres**
+::::
+Lancez les dés lorsque, après vous être sacrifié, vous revenez pile au bon moment.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment votre retour inspirant permet de reprendre le contrôle de la situation ?
+<br><em>De 7 à 9</em> : Qu'est-ce qui a changé chez vous ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Comment mon retour empire la situation ?
+:::
+::::
+:::::
 
 <p style="break-after: page"></p>
 
