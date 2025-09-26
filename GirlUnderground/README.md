@@ -1,6 +1,7 @@
 <!--
 Mentionner dans article de blog que tous mes projets de trad sous git
 sont exploitables pour traduire dans d'autres langues !
++ que j'ai découvert ce jeu grâce à Mathieu Bé
 
 Unicode Typography Ornaments:
 ☙ ❦ ❧
@@ -8,13 +9,14 @@ Unicode Typography Ornaments:
 🙚 🙘 🙛 🙙 🙞 🙜 🙟 🙝
 🙠 🙡 🙢 🙣 🙤 🙥 🙦 🙧 
 -->
+::: intro
+Traduction en français des feuilles de personnage & aides de jeu pour :
+:::
 
 <figure>
   <img src="img/cover.png" alt="Couverture du jeu">
   <figcaption><a href="https://girlunderground.org/">girlunderground.org - Lauren McManamon & Jesse Ross</a></figcaption>
 </figure>
-
-<br>
 
 Inspiré des Aventures d'Alice au pays des merveilles, du Magicien d'Oz, du Voyage de Chihiro, du Labyrinthe et d'autres contes similaires, _Girl Underground_ vous propose de raconter l'histoire d'une jeune fille curieuse et de ses étranges compagnons qui voyagent à travers un monde merveilleux, accomplissent une quête et retrouvent le chemin du retour. Tout au long de son périple, la jeune fille apprend à se connaître, découvre les valeurs qui lui tiennent à cœur et défie le monde qui l'entoure.
 
@@ -312,7 +314,7 @@ Ayez toujours une réponse ou une opinion.
 
 Racontez des histoires sur ce monde.
 
-Soyez impoli envers les figures d'autorité.
+Soyez impoli·e envers les figures d'autorité.
 
 Cédez à votre nature animale.
 :::::
@@ -408,7 +410,7 @@ Lancez les dés lorsque vous évoquez une de vos connaissances influente qui pou
 :::
 <p class="score">6-</p>
 <p>De quelle dette exigera-t-elle paiement ?
-<br><em>Demandez aussi au Guide</em> : comment me retrouve-t-elle ?</p>
+<br><em>Demandez au Guide</em> : comment me retrouve-t-elle ?</p>
 :::
 ::::
 :::::
@@ -534,9 +536,9 @@ _Répondez à ces questions_
 :::: title
 _Lorsque vous incarnez l'Artificiel, essayez de faire ceci :_
 ::::
-Suivez l'exemple de la fille
+Suivez l'exemple de la Jeune Fille
 
-Soyez naïf
+Soyez naïf·ve
 
 Brouillez les frontières entre l'animé et l'inanimé
 
@@ -760,7 +762,7 @@ _Répondez à ces questions_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<p class="half-break"></p>
+<br>
 
 ::::: frame agenda
 :::: title
@@ -988,7 +990,7 @@ _Répondez à ces questions_
 
 ::::: frame agenda
 :::: title
-_Lorsque vous incarnez le Faune, essayez de faire ceci :_
+_Lorsque vous incarnez le Mythique, essayez de faire ceci :_
 ::::
 Faites honneur à votre héritage
 
@@ -1127,6 +1129,105 @@ _Demandez au Guide_ : Comment mon retour empire la situation ?
 ## L'Ogre
 <img src="img/playbook-embellishment.png" alt="" class="banner">
 
+Votre peuple est composé de géants, dominant la Jeune Fille de trois ou quatre fois sa taille. Peut-être êtes-vous couverts de fourrure ou munis de cornes, mais vous restez très semblables à des humains, même si vous ne parlez pas beaucoup.
+
+Votre taille immense vous fait tantôt vous sentir surpuissant, tantôt gêné de prendre autant de place. Vous savez employer votre imposante carrure pour protéger la Jeune Fille et la défendre, mais parfois vous allez trop loin et l'empêchez involontairement de se débrouiller par elle-même.
+
+::::: frame
+:::: title
+_Répondez à ces questions_
+::::
+**En dehors de votre taille, qu’est-ce que les gens remarquent en premier chez vous ?**
+
+:::: col3-list
+* Vos cornes proéminentes
+* Votre couleur de fourrure étrange
+* Votre chair rugueuse
+* Votre façon de vous habiller
+* Vorte musc bestial
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Comment essayez-vous de paraître plus petit que vous ne l’êtes ?**
+
+:::: col4-list-ogre-smaller
+* En étant très silencieux
+* En marchant délicatement
+* En vous cachant derrière des objets
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Sur quel aspect vous taquinait-on lorsque vous étiez enfant ?**
+
+:::: col5-list-ogre-teased
+* Sur votre maladresse
+* Sur votre famille
+* Sur votre couardise
+* Sur votre tendresse
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Que quoi avez-vous besoin que ce voyage vous apportera ?**
+
+:::: col5-list-ogre-need
+* Une voix
+* Une aventure
+* De la compréhension
+* Du respect
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Dans quel état êtes-vous lorsque la Jeune Fille vous trouve ?**
+
+:::: col4-list
+* Jugé
+* Craint
+* Exploité
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Quel est votre nom ?**
+
+:::: col6-list
+* Brizo
+* Eulia
+* Gungun
+* Hukso
+* Kruk
+* Lumba
+* Mondo
+* Orin
+* Titan
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+:::::
+
+<p class="notes">Notes</p>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<br>
+
+::::: frame agenda
+:::: title
+_Lorsque vous incarnez l'Ogre, essayez de faire ceci :_
+::::
+Admirez la Jeune Fille
+
+Faites-vous petit·e
+
+Mettez en jeu votre taille
+
+Soyez courageux·se quand c'est important
+
+Faites quelque chose d'embarrassant
+:::::
+::::::
+
 <p style="break-after: page"></p>
 
 
@@ -1137,12 +1238,220 @@ _Demandez au Guide_ : Comment mon retour empire la situation ?
 Lorsque vous déclenchez une manœuvre, lancez deux dés et additionnez-les pour obtenir votre résultat : 7 ou plus, ou 6 ou moins. Un résultat de 7 à 9 rajoute des complications.
 Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lancez trois dés au lieu de deux. Additionnez les deux dés les plus élevés pour obtenir votre résultat.
 
+<br>
+
+::::: frame
+:::: title
+**Doux Géant**
+::::
+Lancez les dés lorsque vous donnez à la Jeune Fille de l'espace pour agir et s'exprimer.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p><em>La Jeune Fille peut relancer et ajouter 1 au total.</em>
+<br><em>De 7 à 9</em> : Qui effrayez-vous en agissant ainsi ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez à la Jeune Fille_ : Comment t'ai-je mis dans l'embarras ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Ne pas passer inaperçu**
+::::
+Lancez les dés lorsque vous essayez de détourner l’attention de la Jeune Fille.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment faites-vous pour centrer l’attention de tous sur vous ?
+<em>De 7 à 9</em> : Comment leur regard vous met-il mal à l’aise ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+Comment attirez-vous accidentellement l'attention sur la Jeune Fille ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Faire de la place**
+::::
+Lancez les dés lorsque vous êtes dans un espace exigu, coincé ou entravé d'une quelconque manière.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment vous libérerez-vous ou créez-vous une opportunité ?
+<em>De 7 à 9</em> : Comment vous ridiculisez-vous par la même occasion ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez à la table_ : Qu'est-ce que l'on brise ou que l'on oublie derrière nous dans la fuite ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Déplacer des montagnes**
+::::
+Lancez les dés lorsque vous avez besoin que les éléments viennent à votre secours.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment les éléments vous aident-ils ?
+<em>De 7 à 9, demandez au Guide</em> : Qu'est-ce que les éléments demandent en échange ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Comment les éléments échappent-ils à mon contrôle ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Faire rempart**
+::::
+Lancez les dés lorsque vous vous interposez pour défendre la Jeune Fille.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment balayez-vous l'offense ou le danger ?
+<em>De 7 à 9, demandez à la Jeune Fille</em> : Comment je comprends que tu voulais te défendre par toi-même ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Quelle plus grande menace ai-je manquée ?
+:::
+::::
+:::::
+
 <p style="break-after: page"></p>
 
 
 :::::: playbook
 ## Le Fugueur
 <img src="img/playbook-embellishment.png" alt="" class="banner">
+
+Vous vous êtes enfui de chez vous et avez trouvé une porte vers un autre monde. Mais vous avez décidé de rester, et maintenant c'est chez vous. C'est parfois effrayant et solitaire, mais au moins vous êtes es libre d'explorer et d'être vous-même.
+
+Habitué aux situations effrayantes, vous utilisez cette expérience pour aider la Jeune Fille à être courageuse quand elle le peut ou à s'échapper quand elle le doit. Vos explorations du monde vous ont donné de belles histoires à raconter et ont aiguisé vos sens, vous permettant de retrouver des personnes ou des trésors, aussi bien cachés soient-ils.
+
+::::: frame
+:::: title
+_Répondez à ces questions_
+::::
+**À quoi essayez-vous d'échapper ?**
+
+:::: col6-list-runaway-from
+* L'ennui
+* Le harcèlement
+* Les parents
+* Les cauchemars
+* Vous-même
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Quelle part de vous a changé durant votre séjour ici ?**
+
+:::: col5-list
+* Vos yeux
+* Votre ombre
+* Votre reflet
+* Votre régime
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Quel endroit dans ce monde rêvez-vous d'explorer ?**
+
+:::: col4-list-runaway-places
+* Une forêt impénétrable
+* Une cave noire comme la nuit
+* La plus haute montagne
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Que quoi avez-vous besoin que ce voyage vous apportera ?**
+
+:::: col5-list-runaway-need
+* De quoi vous vanter
+* Un gros trésor
+* La gloire
+* Votre maison à vous
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Dans quel état êtes-vous lorsque la Jeune Fille vous trouve ?**
+
+:::: col3-list
+* Pas perdu, juste égaré
+* En quête d'aventure
+* Seul au milieu de la foule
+* Sauvage et affamé
+* Piégé par vos peurs
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+
+**Quel est votre nom ?**
+
+:::: col5-list
+* Amélie
+* Badger
+* Bima
+* Capitaine
+* Gunju
+* Lotta
+* Malaya
+* Skipper
+* Cheval sauvage
+* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+::::
+:::::
+
+<p class="notes">Notes</p>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<p class="half-break"></p>
+
+::::: frame agenda
+:::: title
+_Lorsque vous incarnez le Fugueur, essayez de faire ceci :_
+::::
+Soyez enthousiasmé par le danger
+
+Fournissez une expertise en cas de crise
+
+Craignez ce à quoi vous essayez d'échapper
+
+Considérez même les choses banales comme des trésors
+
+Délectez-vous de vos aventures passées
+:::::
+::::::
 
 <p style="break-after: page"></p>
 
@@ -1151,20 +1460,239 @@ Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lance
 ## Manœuvres du Fugueur
 <img src="img/playbook-embellishment.png" alt="" class="banner">
 
+Lorsque vous déclenchez une manœuvre, lancez deux dés et additionnez-les pour obtenir votre résultat : 7 ou plus, ou 6 ou moins. Un résultat de 7 à 9 rajoute des complications.
+Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lancez trois dés au lieu de deux. Additionnez les deux dés les plus élevés pour obtenir votre résultat.
+
+<br>
+
+::::: frame
+:::: title
+**Libéré de vos peurs**
+::::
+Lancez les dés lorsque vous vous trouvez dans une situation inquiétante, et que vous rassurez la Jeune Fille.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p><em>La Jeune Fille peut relancer et ajouter 1 au total.</em>
+<br><em>De 7 à 9</em> : Que craignez-vous qu’il arrive ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Pourquoi la situation est encore plus effrayante qu’il n’y paraît ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**C'était énooorme**
+::::
+Lancez les dés lorsque vous rencontrez quelqu'un d'important et que vous lui racontez vos incroyables aventures.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p><em>Demandez au Guide</em> : Quelle histoire révèlent-elles à propos de cet endroit ?
+<em>De 7 à 9, demandez à l'un de vos compagnons</em> : Quelle partie de cette histoire est fausse ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Comment ont-ils déjà entendu parler de moi, et pourquoi pensent-ils que je suis un vaurien ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Flairer la piste**
+::::
+Lancez les dés lorsque vous nommez quelqu’un que vous recherchez et utilisez vos sens pour le suivre.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment vos sens vous conduisent-ils directement à lui ?
+<em>De 7 à 9</em> : Pourquoi vous méfiez-vous ou avez-vous peur de lui ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Comment mes sens me trompent-ils ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Pas le temps pour le thé**
+::::
+Lancez les dés lorsque vous essayez d'échapper à une situation dangereuse avec vos amis.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Comment conduisez-vous tout le monde en sécurité ?
+<em>De 7 à 9, demandez au Guide</em> : Comment les gens ici se rappellent de moi ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Vers quel problème encore plus grand est-ce que je mène tout le monde ?
+:::
+::::
+:::::
+
+::::: frame
+:::: title
+**Chercheur de trésors**
+::::
+Lancez les dés lorsque vous recherchez les secrets et trésors cachés d’un lieu.
+
+:::: side-by-side
+:::
+<p class="score">7+</p>
+<p>Que trouvez-vous et comment ?
+<br><em>De 7 à 9, demandez au Guide</em> : Qu’est-ce qui m’empêche de le récupérer ?</p>
+:::
+
+:::
+<p class="score">6-</p>
+
+_Demandez au Guide_ : Que vais-je trouver à la place du trésor ?
+:::
+::::
+:::::
+
+<p style="break-after: page"></p>
+
+
+## Conseils pour jouer les personnages
+
+::: playbook-roleplay-advice
+
+_**La Jeune Fille :**_ Jouez pour découvrir ce que la Jeune Fille ressent durant son voyage, et comment elle grandit en tant que personne. Présentez-lui des Bonnes Manières à remettre en question et créez des situations pour qu'elle affirme ses Croyances. Créez un espace pour qu'elle explore son identité. Lorsqu'elle se languit de sa maison, montrez-lui comment les merveilles de l'_Underground_ peuvent réaliser ses rêves. Lorsqu'elle souhaite rester, augmentez le danger et mettez en évidence les éléments qui lui font regretter sa maison.
+
+_**La Bestiole :**_ La Bestiole est centrée sur l'autorité et la rébellion. Laissez ses mots et son esprit la mettre dans le pétrin et la sortir des ennuis. Créez des rencontres avec des personnes qui pensent tout savoir mieux que tout le monde, ou qui tentent de tromper la Jeune Fille. La Bestiole connaît tout le monde, alors laissez-la introduire de nouveaux personnages ou partager des ragots sur des personnages connus. Saisissez l'occasion de tisser des histoires conflictuelles entre la Bestiole et ces individus.
+
+_**L'Artificiel :**_ L'Artificiel représente l'identité personnelle et l'objectivité. Il découvre ce que signifie être en vie et comment la société ne le perçoit pas toujours de cette façon.
+Introduisez des objets fabriqués dans le même matériau pour permettre à l'Artificiel d'explorer son identité émergente et ses racines. Présentez également des personnages que l'Artificiel peut examiner. Il peut être brisé et reconstruit, donc si vous souhaitez augmenter les enjeux par la violence, faites qu'il en souffre les conséquences (mais ne le tuez pas).
+
+_**Le Faune :**_ Le Faune est transformation et exaucement de vœux. Créez des défis qui ne peuvent être surmontés que par une imagination débordante, prête à explorer pleinement la logique des contes de fées. Introduisez des fêtes et des rassemblements pour l'aider à attirer des personnages utiles.
+Assurez-vous que l'objet auquel il ne peut résister fasse une apparition (ou deux !).
+
+_**Le Mythique :**_ Le Mythique est libre, mais empreint de nostalgie. Laissez-lui l'espace d'être à la fois triste et splendide. Donnez-lui l'occasion de se sacrifier dans un éclat de gloire, puis de faire un retour tout aussi magnifique. Il est normal que le Mythique soit absent
+pour un court instant – son joueur peut incarner la Jeune Fille pendant ce temps – mais recherchez des défis où son retour peut sortir le groupe d'une situation difficile.
+
+_**L'Ogre :**_ L'Ogre incarne la honte et la confiance en soi de l'adolescence. Il doit osciller entre le sentiment de puissance et la honte. Donnez-lui l'occasion d'être courageux, mais maîtrisez-le lorsqu'il prend le contrôle d'une scène ou essaie d'en faire trop. Rendez ses conséquences gênantes et embarrassantes. Entraînez-le dans des situations où il ne peut s'empêcher de marcher sur les pieds de ses amis (au sens propre comme au figuré).
+
+_**Le Fugueur :**_ Le Fugueur ne veut pas grandir et aime explorer les coulisses. Il représente l'indépendance, mais fuit aussi ses problèmes. Il sait comment sortir le groupe d'une situation effrayante, ce qui vous permet d'accentuer le danger. Proposez-lui des interactions sociales pour qu'il puisse raconter de magnifiques histoires, mais offrez-lui aussi des moments de calme, seul ou avec un seul autre personnage.
+
+:::
+
 <p style="break-after: page"></p>
 
 
 ## Les Bonnes Manières
 
 La société attend d'une fille qu'elle soit polie, mais ce n'est pas toujours la meilleure façon de faire la différence.
+Choisissez huit de ces manières pour votre partie ou créez les vôtres :
+
+:::: frame agenda list-of-manners
+:::title
+:::
+Les jeunes filles ne doivent jamais répondre à leurs aînés.
+
+Les jeunes filles ne doivent jamais mentir.
+
+Les jeunes filles ne doivent jamais reconnaître leurs imperfections.
+
+Les jeunes filles ne doivent jamais se salir les mains ni leurs vêtements.
+
+Les jeunes filles ne doivent jamais se plaindre de leurs devoirs.
+
+Les jeunes filles ne doivent jamais blesser autrui.
+
+Les jeunes filles ne doivent jamais prendre trop de place.
+
+Les jeunes filles ne doivent jamais exiger quoi que ce soit.
+
+Les jeunes filles doivent toujours être reconnaissantes de ce qu'on leur donne.
+
+Les jeunes filles doivent toujours être humbles.
+
+Les jeunes filles doivent toujours être calmes et patientes.
+
+Les jeunes filles doivent toujours apprécier le rose et les fleurs.
+
+Les jeunes filles doivent toujours obéir.
+
+Les jeunes filles doivent toujours se faire appeler « elle ».
+
+Les jeunes filles doivent toujours garder le sourire.
+
+Les jeunes filles doivent toujours garder leurs sentiments pour elles.
+
+Les jeunes filles doivent toujours regarder avant de sauter.
+
+Les jeunes filles doivent toujours faire passer les besoins des autres avant les leurs.
+
+Les jeunes filles doivent toujours respecter les opinions des autres.
+
+Les jeunes filles doivent toujours porter des vêtements qui leur conviennent.
+
+Les jeunes filles ne doivent jamais se comporter comme des garçons.
+
+Les jeunes filles ne doivent jamais être ridicules.
+
+Les jeunes filles ne doivent jamais être laides.
+
+Les jeunes filles ne doivent jamais se lier d'amitié avec des monstres.
+
+Les jeunes filles ne doivent jamais se vanter ni se mettre en avant.
+
+Les jeunes filles ne doivent jamais tricher.
+
+Les jeunes filles ne doivent jamais se plaindre de leurs devoirs.
+
+Les jeunes filles ne doivent jamais aller dans des endroits sombres.
+
+Les jeunes filles ne doivent jamais faire d'exigences.
+
+Les jeunes filles ne doivent jamais remettre les autres à leur place.
+
+Les jeunes filles ne doivent jamais remettre en question leur place dans la société.
+
+Les jeunes filles ne doivent jamais manifester de colère.
+
+Les jeunes filles ne doivent jamais se salir les mains ni leurs vêtements.
+
+Les jeunes filles ne doivent jamais parler par énigmes.
+
+Les jeunes filles ne doivent jamais mentir.
+
+Les jeunes filles ne doivent jamais essayer d'autres genres.
+
+Les jeunes filles ne doivent jamais vexer les autres.
+::::
+
+<p style="break-after: page"></p>
 
 ::: manners
 
-Les jeunes filles ne doivent jamais répondre à leurs aînés. | Les jeunes filles ne doivent jamais mentir.
+<br><br><br><br>
+
+___________________<br>___________________<br>___________________ | ___________________<br>___________________<br>___________________
 -|-
-Les jeunes filles ne doivent jamais reconnaître leurs imperfections. | Les jeunes filles ne doivent jamais se salir les mains ni leurs vêtements.
-Les jeunes filles ne doivent jamais se plaindre de leurs devoirs. | Les jeunes filles ne doivent jamais blesser autrui.
-Les jeunes filles ne doivent jamais prendre trop de place. | Les jeunes filles ne doivent jamais exiger quoi que ce soit.
+___________________<br>___________________<br>___________________ | ___________________<br>___________________<br>___________________
+___________________<br>___________________<br>___________________ | ___________________<br>___________________<br>___________________
+___________________<br>___________________<br>___________________ | ___________________<br>___________________<br>___________________
 
 :::
 
@@ -1184,28 +1712,6 @@ ___________________<br>___________________<br>___________________ | ____________
 ___________________<br>___________________<br>___________________ | ___________________<br>___________________<br>___________________
 
 :::
-
-<p style="break-after: page"></p>
-
-
-## Conseils pour jouer les personnages
-
-_**La Jeune Fille :**_ Jouez pour découvrir ce que la Jeune Fille ressent durant son voyage, et comment elle grandit en tant que personne. Présentez-lui des Bonnes Manières à remettre en question et créez des situations pour qu'elle affirme ses Croyances. Créez un espace pour qu'elle explore son identité. Lorsqu'elle se languit de sa maison, montrez-lui comment les merveilles de l'_Underground_ peuvent réaliser ses rêves. Lorsqu'elle souhaite rester, augmentez le danger et mettez en évidence les éléments qui lui font regretter sa maison.
-
-_**La Bestiole :**_ La Bestiole est centrée sur l'autorité et la rébellion. Laissez ses mots et son esprit la mettre dans le pétrin et la sortir des ennuis. Créez des rencontres avec des personnes qui pensent tout savoir mieux que tout le monde, ou qui tentent de tromper la Jeune Fille. La Bestiole connaît tout le monde, alors laissez-la introduire de nouveaux personnages ou partager des ragots sur des personnages connus. Saisissez l'occasion de tisser des histoires conflictuelles entre la Bestiole et ces individus.
-
-_**L'Artificiel :**_ L'Artificiel représente l'identité personnelle et l'objectivité. Il découvre ce que signifie être en vie et comment la société ne le perçoit pas toujours de cette façon.
-Introduisez des objets fabriqués dans le même matériau pour permettre à l'Artificiel d'explorer son identité émergente et ses racines. Présentez également des personnages que l'Artificiel peut examiner. Il est également reconstructible, donc si vous souhaitez augmenter les enjeux par la violence, faites qu'il en souffre les conséquences (mais attention, ne le tuez pas).
-
-_**Le Faune :**_ Le Faune est transformation et exaucement de vœux. Créez des défis qui ne peuvent être surmontés que par une imagination débordante, prête à explorer pleinement la logique des contes de fées. Introduisez des fêtes et des rassemblements pour les aider à attirer des personnages utiles.
-Assurez-vous que l'objet auquel ils ne peuvent résister fasse une apparition (ou deux !).
-
-_**Le Mythique :**_ Le Mythique est libre, mais empreint de nostalgie. Laissez-lui l'espace d'être à la fois triste et splendide. Donnez-lui l'occasion de se sacrifier dans un éclat de gloire, puis de faire un retour tout aussi magnifique. Il est normal que le Mythique soit absent
-pour un court instant – son joueur peut affronter la Fille pendant ce temps-là – mais recherchez des défis où son retour peut sortir le groupe d'une situation difficile.
-
-_**L'Ogre :**_ L'Ogre incarne la honte et la confiance en soi de l'adolescence. Il doit osciller entre le sentiment de puissance et la honte. Donnez-lui l'occasion d'être courageux, mais maîtrisez-le lorsqu'il prend le contrôle d'une scène ou essaie d'en faire trop. Rendez ses conséquences gênantes et embarrassantes. Entraînez-le dans des situations où il ne peut s'empêcher de marcher sur les pieds de ses amis (au sens propre comme au figuré).
-
-_**Le Fugueur :**_ Le Fugueur ne veut pas grandir et aime explorer les coulisses. Il représente l'indépendance, mais fuit aussi ses problèmes. Il sait comment sortir le groupe d'une situation effrayante, ce qui vous permet d'accentuer le danger. Proposez-lui des interactions sociales pour qu'il puisse raconter de magnifiques histoires, mais offrez-lui aussi des moments de calme, seul ou avec un seul autre personnage.
 
 <p style="break-after: page"></p>
 

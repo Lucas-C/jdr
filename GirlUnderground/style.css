@@ -36,6 +36,7 @@ img.embellishment {
   margin: 1rem auto 2rem;
 }
 
+.intro { text-align: center; }
 .playbook > p { text-align: justify; }
 p.notes { font-style: italic; margin-bottom: -.5rem; }
 
@@ -96,6 +97,11 @@ p.notes { font-style: italic; margin-bottom: -.5rem; }
   right: -7px;
   bottom: -7px;
 }
+.list-of-manners {
+  text-transform: none !important;
+  font-size: 1.1rem;
+  line-height: 1.4rem;
+}
 
 .side-by-side {
   columns: 2;
@@ -145,12 +151,18 @@ ul {
 .col4-list ul { columns: 4; }
 .col4-list-faun-resist ul { display: grid; grid-template-columns: 26% 29% 25% 20%; }
 .col4-list-faun-state ul { display: grid; grid-template-columns: 25% 26% 31% 18%; }
+.col4-list-ogre-smaller ul { display: grid; grid-template-columns: 24% 27% 35% 13%; }
+.col4-list-runaway-places ul { display: grid; grid-template-columns: 25% 30% 26% 20%; }
 .col5-list ul { columns: 5; }
-.col6-list ul { columns: 6; }
 .col5-list-beastie-before ul { display: grid; grid-template-columns: 13% 27% 13% 30% 20%; }
 .col5-list-construct-unnerving ul { display: grid; grid-template-columns: 14% 15% 24% 29% 20%; }
 .col5-list-faun-transform ul { display: grid; grid-template-columns: 12% 27% 20% 25% 16%; }
 .col5-list-mythic-need ul { display: grid; grid-template-columns: 27% 13% 15% 15% 20%; }
+.col5-list-ogre-teased ul { display: grid; grid-template-columns: 22% 18% 21% 21% 18%; }
+.col5-list-ogre-need ul { display: grid; grid-template-columns: 15% 20% 25% 15% 20%; }
+.col5-list-runaway-need ul { display: grid; grid-template-columns: 22% 17% 13% 23% 15%; }
+.col6-list ul { columns: 6; }
+.col6-list-runaway-from ul { display: grid; grid-template-columns: 15% 20% 15% 20% 15% 15%; }
 
 .col2 { columns: 2; }
 
@@ -180,6 +192,8 @@ th::before, td::before {
 .beliefs th::before, .beliefs td::before {
   content: '☙ CROYANCE ❧';
 }
+
+.playbook-roleplay-advice { font-size: .95rem; }
 
 .half-break { height: 1px; }
 
