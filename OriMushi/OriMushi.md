@@ -97,7 +97,7 @@ Lore:
 À lire : Mener des parties de jeu de rôle -> Fiches-de-synthese-A4.pdf
 * [x] Créer un scénario, page 31
 * [ ] Enseigner un jeu, page 93
-* [ ] Incarner des PNJ, page 125
+* [ ] Incarner des PNJ, page 141 & https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj
 * [ ] Dompter la linéarité, page 159
 * [ ] Partager la narration, page 381
 

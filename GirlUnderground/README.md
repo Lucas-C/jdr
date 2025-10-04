@@ -15,12 +15,12 @@ Traduction en français des feuilles de personnage & aides de jeu pour :
 
 <figure>
   <img src="img/cover.png" alt="Couverture du jeu">
-  <figcaption><a href="https://girlunderground.org/">girlunderground.org - Lauren McManamon & Jesse Ross</a></figcaption>
+  <figcaption><a href="https://hedgemazepress.itch.io/girlunderground">hedgemazepress.itch.io/girlunderground - Lauren McManamon & Jesse Ross</a></figcaption>
 </figure>
 
 Inspiré des Aventures d'Alice au pays des merveilles, du Magicien d'Oz, du Voyage de Chihiro, du Labyrinthe et d'autres contes similaires, _Girl Underground_ vous propose de raconter l'histoire d'une jeune fille curieuse et de ses étranges compagnons qui voyagent à travers un monde merveilleux, accomplissent une quête et retrouvent le chemin du retour. Tout au long de son périple, la jeune fille apprend à se connaître, découvre les valeurs qui lui tiennent à cœur et défie le monde qui l'entoure.
 
-Dans cette histoire, la jeune fille se retrouve dans l'_Underground_, un lieu étrange rappelant Oz ou le pays des merveilles. Ce lieu souterrain est à la fois fantastique et déroutant, peuplé de personnages à la logique étrange et aux énigmes.
+Dans cette histoire, la Jeune Fille se retrouve dans l'_Underground_, un lieu étrange rappelant Oz ou le pays des merveilles. Ce lieu souterrain est à la fois fantastique et déroutant, peuplé de personnages à la logique étrange et aux énigmes.
 
 Heureusement, la jeune fille a trouvé des amis sur qui elle peut compter, et qui comptent sur elle à leur tour. Ces amis représentent les archétypes que l'on retrouve dans ce genre d'histoires : animaux parlants, statues vivantes, hybrides métamorphes, bêtes mythiques, géants amicaux et enfants aventuriers.
 
@@ -60,7 +60,7 @@ _Répondez ensuite chacun votre tour à ces questions._
 **Comment portez-vous vos cheveux ?**
 * Doux et texturés comme un nuage endormi
 * Longs et ondulés comme une douce marée d'été
-* Rectes et droits comme le tranchant d'une règle
+* Rectilignes et droits comme le tranchant d'une règle
 * Coupés courts comme l'herbe fraîchement tondue
 * Emmêlés et noués comme une corde qui s'effiloche
 * Tressés et fluides comme une rivière sinueuse
@@ -898,7 +898,7 @@ Qui intervient pour mettre fin à la fête ?
 
 
 :::::: playbook
-## Le Myhtique
+## Le Mythique
 <img src="img/playbook-embellishment.png" alt="" class="banner">
 
 Vous êtes un être rare, issu de légendes et de fantasmes : dragon, pégase, phénix ou autre créature volante majestueuse. Vous êtes aussi le dernier de votre espèce, et il est de votre devoir de perpétuer leurs traditions.
@@ -971,7 +971,7 @@ _Répondez à ces questions_
 * Izalos
 * Keiki
 * Lamai
-* Nathaksha
+* Natasha
 * Pyrion
 * Valkaire
 * \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1144,7 +1144,7 @@ _Répondez à ces questions_
 * Votre couleur de fourrure étrange
 * Votre chair rugueuse
 * Votre façon de vous habiller
-* Vorte musc bestial
+* Votre musc bestial
 * \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ::::
 

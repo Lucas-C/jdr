@@ -50,16 +50,12 @@ Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.
 Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 
-### Traductions anglais → français
+<h3 id="translations">Traductions anglais → français</h3>
 
 [Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
 
 - [PDF 37 Ko](https://chezsoi.org/s/RDRfrdirectPDFdownload)
 - [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
-
-Aides de jeu pour [Girl Underground de Lauren McManamon & Jesse Ross](https://girlunderground.org/) :
-
-- PDF: _work in progress_
 
 [CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
 

@@ -1,6 +1,7 @@
 <!--
 Idée : les PJs finissent par se rebeller contre les joueurs
 (inspirée de pYd8F4sflco / The Stanley Parabole)
+Idée : prétendre que le jeu vidéo a vraiment existé, et créer un faux site web dédié (inspi vermis/ALT-236)
 -->
 
 ## Notes from Game Engine Black Book
