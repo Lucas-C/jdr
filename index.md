@@ -50,7 +50,7 @@ Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.
 Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 
-### Traductions anglais → français
+<h3 id="translations">Traductions anglais → français</h3>
 
 [Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
 
