@@ -57,10 +57,6 @@ Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/)
 - [PDF 37 Ko](https://chezsoi.org/s/RDRfrdirectPDFdownload)
 - [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
 
-Aides de jeu pour [Girl Underground de Lauren McManamon & Jesse Ross](https://girlunderground.org/) :
-
-- PDF: _work in progress_
-
 [CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
 
 - [CyberPunk-FR.pdf](https://chezsoi.org/s/CyberPunkFrPDFdownload)
