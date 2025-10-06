@@ -1,0 +1,147 @@
+@font-face { font-family: "Minion"; src: url("fonts/Minion-Regular.otf"); }
+@font-face { font-family: "Minion"; src: url("fonts/Minion-Bold.otf"); font-weight: bold; }
+@font-face { font-family: "Minion"; src: url("fonts/Minion-Italics.otf"); font-style: italic; }
+@font-face { font-family: "Minion"; src: url("fonts/Minion-BoldItalics.otf"); font-weight: bold; font-style: italic; }
+@font-face { font-family: "Uniwars"; src: url("fonts/Uniwars-Regular.ttf"); }
+@font-face { font-family: "Uniwars"; src: url("fonts/Uniwars-SemiBold.ttf"); font-weight: bold; }
+
+@page {
+  margin: /*vertical=*/1.2cm /*horizontal=*/1.2cm;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0 auto;
+  font-family: "Minion";
+}
+
+h1, h2, h3, h4 { font-family: "Uniwars"; }
+blockquote { font-style: italic; }
+ul { list-style: "◆"; padding-left: 0; margin-top: -.5rem; }
+ul li { margin-left: .9rem; margin-bottom: .333rem; }
+/* A bug in WeasyPrint prevents us to set padding-left on li elements,
+   so we use the ::marker pseudo-element instead to add some space after the bullet: */
+ul li::marker { content: "◆ "; white-space: pre; }
+ul ul { margin-top: .5rem; }
+ul ul li { list-style: "✚"; }
+ul ul li::marker { content: "✚ "; white-space: pre; }
+
+.cards {
+  color: white;
+  font-size: .7rem;
+  display: grid;
+  grid-template-columns: 24% 24% 24% 24%;
+  gap: 1.333%;
+  margin-bottom: .666rem;
+}
+
+.card {
+  height: 15.5rem;
+  background: url('imgs/card-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: 50% 0;
+  position: relative;
+}
+
+.card img {
+  padding-top: 10%;
+  max-height: 7rem;
+  max-width: 75%;
+  display: block;
+  margin: 0 auto;
+}
+
+.card.npc img {
+  padding-top: 0;
+  max-height: 14rem;
+}
+
+.card .name {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  background: url('imgs/card-name-bg.jpg');
+  background-repeat: no-repeat;
+  height: 1rem;
+  background-size: cover;
+}
+
+.card.fillable .name, .card.intel .name {
+  top: 5%;
+}
+
+.card.npc .name {
+  top: 90%;
+}
+
+.card.intel .name:before {
+  content: '❓';
+  width: 2rem;
+  height: 2rem;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  padding-left: .333rem;
+  background-color: #353a5c;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-radius: 50px;
+  display: block;
+  position: absolute;
+  top: -.5rem;
+  left: 5%;
+}
+
+.card.intel.coder .name:before {
+  content: '';
+  width: 3rem;
+  height: 3rem;
+  background-color: initial;
+  background-image: url('imgs/logo-Coder.png');
+  border-radius: initial;
+}
+
+.card.intel.scientist .name:before {
+  content: '';
+  width: 3rem;
+  height: 3rem;
+  background-color: initial;
+  background-image: url('imgs/logo-Scientist.png');
+  border-radius: initial;
+}
+
+.card .name h3 {
+  font-weight: bold;
+  font-size: .45rem;
+  line-height: .2rem;
+  margin-left: .666rem;
+}
+
+.card .description {
+  position: absolute;
+  top: 75%;
+  margin-left: .666rem;
+  margin-right: .666rem;
+  line-height: .9rem;
+}
+
+.card.intel .description {
+  top: 15%;
+  font-size: .8rem;
+  line-height: 1rem;
+  font-style: italic;
+}
+
+.card.fillable .description {
+  top: 18%;
+  background: white;
+  width: 80%;
+  height: 12rem;
+  margin: 0;
+  left: 10%;
+}
+
+.blue { color: #7EA6E0; }
+.green { color: #97D077; }
+.red { color: #EA6B66; }
+.yellow { color: #FFB570; }

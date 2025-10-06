@@ -45,10 +45,10 @@ METADATA = {
 }
 
 
-def build_pdf(target_md_file=""):
-    if str(target_md_file).endswith(".css"):
-        target_md_file = ""  # => rebuild all PDFs
-    elif len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
+def build_pdf(target_md_file=None):
+    if target_md_file and not target_md_file.name.endswith(".md"):
+        target_md_file = None  # => rebuild all target PDFs
+    if target_md_file is None and len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[1])
     for md_src_file in SRC_FILES[2:]:
         metadata = {**METADATA[md_src_file]}

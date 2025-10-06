@@ -62,7 +62,9 @@ METADATA = {
 }
 
 def build_pdf(target_md_file=None):
-    if len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
+    if target_md_file and not target_md_file.name.endswith(".md"):
+        target_md_file = None  # => rebuild all target PDFs
+    if target_md_file is None and len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[1])
     for md_src_file in SRC_FILES[2:]:
         metadata = METADATA[md_src_file]
