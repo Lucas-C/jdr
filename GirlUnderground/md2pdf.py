@@ -12,6 +12,8 @@ from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
+    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/GirlUnderground/
+    MD_FILEPATH := DIR / "Livrets.md",
     MD_FILEPATH := DIR / "README.md",
 )
 

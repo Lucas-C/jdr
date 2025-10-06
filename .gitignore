@@ -5,6 +5,7 @@ package-lock.json
 *.pdf
 *.mp4
 *.webm
+*.bkp
 
 */cc-by-nc-sa.png
 */*/cc-by-nc-sa.png

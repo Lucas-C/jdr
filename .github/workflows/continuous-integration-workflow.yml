@@ -93,6 +93,12 @@ jobs:
           fi
           cd -
 
+          echo "Rendering Critical Fondation"
+          cd CriticalFondation
+          ./md2pdf.py
+          ./build-pdfs.sh
+          cd -
+
           if [[ $GIT_TAG =~ ^CyberPunk-v ]]; then
             mv CyberPunk/CyberPunk-FR.pdf $GIT_TAG.pdf
           fi
