@@ -13,7 +13,6 @@ Deux versions sont proposées : la 1ère correspond aux liens de **l'intrigue or
 
 ### Constats concernant l'intrigue
 * Gires est complètement **parachuté comme "Grand Méchant"** au dernier épisode, et l'énigme de la cassette audio, du code « 42 », et de la chaîne _vintage_ dans le bureau de Gires est vraiment tirée par les cheveux.
-* l'enjeu du **mystérieux implant permettant de changer de visage** n'est pas exploité.
 * les docteurs **Toganov, Conway & Hillary** sont mentionnés dans un article, mais cette piste est en fait un cul de sac, c'est un peu dommage. De même, les motivations de **l'agent Wagner** de la NSA, qui garde un œil sur l'enquête de Jackson & des PJs, sont peu claires. Et qui a embauché **Aaron Stroke** ?
 * les PJs ne sont pas du tout **impliqués personnellement** dans l'histoire.
 * l'identité de la personne décrite par Lisa en **portrait robot** n'est pas explicitée. <u>**Mon postulat**</u> : c'est **Dany**.

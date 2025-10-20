@@ -8,7 +8,7 @@
 :::
 ::: description
 * 2 dégâts
-* attaque avec un test de :<br>**Physique** (Combat)
+* attaque avec un test de :<br>**Combat** _(Physique)_
 :::
 ::::
 
@@ -20,7 +20,7 @@
 :::
 ::: description
 * 2 dégâts
-* attaque avec un test de :<br>**Physique** (Combat)
+* attaque avec un test de :<br>**Combat** _(Physique)_
 :::
 ::::
 
@@ -32,7 +32,7 @@
 :::
 ::: description
 * 2 dégâts
-* attaque avec un test de :<br>**Adresse** (Combat)
+* attaque avec un test de :<br>**Combat** _(Adresse)_
 :::
 ::::
 
@@ -44,7 +44,7 @@
 :::
 ::: description
 * 2 dégâts
-* attaque avec un test de :<br>**Adresse** (Combat)
+* attaque avec un test de :<br>**Combat** _(Adresse)_
 :::
 ::::
 
@@ -59,7 +59,7 @@
 :::
 ::: description
 * 1 dégât
-* attaque avec un test de :<br>**Adresse** (Combat)
+* attaque avec un test de :<br>**Combat** _(Adresse)_
 :::
 ::::
 
@@ -71,7 +71,7 @@
 :::
 ::: description
 * 1 dégât
-* attaque avec un test de :<br>**Adresse** (Combat)
+* attaque avec un test de :<br>**Combat** _(Adresse)_
 :::
 ::::
 
@@ -83,7 +83,7 @@
 :::
 ::: description
 * 1 dégât
-* attaque avec un test de :<br>**Adresse** (Combat)
+* attaque avec un test de :<br>**Combat** _(Adresse)_
 :::
 ::::
 
@@ -95,7 +95,7 @@
 :::
 ::: description
 * envoi des nanites sur la cible pour la faire léviter un instant
-* contient 2 charges
+* test de **Savoir-Faire** _(Adresse)_ +1 réussite. Contient 2 charges.
 :::
 ::::
 
