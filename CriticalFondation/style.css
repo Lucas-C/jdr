@@ -155,4 +155,7 @@ a.theme-music {
 .red { color: #EA6B66; }
 .yellow { color: #FFB570; }
 
+.float-left { float: left; margin-right: 1rem; }
+.float-right { float: right; margin-left: 1rem; }
+
 .page-break-after { page-break-after: always; }

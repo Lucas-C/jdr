@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-import asyncio, io, logging, sys
+import io, logging, sys
 from pathlib import Path
 from shutil import copyfile
 from time import perf_counter
 
 from fpdf import FPDF
 from pypdf import PdfWriter
+
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable

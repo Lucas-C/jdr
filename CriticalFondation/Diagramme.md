@@ -59,3 +59,18 @@ J'ai introduit quelques opportunités d'implications dans mon autre aide de jeu 
 * voici quelques idées pour impliquer d'avantage le **Scientifique** et mettre en valeur ses talents :
     + son drone pourrait être touché lors d'une fusillade, et nécessiter des réparations
     + entre deux épisodes, demandez-lui _« Avec ces deux implants, tu penses qu'il doit être possible de pouvoir bidouiller quelque chose... ? As-tu une idée derrière la tête ? »_ S'il fait une proposition qui tient la route, demandez-lui une un test de **Savoir-Faire** (_Adresse_) ou de **Connaissance** (Mental) pour mettre son idée en pratique.
+
+## Licence & feedbacks
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
+</a>
+
+Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
+
+Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation). Version : 1.0
+
+Cette aide de jeu est diffusée à prix libre.
+Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires).
+Je serais ravi d'avoir vos retours si vous l'employez :
+racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) ou sur [mon blog](https://chezsoi.org/lucas/blog/critical-fondation.html).
+
