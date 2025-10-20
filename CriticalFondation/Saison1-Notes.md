@@ -215,7 +215,6 @@ Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href=
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation). Version : 1.0
 
-Cette aide de jeu est diffusée à prix libre.
-Si vous souhaitez soutenir mes projets, vous pouvez me faire un don sur [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires).
+Cette aide de jeu est diffusée gratuitement.
 Je serais ravi d'avoir vos retours si vous l'employez :
-racontez-moi comment s'est passée votre partie via un commentaire [lucas-c.itch.io](https://lucas-c.itch.io/blades-in-the-dark-interrogatoires) ou sur [mon blog](https://chezsoi.org/lucas/blog/critical-fondation.html).
+racontez-moi comment s'est passée votre partie via un commentaire sur [mon blog](https://chezsoi.org/lucas/blog/critical-fondation.html).
