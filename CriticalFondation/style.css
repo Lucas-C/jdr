@@ -17,14 +17,25 @@ body {
 
 h1, h2, h3, h4 { font-family: "Uniwars"; }
 blockquote { font-style: italic; }
-ul { list-style: "◆"; padding-left: 0; margin-top: -.5rem; }
-ul li { margin-left: .9rem; margin-bottom: .333rem; }
+img {
+  max-width: 75%;
+  display: block;
+  margin: 0 auto;
+}
+ul { padding-left: 0; margin-top: -.5rem; }
+ul > li { list-style: "◆"; margin-left: .9rem; margin-bottom: .333rem; }
 /* A bug in WeasyPrint prevents us to set padding-left on li elements,
    so we use the ::marker pseudo-element instead to add some space after the bullet: */
-ul li::marker { content: "◆ "; white-space: pre; }
+ul > li::marker { content: "◆ "; white-space: pre; }
 ul ul { margin-top: .5rem; }
-ul ul li { list-style: "✚"; }
-ul ul li::marker { content: "✚ "; white-space: pre; }
+ul ul > li { list-style: "✚"; }
+ul ul > li::marker { content: "✚ "; white-space: pre; }
+
+a.theme-music {
+  display: block;
+  text-align: right;
+  margin-top: -2rem;
+}
 
 .cards {
   color: white;
@@ -47,9 +58,6 @@ ul ul li::marker { content: "✚ "; white-space: pre; }
 .card img {
   padding-top: 10%;
   max-height: 7rem;
-  max-width: 75%;
-  display: block;
-  margin: 0 auto;
 }
 
 .card.npc img {
@@ -145,3 +153,5 @@ ul ul li::marker { content: "✚ "; white-space: pre; }
 .green { color: #97D077; }
 .red { color: #EA6B66; }
 .yellow { color: #FFB570; }
+
+.page-break-after { page-break-after: always; }

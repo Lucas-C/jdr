@@ -519,6 +519,8 @@ Merci enfin aux développeurs des [logiciels libres](https://fr.wikipedia.org/wi
 </footer>
 
 <!--
+Alt hospital map: https://www.patreon.com/posts/free-modern-73115635
+
 CR partie du 2023/11/12
 * joueurs : 3 - survivants : 1 (Hadley)
 * durée : 45min

@@ -907,7 +907,7 @@ la série "The Lost Room" pour les reliques, ces articles de Dark Roasted Blend 
 }
 @font-face {
   font-family: TribalGaramond;
-  src: url('fonts/Tribal Garamond.ttf') format('truetype');
+  src: url('fonts/TribalGaramond.ttf') format('truetype');
 }
 
 body {

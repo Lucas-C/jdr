@@ -96,7 +96,7 @@ def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None, bookmarks=T
             if any(" " in word for word in keywords):
                 raise ValueError(f"PDF keywords should not contain any whitespace: '{keywords}'")
             doc.metadata.keywords = keywords
-    doc.write_pdf(bytes_io)
+    doc.write_pdf(bytes_io, pdf_variant="pdf/a-3u")
     print(f"WeasyPrint PDF building duration: {perf_counter() - start:.1f}s")
     return bytes_io
 

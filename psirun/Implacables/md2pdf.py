@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# USAGE: ./md2pdf.py [--watch] [file.md]
 import asyncio, logging, sys
 from pathlib import Path
 from time import perf_counter
@@ -127,8 +128,8 @@ METADATA = {
 def build_pdf(target_md_file=None):
     if target_md_file and not target_md_file.name.endswith(".md"):
         target_md_file = None  # => rebuild all target PDFs
-    if target_md_file is None and len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
-        target_md_file = Path(DIR / sys.argv[1])
+    if target_md_file is None and len(sys.argv) > 1 and sys.argv[-1].endswith(".md"):
+        target_md_file = Path(DIR / sys.argv[-1])
     for md_src_file in SRC_FILES[2:]:
         metadata = dict(**METADATA[md_src_file])
         lang = metadata.pop("lang")

@@ -3,7 +3,7 @@ Mes créations de jeux de rôle hébergées [sur GitHub](https://github.com/Luca
 La plupart sont présentées sur [map page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 
-Cette page liste mes jeux en dévelopement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
+Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
 - [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour SOMBRE Zéro de Johan Scipion
@@ -73,7 +73,7 @@ Jeux de Grant Howitt :
 - [Genius Loci](genius-loci) ([version PDF](https://chezsoi.org/s/GeniusLociDirectPDFDownload))
 - [Plus de place en Enfer](plus-de-place-en-enfer) ([version PDF](https://chezsoi.org/s/PdPeEDirectPDFDownload))
 
-Jeux de Shane Mclean :
+Jeux de Shane McLean :
 
 - [Cheat Your Own Adventure](CheatYourOwnAdventure) - ([version PDF](https://chezsoi.org/s/CYOAPDFDownload))
 - [Le dernier café sur la gauche](LeDernierCafeSurLaGauche.html) - ([version PDF](https://chezsoi.org/s/LDCSLGPDFDownload))

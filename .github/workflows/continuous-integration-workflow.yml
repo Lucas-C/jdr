@@ -263,6 +263,9 @@ jobs:
           fi
           cd -
 
+          echo "Rendering all-fonts.html & all-fonts.pdf"
+          ./gen_pdf_with_all_fonts.py $(git ls-files | grep '\..tf$')
+
           # Build ZIP file for release:
           if [[ $GIT_TAG != merge ]] && ! [[ $GIT_TAG =~ master ]]; then
             zip $GIT_TAG.zip $GIT_TAG*.pdf
