@@ -2,7 +2,7 @@
 
 Sources de <https://lucas-c.github.io/jdr/>
 
-* mon site web : [chezsoi.org](https://chezsoi.org/lucas/blog/)
+* mon site web : [chezsoi.org](https://chezsoi.org/lucas/blog/) - les articles à propos de jeux de rôle : [#jdr](https://chezsoi.org/lucas/blog/tag/jdr.html)
 * les jeux en dévelopement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html)
 * tous les JdR que j'ai conçu : [Mes jeux de rôle](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html)
 

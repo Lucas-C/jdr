@@ -5,7 +5,7 @@ from shutil import copyfile
 from time import perf_counter
 
 from fpdf import FPDF
-from pypdf import PdfMerger
+from pypdf import PdfWriter
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
@@ -19,10 +19,10 @@ OUT_FILEPATH = DIR / "Pathfinder.pdf"
 
 def build_pdf():
     start = perf_counter()
-    merger = PdfMerger()
-    merger.append(character_sheet_pdf())
-    merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr"))
-    merger.write(OUT_FILEPATH)
+    writer = PdfWriter()
+    writer.append(character_sheet_pdf())
+    writer.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr"))
+    writer.write(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Pathfinder - Total Conversion",
         lang="fr",

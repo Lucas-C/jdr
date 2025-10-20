@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# USAGE: ./md2pdf.py [file.md]
+# USAGE: ./md2pdf.py [--watch] [file.md]
 import asyncio, logging, sys
 from pathlib import Path
 from shutil import copyfile
@@ -17,22 +17,25 @@ SRC_FILES = (
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/CriticalFondation/
     DIAGRAM_MD_FILEPATH   := DIR / "Diagramme.md",
     CARDS_MD_FILEPATH   := DIR / "Cartes.md",
-    EPISODES_MD_FILEPATH  := DIR / "NotesEpisodes.md",
+    S1_NOTES_MD_FILEPATH  := DIR / "Saison1-Notes.md",
+    HIGHTENSION_MD_FILEPATH  := DIR / "HauteTension-Notes.md",
     README_MD_FILEPATH := DIR / "README.md",
 )
 
 METADATA = {
     DIAGRAM_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
     CARDS_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    EPISODES_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
+    S1_NOTES_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
+    HIGHTENSION_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
     README_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
 }
 
 def build_pdf(target_md_file=None):
     if target_md_file and not target_md_file.name.endswith(".md"):
         target_md_file = None  # => rebuild all target PDFs
-    if target_md_file is None and len(sys.argv) > 1 and sys.argv[1].endswith(".md"):
-        target_md_file = Path(DIR / sys.argv[1])
+    if target_md_file is None and len(sys.argv) > 1 and sys.argv[-1].endswith(".md"):
+        target_md_file = Path(DIR / sys.argv[-1])
+        print(f"{target_md_file=} from sys.argv")
     for md_src_file in SRC_FILES[2:]:
         metadata = METADATA[md_src_file]
         lang = metadata.pop("lang")

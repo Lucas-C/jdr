@@ -17,7 +17,7 @@ from time import perf_counter
 from fpdf import FPDF
 from fpdf.enums import Align
 from fpdf.image_parsing import preload_image
-from pypdf import PdfMerger
+from pypdf import PdfWriter
 
 DIR = Path(__file__).parent
 
@@ -44,10 +44,10 @@ SCALE = .12  # mm / pixel
 
 def build_pdf(target_md_file=None):
     start = perf_counter()
-    merger = PdfMerger()
-    merger.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
-    merger.append(build_appendix_pdf())
-    merger.write(OUT_FILEPATH)
+    writer = PdfWriter()
+    writer.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
+    writer.append(build_appendix_pdf())
+    writer.write(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Sombre - Lab Escape",
         lang="fr",

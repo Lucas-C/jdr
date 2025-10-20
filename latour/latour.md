@@ -151,7 +151,7 @@ Polices: [Phage](https://www.behance.net/gallery/27095667/Phage-Free-Font) de Me
 <style>
 @font-face {
   font-family: PhageRough;
-  src: url('fonts/Phage Rough.otf') format('truetype');
+  src: url('fonts/PhageRough.otf') format('truetype');
 }
 @font-face {
   font-family: GabrieleL;

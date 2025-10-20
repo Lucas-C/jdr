@@ -17,6 +17,6 @@ if [ -r 'GIGAMIC_CRITICAL_MAP(01)_LABO.pdf' ]; then
   a4-from-imgs --landscape --no-margin --stretch CriticalFondation-Ep0-Carte.jpg
   a3-from-imgs --landscape --no-margin --stretch CriticalFondation-Ep0-Carte.jpg
   # Bundle all a4 maps
-  pdfly cat CriticalFondation-Ep0-Carte-A4.pdf 'GIGAMIC_CRITICAL_MAP(01)_LABO.pdf' 'GIGAMIC_CRITICAL_MAP(02)_HOPITAL.pdf' 'GIGAMIC_CRITICAL_MAP(03)_FERME.pdf' 'GIGAMIC_CRITICAL_MAP(04)_LANCE-MARS.pdf' -o A4-maps-to-print.pdf
+  pdfly cat CriticalFondation-Ep0-Carte-A4.pdf 'GIGAMIC_CRITICAL_MAP(01)_LABO.pdf' 'GIGAMIC_CRITICAL_MAP(02)_HOPITAL.pdf' NebulaMaps-Office-NexusRobotics-TopRoom-BW-A4.pdf 'GIGAMIC_CRITICAL_MAP(03)_FERME.pdf' 'GIGAMIC_CRITICAL_MAP(04)_LANCE-MARS.pdf' -o A4-maps-to-print.pdf
   rm CriticalFondation-Ep0-Carte-A4.pdf
 fi
