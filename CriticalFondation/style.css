@@ -13,6 +13,7 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   font-family: "Minion";
+  max-width: 44rem;
 }
 
 h1, h2, h3, h4 { font-family: "Uniwars"; }
@@ -39,7 +40,7 @@ a.theme-music {
 
 .cards {
   color: white;
-  font-size: .7rem;
+  font-size: .66rem;
   display: grid;
   grid-template-columns: 24% 24% 24% 24%;
   gap: 1.333%;
@@ -153,5 +154,8 @@ a.theme-music {
 .green { color: #97D077; }
 .red { color: #EA6B66; }
 .yellow { color: #FFB570; }
+
+.float-left { float: left; margin-right: 1rem; }
+.float-right { float: right; margin-left: 1rem; }
 
 .page-break-after { page-break-after: always; }

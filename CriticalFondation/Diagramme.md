@@ -13,7 +13,6 @@ Deux versions sont proposées : la 1ère correspond aux liens de **l'intrigue or
 
 ### Constats concernant l'intrigue
 * Gires est complètement **parachuté comme "Grand Méchant"** au dernier épisode, et l'énigme de la cassette audio, du code « 42 », et de la chaîne _vintage_ dans le bureau de Gires est vraiment tirée par les cheveux.
-* l'enjeu du **mystérieux implant permettant de changer de visage** n'est pas exploité.
 * les docteurs **Toganov, Conway & Hillary** sont mentionnés dans un article, mais cette piste est en fait un cul de sac, c'est un peu dommage. De même, les motivations de **l'agent Wagner** de la NSA, qui garde un œil sur l'enquête de Jackson & des PJs, sont peu claires. Et qui a embauché **Aaron Stroke** ?
 * les PJs ne sont pas du tout **impliqués personnellement** dans l'histoire.
 * l'identité de la personne décrite par Lisa en **portrait robot** n'est pas explicitée. <u>**Mon postulat**</u> : c'est **Dany**.
@@ -60,3 +59,17 @@ J'ai introduit quelques opportunités d'implications dans mon autre aide de jeu 
 * voici quelques idées pour impliquer d'avantage le **Scientifique** et mettre en valeur ses talents :
     + son drone pourrait être touché lors d'une fusillade, et nécessiter des réparations
     + entre deux épisodes, demandez-lui _« Avec ces deux implants, tu penses qu'il doit être possible de pouvoir bidouiller quelque chose... ? As-tu une idée derrière la tête ? »_ S'il fait une proposition qui tient la route, demandez-lui une un test de **Savoir-Faire** (_Adresse_) ou de **Connaissance** (Mental) pour mettre son idée en pratique.
+
+## Licence & feedbacks
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
+</a>
+
+Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
+
+Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation). Version : 1.0
+
+Cette aide de jeu est diffusée gratuitement.
+Je serais ravi d'avoir vos retours si vous l'employez :
+racontez-moi comment s'est passée votre partie via un commentaire sur [mon blog](https://chezsoi.org/lucas/blog/critical-fondation.html).
+

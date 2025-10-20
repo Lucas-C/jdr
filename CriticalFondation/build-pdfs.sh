@@ -4,7 +4,7 @@
 set -o pipefail -o errexit -o nounset -o xtrace
 cd $(dirname ${BASH_SOURCE[0]})
 
-pdfly cat DiagrammeDeLaSaison1.pdf Diagramme.pdf DiagrammeDeLaSaison1-Etendu.pdf -o CriticalFondation-DiagrammeDeLaSaison1.pdf
+pdfly cat DiagrammeDeLaSaison1.pdf DiagrammeDeLaSaison1-Etendu.pdf Diagramme.pdf -o CriticalFondation-DiagrammeDeLaSaison1.pdf
 
 if [ -r 'GIGAMIC_CRITICAL_PNP_RULES_DEMO.pdf' ]; then
   # On extrait les pages 2 & 3 :

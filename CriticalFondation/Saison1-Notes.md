@@ -139,10 +139,9 @@ Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de col
 * si les PJs font preuve de discrétion et de ruse, indiquez-leur la présence des mercenaires et donnez-leur l'opportunité d'en neutraliser 1 ou 2 avant la fusillade
 ### Scène 2 - Fusillade
 * diffuser [_Antigone Falling_](https://www.youtube.com/watch?v=WkWahjqHtes) pour faire monter la tension, puis [_Overpowered_](https://www.youtube.com/watch?v=JTxLd-XFp6o)
-* donner des bonus aux PJs s'ils exploitent l'environnement
-* le drone du scientifique peut être pris pour cible et touché ! Ce qui nécessitera des réparations.
+* donner des bonus aux PJs s'ils exploitent l'environnement / le drone / etc.
 * après la bataille :
-    + si des mercenaires sont capturés vivant, ils croquent une dose de **cyanure**
+    + si des mercenaires sont capturés vivant, ils croquent une dose de **cyanure**. Si les PJs veulent absolument les interroger, laissez-les faire un test, et s'ils le réussissent, dites-leur qu'ils peuvent poser un certain nombre de questions (1 à 3) auxquelles le mercenaire interrogé répondra sans mentir
     + si les PJs ne pensent pas à fouiller les mercenaires, faites-les trouver le **fusil expérimental** dans la base secrète : ça leur fera plaisir d'avoir du _loot_, et ce sera très utile pour le boss final
     + un revolver **magnum** peut aussi être récupéré sur l'un des mercenaires
     + si les PJs font des recherches sur le **logo de scorpion sur fond jaune** des mercenaires, ils pourront découvrir que la société qui l'a conçu a été engagée par le même client pour concevoir un **logo de hibou noir menaçant**, mais le commanditaire est inconnu (c'est _Night Owl_)
@@ -151,7 +150,7 @@ Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de col
 * le post-it sur le bureau (21) est accompagné d'un second avec cette mention (rédigée avec l'écriture du Dr Monroe) : _« Code pour le prototype G4N7 »_.
 * il y a un caisson fermé par un digicode, sur lequel il est indiqué `G4N7`.
 Le caisson peut être ouvert avec le code `42`, et il contient un prototype de **lévito-gant** expérimental 🧤 fonctionnant avec des nanorobots. L'employer nécessite un test de **Savoir-Faire** (_Adresse_). Après deux usages, à représenter par des jetons sur la carte, il doit être rechargé pendant plusieurs heures (possible à la fin des épisodes 5 & 7).
-* ⚠️ finir par les infos de l'ordi, et lorsque les PJs découvre le rachat de _Mercury_ par _Mars Inc._, mentionner également la présence d'emails de Samuel de Gires, sous formes **d'instructions directes** envoyées à ce laboratoire secret.
+* ⚠️ finir par les infos de l'ordi, et lorsque les PJs découvrent le rachat de _Mercury_ par _Mars Inc._, mentionner la présence d'emails de Samuel de Gires, des **instructions directes** envoyées à ce laboratoire secret.
 * trappe bloquée : être ouvert à des solutions créatives des PJs
 
 ## Épisode 6
@@ -196,7 +195,7 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
     2. Après 2 tours de combat, lorsque Gires réalise que les PJs résistent, il active son armure de nanomachines pour les affronter lui même, en hurlant  _« Les dieux de l'Olympe sont avec moi ! »_
     3. Après 2 tours de combat, si la majorité des PJs reste debout, Gires s'enfuit : il crie _« Évacuation ! »_, et la baie vitrée derrière son bureau s'ouvre en coulissant, laissant entendre le bruit d'un hélicoptère.
 * 🗡 dans la collection d'objets exposés au mur, trône un **glaive de graphène**
-* 🔫 il est possible de récupérer les **fusils mitrailleurs** des agents de Fondation : donnez alors aux joueurs la carte équipement _Fusil d'Assaut_
+* 🔫 il est possible de récupérer les **fusils mitrailleurs** des agents de Fondation : donnez alors aux joueurs la carte équipement _Fusil d'Assaut_.
 
 <br><br><br><br><br>
 
@@ -206,10 +205,16 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 
 ![](imgs/AuRapport.png)
 
-<!-- Pour prochaine partie
-* noms des PJs : Takeshi (Noah), Stef (Barbara), Bob (Matthias), Jane (Karine)
-* ramener les bières
-* demander à Matthias de choisir son Historique
-* proposer pour cette partie que les joueurs se sentent libres de faire preuve de plus d'imagination concernant les actions qu'ils souhaitent réaliser : même si ce n'est pas prévu par le scénario, on improvisera, quitte à introduire des cartes supplémentaires
-* [?] reprendre mon aide manuscrite en .md
--->
+
+## Licence & feedbacks
+<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
+</a>
+
+Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
+
+Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation). Version : 1.0
+
+Cette aide de jeu est diffusée gratuitement.
+Je serais ravi d'avoir vos retours si vous l'employez :
+racontez-moi comment s'est passée votre partie via un commentaire sur [mon blog](https://chezsoi.org/lucas/blog/critical-fondation.html).
