@@ -6,15 +6,15 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
-- [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour SOMBRE Zéro de Johan Scipion
+- [Sombre : Lab Escape](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour [SOMBRE Zéro de Johan Scipion](https://www.terresetranges.net/sombre.html)
 - [La Brigade du Chaos](https://lucas-c.itch.io/la-brigade-du-chaos) - Traduction d'un excellent jeu de Grant Howitt, et son aide de jeu maison : [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
-- [2200: Le Jugement Des Dieux](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html)
+- [2200: Le Jugement Des Dieux](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html) - Un court jeu de rôle narratif que j'ai créé
 - [Paradis Perdu - Modules de Secours](https://lucas-c.itch.io/modules-de-secours), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388)
-- [La Tour](latour) ([version PDF](https://chezsoi.org/s/LaTourPDFDownload))
-- [Amères Victoires & Glorieuses Défaites](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites)
-- [Les Non-morts](https://lucas-c.itch.io/les-non-morts)
-- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html)
-- [Scavengers: Anomalies nauchoresques](scavengers)
+- [La Tour](latour) ([version PDF](https://chezsoi.org/s/LaTourPDFDownload)) - Un jeu de rôle en une page (création originale)
+- [Amères Victoires & Glorieuses Défaites](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites) - Le premier jeu de rôle que j'ai publié en PDF
+- [Les Non-morts](https://lucas-c.itch.io/les-non-morts) - Un jeu de société narratif avec des zombies
+- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - Extension d'un court jeu de rôle où l'on incarne les maîtres d'un donjon - [Article de blog de présentation](dungeon-heart-heroes-and-spells.html)
+- [Scavengers: Anomalies nauchoresques](scavengers) - Une aide de jeu pour [Scavengers, le jeu de rôle de Grégory Pogorzelski](http://awarestudios.blogspot.com/2014/01/scavengers.html)
 - [Vengeance Fatale 4D](VengeanceFatale4D) - _Unfinished_
 
 - Pour [Psi*Run ](https://electric-goat.net/products/1) :
@@ -37,10 +37,10 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
   * scénario [Docteur Lestrange](https://lucas-c.itch.io/docteur-lestrange)
 
 - Pour [Critical Fondation](https://www.gigamic-adds.com/game/critical/foundation) :
-Voici quelques aides de jeu que j'ai créé :
-  * un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : [CriticalFondation-Saison1-Diagramme.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf)
-  * quelques cartes de jeu supplémentaires : [CriticalFondation-Saison1-Cartes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
-  * quelques notes de préparation comme MJ, épisode par épisode : [CriticalFondation-Saison1-NotesEpisodes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf)
+voici quelques aides de jeu que j'ai créé :
+  * un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : [CriticalFondation-Saison1-Diagramme.pdf (5 pages - 546 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf)
+  * quelques cartes de jeu supplémentaires : [CriticalFondation-Saison1-Cartes.pdf (2 pages - 2,3 Mo)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
+  * quelques notes de préparation comme MJ, épisode par épisode : [CriticalFondation-Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf)
 
 <!-- [Allegoria](Allegoria) -->
 <!-- [AmnesicFantasy](AmnesicFantasy) -->
