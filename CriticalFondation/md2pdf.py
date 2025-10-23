@@ -28,21 +28,21 @@ METADATA = {
         "lang": "fr",
         "title": "Critical Fondation - Saison 1 - Diagramme et ajouts scénaristiques",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "diagramme"),
-        "description": "Un diagramme reliant les principaux éléments de l'intrigue de la saison du jeu de rôle Critical Fondation, et quelques suggestions d'ajouts au scénario",
+        "description": "Un diagramme reliant les principaux éléments de l'intrigue de la saison 1 du jeu de rôle Critical Fondation, et quelques suggestions d'ajouts au scénario",
     },
     CARDS_MD_FILEPATH: {
         "lang": "fr",
         "prefix": "CriticalFondation-Saison1-",
         "title": "Critical Fondation - Saison 1 - Cartes additionnelles",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "cartes"),
-        "description": "Quelques cartes de jeu supplémentaires pour la saison du jeu de rôle Critical Fondation",
+        "description": "Quelques cartes de jeu supplémentaires pour la saison 1 du jeu de rôle Critical Fondation",
     },
     S1_NOTES_MD_FILEPATH: {
         "lang": "fr",
         "prefix": "CriticalFondation-Saison1-",
         "title": "Critical Fondation - Saison 1 - Notes de MJ",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu"),
-        "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison du jeu de rôle Critical Fondation",
+        "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison 1 du jeu de rôle Critical Fondation",
     },
     README_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
     HIGHTENSION_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
