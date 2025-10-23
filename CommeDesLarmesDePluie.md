@@ -10,8 +10,9 @@ body {
 h1, h2, h3 { line-height: 1.2; }
 </style>
 
-http://www.tartofrez.com/gc2016-les-jeux/
-https://drive.google.com/file/d/0Bz2_fshi90NtQjFpWEhaMVpqcjg/view?usp=sharing
+Jeu original de [Vivien Féasson](https://dunpayslautre.org/galerie-intervenants/feasson-vivien/) :
+[CommeDesLarmesDansLaPluie.pdf](https://chezsoi.org/lucas/jdr/CommeDesLarmesDansLaPluie-VivienF%C3%A9asson.pdf),
+réalisé pour le [Game Chef 2016](https://web.archive.org/web/20161117222659/http://www.tartofrez.com/gc2016-les-jeux/)
 
 
 # Comme des larmes dans la pluie
