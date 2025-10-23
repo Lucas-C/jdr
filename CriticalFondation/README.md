@@ -14,8 +14,8 @@ Article de blog : <https://chezsoi.org/lucas/blog/critical-fondation.html>
 ## Aides de jeu
 Voici quelques aides de jeu que j'ai créé :
 * un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : [CriticalFondation-Saison1-Diagramme.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf)
-* quelques cartes de jeu supplémentaires : [Cartes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
-* quelques notes de préparation comme MJ, épisode par épisode : [Saison1-Notes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf)
+* quelques cartes de jeu supplémentaires : [CriticalFondation-Saison1-Cartes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
+* quelques notes de préparation comme MJ, épisode par épisode : [CriticalFondation-Saison1-NotesEpisodes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf)
 
 ## Autres ressources
 Imprimer au préalable ces documents générés par le script `./build-2up-pdf.sh` :

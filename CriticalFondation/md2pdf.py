@@ -26,7 +26,7 @@ SRC_FILES = (
 METADATA = {
     DIAGRAM_MD_FILEPATH: {
         "lang": "fr",
-        "title": "Critical Fondation - Saison 1 - Diagramme et additions",
+        "title": "Critical Fondation - Saison 1 - Diagramme et ajouts scénaristiques",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "diagramme"),
         "description": "Un diagramme reliant les principaux éléments de l'intrigue de la saison du jeu de rôle Critical Fondation, et quelques suggestions d'ajouts au scénario",
     },

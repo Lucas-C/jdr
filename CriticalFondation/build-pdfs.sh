@@ -6,6 +6,7 @@ cd $(dirname ${BASH_SOURCE[0]})
 
 pdfly cat Saison1-Diagramme.pdf Saison1-DiagrammeEtendu.pdf Diagramme.pdf \
   -o CriticalFondation-Saison1-Diagramme.pdf
+rm Diagramme.pdf
 
 if [ -r 'GIGAMIC_CRITICAL_PNP_RULES_DEMO.pdf' ]; then
   # On extrait les pages 2 & 3 :
