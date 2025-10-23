@@ -2,7 +2,6 @@ Mes créations de jeux de rôle hébergées [sur GitHub](https://github.com/Luca
 
 La plupart sont présentées sur [ma page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
-
 Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
@@ -13,7 +12,7 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
 - [La Tour](latour) ([version PDF](https://chezsoi.org/s/LaTourPDFDownload)) - Un jeu de rôle en une page (création originale) - [Article de blog](https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html)
 - [Amères Victoires & Glorieuses Défaites](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites) - Le premier jeu de rôle que j'ai publié en PDF - [Articles de blog](https://chezsoi.org/lucas/blog/tag/ameres-victoires-glorieuses-defaites.html)
 - [Les Non-morts](https://lucas-c.itch.io/les-non-morts) - Un jeu de société narratif avec des zombies
-- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - Extension d'un court jeu de rôle où l'on incarne les maîtres d'un donjon - [Article de blog](dungeon-heart-heroes-and-spells.html)
+- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - Extension d'un court jeu de rôle où l'on incarne les maîtres d'un donjon - [Articles de blog](https://chezsoi.org/lucas/blog/tag/dungeon-heart.html)
 - [Scavengers: Anomalies nauchoresques](scavengers) - Une aide de jeu pour [Scavengers, le jeu de rôle de Grégory Pogorzelski](http://awarestudios.blogspot.com/2014/01/scavengers.html) - [Article de blog](https://chezsoi.org/lucas/blog/scavengers-anomalies-nauchoresques.html)
 - [Vengeance Fatale 4D](VengeanceFatale4D) - _Unfinished_
 
@@ -53,21 +52,21 @@ voici quelques aides de jeu que j'ai créé :
 <!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
 <!-- [Sous Terre](sous-terre) -->
 
-Pour en savoir plus, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
+Pour me suivre, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 
 <h3 id="translations">Traductions anglais → français</h3>
 
-[Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games :
+[Run. Die. Repeat](https://labrysgames.itch.io/run-die-repeat) de Labrys Games - [Articles de blog](https://chezsoi.org/lucas/blog/tag/run-die-repeat.html) :
 
 - [PDF 37 Ko](https://chezsoi.org/s/RDRfrdirectPDFdownload)
 - [LibreOffice flat document](RunDieRepeat/RunDieRepeat-FR.fodt)
 
-[CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper :
+[CYBER//PUNK](https://dbb-8.itch.io/cyberpunk) de David Brunell-Brutman, un _hack_ de _Lasers & Feelings_ de John Harper - [Article de blog](https://chezsoi.org/lucas/blog/cyberpunk.html) :
 
 - [CyberPunk-FR.pdf](https://chezsoi.org/s/CyberPunkFrPDFdownload)
 
-[Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa :
+[Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa - [Articles de blog](https://chezsoi.org/lucas/blog/tag/dungeon-heart.html) :
 
 - [PDF 1.7 Mo](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
 - [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon%20Heart%20B%26W%20v1.6%20fr.fodg)
