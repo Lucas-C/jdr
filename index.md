@@ -36,6 +36,12 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
   * scénario [Les Couloirs du Temps](https://lucas-c.itch.io/les-couloirs-du-temps)
   * scénario [Docteur Lestrange](https://lucas-c.itch.io/docteur-lestrange)
 
+- Pour [Critical Fondation](https://www.gigamic-adds.com/game/critical/foundation) :
+Voici quelques aides de jeu que j'ai créé :
+  * un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : [CriticalFondation-Saison1-Diagramme.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf)
+  * quelques cartes de jeu supplémentaires : [CriticalFondation-Saison1-Cartes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
+  * quelques notes de préparation comme MJ, épisode par épisode : [CriticalFondation-Saison1-NotesEpisodes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf)
+
 <!-- [Allegoria](Allegoria) -->
 <!-- [AmnesicFantasy](AmnesicFantasy) -->
 <!-- [chimera](chimera) -->
