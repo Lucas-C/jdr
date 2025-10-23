@@ -2,6 +2,7 @@ Mes créations de jeux de rôle hébergées [sur GitHub](https://github.com/Luca
 
 La plupart sont présentées sur [ma page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
+
 Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
