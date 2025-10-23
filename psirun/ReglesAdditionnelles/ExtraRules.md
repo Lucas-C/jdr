@@ -32,7 +32,8 @@ an answer to a question without placing a die on the **Reveal** Risk:
 This extra rule can be very useful if the Runners **outrun** the Chasers,
 in order to restore dramatic tension:
 
-> If players spend more than 20 minutes of playtime in a place,> advance the Chasers one step on the Trail.
+> If players spend more than 20 minutes of playtime in a place,
+> advance the Chasers one step on the Trail.
 
 **Repel the Chasers**: If the Runners successfully confront and fight the Chasers in a location,
 the Chasers move back one step on the Trail.
@@ -91,7 +92,7 @@ _(by re-rolling until a player's number is drawn)_
 
 <footer>
 
-Game aid created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). Version: 1.0 - [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/ReglesAdditionnelles).
+Game aid created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) in August 2025 - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/ReglesAdditionnelles).
 <br>
 [Psi*Run is a game by Meguey & Vincent Baker](https://lumpley.itch.io/psirun).
 <br>

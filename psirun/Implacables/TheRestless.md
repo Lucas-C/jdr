@@ -157,7 +157,7 @@ You can mention [the TV series Heroes](https://en.wikipedia.org/wiki/Heroes_(Ame
 
 <footer>
 
-Scenario created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). Version: 1.0 - [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/Implacables).
+Scenario created by [Lucas Cimon](https://chezsoi.org/lucas/blog/) in August 2025 - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). [Source files](https://github.com/Lucas-C/jdr/tree/master/psirun/Implacables).
 To support my work, you can buy something on [lucas-c.itch.io](https://lucas-c.itch.io).
 If you play that scenario, please give me some feedback on [my blog](https://chezsoi.org/lucas/blog/psirun-implacables-regles-additionnelles.html).
 
@@ -167,5 +167,4 @@ Illustrations: [AlexZebol](https://www.deviantart.com/alexzebol/art/Sketch-Older
 <br>[Fernand0FC](https://www.deviantart.com/fernand0fc/gallery) & [NewYa3502](https://www.deviantart.com/newya3502/art/Homelander-Render-2-957428403) - [CC BY](https://creativecommons.org/licenses/by/3.0/)
 
 Fonts: [KillTheNoise](https://www.fontspace.com/kill-the-noise-font-f17592), [RoadRage](https://youssef-habchi.com/fonts/road-rage) & [OutrunFuture](https://comicfontsby.tehandeh.com/fonts/outrun-future/)
-
 </footer>
