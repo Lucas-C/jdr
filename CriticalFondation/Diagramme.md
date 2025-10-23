@@ -50,7 +50,7 @@ Il sera très craintif, mais pourra fournir ces quelques informations avant de r
 * c'est **Matthew Conway qui a missionné Aaron Stroke** pour faire taire Lisa Gordon, la rescapée des expériences de Monroe. Si les PJs creusent la piste d'Aaron Stroke, ils pourront découvrir quelques infos à ce sujet : avant de disparaître de la circulation il y a 5 ans, des éléments étaient présents dans son dossier de police, mais ils ont été retirés par la NSA...
 
 #### Implication des PJs
-J'ai introduit quelques opportunités d'implications dans mon autre aide de jeu listant mes notes de MJ, épisode par épisode :
+J'ai introduit quelques opportunités d'implications dans [mon autre aide de jeu listant mes notes de MJ](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf), épisode par épisode :
 * dans l'**épisode 1**, vous pouvez proposer que l'un des PJs connaisse personnellement la survivant des expériences Dr Monroe. Si un joueur accepte, demandez-lui : _« Quel lien avez-vous, et comment avais-tu été affecté par sa disparition ? »_
 * dans l'**épisode 6**, vous pouvez proposer que l'un des PJs connaisse personnellement Charlotte. Si un joueur accepte, expliquez-lui que Charlotte est une agente de renseignement de la NSA, avec qui il a travaillé lors d'une opération conjointe avec la CIA en Amérique latine, mais qui a dénoncé ensuite les actions illégales de ses supérieurs. Demandez au joueur : _« Est-ce que vous vous entendiez bien ou pas tellement ? Pourquoi ? »_
 * voici quelques idées pour impliquer d'avantage le **Codeur** et mettre en valeur ses talents :
@@ -65,7 +65,7 @@ J'ai introduit quelques opportunités d'implications dans mon autre aide de jeu 
     <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
 </a>
 
-Cette aide de jeu de Lucas Cimon est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
+Cette aide de jeu de Lucas Cimon a été publiée en octobre 2025 et est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation). Version : 1.0
 

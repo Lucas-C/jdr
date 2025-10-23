@@ -91,7 +91,7 @@ _(en relançant jusqu'à ce que le chiffre d'une joueuse soit tiré)_
 
 <footer>
 
-Aide de jeu réalisée par [Lucas Cimon](https://chezsoi.org/lucas/blog/) - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/). Version: 1.0 - [Fichiers sources](https://github.com/Lucas-C/jdr/tree/master/psirun/ReglesAdditionnelles).
+Aide de jeu réalisée par [Lucas Cimon](https://chezsoi.org/lucas/blog/), publiée en août 2025 - [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/). [Fichiers sources](https://github.com/Lucas-C/jdr/tree/master/psirun/ReglesAdditionnelles).
 <br>
 Psi*Run est un jeu de Meguey Baker, édité en français par [ElectricGoat](https://electric-goat.net/products/1).
 <br>
