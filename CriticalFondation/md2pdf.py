@@ -9,7 +9,7 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
+from pdf_utils import markdown2pdf, md2html, set_metadata, start_watch_and_rebuild
 copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "imgs" / "cc-by-nc-sa.png"))
 
 SRC_FILES = (
@@ -18,17 +18,34 @@ SRC_FILES = (
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/CriticalFondation/
     DIAGRAM_MD_FILEPATH   := DIR / "Diagramme.md",
     CARDS_MD_FILEPATH   := DIR / "Cartes.md",
-    S1_NOTES_MD_FILEPATH  := DIR / "Saison1-Notes.md",
+    S1_NOTES_MD_FILEPATH  := DIR / "NotesEpisodes.md",
     HIGHTENSION_MD_FILEPATH  := DIR / "HauteTension-Notes.md",
     README_MD_FILEPATH := DIR / "README.md",
 )
 
 METADATA = {
-    DIAGRAM_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    CARDS_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    S1_NOTES_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    HIGHTENSION_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    README_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
+    DIAGRAM_MD_FILEPATH: {
+        "lang": "fr",
+        "title": "Critical Fondation - Saison 1 - Diagramme et additions",
+        "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "diagramme"),
+        "description": "Un diagramme reliant les principaux éléments de l'intrigue de la saison du jeu de rôle Critical Fondation, et quelques suggestions d'ajouts au scénario",
+    },
+    CARDS_MD_FILEPATH: {
+        "lang": "fr",
+        "prefix": "CriticalFondation-Saison1-",
+        "title": "Critical Fondation - Saison 1 - Cartes additionnelles",
+        "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "cartes"),
+        "description": "Quelques cartes de jeu supplémentaires pour la saison du jeu de rôle Critical Fondation",
+    },
+    S1_NOTES_MD_FILEPATH: {
+        "lang": "fr",
+        "prefix": "CriticalFondation-Saison1-",
+        "title": "Critical Fondation - Saison 1 - Notes de MJ",
+        "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu"),
+        "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison du jeu de rôle Critical Fondation",
+    },
+    README_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
+    HIGHTENSION_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
 }
 
 def build_pdf(target_md_file=None):
@@ -41,11 +58,18 @@ def build_pdf(target_md_file=None):
         metadata = METADATA[md_src_file]
         lang = metadata.pop("lang")
         if target_md_file is None or target_md_file == md_src_file:
-            build_single_pdf(md_src_file, metadata, lang)
+            if metadata.pop("pdf", None) is False:
+                with open(md_src_file, encoding="utf8") as md_file:
+                    md2html(DIR, md_file.read(), CSS_FILEPATH, lang=lang, metadata=metadata)
+            else:
+                build_single_pdf(md_src_file, metadata, lang)
 
 def build_single_pdf(md_filepath, metadata, lang):
     start = perf_counter()
     out_filepath = md_filepath.with_suffix(".pdf")
+    prefix = metadata.pop("prefix", None)
+    if prefix:
+        out_filepath = out_filepath.with_name(prefix + out_filepath.name)
     with out_filepath.open("wb") as out_pdf_file:
         pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata).getbuffer()
         out_pdf_file.write(pdf)
