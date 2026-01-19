@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Generate: https://lucas-c.github.io/jdr/all-fonts.pdf
 # USAGE: ./gen_pdf_with_all_fonts.py $(git ls-files | grep '\..tf$')
 import logging, sys
 from pathlib import Path
@@ -15,6 +16,8 @@ HTML_FILEPATH = DIR / "all-fonts.html"
 PDF_FILEPATH = DIR / "all-fonts.pdf"
 
 def main():
+    if len(sys.argv) <= 1:
+        raise RuntimeError("Some font files should be passed as arguments")
     css, html = "", ""
     for font_filepath in sys.argv[1:]:
         font_filepath = Path(font_filepath)
@@ -29,14 +32,18 @@ def main():
             <title>All fonts</title>
             <link rel="stylesheet" href="{CSS_FILEPATH.name}">
         </head>
-        <body>{html}</body>
+        <body>
+        {html}
+        <br>
+        <p>Check also : <a href="https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html#fonts">Images sous licences libres > Fonts</a></p>
+        </body>
     </html>"""
     with HTML_FILEPATH.open("w", encoding="utf8") as html_file:
         html_file.write(html)
     bytesio = html2pdf(DIR, html, css_filepath=CSS_FILEPATH)
     with PDF_FILEPATH.open("wb") as pdf_file:
-        pdf_file.write(bytesio.getbuffer())    
-    
+        pdf_file.write(bytesio.getbuffer())
+    print(f"{PDF_FILEPATH} generated")
 
 if __name__ == "__main__":
     main()
