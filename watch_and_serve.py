@@ -40,7 +40,12 @@ for folder in [SCRIPT_DIR] + [d for d in listdir(SCRIPT_DIR) if isdir(d)]:
         if base_md_filename in ('LICENSE.md', 'README.md'):
             continue
         output_html_filepath = folder + '/index.html' if base_md_filename.replace('.md', '') == folder else md_filename.replace('.md', '.html')
-        cmd = shell('md2html ' + base_md_filename, cwd=cwd, output=output_html_filepath)
+        lang_arg = ''
+        if md_filename.lower().endswith("-fr.md") or md_filename.lower().endswith("_fr.md"):
+            lang_arg = '--lang=fr '
+        elif md_filename.lower().endswith("-en.md") or md_filename.lower().endswith("_en.md"):
+            lang_arg = '--lang=en '
+        cmd = shell('md2html ' + lang_arg + base_md_filename, cwd=cwd, output=output_html_filepath)
         print('Watching', md_filename, '->', output_html_filepath, end='')
         if '--pdf' in sys.argv:
             output_pdf_filepath = md_filename.replace('.md', '.pdf')
