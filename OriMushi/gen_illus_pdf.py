@@ -57,6 +57,8 @@ add_image("Kenku-by-ubergank-cc-by-sa.jpg")
 add_image("komainu_raican_by_hijodelopio_cc-by.png")
 
 pdf.add_page()
+add_image("spear_of_church_full_ver_by_finnalan_cc-by-sa.png")
+add_image("zatena_mayaw_tale_of_siselu_by_finnalan_cc-by-sa.png")
 add_image("league_of_legends_shen_blood_moon_by_spellshuei_cc-by.jpg")
 add_image("pixabay-kitty.png")
 
@@ -107,6 +109,7 @@ Origine des illustrations :
 - [Dakuan Ninja Scroll par DaudioMultimedia](https://www.deviantart.com/daudiomultimedia/art/Dakuan-Ninja-Scroll-784761566) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 - [Kenku par Ubergank](https://www.deviantart.com/ubergank/art/Kenku-814005528) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Iaeto par BananaScholar](https://www.deviantart.com/bananascholar/art/ArtFight-2024-9-Iaeto-1072574039) - [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+- [spear of church](https://www.deviantart.com/finnalan/art/spear-of-church-full-ver-698867892) & [Zatena Mayaw Tale of Siselu par FinnAlan](https://www.deviantart.com/finnalan/art/Zatena-Mayaw-Tale-of-Siselu-760690943) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [League of Legends - Shen / Blood Moon par Spellshuei](https://www.deviantart.com/spellshuei/art/League-of-Legends-Shen-Blood-Moon-296075743) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Zuko fanart par CodeTheCod](https://www.deviantart.com/codethecod/art/Zuko-fanart-902243721) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Gone fishing](https://www.deviantart.com/desmondwoot/art/Gone-fishing-404429653), [Lanterns in the Sky](https://www.deviantart.com/desmondwoot/art/Lanterns-in-the-Sky-357624151) & [Skyriders par Desmond Wong](https://www.deviantart.com/desmondwoot/art/Skyriders-465317507) - [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -118,8 +121,7 @@ Origine des illustrations :
 - [Dark Mana Breather par Santiago Iborra (wtactics)](https://github.com/wtactics/art) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 - [Armored & Manimal 3 par Jeff Preston](http://team-preston.com) issu de [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Liadlaw Illustration by PhantomRhey](https://www.deviantart.com/phantomrhey/art/Liadlaw-Illustration-978581143) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Elf Druide Fantaisie](https://pixabay.com/illustrations/elf-druid-fantasy-fantasy-character-2044697/), [Kitty Anime Poilu Bleu](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/)
-& [Shuriken Throwing Ninja Star](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/) @ pixabay.com
+- Pixabay : [Kitty Anime Poilu Bleu](https://pixabay.com/illustrations/kitty-anime-furry-blue-cat-robe-1374728/) & [Shuriken Throwing Ninja Star](https://pixabay.com/fr/vectors/shuriken-lancer-des-%C3%A9toiles-153172/) @ pixabay.com
 - [Ombrelle @ pxhere.com](https://pxhere.com/en/photo/700898) - CC0
 - [Bow and arrow vector drawing @ publicdomainvectors.org](https://publicdomainvectors.org/en/free-clipart/Bow-and-arrow-vector-drawing/74403.html) - domaine public
 - [Grapling hook par Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Grappling_hook_2_(PSF).png) - domaine public

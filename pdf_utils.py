@@ -52,7 +52,8 @@ def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None, bookmar
     return html2pdf(dir, html, css_filepath, lang, metadata, bookmarks)
 
 def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
-    md_content = handle_ponctuation_whitespaces(md_content)
+    if lang == "fr":
+        md_content = fr_ponctuation_fixups(md_content)
     html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
@@ -101,11 +102,15 @@ def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None, bookmarks=T
     return bytes_io
 
 
-def handle_ponctuation_whitespaces(md_content):
-    "Prevents line breaks before & after guillemets"
-    md_content = md_content.replace(" :", "&nbsp;:")
+def fr_ponctuation_fixups(md_content):
+    # Prevents line breaks before & after guillemets:
     md_content = md_content.replace("« ", "«&nbsp;")
     md_content = md_content.replace(" »", "&nbsp;»")
+    md_content = md_content.replace(" :", "&nbsp;:")
+    md_content = md_content.replace(" !", "&nbsp;!")
+    md_content = md_content.replace(" ?", "&nbsp;?")
+    md_content = md_content.replace("...", "…")
+    md_content = md_content.replace("'", "’")  # apostrophe typographique
     return md_content
 
 

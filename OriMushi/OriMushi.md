@@ -1,4 +1,12 @@
-<!-- Next:
+<!-- En vrac:
+
+mécanique de "filler" pour définir ce que faisaient les personnages absents pendants les parties où ils étaient absents
+
+site web : nuages d'estampe à écarter au curseur
+retrouver feuille idées de sources d'inspi -> ajouter livres jdr & ptgptb
+Essayer de rester SIMPLE & ACCESSIBLE
+
+Next :
 
 * finir Noms-japonais.md
 * ajouter de nouvelles Compétences, et passer dans un mode +1d6 / +2d6
@@ -588,7 +596,7 @@ Il choisit ensuite la nature de ce lien dans la table suivante parmi les options
 
 Pour chaque **lien**, trois questions sont posées.
 Le joueur qui n'a pas choisit la nature du lien commence à répondre à l'une des question.
-Puis son partenaire répond à une second question.
+Puis son partenaire répond à une seconde question.
 La parole revient enfin au joueur initial pour la question restante.
 
 <!-- Les objectifs :
