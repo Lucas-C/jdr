@@ -24,6 +24,7 @@ SRC_FILES = (
     GUIDE_DU_MJ_MD_FILEPATH := DIR / "GuideDuMJ.md",
     MJ_RECAP_KOMUSOS_MD_FILEPATH := DIR / "MJ-Recap-Komusos.md",
     NOMS_JAP_MD_FILEPATH := DIR / "Noms-japonais.md",
+    CHARACTER_CREATION_MD_FILEPATH := DIR / "CreationDePersonnage.md",
     RULES_MD_FILEPATH := DIR / "OriMushi.md",
 )
 
@@ -43,6 +44,7 @@ METADATA = {
     GUIDE_DU_MJ_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
     NOMS_JAP_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
     MJ_RECAP_KOMUSOS_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
+    CHARACTER_CREATION_MD_FILEPATH: { "lang": "fr", "bookmarks": False },
 }
 
 
@@ -60,6 +62,8 @@ def build_pdf(target_md_file=None):
             build_single_pdf(md_src_file, metadata, lang, extra_outline, bookmarks)
             if md_src_file.name == "OriMushi.md":
                 (DIR / "index.html").rename("OriMushi.html")
+            elif md_src_file.name == "CreationDePersonnage.md":
+                (DIR / "index.html").rename("CreationDePersonnage.html")
     if not target_md_file:
         # This will be rendered at https://lucas-c.github.io/jdr/OriMushi/
         with open(DIR / "index.md", encoding="utf8") as md_file:
