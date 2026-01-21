@@ -1,6 +1,10 @@
 <!-- En vrac:
 
-mécanique de "filler" pour définir ce que faisaient les personnages absents pendants les parties où ils étaient absents
+Mécaniques à adapter au mode "table ouverte" :
+* ajouter un rappel 15 jours avant chaque partie de "boucler" les inscriptions
+* placer sur une page web dédiée les étapes de création de personnage
+* mécanique de "filler" pour définir ce que faisaient les personnages absents pendants les parties où ils étaient absents
+* prévoir un temps en début de partie pour introduire les nouveaux personnages, ou ceux qui "reviennent", et que ce soit l'occasion de développer des liens entre personnages
 
 site web : nuages d'estampe à écarter au curseur
 retrouver feuille idées de sources d'inspi -> ajouter livres jdr & ptgptb
@@ -769,7 +773,7 @@ ou pour lire des **livres interdits** qu'ils ont récolté.
 
 L'examen de ces reliques est le rôle de l'**Artiste-Conteur** du groupe.
 S'il n'y en aucun parmi les joueurs, alors le suivi des secrets découverts
-est géré **globalement par le groupe** : découpez simplement la zone _Secrets_
+est géré **par le groupe collectivement** : découpez simplement la zone _Secrets_
 d'une feuille d'Artiste-Conteur, et confiez-la aux joueurs.
 S'il y a deux Artiste-Conteurs parmi les joueurs, alors laissez-les se mettre d'accord
 pour que l'un se charge des bas-reliefs antiques et l'autre des livres interdits.
@@ -778,7 +782,7 @@ pour que l'un se charge des bas-reliefs antiques et l'autre des livres interdits
 Une fois par voyage entre deux aventures, un Artiste-Conteur peut profiter des temps de repos
 pour déchiffrer un **bas-relief antiques** qu'il a recopié, ou un **incunable** (livre rare).
 
-Au terme de cet examen littéraire, il **découvre un secret** sur terres connues.
+Au terme de cet examen littéraire, il **découvre un secret** concernant les terres connues.
 Le MJ consulte le tableau ci-dessous pour leur révéler lequel,
 correspondant le mieux au bas-relief ou livre déchiffré,
 et en privilégiant les premiers secrets de la liste :
