@@ -92,6 +92,13 @@ table ul { padding-left: 1rem; margin: 0; }
 }
 .side-by-side > * { margin: 0 1rem; }
 
+@media (min-width: 768px) {
+  .side-by-side > * {
+    margin: 0;
+    max-width: 50%;
+  }
+}
+
 .callout {
   break-inside: avoid;
   background: url(layout/rect-frame-01.png);

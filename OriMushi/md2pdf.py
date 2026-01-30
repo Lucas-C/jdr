@@ -64,7 +64,7 @@ def build_pdf(target_md_file=None):
                 (DIR / "index.html").rename("OriMushi.html")
             elif md_src_file.name == "CreationDePersonnage.md":
                 (DIR / "index.html").rename("CreationDePersonnage.html")
-    if not target_md_file:
+    if not target_md_file or target_md_file.name.endswith("index.md"):
         # This will be rendered at https://lucas-c.github.io/jdr/OriMushi/
         with open(DIR / "index.md", encoding="utf8") as md_file:
             md2html(DIR, md_file.read(), CSS_FILEPATH, lang="fr")
@@ -97,4 +97,4 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
-        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES))
+        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES, "index.md"))
