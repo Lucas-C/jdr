@@ -17,17 +17,17 @@ Retrouvez quelques aticles sur mon blog à propos du développement du jeu : [ta
 Réalisées par [Elliot Jolivet](https://illutensei.com/) :
 
 <div class="side-by-side">
-  <img alt="Bao, un personnage du jeu de rôle Ori Mushi" src="illus-tensei/PJ-Bao.jpg" >
-  <img alt="Boo, un personnage du jeu de rôle Ori Mushi" src="illus-tensei/PJ-Boo.jpg" >
+  <img alt="Bao, un personnage du jeu de rôle Ori Mushi" src="https://chezsoi.org/lucas/jdr/OriMushi/illus-tensei/PJ-Bao.jpg" >
+  <img alt="Boo, un personnage du jeu de rôle Ori Mushi" src="https://chezsoi.org/lucas/jdr/OriMushi/illus-tensei/PJ-Boo.jpg" >
 </div>
 
 <div class="side-by-side">
-  <img alt="Eishun, un personnage du jeu de rôle Ori Mushi" src="illus-tensei/PJ-Eishun.jpg" >
-  <img alt="Kaito, un personnage du jeu de rôle Ori Mushi" src="illus-tensei/PJ-Kaito.jpg" >
+  <img alt="Eishun, un personnage du jeu de rôle Ori Mushi" src="https://chezsoi.org/lucas/jdr/OriMushi/illus-tensei/PJ-Eishun.jpg" >
+  <img alt="Kaito, un personnage du jeu de rôle Ori Mushi" src="https://chezsoi.org/lucas/jdr/OriMushi/illus-tensei/PJ-Kaito.jpg" >
 </div>
 
 <div class="side-by-side">
-  <img alt="Yasuo, un personnage du jeu de rôle Ori Mushi" src="illus-tensei/PJ-Yasuo.jpg" >
+  <img alt="Yasuo, un personnage du jeu de rôle Ori Mushi" src="https://chezsoi.org/lucas/jdr/OriMushi/illus-tensei/PJ-Yasuo.jpg" >
 </div>
 
 :::
