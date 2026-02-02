@@ -20,6 +20,7 @@ SRC_FILES = (
     CARDS_MD_FILEPATH   := DIR / "Cartes.md",
     S1_NOTES_MD_FILEPATH  := DIR / "NotesEpisodes.md",
     HIGHTENSION_MD_FILEPATH  := DIR / "HauteTension-Notes.md",
+    S2_NOTES_MD_FILEPATH  := DIR / "Saison2/NotesEpisodes.md",
     README_MD_FILEPATH := DIR / "README.md",
 )
 
@@ -44,8 +45,15 @@ METADATA = {
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu"),
         "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison 1 du jeu de rôle Critical Fondation",
     },
-    README_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
+    S2_NOTES_MD_FILEPATH: {
+        "lang": "fr",
+        "prefix": "CriticalFondation-Saison2-",
+        "title": "Critical Fondation - Saison 2 - Notes de MJ",
+        "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu"),
+        "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison 2 du jeu de rôle Critical Fondation",
+    },
     HIGHTENSION_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
+    README_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
 }
 
 def build_pdf(target_md_file=None):
@@ -53,7 +61,6 @@ def build_pdf(target_md_file=None):
         target_md_file = None  # => rebuild all target PDFs
     if target_md_file is None and len(sys.argv) > 1 and sys.argv[-1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[-1])
-        print(f"{target_md_file=} from sys.argv")
     for md_src_file in SRC_FILES[2:]:
         metadata = METADATA[md_src_file]
         lang = metadata.pop("lang")
