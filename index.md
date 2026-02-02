@@ -35,11 +35,11 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
   * scénario [Les Couloirs du Temps (itch.io)](https://lucas-c.itch.io/les-couloirs-du-temps)
   * scénario [Docteur Lestrange (itch.io)](https://lucas-c.itch.io/docteur-lestrange)
 
-- Pour [Critical Fondation](https://www.gigamic-adds.com/game/critical/foundation) :
+- Pour [Critical Fondation](https://www.gigamic-adds.com/game/critical/foundation) - [Article de blog](https://chezsoi.org/lucas/blog/critical-fondation.html) :
 voici quelques aides de jeu que j'ai créé :
   * un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : [CriticalFondation-Saison1-Diagramme.pdf (5 pages - 546 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf)
   * quelques cartes de jeu supplémentaires : [CriticalFondation-Saison1-Cartes.pdf (2 pages - 2,3 Mo)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
-  * quelques notes de préparation comme MJ, épisode par épisode : [CriticalFondation-Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf)
+  * quelques notes de préparation comme MJ, épisode par épisode : [Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf) - [Saison2-NotesEpisodes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison2-NotesEpisodes.pdf)
 
 <!-- [Allegoria](Allegoria) -->
 <!-- [AmnesicFantasy](AmnesicFantasy) -->

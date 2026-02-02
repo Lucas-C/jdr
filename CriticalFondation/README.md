@@ -1,6 +1,15 @@
 <!--
 Parties du 3/10/2025 & 20/10/2025 :
-* PJs : Takeshi (Noah), Stef (Barbara), Bob (Matthias), Jane (Karine)
+* Takeshi = Noah (Militaire)
+* Stef = Barbara (Scientifique)
+* Bob = Matthias (Analyste)
+* Jane = Karine (Codeur)
+
+Parties du 2/02/2026 & 19/02/2026 & ? :
+* Takeshi = Gaetan (Militaire)
+* Kira = Jérome (Scientifique)
+* Dark Dante = Noah (Codeur)
+* Melvin = Karine (Corporatiste)
 
 Idées en vrac :
 * reprendre mon aide manuscrite en .md ?

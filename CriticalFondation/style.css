@@ -11,26 +11,93 @@
 
 body {
   box-sizing: border-box;
+  max-width: 44rem;
   margin: 0 auto;
   font-family: "Minion";
-  max-width: 44rem;
+  font-size: .9rem;
+  line-height: .95rem;
 }
 
-h1, h2, h3, h4 { font-family: "Uniwars"; }
+h1, h2, h3, h4 {
+  font-family: "Uniwars";
+  color: white;
+  position: relative; /* in order to position pseudoelements below */
+}
+h1 {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  padding: .75rem;
+  background-color: #e30613;
+  font-size: 1.1rem;
+  text-align: center;
+}
+h2, h3, h4 {
+  display: inline-block;
+  padding: .2rem .5rem;
+  background-color: #1f5969;
+  margin-bottom: 0;
+}
+h2 { font-size: .9rem;  line-height: .9rem; margin-top: 1rem; }
+h3 { font-size: .75rem; line-height: .75rem; margin-left: .5rem; }
+h4 { font-size: .6rem;  line-height: .6rem;  margin-left: 1rem; }
+/* Adding left-side vertical bars: */
+h2:before, h3:before, h4:before {
+  content: '▍';
+  color: black;
+  position: absolute;
+}
+h2:before { font-size: 1.1rem; line-height: 1.6rem; top: -.2rem; left: -.7rem; }
+h3:before { font-size:  .9rem; line-height: 1.4rem; top: -.15rem; left: -.6rem; }
+h4:before { font-size:  .7rem; line-height: 1.2rem; top: -.1rem; left: -.5rem; }
+/* Cut corners: */
+h1:before, h1:after,
+.insert:before, .insert:after,
+.insert h3:before, .insert h3:after,
+.insert h4:before, .insert h4:after {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: white;
+  height: 1rem;
+  width: 1rem;
+  transform: rotate(45deg);
+}
+h1:before, .insert h3:before, .insert h4:before { top: -.5rem; left: -.5rem; }
+h1:after,  .insert h3:after,  .insert h4:after  { bottom: -.5rem; right: -.5rem; }
+.insert:before { bottom: -.65rem; left: -.6rem; height: 1.05rem; border-top: 1.5px solid black; }
+.insert:after  { top: -.65rem; right: -.6rem; height: 1.05rem; border-bottom: 1.5px solid black; }
+
+.title:before, .title:after {
+  content: '';
+  display: block;
+  background-image: url('imgs/bg-top-left-banner.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
+  position: absolute;
+  width: 154px;
+  height: 15px;
+  top: 15px;
+}
+.title:before { left: 0; }
+.title:after { right: 0; transform: scaleX(-1); }
+
+p { text-align: justify; }
 blockquote { font-style: italic; }
 img {
   max-width: 75%;
   display: block;
   margin: 0 auto;
 }
-ul { padding-left: 0; margin-top: -.5rem; }
+ul { padding-left: 0; }
 ul > li { list-style: "◆"; margin-left: .9rem; margin-bottom: .333rem; }
 /* A bug in WeasyPrint prevents us to set padding-left on li elements,
    so we use the ::marker pseudo-element instead to add some space after the bullet: */
 ul > li::marker { content: "◆ "; white-space: pre; }
 ul ul { margin-top: .5rem; }
 ul ul > li { list-style: "✚"; }
-ul ul > li::marker { content: "✚ "; white-space: pre; }
+ul ul > li::marker { content: "✚ "; white-space: pre; font-size: .7rem; }
 
 a.theme-music {
   display: block;
@@ -124,6 +191,8 @@ a.theme-music {
   font-size: .45rem;
   line-height: .2rem;
   margin-left: .666rem;
+  padding: 0;
+  background-color: initial;
 }
 
 .card .description {
@@ -149,6 +218,29 @@ a.theme-music {
   margin: 0;
   left: 10%;
 }
+.card p { text-align: left; }
+.card ul { margin-top: -.5rem; }
+
+.insert {
+  background-color: #d1d6dd;
+  border: 1.5px solid black;
+  position: relative; /* in order to position h3 below */
+}
+.insert h3, .insert h4 {
+  position: absolute;
+  left: .5rem;
+  top: -1.55rem;
+}
+.insert h3 { padding: .3rem .75rem; }
+.insert h4 { padding: .4rem .75rem; }
+.insert h3:after, .insert h4:after { background-color: #d1d6dd; }
+.insert p { margin: 0; padding: .3rem 1.5rem; }
+.insert p:first-of-type { margin-top: .666rem; }
+.insert ul { margin-top: 0; }
+.insert ul > li { margin: 0 2rem; }
+/* Put everything slightly in the background to avoid headers to overlap paragraphs before & after: */
+.insert, .insert h3, .insert h4 { z-index: -2; }
+.insert h3:before, .insert h3:after, .insert h4:before, .insert h4:after { z-index: -1; }
 
 .blue { color: #7EA6E0; }
 .green { color: #97D077; }
@@ -159,3 +251,7 @@ a.theme-music {
 .float-right { float: right; margin-left: 1rem; }
 
 .page-break-after { page-break-after: always; }
+
+.portrait { max-height: 12rem; }
+.au-rapport { max-height: 18rem; }
+.license { padding: 1rem 0; }

@@ -1,4 +1,8 @@
-## Intro
+::: title
+# Saison 1 - Notes de MJ
+:::
+
+## Avant la partie
 À transmettre par email (ou application de messagerie) avant l'épisode zéro :
 > Vous êtes des experts.
 > Analyste, codeur, militaire ou scientifique, vous êtes l'un des meilleurs dans votre domaine.
@@ -24,10 +28,8 @@
     + les tests / jets de dé : individuels/collectifs; difficulté; réussites & bonus; échecs & réussites critiques (distribuer les récaps'); santé & blessures; les combats (actions proposées, critiques, tour du MJ)
     + distribuer un dé à chaque joueurs, le(s) jeton(s) Héros associés au d8, et expliquer leur rôle
 
-::: episodes
-
 ## Épisode 0
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 * expliciter qu'il s'agit d'une intro _dans le feu de l'action_, et que les joueurs pourront présenter un peu leurs personnages au début de l'épisode 1
 * en faire une séquence assez courte / intense / rythmée -> objectif **30min**
 * **Jackson** :
@@ -44,8 +46,10 @@
 * ne pas hésiter à distribuer des blessures aux PJs, **mais** ils doivent gagner ce combat !
 * si un PJ réussit un test de _"Trouver un point faible"_, lui donner une idée d'emploi de l'environnement qu'il pourra tenter au prochain tour avec +1 : propulser une table à roulette en inox, shooter une lampe pour vous rendre moins facile à viser, etc.
 
+<p class="page-break-after"></p>
+
 ## Épisode 1
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - Briefing :
 * diffuser [_Shanghai Infiltration Soundtrack_](https://www.youtube.com/watch?v=135k_FSabq8)
 * ⚠️ **le rapport d'autopsie et l'implant sont ceux de Monroe** (pas du cadavre dans la voiture)
@@ -69,7 +73,7 @@
 * musique de fin d'épisode : [_New York Infiltration Soundtrack - Part 1_](https://www.youtube.com/watch?v=T7dj0vNS30Q)
 
 ## Épisode 2
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 * expliciter qu'il y aura 2 phases : récolte d'indices puis regroupement pour tout analyser ensemble
 ### Scène 1 - Investigation au sous-sol :
 * en intro, diffuser [_Affected Cities_](https://www.youtube.com/watch?v=MbHNcSBQcL4) (tonalité "enquête") puis [_The Last Drive Home_](https://www.youtube.com/watch?v=IQFh2b1u1mg) (inquiétant)
@@ -82,13 +86,19 @@
 * diffuser [_Surplus of rare artifacts_](https://www.youtube.com/watch?v=G57BrvROWEE) puis [_Stellar Shadows_](https://www.youtube.com/watch?v=Nn4CopGAhBY)
 * donner un indice concernant le logo sur l'implant, très difficile à relever
 
-## ⚠️ Les investigations des agents peuvent se faire dans un autre ordre
+<br><br>
+
+::: insert
+### Les investigations peuvent se faire dans un autre ordre
 S'ils l'expriment, les agent peuvent réaliser l'autopsie du tueur plus tôt.
 À l'inverse, la phase d'analyse collective au bureau peut être réalisée après l'épisode 3.
 Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de collecte sur le terrain et le passage à la morgue.
+:::
+
+<br>
 
 ## Épisode 3
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - Morgue :
 * en intro, diffuser [_Affected Cities_](https://www.youtube.com/watch?v=MbHNcSBQcL4) (tonalité "enquête")
 * **Dr Morris** :
@@ -112,7 +122,7 @@ Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de col
 * diffuser en fin d'épisode [_In the House In a Heartbeat_](https://www.youtube.com/watch?v=wQ56hXx264g)
 
 ## Épisode 4
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - Enquête à la morgue :
 * diffuser [_The Last Drive Home_](https://www.youtube.com/watch?v=IQFh2b1u1mg) (inquiétant)
 * **William smith**, interne fatigué; il repose sa tête sur son bras, se masse le front, un peu agacé d'être questionné, mais il est poli & coopératif.
@@ -133,7 +143,7 @@ Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de col
     + _« J'ai rien fait de mal. Je veux pas aller en tôle ! Je pourrais pas. »_
 
 ## Épisode 5
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - La ferme
 * l'hélicoptère approche discrètement pour ne pas être repéré, et se pose à courte distance de la ferme : les PJs parcourent à pieds les derniers mètres
 * si les PJs font preuve de discrétion et de ruse, indiquez-leur la présence des mercenaires et donnez-leur l'opportunité d'en neutraliser 1 ou 2 avant la fusillade
@@ -153,8 +163,10 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 * ⚠️ finir par les infos de l'ordi, et lorsque les PJs découvrent le rachat de _Mercury_ par _Mars Inc._, mentionner la présence d'emails de Samuel de Gires, des **instructions directes** envoyées à ce laboratoire secret.
 * trappe bloquée : être ouvert à des solutions créatives des PJs
 
+<p class="page-break-after"></p>
+
 ## Épisode 6
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - Kansas City → Seattle
 * remplacez l'info fournie au Scientifique par celle-ci : _« Vous avez fait jouer vos contacts dans le monde de la recherche scientifique : Mars Inc. est réputée pour payer grassement ses chercheurs salariés, mais il s'y passe des choses très louches, et la rumeur court que le gouvernement pourrait retirer ses fonds et son accréditation à la multinationale... »_ (cela explique pourquoi Grimes veut remplacer le secrétaire d'État à la Défense)
 ### Scène 2 - Le Fuzz Club
@@ -168,7 +180,7 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 * fin de la scène : demander **QUI CONDUIT ?**
 
 ## Épisode 7
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 * bien expliquer le rôle des jetons Narration au début
 * diffuser des morceaux de la bande son de [_Need For Speed_](https://www.youtube.com/watch?v=rZ7NcEcAVdA&list=PLf5i8xDXfle5LlY84jaK44E12SHA_SUgD&index=8)
 ### Scène 2 - Highway
@@ -182,7 +194,7 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 <p class="page-break-after"></p>
 
 ## Épisode 8
-<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube</a>
+<a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - Mars Inc.
 * bien expliquer le rôle des jetons Narration au début, et que le niveau d'alerte impacte la difficulté des tests
 * diffuser [_Come Home Ethan_](https://www.youtube.com/watch?v=MG_fe54EECI&list=PLim3m5NnkYFepS2p5xjOyTcFTwHHzLf_Z&index=3), éventuellement le [thème principale de M:I 8](https://www.youtube.com/watch?v=LF4w328-FLU&list=PLim3m5NnkYFepS2p5xjOyTcFTwHHzLf_Z&index=4), et puis [_Cons_](https://www.youtube.com/watch?v=DsJD0_uB2U8&list=PLim3m5NnkYFepS2p5xjOyTcFTwHHzLf_Z&index=25), de la même BO
@@ -199,15 +211,14 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 
 <br><br><br><br><br>
 
-::: <!-- EndOf .episodes -->
-
 À transmettre aux joueurs avant une nouvelle partie :
 
-![](imgs/AuRapport.png)
+<img class="au-rapport" src="imgs/AuRapport.png">
 
 
 ## Licence & feedbacks
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+<br>
+<a class="float-left license" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
 </a>
 

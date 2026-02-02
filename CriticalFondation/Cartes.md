@@ -176,7 +176,8 @@ Tu peux désormais poser des questions à ce mystérieux programme militaire dan
 
 
 ## Licence & feedbacks
-<a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+<br>
+<a class="float-left license" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
 </a>
 
