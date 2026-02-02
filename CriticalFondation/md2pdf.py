@@ -20,7 +20,7 @@ SRC_FILES = (
     CARDS_MD_FILEPATH   := DIR / "Cartes.md",
     S1_NOTES_MD_FILEPATH  := DIR / "NotesEpisodes.md",
     HIGHTENSION_MD_FILEPATH  := DIR / "HauteTension-Notes.md",
-    S2_NOTES_MD_FILEPATH  := DIR / "Saison2/NotesEpisodes-S2.md",
+    S2_NOTES_MD_FILEPATH  := DIR / "Saison2/NotesEpisodes.md",
     README_MD_FILEPATH := DIR / "README.md",
 )
 
