@@ -303,7 +303,7 @@ de [Dumaker](https://www.deviantart.com/dumaker)
 <!-- - [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) -->
 
 <u>Inspirations :</u> many comics (have fun figuring out which ones from the Mortal's names table)
-as well as the tabletop roleplaying games Urban Armies and [The Last Coffee Shop On The Left](http://cheatyourownadventure.co.uk/the-last-coffee-shop-on-the-left).
+as well as the tabletop roleplaying games Urban Armies and _The Last Coffee Shop On The Left_ de [Shane McLean](https://rpggeek.com/rpgdesigner/25060/shane-mclean).
 
 ::::
 

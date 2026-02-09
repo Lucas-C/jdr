@@ -69,16 +69,16 @@
     + il débarque derrière l'infirmier blessé. Jette un œil aux PJs et sourit vicieusement.
     + il se dirige clairement & ostensiblement vers le "box" de Lisa
     + son identité sera révélée dans l'épisode 3, _Aaron Stroke_
-* le portrait-robot dressé par Lisa est celui de **Dany**
 * musique de fin d'épisode : [_New York Infiltration Soundtrack - Part 1_](https://www.youtube.com/watch?v=T7dj0vNS30Q)
+
+<br>
 
 ## Épisode 2
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 * expliciter qu'il y aura 2 phases : récolte d'indices puis regroupement pour tout analyser ensemble
 ### Scène 1 - Investigation au sous-sol :
 * en intro, diffuser [_Affected Cities_](https://www.youtube.com/watch?v=MbHNcSBQcL4) (tonalité "enquête") puis [_The Last Drive Home_](https://www.youtube.com/watch?v=IQFh2b1u1mg) (inquiétant)
-* ⚠️ **les PJs DOIVENT trouver la cassette avec le calepin, et l'implant de Monroe** (indices principaux) -> cacher au préalable la cassette et le calepin **sous la table à manger à 2 niveaux**
-* cacher l'article **dans le faux livre Le Bossu de la bibliothèque**
+* ⚠️ **les PJs "DOIVENT" trouver la cassette avec le calepin, et l'implant de Monroe** (indices principaux) [ cacher au préalable la cassette + le calepin **sous la table à manger**, et l'article **dans le faux livre Le Bossu de la bibliothèque** ]
 * dans la salle d'opération, les PJs peuvent trouvent **l'implant de Monroe** (jeton 02 - puce de Monroe)
 * proposer des jets de **Mental _(Investigation)_**, par exemple pour trouver la clef du bureau
 * demander aux joueurs ce qui passe par la tête de leurs PJs : leurs sensations, leurs hypothèses... Ont-ils déjà vu ou vécu quelque chose se rapprochant de cette horreur ?
@@ -94,8 +94,6 @@ S'ils l'expriment, les agent peuvent réaliser l'autopsie du tueur plus tôt.
 À l'inverse, la phase d'analyse collective au bureau peut être réalisée après l'épisode 3.
 Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de collecte sur le terrain et le passage à la morgue.
 :::
-
-<br>
 
 ## Épisode 3
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
@@ -121,6 +119,8 @@ Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de col
 * par ailleurs si aucun PJ ne songe à regarder par la fenêtre, Rebecca le fera et repérera la camionnette
 * diffuser en fin d'épisode [_In the House In a Heartbeat_](https://www.youtube.com/watch?v=wQ56hXx264g)
 
+<br>
+
 ## Épisode 4
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 ### Scène 1 - Enquête à la morgue :
@@ -141,6 +141,8 @@ Par contre, la scène 2 de l'épisode 3 doit avoir lieu après les phases de col
     + tremblant, chouine
     + _« Oh merde. Oh désolé. »_
     + _« J'ai rien fait de mal. Je veux pas aller en tôle ! Je pourrais pas. »_
+
+<br><br>
 
 ## Épisode 5
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
@@ -171,13 +173,14 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 * remplacez l'info fournie au Scientifique par celle-ci : _« Vous avez fait jouer vos contacts dans le monde de la recherche scientifique : Mars Inc. est réputée pour payer grassement ses chercheurs salariés, mais il s'y passe des choses très louches, et la rumeur court que le gouvernement pourrait retirer ses fonds et son accréditation à la multinationale... »_ (cela explique pourquoi Grimes veut remplacer le secrétaire d'État à la Défense)
 ### Scène 2 - Le Fuzz Club
 * diffuser [_Cyberpunk 2077 Atlantis Club Music_](https://www.youtube.com/watch?v=huFL9LnZSwQ) puis éventuellement [_Cyberpunk 2077 Club Mix | Hard Techno_](https://www.youtube.com/watch?v=nQdO1jCOXtg)
-* indiquer aux PJs observateurs (Mental / Perception) que **Dany** leur semble familier... S'ils y pensent, confirmez-leur qu'il correspond au portrait-robot réalisé par Lisa.
 * _« Peut-être que l'un de vous reconnaît **Charlotte**, car vous avez déjà travaillé ensemble par le passé ? À vous de le décider, si vous le souhaitez, pour impliquer plus votre personnage dans cette histoire »_
 -> si oui, expliquer au PJ qu'il s'agissait d'une agente de renseignement de la NSA, avec qui vous avez travaillé lors d'une opération conjointe avec la CIA en Amérique latine, mais qui a dénoncé ensuite les actions illégales de ses supérieurs. Demandez au PJ : est-ce que vous vous entendiez bien ou pas tellement ? Pourquoi ?
 * Charlotte évoquera qu'elle est au courant des expériences du Dr Monroe et des implants
 ### Scène 3 - Enlèvement
 * dès le début de la scène, mentionner la puissante moto 🏍️ et la décapotable sport 🏎️ dans le parking
 * fin de la scène : demander **QUI CONDUIT ?**
+
+<br><br>
 
 ## Épisode 7
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
@@ -209,7 +212,7 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
 * 🗡 dans la collection d'objets exposés au mur, trône un **glaive de graphène**
 * 🔫 il est possible de récupérer les **fusils mitrailleurs** des agents de Fondation : donnez alors aux joueurs la carte équipement _Fusil d'Assaut_.
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 À transmettre aux joueurs avant une nouvelle partie :
 
