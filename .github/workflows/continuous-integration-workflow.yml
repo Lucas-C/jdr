@@ -38,7 +38,7 @@ jobs:
           wget -nv https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
           sudo apt install graphviz
 
-      - name: Generating HTML pages & PDF docs 🏗️
+      - name: Generate HTML pages & PDF docs 🏗️
         run: |
           GIT_TAG=${{ steps.tag.outputs.version }}
           echo GIT_TAG=$GIT_TAG
@@ -275,7 +275,7 @@ jobs:
           rm -r .gitignore node_modules/
           mkdir ../public/ && cp -r . ../public/ && mv ../public/ .
 
-      - name: Statically checking generated HTML files 🔎
+      - name: Statically check generated HTML files 🔎
         run: |
           wget -nv https://github.com/validator/validator/releases/download/latest/vnu.linux.zip
           unzip -q vnu.linux.zip
@@ -288,6 +288,17 @@ jobs:
             vnu-runtime-image/bin/vnu --filterfile .vnurc --Werror --skip-non-html $html_file
           done
 
+      - name: Look for broken links
+        uses: JustinBeckwith/linkinator-action@v2.4
+        with:
+          paths: public/
+          # With a concurrency too high, this checker can be rate-limited:
+          concurrency: 4
+          # MaxPixel & PikRepo currently return 404 for all pages
+          # Notepad++ website is OK but probably rate-limit GitHub
+          linksToSkip: maxpixel.net,pikrepo.com,notepad-plus-plus.org
+          # We ignore 403 HTTP errors:
+          statusCodes: '{"4xx": "error", "403": "ok", "5xx": "error"}'
       - name: Deploy website 🚀
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
