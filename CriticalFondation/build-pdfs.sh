@@ -15,11 +15,13 @@ if [ -r 'GIGAMIC_CRITICAL_PNP_RULES_DEMO.pdf' ]; then
   rm tmp.pdf
 fi
 
+# Note : les cartes de la saison 2 ne sont pas actuellement incluses
 if [ -r 'GIGAMIC_CRITICAL_MAP(01)_LABO.pdf' ]; then
+  cd maps/
   a4-from-imgs --landscape --no-margin --stretch CriticalFondation-Ep0-Carte.jpg
   a3-from-imgs --landscape --no-margin --stretch CriticalFondation-Ep0-Carte.jpg
   # Bundle all a4 maps
   pdfly cat CriticalFondation-Ep0-Carte-A4.pdf 'GIGAMIC_CRITICAL_MAP(01)_LABO.pdf' 'GIGAMIC_CRITICAL_MAP(02)_HOPITAL.pdf' NebulaMaps-Office-NexusRobotics-TopRoom-BW-A4.pdf 'GIGAMIC_CRITICAL_MAP(03)_FERME.pdf' 'GIGAMIC_CRITICAL_MAP(04)_LANCE-MARS.pdf' \
-    -o CriticalFondation-Saison1-A4-maps-to-print.pdf
+    -o ../CriticalFondation-Saison1-A4-maps-to-print.pdf
   rm CriticalFondation-Ep0-Carte-A4.pdf
 fi

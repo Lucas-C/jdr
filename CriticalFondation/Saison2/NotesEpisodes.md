@@ -2,8 +2,11 @@
 # Saison 2 - Notes de MJ
 :::
 
+Ce document rassemble mes notes de MJ lorsque j'ai mené la saison 2 de [Critical Fondation](https://www.gigamic-adds.com/game/critical/foundation).
+
+J'ai choisi de modifier significativement la trame de l'histoire afin de réduire la part « action » et de développer l'intrigue.
+
 ## Avant la partie
-<!--
 Plans / cartes à imprimer optionnellement :
 * [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292)
 
@@ -104,10 +107,12 @@ Quelques éléments pour incarner ces personnages de manière mémorable et dist
 **Inspiration** : l'actrice Michelle Rodriguez
 
 ### Charlotte Klein
-**Objectifs**
-+ il s'agit en réalité d'**Aphrodite**
++ bienveillante, sympathique, elle s'intéresse aux PJs et s'inquiète des épreuves qu'ils traversent
++ elle peut jouer la « blonde écervelée » pour arriver à ses fins, mais est en réalité redoutablement intelligente
 
-<p class="page-break-after"></p>
+**Objectifs**
++ il s'agit en réalité d'**Aphrodite**. Arès avait tenté de l'éliminer durant la saison 1, mais il lui restait un clone.
+
 
 ## Épisodes
 <br>
@@ -156,29 +161,30 @@ Seule l'illustration du manoir dans la forêt et le personnage d'Innocent 18 / M
 ::: insert
 #### Synopsis
 Les PJs découvrent le lugubre lieu d'entraînement des Innocents.
-Ils soupçonnent une présence tapie dans la forêt et rencontrent éventuellement Mina Rodriguez, rescapée vengeresse du programme Super Soldat, puis d'assistent au conflit de surhommes entre Mina & Aaron.
+Ils soupçonnent une présence tapie dans la forêt et rencontrent éventuellement Mina Rodriguez, rescapée vengeresse du programme Super Soldat, puis assistent au conflit de surhommes entre Mina & Aaron.
 À eux de choisir s'ils interviennent...
 :::
 
 <br>
 
 ::: insert
-Caché au cœur de la dense forêt humide de **Hoh**, à l'Est de Seattle, les PJs peuvent s'y rendre pour ces raisons :
+Les PJs peuvent s’y rendre pour plusieurs raisons :
 * ils ont ouvert le **coffre-fort de Charles Stone**, où l'emplacement de ce lieu est mentionné
 * **Russ Gale** (épisode 3) leur évoque ce lieu d'entraînement des Innocents
 * des recherches sur **Aaron Stroke**, éventuellement avec l'aide d'O.M.N.I., leurs apprennent que sa présence a été enregistrée plusieurs fois sur caméra autour d'une zone de forêt dense près de Seattle, parfois même **simultanément** au volant de voitures sur des routes autour de ce lieu...
 :::
 
 #### Scène 1 - Exploration
-C'est le repaire des **clones d'Aaron Stroke**, qui ont mis en place des protections contre d'éventuelles visites inattendues :
+Caché au cœur de la dense forêt humide de **Hoh**, à l'Est de Seattle,
+ce manoir est le lieu d'entraînement historique des clones du projet Super SOldat, et l'actuel repaire des **clones d'Aaron Stroke**, qui ont mis en place des protections contre d'éventuelles visites inattendues :
 * un **molosse** dort dans le manoir. Au moindre bruit, ou dès que quelqu'un entre dans le bâtiment, il se met à aboyer puis à foncer vers le PJ le plus proche. C'est un adversaire de difficulté **3** à distance, mais difficulté **4** une fois au corps-à-corps avec un PJ. Il est aussi possible de tenter de l'amadouer avec un test d'**Empathie** (_Social_) difficulté **4**.
 * des _**booby-traps**_ constitués de fils tendus accrochés à des goupilles de grenades ont été disposés en travers toutes les portes d'accès au manoir. Si les PJs ne sont pas explicitement prudents, l'un d'eux déclenchera l'un de ces pièges et devra réussir un test d'**Athlétisme** (_Physique_) difficulté **3** pour ne pas être blessé par l'explosion.
 
 Voici ce qui peut être découverts dans le manoir :
-* des traces d'un camp d'entraînement de soldats abandonné depuis des années, avec dortoir, réfectoire, douches, champ de tir où des morceaux de cibles sont encore accrochés aux arbres.
-* le molosse a commencé à déterrer un corps dans une fosse commune près du manoir, que le Scientifique du groupe sera ravi d'examiner. Un test de **Savoir-Faire** ou **Connaissance** (_Adresse_ ou _Mental_) lui apprendra qu'il y a là une demi-douzaine de cadavres de soldats, certains mutilés chirurgicalement et d'autres avec des traces de torture, dont certains se ressemblent comme des jumeaux...
+* des traces d'un camp d'entraînement de soldats abandonné depuis des années, avec dortoir, réfectoire, douches, champ de tir où des morceaux de cibles sont encore accrochés aux arbres. Une photo abîmée est accrochée à un mur, représentant un groupe de soldats dont plusieurs se ressemblent étrangement, et il est écrit au stylo « **Les Innocents**. »
+* le molosse a commencé à déterrer un corps dans une fosse commune près du manoir, que le Scientifique du groupe sera ravi d'examiner. Un test de **Savoir-Faire** ou **Connaissance** (_Adresse_ ou _Mental_) difficulté **2** lui apprendra qu'il y a là une demi-douzaine de cadavres de soldats, certains mutilés chirurgicalement et d'autres avec des traces de torture, dont certains se ressemblent comme des jumeaux...
 * _(si l'un des PJs est un clone)_ l'un des cadavres mutilés semble familier au PJ qui l'examine... Demandez-lui un test de **Perception** (_Mental_) difficulté **4** : s'il réussit, informez-le secrètement de la ressemblance avec le PJ clone.
-* une chambre contient 3 sacs de couchage et une malle militaire avec beaucoup de matériel : des **Pilules bleues** (environ une par PJ), un **fusil d'assaut**, une **armure en kevlar**, **deux grenades** dont une "flash".
+* le sol à l'étage s'est totalement écroulé, mais on peut y distinguer une chambre avec du matériel. Il faut réussir un test d'**Athlétisme** (_Adresse_) de difficulté **2** pour y accéder et y découvrir trois sacs de couchage, des **Pilules bleues** (1 par PJ), un **fusil d'assaut**, une **armure en kevlar** et **deux grenades** dont une "flash".
 * une trappe dissimulée permet d'accéder au sous-sol, qui contient une chambre d'opération similaire à celle du sous-sol du Dr Monroe, où une trousse de secours peut être trouvée, ainsi qu'un ordinateur _mainframe_ massif et antique, que le Codeur peut tenter de remettre en fonction avec un test de **Connaissance** ou **Savoir-Faire** (_Adresse_ ou _Mental_). En diminuant de 1 la réussite obtenue, cela indique **le nombres d'indices récoltés** par le PJ parmi les rares fichiers encore lisible sur le disque dur : grandes cartes 39, 46 et petit carte indice 15.
 
 Optionnellement, ce **plan** peut être employé : [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292).
@@ -191,7 +197,22 @@ Optionnellement, ce **plan** peut être employé : [_Into Wild Ruins - Ruined Ma
 
 #### Scène 3 - Le combat des titans Innocents
 * une heure environ après l'arrivée des PJs, la nuit tombe, et une jeep arrive au manoir : malgré son changement vestimentaire, les PJs reconnaissent **Aaron Stroke**
-* _en cours de rédaction_
+* _(si les PJs ont rencontré Mina)_ celle-ci pose un index sur sa bouche signifiant « chut » et recule silencieusement dans la forêt jusqu'à y disparaître
+* Aaron repère illico qu'il y a des intrus sur "son territoire". Il gare la jeep devant le manoir et lance à voix haute :
+
+> « Qui que vous soyez, aucun d'entre vous ne sortira vivant de cette forêt. »
+
+* il saisit une **mitrailleuse gatling** dans la jeep descend à terre et se dirige, puis commence à mitrailler en continu le manoir tout en progressant vers lui. Les impacts créent une poussière énorme et les balles traversent les murs, rendant tout déplacement au rez-de-chaussée potentiellement létal
+* quelques **stratégies potentielles** pour les PJs : se planquer dans la baignoire; fuir dans la forêt pour contourner Aaron; monter à l'étage pour être en sécurité et/ou lui avoir l'opportunité de lui tirer dessus; employer une grenade
+* **points faibles d'Aaron Stroke** : il doit ré-enclencher la ceinture de munitions dans sa gatling tous les 3 tours; le bruit de la mitrailleuse le rend sourd à toute approche directe par derrière
+
+**Phase 2** du combat :
+* soit les PJs sont en difficulté (blessés, démunis face à Stroke) et alors Mina intervient pour les aider, soit ils ont battu Aaron, mais après quelques minutes celui-ci **se redresse** : il n'est pas mort !
+* quoi qu'il en soit, Mina Rodriguez débarque par surprise derrière lui et l'arrose de son lance-flamme. S'ensuit alors un **affrontement spectaculaire** entre les deux Innocents, où Aaron en feu affronte au corps à corps Mina, où les coups de poing et de pied propulsent chaque adversaire à travers les murs du manoir.
+* Mina semble progressivement perdre l'avantage : que font les PJs ? Est-ce qu'ils fuient ou est-ce qu'ils tentent de l'aider ?
+* si les PJs fuient, considérez dans la suite de la partie que Mina finit tout de même par prendre le dessus. Sinon, voici quelques pistes pour qu'ils l'aident à vaincre Aaron :
+
+_**TODO : compléter & comment s'enchaîne la suite ?**_
 
 ### Épisode 5 - Paris
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
@@ -203,7 +224,6 @@ Les PJs peuvent s'y rendre pour plusieurs raisons :
 :::
 
 * _(si l'un des PJs est un clone)_ lorsqu'il rencontre Charlotte Klein, indiquez-lui secrètement qu'il s'agit d'un clone. peuvent faire un test de **Perception** (_Mental_) difficulté **4** pour détecter une forte ressemblance...
-* _en cours de rédaction_
 
 
 ## Fin de campagne

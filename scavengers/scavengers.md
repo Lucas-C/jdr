@@ -532,7 +532,7 @@ En fin de mission, tout le monde met cartes sur table, et révèle quelle cachot
 
 <figure>
   <img alt="Cosmonautes dans unchamp d'astéroïdes" src="img/Spacewalk_final.jpg">
-  <figcaption><a href="http://eclipsephase.com/spacewalk-artwork">Spacewalk Artwork</a> de Opus Artz, pour le jeu Eclipse Phase - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
+  <figcaption>Spacewalk Artwork de Opus Artz, pour le jeu <a href="https://eclipsephase.com/cclicense/">Eclipse Phase</a> - <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a></figcaption>
 </figure>
 <!--figure>
   <img alt="Un homme s'extrait d'une cuve dans une coursive de vaisseau, des cables encore plentés dans la peau" src="img/sergey-grechanyuk-rise-and-shine.jpg">
