@@ -32,7 +32,8 @@ hr { width: 5rem; margin: 2rem auto; }
 p, ol, ul { margin: .5rem 0; }
 li { margin-bottom: .25rem; }
 .narrow ol, .narrow ul { padding-left: 1rem; }
-
+dt { font-weight: bold; }
+blockquote { font-style: italic; margin-left: 0; padding-left: 1rem; }
 del {
   text-decoration: none;
   font-family: Griddish;
@@ -92,12 +93,8 @@ table ul { padding-left: 1rem; margin: 0; }
 }
 .side-by-side > * { margin: 0 1rem; }
 
-@media (min-width: 768px) {
-  .side-by-side > * {
-    margin: 0;
-    max-width: 50%;
-  }
-}
+@media (min-width: 768px) { .side-by-side > * { margin: 0; max-width: 50%; } }
+@media print { .side-by-side > * { margin: 0; max-width: 50%; } }
 
 .callout {
   break-inside: avoid;

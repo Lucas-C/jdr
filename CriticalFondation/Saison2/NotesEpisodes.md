@@ -1,3 +1,11 @@
+<!-- Idées supplémentaires :
++ ajouter une carte pour le gadget "mur de nanomachines"
++ trouver des portraits pour les PNJs qui n'en ont pas,
+  et les placer par 6 avec leur nom sur une feuille A4
+  afin de les montrer aux joueurs en partie
++ trouver un plan de bateau pour l'épisode 3
+-->
+
 ::: title
 # Saison 2 - Notes de MJ
 :::
@@ -5,10 +13,13 @@
 Ce document rassemble mes notes de MJ lorsque j'ai mené la saison 2 de [Critical Fondation](https://www.gigamic-adds.com/game/critical/foundation).
 
 J'ai choisi de modifier significativement la trame de l'histoire afin de réduire la part « action » et de développer l'intrigue.
+Je me suis notamment inspiré pour cela des [notes de campagnes de Vociférator sur le forum CasusNo](https://www.casusno.fr/viewtopic.php?t=40929), merci à lui !
+
+<br>
 
 ## Avant la partie
 Plans / cartes à imprimer optionnellement :
-* [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292)
+* [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292) pour l'épisode 3
 
 <!-- Other maps:
 * https://www.patreon.com/posts/abandoned-floor-147959534
@@ -22,6 +33,13 @@ Transmettre par email (ou application de messagerie) à l'avance, progressivemen
 * le récap de la saison 1, puis le paragraphe _"Mars 2036 - 6 mois plus tard"_
 
 <!-- inclure avec ces messages les illustrations imgs/PJs.jpg & imgs/AuRapport.png -->
+
+<br>
+
+## Facultatif : cartes Roleplay
+J'ai distribué au hasard une de ces cartes à chaque joueur en début de partie : [CriticalFondation-Saison1-Cartes.pdf](../CriticalFondation-Saison1-Cartes.pdf).
+
+L'objectif est de tisser des amorces de liens entres leurs personnages, comme point de départ à du _roleplay_ en partie, s'ils souhaitent s'en saisir.
 
 ## Facultatif : historique secret
 C'est une règle facultative que j'ai employé à la place du _Beta Android_, dans le cas où l'un des personnages rejoint le groupe lors de cette seconde saison, typiquement le _Corporatiste_.
@@ -46,23 +64,7 @@ Lors de la scène de rencontre avec **Aphrodite**, leur ressemblance sera évide
 De plus, **Aphrodite** proposera au PJ clone de retourner sa veste, de s'allier avec elle et rejoindre la Fondation : gros dilemme pour le joueur !
 :::
 
-<br>
-
-## Début de partie
-* s'assurer que tout le monde est bien installé / a une boisson, et caler **l'horaire de fin de partie** aujourd'hui
-* expliciter l'ambiance du jeu : **thriller & action** "à l'américaine"
-  Il y aura de l'action, de l'enquête, et bien sûr des occasions d'incarner vos personnages lors de scènes plus posées de _roleplay_
-* détailler le déroulé de la session : distribution des personnages, rappel des règles, court récap' de la saison 1...
-* présenter les personnages; leurs historiques au choix et leur équipement, et passer la musique de générique.
-
-> « Vous êtes des agents d'élite ! Entraînés pour intervenir à l'international, pour le combat et en particulier pour identifie les faiblesses de vos ennemis et les opportunités de l'environnement. Mais pas forcément appréciés des autres services de sécurité : CIA, FBI, police... »
-
-* une fois les personnages répartis, expliquer le rôle des pochettes, et les inviter à choisir & inscrire un nom court ou surnom court & percutant pour leur personnage.
-* détailler la fiche de personnage, le positionnement latéral des cartes, et enchaîner avec ces explications :
-    + les tests / jets de dé : individuels/collectifs; difficulté; réussites & bonus; échecs & réussites critiques (distribuer les récaps'); santé & blessures; les combats (actions proposées, critiques, tour du MJ)
-    + distribuer un dé à chaque joueurs, le(s) jeton(s) Héros associés au d8, et expliquer leur rôle
-    + donner le carnet de notes aux joueurs
-
+<p class="page-break-after"></p>
 
 ## PNJs
 Quelques éléments pour incarner ces personnages de manière mémorable et distinctive en _roleplay_ :
@@ -113,6 +115,22 @@ Quelques éléments pour incarner ces personnages de manière mémorable et dist
 **Objectifs**
 + il s'agit en réalité d'**Aphrodite**. Arès avait tenté de l'éliminer durant la saison 1, mais il lui restait un clone.
 
+<p class="page-break-after"></p>
+
+## Début de partie
+* s'assurer que tout le monde est bien installé / a une boisson, et caler **l'horaire de fin de partie** aujourd'hui
+* expliciter l'ambiance du jeu : **thriller & action** "à l'américaine"
+  Il y aura de l'action, de l'enquête, et bien sûr des occasions d'incarner vos personnages lors de scènes plus posées de _roleplay_
+* détailler le déroulé de la session : distribution des personnages, rappel des règles, court récap' de la saison 1...
+* présenter les personnages; leurs historiques au choix et leur équipement, et passer la musique de générique.
+
+> « Vous êtes des agents d'élite ! Entraînés pour intervenir à l'international, pour le combat et en particulier pour identifie les faiblesses de vos ennemis et les opportunités de l'environnement. Mais pas forcément appréciés des autres services de sécurité : CIA, FBI, police... »
+
+* une fois les personnages répartis, expliquer le rôle des pochettes, et les inviter à choisir & inscrire un nom court ou surnom court & percutant pour leur personnage.
+* détailler la fiche de personnage, le positionnement latéral des cartes, et enchaîner avec ces explications :
+    + les tests / jets de dé : individuels/collectifs; difficulté; réussites & bonus; échecs & réussites critiques (distribuer les récaps'); santé & blessures; les combats (actions proposées, critiques, tour du MJ)
+    + distribuer un dé à chaque joueurs, le(s) jeton(s) Héros associés au d8, et expliquer leur rôle
+    + donner le carnet de notes aux joueurs
 
 ## Épisodes
 <br>
@@ -124,7 +142,7 @@ Quelques éléments pour incarner ces personnages de manière mémorable et dist
 * employer le temps de briefing avec Jackson dans la voiture pour offrir un espace de _roleplay_ aux joueurs
 * _(si l'un des PJs est un clone)_ lorsqu'il rencontre Charles Stone, indiquez-lui secrètement qu'il s'agit d'un clone
 * lorsque le tueur débarque, diffuser [_Antigone Falling_](https://www.youtube.com/watch?v=WkWahjqHtes) pour faire monter la tension
-* si les PJs fouillent les lieux, faites-leur découvrir le **coffre-fort** de Stone, qui peut être ouvert avec un test de **Savoir-Faire** (_Mental_ ou _Adresse_) difficulté **3**, et qui contient des documents secrets sur le projet _Doppelganger_, avec la mention d'une base secrète d'entraînement dans la forêt de **Hoh** (→ épisode 4)
+* si les PJs fouillent les lieux, faites-leur découvrir le **coffre-fort** de Stone, qui peut être ouvert avec un test de **Savoir-Faire** (_Adresse_ ou _Mental_) difficulté **3**, et qui contient des documents secrets sur le projet _Doppelganger_, avec la mention d'une base secrète d'entraînement dans la forêt de **Hoh** (→ épisode 4)
 * si les PJs hésitent sur quoi faire, leur mettre la pression : afficher la carte du SWAT (10) et décrire leur arrivée en camion à laquelle un PJ assiste par la fenêtre. Ils débutent l'encerclement du bâtiment. Si cela ne suffit pas à les faire fuir, déclencher le coup de fil de Jackson.
 
 ### Épisode 2 - On the run
@@ -146,14 +164,18 @@ Les PJs peuvent s'y rendre pour plusieurs raisons :
 * ils ont retenu l'info durant l'intro que l'individu du **portrait robot** a été identifié sur les quais ici
 * des **recherches sur Wagner**, éventuellement avec l'aide d'O.M.N.I., leurs apprennent que sa présence a été enregistrée récemment sur caméra sur les quais ici
 * **Mina Rodriguez** (épisode 4) leur a suggéré de retrouver Russ Gale, qu'elle sait être planqué ici
+* ils ont trouvé le ticket de paiement sur **le cadavre d'Aaron** (épisode 4)
 :::
 
-* pour détecter si les nanomachines ont infecté leur organisme, Russ Gale passe les PJs au **scanner** : il vire au <span class="red">rouge</span>, indiquant qu'ils sont contaminés.
+* pour détecter si les nanomachines ont infecté leur organisme, Russ Gale passe les PJs au **scanner** : il vire au <span class="red">rouge</span>, indiquant qu'ils sont contaminés. Cela devrait les motiver à demander à ce qu'on leur implante la puce pour les contrôler, sans quoi leur vie est jeu...
 * Russ Gale évoque le manoir d'entraînement des Innocents, dans la forêt de **Hoh** (→ épisode 4). Il impliquera aussi directement **Wagner** dans la conspiration et comme membre de la Fondation.
 
 ### <s>Épisode 4 - Bogota</s> - remplacé
-J'ai préféré laisser tomber cette péripétie qui n'apporte narrativement pas grand chose...
-Seule l'illustration du manoir dans la forêt et le personnage d'Innocent 18 / Mina Rodriguez m'ont semblé avoir un beau potentiel, et j'ai donc complètement transformé cet épisode :
+<a class="theme-music" href="https://www.youtube.com/watch?v=8qt2WbfotkU"> Shpongle - Divine Moments Of Truth @ YouTube 🎶</a>
+<!-- Alt: https://www.youtube.com/watch?v=ael0eJpyiV0 -->
+
+J'ai laissé tomber cette péripétie qui apporte peu chose narrativement...
+Seule l'illustration du manoir dans la forêt et le personnage d'Innocent 18 / Mina Rodriguez m'ont semblé avoir du potentiel, et j'ai donc transformé cet épisode :
 
 ### Épisode 4 - Le manoir des Innocents
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
@@ -176,7 +198,7 @@ Les PJs peuvent s’y rendre pour plusieurs raisons :
 
 #### Scène 1 - Exploration
 Caché au cœur de la dense forêt humide de **Hoh**, à l'Est de Seattle,
-ce manoir est le lieu d'entraînement historique des clones du projet Super SOldat, et l'actuel repaire des **clones d'Aaron Stroke**, qui ont mis en place des protections contre d'éventuelles visites inattendues :
+ce manoir est le lieu d'entraînement historique des clones du projet Super Soldat, et l'actuel repaire des **clones d'Aaron Stroke**, qui ont mis en place des protections contre d'éventuelles visites inattendues :
 * un **molosse** dort dans le manoir. Au moindre bruit, ou dès que quelqu'un entre dans le bâtiment, il se met à aboyer puis à foncer vers le PJ le plus proche. C'est un adversaire de difficulté **3** à distance, mais difficulté **4** une fois au corps-à-corps avec un PJ. Il est aussi possible de tenter de l'amadouer avec un test d'**Empathie** (_Social_) difficulté **4**.
 * des _**booby-traps**_ constitués de fils tendus accrochés à des goupilles de grenades ont été disposés en travers toutes les portes d'accès au manoir. Si les PJs ne sont pas explicitement prudents, l'un d'eux déclenchera l'un de ces pièges et devra réussir un test d'**Athlétisme** (_Physique_) difficulté **3** pour ne pas être blessé par l'explosion.
 
@@ -184,47 +206,76 @@ Voici ce qui peut être découverts dans le manoir :
 * des traces d'un camp d'entraînement de soldats abandonné depuis des années, avec dortoir, réfectoire, douches, champ de tir où des morceaux de cibles sont encore accrochés aux arbres. Une photo abîmée est accrochée à un mur, représentant un groupe de soldats dont plusieurs se ressemblent étrangement, et il est écrit au stylo « **Les Innocents**. »
 * le molosse a commencé à déterrer un corps dans une fosse commune près du manoir, que le Scientifique du groupe sera ravi d'examiner. Un test de **Savoir-Faire** ou **Connaissance** (_Adresse_ ou _Mental_) difficulté **2** lui apprendra qu'il y a là une demi-douzaine de cadavres de soldats, certains mutilés chirurgicalement et d'autres avec des traces de torture, dont certains se ressemblent comme des jumeaux...
 * _(si l'un des PJs est un clone)_ l'un des cadavres mutilés semble familier au PJ qui l'examine... Demandez-lui un test de **Perception** (_Mental_) difficulté **4** : s'il réussit, informez-le secrètement de la ressemblance avec le PJ clone.
-* le sol à l'étage s'est totalement écroulé, mais on peut y distinguer une chambre avec du matériel. Il faut réussir un test d'**Athlétisme** (_Adresse_) de difficulté **2** pour y accéder et y découvrir trois sacs de couchage, des **Pilules bleues** (1 par PJ), un **fusil d'assaut**, une **armure en kevlar** et **deux grenades** dont une "flash".
-* une trappe dissimulée permet d'accéder au sous-sol, qui contient une chambre d'opération similaire à celle du sous-sol du Dr Monroe, où une trousse de secours peut être trouvée, ainsi qu'un ordinateur _mainframe_ massif et antique, que le Codeur peut tenter de remettre en fonction avec un test de **Connaissance** ou **Savoir-Faire** (_Adresse_ ou _Mental_). En diminuant de 1 la réussite obtenue, cela indique **le nombres d'indices récoltés** par le PJ parmi les rares fichiers encore lisible sur le disque dur : grandes cartes 39, 46 et petit carte indice 15.
 
-Optionnellement, ce **plan** peut être employé : [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292).
+<img class="map-preview float-right" src="maps/TomCartos-IntoWildRuins-RuinedManor-Grid.jpg">
+
+Ce **plan** peut être employé : [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292).
+
+* le sol à l'étage s'est totalement écroulé, mais on peut y distinguer une chambre avec du matériel. Il faut réussir un test d'**Athlétisme** (_Adresse_) de difficulté **2** pour y accéder et y découvrir trois sacs de couchage, des **Pilules bleues** (1 par PJ), un **fusil d'assaut**, une **armure en kevlar** et **deux grenades** dont une "flash".
+* une trappe dissimulée permet d'accéder au sous-sol, qui contient une chambre d'opération similaire à celle du sous-sol du Dr Monroe, où une trousse de secours peut être trouvée, ainsi qu'un ordinateur _mainframe_ massif et antique, que le Codeur peut tenter de remettre en fonction avec un test de **Connaissance** ou **Savoir-Faire** (_Adresse_ ou _Mental_).
+* en diminuant de 1 la réussite obtenue, cela indique **le nombres d'indices récoltés** par le PJ parmi les rares fichiers encore lisible sur le disque dur : grandes cartes 39, 46 et petite carte indice 15.
 
 #### Scène 2 - Mina Rodriguez
 * tapie dans la forêt, elle attend patiemment le retour au manoir d'Aaron Stroke, qu'elle piste depuis des mois pour lui régler son compte, dans sa quête vengeresse d'éliminer tous les Innocents
 * elle préfère garder l'avantage de la surprise et dissimuler sa présence aux PJs, mais n'est pas hostile envers eux, et des PJs curieux peuvent découvrir sa présence avant l'arrivée d'Aaron
-* _(si l'un des PJs est un clone)_ lorsqu'il rencontre Mina, indiquez-lui secrètement qu'il s'agit d'un clone. Tous les autres joueurs peuvent faire un test de **Perception** (_Mental_) difficulté **4** pour détecter une forte ressemblance...
-* selon les circonstances, Mina peut faire alliance avec les PJs, les protéger ou leur donner des infos. Ainsi elle pourra leur parler des Innocents du programme Super Soldat, et leur suggère de retrouver **Russ Gale**, le principal collègue de Monroe sur le projet Super Soldat, dont elle a entendu dire qu'il s'était planqué dans un bateau à Baltimore (→ épisode 3). Elle demandera également aux PJs un moyen de contact (téléphone, email, messagerie sécurisée...)
+* _(si l'un des PJs est un clone)_ lorsqu'il rencontre Mina, indiquez-lui secrètement qu'il s'agit d'un clone. Les autres PJs peuvent faire un test de **Perception** (_Mental_) difficulté **4** pour détecter une forte ressemblance...
+* selon les circonstances, Mina peut faire alliance avec les PJs, les protéger ou leur donner des infos. Ainsi elle pourra leur parler des Innocents du programme Super Soldat, et leur suggère de retrouver **Russ Gale**, le principal collègue de Monroe sur le projet Super Soldat, dont elle a entendu dire qu'il est planqué dans un bateau à Baltimore (→ épisode 3). Elle demandera également aux PJs un moyen de contact (téléphone, email, messagerie sécurisée...)
 
 #### Scène 3 - Le combat des titans Innocents
+* pour cette scène, je me suis un peu inspiré d'un article de _« La boite à outils du MJ »_, édité par Lapin Marteau : [Structurer les combats de boss (PDF sur lapinmarteau.com)](http://www.lapinmarteau.com/wp-content/uploads/2020/05/Structurer-des-combats-de-boss.pdf)
 * une heure environ après l'arrivée des PJs, la nuit tombe, et une jeep arrive au manoir : malgré son changement vestimentaire, les PJs reconnaissent **Aaron Stroke**
-* _(si les PJs ont rencontré Mina)_ celle-ci pose un index sur sa bouche signifiant « chut » et recule silencieusement dans la forêt jusqu'à y disparaître
+* _(si les PJs ont rencontré Mina)_ celle-ci pose un index sur sa bouche signifiant « chut » et recule silencieusement dans la forêt jusqu'à disparaître dans la pénombre de la végétation
+* diffusez [_Death By Die - Forest Ambush_](https://www.youtube.com/watch?v=morqY2DkGuk)
 * Aaron repère illico qu'il y a des intrus sur "son territoire". Il gare la jeep devant le manoir et lance à voix haute :
 
 > « Qui que vous soyez, aucun d'entre vous ne sortira vivant de cette forêt. »
 
 * il saisit une **mitrailleuse gatling** dans la jeep descend à terre et se dirige, puis commence à mitrailler en continu le manoir tout en progressant vers lui. Les impacts créent une poussière énorme et les balles traversent les murs, rendant tout déplacement au rez-de-chaussée potentiellement létal
+* Aaron est **protégé des tirs** grâce à un gadget posé sur son épaule, que les PJs ne repèrent pas immédiatement, et qui produit un **mur de nanomachines** stoppant les balles en plein vol. Si les PJs ne détruisent pas ce gadget, ils peuvent le récupérer après le combat. En tout cas, à eux de trouver comment le désactiver, les possibilités étant nombreuses :
+  + s'approcher suffisamment pour lui retirer de l'épaule : test de **Discrétion** (_Adresse_ ou _Physique_) difficulté **4** ou de **Combat** (_Adresse_ ou _Physique_) difficulté **5**
+  + hacker le gadget à distance : test de **Savoir-Faire** (_Adresse_ ou _Mental_) difficulté **3**
+  + comprendre comment le champ de force fonctionne pour en trouver la faille : test de **Connaissance** (_Adresse_ ou _Mental_) difficulté **3**. Les nanomachines peuvent être rendues inopérantes par de **l'eau**.
+  + lancer un objet sur le gadget, les nanomachines n'arrêtant que les projectiles à très haute vélocité : test d'**Athlétisme** (_Adresse_ ou _Physique_) difficulté **4**
+  + contrôler les nanomachines avec le **lévito-gant** de la saison 1, ou avec **leur puce** obtenue à Baltimore
+* Aaron reconnaîtra les PJs en les voyant : _« Cette fois, je ne vous raterai pas. »_
+
 * quelques **stratégies potentielles** pour les PJs : se planquer dans la baignoire; fuir dans la forêt pour contourner Aaron; monter à l'étage pour être en sécurité et/ou lui avoir l'opportunité de lui tirer dessus; employer une grenade
-* **points faibles d'Aaron Stroke** : il doit ré-enclencher la ceinture de munitions dans sa gatling tous les 3 tours; le bruit de la mitrailleuse le rend sourd à toute approche directe par derrière
+* **points faibles d'Aaron Stroke** : il doit ré-enclencher la ceinture de munitions dans sa gatling tous les 3 tours et le bruit de la mitrailleuse le rend sourd à toute approche directe par derrière.
 
 **Phase 2** du combat :
 * soit les PJs sont en difficulté (blessés, démunis face à Stroke) et alors Mina intervient pour les aider, soit ils ont battu Aaron, mais après quelques minutes celui-ci **se redresse** : il n'est pas mort !
-* quoi qu'il en soit, Mina Rodriguez débarque par surprise derrière lui et l'arrose de son lance-flamme. S'ensuit alors un **affrontement spectaculaire** entre les deux Innocents, où Aaron en feu affronte au corps à corps Mina, où les coups de poing et de pied propulsent chaque adversaire à travers les murs du manoir.
-* Mina semble progressivement perdre l'avantage : que font les PJs ? Est-ce qu'ils fuient ou est-ce qu'ils tentent de l'aider ?
-* si les PJs fuient, considérez dans la suite de la partie que Mina finit tout de même par prendre le dessus. Sinon, voici quelques pistes pour qu'ils l'aident à vaincre Aaron :
-
-_**TODO : compléter & comment s'enchaîne la suite ?**_
+* quoi qu'il en soit, Mina Rodriguez débarque par surprise derrière lui et l'arrose de son lance-flamme. S'ensuit alors un **affrontement spectaculaire** entre les deux Innocents, où Aaron en feu affronte au corps à corps Mina, où les coups de poing et de pied propulsent chaque adversaire à travers les murs du manoir, qui commence à s'effondrer
+* **le manoir devient un danger** : indiquez aux PJs que s'ils restent à l'intérieur, ils risquent d'être pris sous des décombres
+* Aaron ne se soucie plus des PJs, mais **il semble increvable**, et Mina semble progressivement perdre l'avantage de la surprise : que font les PJs ? Est-ce qu'ils fuient ou est-ce qu'ils tentent de l'aider ?
+* si les PJs fuient, considérez dans la suite de la partie que Mina finit tout de même par prendre le dessus. Sinon, voici quelques pistes pour vaincre Aaron :
+  + employer la **mitrailleuse gatling** ou une **grenade** contre Aaron : test de **combat** (_Adresse_) difficulté **3**
+  + rouler sur Aaron en **jeep** : test de **Pilotage** (_Adresse_) difficulté **3**
+  + **faire s'effondrer** une partie du manoir sur Aaron
+* quoi qu'il en soit, **Aaron ne survit pas** à cette scène. Des **indices** peuvent être trouvés **sur son cadavre** :
+  + un ticket de paiement provenant d'une station essence à Baltimore (sur le port)
+  + une enveloppe contenant un billet d'avion de Seattle pour Paris, une entrée pour le Grand Palais, et un message griffonné sur un bout de papier : _élimine Aphrodite_
 
 ### Épisode 5 - Paris
 <a class="theme-music" href="https://www.youtube.com/watch?v=dlkin2jb9mQ">En intro : générique @ YouTube 🎶</a>
 
 ::: insert
 Les PJs peuvent s'y rendre pour plusieurs raisons :
-* Russ Gale leur a parlé d'Aphrodite qu'il rencontrait au Grand Palais à Paris
-* Mina Rodriguez leur a fixé rendez-vous par message avec "sa boss" au Grand Palais
+* **Russ Gale** leur a parlé d'Aphrodite qu'il rencontrait au Grand Palais à Paris (épisode 3)
+* ils ont trouvé l'enveloppe sur le **cadavre d'Aaron** (épisode 4)
+* **Mina Rodriguez** leur propose par message de rencontrer là-bas "sa boss" à Paris, en leur donnant rendez-vous au Grand Palais (après l'épisode 4, si les PJs pataugent)
 :::
 
-* _(si l'un des PJs est un clone)_ lorsqu'il rencontre Charlotte Klein, indiquez-lui secrètement qu'il s'agit d'un clone. peuvent faire un test de **Perception** (_Mental_) difficulté **4** pour détecter une forte ressemblance...
+* "Charlotte Klein" attend les PJs tranquillement installée en terrasse, très chic, détendue et souriante. Elle explique que ce n'est pas **réellement** Charlotte, mais qu'elle emploie une technologie mimétique à base de nanomachines pour adopter son apparence. Elle donne au PJ son nom de code : **Aphrodite**
+* _(si l'un des PJs est un clone)_ lorsqu'il découvre le vrai visage d'aphrodite, indiquez-lui secrètement qu'il s'agit d'un clone. Les autres PJs peuvent faire un test de **Perception** (_Mental_) difficulté **4** pour détecter une forte ressemblance...
+* Wagner peut être repéré dans le coin : test de **Perception** (_Mental_) difficulté **3**
 
+---
+
+_En cours de rédaction..._
+
+---
+
+* diffuser [_Two Steps From Hell - Protectors of the Earth_](https://www.youtube.com/watch?v=ASj81daun5Q) puis [_Europa Universalis III Battle of Damascus_](https://www.youtube.com/watch?v=tetYvlR5fO0) pour une bataille finale épique
 
 ## Fin de campagne
 * proposer aux joueurs de laisser des notes dans les carnets pour un éventuel autre groupe de joueurs du jeu, s'ils sont inspirés 🙂 Proposez-leur d'inscrire des notes que Monroe aurait pu rédiger...

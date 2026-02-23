@@ -6,7 +6,7 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
 
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
 - [Sombre : Lab Escape (itch.io)](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour [SOMBRE Zéro de Johan Scipion](https://www.terresetranges.net/sombre.html) - [Article de blog](https://chezsoi.org/lucas/blog/sombre-lab-escape.html)
-- [La Brigade du Chaos (itch.io)](https://lucas-c.itch.io/la-brigade-du-chaos) - Traduction d'un excellent jeu de Grant Howitt, et son aide de jeu maison : [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
+- [La Brigade du Chaos (itch.io)](https://lucas-c.itch.io/la-brigade-du-chaos) - Traduction d'un excellent jeu de Grant Howitt, et mon aide de jeu maison : [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
 - [2200: Le Jugement Des Dieux (itch.io)](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html) - Un court jeu de rôle narratif que j'ai créé - [Article de blog](https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html)
 - [Paradis Perdu - Modules de Secours (itch.io)](https://lucas-c.itch.io/modules-de-secours), une aide de jeu pour le jeu [Paradis Perdu de Yno](https://www.misterfrankenstein.com/wordpress/?p=5388) - [Article de blog](https://chezsoi.org/lucas/blog/modules-de-secours.html)
 - [La Tour](latour) ([version PDF](https://chezsoi.org/s/LaTourPDFDownload)) - Un jeu de rôle en une page (création originale) - [Article de blog](https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html)
@@ -39,7 +39,7 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
 voici quelques aides de jeu que j'ai créé :
   * un diagramme reliant les principaux éléments de l'intrigue, et quelques suggestions d'ajouts au scénario : [CriticalFondation-Saison1-Diagramme.pdf (5 pages - 546 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Diagramme.pdf)
   * quelques cartes de jeu supplémentaires : [CriticalFondation-Saison1-Cartes.pdf (2 pages - 2,3 Mo)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-Cartes.pdf)
-  * quelques notes de préparation comme MJ, épisode par épisode : [Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf) & [Saison2-NotesEpisodes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/Saison2/CriticalFondation-Saison2-NotesEpisodes.pdf)
+  * quelques notes de préparation de MJ, épisode par épisode : [Saison1-NotesEpisodes.pdf (7 pages - 463 Ko)](https://lucas-c.github.io/jdr/CriticalFondation/CriticalFondation-Saison1-NotesEpisodes.pdf) & [Saison2-NotesEpisodes.pdf](https://lucas-c.github.io/jdr/CriticalFondation/Saison2/CriticalFondation-Saison2-NotesEpisodes.pdf)
 
 <!-- [Allegoria](Allegoria) -->
 <!-- [AmnesicFantasy](AmnesicFantasy) -->

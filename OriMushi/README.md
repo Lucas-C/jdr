@@ -1,11 +1,17 @@
 Dernière version du PDF: [OriMushi.pdf](https://lucas-c.github.io/jdr/OriMushi/OriMushi.pdf)
 
-Pour regénérer le PDF avec Python :
+## Musique
+Quelques albums que j'ai écouté en travaillant sur ce projet :
+* [II - A7PHA (DoseOne)](https://www.youtube.com/playlist?list=OLAK5uy_lylWPOwGuoyfo8ggBcshJTPGVlkfszGTs)
+
+## Génération des PDFs
+Avec Python :
 ```
 pip install mistletoe weasyprint
 ./md2pdf.py
 ```
 
+## Fichiers Libre Office
 L'ouverture des fichiers `.fodg` nécessite l'installation préalable des polices `Odachi` & `Xangda Shiny`. Lors de l'export PDF, il faut **désactiver l'option "PDF marqués"**, insérant des signets dans le document généré.
 
 <!--

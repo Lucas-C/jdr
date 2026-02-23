@@ -142,6 +142,28 @@ a.theme-music {
   height: 1rem;
   background-size: cover;
 }
+.card .name h3 {
+  font-weight: bold;
+  font-size: .45rem;
+  line-height: .2rem;
+  margin-left: .666rem;
+  padding: 0;
+  background-color: initial;
+}
+.card .name h3:before { content: ''; }
+
+.card p { text-align: left; }
+.card ul { margin-top: -.5rem; }
+
+.card .description {
+  position: absolute;
+  top: 75%;
+  margin-left: .666rem;
+  margin-right: .666rem;
+  line-height: .9rem;
+}
+
+.card .description p { margin-top: 0; }
 
 .card.fillable .name, .card.intel .name {
   top: 5%;
@@ -151,7 +173,8 @@ a.theme-music {
   top: 90%;
 }
 
-.card.intel .name:before {
+.card.intel.coder .name:before,
+.card.intel.scientist .name:before {
   content: '❓';
   width: 2rem;
   height: 2rem;
@@ -186,28 +209,12 @@ a.theme-music {
   border-radius: initial;
 }
 
-.card .name h3 {
-  font-weight: bold;
-  font-size: .45rem;
-  line-height: .2rem;
-  margin-left: .666rem;
-  padding: 0;
-  background-color: initial;
-}
-
-.card .description {
-  position: absolute;
-  top: 75%;
-  margin-left: .666rem;
-  margin-right: .666rem;
-  line-height: .9rem;
-}
-
 .card.intel .description {
   top: 15%;
   font-size: .8rem;
   line-height: 1rem;
   font-style: italic;
+  margin-top: .5rem;
 }
 
 .card.fillable .description {
@@ -218,8 +225,6 @@ a.theme-music {
   margin: 0;
   left: 10%;
 }
-.card p { text-align: left; }
-.card ul { margin-top: -.5rem; }
 
 .insert {
   background-color: #d1d6dd;
@@ -254,4 +259,5 @@ a.theme-music {
 
 .portrait { max-height: 12rem; }
 .au-rapport { max-height: 18rem; }
+.map-preview { max-height: 12.5rem; }
 .license { padding: 1rem 0; }

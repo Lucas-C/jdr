@@ -13,7 +13,7 @@ pdf.set_margin(10)
 def add_image(path):
     x, y = pdf.x, pdf.y
     info = pdf.image("cc-imgs/" + path, h=IMG_SIZE, w=IMG_SIZE, keep_aspect_ratio=True)
-    if x + info.rendered_width < pdf.w / 2:
+    if x + info["rendered_width"] < pdf.w / 2:
         pdf.x = pdf.w / 2
         pdf.y = y
     else:
