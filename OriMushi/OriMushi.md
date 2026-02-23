@@ -1,53 +1,41 @@
 <!-- En vrac:
 
-Mécaniques à adapter au mode "table ouverte" :
-* ajouter un rappel 15 jours avant chaque partie de "boucler" les inscriptions
-* placer sur une page web dédiée les étapes de création de personnage
-* mécanique de "filler" pour définir ce que faisaient les personnages absents pendants les parties où ils étaient absents
-* prévoir un temps en début de partie pour introduire les nouveaux personnages, ou ceux qui "reviennent", et que ce soit l'occasion de développer des liens entre personnages
-
-site web : nuages d'estampe à écarter au curseur
-retrouver feuille idées de sources d'inspi -> ajouter livres jdr & ptgptb
-Essayer de rester SIMPLE & ACCESSIBLE
+* me mettre un rappel 15 jours avant chaque partie de "boucler" les inscriptions
+* retrouver feuille idées de sources d'inspi -> ajouter livres jdr & ptgptb
 
 Next :
 
-* finir Noms-japonais.md
-* ajouter de nouvelles Compétences, et passer dans un mode +1d6 / +2d6
-* ajouter lien vers Ori Mushi sur https://chezsoi.org/jdrs
-    -> https://chezsoi.org/lucas/blog/tag/ori-mushi.html ?
+* établir une trame principale de campagne et la découper en scénarios
 * développer le Peuple Éteint et préparer leur rencontre avec PJs
-* rédiger scénarios
-    ajouter petits pictos concernant Mushis / Onis / Colosses / etc.
-    scénario sans "méchant"
-    scénario basé sur le background des PJs
-    scénario mettant en avant la pollution produite par les usines
-    proposer des passages "Autour du Feu" particuliers avant certains scénarios
-* designer paliers 2/3 des Voies, cf. ci-dessous
+* designer paliers 2/3 des Voies
     -> ajouter compteur de progression d'Oris avec cases à cocher
-    -> anticiper changement de palier de Laure
-* nouvel agencement FPs : cf. OriMushi-CombinaisonFPs.jpg
-    + ajouter section pour lister les PNJs rencontrés
-    + ajouter rappel "+1 dé pour aider" sur FP ?
-* SUPPRIMER mécanique d'Onis ?
-    la mécanique ne "fonctionne pas trop" d'après les 1ères parties
-    -> mieux vaudrait en faire un CHOIX volontaire pour les PJs, de se laisser "parasiter" par ce Mushi ?
-    -> si conservée, détailler ce qu'il se passe pour le PJ à chaque palier + fournir une AdJ récap
-* SUPPRIMER système de Carte ?
-    car entraîne des considérations de durée de trajet, etc.
-    -> petit système de VOYAGES : lorsque le groupe voyage, un joueur complète la carte et lance 1d6 dans une table aléatoire, comprenant des descriptions de lieux aperçus en chemin (puis plus tard, rencontres / obstacles ?)
-    -> feuille de VOYAGES & LIEUX visités partagée par le groupe ?
+    -> anticiper changement de palier (Laure déjà) & ellipse à la prochaine partie
+* développer la transformation en Oni, suite à une succession de CHOIX NARRATIFS ?
+    Idées : se laisser "parasiter" par ce Mushi; peut être une option de Voie; ...
+    -> Voie dédiée
+* développer la mécanique des masques
+* rédiger paragraphe sur la mécanique des Liens :
+    + +1d6 lors d'une action pour aider / contre le personnage concerné
+    + comment établir de nouveaux Liens et en dénouer d'autres ?
+    + limiter les liens entre PJs ? (pour éviter les abus)
 * SUPPRIMER formats de narration partagée multiple, garder seulement le Questions-Réponses
-* feuille de Secrets rêvélés, avec les réponses des joueurs
+  => introduire une mécanique de "filler" pour définir ce que faisaient les personnages absents pendants les parties où ils étaient absents
+* finir Noms-japonais.md
+* remplacer Oris/XPs par étapes à atteindre dans les Voies ?
+    Pourquoi: rend la progression + narrative, car forcément liée à des actions précises.
+              évite le côté "subjectif" de la distribution des Oris sur des critères arbitraires,
+                comme "suivre les Vœux", "mettre en avant ses Liens & ...", etc.
+    Au profit d'une mécanique où Onis = jetons partagés, obtenus sur un échec critique, permettant d'augmenter de deux points le résultat d'un lancer de dés
+    (+ permettent également de rejouer des scènes de roleplay ?)
+* feuille de Secrets révélés, avec les réponses des joueurs
     1. Le sillage des Colosses est pavé de plantes légendaires dont il permet la pousse par son chant
-* compléter Secrets & Questions-Réponses
-* orga partie avec Noah & ses potes ? Et Karine / Gaëtan / Donatien...
-* orga partie avec Pierre / Naïg / Cédric...
-* détailler/revoir Oris/XPs ?
-* Prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
-* Mise en page AdJ Olivier
-* rédiger section Santé / blessures / mort
+  => compléter Secrets & Questions-Réponses
+* rédiger section à propose des voyages : durée, ellipses, etc.
+    => les komusō hichhike, et donc c'est chaque fois l'opportunité d'une rencontre
+* rédiger section à propose de la santé / blessures / mort
+* prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
 * sections "Ce que savent les komuso sur..."
+* orga parties : proposer à Donatien / Naïg / Cédric...
 * employer jinja2 pour définir des templates de PNJ :
     + ses Objectifs
     + son Attitude + guide de Roleplay
@@ -55,32 +43,7 @@ Next :
     + en cas de conflit avec les PJs...
     + liens avec autres PNJS
 * Codex Mushi : inclure des zones de dessin ?
-* Points de TACT pour rejouer des scènes de roleplay ?
 * extract Hexxus clips from *Ferngully*.webm (last Ns from "Toxic Love")
-
-Voies :
-* le Poète-Sorcier a une VISION de sa propre mort dans l'avenir -> se réalisera-t-elle ?
-* Poète-Sorcier : capacité 1 MANA => +1 d6
-* Poète-Sorcier : supprimer Noms-Secrets
-* Poète-Sorcier : augmenter le nombre de Versets
-* Poète-Sorcier : est-ce qu'ils devraient pas être ceux qui collectent les livres ? & bas-reliefs ?
-* continuer à introduire des mécaniques complémentaires entre Voies, voir des "combos"
-* mécanique des "masks": au palier 2/3, choix narratif impactant sur rôle PJ dans campagne
-    Ex : si tu te voyais devenir un Oni, que ferais-tu ?
-         pourquoi cela te tient tant à coeur de faire partie de ce groupe ?
-         si une guerre survenait, au service de qui te placerais-tu ?
-         si l'Église de la Connaissance prenait le pouvoir, que ferais-tu ?
-         pour quelle cause serais-tu prêt·e à mettre ta vie en jeu ?
-         etc.
-    -> va définir ce que devient le PJ durant l'ellipse (flashforward)
-
-Principes de conception des Voies :
-+ PROGRESSION : ~3 critères, dont un en lien avec celui d'une autre Voie
-+ TRIGGERS :
-    pour chaque palier, le PJ doit être AUTONOME pour l'un, l'autre dépend des aventures proposées par le MJ
-    sur les 4 de la feuille, un doit être en commun avec une autre Voie
-+ le 2e PALIER offre un CHOIX de spécialisation
-  (OU: permet au joueur de se créer SA PROPRE TECHNIQUE, avec SON PROPRE SOUS-SYSTEME au choix parmi 3)
 
 Villes:
 * https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Villes.ashx
@@ -90,31 +53,9 @@ Classification mushis :
 * https://www.steamgalaxy.com/design-your-own-game/
 * https://mushishi.fandom.com/wiki/Category:Mushi
 
-Gameplay:
-+ prévoir que le système (changement de règles...) & les FPs des joueurs (éléments rayés / agraffés / collés...) évoluent au fur et à mesure des parties - Exemples / idées :
-    * les règles MENTENT : la transformation en Oni est plus rapide que prévue !
-        -> et provoque un changement de FP !
-    * les feuilles de Voie initiales sont REMPLACÉES suite à un événement "BIG BANG"
-
-Twists:
-+ les PJs mettent la main sur un recueil de haïkus, celui que les joueurs ont composé !
-  -> c'est un des objectifs de l'Artiste-Conteur pour passer au palier 3
-+ une fois 5 ou 6 Colosses placés sur la carte, il est aisé d'imaginer un symbole à partir de ces points.
-  Le MJ peut alors employer ce symbole dans une enigme...
-
-Lore:
-* https://fr.wikipedia.org/wiki/Clou_de_fondation
-* donner un rôle aux SINGES ? (présents sur maps ForestShrineFestival & WizardPrison)
-
-À lire : Mener des parties de jeu de rôle -> Fiches-de-synthese-A4.pdf
-* [x] Créer un scénario, page 31
-* [ ] Enseigner un jeu, page 93
-* [ ] Incarner des PNJ, page 141 & https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj
-* [ ] Dompter la linéarité, page 159
-* [ ] Partager la narration, page 381
-
 Mise en page :
 - trouver un symbole pour les Oris
+- ajouter des petits pictos à chaque scénario:aventure, indiquant ce qui peut y être collecté : Mushis / Onis / Colosses / etc.
 - Ajouter de jolis ornements en header/footer de pages
     Chinese landscape painting: https://github.com/LingDong-/shan-shui-inf
     https://github.com/watabou/CompassOS
@@ -134,6 +75,12 @@ Com'
 * transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier
 * exposer une 2e page web référencée dans le livre, avec tous les liens vers les ressources PDFs du jeu
 * https://www.reddit.com/r/Mushishi
+* contacter Gulix pour review / partie test ?
+* site web : nuages d'estampe à écarter au curseur
+
+Extensions / développement du jeu au-delà du "livre de base" :
+* illustrations grand format téléchargeables réalisées par Elliot, pour illustrer des scénarios, et les fournir aux joueurs
+* scénarios supplémentaires / "saison 2"
 
 Lien PDF de la Feuille de perso = générateur Python avec questions "masks" random
 
@@ -144,7 +91,12 @@ Illustrations not free:
 * https://www.deviantart.com/niloadoptables/art/open-Ai-Adoptable-5366-1139413431 - girl - 8$
 * https://www.instagram.com/maruti_bitamin
 
-Contacter Gulix pour review / partie test ?
+À lire : Mener des parties de jeu de rôle -> Fiches-de-synthese-A4.pdf
+* [x] Créer un scénario, page 31
+* [ ] Enseigner un jeu, page 93
+* [ ] Incarner des PNJ, page 141 & https://ptgptb.fr/interpreter-les-traits-distinctifs-des-pnj
+* [ ] Dompter la linéarité, page 159
+* [ ] Partager la narration, page 381
 -->
 
 # Ori Mushi
@@ -166,12 +118,17 @@ et où des créatures nommées _mushis_ ont donné naissance à la magie.
 
 - Feuille de komusō : [FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 - Aides de jeu :
+    + [GuideDuMJ.pdf](GuideDuMJ.pdf)
     + [OriMushi-VoiesDesPersonnages.pdf](character-sheets/OriMushi-VoiesDesPersonnages.pdf)
+    + [OriMushi-LivretDAventures.pdf](character-sheets/OriMushi-LivretDAventures.pdf)
+    + [TableDesLiensEntrePersonnages.pdf](TableDesLiensEntrePersonnages.pdf)
     + [VoeuxDesKomuso.pdf](layout/OriMushi-VoeuxDesKomuso.pdf)
-    + [GameLoop.jpg](layout/GameLoop.jpg)
     + [MJ-Recap-Komusos.pdf](MJ-Recap-Komusos.pdf)
     + [Noms-japonais.pdf](Noms-japonais.pdf)
     + [Illustrations.pdf _(16 pages, 40 Mo)_](OriMushi-illustrations.pdf)
+<!-- Plus à jour :
+    + [GameLoop.jpg](layout/GameLoop.jpg)
+-->
 - Feuille de komusō pour partie de 30min : [FeuillePersonnageExpress.pdf](character-sheets/OriMushi-FeuillePersonnageExpress.pdf)
 - Articles sur mon blog à propos de ce jeu : [tag ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
 
@@ -190,7 +147,7 @@ et où des créatures nommées _mushis_ ont donné naissance à la magie.
 Le monde d'Ori Mushi est une forme de **Japon médiéval avec des éléments fantastiques** :
 * la **magie** existe, elle opère par la parole, et est enseignée à travers différents **Vocables**.
 L'énergie magique provient du **Mana**, provenant des **mushis**, des créatures élémentaires invisibles...
-* tout individu possède un potentiel maveillant enfoui, un **Oni**, qui peut s'éveiller, le dévorer et le transformer en **démon**.
+* tout individu possède un potentiel malveillant enfoui, un **Oni**, qui peut s'éveiller, le dévorer et le transformer en **démon**.
 * les **komusō** sont un ordre respecté dans toutes les terres connues.
 
 Les terres connues comportent encore de nombreuses traces des **Temps Antiques**,
@@ -240,6 +197,7 @@ Les terres connues ne sont volontairement **pas** décrites en détails afin de 
 
 ::: page-break
 :::
+
 
 ## Mushis
 Un **mushi** est un organisme vivant **invisible** aux yeux des humains.
@@ -359,14 +317,26 @@ _Mot-clefs : gigantesque, lent, inarrêtable, massif, antique, minéral, lourd, 
 ::: page-break
 :::
 
-## L'Église de la Connaissance
+## Factions
+### Les Prêtres du Vide
+C'est le nom de **l'organisation des moines komusō** :
+* c'est une très ancienne communauté, issue d'une guilde d'artistes errants qui s'est petit à petit structurée en institution, en diversifiant les savoir-faire de ses membres et en établissant un code moral propre autour des Cinq Vœux des komusō
+* les Prêtres du Vide développent parfois une certaine spiritualité, mais il ne s'agit pas d'une religion. Il n'organisent pas de culte, ni ne vénèrent de déités précises.
+* en tant qu'organisation, les activités principales des Prêtres du Vide sont :
+    + le développements des arts et la diffusion de spectacles
+    + la formation et la transmission de savoir-faire
+    + l'entraide et la solidarité, fournie directement par komusō durant leur service à la population
+* l'institution comporte deux niveaux de membres : les **komusō**, qui en font partie temporairement le temps de réaliser un "service civique itinérant", en honorant les Cinq Vœux des komusō; et les **daïmios**, des moines ayant choisi de devenir des artistes-sages permanents. L'ensemble de l'organisation est dirigée par le **Cénacle**, un groupe de daïmios élus par leurs pairs.
+
+### L'Église de la Connaissance
 Cette influente institution promeut **le progrès scientifique et industriel**.
 
 Cette organisation partage certaines caractéristiques d'une religion :
 * le progrès technologique est **sacralisé**, mis en exergue comme la salut de l'humanité, et ses partisans exhortent à avoir **foi** en la Science et la grande Révolution Industrielle qui se déploie.
 * la spiritualité et la magie sont **bannies** comme des absurdités barbares. Les **livres** qui y font référence sont **brûlés**.
 * il n'y a pas de texte sacré, mais les **écrits scientifiques** sont portés aux nues, et célébrés comme les trésors les plus précieux de l'humanité.
-Cette instution constitue un réseau très bien organisé :
+
+Cette instution constitue un réseau très bien organisé :
 * différents **lieux** lui sont dédiés, en ville comme dans des lieux reculés : **temples et monastères** qui sont autant d'instituts de recherche, mais aussi **usines de production** et carrières d'extraction de ressources
 * une **hierarchie de scientifiques** dirige cette église : **barons et capitaines d'industrie**, **cardinal d'université**, **évêques-ingénieurs**...
 * l'église encourage les **bonnes œuvres**, et structure plusieurs initiatives de bienfaisance sociale : aumône, aide alimentaire aux plus démunis, hébergement d'urgence, médecine gratuite, etc.
@@ -462,175 +432,51 @@ Au terme de leur mission de komusō, l'appréciation finale du daïmio sera cruc
 <br>
 
 Les Vœux des komusō sont sources de points d'expériences :
-un joueur sauvant une vie en danger ou épargnant un adversaire meutrier gagne **+1 Ori**.
+un joueur sauvant une vie en danger ou épargnant un adversaire meurtrier gagne **+1 Ori**.
 
 ::: page-break
 :::
 
-## Créer son komuso
-Chaque joueur :
-* choisit une **Motivation**
-* choisit une **Voie**
-* choisit et coche **4 compétences**
-* choisit un Artefact
-* répond à une question <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
-* débute à 0 dans les jauge d'Ori & Oni
-* (si Poète-Sorcier) débute avec un Vocable et un Verset maîtrisé
+## Former un groupe
+Il y a deux options pour jouer à _**Ori Mushi**_ :
 
-### Inventaire
-Les komusō transportent avec eux tout le nécessaire pour voyager :
-de quoi camper, cuisiner, un peu de nourriture, etc.
-Ce matériel de voyage est réparti dans les sacs des membres du groupe.
+* vous jouez avec le même groupe de joueurs, pour une plusieurs parties
+* vous jouez **en table ouverte**, pas toujours avec les même joueurs autour de la table. Ce mode de jeu est détaillé dans le [Guide du MJ](GuideDuMJ.pdf).
 
-L'**inventaire** de départ des personnages est complètement libre :
-il s'agit de tous les objets qu'ils souhaiteraient transporter sur eux.
-Ces objets n'étant pas _spéciaux_, ils n'octroient pas de dé supplémentaires lors des jets.
+Selon si vous optez pour l'une ou l'autre option,
+des règles légèrement différentes vont vous permettre de **tisser des liens entre les komusō**.
 
+### Groupe fixe : tisser des liens entre les komuso
+Lorsque tous les joueurs ont défini qui est leur komusō, avant de débuter la partie,
+créez **deux liens** chaque personnage avec d'autres membres du groupe.
 
-::: page-break
-:::
-
-### Motivation
-Pourquoi es-tu devenu komusō ?
-
-Coche l'une des options proposées sur ta feuille de personnage,
-puis détaille ton histoire en quelques phrases au dos.
-
-::: borderless with-headings text-small left-align-col-1 left-align-col-2
-Motivation | Vœu personnel | Gain d'Ori
--|-
-Aider mon prochain | Vœu d'assistance | Lorsque vous sauvez ou changez positivement & significativement la vie de quelqu'un
-Devenir daïmyo | Vœu d'impartialité | Lorsque vous contribuez significativement à ce que justice soit faite
-Devenir un maître | Vœu d'excellence | Lorsque vous surpassez un maître ou remportez une compétition
-Expier mes erreurs | Vœu de réparation | Lorsque vous résolvez un conflit / réparez un dysfonctionnement majeur
-Humilité | Vœu de discrétion | Lorsque résolvez une situation sans attendre de reconnaissance et sans qu'aucun PNJ n'ait connaissance de vos actions
-Voyager | Vœu d'exploration | À chaque découverte d'un lieu oublié ou secret
-:::
-
-À chaque motivation est associé un vœu personnel **suggéré** : vous êtes libre d'en choisir un autre.
-Le **vœu personnel** est l'un des 5 vœux des komusō, ou un 6<sup>e</sup> vœu qui lui est propre,
-qui guide votre personnage dans sa vie.
-
-::: page-break
-:::
-
-### Voies
-::: same-size-2-cols
-
-_cf._ [OriMushi-VoiesDesPersonnages.pdf](character-sheets/OriMushi-VoiesDesPersonnages.pdf)
-
-#### Maître-Artisan
-Je veux maîtriser toutes les formats d'artisanat, pour construire les objets les plus beaux et utiles,
-et leur insuffler un peu d'âme.
-
-**Fabriquer** : peut se combiner avec la Compétence _Bricoler_
-
-Matériaux : n'importe quel _loot_ dont le komusō justifie la pertinence, pour de l'artisanat ou de l'alchimie,
-mais **JAMAIS** 2x le même.
-
-<!-- Mystère/objectif "fil rouge" : découvrir l'origine des Colosses, réveiller un -->
-
-#### Artiste-Conteur
-Je raconte de manière captivante les plus incroyables histoires.
-Je sais un captiver un public avec jonglage, tours de passe-passe, ombres chinoises, etc.
-
-**Progression** : pour obtenir des Oris, les représentations réussies & pacification / mise en action doivent impacter des PNJs, pas seulement les autres PJs
-
-<!-- Mystère/objectif "fil rouge" : découvrir la véritable histoire du Poète Endeuillé / sa tombe / des Colosses -->
-
-#### Mushishi
-J'étudie et m'efforce d'apaiser mushis et Colosses.
-
-Les mushis étant invisibles, chaque Mushishi a sa propre manière de les détecter : grâce à des lunettes spéciales, en fermant les yeux et en se basant sur son odorat, ou bien en les caressant délicatement, etc.
-Au joueur de déterminer comment son komusō perçoit les mushis, et de l'indique sur sa feuille de Voie.
-
-Un Mushishi peut employer sa compétence _Connaissance les mushis_ pour **détecter leur présence dans un lieu**.
-Il effectue alors un jet de dé, et selon le résultat le MJ lui indique s'il perçoit ou non des mushis à proximité. Un résultat « mais » peut signifier que le Mushishi perçoit autre chose, qu'il pense détecter un mushi mais qu'il se trompe, etc.
-
-Un Mushishi peut également employer sa compétence _Connaissance des mushis_ pour tenter d'**identifer un mushi**, lorsqu'il a détecté la présence de l'un d'eux.
-Il effectue alors un jet de dé, et le meilleur dé obtenu indique le nombre de caractéristiques que le MJ lui indique concernant ce mushi.
-Il est possible de retenter un jet d'identification à partir d'un nouvel échantillon / dans des nouvelles circonstances.
-
-**Soigner** permet à un Mushishi de stabiliser une blessure
-
-<!-- Mystère/objectif "fil rouge" : ? TODO -->
-
-#### Poète-Sorcier
-Je maîtrise l'art du Verbe, et les Vocables magiques.
-
-* apprentissage nouveaux Versets : ☑ ☑ ☑ 3 usages réussis = acquis comme Verset +1d6
-
-<!-- Mystère/objectif "fil rouge" : découvrir la véritable histoire du Poète Endeuillé / sa tombe -->
-:::
-
-::: page-break
-:::
-
-### Artefacts
-Les artefacts sont des objets spéciaux uniques, magiques ou d'excellente facture,
-et leur possesseur les manipule avec virtuosité.
-Deux PJs ne peuvent pas avoir le même. 
-
-<br>
-
-**Bâton télescopique** : peut être employé tout autant comme une arme, que comme un moyen de prendre de la hauteur | **Grappin téléscopique** : comme dans Zelda ou Batman | **Arc à flèches soniques** : propulse des flèches éthérées, illimitées et aux multiples propriétés : elles peuvent sonner l'alarme, assourdir, trancher en deux de petits objets, etc. 
--|-
-**Amulette de feu** : produit d'intenses flammes | **Gant de bourrasque** : projette de l'air | **Cape d'invisibilité** : permet de camoufler une seule personne, ne supprime pas le son
-**Instrument de musique** : dont la sonorité appaise toute créature | **Grande plume volante** | **Masque** permettant de changer de visage
-**Guide d'identification de mushis** | **Lunettes à mushis** | **Katana tranche-tout**
-
-::: page-break
-:::
-
-### Liens entre komuso
-Au terme de cette étape de la création des komusō,
-chaque personnage aura créé **deux liens** avec d'autres membres du groupe.
-
-Cette étape se déroule sous forme d'une « chaîne » entre joueurs :
-* un premier joueur lance un dé pour déterminer avec quel autre komusō du groupe son personnage aura un lien.
-Il propose ensuite au joueur partenaire une nature de lien dans la table suivante,
-en choisissant ou en tirant au hasard.
-Si le joueur décline, il doit proposer un autre lien.
-Lorsque les deux joueurs sont d'accord, la ligne correspondante est cochée dans la table, et ils répondent ensemble aux questions selon le _modus operanti_ décrit dans la section suivante.
+Cette étape se déroule ainsi :
+* un premier joueur lance un dé pour déterminer, au hasard, avec quel autre komusō son personnage aura un lien.
+Le joueur sélectionné devient son partenaire,
+et lance à son tour un dé afin de déterminer **la nature de ce lien**,
+en se référent à la table dédiée.
+Lorsque les deux joueurs se sont mis d'accord sur le type de lien, la ligne correspondante est cochée dans la table, et ils répondent ensemble aux questions, à tour de rôle, dans l'ordre.
 * c'est ensuite au tour du joueur du komusō qui vient d'être tiré au hasard.
-Ce joueur effectue lui aussi un jet de dé pour sélectionner un autre personnage du groupe, à l'exception de celui du premier joueur.
-Il choisit ensuite la nature de ce lien dans la table suivante parmi les options non encore sélectionnées, coche la ligne correspondante, et les deux joueurs répondent aux questions.
+Ce joueur lance lui aussi un dé pour sélectionner un autre personnage, à l'exception de celui du premier joueur.
+Ils tirent ensuite au hasard la nature de leur lien dans la table, et répondent aux questions de la même manière.
 * le joueur qui vient d'être tiré au hasard effectue lui aussi un jet de dé pour sélectionner un autre personnage du groupe, à l'exception de ceux des premier et second joueurs.
-* et ainsi de suite jusqu'au dernier joueur, dont le komuso aura automatiquement un lien avec celui du premier joueur
+* et ainsi de suite jusqu'au dernier joueur, dont le komusō aura automatiquement un lien avec celui du premier joueur
 
-Pour chaque **lien**, trois questions sont posées.
-Le joueur qui n'a pas choisit la nature du lien commence à répondre à l'une des question.
-Puis son partenaire répond à une seconde question.
-La parole revient enfin au joueur initial pour la question restante.
+### Liens entre les komuso en table ouverte
+Dans ce mode de fonctionnement, vous établissez des liens entre komusō lors de la première partie, mais aussi **à chaque fois qu'un nouveau joueur** rejoint votre groupe pour jouer, avec son nouveau personnage.
 
-<!-- Les objectifs :
-* créer du lien entre PJs
-* initier du worldbuilding collectif, sachant que les joueurs n'ont encore quasi aucune refs
--->
+Dans ce cas, le nouveau joueur lance un dé pour déterminer au hasard, avec quel autre komusō présent il aura un lien.
+Le joueur sélectionné devient son partenaire,
+et lance à son tour un dé afin de déterminer **la nature de ce lien**,
+en se référent à la table dédiée, puis ils répondent aux questions.
 
-::: borderless with-headings text-small reduced-vertical-margin large-col-3
-☑ | Nature du lien | Questions
--|-
-▢ | Originaires du même lieu | <ul><li>Était-ce dans les Basses ou Hautes Plaines ? Un village forestier, un quartier de ville, une escadre de bateliers ?</li><li>Qu'avez-vous partagé en ce lieu, qui vous a marqué ?</li><li>En quoi ce lieu a-t-il changé aujourd'hui ?</li></ul>
-▢ | Élèves du même maître | <ul><li>Quel est son nom et son domaine d'expertise ?</li><li>Est-il décédé ou toujours vivant ?</li><li>Êtes-vous en compétition, ou coopérez-vous pour transmettre son enseignement ?</li></ul>
-▢ | Ancêtre commun ayant participé à la Guerre de l'Oubli | <ul><li>Quel était son nom et sa profession ?</li><li>Comment at-il/elle participé à la guerre ?</li><li>Que vous a-t-il/elle légué ?</li></ul>
-▢ | Voyagez ensemble depuis longtemps | <ul><li>Quelle sale habitude insupporte ton compagnon ?</li><li>Quel est l'endroit le plus mémorable visité ensemble ?</li><li>À quelle occasion lui as-tu déjà sauvé la vie ?</li></ul>
-▢ | Assisté à un banquet de mushis ensemble | <ul><li>Happé dans le _flow_ des mushis, comment as-tu réagi ?</li><li>Tu as versé du sang, pourquoi ?</li><li>Tu t'es reveillé près de ton camarade : où ça ?</li></ul>
-▢ | Victimes du même Oni | <ul><li>Qui était ce Oni avant de devenir un démon ?</li><li>L'un de vous l'a affronté, comment ?</li><li>Cela s'est fini dans les larmes, pourquoi ?</li></ul>
-▢ | Relation d'amour | <ul><li>De quel forme d'amour s'agit-il ?</li><li>Qui la ressent pour qui ?</li><li>Comment vivez-vous cet amour au quotidien ?</li></ul>
-▢ | Motivations proches | <ul><li>Quel objectif avez-vous en commun ?</li><li>Sur quoi n'êtes-vous pas en accord ?</li><li>Êtes-vous en compétition, ou coopérez-vous ?</li></ul>
-▢ | Parentalité | <ul><li>Quel est votre lien de parentalité ?</li><li>Quel souvenir d'enfance partagez-vous ?</li><li>Quel lien avec votre famille conservez-vous avec vous ?</li></ul>
-▢ | Lien secret | **Surprise !** Le MJ vous expliquera votre lien en apparté.
-:::
+Répétez l'opération pour que le nouveau joueur tisse un second lien avec un autre komusō du groupe.
+Si plusieurs komusō rejoignent le groupe lors de la même partie,
+essayez de faire en sort qu'ils tissent **un lien avec un "ancien" joueur, et un lien avec un "nouveau" joueur**.
 
-<!-- Autres idées : Ont jeté les armes (À quelle bataille avez-vous tous deux participés ?) -->
-
-::: page-break
-:::
-
-#### Lien secret
-Le MJ prend en apparté les deux joueurs,
-et leur révêle que l'un des komusō est un **mushi clone** de l'autre !
+### Lien secret
+Le MJ prend en aparté les deux joueurs,
+et leur révèle que l'un des komusō est un **mushi clone** de l'autre !
 
 Depuis le clonage, les deux personnages ont probablement adopté des signes distinctifs,
 les rendant légèrement dissemblables l'un de l'autre.
@@ -676,7 +522,7 @@ De plus :
 :::
 
 ### Lancer plus de dés
-<img class="size6 float-left" alt="Dé supplémentaire" src="character-sheets/plus1die.png">
+<img class="size6 float-left" alt="Dé supplémentaire" src="character-sheets/elements/plus1die.png">
 
 Ce symbole vous indique d'ajouter un dé à votre jet :
 prennez ensuite en compte **le plus haut résultat** pour déterminer la réussite de l'action.
@@ -743,23 +589,28 @@ acquise en réalisant des actions en alignement avec son code moral,
 au fur et à mesures de ses aventures.
 
 ::: borderless right-align-col-1 with-headings
-
 Situation | Progression par aventure
 -|-
 Échec critique ⚀⚀ | +1 Ori
 Suivre activement les Vœux des komusō, y compris le Vœu Personnel | +1 Ori
 Mettre en avant ses Liens & <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg"> | +1 Ori
 Suivre sa Progression de Voie | +1 Ori
-Placer au moins une fois son komusō dans une situation délicate à cause de sa Mauvaise Habitude | +1 Ori
-Compléter la carte | +1 Ori
+Placer au moins une fois son komusō dans une situation délicate à cause de sa Mauvaise habitude | +1 Ori
+:::
 
 En dehors de l'échec critique, tous les gains d'Oris se font en fin de session de jeu,
 lorsque les komusō reprennent leur voyage.
 
-:::
+Lorsque les personnages ont obtenus suffisamment d'Oris,
+et qu'ils satisfont les critères de leur Voie,
+**ils changent de palier**, et donc de feuille de Voie.
 
-### Changement de palier
-=> répondre à une question <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
+Le changement de palier se déroule au début d'une partie où
+**au moins trois PJs présents satisfont le critère de passage au palier suivant de leur Voie**.
+Tous les komusō changent alors de palier simultanément.
+
+Ne fournissez pas aux joueurs de détails au préalable sur comment cela se déroule.
+Tout est détaillé dans le [Guide du MJ](GuideDuMJ.pdf).
 
 ::: page-break
 :::
@@ -856,7 +707,7 @@ Le MJ peut choisir de participer ou non à cette phase.
 * n'importe quel joueur inspiré énonce la première phrase du premier haïku. Il est alors chargé d'inscrire toute la strophe sur la Feuille des Haïkus.
 * en tournant dans les sens des aiguilles d'une montre, chaque joueur annonce une phrase à son tour.
 * après un temps de réflexion, un joueur peut passer son tour.
-* si possibe, la troisième phrase doit clôturer chaque haïku, puis la quatrième débuter un nouveau haïku, et ainsi de suite.
+* si possible, la troisième phrase doit clôturer chaque haïku, puis la quatrième débuter un nouveau haïku, et ainsi de suite.
 * ne respectez pas strictement les règles de composition des haïku : une strophe peut contenir 4 ou 5 phrases, le nombre de syllabes importe peu, une césure (_kireji_) à la fin est bienvenue mais pas nécessaire, etc.
 * **le poème est fini** lorsque tous les joueurs sont satisfaits du poème, et que plus personne n'est inspiré pour débuter de nouveau haïku.
 
@@ -884,7 +735,8 @@ Il s'agit pour la plupart de créations de Vitruves durant les Temps Antiques, m
 ### Le Gyroptère de Vitruve
 _cf._ [Gyroptère](https://fr.wikipedia.org/wiki/Gyropt%C3%A8re)
 ### La Tour de l'Infini
-Possède de nombreuses portes (la plupart fermées), s'ouvrant dans de nombreux lieux des terres connues
+* Possède de nombreuses portes (la plupart fermées), s'ouvrant dans de nombreux lieux des terres connues
+* c'est un lieu secret, que les komusō 
 * les portails nécessitent de l'algue-portail 
 * ⚠️ la nuit, une masse d'algue-portail s'y déplace d'étage en étage (façon cube gélatineux)
 ### Le Théâtre des Cieux
@@ -923,7 +775,8 @@ Il s'agit d'une séquence d'un quart d'heure axée sur le _roleplay_, où les jo
 
 Concluez cette phase ainsi :
 
-> Au cœur de la nuit, votre feu de camp s'éteint doucement.> Qu'est-ce que vos personnages ont dans le coeur en se couchant ?
+> Au cœur de la nuit, votre feu de camp s'éteint doucement.
+> Qu'est-ce que vos personnages ont dans le coeur en se couchant ?
 
 Durant cette phase, le MJ peut participer durant les "blancs" de la discussion pour décrire l'environnement autour des komusō, la lumière, les bruits, le vent...
 Il est aussi encouragé à diffuser une musique d'ambiance adaptée :
@@ -934,33 +787,6 @@ Il est aussi encouragé à diffuser une musique d'ambiance adaptée :
 
 ::: page-break
 :::
-
-### La carte des terres connues
-Au fur et à mesure de leur pérégrinations, les komusō tracent une **carte des terres connues**.
-Au terme de la phase Mystika, les joueurs complètent cette carte :
-* ils peuvent y ajouter des **lieux**, issus de leur dernier voyage où du Mystika
-* ils peuvent y dessiner ou mentionner des **personnages** ou des **points d'intérêt** notables
-
-Cette carte mentionne les lieux notables traversés par le groupe,
-et éventuellement des éléments sur le relief, les cours d'eau,
-l'environnement en général et les bâtiments découverts en chemin.
-
-En tant que MJ, lors de votre première partie, vous pouvez au choix :
-* donner une **feuille A4 vierge** à vos joueurs
-* fournir un **fond de carte** de votre univers favori, ou dessinée par vos soins
-
-La carte doit comporter une **rose des vents** indiquant les directions cardinales : Nord, Sud, Est, Ouest.
-Elle doit aussi comporter **les signatures des komusō**, qui attestent de sa validité.
-
-À chaque fin de partie, un joueur du groupe se dévoue pour compléter la carte.
-Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin** d'une plante, d'une créature ou d'un personnage qu'ils ont rencontré.
-
-<br><br>
-<img class="size10" alt="Un parchemin de carte" src="cc-imgs/pirate_map_1_by_thestockwarehouse_cc-by_greyscale.png">
-
-::: page-break
-:::
-
 
 ## PNJs
 ### Mokabé
@@ -1059,47 +885,6 @@ L'idée est d'employer ce script sur les feuilles de personnage pour y dissimule
 ::: page-break
 :::
 
-## Version Express
-Cette version du jeu est destinée à des parties très courtes, d'une heure environ.
-Inspiré du [scénario de Kalwrynn pour initier au jeu de rôle intitulé "Mener en 30min"](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html),
-ce mode de jeu se veut volontairement très simple et épuré,
-pour offrir aux joueurs en une heure un aperçu du jeu.
-
-### Création de personnage en 5min
-1. Choisissez votre apparence et **un artefact** (arme, objet magique...) parmi les illustrations,
-ou inventez-les ! Les artefacts sont des objets magiques ou que leur possesseur maîtrise avec virtuosité.
-
-2. Inscrivez sur votre feuille de personnage son **nom**, son **activité** et cochez **3 compétences**.
-
-L'**inventaire** de départ des personnages est complètement libre :
-il s'agit de tous les objets qu'ils souhaiteraient transporter sur eux.
-Ces objets n'étant pas _spéciaux_, ils n'octroient pas de dé supplémentaires lors des jets.
-
-## Éléments clefs à établir en début de partie
-- « L'histoire se déroule dans un japon médiéval imaginaire. Il existe de la magie et des monstres. »
-- Le meneur de jeu demandera des jets aux joueurs pour les actions risquées de leurs personnages.
-- Les joueurs se connaissent déjà et voyagent ensemble, et c'est d'ailleurs leur objectif commun : explorer les terres connues... et inconnues !
-Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
-
-## Scène 0 - Course poursuite !
-Bien que cela rallonge légèrement la durée de la partie, je trouve très judicieuse l'idée de Kalwrynn de commencer _in media res_.
-
-Je vous suggère donc de commencer la partie en décrivant rapidement un joli décor de chemin de terre sinuant
-parmi les champs et les herbes folles, par une paisible après-midi printanière, au pied d'une montagne...
-Où les personnages des joueurs descendent le chemin en pente à perdre haleine,
-poursuivis par un troll-kappa dont ils ont piétinés le jardin par mégarde !
-Cette créature, sorte de taupe humanoïde avec un bec, est fâchée et pas du tout disposée à discuter !
-
-Décrivez aux joueurs les environs pour leurs donner quelques idées d’échappatoire :
-l'orée de la forêt de bambous, la descente un peu raide vers un lac, les hautes herbes balayées par le vent...
-
-Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemin ou le lac,
-quitte à faire une ellipse ou à indiquer qu'il s'agit de l'étape suivante de leur voyage,
-où on leur a vanté une recette locale de poisson frit...
-
-::: page-break
-:::
-
 <br>
 <img class="size10 float-right" alt="Bambou" src="cc-imgs/bamboo-cc0.svg">
 
@@ -1135,18 +920,6 @@ La galerie d'art de Nouvelle-Galles du Sud a commandé une musique atmosphériqu
 [Blue Turtle YouTube playlists](https://www.youtube.com/@BlueTurtle/videos)
 
 Bande son YouTube : [Ori Mushi](https://www.youtube.com/playlist?list=PLLgE-ga3W_kbktCFQcCk_AIr3UqNLBRGI)
-
-### Cartes de lieux
-Si vous aimez avoir un support visuel pour vos parties, voici quelques belles cartes qui peuvent parfaitement servir de support à une partie d'Ori Mushi :
-
-* [Sanctuaire de la forêt - Czepeku](https://www.czepeku.com/fr/store/product/forest-shrine-festival)
-* [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/) - [scene illustration @ Patreon](https://www.patreon.com/posts/zen-monastery-109669515)
-* [Warforged Titan Scrapyard - Czepeku](https://www.czepeku.com/fr/store/product/warforged-titan-scrapyard) - [scene illustration](https://www.czepeku.com/fr/store/product/warforged-titan-scrapyard-scene)
-* [Cache du Oni - Ferme de riz - Czepeku](https://www.reddit.com/r/battlemaps/comments/q3dkqc/oni_hideout_spring_23x36/)
-* [Bains japonais - Czepeku](https://www.czepeku.com/store/product/steamy-japanese-bathhouse) - [scene illustration @ Patreon](https://www.patreon.com/posts/90005505)
-* [Wizard Prison - Czepeku](https://www.czepeku.com/fantasy/maps/wizard-prison-part-1) - [scene illustration @ Patreon](https://www.patreon.com/posts/90005505)
-* [Celestial Gate - Czepeku](https://www.czepeku.com/fantasy/maps/celestial-gate/spring) - [video scene](https://www.patreon.com/posts/celestial-gate-79276610) - Spring version
-* [Mountaintop Observatory - Czepeku](https://www.czepeku.com/fantasy/maps/mountaintop-observatory/hot-spring-monkey)
 
 ::: page-break
 :::
@@ -1193,37 +966,38 @@ _**Images searches**_: Creative Commons via Google, avec filtres "il y a moins d
 
 ## Glossaire
 
-JdR
-: jeu de rôle
+<dl>
 
-MJ
-: Meneur ou Meneuse de Jeu
+<dt id="campagne">Campagne</dt>
+<dd>ensemble de parties de JdR se suivant pour former une continuité, où l'on retrouve les même personnages dans le même univers</dd>
 
-PJ
-: Personnage d'une Joueuse ou d'un Joueur
+<dt>Hopepunk</dt>
+<dd>
+un sous-genre des littératures de l'imaginaire, conçu à l'opposé des dystopies amorales ou violentes, où la bonté est un acte politique et de rébellion, et les personnages ne se résignent pas face à un univers hostile. <a href="https://fr.wikipedia.org/wiki/Hopepunk">Page Wikipedia dédiée</a>. Voici quelques œuvres que j'estime appartenir à ce genre et que je recommande : les bandes dessinées <em>Lightfall</em>, <em>Mouse Guard</em>, <em>Nimona</em> et <em>SAGA</em>; les films <em>Nausicaä</em> &amp; <em>Princesse Mononoké</em>; la série <em>Firefly</em>; les jeux vidéos <em>Brothers - A Tale of Two Sons</em> & <em>Journey</em>.
+</dd>
 
-One-shot
-: courte partie de JdR isolée, sans qu'il ne soit prévu de suite
+<dt>JdR</dt>
+<dd>jeu de rôle</dd>
 
-Campagne
-: ensemble de parties de JdR se suivant pour former une continuité, où l'on retrouve les même personnages dans le même univers
+<dt>MJ</dt>
+<dd>Meneur ou Meneuse de Jeu</dd>
 
-Hopepunk
-: un sous-genre des littératures de l'imaginaire, conçu à l'opposé des dystopies amorales ou violentes, où la bonté est un acte politique et de rébellion, et les personnages ne se résignent pas face à un univers hostile. [Page Wikipedia](https://fr.wikipedia.org/wiki/Hopepunk). Voici quelques œuvres que j'estime appartenir à ce genre et que je recommande : les BDs _Lightfall_, _Mouse Guard_, _Nimona_, _SAGA_; les films Nausicaä & Princesse Mononoké; la série _Firefly_; les jeux vidéos _Brothers - A Tale of Two Sons_ & _Journey_.
+<dt>One-shot</dt>
+<dd>courte partie de JdR isolée, sans qu'il ne soit prévu de suite</dd>
+
+<dt>PJ</dt>
+<dd>Personnage d'une Joueuse ou d'un Joueur</dd>
+
+<dt>Roleplay</dt>
+<dd>action d’incarner son personnage, généralement en s’appliquant à parler et agir comme il le ferait</dd>
+
+<dt>Table ouverte</dt>
+<dd>fonctionnement d'une <a href="#campagne">campagne</a> de jeu de rôle où d'une partie à l'autre ce ne sont pas toujours les même joueurs autour de la table.</dd>
+
+</dl>
 
 ::: page-break
 :::
-
-## Ambitions de _game design_
-::: callout
-* un jeu de rôle où les combats sont rares, et **jamais nécessaires**
-* un format de courte campagne (une dizaine de parties) où les personnages et l'univers **évolueront significativement**, avec plusieurs **mystères rêvélés**
-* des feuilles des personnages intégrant des **mécaniques incitant à évoluer narrativement**, avec des éléments **uniques pour chaque archétype**
-* un jeu **_light_ en terme de contenu textuel** décrivant l'univers, mais intégrant à la place des phases de **narrativistes**. L'idée est d'inclure le minimul de _lore_ possible, uniquement le strict nécessaire, mais que les joueurs puissent contribuer à définir des pans de l'univers durant certaines phases de jeu (~ _fusil de Tchekhov_)
-:::
-
-### Cette fois où j'ai procrastiné pendant 2 semaines pour finalement préparer une partie à l'arrache
-Raconter cette histoire + rassurer + expliquer comment j'ai procédé
 
 ## Toutes les idées qui n'ont pas pu aboutir dans cette version
 
@@ -1237,6 +1011,7 @@ et des petits encarts de réponse permettent aux joueurs d'y consigner leurs dé
 * partage de haïkus, avec mise en page jolie (proc-gen) de ces textes
 * partage de personnages
 * partage de lieux sur carte partagée (mentionner `#hashtag` dédié pour les partager sur réseaux sociaux)
+<!--
     + tool: <https://github.com/Azgaar/Fantasy-Map-Generator>
     -> fine-tune & disable useless features: <https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Quick-Start-Tutorial#performance-tips>
     alt tool: <https://github.com/davmillar/DavesMapper>
@@ -1247,6 +1022,7 @@ et des petits encarts de réponse permettent aux joueurs d'y consigner leurs dé
     -> add a server-storage based provider, with some auth: <https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/modules/io/cloud.js>
     => needs a system to avoid concurrent edits
     => open GitHub issue to suggest feature?
+-->
 
 ::: page-break
 :::
@@ -1316,4 +1092,7 @@ Partie du 5/04/2025 Au WEJ avec Olivier, Naïg, Flo, Timothé (?) & ? (ami Naïg
     là les joueurs étaient frustrés d'avoir des compétences qui leur soient inutiles
 
 Partie du 10-11/05/2025 avec Aurelien, Elliot, Laure, Matt & Olivier
+cf. carnet rouge page 89
+
+Partie du 28/02/2026 avec Matthieu, Noah, Olivier
 -->

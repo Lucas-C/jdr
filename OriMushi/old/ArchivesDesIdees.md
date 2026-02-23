@@ -8,7 +8,7 @@ lorsqu'un joueur effectue un jet, pour chaque face de dé obtenue,
 il peut cocher la case correspondante sur sa feuille de personnage,
 dans la table de récupération de Mana :
 
-<img class="size6" alt="Jauge de Mana" src="character-sheets/mana-jauge.jpg">
+<img class="size6" alt="Jauge de Mana" src="character-sheets/elements/mana-jauge.jpg">
 
 Lorsque les 6 cases sont remplies, le personnage récupère **+1 dé** de Mana et efface toutes les cases.
 Le réserve de Mana se regénère également complètement après quelques heures à méditer auprès de mushis.
@@ -150,3 +150,136 @@ Gardez en têtes ces grands principes durant le Mystika :
 1.
 :::
 ::::
+
+
+## Canaliser son Oni
+Un komusō peur canaliser son Oni pendant un bref moment,
+en réveillant la rage en lui
+et ainsi offrir une pulsion d'énergie et de focus à son porteur.
+
+Sur sa feuille de personnage, un joueur peut cocher une case libre de sa **jauge de Oni**.
+Le nombre de cases cochées de cette jauge défini son **niveau de Oni**.
+
+En faisant ainsi, pendant quelques minutes son personnage est plongé dans une rage concentrée.
+Durant cette période, le joueur dispose d'autant de jetons de « rage Oni » que son niveau de ni.
+Le joueur peut dépenser ses jetons avant ou après un jet de dé demandé par le MJ,
+pour obtenir immédiatement une **réussite critique**.
+
+Lorsqu'il dépense un jeton « rage Oni »,
+le joueur doit lancer un dé :
+si le résultat est strictement inférieur à son niveau de Oni,
+il entre en rage berserk.
+
+::: page-break
+:::
+
+### Devenir berserk
+Un komusō entrant en rage berserk passe sous le contrôle du MJ.
+
+Un joueur peut choisir de **consommer 1 Ori** pour éviter cette transformation.
+
+Le comportement du berserk est défini en consultant le résultat du jet de dé ayant transformé le komusō en berserk dans la table suivante :
+
+::: borderless right-align-col-1 with-headings
+
+Dé | Attitude
+-|-
+⚀⚁ | Le berserk s'attaque au PJ le plus proche.
+⚂ | Le berserk s'attaque au PNJ le plus proche.
+⚃ | Le berserk s'enfuit.
+⚄⚅ | Le berserk s'attaque à un adversaire. S'il n'y en pas, relancé le dé.
+
+:::
+
+<br>
+<img class="size20" alt="Shen Blood Moon" src="cc-imgs/eague_of_legends_shen_blood_moon_by_spellshuei_cc-by.jpg">
+
+### Devenir un démon
+Lorsqu'un personnage atteint le rang 5 d'Oni, des traits démoniaques commencent à apparaître ur son corps.
+Lorsqu'il atteint le rang 6, encore plus de traits apparaissent.
+Lancez un dé au rang 5 puis deux dés au rang 6 : ⚀: des oreilles pointues ; ⚁: des griffes ;⚂: une machoire carnassière ; ⚃: la peau rouge; ⚄: des écailles; ⚅: des cornes.
+
+Lorsqu'un personnage ayant un rang Oni 6 coche la dernière case de sa jauge,
+il joue sa dernière scène puis devient un démon, joué comme un PNJ par le MJ.
+
+<br>
+<img class="size20" alt="Kappa" src="cc-imgs/Kappa_Koopa_by_weremagnus_cc-by.jpg">
+
+
+## Version Express
+Cette version du jeu est destinée à des parties très courtes, d'une heure environ.
+Inspiré du [scénario de Kalwrynn pour initier au jeu de rôle intitulé "Mener en 30min"](http://www.lulu.com/fr/fr/shop/kalwrynn/mener-en-30mn/ebook/product-24254652.html),
+ce mode de jeu se veut volontairement très simple et épuré,
+pour offrir aux joueurs en une heure un aperçu du jeu.
+
+### Création de personnage en 5min
+1. Choisissez votre apparence et **un artefact** (arme, objet magique...) parmi les illustrations,
+ou inventez-les ! Les artefacts sont des objets magiques ou que leur possesseur maîtrise avec virtuosité.
+
+2. Inscrivez sur votre feuille de personnage son **nom**, son **activité** et cochez **3 compétences**.
+
+L'**inventaire** de départ des personnages est complètement libre :
+il s'agit de tous les objets qu'ils souhaiteraient transporter sur eux.
+Ces objets n'étant pas _spéciaux_, ils n'octroient pas de dé supplémentaires lors des jets.
+
+## Éléments clefs à établir en début de partie
+- « L'histoire se déroule dans un japon médiéval imaginaire. Il existe de la magie et des monstres. »
+- Le meneur de jeu demandera des jets aux joueurs pour les actions risquées de leurs personnages.
+- Les joueurs se connaissent déjà et voyagent ensemble, et c'est d'ailleurs leur objectif commun : explorer les terres connues... et inconnues !
+Ils ont déjà traversé de nombreuses contrées et aidé bien des gens.
+
+## Scène 0 - Course poursuite !
+Bien que cela rallonge légèrement la durée de la partie, je trouve très judicieuse l'idée de Kalwrynn de commencer _in media res_.
+
+Je vous suggère donc de commencer la partie en décrivant rapidement un joli décor de chemin de terre sinuant
+parmi les champs et les herbes folles, par une paisible après-midi printanière, au pied d'une montagne...
+Où les personnages des joueurs descendent le chemin en pente à perdre haleine,
+poursuivis par un troll-kappa dont ils ont piétinés le jardin par mégarde !
+Cette créature, sorte de taupe humanoïde avec un bec, est fâchée et pas du tout disposée à discuter !
+
+Décrivez aux joueurs les environs pour leurs donner quelques idées d’échappatoire :
+l'orée de la forêt de bambous, la descente un peu raide vers un lac, les hautes herbes balayées par le vent...
+
+Au terme de cette scène, les joueurs doivent rejoindre le village, par le chemin ou le lac,
+quitte à faire une ellipse ou à indiquer qu'il s'agit de l'étape suivante de leur voyage,
+où on leur a vanté une recette locale de poisson frit...
+
+
+### La carte des terres connues
+Au fur et à mesure de leur pérégrinations, les komusō tracent une **carte des terres connues**.
+Au terme de la phase Mystika, les joueurs complètent cette carte :
+* ils peuvent y ajouter des **lieux**, issus de leur dernier voyage où du Mystika
+* ils peuvent y dessiner ou mentionner des **personnages** ou des **points d'intérêt** notables
+
+Cette carte mentionne les lieux notables traversés par le groupe,
+et éventuellement des éléments sur le relief, les cours d'eau,
+l'environnement en général et les bâtiments découverts en chemin.
+
+En tant que MJ, lors de votre première partie, vous pouvez au choix :
+* donner une **feuille A4 vierge** à vos joueurs
+* fournir un **fond de carte** de votre univers favori, ou dessinée par vos soins
+
+La carte doit comporter une **rose des vents** indiquant les directions cardinales : Nord, Sud, Est, Ouest.
+Elle doit aussi comporter **les signatures des komusō**, qui attestent de sa validité.
+
+À chaque fin de partie, un joueur du groupe se dévoue pour compléter la carte.
+Le PJ de ce joueur gagne **+1 Ori** s'il inclut au moins un tout petit **dessin** d'une plante, d'une créature ou d'un personnage qu'ils ont rencontré.
+
+<br><br>
+<img class="size10" alt="Un parchemin de carte" src="cc-imgs/pirate_map_1_by_thestockwarehouse_cc-by_greyscale.png">
+
+::: page-break
+:::
+
+
+### Cartes de lieux
+Si vous aimez avoir un support visuel pour vos parties, voici quelques belles cartes qui peuvent parfaitement servir de support à une partie d'Ori Mushi :
+
+* [Sanctuaire de la forêt - Czepeku](https://www.czepeku.com/fr/store/product/forest-shrine-festival)
+* [Monastère des cerisiers en fleurs - Czepeku](https://www.reddit.com/r/dndmaps/comments/mo9udv/cherry_blossom_monastery_21x49/) - [scene illustration @ Patreon](https://www.patreon.com/posts/zen-monastery-109669515)
+* [Warforged Titan Scrapyard - Czepeku](https://www.czepeku.com/fr/store/product/warforged-titan-scrapyard) - [scene illustration](https://www.czepeku.com/fr/store/product/warforged-titan-scrapyard-scene)
+* [Cache du Oni - Ferme de riz - Czepeku](https://www.reddit.com/r/battlemaps/comments/q3dkqc/oni_hideout_spring_23x36/)
+* [Bains japonais - Czepeku](https://www.czepeku.com/store/product/steamy-japanese-bathhouse) - [scene illustration @ Patreon](https://www.patreon.com/posts/90005505)
+* [Wizard Prison - Czepeku](https://www.czepeku.com/fantasy/maps/wizard-prison-part-1) - [scene illustration @ Patreon](https://www.patreon.com/posts/90005505)
+* [Celestial Gate - Czepeku](https://www.czepeku.com/fantasy/maps/celestial-gate/spring) - [video scene](https://www.patreon.com/posts/celestial-gate-79276610) - Spring version
+* [Mountaintop Observatory - Czepeku](https://www.czepeku.com/fantasy/maps/mountaintop-observatory/hot-spring-monkey)

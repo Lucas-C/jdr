@@ -21,30 +21,37 @@ SRC_FILES = (
     SCENAR1_MD_FILEPATH := DIR / "scenarios" / "LesDisparusDuFestivalDuPrintemps.md",
     SCENAR2_MD_FILEPATH := DIR / "scenarios" / "IlFautProtegerBourgMistral.md",
     SCENAR3_MD_FILEPATH := DIR / "scenarios" / "LesFuneraillesDuDaimio.md",
+    CAMPAGN_MD_FILEPATH := DIR / "Campagne.md",
     GUIDE_DU_MJ_MD_FILEPATH := DIR / "GuideDuMJ.md",
+    LIENS_ENTRE_PJS_MD_FILEPATH := DIR / "TableDesLiensEntrePersonnages.md",
     MJ_RECAP_KOMUSOS_MD_FILEPATH := DIR / "MJ-Recap-Komusos.md",
     NOMS_JAP_MD_FILEPATH := DIR / "Noms-japonais.md",
     CHARACTER_CREATION_MD_FILEPATH := DIR / "CreationDePersonnage.md",
     RULES_MD_FILEPATH := DIR / "OriMushi.md",
+    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/OriMushi/
+    PITCH_MD_FILEPATH := DIR / "index.md",
 )
 
 METADATA = {
     RULES_MD_FILEPATH: {
         "title": "Ori Mushi",
-        "lang": "fr",
         "keywords": ("jdr", "ttrpg", "hopepunk", "japon", "fantasy", "ghibli", "komusō", "mushi"),
         "description": "Un jeu de rôle hopepunk dans un univers de fantasy inspiré du japon médiéval, où les joueurs incarnent des komusō, ayant fait vœu d'aider la population, et où des créatures nommées mushis ont donné naissance à la magie.",
         "extra_outline": [
             "ⰀⰁⰂⰃⰄⰅⰆⰇⰈⰉⰊⰋⰌⰍⰎⰏⰐⰑⰒⰓⰔⰕⰖⰗⰘⰙⰚⰛⰜⰝⰞⰟⰠⰡⰢⰣⰤⰥⰦⰧⰨⰩⰪⰫⰮ",  # Glagolitic => peut être converti en cyrillique
         ],
+        "html_filename": "OriMushi.html"
     },
-    SCENAR1_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    SCENAR2_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    SCENAR3_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    GUIDE_DU_MJ_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    NOMS_JAP_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
-    MJ_RECAP_KOMUSOS_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
-    CHARACTER_CREATION_MD_FILEPATH: { "lang": "fr", "bookmarks": False },
+    CAMPAGN_MD_FILEPATH: {},  # TODO before publishing
+    SCENAR1_MD_FILEPATH: {},  # TODO before publishing
+    SCENAR2_MD_FILEPATH: {},  # TODO before publishing
+    SCENAR3_MD_FILEPATH: {},  # TODO before publishing
+    GUIDE_DU_MJ_MD_FILEPATH: {},  # TODO before publishing
+    NOMS_JAP_MD_FILEPATH: { "bookmarks": False },  # TODO before publishing
+    LIENS_ENTRE_PJS_MD_FILEPATH: {},  # TODO before publishing
+    MJ_RECAP_KOMUSOS_MD_FILEPATH: { "bookmarks": False },  # TODO before publishing
+    CHARACTER_CREATION_MD_FILEPATH: { "bookmarks": False, "html_filename": "CreationDePersonnage.html" },  # TODO before publishing
+    PITCH_MD_FILEPATH: { "bookmarks": False, "pdf_filename": "Pitch.pdf" },  # TODO before publishing
 }
 
 
@@ -56,26 +63,24 @@ def build_pdf(target_md_file=None):
     for md_src_file in SRC_FILES[2:]:
         metadata = {**METADATA[md_src_file]}
         bookmarks = metadata.pop("bookmarks", True)
-        lang = metadata.pop("lang")
         extra_outline = metadata.pop("extra_outline", None)
+        html_filename = metadata.pop("html_filename", None)
+        pdf_filename = metadata.pop("pdf_filename", None)
         if not target_md_file or target_md_file == md_src_file:
-            build_single_pdf(md_src_file, metadata, lang, extra_outline, bookmarks)
-            if md_src_file.name == "OriMushi.md":
-                (DIR / "index.html").rename("OriMushi.html")
-            elif md_src_file.name == "CreationDePersonnage.md":
-                (DIR / "index.html").rename("CreationDePersonnage.html")
-    if not target_md_file or target_md_file.name.endswith("index.md"):
-        # This will be rendered at https://lucas-c.github.io/jdr/OriMushi/
-        with open(DIR / "index.md", encoding="utf8") as md_file:
-            md2html(DIR, md_file.read(), CSS_FILEPATH, lang="fr")
+            build_single_pdf(md_src_file, metadata, extra_outline, bookmarks, pdf_filename)
+            if html_filename:
+                (DIR / "index.html").rename(html_filename)
 
-def build_single_pdf(md_filepath, metadata, lang, extra_outline, bookmarks):
+def build_single_pdf(md_filepath, metadata, extra_outline=None, bookmarks=False, pdf_filename=None):
     start = perf_counter()
-    out_filepath = md_filepath.with_suffix(".pdf")
+    if pdf_filename:
+        out_filepath = Path(pdf_filename)
+    else:
+        out_filepath = md_filepath.with_suffix(".pdf")
     with out_filepath.open("wb") as out_pdf_file:
         with open(md_filepath, encoding="utf8") as md_file:
             md_content = tmpl_subst(md_file.read())
-        pdf = md2pdf(DIR, md_content, CSS_FILEPATH, lang=lang, metadata=metadata, bookmarks=bookmarks).getbuffer()
+        pdf = md2pdf(DIR, md_content, CSS_FILEPATH, lang="fr", metadata=metadata, bookmarks=bookmarks).getbuffer()
         out_pdf_file.write(pdf)
     set_metadata(out_filepath, **metadata)
     if extra_outline:
@@ -97,4 +102,4 @@ if not __annotations__.get("XRELOADED"):
     # The --watch mode is very handy when using a PDF reader
     # that performs hot-reloading, like Sumatra PDF Reader:
     if "--watch" in sys.argv:
-        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES, "index.md"))
+        asyncio.run(start_watch_and_rebuild(sys.modules[__name__], *SRC_FILES))

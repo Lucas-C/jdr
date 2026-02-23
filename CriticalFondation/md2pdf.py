@@ -15,12 +15,12 @@ copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "imgs" / "cc-by-nc-sa.pn
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
-    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/CriticalFondation/
+    CARDS_MD_FILEPATH   := DIR / "Cartes.md",
     DIAGRAM_MD_FILEPATH   := DIR / "Diagramme.md",
     S1_NOTES_MD_FILEPATH  := DIR / "NotesEpisodes.md",
     HIGHTENSION_MD_FILEPATH  := DIR / "HauteTension-Notes.md",
     S2_NOTES_MD_FILEPATH  := DIR / "Saison2/NotesEpisodes.md",
-    CARDS_MD_FILEPATH   := DIR / "maps/Cartes.md",
+    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/CriticalFondation/
     README_MD_FILEPATH := DIR / "README.md",
 )
 

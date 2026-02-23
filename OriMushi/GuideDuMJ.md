@@ -48,7 +48,7 @@ Le jeu a été conçu avec deux manières principales d'y joueur en tête :
 * une succession d'une dizaine de parties avec un même groupe de joueurs, formant une **campagne** dont l'histoire trouvera une conclusion
 
 Il est bien sûr aussi possible de jouer à Ori Mushi d'autres manières, en menant par exemple des campagnes plus courtes ou plus longues, ou avec seulement un joueur, voir six ou plus.
-Ce guide se concentrera néamoins sur l'expérience de jeu principalement imaginée pour Ori Mushi.
+Ce guide se concentrera néanmoins sur l'expérience de jeu principalement imaginée pour Ori Mushi.
 
 ### Parties _one-shot_
 
@@ -56,76 +56,6 @@ Ce guide se concentrera néamoins sur l'expérience de jeu principalement imagin
 
 ### Bac à sable VS linéarité
 https://ptgptb.fr/linearite-contre-bac-a-sable
-
-### Structure de la campagne
-Les grandes idées structurantes :
-* les komusō vont être des témoins de la "Grande Histoire", sans en être les héros.
-Ils auront leur rôle à jouer, et pourront "faire la différence",
-mais les véritables héroïnes sont des PNJs, qu'ils ne pourront qu'assister :
-Mae, Oma, Rumiko...
-* deux "coupures" vont séparer l'histoire en trois partie
-
-#### Chapitre 1
-Correspond aux 3 premières aventures / sessions de jeu.
-Les komusō sont majoritairement au 1er pallier de leur Voie.
-
-* **Les disparus du festival du printemps** : les komusō découvrent leur 1er mushi et réveillent un Colosse
-    -> maps: ForestShrineFestival-Spring (& AsianRiceFarm ?)
-* **Il faut protéger Bourg-Mistral**
-    -> maps: MellowMarshlandMill & BirdfolkVillage & WarforgedTitanScrapyard (après chute du Colosse)
-    + les PJs doivent empêcher le Colosse de piétiner la bourgade : la faire évacuer, et convaincre le bourgmestre ? Détourner le Colosse ?
-    + découverte de la **Tour de l'Infini**
-    + les PJs rencontrent & sympathisent avec **Rumiko**, fille de Mokabé et **Oma** au **Moulin Des Cigognes**
-    + les PJS croisent un Oni enragé : **Sobek**, un bûcheron devenu berserk
-    + les PJS découvrent la censure et les brûlots de l'Église de la Connaissance
-*  **Les funérailles du daïmio**
-    -> maps: CherryBlossomMonastery & WizardPrison (= Tour de l'Infini)
-    + Mokabé confie à un PJ qu'il va bientôt mourir (inspi 120 BPM)
-        -> finalement tué par Sobek ?
-    + rencontre avec un dragon, Hakuryū -> apparence humaine ?
-    + les PJS rencontrent **Gilga**, sans savoir qui il est
-
-Scénario où les PJs sont interpellés pour trancher un dilemne de village
-Introduire éléments du Mystika :
-* vallée secrète du peuple éteint, accessible via galerie souterraine (dont les PJs ont la localisation), grâce à un mushi...
-
-#### Chapitre 2
-Correspond à environ 3 aventures / sessions de jeu.
-Les komusō sont majoritairement au 2e pallier de leur Voie.
-
-+ les komusō sont déclarés hors-la-loi & décimés + guerre éclate -> **ELLIPSE de plusieurs années**
-    => phase de storytelling comme lors de la "session zero"
-    => +1 Artefact & +1 Compétence
-    => les PJs se retrouvent après plusieurs années,
-       et se voient confier une mission d'importance (~ "protéger & détruire l'oeil de Sauron")
-       -> lié à un Artefact, défini par tirage de dé + narration collective, Artefact lui-même fortement lié à un PJ (pas "portable" par autre perso)
-
-+ découverte du Théâtre des Cieux, recouvert d'ahoratos (lichen rendant invisible)
-+ un oeuf de dragon est confié aux PJs
-+ Gilga
-+ donner Codex complet au Mushishi
-
-#### Chapitre 3
-Correspond à environ 3 aventures / sessions de jeu.
-Les komusō sont majoritairement au 3e pallier de leur Voie.
-
-<!-- scénario inspiré du Moine Fou / He Pao ? -->
-
-Prévoir une scène / un événement ayant lieu lors de la séquence "Autour du Feu" dans la campagne
-
-
-## Les joueurs
-
-### Ne pas toujours jouer avec les même joueurs 
-Façon "Les Marches de l'Ouest"
-Comment faire, etc.
-
-Si vous commencez à avoir plus de 5 joueurs, il est important de fixer un nombre max de joueurs autour de la table avec lequel vous vous sentez à l'aise : personnellement au-delà de 5 j'ai du mal à m'assurer que tout le monde s'amuse autant, mais certains MJs sont à l'aise avec 8 joueurs !
-Dans ce cas, déterminez clairement qui participera aux parties : les 1ers inscrits ? Les plus assidus ?
-+ évoquer Framadate
-
-Détailler comment introduire un PJ en cours de partie,
-pour lui donner un certains nombre de ressources (Oris, Matériaux, mushis dans Codex, etc.)
 
 ### Conseils pour la "session zéro"
 * imprimez les _settings primers_ en double : Histoire & Géographie
@@ -140,6 +70,71 @@ offre plusieurs avantages :
 * ils ont des objectifs communs, propices à générer de belles aventures.
 
 
+## Ori Mushi en table ouverte
+Façon "Les Marches de l'Ouest"
+
+Si vous commencez à avoir plus de 5 joueurs, il est important de fixer un nombre max de joueurs autour de la table avec lequel vous vous sentez à l'aise : personnellement au-delà de 5 j'ai du mal à m'assurer que tout le monde s'amuse autant, mais certains MJs sont à l'aise avec 8 joueurs !
+Dans ce cas, déterminez clairement qui participera aux parties : les 1ers inscrits ? Les plus assidus ?
+
+* détailler le fonctionnement du Framapad
+* impose que **chaque fin partie doit correspondre à une fin d'aventure**
+* prévoir un temps en début de partie :
+  + pour introduire les nouveaux personnages, et établir leurs **nouveaux liens** avec les membres du groupe, comme détaillé da ns le chapitre "Former un groupe"
+  + chaque personnage qui "revient" dans le groupe "justifie" son absence, en suivant les étapes détaillées dans la section "Pendant ce temps..." ci-dessous
+
+::: page-break
+:::
+
+### Pendant ce temps...
+Cette petite mécanique narrative permet aux joueurs qui reviennent autour de la table après avoir été absents de **déterminer ce que faisait leur komusō** durant la ou les dernières parties.
+
+En début de partie, lorsque le komusō rejoint ses camarades,
+ces derniers **lui posent quelques questions** pour discuter de ses occupations.
+Cette scénette peut durer entre 5min et 15min, voir plus si le groupe le souhaite.
+
+Le MJ détermine **dans quel lieu tranquille** se déroule cette discussion :
+assis pour partager le thé à la tour de l'Infini,
+tassés à l'arrière d'une cariole durant un voyage,
+en train de se baigner à la rivière, etc.
+
+Le joueur qui était absent commence par choisir **la raison de son absence**.
+Si **une idée lui vient**, en lien avec l'historique de son personnage et des parties précédentes,
+c'est idéal, mieux vaut partir de sa propre inspiration.
+Sinon, il peut lancer un dé dans la table ci-dessous :
+
+::: borderless with-headings text-small reduced-vertical-margin large-col-3 left-align-col-2
+🎲 | Raison de l'absence | Suggestions
+-|-
+⚀ | Artefact | Votre artefact ne fonctionne plus, a nécessité des réparations, a dû être remplacé ou rechargé, vous avez dû consulter quelqu'un ou vous rendre quelque part...
+⚁ | Activité | **Un devoir ou une dette** liés à votre précédente activité ont nécessité votre présence.
+⚂ | Mauvaise habitude | À nouveau celle-ci vous a causé des problèmes... De santé ? Avec la loi ? Un conflit ? Cela s'est aggravé ?
+⚃ | Motivation | Une opportunité de réaliser **quelque chose de significatif** vers votre but s'est présentée.
+⚄ | Un Lien | Un proche vous a sollicité ou vous avez dû lui porter secours... Un chantier, un voyage, une retraite spirituelle, une naissance, une fin de vie...
+⚅ | Vœu personnel | Une **tâche importante** s'est présentée en lien avec cet engagement individuel, sur requête d'un daïmio ou non.
+:::
+
+<!-- Idée : proposer une v2 et une v3 de cette table pour les actes 2 & 3 ? -->
+
+Si le joueur qui était absent n'est pas inspiré,
+il peut demander des idées à ses camarades.
+Ensuite, la phase de _roleplay_ débute : **les autres komusō entament la discussion en lui posant quelques questions**, auxquels le joueur est libre de répondre comme il l'entend,
+en inventant tout ce qu'il souhaite.
+
+Voici quelques conseils généraux :
+* sentez-vous libre d'inventer **des détails spécifiques ou des conséquences sérieuses** : le MJ se chargera de nuancer vos improvisation si besoin
+* **inspirez-vous des parties précédentes** pour inclure des lieux ou des personnages déjà rencontrés
+* essayez d'avoir **un échange** avec les autres joueurs, en rebondissant sur leurs questions, plutôt que d'improviser un monologue
+* cette scénette n'est pas une opportunité d'obtenir des faveurs, de l'équipement, etc. Elle peut par contre être l'occasion de tisser des relations avec des personnages, qui pourront devenir des **Liens** ensuite.
+* **évitez de garder le secret** : l'objectif de cette scénette est d'étoffer l'histoire de votre personnage et faire en sorte que les komusō du groupe fassent connaissance. Et en conservant vos activités secrètes, vous prenez le risque qu'elles ne soient jamais racontées autour de la table durant la partie.
+
+::: page-break
+:::
+
+### Introduire un joueur durant l'acte 2 ou 3
+TODO : détailler comment donner un certains nombre de ressources (Oris, Matériaux, mushis dans Codex, etc.)
+et de "coches" sur sa feuille de Voie
+
+
 ## Système & mécaniques
 
 <!-- Synergies thématiques entre les différentes Voies des komusō -->
@@ -150,6 +145,59 @@ Comment décrire un échec ? https://ptgptb.fr/l-art-d-arbitrer-9
 -> ce n'est pas forcément le PJ qui a râté, il s'agit peut-être aussi des circonstances / contexte / environnement
 
 > En pratique, cela implique que l’échec ne doit **jamais** ramener au statu quo. On ne veut pas forcément échouer en allant de l’avant , mais il est préférable que la résolution d’une action (échec ou succès) change la situation d’une manière ou d’une autre.
+
+### Voies
+Principes de conception des Voies :
++ PROGRESSION : ~3 critères, dont un en lien avec celui d'une autre Voie
++ TRIGGERS :
+    pour chaque palier, le PJ doit être AUTONOME pour l'un, l'autre dépend des aventures proposées par le MJ
+    sur les 4 de la feuille, un doit être en commun avec une autre Voie
++ le 2e PALIER offre un CHOIX de spécialisation
+  (OU: permet au joueur de se créer SA PROPRE TECHNIQUE, avec SON PROPRE SOUS-SYSTEME au choix parmi 3)
++ prévoir que le système (changement de règles...) & les FPs des joueurs (éléments rayés / agrafés / collés...) évoluent au fur et à mesure des parties - Exemples / idées :
+    * les règles MENTENT : la transformation en Oni est plus rapide que prévue !
+        -> et provoque un changement de FP !
+
+* continuer à introduire des mécaniques complémentaires entre Voies, voir des "combos"
+* mécanique des "masks": au palier 2/3, choix narratif impactant sur rôle PJ dans campagne
+    Ex : si tu te voyais devenir un Oni, que ferais-tu ?
+         pourquoi cela te tient tant à cœur de faire partie de ce groupe ?
+         si une guerre survenait, au service de qui te placerais-tu ?
+         si l'Église de la Connaissance prenait le pouvoir, que ferais-tu ?
+         pour quelle cause serais-tu prêt·e à mettre ta vie en jeu ?
+         etc.
+    -> va définir ce que devient le PJ durant l'ellipse (flashforward)
+
+#### Artiste-Conteur
+**Mystère/objectif "fil rouge"** : découvrir la véritable histoire du Poète Endeuillé / sa tombe / des Colosses
+
+#### Maître-Artisan
+**Mystère/objectif "fil rouge"** : découvrir l'origine / les motivations / communique avec des Colosses
+
+#### Mushishi
+**Mystère/objectif "fil rouge"** : ?
+
+#### Poète-Sorcier
+**Mystère/objectif "fil rouge"** : découvrir la véritable histoire du Poète Endeuillé / sa tombe
+
+Idées :
+* le Poète-Sorcier a une VISION de sa propre mort dans l'avenir -> se réalisera-t-elle ?
+* Poète-Sorcier : capacité 1 MANA => +1 d6
+* Poète-Sorcier : supprimer Noms-Secrets
+* Poète-Sorcier : augmenter le nombre de Versets
+* Poète-Sorcier : est-ce qu'ils devraient pas être ceux qui collectent les livres ? & bas-reliefs ?
+
+### Changements de palier
+Le changement de palier des PJs est **simultané**, et provoque une **ellipse narrative**,
+faisant basculer l'histoire vers l'acte 2, puis 3.
+Mais ne le dites pas à vos joueurs, gardez la surprise !
+
+Le changement de palier se déclenche au début d'une partie où
+**au moins trois PJs présents sont prêts à passer au palier suivant de leur Voie**.
+Tous les komusō du groupe basculent alors au palier suivant :;
+donnez-leur la feuille de Voie correspondante.
+
+=> répondre à une question <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
 
 
 ## Concevoir des scénarios
@@ -163,9 +211,16 @@ Comment décrire un échec ? https://ptgptb.fr/l-art-d-arbitrer-9
 
 ### Créer de l'adversité sans combats
 
+### Cette fois où j'ai procrastiné pendant 2 semaines pour finalement préparer une partie à l'arrache
+Raconter cette histoire + rassurer + expliquer comment j'ai procédé
+
 ### Jouer à Ori Mushi dans un autre univers
 Peut-être aimeriez jouer dans votre univers favori ?
 
+
+## Version Express
+<!-- Reprendre en partie la section correspondante dans ArchivesDesIdees.md
+     et rédiger quelques conseils pour employer Ori Mushi comme jeu "d'initiation" -->
 
 ## Thématiques d'Ori Mushi
 Cette section vise à donner quelques explications concernant les différents sujets

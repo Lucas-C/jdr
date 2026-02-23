@@ -235,8 +235,8 @@ def add_top_bottom(pdf, img1, shadow=False):
 
 def add_tile(pdf, img_filename, halign, valign_height=None):
     _, _, img_info = preload_image(pdf.image_cache, DIR / "tiles" / img_filename)
-    img_width_mm = img_info.width * SCALE
-    img_height_mm = img_info.height * SCALE
+    img_width_mm = img_info["w"] * SCALE
+    img_height_mm = img_info["h"] * SCALE
     if valign_height:
         pdf.y += (valign_height - img_height_mm) / 2
     x = halign2x(halign, pdf, img_width_mm)

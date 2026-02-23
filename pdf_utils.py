@@ -36,11 +36,19 @@ ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE
 logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
                         datefmt="%H:%M:%S", level=logging.INFO)
 logging.getLogger("livereload").setLevel(logging.INFO)
-# logging.getLogger("weasyprint").setLevel(logging.DEBUG)
+
 # Avoid some useless verbose logs:
 logging.getLogger("fontTools.subset").level = logging.WARN
 logging.getLogger("fontTools.ttLib.tables._h_e_a_d").level = logging.ERROR
 logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
+
+# Silence weasyprint logs regarding unsupported CSS @media queries,
+# cf. https://github.com/Kozea/WeasyPrint/issues/494
+class LogFilter(logging.Filter):
+    def filter(self, record):
+        return " media type" not in record.msg
+logging.getLogger("weasyprint").addFilter(LogFilter())
+# logging.getLogger("weasyprint").setLevel(logging.DEBUG)
 
 
 def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None, bookmarks=True):
@@ -344,11 +352,9 @@ def watch_xreload_and_serve(module, root_dir, *files_to_watch):
 
 class CustomHtmlRenderer(HtmlRenderer):
     def __init__(self):
+        # I started working to support <dl> elements in:
+        # https://github.com/miyuchina/mistletoe/pull/236
         super().__init__(TripleCommaDiv) #, DefinitionList)
-
-    def render_definition_list(self, token) -> str:
-        inner = self.render_inner(token)
-        return f'<dl class="{token.classes}">{inner}</dl>'
 
     def render_triple_comma_div(self, token) -> str:
         inner = self.render_inner(token)
@@ -369,31 +375,6 @@ class CustomHtmlRenderer(HtmlRenderer):
         attr = ' align="{}"'.format(align) if align else ''
         inner = self.render_inner(token)
         return template.format(tag=tag, attr=attr, inner=inner)
-
-
-class DefinitionList(BlockToken):
-    """
-    Simple <dl> block. (["term", ": definition"])
-
-    Inspirational specs:
-    * https://www.markdownguide.org/extended-syntax/#definition-lists
-    * https://github.com/Python-Markdown/markdown/blob/master/docs/extensions/definition_lists.md
-    * https://pandoc.org/MANUAL.html#definition-lists
-
-    I shared this implementation there: https://github.com/miyuchina/mistletoe/issues/229
-    """
-
-    @staticmethod
-    def start(line):
-        raise NotImplementedError
-
-    @classmethod
-    def read(cls, lines):
-        raise NotImplementedError
-        self.children = ...
-
-    def __init__(self, match):
-        self.children = match
 
 
 class TripleCommaDiv(BlockToken):
