@@ -207,7 +207,7 @@ Voici ce qui peut être découverts dans le manoir :
 * le molosse a commencé à déterrer un corps dans une fosse commune près du manoir, que le Scientifique du groupe sera ravi d'examiner. Un test de **Savoir-Faire** ou **Connaissance** (_Adresse_ ou _Mental_) difficulté **2** lui apprendra qu'il y a là une demi-douzaine de cadavres de soldats, certains mutilés chirurgicalement et d'autres avec des traces de torture, dont certains se ressemblent comme des jumeaux...
 * _(si l'un des PJs est un clone)_ l'un des cadavres mutilés semble familier au PJ qui l'examine... Demandez-lui un test de **Perception** (_Mental_) difficulté **4** : s'il réussit, informez-le secrètement de la ressemblance avec le PJ clone.
 
-<img class="map-preview float-right" src="maps/TomCartos - Into Wild Ruins - Ruined Manor - Grid.jpg">
+<img class="map-preview float-right" src="maps/TomCartos-IntoWildRuins-RuinedManor-Grid.jpg">
 
 Ce **plan** peut être employé : [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292).
 

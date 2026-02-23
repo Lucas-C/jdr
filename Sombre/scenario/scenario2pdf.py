@@ -19,9 +19,10 @@ from fpdf.enums import Align
 from fpdf.image_parsing import preload_image
 from pypdf import PdfWriter
 
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useless verbose logging
+
 DIR = Path(__file__).parent
 
-logging.getLogger("fontTools.subset").level = logging.WARN  # avoid useless verbose logging
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable

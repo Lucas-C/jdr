@@ -6,7 +6,7 @@ from random import randint
 from shutil import copyfile
 from time import perf_counter
 
-logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useless verbose logging
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
@@ -69,6 +69,7 @@ def build_pdf(target_md_file=None):
         if not target_md_file or target_md_file == md_src_file:
             build_single_pdf(md_src_file, metadata, extra_outline, bookmarks, pdf_filename)
             if html_filename:
+                print("Creation de", html_filename)
                 (DIR / "index.html").rename(html_filename)
 
 def build_single_pdf(md_filepath, metadata, extra_outline=None, bookmarks=False, pdf_filename=None):

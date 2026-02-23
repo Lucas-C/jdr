@@ -6,6 +6,8 @@ from random import random
 from shutil import copyfile
 from time import perf_counter
 
+logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useless verbose logging
+
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild

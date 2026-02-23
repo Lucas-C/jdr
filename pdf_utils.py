@@ -42,12 +42,15 @@ logging.getLogger("fontTools.subset").level = logging.WARN
 logging.getLogger("fontTools.ttLib.tables._h_e_a_d").level = logging.ERROR
 logging.getLogger("fontTools.ttLib.tables.O_S_2f_2").level = logging.ERROR
 
-# Silence weasyprint logs regarding unsupported CSS @media queries,
-# cf. https://github.com/Kozea/WeasyPrint/issues/494
-class LogFilter(logging.Filter):
+class WeasyprintLogFilter(logging.Filter):
     def filter(self, record):
+        # Abort if any ERROR is logged:
+        if record.levelname == "ERROR":
+            raise RuntimeError(record.msg % record.args)
+        # Silence weasyprint logs regarding unsupported CSS @media queries,
+        # cf. https://github.com/Kozea/WeasyPrint/issues/494
         return " media type" not in record.msg
-logging.getLogger("weasyprint").addFilter(LogFilter())
+logging.getLogger("weasyprint").addFilter(WeasyprintLogFilter())
 # logging.getLogger("weasyprint").setLevel(logging.DEBUG)
 
 
