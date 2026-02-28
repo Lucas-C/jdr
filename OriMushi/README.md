@@ -1,8 +1,13 @@
-Dernière version du PDF: [OriMushi.pdf](https://lucas-c.github.io/jdr/OriMushi/OriMushi.pdf)
+Page d'accueil web du projet : <https://lucas-c.github.io/jdr/OriMushi/>
 
 ## Musique
-Quelques albums que j'ai écouté en travaillant sur ce projet :
+Ils ne sont pas forcément adaptés pour être diffusés comme musique d'ambiance en partie,
+mais voici quelques albums que j'ai écouté en travaillant sur ce projet :
+* [Takashi Kokubo (小久保隆) - Oasis Of The Wind II ～ A Story Of Forest And Water ～ (1993)](https://www.youtube.com/watch?v=rWEI9y6PElo)
+* [Tir - Urd, Skuld & Verdandi](https://www.youtube.com/watch?v=Y86VoxYB7iY)
+* DJ Okawari : [Diorama](https://www.youtube.com/watch?v=TKmECoGK3fY) - [Kaleidoscope](https://www.youtube.com/watch?v=OrX27EptLe4) - [Nightfall](https://www.youtube.com/watch?v=5xcvV_dxvvk)
 * [II - A7PHA (DoseOne)](https://www.youtube.com/playlist?list=OLAK5uy_lylWPOwGuoyfo8ggBcshJTPGVlkfszGTs)
+* [Flying Lotus - Yasuke Original Soundtrack](https://www.youtube.com/watch?v=TEgF9OhC7p8)
 
 ## Génération des PDFs
 Avec Python :

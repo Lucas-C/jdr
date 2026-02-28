@@ -58,7 +58,7 @@ Ce guide se concentrera néanmoins sur l'expérience de jeu principalement imagi
 https://ptgptb.fr/linearite-contre-bac-a-sable
 
 ### Conseils pour la "session zéro"
-* imprimez les _settings primers_ en double : Histoire & Géographie
+* imprimez les _settings primers_ en double
 * efforcez-vous d'employer les noms des PJs
 * comment gérer les cas où deux joueurs incarnent des komusō sur la même Voie ?
   -> détailler la situation pour les 4 Voies
@@ -69,6 +69,27 @@ offre plusieurs avantages :
 * ils n'ont pas le choix de travailler ensemble.
 * ils ont des objectifs communs, propices à générer de belles aventures.
 
+#### Liens initiaux entre komuso
+Leur rôle est de créer des liens entre les PJs dès le début de l'histoire,
+mais c'est aussi l'occasion de leur présenter
+les mécaniques narratives d'Ori Mushi pour la 1ère fois.
+Il est donc important de prendre un peu de temps pour que les joueurs
+se familiarisent avec cet exercice pas toujours simple pour eux.
+
+Enfin, ces liens initiaux sont prévus pour introduire des éléments de la campagne d'Ori Mushi.
+Voici en particulier quelques éléments à avoir en tête :
+1. les komusō reviendront dans le village de leur enfance durant le 2e acte
+1. les komusō reverront leur ancien maître durant le 2e acte
+3. les komusō découvriront la stèle funéraire de leur ancêtre durant la 3e aventure
+4. \-
+5. les komusō assisteront à nouveau à un banquet de mushis durant le 2e acte
+6. \-
+7. les komusō rencontreront à nouveau cet Oni durant le 2e acte
+8. \-
+9. \-
+10. \-
+11. \-
+12. \-
 
 ## Ori Mushi en table ouverte
 Façon "Les Marches de l'Ouest"
@@ -169,23 +190,42 @@ Principes de conception des Voies :
     -> va définir ce que devient le PJ durant l'ellipse (flashforward)
 
 #### Artiste-Conteur
-**Mystère/objectif "fil rouge"** : découvrir la véritable histoire du Poète Endeuillé / sa tombe / des Colosses
+**Mystère / objectif "fil rouge" & destin** : devenir un artiste-sage, un daïmio / "souffle de la Vérité" = lutter contre l'obscurantisme de l'Église de la Connaissance
 
 #### Maître-Artisan
-**Mystère/objectif "fil rouge"** : découvrir l'origine / les motivations / communique avec des Colosses
+**Mystère / objectif "fil rouge" & destin** : l'héritage de Vitruve / étudier ses Merveilles / devenir Évêque-Ingénieur & réaliser son grand-oeuvre
 
 #### Mushishi
-**Mystère/objectif "fil rouge"** : ?
+**Mystère / objectif "fil rouge" & destin** : découvrir l'origine du Fléau Impassible / des Onis; voir trouver un remède...
 
 #### Poète-Sorcier
-**Mystère/objectif "fil rouge"** : découvrir la véritable histoire du Poète Endeuillé / sa tombe
+**Mystère / objectif "fil rouge" & destin** : découvrir l'héritage du Poète Endeuillé / sa tombe / leur lien avec les Colosses
 
-Idées :
-* le Poète-Sorcier a une VISION de sa propre mort dans l'avenir -> se réalisera-t-elle ?
-* Poète-Sorcier : capacité 1 MANA => +1 d6
-* Poète-Sorcier : supprimer Noms-Secrets
-* Poète-Sorcier : augmenter le nombre de Versets
-* Poète-Sorcier : est-ce qu'ils devraient pas être ceux qui collectent les livres ? & bas-reliefs ?
+---
+
+⚠️ Les feuilles de Voie de 2e palier permettent de conserver les compétences de palier 1, et 1 objectif d'agenda
+
+#### Artiste-Sage
+* +1d Charme
+* +1d Sagesse
+
+#### Maître-Ingénieur
+* +1d grâce à son grand-œuvre
+* +1d Réparer
+
+#### Ermite-Symbiotique
+
+#### Mage-Gnostique
+* a une VISION de sa propre mort dans l'avenir -> se réalisera-t-elle ?
+* capacité 1 MANA => +1 d6
+* augmenter le nombre de Versets
+
+#### Archéologue-Pétrifié
+
+#### Oni
+* permet d'accéder à la Voie du Dragon
+
+#### Résistant
 
 ### Changements de palier
 Le changement de palier des PJs est **simultané**, et provoque une **ellipse narrative**,
@@ -198,6 +238,53 @@ Tous les komusō du groupe basculent alors au palier suivant :;
 donnez-leur la feuille de Voie correspondante.
 
 => répondre à une question <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg">
+
+### Mystika
+Le MJ consulte la table ci-dessous, en privilégiant les premiers secrets de la liste,
+pour leur révéler un secret correspondant au **bas-relief** ou **incunable** déchiffré.
+Vous pouvez "sauter" un ou plusieurs secrets, si un autre secret plus bas dans la table s'avère plus adapté au contexte, selon le bas-relief ou l'incunable découvert.
+Cochez-le ensuite dans la table, pour vous souvenir qu'il a été révélé aux joueurs.
+
+#### 1. Sphères de Vitruve
+Chaque Colosse est alimenté par une **sphère de Vitruve**, un dispositif mécano-magique alimenté par un **œuf de dragon**.
+
+**Question-Réponses** : en plus d'être de puissantes sources de Mana, les sphères de Vitruve possèdent une autre incroyable propriété... Quelle est-elle ?
+
+**Reliques idéalement associées** :
+* bas-reliefs au sein du Colosse Nergal, ou de Bilgamesh
+
+#### 2. Le peuple éteint
+Le peuple éteint n'a pas totalement disparu.
+Ses derniers membres se sont réfugiés dans une **vallée secrète**.
+
+**Question-Réponses** : la relique que vous avez déchiffré indique comment y accéder, quel est ce moyen ?
+
+**Reliques idéalement associées** :
+
+#### 3. Chant & sillage des Colosses
+* Leur cri mélodieux mais plaintif est en fait un chant composé de Versets du Poète Endeuillé, dont les effets sont **magiques**.
+* ils transportent et sèment dans leur sillage des **graines de mushis**, dont ils permettent la pousse par leur chant.
+
+**Question-Réponses** : Bilgamesh emploie le Vocable des Plantes, quel est exactement l'impact des Versets qu'il chante ?
+
+**Reliques idéalement associées** :
+* bas-reliefs au sein du Colosse Nergal, ou de Bilgamesh
+
+#### TODO : table pas adaptée, à convertir en sections dédiées
+::: borderless text-small with-headings
+ | Secret | Narration partagée
+-|-
+4 | Les **mnémocoques** sont des _mushis_ coquillages somnivores, capables de conférer l'**immortalité**, s'ils sont brisés et que leur cœur est consommé. Cela signifie cependant **perdre progressivement la mémoire**... | **Question-Réponses** : Watatsumi, était un légendaire dragon des mers, pourtant son nom disparu lors de la guerre de l'Oubli... Pourquoi ?
+5 | Le **Fléau Impassible** est un mushi, il s'est déjà répandu par le passé, et un remède a été trouvé en l'étudiant. | **Question-Réponses** : quel fut le remède et comment a-t-il été découvert ?
+6 | Les **Onis** sont en réalité **une septième famille de mushis parasites**, qui se développe lorsque l'on ingère des graines _onimame_. Les **dragons** sont **des Onis totalement transformés** et les "œufs de dragons" sont en réalités des cocons plein de **spores d'Onis**. | **Question-Réponses** : ?
+7 | **Vitruve était le Poète Endeuillé**. Les Colosses obéissent aux **Poètes-Sorciers endeuillés**, qui ont perdu des êtres chers et qui agissent mûs par le chagrin que cela leur inspire | **Question-Réponses** : ?
+:::
+
+<!--
+Ces secrets doivent "accompagner" la campagne principale.
+Idéalement, alterner l'objet de ces secret: les Temps Antiques / la Guerre de l'Oubli / etc.
+? Est-ce que d6 est vraiment UTILE ? Est-ce que rêvéler les secrets un à un ne serait pas plus simple pour écrire la campagne ?
+-->
 
 
 ## Concevoir des scénarios

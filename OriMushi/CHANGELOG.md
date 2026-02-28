@@ -8,8 +8,9 @@
 * table ouverte :
     + création d'un [Livret d'Aventures](character-sheets/OriMushi-LivretDAventures.pdf)
     + mécaniques narratives de début de partie : _"Pendant ce temps"_ introduit
+* développement de l'intrigue, de la 1ère ellipse et des nouvelles Voies accessibles
 * univers :
-    + Prêtres du Vide
+    + Prêtres du Vide (= institution des komusō)
 
 ## Version v0.4 - Partie du 5 juillet 2025
 Renommages :

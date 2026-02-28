@@ -3,7 +3,7 @@
 ## Les Komuso
 
 ::: borderless with-headings
-Nom komusō<br>& Joueur·euse | Motivation / Vœu personnel | Voie & Activité | Artefacts | <img class="icon" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg"> & Notes
+Nom komusō<br>& Joueur·euse | Motivation / Vœu personnel | Voie & Activité | Artefacts | Liens & notes
 -|-|-|-|-
 |
 |
