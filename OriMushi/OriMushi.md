@@ -23,6 +23,8 @@ Next :
     rejouer des scènes de roleplay ?
 * finir le Codex Mushi complet
     + mnémocoques : coquillages somnivores, capables de conférer l'**immortalité**, s'ils sont brisés et que leur cœur est consommé; cela signifie cependant **perdre progressivement la mémoire**...
+    + equié : slime / pate répare-tout / devient visible en durcissant
+    + laisser de la place pour en inventer !
 * finir Noms-japonais.md
 * rédiger section à propose des VOYAGES : durée, ellipses, etc.
     => les komusō hitch hikent, et donc c'est chaque fois l'opportunité d'une rencontre
