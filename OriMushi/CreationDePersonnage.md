@@ -9,7 +9,7 @@ Un jeu de rôle _hopepunk_ dans un univers de _fantasy_ inspiré du japon médi�
 où les joueurs incarnent des _komusō_, ayant fait vœu d'aider la population,
 et où des créatures nommées _mushis_ ont donné naissance à la magie.
 
-**Inspirations**: Mushishi, Le château dans le ciel, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoké, Le Voyage de Chihiro, Zelda...
+**Inspirations**: Mushishi, Le château dans le ciel, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoké, Le Voyage de Chihiro, Full Metal Alchemist, Zelda...
 
 Retrouvez les articles de mon blog à propos du développement du jeu :
 <br>[tag #ori-mushi @ chezsoi.org](https://chezsoi.org/lucas/blog/tag/ori-mushi.html)
@@ -19,7 +19,7 @@ Retrouvez les articles de mon blog à propos du développement du jeu :
 Suivez dans l'ordre ces étapes, qui sont décrites plus loin :
 
 1. Imprimez une [FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
-2. Choisissez laquelle des quatre **Voies** empruntera votre personnage : [OriMushi-VoiesDesPersonnages.pdf](character-sheets/OriMushi-VoiesDesPersonnages.pdf)
+2. Choisissez laquelle des quatre **Voies** empruntera votre personnage : [OriMushi-VoiesDesKomuso-Acte1.pdf](character-sheets/OriMushi-VoiesDesKomuso-Acte1.pdf)
 4. Dans **la liste de compétences**, choisissez-en 2 où vous êtes **un expert**, et cochez leurs deux cases; puis choisissez **4 autres compétences** que vous maîtrisez bien, et cochez une seule case pour celles-ci
 3. Choisissez une **Motivation**, une **Mauvaise habitude** et un **un artefact**
 6. Si vous êtes un Poète-Sorcier, choisissez **un Vocable**, et **un Verset** maîtrisé
@@ -30,15 +30,15 @@ Au début de votre première partie, vous commencerez par établir des **liens**
 ## Voies
 ::: same-size-2-cols
 
-_[En cours de rédaction] Description des principales Voies pouvant être choisies._
+Les komuso
 
 ### Artiste-Conteur
 > Je connais et raconte les plus incroyables histoires, et sais captiver un public avec jonglage, tours de passe-passe, ombres chinoises, spectacles, etc.
 > Je sais aussi apaiser des créatures ou des situations.
 
-**Progression du personnage** : via des représentations de spectacles réussies, et le perfectionnement de mes technique de pacification
+-> mentionner archéologie & recherche de la Vraie Histoire
 
-Cette Voie peut amener un komusō à devenir artistes-sage, un daïmio.
+**Progression du personnage** : via des représentations de spectacles réussies, et le perfectionnement de mes technique de pacification
 
 ### Maître-Artisan
 > Je veux maîtriser toutes les formats d'artisanat, pour construire les objets les plus beaux et utiles, et leur insuffler un peu d'âme.
@@ -49,6 +49,12 @@ Cette Voie peut amener un komusō à devenir artistes-sage, un daïmio.
 
 ### Mushishi
 > J'étudie et m'efforce d'apaiser mushis et Colosses.
+
+Les Mushishis sont des naturalistes, des observateurs attentifs et passionnés du monde vivant :
+botanistes, zoologues, éthologues...
+Ils ont en particulier développé une spécialisation pour les _mushis_,
+des organisme vivant **invisibles** aux yeux des humains, et qui produisent de l'énergie magique, le Mana.
+Les Mushishis veillent à conserver l'harmonie entre les différentes espèces des terres connues.
 
 **Précisions sur la feuille de Voie** :
 
@@ -62,13 +68,20 @@ Un Mushishi peut également employer sa compétence _Connaissance des mushis_ po
 Il effectue alors un jet de dé, et le meilleur dé obtenu indique le nombre de caractéristiques que le MJ lui indique concernant ce mushi.
 Il est possible de retenter un jet d'identification à partir d'un nouvel échantillon / dans des nouvelles circonstances.
 
-_**Soigner**_ permet à un Mushishi de stabiliser une blessure
-
 ### Poète-Sorcier
 > Je maîtrise l'art du Verbe, et les Vocables magiques.
 
+Les Poètes-Sorciers sont des mages, tirant leurs pouvoir du **Verbe** et du l'énergie magique, le **Mana**.
+Il existe **des écoles très variées** enseignant les arts magiques :
+certaines les associent aux arts martiaux,
+d'autres forment des savants érudits collectionneurs de livres,
+d'autres encore des poètes errants...
+Toutes ces écoles ont néanmoins une origine commune : la **Sculpteuse de Mots**,
+dont les disciples fondèrent les toutes premières écoles de magie.
+
 **Précisions sur la feuille de Voie** :
 * apprentissage nouveaux Versets : ☑ ☑ ☑ 3 usages réussis = acquis comme Verset +1d6
+* **Focus Mana** : en canalisant son Mana, votre Poète-Sorcier mobilise ses capacités au maximum : vous obtenez un dé supplémentaire à tous vos jets, mais quittez cet état et perdez tout votre Mana dès qu'un jet échoue. En rentrant en état de focus, cochez la case associée sur votre feuille de komusō. Vous pouvez volontairement quitter cet état à tout moment. <!-- Mécanique "stop ou encore" de super sayen -->
 :::
 
 ::: page-break
@@ -85,7 +98,7 @@ puis détaille ton histoire en quelques phrases au dos.
 🎲 | Motivation | Vœu personnel | Gain d'Ori
 -|-
 ⚀ | Aider mon prochain | Vœu d'assistance | Lorsque vous sauvez ou changez positivement & significativement la vie de quelqu'un
-⚁ | Devenir daïmio | Vœu d'impartialité | Lorsque vous contribuez significativement à ce que justice soit faite
+⚁ | Devenir un guide juste | Vœu d'impartialité | Lorsque vous contribuez significativement à ce que justice soit faite
 ⚂ | Devenir un maître | Vœu d'excellence | Lorsque vous surpassez un maître ou remportez une compétition
 ⚃ | Expier mes erreurs | Vœu de réparation | Lorsque vous résolvez un conflit / réparez un dysfonctionnement majeur
 ⚄ | Humilité | Vœu de discrétion | Lorsque résolvez une situation sans attendre de reconnaissance et sans qu'aucun PNJ n'ait connaissance de vos actions

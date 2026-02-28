@@ -5,44 +5,39 @@
 
 Next :
 
-* établir une trame principale de campagne et la découper en scénarios
-* développer le Peuple Éteint et préparer leur rencontre avec PJs
-* designer paliers 2/3 des Voies
-    -> ajouter compteur de progression d'Oris avec cases à cocher
-    -> anticiper changement de palier (Laure déjà) & ellipse à la prochaine partie
-* développer la transformation en Oni, suite à une succession de CHOIX NARRATIFS ?
-    Idées : se laisser "parasiter" par ce Mushi; peut être une option de Voie; ...
-    -> Voie dédiée
-* développer la mécanique des masques
+* recopier notes manuscrites des aventures 3 & 4
+* terminer trame principale des actes 2 & 3, et définir les aventures qui les constituent
+    -> développer le Peuple Éteint et préparer leur rencontre avec PJs
+    -> lier avec Vitruve & Poète Endeuillé
+    -> inventer quelques créatures fascinantes (et non violentes)
+* conception des Voies de l'acte 2
 * rédiger paragraphe sur la mécanique des Liens :
     + +1d6 lors d'une action pour aider / contre le personnage concerné
     + comment établir de nouveaux Liens et en dénouer d'autres ?
+      => sur choix du joueur, lorsqu'il estime que dans l'histoire il a commencé à tisser un lien fort avec un personnage
     + limiter les liens entre PJs ? (pour éviter les abus)
-* SUPPRIMER formats de narration partagée multiple, garder seulement le Questions-Réponses
-  => introduire une mécanique de "filler" pour définir ce que faisaient les personnages absents pendants les parties où ils étaient absents
+* remplacer Oris/XPs par mécanique où Oris = jetons dans un "pot commun" ?
+  obtenus sur un échec critique, permettant divers effets :
+    +2 au résultat d'un lancer de dés
+    substitut de Mana / matériau / mushi ?
+    rejouer des scènes de roleplay ?
+* finir le Codex Mushi complet
+    + mnémocoques : coquillages somnivores, capables de conférer l'**immortalité**, s'ils sont brisés et que leur cœur est consommé; cela signifie cependant **perdre progressivement la mémoire**...
 * finir Noms-japonais.md
-* remplacer Oris/XPs par étapes à atteindre dans les Voies ?
-    Pourquoi: rend la progression + narrative, car forcément liée à des actions précises.
-              évite le côté "subjectif" de la distribution des Oris sur des critères arbitraires,
-                comme "suivre les Vœux", "mettre en avant ses Liens & ...", etc.
-    Au profit d'une mécanique où Onis = jetons partagés, obtenus sur un échec critique, permettant d'augmenter de deux points le résultat d'un lancer de dés
-    (+ permettent également de rejouer des scènes de roleplay ?)
-* feuille de Secrets révélés, avec les réponses des joueurs
-    1. Le sillage des Colosses est pavé de plantes légendaires dont il permet la pousse par son chant
-  => compléter Secrets & Questions-Réponses
-* rédiger section à propose des voyages : durée, ellipses, etc.
-    => les komusō hichhike, et donc c'est chaque fois l'opportunité d'une rencontre
+* rédiger section à propose des VOYAGES : durée, ellipses, etc.
+    => les komusō hitch hikent, et donc c'est chaque fois l'opportunité d'une rencontre
 * rédiger section à propose de la santé / blessures / mort
+* remplacer/supprimer section "Notes" sur FP (conserver uniquement Notes sur feuille de Voie)
 * prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
-* sections "Ce que savent les komuso sur..."
+* 2-pagers "Ce que savent les komusō sur les terres connues", avec éléments de géographie, d'histoire, de bestiaire
 * orga parties : proposer à Donatien / Naïg / Cédric...
 * employer jinja2 pour définir des templates de PNJ :
     + ses Objectifs
     + son Attitude + guide de Roleplay
     + en cas d'alliance avec les PJs : comment il peut les aider / ce qu'il peut leur fournir
     + en cas de conflit avec les PJs...
-    + liens avec autres PNJS
-* Codex Mushi : inclure des zones de dessin ?
+    + liens avec autres PNJs
+* Codex mushi : inclure des zones de dessin ?
 * extract Hexxus clips from *Ferngully*.webm (last Ns from "Toxic Love")
 
 Villes:
@@ -55,7 +50,7 @@ Classification mushis :
 
 Mise en page :
 - trouver un symbole pour les Oris
-- ajouter des petits pictos à chaque scénario:aventure, indiquant ce qui peut y être collecté : Mushis / Onis / Colosses / etc.
+- ajouter des petits pictos à chaque scénario:aventure, indiquant ce qui peut y être collecté : mushis / Onis / Colosses / etc.
 - Ajouter de jolis ornements en header/footer de pages
     Chinese landscape painting: https://github.com/LingDong-/shan-shui-inf
     https://github.com/watabou/CompassOS
@@ -110,7 +105,7 @@ Un jeu de rôle _hopepunk_ dans un univers de _fantasy_ inspiré du japon médi�
 où les joueurs incarnent des komusō, ayant fait vœu d'aider la population,
 et où des créatures nommées _mushis_ ont donné naissance à la magie.
 
-**Inspirations**: Mushishi, Le château dans le ciel, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoké, Le Voyage de Chihiro, Zelda...
+**Inspirations**: Mushishi, Le château dans le ciel, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoké, Le Voyage de Chihiro, Full Metal Alchemist, Zelda...
 
 ::: web-only
 - Version PDF de ces règles: [OriMushi.pdf _(19 pages, 4,4 Mo)_](OriMushi.pdf)
@@ -119,7 +114,7 @@ et où des créatures nommées _mushis_ ont donné naissance à la magie.
 - Feuille de komusō : [FeuillePersonnage.pdf](OriMushi-FeuillePersonnage.pdf)
 - Aides de jeu :
     + [GuideDuMJ.pdf](GuideDuMJ.pdf)
-    + [OriMushi-VoiesDesPersonnages.pdf](character-sheets/OriMushi-VoiesDesPersonnages.pdf)
+    + [OriMushi-VoiesDesKomuso-Acte1.pdf](character-sheets/OriMushi-VoiesDesKomuso-Acte1.pdf)
     + [OriMushi-LivretDAventures.pdf](character-sheets/OriMushi-LivretDAventures.pdf)
     + [TableDesLiensEntrePersonnages.pdf](TableDesLiensEntrePersonnages.pdf)
     + [VoeuxDesKomuso.pdf](layout/OriMushi-VoeuxDesKomuso.pdf)
@@ -160,8 +155,8 @@ Il y a environ mille ans : <!-- Inspi : Dark Souls opening https://www.youtube.c
 * les **dragons** veillent sur le monde et guident les empereurs.
 * cette époque voit les plus grandes merveilles être conçues :
 la **Cité aux Mille Pages**, une véritable ville-bibliothèque; le **Théâtre des Cieux** de l'artisan-ingénieur **Vitruve**, immense et mobile; la **Tour de l'Infini**...
-* la **Sculpteuse** conçoit initiallement les **Colosses** pour qu'ils déclament à travers les terres connues les Versets du **Poète Endeuillé**.
-* fondation de l'ordre des **komusō**.
+* la **Sculpteuse de Mots** conçoit initialement les **Colosses** pour qu'ils déclament à travers les terres connues les Versets du **Poète Endeuillé**. Elle transmet à ses disciples la magie du Verbe.
+* fondation de l'ordre des **komusō**, les **Prêtres du Vide**
 #### La Guerre de l'Oubli
 Il y a environ un siècle :
 * une armée de **Onis**, des démons, ravage les terres connues, menés par l'empereur fou, **Enkidu**.
@@ -171,9 +166,9 @@ Les grandes merveilles disparaissent.
 * les **Onis** sont finalement vaincus. Certains disent grâce à un enfant, **Gilga**, qui commandait aux Colosses. D'autres racontent qu'ils ont été enchaînés dans les cœurs des hommes.
 #### Récemment
 Ces dernières années :
-* une épidémie se répand, le **Fléau Impassible**, qui pétrifie progressivement les malades
-* **Hisaishi Inoue**, capitaine en chef des bateliers.
-* **Oma la Cueilleuse de Mots**, une Poètesse-Sorcière, a été élue par les forestiers pour remplacer le précédent empereur des Basses Plaines. Elle siège au conseil des sages de la ville de Nippur.
+* une épidémie se répand, le **Fléau Impassible**, qui pétrifie progressivement les malades en statues de pierre
+* **Hisaishi Inoue**, capitaine en chef des bateliers, a alerté les terres connues sur la recrudescence d'Onis à nouveau
+* **Oma la Cueilleuse de Mots**, une Poétesse-Sorcière, a été élue par les forestiers pour remplacer le précédent empereur des Basses Plaines. Elle siège au conseil des sages de la ville de Nippur.
 * l'**Empereur des Hauts Plateaux** est mort, de tristesse à ce qu'on raconte, sans descendance. 
 
 ::: page-break
@@ -181,9 +176,9 @@ Ces dernières années :
 
 ## Géographie & peuples
 Ces lieux & régions sont des points de repère essentiels dans les terres connues :
-* les **Basses Plaines** : région de vallées verdoyantes et de nombreuses rivières. Deux peuples y cohabitent : les **forestiers**, qui mènent une vie sédentaire rurale; et les **bateliers**, nomades dont les escadres de chars à voile se déplacent aussi bien dans les plaines herbeuses que sur la mer.
+* les **Basses Plaines** : région de vallées verdoyantes et de nombreuses rivières. Deux peuples y cohabitent : les **forestiers**, qui mènent une vie sédentaire rurale; et les **bateliers**, nomades dont les escadres de chars à voile se déplacent aussi bien dans les plaines herbeuses que sur la mer. **Nippur** est la capitale de la région forestière.
 * les **Hauts Plateaux** : région montagneuse, découpée en de multiples provinces. L'**Église de la Connaissance** y est très influente, promouvant un progrès scientifique et industriel.
-* **Uruk** est la plus grand ville des Hauts Plateaux, capitale du Pays de la Mer. D'immenses industries s'y sont installées le long de ses immenses falaises.
+* **Uruk** est la plus grande ville des Hauts Plateaux, capitale du Pays de la Mer. D'immenses industries s'y sont installées le long de ses immenses falaises.
 * **Bilgamesh** est un Colosse encore actif, un géant humanoïde qui arpente les Basses Plaines. Une épreuve de courage des bateliers est de l'escalader.
 * de nombreux **temples** et **monastères** parsèment les terres connues. Parfois très anciens, ils ont été érigés pour vénérer des divinités shintoïstes. La plupart sont aujourd'hui devenus des lieux dédiés aux Sciences, où diverses écoles de **Moines-Scientifiques** s'isolent pour approfondir leurs théories, dans des domaines aussi variés que l'astronomie, la botanique, la philosophie, les mathématiques... La majorité sont affiliés à l'Église de la Connaissance, mais pas toutes.
 
@@ -198,8 +193,10 @@ Les terres connues ne sont volontairement **pas** décrites en détails afin de 
 ::: page-break
 :::
 
+## Bestiaire
+Les terres connues comportent de nombreuses créatures étranges et mystérieuses...
 
-## Mushis
+### Mushis
 Un **mushi** est un organisme vivant **invisible** aux yeux des humains.
 Il en existe de différentes espèces, et ils tissent des liens essentiels avec les autres êtres vivants, de manière **symbiotique** : tantôt sources de nourriture, tantôt protecteurs de plantes et d'animaux.
 
@@ -213,7 +210,7 @@ Les mushis produisent naturellement du **Mana**, l'énergie permettant la magie.
 La plupart réagissent à **la musique**, aux métaux **argentés**, et à **la lune** :
 certains se reproduisent en émettant des **spores** durant les nuits de pleine lune.
 où ils convergent et se réunissent en masse à certains endroits mystérieux.
-On appelle cela un **banquet des mushis**.
+On appelle cela un **banquet de mushis**.
 
 <br>
 
@@ -222,7 +219,7 @@ _Mot-clefs : invisible, étrange, nature, symbiose, fragile, paisible, surnature
 <br>
 <img class="size20" alt="Mushi" src="cc-imgs/a-handbook-of-cryptogamic-botany-1889-page-415.jpg">
 
-### Codex mushi
+#### Codex mushi
 Les joueurs dans le groupe qui jouent des Mushishis se voient remettre une feuille de **Codex mushi vierge**.
 S'il y a deux Mushishis, chacun reçoit un Codex vide, et les joueurs se répartissent les six familles entre eux, afin de se spécialiser chacun dans trois d'entre elles.
 Si le groupe ne comporte aucun Mushishi, alors la tenue du codex est à la charge de l'ensemble des joueurs.
@@ -236,8 +233,7 @@ Les Mushishis en inventent eux-même de nouveaux à la seconde phase de leur Voi
 
 <img class="size10" alt="Insectes" src="cc-imgs/bulletin-1904-1907-page-836-cc0.jpg">
 
-
-## Onis
+### Onis
 Dans les terres connues, tout individu possède un démon intérieur, un **Oni**.
 Ce Oni se nourrit de colère, de frustration, de peurs.
 
@@ -253,40 +249,40 @@ Cette voie mène néanmoins à une transformation en un véritable **démon**.
 
 _Mot-clefs : enragé, hurlement, bestial, monstre, terrifiant, agressif, sidérant, danger_
 
-### Que sont les Onis ?
-Des humains ayant accepté d'accueillir en eux un Mushi parasitique.
+#### Que sont les Onis ?
+Des humains ayant accepté d'accueillir en eux un mushi parasitique.
 
-Ce Mushi leur confère une force surhumaine, ainsi qu'une impulsivité colérique terrible.
+Ce mushi leur confère une force surhumaine, ainsi qu'une impulsivité colérique terrible.
 
 <br>
 <img class="size20" alt="Shen Blood Moon" src="cc-imgs/league_of_legends_shen_blood_moon_by_spellshuei_cc-by.jpg">
 
-### Comment se comportent les Onis ?
-Ils ont souvent choisi d'accueillir le Mushi pour obtenir quelque chose en échange :
+#### Comment se comportent les Onis ?
+Ils ont souvent choisi d'accueillir le mushi pour obtenir quelque chose en échange :
 se venger, battre quelqu'un, prendre le pouvoir...
 
 Parfois, ils obtiennent ce qu'ils souhaitaient et en sont satisfaits,
 devenant des monstres cruels s'assumant pleinement.
 
-Parfois, ils sont en conflit intérieur, n'assumant pas les actes qu'ils ont commis sous l'impulsion du Mushi.
+Parfois, ils sont en conflit intérieur, n'assumant pas les actes qu'ils ont commis sous l'impulsion du mushi.
 
 <img class="size20" alt="Kappa" src="cc-imgs/Kappa_Koopa_by_weremagnus_cc-by.jpg">
 
-### Comment devient-on Oni ?
+#### Comment devient-on Oni ?
 * des livres détaillent où se rendre, et en quelle saison, pour trouver des fruits de ce mushi, et les ingérer pour devenir Oni
-* Gilga propose à ses fidèles de devenir des Onis
+* Gilga distribue des graines _onimame_, sous différents prétextes, qui transforment les gens en Onis
 
-### Peut-on "soigner" un Oni ?
-Une fois le Mushi accueilli en soi, il n'existe que deux solutions pour ne pas être consumé par lui :
+#### Peut-on "soigner" un Oni ?
+Une fois le mushi accueilli en soi, il n'existe que deux solutions pour ne pas être consumé par lui :
 * le transmettre à un autre humain volontaire
 * l'apprivoiser -> inspi manga Parasite ?
 
 ::: page-break
 :::
 
-## Colosses
+### Colosses
 <!-- Également nommés **dogū** -->
-Ce sont de gigantesques et mystérieux géants de pierre, en partie scultpés.
+Ce sont de gigantesques et mystérieux géants de pierre, en partie sculptés.
 Certains sont endormis, d'autres errent, répétant des gestes ou des trajets dont le sens s'est perdu à travers les âges...
 
 Peu de choses sont connues sur ces statues géantes.
@@ -317,6 +313,13 @@ _Mot-clefs : gigantesque, lent, inarrêtable, massif, antique, minéral, lourd, 
 ::: page-break
 :::
 
+### Dragons
+**Yamata no Orochi** : dragon à huit têtes
+
+### Autres créatures fantastique
+* oiseaux qui ne se posent jamais ailleurs que sur les Colosses
+* chien-loups dont la hauteur dépasse trois hommes
+
 ## Factions
 ### Les Prêtres du Vide
 C'est le nom de **l'organisation des moines komusō** :
@@ -326,7 +329,9 @@ C'est le nom de **l'organisation des moines komusō** :
     + le développements des arts et la diffusion de spectacles
     + la formation et la transmission de savoir-faire
     + l'entraide et la solidarité, fournie directement par komusō durant leur service à la population
-* l'institution comporte deux niveaux de membres : les **komusō**, qui en font partie temporairement le temps de réaliser un "service civique itinérant", en honorant les Cinq Vœux des komusō; et les **daïmios**, des moines ayant choisi de devenir des artistes-sages permanents. L'ensemble de l'organisation est dirigée par le **Cénacle**, un groupe de daïmios élus par leurs pairs.
+* l'institution comporte deux niveaux de membres : les **komusō**, qui en font partie temporairement le temps de réaliser un "service civique itinérant", en honorant les Cinq Vœux des komusō; et les **daïmios**, des moines ayant choisi de devenir des artistes-sages permanents. L'ensemble de l'organisation est dirigée par un conseil de daïmios élus par leurs pairs, le **Cénacle**.
+
+_Mot-clefs : altruisme, éducation, sagesse, méditation, sobriété_
 
 ### L'Église de la Connaissance
 Cette influente institution promeut **le progrès scientifique et industriel**.
@@ -336,9 +341,9 @@ Cette organisation partage certaines caractéristiques d'une religion :
 * la spiritualité et la magie sont **bannies** comme des absurdités barbares. Les **livres** qui y font référence sont **brûlés**.
 * il n'y a pas de texte sacré, mais les **écrits scientifiques** sont portés aux nues, et célébrés comme les trésors les plus précieux de l'humanité.
 
-Cette instution constitue un réseau très bien organisé :
+Cette institution constitue un réseau très bien organisé :
 * différents **lieux** lui sont dédiés, en ville comme dans des lieux reculés : **temples et monastères** qui sont autant d'instituts de recherche, mais aussi **usines de production** et carrières d'extraction de ressources
-* une **hierarchie de scientifiques** dirige cette église : **barons et capitaines d'industrie**, **cardinal d'université**, **évêques-ingénieurs**...
+* une **hiérarchie de scientifiques** dirige cette église : **barons et capitaines d'industrie**, **cardinal d'université**, **évêques-ingénieurs**...
 * l'église encourage les **bonnes œuvres**, et structure plusieurs initiatives de bienfaisance sociale : aumône, aide alimentaire aux plus démunis, hébergement d'urgence, médecine gratuite, etc.
 
 L'Église de la Connaissance a de nombreux détracteurs, qui lui reprochent notamment
@@ -350,6 +355,16 @@ Aujourd'hui, l'église est très influente dans les provinces des Hauts Plateaux
 et de plus en plus également dans les villes des Basses Plaines.
 
 _Mot-clefs : dogme, rigueur, usines, mécanique, productivisme, steampunk_
+
+### Le peuple éteint
+{{ rand_creature_portrait() }}
+
+Peuple où le genre n'est pas féminin / masculin, mais Kappa / Tengu.
+-> les joueurs choisissent par vote l'apparence des Kappa et des Tengu
+
+
+
+_Mot-clefs : mystérieux, cachés, hors-normes_
 
 ::: page-break
 :::
@@ -364,7 +379,7 @@ Voici les principaux Vocables connus :
 **Gravité** : intensifier ou supprimer la gravité dans une zone proche. | **Mimétisme** : agir sur les reflets, dupliquer un objet...
 -|-
 **Perceptif** : modifier les perceptions, se rendre imperceptible, avoir une odeur attirante, être effrayant à en hérisser le poil, etc. | **Plantes** : faire pousser des plantes (arbres, lianes, fleurs...) extrêmement vite, modifier un objet en bois...
-**Sommeil** : l'induire ou empêcher de dormir, agir sur les rêves... | **Téléportation** : déplacement instantanné à courte distance de soi, d'un objet, d'un adversaire...
+**Sommeil** : l'induire ou empêcher de dormir, agir sur les rêves... | **Téléportation** : déplacement instantané à courte distance de soi, d'un objet, d'un adversaire...
 
 <img class="size10" alt="Cercle magique" src="cc-imgs/magic_circle_2_by_nnao_cc-by-nc-sa.jpg">
 
@@ -374,12 +389,6 @@ Voici les principaux Vocables connus :
 
 ::: page-break
 :::
-
-## Les dragons
-ToDo / À rédiger
-
-## Le peuple éteint
-{{ rand_creature_portrait() }}
 
 <br><br><br>
 <img class="size16" alt="" src="cc-imgs/kuma_by_hijodelopio_cc-by_BW.jpg">
@@ -404,7 +413,7 @@ et pendant **un an** de constituer un groupe suivant les préceptes de cette cha
 <br>
 
 * **Vœu d'Errance** : un komusō ne reste jamais plus de **trois nuits** dans un lieu, à moins d'une urgence vitale.
-* **Vœu de Pauvreté** : un komusō ne conserve **jamais d'argent** pour lui. Il subsiste de la générosité des autres, qui leur offrent en général volontier le gîte et le couvert. Un komusō peut faire du troc.
+* **Vœu de Pauvreté** : un komusō ne conserve **jamais d'argent** pour lui. Il subsiste de la générosité des autres, qui leur offrent en général volontiers le gîte et le couvert. Un komusō peut faire du troc.
 * **Vœu d'Assistance** : un komusō accepte toujours d'**aider quelqu'un en difficulté**, de lui porter secours.
 * **Vœu d'Impartialité** : un komusō se doit d'être **impartial** et **juste**. En cas de conflit, sans qu'ils ne possèdent la moindre autorité officielle, les komusō sont parfois sollicités comme juges impartiaux.
 * **Vœu de Préserver la Vie** : un komusō ira jusqu'à **se battre pour une vie**. Il protège également **la nature**, animaux, plantes et autres créatures.
@@ -525,7 +534,7 @@ De plus :
 <img class="size6 float-left" alt="Dé supplémentaire" src="character-sheets/elements/plus1die.png">
 
 Ce symbole vous indique d'ajouter un dé à votre jet :
-prennez ensuite en compte **le plus haut résultat** pour déterminer la réussite de l'action.
+prenez ensuite en compte **le plus haut résultat** pour déterminer la réussite de l'action.
 
 Vos **Compétences** et vos **Artefacts** vous permettent ainsi de lancer des dés supplémentaires
 lors d'un jet de dés.
@@ -575,7 +584,7 @@ L'un des vœux des komusō étant l'**itinérance**, ils voyagent sans cesse de 
 **À chaque fois que les komusō migrent d'un lieu** pour se rendre dans un autre,
 passez ensuite successivement aux phases de jeu suivante :
 1. [Répartition des Oris & progression](#oris-progression)
-1. [Mystika](#mystika), où les joueurs rêvélent et détaillent **les secrets des terres connues**
+1. [Mystika](#mystika), où les joueurs révèlent et détaillent **les secrets des terres connues**
 1. [Autour du feu](#autour-du-feu), un moment de _roleplay_ entre komusō pour les joueurs
 
 ::: page-break
@@ -592,9 +601,8 @@ au fur et à mesures de ses aventures.
 Situation | Progression par aventure
 -|-
 Échec critique ⚀⚀ | +1 Ori
-Suivre activement les Vœux des komusō, y compris le Vœu Personnel | +1 Ori
-Mettre en avant ses Liens & <img class="icon" alt="masques" src="cc-imgs/icons/masks-by-Lorc-cc-by.svg"> | +1 Ori
-Suivre sa Progression de Voie | +1 Ori
+Agir selon les Vœux des komusō, et son Vœu Personnel | +1 Ori
+Suivre ses critères de Progression de Voie | +1 Ori
 Placer au moins une fois son komusō dans une situation délicate à cause de sa Mauvaise habitude | +1 Ori
 :::
 
@@ -616,76 +624,45 @@ Tout est détaillé dans le [Guide du MJ](GuideDuMJ.pdf).
 :::
 
 ## Mystika
-Durant cette phase narrative, les joueurs vont définir collectivement les détails qui entourent certains **secrets** de l'univers d'Ori Mushi.
+Durant cette petit temps en fin de partie, les joueurs vont définir collectivement les détails qui entourent certains **secrets** de l'univers d'Ori Mushi.
 
-Cette phase a lieu lorsque les komusō profitent des moments de repo de leur voyage
+Le _Mystika_ a lieu lorsque les komusō profitent des moments de repo de leur voyage
 pour déchiffrer des **bas-reliefs antiques** qu'ils ont recopié durant leurs aventures,
-ou pour lire des **livres interdits** qu'ils ont récolté.
+ou pour lire des **incunables**, des livres interdits et uniques qu'ils ont récolté.
 
-L'examen de ces reliques est le rôle de l'**Artiste-Conteur** du groupe.
-S'il n'y en aucun parmi les joueurs, alors le suivi des secrets découverts
-est géré **par le groupe collectivement** : découpez simplement la zone _Secrets_
-d'une feuille d'Artiste-Conteur, et confiez-la aux joueurs.
+### Reliques & secrets
+L'examen de ces reliques est le rôle de l'**Artiste-Conteur** du groupe, à la fin de chaque aventure.
+
+**Une fois par voyage entre deux aventures**, un Artiste-Conteur peut profiter des temps de repos pour déchiffrer un **bas-relief antiques** qu'il a recopié, ou un **incunable**.
+
+Au terme de cet examen littéraire, il **découvre un secret** concernant les terres connues, correspondant au bas-relief ou livre déchiffré.
+Le MJ leur révèle lequel, puis débute une courte phase de **narration partagée**.
+
+S'il n'y a pas d'Artiste-Conteur parmi les joueurs, alors l'examen des reliques et la découverte des secrets sont gérés **par le groupe collectivement**.
 S'il y a deux Artiste-Conteurs parmi les joueurs, alors laissez-les se mettre d'accord
-pour que l'un se charge des bas-reliefs antiques et l'autre des livres interdits.
-
-### Révélation d'un secret
-Une fois par voyage entre deux aventures, un Artiste-Conteur peut profiter des temps de repos
-pour déchiffrer un **bas-relief antiques** qu'il a recopié, ou un **incunable** (livre rare).
-
-Au terme de cet examen littéraire, il **découvre un secret** concernant les terres connues.
-Le MJ consulte le tableau ci-dessous pour leur révéler lequel,
-correspondant le mieux au bas-relief ou livre déchiffré,
-et en privilégiant les premiers secrets de la liste :
-
-::: borderless text-small with-headings
- | Secret | Narration partagée
--|-
-1 | Le chant plaintif des Colosses est constitué de Versets du Poète Endeuillé, dont les effets sont magiques | **Question-Réponses** : Bilgamesh emploie le Vocable des Plantes, quel est exactement l'impact de ses Versets ?
-2 | Le peuple éteint n'a pas totalement disparu. Ses derniers membres se sont réfugiés dans une **vallée secrète**. | **Question-Réponses** : la relique que vous avez déchiffré indique comment y accéder, quel est ce moyen ?
-3 | Chaque Colosse est alimenté par une **sphère de Vitruve**, un dispotif mécano-magique alimenté par un **œuf de dragon**. | **Question-Réponses** : ?
-4 | Il existe des **???**, capables de conférer l'**immortalité** s'ils sont brisés et que leur cœur est consommé | **Question-Réponses** : lors de la guerre de l'Oubli, comment fut oublié le nom de Watatsumi, dragon des mers ?
-5 | Le **Fléau Impassible** est un mushi, il s'est déjà répandu par le passé, et un remède a été trouvé en l'étudiant. | **Question-Réponses** : quel fut le remède et comment a-t-il été découvert ?
-6 | Les Onis sont en réalité une septième famille de mushis parasites -> décrire la section correspondante. | **Question-Réponses** : où et comment poussent les fruits du Oni ?
-7 | Les dragons sont en fait une légende savamment entretenue par des Artistes-Conteurs. Les "œufs de dragons" sont en réalités des œufs d'Oni. | **Question-Réponses** : ?
-8 | xxx | **Question-Réponses** : ?
-:::
-
-<!--
-Ces secrets doivent "accompagner" la campagne principale.
-Idéalement, alterner l'objet de ces secret: les Temps Antiques / la Guerre de l'Oubli / etc.
-? Est-ce que d6 est vraiment UTILE ? Est-ce que rêvéler les secrets un à un ne serait pas plus simple pour écrire la campagne ?
--->
+pour que l'un se charge des bas-reliefs antiques et l'autre des livres interdits. Un seul Secret peut être révélé par Mystika, mais chacun gagnera des Oris à chaque fois.
 
 ### Narration partagée
-Cette colonne de la table des secrets indique **comment** se déroulera cette phase.
-Il existe plusieurs formats, détaillés dans les sections suivantes :
-* Question-Réponses
-* Haïkus
-* Artefact
-* Journal de bord
-
-Une bande son calme, poétique, envoutante est idéale pour cette phase.
+Une bande son calme, poétique, envoûtante est idéale pour cette phase.
 Suggestions : [Mushishi](https://www.youtube.com/watch?v=brsJ19kclwc),
 [Ori and the Blind Forest](https://www.youtube.com/watch?v=OvpnMT-iqCM).
 
-L'Artiste-Conteur prend en note sur sa feuille de Voie du secret rêvélé.
+L'Artiste-Conteur prend en note sur sa feuille de Voie du secret révélé.
 Il aussi encouragé à prendre note, au dos de sa feuille de Voie,
 des détails inventés collectivement durant cette phase.
 Il pourra s'en inspirer pour de futures représentations de spectacles !
 
 ::: callout
-Gardez en têtes ces grands principes durant la phase Mystika :
+Gardez en têtes ces grands principes durant le Mystika :
 <!-- Ces principes valent aussi pour la phase de création de liens entre PJs -->
-* durant ces phases de narration partagée, **vous êtes libres de créer n'importe quel élément de l'univers** : lieux, personnages, événements...
+* durant ces temps de narration partagée, **vous êtes libres de créer n'importe quel élément de l'univers** : lieux, personnages, événements...
 * employez la technique du **« oui et »** : ne rentrez jamais en contradiction avec les éléments apportés par les autres joueurs, mais rebondissez dessus et étoffez-les.
-* tout n'a pas à être **cohérent** : les reliques découvertes par les komusō relatent des histoires, pas forcément la Vérite. Elles peuvent même parfois se contredire.
-* cette phase doit rester relativement **courte**, idéalement environ une demi-heure : c'est au MJ de l'animer et de s'assurer qu'elle ne traîne pas en longueur
+* tout n'a pas à être **cohérent** : les reliques découvertes par les komusō relatent des histoires, pas forcément la Vérité. Elles peuvent même parfois se contredire.
+* ce temps doit rester relativement **courte**, idéalement environ une demi-heure : c'est au MJ de l'animer et de s'assurer qu'elle ne traîne pas en longueur
 :::
 
-### Format : question-réponses
-À chacune de ces phases, un joueur sera l'Arbitre.
-L'Artiste-Conteur est le premier à endosser ce rôle,
+Un joueur sera l'**Arbitre** durant cette phase.
+L'**Artiste-Conteur** est le premier à endosser ce rôle,
 puis il sera assumé par tous les joueurs à tour de rôle au fil des phases suivantes de Questions-Réponses.
 L'Artiste-Conteur est responsable de consigner qui a déjà été Arbitre,
 et à qui revient ce rôle à chaque fois.
@@ -695,43 +672,11 @@ Les phases de Questions-Réponses se déroulent ainsi :
 * à tour de rôle, chaque joueur propose une réponse, sauf l'Arbitre
 * enfin, l'Arbitre choisit la réponse qu'il préfère, ou un mélange de réponses
 
-### Format : haïkus
-Dans ce format, vous allez décrire une succession de **scènes** et d'ambiances,
-formant un poème ou une balade, qui se transmet souvent accompagné de musique.
-Le lien entre ces scènes ne sera pas explicité, et c'est à chacun de se forger une idée de ce qui les relier à travers le temps et l'espace.
-Chaque scène est un haïku, une strophe du poème.
-
-Le MJ peut choisir de participer ou non à cette phase.
-
-**Déroulé** : à tour de rôle, chaque joueur énonce une phrase décrivant une **scène** ou une ambiance, pour former une succession de haïkus.
-* n'importe quel joueur inspiré énonce la première phrase du premier haïku. Il est alors chargé d'inscrire toute la strophe sur la Feuille des Haïkus.
-* en tournant dans les sens des aiguilles d'une montre, chaque joueur annonce une phrase à son tour.
-* après un temps de réflexion, un joueur peut passer son tour.
-* si possible, la troisième phrase doit clôturer chaque haïku, puis la quatrième débuter un nouveau haïku, et ainsi de suite.
-* ne respectez pas strictement les règles de composition des haïku : une strophe peut contenir 4 ou 5 phrases, le nombre de syllabes importe peu, une césure (_kireji_) à la fin est bienvenue mais pas nécessaire, etc.
-* **le poème est fini** lorsque tous les joueurs sont satisfaits du poème, et que plus personne n'est inspiré pour débuter de nouveau haïku.
-
-<!-- TODO : ajout exemples -->
-
-### Format : artefact
-Le MJ participe à cette phase comme les autres joueurs.
-
-Le joueur qui a placé son dé sur cette table choisit un artefact
-en possession d'un komusō du groupe, ou mentionné précédemment durant une partie.
-Il désigne ensuite un joueur en lui passant son dé.
-
-**Déroulé** :
-* chaque joueur doit décrire une brève scène ou l'artefact était impliqué.
-* le premier joueur doit décrire l'origine de l'objet, comment il a été conçu.
-* la description doit s'attacher à décrire une scène préciser, sans nécessaire donner d'explications.
-* les autres joueurs peuvent ensuite faire des commentaires, et poser des questions sur des détails de la scène.
-* enfin, le joueur qui a décrit la scène transmet le dé un autre joueur, pour qu'il narre une autre scène impliquant l'artefact, située chronologiquement plus tard dans la vie de l'objet.
-* une fois que tous les joueurs ont décrit au moins une scène, n'importe quel joueur qui reçoit le dé peut décider d'arrêt cette phase de narration.
 
 ## Merveilles
 Voici quelques-unes des merveilles que pourraient découvrir les PJs.
 L'Église de la Connaissance souhaitera se les approprier.
-Il s'agit pour la plupart de créations de Vitruves durant les Temps Antiques, mais pas seulement :
+Il s'agit pour la plupart de créations de Vitruve durant les Temps Antiques, mais pas seulement :
 ### Le Gyroptère de Vitruve
 _cf._ [Gyroptère](https://fr.wikipedia.org/wiki/Gyropt%C3%A8re)
 ### La Tour de l'Infini
@@ -748,10 +693,10 @@ Ressemble à un moulin... mais tourne même quand il n'y a pas de vent !
 ### Un mégaphone géant
 Capable de diffuser un concert dans toute la vallée
 ### Une chaudière souterraine géante
-Alimentant les poeles de nombreuses maisons dans une région enneigée
+Alimentant les poêles de nombreuses maisons dans une région enneigée
 ### Un aigle-Colosse volant
 Inspi Les Mystérieuses Cités d'Or
-### Un téléscope géant
+### Une longue-vue géante
 ### Inventez les vôtre !
 
 ::: page-break
@@ -763,7 +708,7 @@ Inspi Les Mystérieuses Cités d'Or
 Durant cette phase, les joueurs incarnent leurs komusō, au terme d'une journée de voyage.
 Ils se retrouvent traditionnellement autour d'un feu de camp.
 Si une phase Mystika vient d'avoir lieu,
-cette scène commence alors que leurs personnages viennent de découvir
+cette scène commence alors que leurs personnages viennent de découvrir
 **un secret des terres connues**.
 
 Il s'agit d'une séquence d'un quart d'heure axée sur le _roleplay_, où les joueurs sont encouragés à :
@@ -776,7 +721,7 @@ Il s'agit d'une séquence d'un quart d'heure axée sur le _roleplay_, où les jo
 Concluez cette phase ainsi :
 
 > Au cœur de la nuit, votre feu de camp s'éteint doucement.
-> Qu'est-ce que vos personnages ont dans le coeur en se couchant ?
+> Qu'est-ce que vos personnages ont dans le cœur en se couchant ?
 
 Durant cette phase, le MJ peut participer durant les "blancs" de la discussion pour décrire l'environnement autour des komusō, la lumière, les bruits, le vent...
 Il est aussi encouragé à diffuser une musique d'ambiance adaptée :
@@ -789,78 +734,99 @@ Il est aussi encouragé à diffuser une musique d'ambiance adaptée :
 :::
 
 ## PNJs
+### Les Colosses
+Tel des golems, ils obéissent à ces trois principes :
+1. **Préserver la vie**
+2. Traverser le monde, pour déclamer les chants du Poète Endeuillé, et **essaimer des mushis**
+3. Obéir aux **poètes endeuillés** : les Poètes-Sorciers qui ont perdu des êtres chers, et qui agissent mûs par le chagrin que cela leur inspire
+
+**Nergal** : lorsqu'il se réveille, il se sent perdu et seul.
+Une fois dressé debout, après quelques minutes, il décide d'aller à la rencontre de Bilgamesh.
+Il chante des Versets du Vocable de le Gravité.
+
+**Bilgamesh** : c'est l'un des derniers Colosses actifs, et le seul qui n'a pas choisi de rester en retrait des humains. Il apprécie leur présence autour de lui.
+Il chante des Versets du Vocable des Plantes.
+
+**Les autres Colosses** interviennent peu dans la campagne, mais sentez-vous libre d'en créer d'autres et de les faire intervenir dans vos aventures !
+
 ### Mokabé
-Daïmio vétéran; membre du conseil des komusō; gardien de la Tour de l'Infini
-* **Objectifs** : atteint d'une dégénerescence bientôt fatale, il sait qu'il va mourrir sous peu. Avant, il veut transmettre aux komusō ses derniers et plus importants enseignements.
+Daïmio vétéran; membre du Cénacle, le conseil des doyens komusō; gardien de la Tour de l'Infini
+* **Objectifs** : atteint d'une dégénérescence bientôt fatale, il sait qu'il va mourir sous peu. Avant, il veut transmettre aux komusō ses derniers et plus importants enseignements.
 * **Attitude (guide de roleplay)** :
-* **Liens avec autres PNJS** : père de Rumiko, ami & conseiller d'Oma, ami d'enfance d'Hisaishi
+* **Liens avec autres PNJs** : père de Rumiko, ami & conseiller d'Oma, ami d'enfance d'Hisaishi
 ### Mae
-Jeune marchande qui prend les choses en main au Temple aux Singes
-* **Objectifs** :
+Jeune marchande et couturière qui prend les choses en main au Temple aux Singes
+* **Objectifs (acte 1)** :
+    + protéger et rassurer tout le monde
+    + sortir du temple où ils sont piégés
+    + vendre au marché les vêtements qu'elle confectionne
 * **Attitude (guide de roleplay)** :
 * **Comment peut-elle aider les PJs ?** :
-* **Comment s'opposera-t-elle aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 ### Oma la Cueilleuse de Mots
+> Par la Grande Sculpteuse ! Un Oni ici ??
+
 Une Poètesse-Sorcière, élue par les forestiers pour diriger le conseil des sages de Nippur.
 Vit au Moulin Des Cigognes
 * **Vocables** : **gravité** (contrôle du papier façon [_Read or Die_](https://youtu.be/gB_CFVSVVRo?si=RJ0NAttNlPGEbaHn&t=1230))
-* **Objectifs** : s'opposer à l'influence grandissante de l'Eglise de la Connaissance dans la région
+* **Objectifs** : s'opposer à l'influence grandissante de l’Église de la Connaissance dans la région
 * **Attitude (guide de roleplay)** :
 * **Comment peut-elle aider les PJs ?** :
 * **Comment s'opposera-t-elle aux PJs ?** :
-* **Liens avec autres PNJS** : mentor de Rumiko; amie de Mokabé
+* **Liens avec autres PNJs** : mentor de Rumiko; amie de Mokabé
 ### Rumiko
 * **Objectifs** : devenir daïmio, suivre les vœux des komusō, faire perdurer cet ordre, que son père soit fière d'elle
-* **Voie** : Maître-Artisan -> specialité ?
-* **Attitude (guide de roleplay)** : de caractère joyeux; peut devenir très sérieux; initiallement méfiante envers les PJs
+* **Voie** : Maître-Artisan -> spécialité ?
+* **Attitude (guide de roleplay)** : de caractère joyeux; peut devenir très sérieux; initialement méfiante envers les PJs
 * **Comment peut-elle aider les PJs ?** :
 * **Comment s'opposera-t-elle aux PJs ?** :
-* **Liens avec autres PNJS** : fille de Mokabé; komusō apprentie d'Oma 
+* **Liens avec autres PNJs** : fille de Mokabé; komusō apprentie d'Oma 
 ### Osamu Tenpo
 Évêque-ingénieur chargé de l'évangélisation des Basses-Plaines
 Accompagné et secrètement d'arquebusiers
-* **Objectifs** : étendre l'influence de l'Église de la Connaissance; combattre les croyances envers les Mushis
+* **Objectifs** : étendre l'influence de l'Église de la Connaissance; combattre les croyances envers les mushis
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 ### Bilgamesh
 Colosse encore actif, géant humanoïde arpentant les Basses Plaines.
 * **Objectifs** :
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 ### Gilga
 La légende raconte qu'il commandait aux Colosses et qu'il aurait vaincu les Onis.
+Il a consommé des mnémocoques et perdu la mémoire...
 * **Objectifs** :
+    + retrouver le **Colosse semeur d'_onimame_**
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 ### Hisaishi Inoue
 Capitaine en chef des bateliers
 * **Objectifs** :
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 ### Cécil
 Archiviste, bibliothécaire, ancien élève de Mokabé
 * **Objectifs** :
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 ### Jinbeï
 Successeur de Mokabé.
 A un sabre à la ceinture, vestige de son passé de guerrier, mais il est **soudé**.
 * **Objectifs** :
-* **Attitude (guide de roleplay)** : débonaire, bon vivant / buveur, volontier impertinent / moqueur, parfois impulsif
+* **Attitude (guide de roleplay)** : débonnaire, bon vivant / buveur, volontiers impertinent / moqueur, parfois impulsif
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
-* **Liens avec autres PNJS** :
+* **Liens avec autres PNJs** :
 
 ## Griddish
 <https://www.reddit.com/r/neography/comments/a9yd0d/i_made_a_griddy_cipher_where_letters_smush/>
@@ -911,6 +877,7 @@ Quelques suggestions de bande sons originales :
 [Furyo / Merry Christmas Mr. Lawrence](https://www.youtube.com/playlist?list=PLBTmKkw_sSw0garpOiQ0W6deqEXd_zfaj),
 [Journey](https://www.youtube.com/watch?v=M3hFN8UrBPw),
 [Creatures of Ava](https://www.youtube.com/watch?v=FMFb5eY3Wc4)
+[Blue Eye Samurai | Official Soundtrack](https://www.youtube.com/playlist?list=PLACrjduQziWt229uHmbSQCeUX_lnbEYoB)
 --> à insérer comme suggestion pour chaque phase
 
 La galerie d'art de Nouvelle-Galles du Sud a commandé une musique atmosphérique pour son exposition « Japan Supernatural » d'art traditionnel et contemporain : <https://www.artgallery.nsw.gov.au/listen/supernatural/#music>
@@ -971,24 +938,24 @@ _**Images searches**_: Creative Commons via Google, avec filtres "il y a moins d
 <dt id="campagne">Campagne</dt>
 <dd>ensemble de parties de JdR se suivant pour former une continuité, où l'on retrouve les même personnages dans le même univers</dd>
 
-<dt>Hopepunk</dt>
+<dt><em>Hopepunk</em></dt>
 <dd>
 un sous-genre des littératures de l'imaginaire, conçu à l'opposé des dystopies amorales ou violentes, où la bonté est un acte politique et de rébellion, et les personnages ne se résignent pas face à un univers hostile. <a href="https://fr.wikipedia.org/wiki/Hopepunk">Page Wikipedia dédiée</a>. Voici quelques œuvres que j'estime appartenir à ce genre et que je recommande : les bandes dessinées <em>Lightfall</em>, <em>Mouse Guard</em>, <em>Nimona</em> et <em>SAGA</em>; les films <em>Nausicaä</em> &amp; <em>Princesse Mononoké</em>; la série <em>Firefly</em>; les jeux vidéos <em>Brothers - A Tale of Two Sons</em> & <em>Journey</em>.
 </dd>
 
 <dt>JdR</dt>
-<dd>jeu de rôle</dd>
+<dd>Jeu de rôle</dd>
 
 <dt>MJ</dt>
 <dd>Meneur ou Meneuse de Jeu</dd>
 
-<dt>One-shot</dt>
-<dd>courte partie de JdR isolée, sans qu'il ne soit prévu de suite</dd>
+<dt><em>One-shot</em></dt>
+<dd>Court scénario de jeu de rôle avec une fin prévue, joué en une unique session de jeu</dd>
 
 <dt>PJ</dt>
 <dd>Personnage d'une Joueuse ou d'un Joueur</dd>
 
-<dt>Roleplay</dt>
+<dt><em>Roleplay</em></dt>
 <dd>action d’incarner son personnage, généralement en s’appliquant à parler et agir comme il le ferait</dd>
 
 <dt>Table ouverte</dt>
@@ -1030,7 +997,7 @@ et des petits encarts de réponse permettent aux joueurs d'y consigner leurs dé
 ## Licence, sources & remerciements
 
 <a class="float-left" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-  <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="layout/cc-by-nc-sa.png">
+  <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="../cc-by-nc-sa.png">
 </a>
 
 _Ori Mushi_ a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/blog/), il est placé sous license <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0</a>.

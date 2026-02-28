@@ -14,13 +14,11 @@ from pdf_utils import add_outline_items, md2html, md2pdf, set_metadata, start_wa
 
 copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "layout" / "cc-by-nc-sa.png"))
 
-SRC_FILES = (
+SCENARII_MD_FILEPATHS = (DIR / "scenarios").glob("*.md")
+SRC_FILES = [
     __file__,
     CSS_FILEPATH := DIR / "style.css",
-    # Uncomment one of those lines if you only want to --watch/re-build a single PDF :
-    SCENAR1_MD_FILEPATH := DIR / "scenarios" / "LesDisparusDuFestivalDuPrintemps.md",
-    SCENAR2_MD_FILEPATH := DIR / "scenarios" / "IlFautProtegerBourgMistral.md",
-    SCENAR3_MD_FILEPATH := DIR / "scenarios" / "LesFuneraillesDuDaimio.md",
+    *SCENARII_MD_FILEPATHS,
     CAMPAGN_MD_FILEPATH := DIR / "Campagne.md",
     GUIDE_DU_MJ_MD_FILEPATH := DIR / "GuideDuMJ.md",
     LIENS_ENTRE_PJS_MD_FILEPATH := DIR / "TableDesLiensEntrePersonnages.md",
@@ -30,7 +28,9 @@ SRC_FILES = (
     RULES_MD_FILEPATH := DIR / "OriMushi.md",
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/OriMushi/
     PITCH_MD_FILEPATH := DIR / "index.md",
-)
+]
+if "--offline" in sys.argv:
+    del SRC_FILES[-1]  # index.md contains remotely-hosted <img>s
 
 METADATA = {
     RULES_MD_FILEPATH: {
@@ -42,13 +42,7 @@ METADATA = {
         ],
         "html_filename": "OriMushi.html"
     },
-    CAMPAGN_MD_FILEPATH: {},  # TODO before publishing
-    SCENAR1_MD_FILEPATH: {},  # TODO before publishing
-    SCENAR2_MD_FILEPATH: {},  # TODO before publishing
-    SCENAR3_MD_FILEPATH: {},  # TODO before publishing
-    GUIDE_DU_MJ_MD_FILEPATH: {},  # TODO before publishing
     NOMS_JAP_MD_FILEPATH: { "bookmarks": False },  # TODO before publishing
-    LIENS_ENTRE_PJS_MD_FILEPATH: {},  # TODO before publishing
     MJ_RECAP_KOMUSOS_MD_FILEPATH: { "bookmarks": False },  # TODO before publishing
     CHARACTER_CREATION_MD_FILEPATH: { "bookmarks": False, "html_filename": "CreationDePersonnage.html" },  # TODO before publishing
     PITCH_MD_FILEPATH: { "bookmarks": False, "pdf_filename": "Pitch.pdf" },  # TODO before publishing
@@ -61,7 +55,7 @@ def build_pdf(target_md_file=None):
     if target_md_file is None and len(sys.argv) > 1 and sys.argv[-1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[-1])
     for md_src_file in SRC_FILES[2:]:
-        metadata = {**METADATA[md_src_file]}
+        metadata = {**METADATA.get(md_src_file, {})}
         bookmarks = metadata.pop("bookmarks", True)
         extra_outline = metadata.pop("extra_outline", None)
         html_filename = metadata.pop("html_filename", None)

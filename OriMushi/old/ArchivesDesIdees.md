@@ -86,7 +86,7 @@ Gardez en têtes ces grands principes durant le Mystika :
 **Colosses**
 
 1. Parfois, on peut observer des Colosses immobiles, produisant une **étrange mélodie**. Qu'est-ce qui rend cette musique si particulière ?
-1. L'apparence des Colosses diffère beaucoup : leur taille et leur anatomie vaire, certains comportent des ornements gravés, d'autres des anneaux et des chaînes... Pourtant la plupart partagent **une caractéristique commune** dans leur apparence, laquelle ?
+1. L'apparence des Colosses diffère beaucoup : leur taille et leur anatomie varient, certains comportent des ornements gravés, d'autres des anneaux et des chaînes... Pourtant la plupart partagent **une caractéristique commune** dans leur apparence, laquelle ?
 1. Le plus grand des Colosses a été baptisé **Bilgamesh**. Pendant longtemps, une épreuve de courage fut de l'escalader. Quel objet emblématique a ainsi été planté **à son sommet** ?
 1. 
 1. Durant leur errance sans fin, les Colosses **évitent soigneusement des zones** en particulier, lesquelles ?
@@ -146,8 +146,8 @@ Gardez en têtes ces grands principes durant le Mystika :
 1. Enkidu
 1. Gilga
 1. Poète Endeuillé
-1. Sculpteuse
-1.
+1. Sculpteuse de Mots
+1. Watatsumi, dragon des mers oublié
 :::
 ::::
 
@@ -283,3 +283,45 @@ Si vous aimez avoir un support visuel pour vos parties, voici quelques belles ca
 * [Wizard Prison - Czepeku](https://www.czepeku.com/fantasy/maps/wizard-prison-part-1) - [scene illustration @ Patreon](https://www.patreon.com/posts/90005505)
 * [Celestial Gate - Czepeku](https://www.czepeku.com/fantasy/maps/celestial-gate/spring) - [video scene](https://www.patreon.com/posts/celestial-gate-79276610) - Spring version
 * [Mountaintop Observatory - Czepeku](https://www.czepeku.com/fantasy/maps/mountaintop-observatory/hot-spring-monkey)
+
+
+## Mystika
+
+### Narration partagée
+Cette colonne de la table des secrets indique **comment** se déroulera cette phase.
+Il existe plusieurs formats, détaillés dans les sections suivantes :
+* Question-Réponses
+* Haïkus
+* Artefact
+* Journal de bord
+
+### Format : haïkus
+Dans ce format, vous allez décrire une succession de **scènes** et d'ambiances,
+formant un poème ou une balade, qui se transmet souvent accompagné de musique.
+Le lien entre ces scènes ne sera pas explicité, et c'est à chacun de se forger une idée de ce qui les relier à travers le temps et l'espace.
+Chaque scène est un haïku, une strophe du poème.
+
+Le MJ peut choisir de participer ou non à cette phase.
+
+**Déroulé** : à tour de rôle, chaque joueur énonce une phrase décrivant une **scène** ou une ambiance, pour former une succession de haïkus.
+* n'importe quel joueur inspiré énonce la première phrase du premier haïku. Il est alors chargé d'inscrire toute la strophe sur la Feuille des Haïkus.
+* en tournant dans les sens des aiguilles d'une montre, chaque joueur annonce une phrase à son tour.
+* après un temps de réflexion, un joueur peut passer son tour.
+* si possible, la troisième phrase doit clôturer chaque haïku, puis la quatrième débuter un nouveau haïku, et ainsi de suite.
+* ne respectez pas strictement les règles de composition des haïku : une strophe peut contenir 4 ou 5 phrases, le nombre de syllabes importe peu, une césure (_kireji_) à la fin est bienvenue mais pas nécessaire, etc.
+* **le poème est fini** lorsque tous les joueurs sont satisfaits du poème, et que plus personne n'est inspiré pour débuter de nouveau haïku.
+
+### Format : artefact
+Le MJ participe à cette phase comme les autres joueurs.
+
+Le joueur qui a placé son dé sur cette table choisit un artefact
+en possession d'un komusō du groupe, ou mentionné précédemment durant une partie.
+Il désigne ensuite un joueur en lui passant son dé.
+
+**Déroulé** :
+* chaque joueur doit décrire une brève scène ou l'artefact était impliqué.
+* le premier joueur doit décrire l'origine de l'objet, comment il a été conçu.
+* la description doit s'attacher à décrire une scène préciser, sans nécessaire donner d'explications.
+* les autres joueurs peuvent ensuite faire des commentaires, et poser des questions sur des détails de la scène.
+* enfin, le joueur qui a décrit la scène transmet le dé un autre joueur, pour qu'il narre une autre scène impliquant l'artefact, située chronologiquement plus tard dans la vie de l'objet.
+* une fois que tous les joueurs ont décrit au moins une scène, n'importe quel joueur qui reçoit le dé peut décider d'arrêt cette phase de narration.
