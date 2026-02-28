@@ -45,7 +45,7 @@ Les komuso
 
 **Précisions sur la feuille de Voie** :
 * _**Fabriquer**_ : peut se combiner avec la Compétence _Bricoler_
-* _Matériaux_ : n'importe quel _loot_ dont le komusō justifie la pertinence, pour de l'artisanat ou de l'alchimie, mais **JAMAIS** 2x le même.
+* _Matériaux_ : n'importe quel _loot_ dont le komusō justifie la pertinence, pour de l'artisanat ou de l'alchimie, mais **JAMAIS** 2x le même. Il peut s'agir bois ou de minerais spécifiques, de fragments de machine ou d'artefacts, ou même de mushis. Le Maître-Artisan commence avec 3 matériaux.
 
 ### Mushishi
 > J'étudie et m'efforce d'apaiser mushis et Colosses.
