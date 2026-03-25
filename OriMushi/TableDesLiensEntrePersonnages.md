@@ -32,7 +32,7 @@ Lorsque vous vous êtes mis d'accord sur le type de lien, cochez la ligne corres
 9. ▢ | Motivations proches | <ul><li>Quel objectif avez-vous en commun ?</li><li>Sur quoi n'êtes-vous pas en accord ?</li><li>Êtes-vous en compétition, ou coopérez-vous ?</li></ul>
 10. ▢ | Parentalité | <ul><li>Quel est votre lien de parentalité ?</li><li>Quel souvenir d'enfance partagez-vous ?</li><li>Quel lien avec votre famille conservez-vous avec vous ?</li></ul>
 11. ▢ | Partagent la même passion | <ul><li>S'agit-il d'une fascination pour un sujet, d'objets que vous collectionnez, ou d'un goût pour une forme d'art ?</li><li>L'un de vous possède ou a vécu quelque chose d'exceptionnel en lien avec ceci : de quoi s'agit-il ?</li><li>Quel accord avez-vous passé à ce sujet ?</li></ul>
-12. ▢ | xxx | <ul><li></li></ul>
+12. ▢ | Vous avez un arrangement | <ul><li>Qu'est-ce ce que vous retirez chacun de cet accord ?</li><li>Dans quel contexte êtes-vous venu à établir cet arrangement ?</li><li>Vous n'avez pas exactement la même perception de cet accord : en quoi votre regard diffère ?</li></ul>
 :::
 
 <!--

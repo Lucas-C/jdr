@@ -3,8 +3,9 @@
 ## Les Komuso
 
 ::: borderless with-headings
-Nom komusō<br>& Joueur·euse | Motivation / Vœu personnel | Voie & Activité | Artefacts | Liens & notes
--|-|-|-|-
+Nom komusō<br>& Joueur·euse | Voie & Activité | Motivation / Vœu personnel | Mauvaise Habitude | Artefacts | Liens & notes
+-|-|-|-|-|-
+|
 |
 |
 |
@@ -13,7 +14,10 @@ Nom komusō<br>& Joueur·euse | Motivation / Vœu personnel | Voie & Activité |
 :::
 
 <style>
-@page { size:landscape; }
+@page {
+  size: landscape;
+  margin: /*vertical=*/8mm /*horizontal=*/8mm;
+}
 body { font-size: 1.2rem; max-width: initial; margin: 1rem; }
 th, td { width: 10%; text-align: center; }
 td { height: 4.1rem; }

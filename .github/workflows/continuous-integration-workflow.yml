@@ -297,7 +297,8 @@ jobs:
           # MaxPixel & PikRepo currently return 404 for all pages
           # Notepad++ website is OK but probably rate-limit GitHub
           # 4archive.org sometime fails
-          linksToSkip: 4archive.org,maxpixel.net,pikrepo.com,notepad-plus-plus.org
+          # electric-goat.net is currently KO
+          linksToSkip: 4archive.org,electric-goat.net,maxpixel.net,pikrepo.com,notepad-plus-plus.org
           # We ignore 403 HTTP errors:
           statusCodes: '{"4xx": "error", "403": "ok", "5xx": "error"}'
           verbosity: DEBUG
