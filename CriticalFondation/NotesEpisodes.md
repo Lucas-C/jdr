@@ -211,7 +211,7 @@ Le caisson peut être ouvert avec le code `42`, et il contient un prototype de *
     2. Après 2 tours de combat, lorsque Gires réalise que les PJs résistent, il active son armure de nanomachines pour les affronter lui même, en hurlant  _« Les dieux de l'Olympe sont avec moi ! »_
     3. Après 2 tours de combat, si la majorité des PJs reste debout, Gires s'enfuit : il crie _« Évacuation ! »_, et la baie vitrée derrière son bureau s'ouvre en coulissant, laissant entendre le bruit d'un hélicoptère.
 * 🗡 dans la collection d'objets exposés au mur, trône un **glaive de graphène**
-* 🔫 il est possible de récupérer les **fusils mitrailleurs** des agents de Fondation : donnez alors aux joueurs la carte équipement _Fusil d'Assaut_.
+* 🔫 il est possible de récupérer les **fusils mitrailleurs** des agents de Fondation : donnez alors aux joueurs la carte équipement _Fusil d'Assaut_ (<span class="equip">02</span>).
 
 <br><br><br><br>
 

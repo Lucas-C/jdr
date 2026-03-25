@@ -1,11 +1,13 @@
 <!-- Idées supplémentaires :
 + ajouter une carte pour le gadget "mur de nanomachines"
++ rajouter des numéros aux cartes équipements dans Cartes.md
++ détailler les PNJs : Aaron & la shérif
 + trouver des portraits pour les PNJs qui n'en ont pas,
   et les placer par 6 avec leur nom sur une feuille A4
   afin de les montrer aux joueurs en partie
 + trouver un plan de bateau pour l'épisode 3
-+ rajouter des numéros aux cartes équipements dans Cartes.md
-+ refaire intervenir la sherif ?
++ reprendre mon aide manuscrite en .md ?
++ refaire intervenir la sherif plus tard dans la S2 ?
 -->
 
 ::: title
@@ -24,8 +26,7 @@ Je me suis notamment inspiré des [compte-rendus de campagne de Vociférator sur
 <br>
 
 ## Avant la partie
-Plans / cartes à imprimer optionnellement :
-* [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292) pour l'épisode 4
+À imprimer optionnellement : [CriticalFondation-Saison1-Cartes.pdf](../CriticalFondation-Saison1-Cartes.pdf) et notamment les cartes _roleplay_; le plan [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292) pour l'épisode 4
 
 <!-- Other maps:
 * https://www.patreon.com/posts/abandoned-floor-147959534
@@ -118,7 +119,7 @@ Quelques éléments pour incarner ces personnages de manière mémorable et dist
 
 ### Charlotte Klein / Aphrodite
 + bienveillante, sympathique, elle s'intéresse aux PJs et s'inquiète des épreuves qu'ils traversent
-+ l'apparence de "Charlotte" (<span class="pnj">06</span>) qu'elle emploie est une illusion similaire à la capacité du Corpo; sa véritable apparence est celle de la carte PNJ <span class="pnj">15</span>
++ l'apparence de "Charlotte" (<span class="pnj">06</span>) qu'elle emploie est une illusion similaire à la capacité _Mimétisme_ du Corporatiste; sa véritable apparence est celle de la carte PNJ <span class="pnj">15</span>
 
 **Objectifs**
 + c'est un agent double entre Fondation & Icare, qu'Arès avait tenté de l'éliminer durant la saison 1
@@ -239,6 +240,10 @@ ce manoir est le lieu d'entraînement historique des clones du projet Super Sold
 * un **molosse** dort dans le manoir. Au moindre bruit, ou dès que quelqu'un entre dans le bâtiment, il se met à aboyer puis à foncer vers le PJ le plus proche. C'est un adversaire de difficulté **3** à distance, mais difficulté **4** une fois au corps-à-corps avec un PJ. Il est aussi possible de tenter de l'amadouer avec un test d'**Empathie** (_Social_) difficulté **4**.
 * des _**booby-traps**_ constitués de fils tendus accrochés à des goupilles de grenades ont été disposés en travers toutes les portes d'accès au manoir. Si les PJs ne sont pas explicitement prudents, l'un d'eux déclenchera l'un de ces pièges et devra réussir un test d'**Athlétisme** (_Physique_) difficulté **3** pour ne pas être blessé par l'explosion.
 
+::: banner
+**Montrer** la carte Épisode **Manoir dans la forêt** (<span class="episode">50</span>) aux PJs.
+:::
+
 Voici ce qui peut être découverts dans le manoir :
 * des traces d'un camp d'entraînement de soldats abandonné depuis des années, avec dortoir, réfectoire, douches, champ de tir où des morceaux de cibles sont encore accrochés aux arbres. Une photo abîmée est accrochée à un mur, représentant un groupe de soldats dont plusieurs se ressemblent étrangement, et il est écrit au stylo « **Les Innocents**. »
 * le molosse a commencé à déterrer un corps dans une fosse commune près du manoir, que le Scientifique du groupe sera ravi d'examiner. Un test de **Savoir-Faire** ou **Connaissance** (_Adresse_ ou _Mental_) difficulté **2** lui apprendra qu'il y a là une demi-douzaine de cadavres de soldats, certains mutilés chirurgicalement et d'autres avec des traces de torture, dont certains se ressemblent comme des jumeaux...
@@ -248,7 +253,7 @@ Voici ce qui peut être découverts dans le manoir :
 
 Ce **plan** peut être employé : [_Into Wild Ruins - Ruined Manor_ - Tom Cartos](https://www.patreon.com/posts/into-wilds-ruins-58011292).
 
-* le sol à l'étage s'est totalement écroulé, mais on peut y distinguer une chambre avec du matériel. Il faut réussir un test d'**Athlétisme** (_Adresse_) de difficulté **2** pour y accéder et y découvrir trois sacs de couchage, des **Pilules bleues** (1 par PJ), un **fusil d'assaut**, une **armure en kevlar** et **deux grenades** dont une "flash".
+* le sol à l'étage s'est totalement écroulé, mais on peut y distinguer une chambre avec du matériel. Il faut réussir un test d'**Athlétisme** (_Adresse_) de difficulté **2** pour y accéder et y découvrir trois sacs de couchage, des **Pilules bleues** (1 par PJ), un **fusil d'assaut** (<span class="equip">02</span>), une **armure en kevlar** (<span class="equip">01</span>) et **deux grenades** (<span class="equip">09</span>) dont une "flash" (<span class="equip">16</span>).
 * une trappe dissimulée permet d'accéder au sous-sol, qui contient une chambre d'opération similaire à celle du sous-sol du Dr Monroe, où une trousse de secours peut être trouvée, ainsi qu'un ordinateur _mainframe_ massif et antique, que le Codeur peut tenter de remettre en fonction avec un test de **Connaissance** ou **Savoir-Faire** (_Adresse_ ou _Mental_).
 * en diminuant de 1 la réussite obtenue, cela indique **le nombres d'indices récoltés** par le PJ parmi les rares fichiers encore lisible sur le disque dur : cartes épisodes <span class="episode black">39</span>, <span class="episode black">46</span> et carte indice <span class="hint black">15</span>.
 
@@ -354,7 +359,7 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 + elle fournit quelques explications concernant Fondation (détaillées dans la scène 1 de l'épisode 5 original)
 + en gage de sa bonne foi, elle leur propose : _« posez-moi toutes les questions que vous souhaitez sur Fondation, et j'essaierai d'y répondre le plus exhaustivement et sincèrement possible »_. C'est une manière de fournir de nombreuses informations aux PJs en les laissant « acteurs » de l'échange, comme c'est à eux de mener la discussion. Aphrodite pourra ensuite compléter ces informations sur les sujets que les joueurs n'ont pas abordé.
 + elle apprend aux Pjs que, selon ses sources, **Jackson a été capturé**, mais pas par les forces de police américaine : **par Hadès**, l'un des chefs de Fondation
-+ elle leur apprend aussi qu'**Hadès va s'en prendre au G9**, probablement dès ce soir. Ce rassemblement des présidents très influents ne se déroule en réalité pas à Hong Kong, comme cela a été annoncé comme couverture médiatique, mais bien **ici même à Paris**, à la tour _Wayland_ sur le quai de Grenelle
++ elle leur apprend aussi qu'**Hadès va s'en prendre au G9**, probablement dès ce soir. Ce rassemblement des présidents très influents ne se déroule en réalité pas à Hong Kong, comme cela a été annoncé comme couverture médiatique, mais bien **ici même à Paris**, à la tour _Nakajima-Waylang_ sur le quai de Grenelle
 
 <br>
 
@@ -374,17 +379,17 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 * voici quelques éléments de l'environnement à décrire et exploitable par les PJs :
   + le bar, les fenêtres avec vue sur la Seine, les tables de restaurant renversées, et la foule en panique
   + la magnifique verrière d'acier et de verre, à laquelle est suspendu un propulseur de fusée suspendu (fonctionnel !)
-  + l'exposition est notamment constituée de grands filets militaires suspendus "pour l'ambiance"; de mannequins simulants des soldats vêtus de **vraies** vestes de protection et de fusils mitrailleurs **sans munitions**; de charges XP4 (<span class="item">01</span>) exposées en hauteur sur les murs (pour éviter tout risque que des visiteurs les manipulent)
+  + l'exposition est notamment constituée de grands filets militaires suspendus "pour l'ambiance"; de mannequins simulants des soldats vêtus de **vraies** armures en kevlar (<span class="equip">01</span>) et de fusils d'assaut (<span class="equip">02</span>) **sans munitions**; de charges XP4 (<span class="item">01</span>) exposées en hauteur sur les murs (pour éviter tout risque que des visiteurs les manipulent)
 * aux joueurs de trouver comment vaincre ce tank, les options étant multiples :
   + hacker le tank à distance, avec un test de **Savoir-Faire** (_Adresse_ ou _Mental_) difficulté **5**, ce qui permet alors soit de l'immobiliser soit de bloquer ses armes, au choix du joueur
   + immobiliser le tank en l'entravant
   + employer une grenade bien placée pour le faire exploser, ou le projeter dans la Seine
-* les deux scènes suivantes peuvent se jouer en parallèle : Aphrodite annoncera qu'**elle se rend immédiatement à la tour _Wayland_ pour protéger le G9**, et des PJs peuvent décider de l'accompagner; il est aussi possible de poursuivre **Hadès qui s'enfuit** au terme du combat
+* les deux scènes suivantes peuvent se jouer en parallèle : Aphrodite annoncera qu'**elle se rend immédiatement à la tour _Nakajima-Waylang_ pour protéger le G9**, et des PJs peuvent décider de l'accompagner; il est aussi possible de poursuivre **Hadès qui s'enfuit** au terme du combat
 
 <p class="page-break-after"></p>
 
 #### Scène 3 - À la poursuite d'Hadès
-* une fois le tank vaincu, les PJs verront **Hadès s'extraire de l'engin et s'enfuir du Grand Palais**, en employant sa capacité de dématérialisation temporaire pour traverser les murs (l'occasion pour un PJ ayant cette capacité de le suivre !)
+* une fois le tank vaincu, les PJs verront **Hadès s'extraire de l'engin et s'enfuir du Grand Palais**, en employant sa capacité de dématérialisation temporaire pour traverser les murs (l'occasion pour un PJ ayant la capacité _Spectre_ de le suivre !)
 
 ::: banner
 **Placer** la carte PNJ **Hadès** (<span class="pnj">16</span>) dans votre écran.
@@ -420,7 +425,7 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 * en définitive, au terme de cette scène :
   + si Hadès est capturé vivant, il restera totalement mutique, toisant hautainement les PJs jusqu'à la mort
   + s'ils fouillent le yacht, un test d'**Investigation** (_Mental_) difficulté **3** permettra aux PJs de trouver des documents détaillant le plan de Fondation pour créer des clones de ses membres, diffuser un virus mortel sur la planète, et s'enfuir en orbite : l'opération _"Panthéonisation"_. Donnez aux joueurs les cartes épisodes <span class="episode black">58, 65, 66, 67</span>.
-  + _(si aucun PJ n'a suivi Aphrodite)_ le Codeur du groupe reçoit des alertes de sécurité : **le G9 est victime d'un attentat à la tour _Wayland_**, tout près à un kilomètre d'ici !
+  + _(si aucun PJ n'a suivi Aphrodite)_ le Codeur du groupe reçoit des alertes de sécurité : **le G9 est victime d'un attentat à la tour _Nakajima-Waylang_**, tout près à un kilomètre d'ici !
   + un test de **Savoir-Faire** (_Adresse_ ou _Mental_) difficulté **3** leur permettra de prendre le contrôle du yacht et même de le faire voler à travers Paris !
 
 <figure>
@@ -429,9 +434,9 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 </figure>
 
 #### Scène 4 - Opération "Panthéonisation"
-**Note :** cette section est présentée en partant du principe qu'au moins un PJ accompagne Aphrodite. Si jamais ce n'est pas le cas, les PJs interviendront dans cette scène directement au moment où elle s'attaque aux présidents du G9.
+**Note :** cette scène est présentée en partant du principe qu'au moins un PJ accompagne Aphrodite. Si jamais ce n'est pas le cas, les PJs interviendront dans cette scène directement au moment où elle s'attaque aux présidents du G9.
 
-* Aphrodite demande à un PJ de réquisitionner une voiture de police pour qu'ils se rendent au plus vite la tour _Wayland_, sur le quai de Grenelle : mentionnez leur passage en chemin juste devant la tour Eiffel !
+* Aphrodite demande à un PJ de réquisitionner une voiture de police pour qu'ils se rendent au plus vite la tour _Nakajima-Waylang_, sur le quai de Grenelle : mentionnez leur passage en chemin juste devant la tour Eiffel !
 * sur places, les accréditations dont bénéficient les PJs leur permettent de rentrer dans le bâtiment et de se rendre au 13ème étage où le G9 doit se réunir
 
 ::: banner music
@@ -439,25 +444,23 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 :::
 
 * _(si l'un des PJs est un clone)_ Aphrodite s'arrange pour prendre un ascenseur avec lui uniquement, afin de lui proposer de retourner sa veste contre ses idiots de collègues et de s'allier à la Fondation, sa vraie famille car il est **un clone de Zeus** (si le PJ est féminin : un clone d'elle-même Aphrodite !)
-* au 13ème étage de la tour _Wayland_, des agents des services de sécurité de plusieurs pays sont en alerte et en tension entre eux : l'attaque d'Hadès au Grand Palais faisant craindre un danger imminent pour le G9.
+* au 13ème étage de la tour _Nakajima-Waylang_, des agents des services de sécurité de plusieurs pays sont en alerte et en tension entre eux : l'attaque d'Hadès au Grand Palais faisant craindre un danger imminent pour le G9.
 * **Wagner** est présent et reconnaîtra les PJs s'il les croise, sonnant l'alerte alors concernant ces _« dangereux terroristes »_. Mieux vaut pour les PJs trouver un moyen de l'éviter ou le neutraliser...
 
 ::: banner
-**Placer** la carte PNJ **Wagner** (<span class="pnj">03</span>) dans votre écran.
+**Placer** la carte PNJ **Wagner** (<span class="pnj">04</span>) dans votre écran.
 :::
-
-* **Aphrodite** profite que les PJs expliquent leur confrontation au Grand Palais, et qu'ils "gèrent" Wagner, pour s'éclipser et se rendre dans la salle de réunion du G9, où sont présents les présidents français & chinois. Son plan est simple :
-  + injecter le virus aux présidents, et faire accuser les PJs présents, et les dénonçant comme des terroristes recherchés aux USA
-  + si besoin, après s'être protégée sous une table, déclencher le système de sécurité du bâtiment, qui propulse des jets d'eau glacée dans toutes les pièces pour geler toutes les personnes présentes
-  + une fois son méfait accompli, abandonner son apparence de Charlotte et s'enfuir par l'héliport sur le toit, si besoin en prenant un président en otage
 
 ::: banner
 **Montrer** la carte Épisode **Salle de réunion du G9** (<span class="episode">61</span>) aux PJs.
 :::
 
-::: banner equipement
-**Chaque** PJ reçoit une carte **État Gelé** (<span class="state">06</span>)
-:::
+* **Aphrodite** profite que les PJs expliquent leur confrontation au Grand Palais, et qu'ils "gèrent" Wagner, pour s'éclipser et se rendre dans la salle de réunion du G9, où sont présents les présidents français & américain. Son plan est simple :
+  + **injecter le virus au président français**, et faire accuser les PJs présents, et les dénonçant comme des terroristes recherchés aux USA
+  + une fois son méfait accompli, abandonner son apparence de Charlotte, et **prendre le rôle d'une agente de sécurité** participant à l'exfiltration du président américain hors du bâtiment (= carte PNJ <span class="pnj">15</span>)
+  + une fois isolés dans une pièce avec ce président et quelques agents de sécurité servant la Fondation, **récolter les identifiants biométriques du président** : empreintes digitales, scan oculaire, enregistrement vocal, ADN...
+  + si besoin, après s'être protégée sous une table, déclencher un système de sécurité qui propulse des jets d'eau glacée dans toutes les pièces pour geler les individus présents : tous les PJs reçoivent alors une carte **état gelé** <span class="state">06</span>
+  + **s'enfuir par l'héliport** sur le toit, si besoin en gardant le président américain en otage
 
 ::: banner
 **Placer** la carte PNJ **Aphrodite** (<span class="pnj">15</span>) dans votre écran.
@@ -470,7 +473,7 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 * la fin de cette scène dépend entièrement des choix & actions des PJs, mais voici quelques idées :
   + les agents des services de sécurité se mettent à **se canarder entre eux**, plus personne ne se faisant confiance, alors même que des agents de la Fondation sont infiltrés parmi eux pour assister Aphrodite
   + Wagner pourrait être touché par balle, voir même être sauvé par un PJ
-  + au moins un des présidents se retrouve contaminé par le virus, et se met à paniquer puis à convulser
+  + le président français se met à paniquer, à implorer à l'aide puis à convulser
   + un hélicoptère s'approche, et peut éventuellement se mettre à canarder par les fenêtres pour couvrir Aphrodite
   + une course poursuite s'ensuit dans les escaliers vers le toit, où se tient **le grand final**
 
@@ -499,7 +502,7 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 Cette aide de jeu de Lucas Cimon a été publiée en février 2026 et est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation).
-Merci aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
+Merci aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le logiciel de dessin Gimp](https://www.gimp.org/), [OpenStreetMap](https://www.openstreetmap.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
 
 Cette aide de jeu est diffusée gratuitement.
 Je serais ravi d'avoir vos retours si vous l'employez :
