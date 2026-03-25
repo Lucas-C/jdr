@@ -21,7 +21,7 @@ Keitarō (m)<br>________________ | ?<br>________________ | ?<br>________________
 :::
 
 <style>
-@page { size:landscape; }
+@page { size: landscape; }
 body { font-size: 1.2rem; max-width: initial; margin: 1rem; }
 th, td { width: 20%; text-align: center; }
 td { height: 4.1rem; }

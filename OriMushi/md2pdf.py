@@ -35,7 +35,7 @@ if "--offline" in sys.argv:
 METADATA = {
     RULES_MD_FILEPATH: {
         "title": "Ori Mushi",
-        "keywords": ("jdr", "ttrpg", "hopepunk", "japon", "fantasy", "ghibli", "komusō", "mushi"),
+        "keywords": ("jdr", "ttrpg", "hopepunk", "japon", "fantasy", "ghibli", "isekai", "komusō", "mushi"),
         "description": "Un jeu de rôle hopepunk dans un univers de fantasy inspiré du japon médiéval, où les joueurs incarnent des komusō, ayant fait vœu d'aider la population, et où des créatures nommées mushis ont donné naissance à la magie.",
         "extra_outline": [
             "ⰀⰁⰂⰃⰄⰅⰆⰇⰈⰉⰊⰋⰌⰍⰎⰏⰐⰑⰒⰓⰔⰕⰖⰗⰘⰙⰚⰛⰜⰝⰞⰟⰠⰡⰢⰣⰤⰥⰦⰧⰨⰩⰪⰫⰮ",  # Glagolitic => peut être converti en cyrillique

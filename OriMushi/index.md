@@ -5,9 +5,11 @@
 
 <br>
 
-Un jeu de rôle _hopepunk_ dans un univers de _fantasy_ inspiré du japon médiéval,
+Un jeu de rôle dans un univers de _fantasy_ inspiré du japon médiéval,
 où les joueurs incarnent des _komusō_, ayant fait vœu d'aider la population,
 et où des créatures nommées _mushis_ ont donné naissance à la magie.
+
+**Mots clefs** : japon médiéval, fantasy, Ghibli, _hopepunk_, _isekai_
 
 **Inspirations**: Mushishi, Le château dans le ciel, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoké, Le Voyage de Chihiro, Full Metal Alchemist, Zelda...
 
@@ -26,7 +28,7 @@ Voici les atouts principaux de ce jeu :
 
 Mais aussi :
 * un **carnet d'aventures** rédigé petit à petit par les joueurs
-* une **création des personnages rapide** : 10min par personnage environ
+* une **création des personnages rapide**
 * **la progression des personnages amène la progression de l'histoire** <!-- le passage de palier de Voie déclenche les actes 2 & 3 -->
 * un jeu de rôle adapté pour des enfants ou des ados, et pour faire découvrir le jeu de rôle
 

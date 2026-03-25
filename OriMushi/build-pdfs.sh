@@ -4,12 +4,6 @@
 set -o pipefail -o errexit -o nounset #-o xtrace
 cd $(dirname ${BASH_SOURCE[0]})
 
-# LivretDAventures: 2xA5 on A4 :
-convert -density 600 character-sheets/OriMushi-LivretDAventures.pdf tmp-%03d.png
-mv tmp-000.png character-sheets/OriMushi-LivretDAventures-2x.png
-a5-from-img --portrait character-sheets/OriMushi-LivretDAventures-2x.png
-rm character-sheets/OriMushi-LivretDAventures-2x.png
-
 # FeuillePersonnage: 2xA5 on A4 :
 convert -density 600 character-sheets/OriMushi-FeuillePersonnage.pdf tmp-%03d.png
 mv tmp-000.png character-sheets/OriMushi-FeuillePersonnage-2x.png

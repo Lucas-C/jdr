@@ -90,6 +90,7 @@ img {
   display: block;
   margin: 0 auto;
 }
+figcaption { font-style: italic; text-align: center; margin: .5rem 0; }
 ul { padding-left: 0; }
 ul > li { list-style: "◆"; margin-left: .9rem; margin-bottom: .333rem; }
 /* A bug in WeasyPrint prevents us to set padding-left on li elements,
@@ -246,6 +247,69 @@ a.theme-music {
 /* Put everything slightly in the background to avoid headers to overlap paragraphs before & after: */
 .insert, .insert h3, .insert h4 { z-index: -2; }
 .insert h3:before, .insert h3:after, .insert h4:before, .insert h4:after { z-index: -1; }
+
+
+/* Pictos: */
+.episode, .equip, .hint, .pnj, .state, .item {
+  display: inline-block;
+  font-family: "Uniwars";
+  position: relative; /* in order to position child pseudo-elements */
+}
+.episode:before, .equip:before, .hint:before, .pnj:before, .state:before {
+  content: '';
+  display: block;
+  width: 1rem;
+  height: .8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.episode { padding-left: 1.2rem; }
+.episode:before { background-image: url('imgs/pictos/episode.png'); }
+.episode.black:before { background-image: url('imgs/pictos/episode-black.png'); }
+.equip { padding-left: 1rem; }
+.equip:before { background-image: url('imgs/pictos/equipment.png'); }
+.equip.black:before { background-image: url('imgs/pictos/equipment-black.png'); }
+.hint { padding-left: .9rem; }
+.hint:before { background-image: url('imgs/pictos/hint.png'); }
+.hint.black:before { background-image: url('imgs/pictos/hint-black.png'); }
+.pnj { padding-left: .9rem; }
+.pnj:before { background-image: url('imgs/pictos/pnj.png'); }
+.pnj.black:before { background-image: url('imgs/pictos/pnj-black.png'); }
+.state { padding-left: .9rem; }
+.state:before { background-image: url('imgs/pictos/state.png'); }
+.state.black:before { background-image: url('imgs/pictos/state-black.png'); }
+
+.banner {
+  margin: .3rem 0;
+  padding: 1px 0;
+  line-height: .2rem;
+  border-radius: .5rem;
+  color: white;
+  font-size: 1rem;
+  background-color: #267;
+  position: relative; /* in order to position child pseudo-elements */
+}
+.banner:before, .banner:after {
+  content: '';
+  display: block;
+  background-image: url('imgs/banner-arrow.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 45px;
+  height: 31px;
+  top: 3.5px;
+}
+.banner:before { left: 1rem; }
+.banner:after { right: 1rem; transform: rotate(180deg); }
+.banner.equipement { background-color: #548; }
+.banner.heal { background-color: #c44; } .banner.heal:after { top: 3px; }
+.banner.music { background-color: #494; } .banner.music a { color: white; font-weight: bold; }
+.banner > p { text-align: center; }
+.banner .episode:before, .banner .equip:before, .banner .hint:before, .banner .pnj:before, .banner .state:before { top: -5px; }
 
 .blue { color: #7EA6E0; }
 .green { color: #97D077; }

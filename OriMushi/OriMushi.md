@@ -1,38 +1,48 @@
-<!-- En vrac:
+<!--
 
-* me mettre un rappel 15 jours avant chaque partie de "boucler" les inscriptions
-* retrouver feuille idées de sources d'inspi -> ajouter livres jdr & ptgptb
+!! Rappel : 15 jours avant chaque partie, "boucler" les inscriptions (=> alert cron ?)
 
 Next :
 
+* légères modifs des FPs :
+    Feuille de Personnage : agrandir zone des liens & supprimer Notes
+    Feuilles de Voie :"caler" à gauche la feuille de base A5
+    Feuilles de Voie : adopter le nouveau système d'Oris sur 3 colonnes, avec possibilité d'en rayer 3 pour obtenir un "prodige" :
+        relance avec +1 au résultat d'un lancer de dés
+        se relever alors qu'on est KO
+        substitut de Mana / matériau / mushi ?
+        rejouer une scène de roleplay ?
+    + objectif de groupe d'atteindre 50 Oris pour le palier 2
+* prochaine partie :
+    expédition dans la Vallée Oubliée ? même si Elliot absent ?
+    ré-introduire Sobek
+    révéler + d'infos sur les secrets des techniques de Vitruve
+    anticiper motivation du groupe début acte 2, s'ils ne sont plus des komusō...
 * recopier notes manuscrites des aventures 3 & 4
+    -> établir lien Gilga - Sobek dans l'aventure 2 ou 3
 * terminer trame principale des actes 2 & 3, et définir les aventures qui les constituent
     -> développer le Peuple Éteint et préparer leur rencontre avec PJs
     -> lier avec Vitruve & Poète Endeuillé
     -> inventer quelques créatures fascinantes (et non violentes)
 * conception des Voies de l'acte 2
-* rédiger paragraphe sur la mécanique des Liens :
+* finir Noms-japonais.md
+  => prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
+* rédiger un paragraphe sur la mécanique des Liens :
     + +1d6 lors d'une action pour aider / contre le personnage concerné
     + comment établir de nouveaux Liens et en dénouer d'autres ?
       => sur choix du joueur, lorsqu'il estime que dans l'histoire il a commencé à tisser un lien fort avec un personnage
     + limiter les liens entre PJs ? (pour éviter les abus)
-* remplacer Oris/XPs par mécanique où Oris = jetons dans un "pot commun" ?
-  obtenus sur un échec critique, permettant divers effets :
-    +2 au résultat d'un lancer de dés
-    substitut de Mana / matériau / mushi ?
-    rejouer des scènes de roleplay ?
+* compléter la section PNJs entamée
 * finir le Codex Mushi complet
     + mnémocoques : coquillages somnivores, capables de conférer l'**immortalité**, s'ils sont brisés et que leur cœur est consommé; cela signifie cependant **perdre progressivement la mémoire**...
     + equié : slime / pate répare-tout / devient visible en durcissant
     + laisser de la place pour en inventer !
-* finir Noms-japonais.md
 * rédiger section à propose des VOYAGES : durée, ellipses, etc.
     => les komusō hitch hikent, et donc c'est chaque fois l'opportunité d'une rencontre
 * rédiger section à propose de la santé / blessures / mort
-* remplacer/supprimer section "Notes" sur FP (conserver uniquement Notes sur feuille de Voie)
-* prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
 * 2-pagers "Ce que savent les komusō sur les terres connues", avec éléments de géographie, d'histoire, de bestiaire
 * orga parties : proposer à Donatien / Naïg / Cédric...
+* rédiger un paragraphe sur l'orientalisme, et comment Ori Mushi se situe par rapport à ça
 * employer jinja2 pour définir des templates de PNJ :
     + ses Objectifs
     + son Attitude + guide de Roleplay
@@ -72,6 +82,9 @@ Com'
 * transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier
 * exposer une 2e page web référencée dans le livre, avec tous les liens vers les ressources PDFs du jeu
 * https://www.reddit.com/r/Mushishi
+* axes de com'
+    "un récit tendre et épique, que vous ne pouvez PAS découvrir seul"
+    -> accroche pour expliquer que l'histoire ractontée par Ori Mushi ne peut être pas être "vécue" pleinement en la lisant, mais seulement en l'expérimentant collectivement autour d'une table de jeu
 * contacter Gulix pour review / partie test ?
 * site web : nuages d'estampe à écarter au curseur
 
@@ -103,9 +116,11 @@ Illustrations not free:
 
 <br>
 
-Un jeu de rôle _hopepunk_ dans un univers de _fantasy_ inspiré du japon médiéval,
+Un jeu de rôle dans un univers de _fantasy_ inspiré du japon médiéval,
 où les joueurs incarnent des komusō, ayant fait vœu d'aider la population,
 et où des créatures nommées _mushis_ ont donné naissance à la magie.
+
+**Mots clefs** : japon médiéval, fantasy, Ghibli, _hopepunk_, _isekai_
 
 **Inspirations**: Mushishi, Le château dans le ciel, Shadow of the Colossus, Avatar le maître de l'air, Naruto, Princesse Mononoké, Le Voyage de Chihiro, Full Metal Alchemist, Zelda...
 
@@ -815,7 +830,9 @@ Capitaine en chef des bateliers
 * **Comment s'opposera-t-il aux PJs ?** :
 * **Liens avec autres PNJs** :
 ### Cécil
-Archiviste, bibliothécaire, ancien élève de Mokabé
+Archiviste, bibliothécaire, ancien élève de Mokabé.
+Cheveux longs blancs, barbiche tressée, petites lunettes.
+Deux disciples : Hiruko & Ayumi (cf. notes manuscrites)
 * **Objectifs** :
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
@@ -889,6 +906,16 @@ La galerie d'art de Nouvelle-Galles du Sud a commandé une musique atmosphériqu
 [Blue Turtle YouTube playlists](https://www.youtube.com/@BlueTurtle/videos)
 
 Bande son YouTube : [Ori Mushi](https://www.youtube.com/playlist?list=PLLgE-ga3W_kbktCFQcCk_AIr3UqNLBRGI)
+
+### Autres œuvres
+* court métrage filmé : _Yae: Blind Samurai Woman_ de Akiko IZUMITANI (2022) : visionnable [ici sur YouTube](https://www.youtube.com/watch?v=ufkoaQWs0n0)
+* court métrage animé : _Possessions_ par Shuhei Morita (2013) : visionnable [ici sur Dailymotion](https://www.dailymotion.com/video/x54qtyb)
+<!--
+Good source: https://www.catsuka.com/videos/categorie/courtmetrage
+
+Koji : animated samurai fight : https://www.youtube.com/watch?v=61zI4eE92xM
+Genshin Impact short anime: https://www.catsuka.com/player/zibai_as_drifting_wayside_dust_genshin_impact
+-->
 
 ::: page-break
 :::
@@ -1063,5 +1090,5 @@ Partie du 5/04/2025 Au WEJ avec Olivier, Naïg, Flo, Timothé (?) & ? (ami Naïg
 Partie du 10-11/05/2025 avec Aurelien, Elliot, Laure, Matt & Olivier
 cf. carnet rouge page 89
 
-Partie du 28/02/2026 avec Matthieu, Noah, Olivier
+Partie du 28/02/2026 avec Matthieu, Noah, Olivier, Elliot, Laure
 -->
