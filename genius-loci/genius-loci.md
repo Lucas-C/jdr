@@ -189,7 +189,7 @@ du bruit et de la vitesse
 <style>
 @font-face {
   font-family: GunnyRewritten;
-  src: url('fonts/gnyrwn971.ttf') format('truetype');
+  src: url('fonts/GunnyRewritten.ttf') format('truetype');
 }
 
 body {

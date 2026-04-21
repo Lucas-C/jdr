@@ -11,7 +11,7 @@ Version PDF (58 Ko): [LeDernierCaféSurLaGauche.pdf](https://chezsoi.org/s/LDCSL
 “ Nous sommes au milieu d'un petit bourg désert indéterminé, un mardi pluvieux de novembre, tôt dans la soirée.
 Vous savez le moment où tous les magasins ont fermé, et les quelques rares personnes encore présentes terminent leur boulot ou leurs courses en vitesse.
 Une seule vitrine reste allumée, le dernier café sur la gauche.
-A l'intérieur, sous le regard fatigué et apathique d'un barman qui vient de travailler dix heures d'affilé, sont assis une poignée de personnes,
+À l'intérieur, sous le regard fatigué et apathique d'un barman qui vient de travailler dix heures d'affilé, sont assis une poignée de personnes,
 seuls à leur table.
 Qui sont-ils ? ”
 

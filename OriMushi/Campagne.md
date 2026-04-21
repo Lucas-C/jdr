@@ -12,7 +12,7 @@ mais les véritables héroïnes sont des PNJs, qu'ils assisteront : Mae, Oma, Ru
 * de + en + d'**Onis apparaissent**, à cause de Gilga
 * comment arrêter la terrible épidémie de **Fléau Impassible** ?
 * l'**Église de la Connaissance** devient de plus en plus influente, et vise à détruire toutes les créatures "magiques", et les reliques du passé antique
-* **un nouveau Colosse s'éveille** et les autorités s'inquiètent : pourrait-il causer des dégâts ?
+* au terme du second acte, la magie va quasiment disparaître, et les _mushis_ changer totalement de comportement
 
 ::: page-break
 :::
@@ -22,6 +22,7 @@ Les komusō sont majoritairement au 1er pallier de leur Voie.
 
 **Enjeux** :
 * l'acte 1 est une phase d'**exposition** de l'univers, et permet d'établir des repères pour les joueurs, qui seront ensuite bousculés dans les actes 2 & 3
+* **un nouveau Colosse s'éveille** et les autorités s'inquiètent : pourrait-il causer des dégâts ?
 
 ### Aventure 1 - Les disparus du festival du printemps
 **Synopsis** : les komusō aident des marchands **prisonniers d'un mushi** et **réveillent un Colosse**
@@ -32,7 +33,7 @@ Les komusō sont majoritairement au 1er pallier de leur Voie.
 * les PJs assistent au **réveil du Colosse [Nergal](https://fr.wikipedia.org/wiki/Nergal)**
 * pour le **Mushishi** : un mushi à observer et collecter; ...
 * pour l'**Artiste-Conteur** : le festival est l'occasion d'une représentation; ...
-* pour le **Maître-Artisan** :
+* pour le **Maître-Artisan** : un Colosse à examiner; ...
 * pour le **Poète-Sorcier** : un Colosse à examiner; ...
 
 ### Aventure 2 - Il faut protéger Bourg-Mistral
@@ -182,6 +183,10 @@ Vous pouvez aussi choisir de **continuer à suivre votre Voie actuelle**.
 Elle se déclenche au début d'une partie où
 **au moins trois PJs présents ont rempli leur jauge d'Oris**.
 Elle **déclenche le passage au troisième palier de Voie de tous les komusō**.
+
+### Événements clefs
+* les _mushis_ changent fondamentalement de comportement, et deviennent hostiles envers les hommes
+* la magie telle qu'elle était pratiquée disparaît : elle nécessite désormais d'exploiter des _mushis_ contre leur gré
 
 
 ## Acte 3

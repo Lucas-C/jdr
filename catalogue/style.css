@@ -1,0 +1,72 @@
+@font-face { font-family: "Candara"; src: url("fonts/Candara.ttf"); }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Bold.ttf"); font-weight: bold; }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Italic.ttf"); font-style: italic; }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Bold_Italic.ttf"); font-weight: bold; font-style: italic; }
+
+.page { page-break-after: always; }
+@page {
+  margin: /*vertical=*/1.2cm /*horizontal=*/1.2cm;
+  counter-increment: page-count;
+  @bottom-center { content: counter(page-count); }
+}
+
+.toc {
+  font-size: 1rem;
+  columns: 2;
+  column-gap: 8rem;
+  margin: 0;
+  padding: 0 1rem;
+}
+.toc li { margin-bottom: .5rem; }
+.toc li a::after {
+  content: 'Page ' target-counter(attr(href), page-count);
+  float: right;
+  font-size: 1rem; 
+}
+
+* { box-sizing: border-box; }
+
+body {
+  max-width: 44rem;
+  margin: 0 auto;
+  font-family: "Candara";
+  font-size: 1.3rem;
+}
+
+img { display: block; max-width: 100%; margin: 0 auto; }
+
+p { text-align: justify; }
+blockquote { font-style: italic; margin: .5rem 0 .5rem 1rem; }
+dt:not(:first-child)::before { content: ''; display: block; margin-top: 1rem; }
+dt { display: inline; }
+dd { display: inline; margin: 0; }
+h2, dl, .materiel, .documents { max-width: 28rem; }
+dt, .materiel > p, .documents > p { font-weight: bold; }
+h3 { margin-bottom: .5rem; }
+a { color: #555; }
+a:after { content: '🔗'; font-size: .5rem; }
+
+.float-left { float: left; margin-right: .5rem; }
+
+img.intro { max-width: 60%; }
+
+a.license:after { content: none; }
+.license img { width: 6rem; }
+.license + p { font-size: 1rem; }
+
+.images {
+  position: absolute;
+  right: 0;
+  top: 0;
+  max-width: 15rem;
+}
+.images img { margin-bottom: 1rem; }
+.images p { font-size: 1rem; text-align: center; }
+
+.qrcode {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  max-width: 12rem;
+}
+.qrcode a:after { content: none; }

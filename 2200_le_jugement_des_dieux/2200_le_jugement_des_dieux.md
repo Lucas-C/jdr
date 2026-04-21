@@ -377,7 +377,7 @@ body {
   margin: 0 auto;
   padding: 4rem;
   font-family: Calibri,Arial,sans-serif;
-  font-size: .8rem;
+  font-size: .75rem;
   line-height: 1.4;
 }
 h1, h2, h3 {

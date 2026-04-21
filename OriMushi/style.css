@@ -70,6 +70,7 @@ table ul { padding-left: 1rem; margin: 0; }
 .left-align-col-2 th:nth-child(2), .left-align-col-2 td:nth-child(2) { text-align: left; }
 .right-align-col-1 th:first-child, .right-align-col-1 td:first-child { text-align: right; }
 .large-col-3 th:nth-child(3), .large-col-3 td:nth-child(3) { width: 66%; }
+.quarter-col-2 th:nth-child(2), .quarter-col-2 td:nth-child(2) { width: 25%; }
 .reduced-vertical-margin th, .reduced-vertical-margin td { padding-top: .1rem; padding-bottom: .1rem; }
 .same-size-2-cols th, .same-size-2-cols td { width: 50%; }
 .same-size-3-cols th, .same-size-3-cols td { width: 33%; }
@@ -109,5 +110,6 @@ table ul { padding-left: 1rem; margin: 0; }
   h1 { font-size: 7rem; margin: 0 auto 2rem; }
   h2, h2 { margin-top: 0; }
   body { font-size: 1.2rem; }
+  table, th, td { font-size: 1rem; }
   .web-only { display: none; }
 }

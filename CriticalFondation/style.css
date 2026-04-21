@@ -248,7 +248,6 @@ a.theme-music {
 .insert, .insert h3, .insert h4 { z-index: -2; }
 .insert h3:before, .insert h3:after, .insert h4:before, .insert h4:after { z-index: -1; }
 
-
 /* Pictos: */
 .episode, .equip, .hint, .pnj, .state, .item {
   display: inline-block;
@@ -284,7 +283,7 @@ a.theme-music {
 
 .banner {
   margin: .3rem 0;
-  padding: 1px 0;
+  padding: 1px 0; /* necessary for weasyprint to not "squeeze" this element */
   line-height: .2rem;
   border-radius: .5rem;
   color: white;

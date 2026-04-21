@@ -3,16 +3,13 @@
 import asyncio, logging, sys
 from pathlib import Path
 from random import randint
-from shutil import copyfile
 from time import perf_counter
 
 logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useless verbose logging
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import add_outline_items, md2html, md2pdf, set_metadata, start_watch_and_rebuild
-
-copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "layout" / "cc-by-nc-sa.png"))
+from pdf_utils import add_outline_items, md2pdf, set_metadata, start_watch_and_rebuild
 
 SCENARII_MD_FILEPATHS = (DIR / "scenarios").glob("*.md")
 SRC_FILES = [

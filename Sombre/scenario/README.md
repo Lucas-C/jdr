@@ -79,7 +79,9 @@ pour glisser à l'intérieur les informations secrètes de chaque PJ.
 
 Enfin, les armes à feu et les tuiles « Zombie » sont à découper individuellement.
 
-Toutes les pièces possèdent un recto et un verso : elles doivent être **repliées** une fois découpées.Un point de colle peut être ajouté à l'intérieur pour s'assurer qu'elles resteront bien plates.Certaines pièces possèdent un verso « transformé », d'autres un verso uni.
+Toutes les pièces possèdent un recto et un verso : elles doivent être **repliées** une fois découpées.
+Un point de colle peut être ajouté à l'intérieur pour s'assurer qu'elles resteront bien plates.
+Certaines pièces possèdent un verso « transformé », d'autres un verso uni.
 
 <br>
 
@@ -172,7 +174,8 @@ il s'agit des données recherchées par Markus.
 En entrant à droite, l'écran d'un terminal de contrôle brille d'une lumière jaune.
 Il affiche clairement ce message :
 
-> Brèche détectée. <br>> Risque d'explosion imminente. <br>
+> Brèche détectée. <br>
+> Risque d'explosion imminente. <br>
 > Voulez-vous libérer les spores ?
 
 Il n'est rien possible de faire d'autre sur ce terminal.
@@ -474,7 +477,7 @@ qui inclut notamment :
 
 ## Licence
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-  <img class="float-left" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="cc-by-nc-sa.png"/>
+  <img class="float-left" alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="../../cc-by-nc-sa.png"/>
 </a>
 Ce scénario a été conçu par Lucas Cimon et est placé sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
 

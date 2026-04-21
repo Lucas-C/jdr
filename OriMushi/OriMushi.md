@@ -4,15 +4,12 @@
 
 Next :
 
-* légères modifs des FPs :
-    Feuille de Personnage : agrandir zone des liens & supprimer Notes
-    Feuilles de Voie :"caler" à gauche la feuille de base A5
-    Feuilles de Voie : adopter le nouveau système d'Oris sur 3 colonnes, avec possibilité d'en rayer 3 pour obtenir un "prodige" :
-        relance avec +1 au résultat d'un lancer de dés
-        se relever alors qu'on est KO
-        substitut de Mana / matériau / mushi ?
-        rejouer une scène de roleplay ?
-    + objectif de groupe d'atteindre 50 Oris pour le palier 2
+* agrandir la fiche des PJs pour avoir 8 lignes
+* modifs des FPs :
+    Feuilles de Voie : "caler" à gauche la feuille de base A5
+    Feuille de Voie de Poète-Sorcier : Focus durant LA SCENE / quelques minutes
+    Feuille de Voie de l'Artiste-Conteur : restaurer gain d'Ori pour découvertes de reliques & histoires secrètes
+    Feuille de Voie du Maître-Artisan : adopter un système de matériaux + souple (cf. notes)
 * prochaine partie :
     expédition dans la Vallée Oubliée ? même si Elliot absent ?
     ré-introduire Sobek
@@ -25,8 +22,10 @@ Next :
     -> lier avec Vitruve & Poète Endeuillé
     -> inventer quelques créatures fascinantes (et non violentes)
 * conception des Voies de l'acte 2
-* finir Noms-japonais.md
-  => prévoir des feuilles de PNJs, avec une zone où le MJ peut prendre des notes
+* détailler comment, en pratique en partie, les Maîtres-Artisans collectent des matériaux
+    à l'initiative des joueurs
+    etc.
+* modifier Noms-japonais.md pour en faire agrandir les cases de de PNJs, avec une zone où le MJ peut prendre des notes (Apparence, Intentions)
 * rédiger un paragraphe sur la mécanique des Liens :
     + +1d6 lors d'une action pour aider / contre le personnage concerné
     + comment établir de nouveaux Liens et en dénouer d'autres ?
@@ -34,6 +33,7 @@ Next :
     + limiter les liens entre PJs ? (pour éviter les abus)
 * compléter la section PNJs entamée
 * finir le Codex Mushi complet
+    + baies gojiaques : soignent & prolongent l'espérance de vie
     + mnémocoques : coquillages somnivores, capables de conférer l'**immortalité**, s'ils sont brisés et que leur cœur est consommé; cela signifie cependant **perdre progressivement la mémoire**...
     + equié : slime / pate répare-tout / devient visible en durcissant
     + laisser de la place pour en inventer !
@@ -81,6 +81,10 @@ Mise en page :
 Com'
 * transformer https://lucas-c.github.io/jdr/OriMushi/ en un "hub" promouvant un kit de découvert et la version papier
 * exposer une 2e page web référencée dans le livre, avec tous les liens vers les ressources PDFs du jeu
+* publier des micro-JdRs dans l'univers d'Ori Mushi
+    + Run. Die. Repeat
+    + Cheat Your Own Adventure
+    + Laser & Feelings
 * https://www.reddit.com/r/Mushishi
 * axes de com'
     "un récit tendre et épique, que vous ne pouvez PAS découvrir seul"
@@ -90,6 +94,7 @@ Com'
 
 Extensions / développement du jeu au-delà du "livre de base" :
 * illustrations grand format téléchargeables réalisées par Elliot, pour illustrer des scénarios, et les fournir aux joueurs
+* online "song board", to play songs during the game
 * scénarios supplémentaires / "saison 2"
 
 Lien PDF de la Feuille de perso = générateur Python avec questions "masks" random
@@ -540,7 +545,7 @@ De plus :
   ou bien se rabattre sur une réussite partielle.
 * actions **difficiles** : lorsque le personnage d'un joueur tente d'accomplir une véritable prouesse, une action à la limite de ses capacités, le MJ peut alors indiquer qu'au moins **deux dés de valeur** ⚃, ⚄ ou ⚅ sont nécessaires pour réussir l'action.
 * actions **en opposition**, comme par exemple un affrontement : un jet est effectué par personnage : **celui obtenant le plus de** ⚅ l'emporte. En cas d'égalité, on considère les ⚄, puis les ⚃. Si l'égalité persiste, aucun personnage ne prend l'avantage.
-* actions **conjointes** : un personnage assistant un autre à réaliser une action lui octroie **un dé bonus**, si le MJ juge cette aide pertinente. Un seul dé est octroyé lorsque plusieurs personnages fournissent leur aide.
+* actions **conjointes** : lorsqu'un joueur aide un personnage avec lequel il partage un **Lien** à réaliser une action, il lui octroie **un dé bonus**, si le MJ juge cette aide pertinente.
 
 <br class="web-only">
 
@@ -608,31 +613,33 @@ passez ensuite successivement aux phases de jeu suivante :
 :::
 
 ## Oris & progression
-Les Oris représentent la sagesse, l'élan de bonté, la force intérieure que n'importe qui peut développer.
+Les Oris représentent la sagesse, l'élan de bonté, la force intérieure de chaque komusō.
 
 La progression en Oris d'un komusō représente son gain d'expérience
 acquise en réalisant des actions en alignement avec son code moral,
 au fur et à mesures de ses aventures.
 
-::: borderless right-align-col-1 with-headings
-Situation | Progression par aventure
+::: borderless right-align-col-1 quarter-col-2 with-headings
+Situation | Par aventure
 -|-
 Échec critique ⚀⚀ | +1 Ori
 Agir selon les Vœux des komusō, et son Vœu Personnel | +1 Ori
-Suivre ses critères de Progression de Voie | +1 Ori
+Suivre ses critères de progression de Voie | +1 Ori
 Placer au moins une fois son komusō dans une situation délicate à cause de sa Mauvaise habitude | +1 Ori
 :::
 
 En dehors de l'échec critique, tous les gains d'Oris se font en fin de session de jeu,
 lorsque les komusō reprennent leur voyage.
 
-Lorsque les personnages ont obtenus suffisamment d'Oris,
-et qu'ils satisfont les critères de leur Voie,
-**ils changent de palier**, et donc de feuille de Voie.
+### Miracles
+Un joueur peut barrer une ligne de 3 Oris cochés pour déclencher un **Miracle** :
+* suite à un lancer de dés, les relancer et obtenir +2 au résultat.  Si vous relancer un échec critique, vous ne gagnez pas d'Ori. Un double 1 / 6 sur votre nouveau jet reste un échec / une réussite critique.
+* se relever alors qu'on est KO
+* trouver les ressources manquantes pour employer une capacité : trouver suffisamment de Mana pour employer un Vocable, trouver le mushi ou les matériaux dont vous avez besoin au fond de votre sac, etc.
+* rejouer une scène de _roleplay_, quelle qu'en soit la raison : envie de faire d'autres choix, de prononcer d'autres paroles, d'incarner différemment son personnage...
 
-Le changement de palier se déroule au début d'une partie où
-**au moins trois PJs présents satisfont le critère de passage au palier suivant de leur Voie**.
-Tous les komusō changent alors de palier simultanément.
+### Changement de palier
+Lorsque tous les personnages autour de la table ont atteint au moins 50 Oris autour de la table en début de partie, **tous les komusō** de la partie changent alors simultanément de palier, et donc de feuille de Voie.
 
 Ne fournissez pas aux joueurs de détails au préalable sur comment cela se déroule.
 Tout est détaillé dans le [Guide du MJ](GuideDuMJ.pdf).
@@ -691,14 +698,26 @@ Les phases de Questions-Réponses se déroulent ainsi :
 
 
 ## Merveilles
+Voici quelques principes de fonctionnement communs aux créations de Vitruve :
+* elles sont _steampunks_, gigantesques, renferment généralement des mécanismes d'horlogerie complexes... Elles sont les témoins d'un passé techniquement glorieux
+* la plupart emploient de l'énergie magique pour fonctionner : sphères de Vitruve, algue-portail, gemmes _Meikōhōseki_...
+* elles sont conçues avec des matériaux considérés comme "nobles" :
+    + acier marbré _Testugan_ de corroyage
+    + acier noir _Shinen_ absorbant la lumière
+    + bois _Kujiki_ dont les fibres très résistantes se dilatent en fonction de la pression
+    + marbe _Tsukigane_
+
 Voici quelques-unes des merveilles que pourraient découvrir les PJs.
 L'Église de la Connaissance souhaitera se les approprier.
 Il s'agit pour la plupart de créations de Vitruve durant les Temps Antiques, mais pas seulement :
 ### Le Gyroptère de Vitruve
 _cf._ [Gyroptère](https://fr.wikipedia.org/wiki/Gyropt%C3%A8re)
+
+Peut être découvert, incomplet, dans l'atelier de Vitruve
+
 ### La Tour de l'Infini
 * Possède de nombreuses portes (la plupart fermées), s'ouvrant dans de nombreux lieux des terres connues
-* c'est un lieu secret, que les komusō 
+* c'est un lieu tenu secret par les Prêtres du Vide, que les PJs découvrent en début de campagne
 * les portails nécessitent de l'algue-portail 
 * ⚠️ la nuit, une masse d'algue-portail s'y déplace d'étage en étage (façon cube gélatineux)
 ### Le Théâtre des Cieux
@@ -798,6 +817,7 @@ Vit au Moulin Des Cigognes
 * **Comment peut-elle aider les PJs ?** :
 * **Comment s'opposera-t-elle aux PJs ?** :
 * **Liens avec autres PNJs** : fille de Mokabé; komusō apprentie d'Oma 
+### Sobek
 ### Osamu Tenpo
 Évêque-ingénieur chargé de l'évangélisation des Basses-Plaines
 Accompagné et secrètement d'arquebusiers
@@ -808,6 +828,7 @@ Accompagné et secrètement d'arquebusiers
 * **Liens avec autres PNJs** :
 ### Bilgamesh
 Colosse encore actif, géant humanoïde arpentant les Basses Plaines.
+Il est recouvert de lances ornementales auxquelles sont souvent attachés des étendards déchirés.
 * **Objectifs** :
 * **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
@@ -843,6 +864,13 @@ Successeur de Mokabé.
 A un sabre à la ceinture, vestige de son passé de guerrier, mais il est **soudé**.
 * **Objectifs** :
 * **Attitude (guide de roleplay)** : débonnaire, bon vivant / buveur, volontiers impertinent / moqueur, parfois impulsif
+* **Comment peut-il aider les PJs ?** :
+* **Comment s'opposera-t-il aux PJs ?** :
+* **Liens avec autres PNJs** :
+### Aerys
+Évêque ingénieur en chef, et doyen de l'Église de la Connaissance à Nippur
+* **Objectifs** :
+* **Attitude (guide de roleplay)** :
 * **Comment peut-il aider les PJs ?** :
 * **Comment s'opposera-t-il aux PJs ?** :
 * **Liens avec autres PNJs** :
