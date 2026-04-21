@@ -259,6 +259,11 @@ jobs:
           node ../md2html.js sous-terre.md > index.html
           cd -
 
+          echo "Rendering LaVengeanceDesPandasRouxDeLEspace"
+          cd TheRedPandaIntelligenceDivisionsRevenge
+          ./md2pdf.py
+          cd -
+
           echo "Rendering VengeanceFatale4D"
           cd VengeanceFatale4D
           node ../md2html.js VengeanceFatale4D.md > index.html
