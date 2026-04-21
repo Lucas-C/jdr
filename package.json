@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "markdown-it": "14.0.0",
+    "markdown-it": "14.1.1",
     "markdown-it-anchor": "8.6.7",
     "markdown-it-checkbox": "git+https://git@github.com/Lucas-C/markdown-it-checkbox.git",
     "markdown-it-container": "4.0.0",
