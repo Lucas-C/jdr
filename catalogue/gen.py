@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import asyncio, logging, os, sys
 from base64 import b64encode
+from collections import defaultdict
 from io import BytesIO
 from pathlib import Path
 
@@ -47,10 +48,12 @@ def build_pdf(target_file=None):
                       lstrip_blocks=True, trim_blocks=True,
                       undefined=StrictUndefined)
     template = env.get_template(JDR_TEMPLATE_FILEPATH.name)
-    jdrs_html = ''
+    jdrs_html, materiel = '', defaultdict(int)
     for jdr in jdr_courts:
         qrcode_data_img = 'data:image/png;base64,' + base64_png_qrcode_img(jdr["url"])
         jdrs_html += template.render(jdr=jdr, qrcode_data_img=qrcode_data_img)
+        for matos in jdr.get("materiel", ()):
+            materiel[matos] += 1
     html_doc = build_html_doc(jdrs_html)
     with open(DIR / "index.html", "w", encoding="utf8") as html_file:
         html_file.write(html_doc)
@@ -58,6 +61,9 @@ def build_pdf(target_file=None):
     with PDF_FILEPATH.open("wb") as out_pdf_file:
         out_pdf_file.write(pdf)
     print(f"{PDF_FILEPATH.name} built")
+    print("Materiel requis :")
+    for matos, count in sorted(materiel.items(), key=lambda item: -item[1]):
+        print(f"x{count} {matos}")
 
 def base64_png_qrcode_img(url):
     qr = QRCode()

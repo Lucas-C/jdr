@@ -67,15 +67,16 @@ De plus, les autres joueurs peuvent choisir une chose qu'ils aiment chez vous et
 ---
 
 ::: get-things-done
-### SE BOUGER LE CUL
+### SE BOUGER LE POPOTIN
 Quand vous prenez un risque, lancez 1d6.
 - 1-3 : ÉCHEC. Vous racontez ce qui se passe.
 - 4-6 : VICTOIRE. Vous racontez ce qui se passe.
 
-Vous pouvez aussi choisir de gagner en obtenant 1-3. Vous racontez ce qui se passe, mais le MJ peut vous infliger un REVERS dont vous ne pourrez pas vous sortir.
+Vous pouvez aussi choisir de gagner en obtenant 1-3.
+Vous racontez ce qui se passe, mais le MJ peut vous infliger un REVERS dont vous ne pourrez pas vous sortir.
 + Si vous êtes très doué dans votre domaine, 1-3 est une victoire, et 4-6 est une ACTION PARFAITE.
 + Si vous n'êtes pas aussi bon que vous le croyez, 4-6 reste une victoire, mais le MJ inflige un revers à un autre joueur.
-+ Employez ce que les gens n'aiment vous concernant pour vous aider. Lancez 2d6 et gardez le meilleur résultat.
++ Employez ce que les gens n'aiment pas vous concernant pour vous aider. Lancez 2d6 et gardez le meilleur résultat.
 + Le MJ peut exploiter vos points forts pour vous mettre en difficulté. Lancez alors 2d6 et gardez le plus bas.
 :::
 
@@ -93,14 +94,14 @@ Vous pouvez aussi choisir de gagner en obtenant 1-3. Vous racontez ce qui se pas
 5. Des mamans de footballeurs
 6. Des ratons laveurs samouraïs
 
-ISSUS DE
+\+
 
-1. KGB
-2. Terre creuse
-3. Mafia néerlandaise
-4. Mars
-5. La cité perdue de Mü
-6. Une réalité alternative
+1. du KGB
+2. de la Terre creuse
+3. de la mafia néerlandaise
+4. de Mars
+5. de la cité perdue de Mü
+6. d'une réalité alternative
 
 :::
 
@@ -108,27 +109,27 @@ ISSUS DE
 1. Par un trou de ver. Un grand.
 2. Avec une machine en panne.
 3. Par un portail dans un immense bâtiment militaire.
-4. Avec une fusée expérimentale des BG.
+4. Avec la fusée expérimentale des méchants.
 5. Par sorcellerie (Eh oui, les sorcières existent bel et bien !).
-6. Il n'y a pas de retour possible. Dur !
+6. Il n'y a pas de retour possible. DUR !
 ::::
 
 ::::
 ### LEURS MOTIVATIONS
 1. Voler 1 MILLIARD DE DOLLARS !
 2. Créer une armée de clones
-3. Trouver l'Atlantide
+3. Trouver l'Atlantyde
 4. Envahir la Lune
 5. Sauver les pandas. L'autre espèce.
 6. Découvrir le secret de la vie éternelle
 
 ### LEURS SECRETS
 1. Ils sont fauchés.
-2. Ils ont un chef secret. [Insérer l'identité du chef.]
+2. Ils ont un chef secret. 2d6 pour définir le méchant boss.
 3. Ils ont un repaire secret.
-4. Ils ont une faiblesse stupide.
+4. Ils ont un point faible stupide.
 5. Ils ont un otage.
-6. Ils emploient un panda roux.
+6. Un panda roux travaille pour euxs.
 
 ::::
 
