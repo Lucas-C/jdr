@@ -3,9 +3,11 @@ from contextlib import contextmanager
 from datetime import datetime
 from functools import partial
 from pathlib import Path
+from poppler import load_from_file, PageRenderer
 from random import shuffle
 from traceback import print_exc
 from urllib.parse import quote
+from shutil import copyfile
 from time import perf_counter
 
 from bs4.builder._htmlparser import HTMLParserTreeBuilder
@@ -14,6 +16,7 @@ from fpdf import FPDF, FPDF_VERSION
 from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
 from mistletoe.block_token import tokenize, BlockToken
+from PIL import Image
 import pikepdf
 from pypdf import PageObject, PdfReader, PdfWriter
 from weasyprint import HTML, CSS, VERSION as WP_VERSION
@@ -32,6 +35,8 @@ AUTHOR = "Lucas Cimon"
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE = "[\x00-\x2F\x3A-\x40\x5B-\x60\x7B-\uFFFF]+"
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_RE = re.compile(ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
 ANCHOR_ID_CHAR_RANGE_TO_IGNORE_PREFIX_RE = re.compile("^" + ANCHOR_ID_CHAR_RANGE_TO_IGNORE)
+
+DIR = Path(__file__).parent
 
 logging.basicConfig(format="%(asctime)s %(name)s [%(levelname)s] %(message)s",
                         datefmt="%H:%M:%S", level=logging.INFO)
@@ -311,6 +316,58 @@ def add_outline_items(pdf_filepath, outline_items, color=None, italic=False, bol
     for title in outline_items:
         writer.add_outline_item(title, page_number=None, color=color, italic=italic, bold=bold)
     writer.write(pdf_filepath)
+
+
+def copy_files(dest_dir, *asset_ids, img=None, imgs=None):
+    for asset_id in asset_ids:
+        copy_asset(dest_dir, asset_id)
+    if img:
+        for img_src_path, img_dst_name in img.items():
+            copy_img(dest_dir / "img", img_src_path, img_dst_name)
+    if imgs:
+        for img_src_path, img_dst_name in imgs.items():
+            copy_img(dest_dir / "imgs", img_src_path, img_dst_name)
+
+def copy_asset(dest_dir, asset_id):
+    if asset_id.startswith("font:"):
+        font_dir = dest_dir / "fonts"
+        font_dir.mkdir(exist_ok=True)
+        font_name = asset_id[5:]
+        for suffix in ("", "_Bold", "_Italic", "_Bold_Italic"):
+            src_font_file = DIR / "fonts" / f"{font_name}{suffix}.ttf"
+            if src_font_file.exists():
+                copyfile(str(src_font_file), str(font_dir / src_font_file.name))
+    else:
+        raise NotImplementedError(f"Unsupported {asset_id=}")
+
+def copy_img(img_dir, img_src_path, img_dst_name):
+    img_src_file = DIR / img_src_path
+    img_dst_file = img_dir / (img_dst_name or img_src_file.name)
+    if not img_dst_file.exists():
+        copyfile(str(img_src_file), str(img_dst_file))
+
+def export_img(pdf_filepath, specs, dpi=300):
+    pdf_filepath = Path(pdf_filepath)
+    start = perf_counter()
+    pdf_doc = load_from_file(pdf_filepath)
+    for spec in specs:
+        page_index = spec["page"]
+        page = pdf_doc.create_page(page_index - 1)
+        page_img = PageRenderer().render_page(page, xres=dpi, yres=dpi)
+        img = Image.frombytes(
+            "RGBA",
+            (page_img.width, page_img.height),
+            page_img.data,
+            "raw",
+            str(page_img.format),
+        )
+        if "crop" in spec:
+            img = img.crop(spec["crop"])
+        img_filepath = pdf_filepath.with_suffix(".png")
+        if "suffix" in spec:
+            img_filepath = img_filepath.with_stem(img_filepath.stem + spec["suffix"])
+        img.save(img_filepath)
+    return perf_counter() - start
 
 
 async def start_watch_and_rebuild(module, *files_to_watch):

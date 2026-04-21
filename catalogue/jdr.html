@@ -1,0 +1,47 @@
+<div class="page">
+  <h2>{{ jdr.nom }}</h2>
+  <div class="images">
+    {% for img in jdr.images %}
+    <img alt="" src="imgs/{{ img }}">
+    {% endfor %}
+  </div>
+  <dl>
+    <dt>Joueur·euses :</dt>
+    <dd>{{ jdr.joueurs }}</dd>
+    <dt>Durée :</dt>
+    <dd>{{ jdr.duree }}</dd>
+    {% if "specificites" in jdr %}
+    <dt>Spécificités :</dt>
+    <dd>{{ jdr.specificites }}</dd>
+    {% endif %}
+    <dt>Description :</dt>
+    <dd>{{ jdr.description }}</dd>
+  </dl>
+  {% if jdr.materiel %}
+  <div class="materiel">
+    <p>Matériel requis :</p>
+    <ul>
+      {% for materiel in jdr.materiel %}
+      <li>{{ materiel }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% if "documents" in jdr %}
+  <div class="documents">
+    <p>Nombre d'exemplaires disponibles :</p>
+    <p>Documents à remettre :</p>
+    <ul>
+      {% for doc in jdr.documents %}
+      <li>{{ doc }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  <div class="qrcode">
+    <p>Retrouvez ce jeu ici :</p>
+    <a href="{{ jdr.url }}">
+      <img alt="QRCode pour accéder au site web" src="{{ qrcode_data_img }}">
+    </a>
+  </div>
+</div>

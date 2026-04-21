@@ -2,7 +2,6 @@
 # USAGE: ./md2pdf.py [--watch] [file.md]
 import asyncio, logging, sys
 from pathlib import Path
-from shutil import copyfile
 from time import perf_counter
 
 logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
@@ -10,7 +9,6 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import markdown2pdf, md2html, set_metadata, start_watch_and_rebuild
-copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "imgs" / "cc-by-nc-sa.png"))
 
 SRC_FILES = (
     __file__,
@@ -53,7 +51,7 @@ METADATA = {
         "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison 2 du jeu de rôle Critical Fondation",
     },
     HIGHTENSION_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
-    README_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
+    README_MD_FILEPATH: { "lang": "fr", "pdf": False },
 }
 
 def build_pdf(target_md_file=None):
@@ -62,7 +60,7 @@ def build_pdf(target_md_file=None):
     if target_md_file is None and len(sys.argv) > 1 and sys.argv[-1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[-1])
     for md_src_file in SRC_FILES[2:]:
-        metadata = METADATA[md_src_file]
+        metadata = {**METADATA[md_src_file]}
         lang = metadata.pop("lang")
         if target_md_file is None or target_md_file == md_src_file:
             if metadata.pop("pdf", None) is False:

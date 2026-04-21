@@ -11,7 +11,6 @@
 #    xreload
 import asyncio, io, logging, sys
 from pathlib import Path
-from shutil import copyfile
 from time import perf_counter
 
 from fpdf import FPDF
@@ -24,10 +23,10 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useles
 DIR = Path(__file__).parent
 
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
+from pdf_utils import copy_files, markdown2pdf, set_metadata, start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
 from render_utils import iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
-copyfile(str(DIR / ".." / ".." / "cc-by-nc-sa.png"), str(DIR / "cc-by-nc-sa.png"))
+copy_files(DIR, "font:Candara")
 
 MD_FILEPATH = DIR / "README.md"
 CSS_FILEPATH = DIR / "style.css"

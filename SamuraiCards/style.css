@@ -1,0 +1,85 @@
+@font-face { font-family: "Candara"; src: url("fonts/Candara.ttf"); }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Bold.ttf"); font-weight: bold; }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Italic.ttf"); font-style: italic; }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Bold_Italic.ttf"); font-weight: bold; font-style: italic; }
+
+@font-face { font-family: "Odachi";  src: url('fonts/Odachi.otf'); }
+@font-face { font-family: "Samurai";  src: url('fonts/samurai.ttf'); }
+@font-face { font-family: "SamuraiBlast";  src: url('fonts/SamuraiBlast.otf'); }
+@font-face { font-family: "XangdaShiny";  src: url('fonts/XangdaShiny.ttf'); }
+
+@page {
+  margin: /*vertical=*/1.2cm /*horizontal=*/1.2cm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  max-width: 44rem;
+  margin: 0 auto;
+  font-family: "Candara";
+  font-size: .9rem;
+  line-height: .95rem;
+}
+
+p { text-align: justify; }
+blockquote { font-style: italic; }
+
+.cards {
+  color: white;
+  font-size: .66rem;
+  display: grid;
+  grid-template-columns: 24% 24% 24% 24%;
+  gap: 1.333%;
+  margin-bottom: .666rem;
+}
+
+.card {
+  height: 15.5rem;
+  /* background: url('imgs/card-bg.jpg'); */ border: 1px solid grey;
+  background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: 50% 0;
+  position: relative;
+}
+
+.card img {
+  display: block;
+  width: 100%;
+}
+
+.card .name {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  /* background: url('imgs/card-name-bg.jpg'); */ border: 1px solid red;
+  background-repeat: no-repeat;
+  height: 1rem;
+  background-size: cover;
+}
+.card .name h3 {
+  font-weight: bold;
+  font-size: .45rem;
+  line-height: .2rem;
+  margin-left: .666rem;
+  padding: 0;
+  background-color: initial;
+}
+.card .name h3:before { content: ''; }
+
+.card p { text-align: left; }
+.card ul { margin-top: -.5rem; }
+
+.card .description {
+  position: absolute;
+  top: 75%;
+  margin-left: .666rem;
+  margin-right: .666rem;
+  line-height: .9rem;
+}
+.card .description p { margin-top: 0; }
+
+.float-left { float: left; margin-right: 1rem; }
+.float-right { float: right; margin-left: 1rem; }
+
+.page-break-after { page-break-after: always; }

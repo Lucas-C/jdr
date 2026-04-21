@@ -7,8 +7,8 @@ package-lock.json
 *.webm
 *.bkp
 
-*/cc-by-nc-sa.png
-*/*/cc-by-nc-sa.png
+*/fonts/Candara*.ttf
+*/*/fonts/Candara*.ttf
 
 index.html
 md2html.js

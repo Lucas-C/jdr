@@ -1,0 +1,363 @@
+- nom: Jeux <em>For The Story</em>
+  joueurs: 2 à 5 joueur·euses
+  duree: 1h à 2h
+  specificites: sans MJ, sans dés, à tour de rôle, narration collective, facile à jouer
+  description: |
+    Inventez ensemble des histoires épiques, drôles, dramatiques, riches en émotions, rencontres et lieux inattendus.
+    <br>
+    Quatre jeux <em>For The Story</em> sont disponibles :
+    <blockquote>
+      <b>Sur la Route</b> est le dernier publié, et le plus riche.
+      Quel est le but de votre voyage ? Pour quelles raisons avez-vous pris la route ? Quel drama révélerez-vous en chemin ?
+      Choisissez l’un des 48 thèmes proposés, puis laissez-vous guider des préparatifs du voyage jusqu’à sa conclusion.
+    </blockquote>
+    <blockquote>
+      <b>Pour la Reine</b> est l'excellent jeu qui a lancé la collection.
+      Racontez un récit mêlant amour, héroïsme, doutes et trahisons, jusqu’à l’apparition de la plus importante des questions :
+      La Reine est attaquée. La défendez-vous ?
+    </blockquote>
+    <blockquote>
+      <b>Donjons et siphons</b> :
+      L’entretien des W.C. et des canalisations d’un donjon est un travail difficile,
+      rempli d’épreuves, et il est temps que le Seigneur du Donjon vous prenne en considération.
+      Qui parmi vous montrera qu’il a toutes les qualités (et une bonne dose de folie) pour vous représenter ?
+    </blockquote>
+    <blockquote>
+      <b>Rituels</b> :
+      Entrez dans un monde de cultes secrets et de rituels mystiques : choisissez l’un des 8 contextes
+      et l’un des 8 rituels à accomplir, et laissez-vous guider en répondant aux questions des cartes.
+      Inventez ensemble un récit mêlant mysticisme, doutes et complots.
+    </blockquote>
+  materiel:
+  - la boîte du jeu et ses cartes
+  images:
+  - Sur_La_Route.png
+  - PourLaReine.png
+  url: https://forthestory.fr/jeux/
+
+- nom: Run. Die. Repeat.
+  joueurs: 1 MJ + 1 à 6 joueur·euses
+  duree: 20 à 30min en général
+  specificites: temps limité, à tour de rôle
+  description: |
+    <blockquote>
+      Vous êtes piégé dans une <b>boucle temporelle</b> !
+      <br>
+      Chaque fois que vous mourrez, vous recommencez exactement au même endroit, au même instant.
+      <br>
+      Trouverez-vous comment vous échapper ?
+    </blockquote>
+    Un jeu conçu pour de courtes sessions effrénées,
+    stimulant l'imagination et l'improvisation des joueur·euses qui jouent à tour de rôle.
+  materiel:
+  - Un dé à 6 faces
+  - Un minuteur, par exemple sur smartphone
+  documents:
+  - "Règle du jeu : une page"
+  - "Chaque partie peut être intégralement improvisée, mais quelques scénarios sont aussi proposés : une feuille pour chaque"
+  images:
+  - RunDieRepeat-with-goblin.jpg
+  - RunDieRepeat-Labyrinthe.png
+  - RunDieRepeat-Invasion.jpg
+  url: https://lucas-c.itch.io/10-scenarios-pour-run-die-repeat
+
+- nom: Cheat Your Own Adventure
+  joueurs: 3 à 5 joueur·euses
+  duree: 1h environ
+  specificites: sans MJ, à tour de rôle
+  description: |
+    <blockquote>
+      Incarnez tour à tour le <b>Lecteur</b> d'un livre-dont-vous-êtes-le-héros
+      et le <b>Narrateur</b> qui offre des choix de pages où se rendre ensuite.
+      <br>
+      Réussirez-vous à aller au bout de l'aventure sans revenir en arrière ?
+    </blockquote>
+  materiel:
+  - 4 dés à 6 faces
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  images:
+  - CYOA.jpg
+  - LivresDontVousEtesLeHeros.webp
+  url: https://chezsoi.org/s/CYOAPDFDownload
+
+- nom: Le dernier café sur la gauche
+  joueurs: 3 à 5 joueur·euses
+  duree: 1h environ
+  specificites: axé sur le <em>roleplay</em>, sans MJ, sans dés, narration collective, règles à lire au fur et à mesure
+  description: |
+    <blockquote>
+      Nous sommes au milieu d’un pet bourg désert indéterminé, un mardi pluvieux
+      de novembre, tôt dans la soirée. Vous savez le moment où tous les magasins ont
+      fermé, et les quelques rares personnes encore présentes terminent leur boulot ou
+      leurs courses en vitesse. Une seule vitrine reste allumée, le dernier café sur la
+      gauche. A l’intérieur, sous le regard fagué et apathique d’un barman qui vient de
+      travailler dix heures d’affilé, sont assis une poignée de personnes, seuls à leur table.
+      <br><br>
+      Qui sont-ils ?
+    </blockquote>
+  materiel:
+  - aucun
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  images:
+  - LeDernierCafeSurLaGauche.jpg
+  url: https://chezsoi.org/s/LDCSLGPDFDownload
+
+- nom: Tout le monde est <s>John</s> Jean
+  joueurs: 1 MJ + 2 à 5 joueur·euses
+  duree: 1h à 2h
+  specificites: "à tour de rôle, sans scénario fourni : improvisation nécessaire, minimaliste, peu d'explications fournies : à vous d'improviser !"
+  description: |
+    <blockquote>
+      <s>John</s> Jean est possédé par des esprits maléfiques : VOUS !
+      <br>
+      Incarnez des âmes errantes / démons / spectres possesseurs
+      et luttez pour prendre le contrôle du corps de <s>John</s> Jean.
+    </blockquote>
+    <em>Tout le monde est John</em> est court jeu de rôle indé datant des années 2000.
+    <br>
+    Cette version traduite récemment en français évite l'aspect psychophobiquee des règles originales
+    en faisant plutôt incarner aux joueur·euses des esprits luttant pour prendre possession de <s>John</s> Jean.
+  materiel:
+  - Un dé à 6 faces
+  - Une feuille d'esprit pour chaque joueur·euse
+  documents:
+  - "Règle du jeu : 3 pages"
+  images:
+  - TLMEJ.png
+  url: https://www.reddit.com/r/jdr/comments/1kcvjtl/tous_le_monde_est_jean_traduction_fr_de_everyone/
+
+- nom: Big Gay Orcs
+  joueurs: 1 MJ + 2 à 5 joueur·euses
+  duree: 1h à 2h
+  specificites: "drama, axé sur le <em>roleplay</em>, sans scénario fourni : improvisation nécessaire, minimaliste, peu d'explications fournies : à vous d'improviser !"
+  description: |
+    <blockquote>
+      Vous êtes des champions parmi les orcs.
+      Après l’assassinat de votre Saigneur, vous avez reçu les ordres du Grand Khan :
+      votre forteresse est la dernière ligne de défense entre l’armée ennemie et la capitale orc,
+      et vous devez la défendre jusqu’à la mort s’il le faut.
+      <br>
+      Peut-être serez-vous tous morts demain.
+      <br>
+      Le soleil se couche et vous apercevez les braseros ennemis à l’horizon.
+      Vous songez à la vie que vous avez passé au côté de vos camarades orcs.
+      <br>
+      Parviendrez-vous à leur dire ce que vous ressentez réellement,
+      alors que la fin est si proche ?
+    </blockquote>
+  materiel:
+  - "Trois dés à 6 faces : un rouge, un noir, un blanc"
+  - Une feuille de papier et un crayon pour chaque joueur·euse
+  documents:
+  - "Règle du jeu : une page"
+  images:
+  - big-gay-orcs.png
+  url: https://troplongpaslu.fr/jeux-de-role-court/big-gay-orcs/
+
+- nom: Sexy Battle Wizards
+  joueurs: 1 MJ et 2 à 4 joueur·euses
+  duree: 1h à 2h
+  specificites: "sans scénario fourni : improvisation nécessaire, minimaliste, peu d'explications fournies : à vous d'improviser !"
+  description: |
+    <blockquote>
+      VOUS ÊTES UN·E MAGE DE BATAILLE SEXY.
+      <br>
+      Vous êtes membre du Collège Errant,
+      une organisation basée dans un château volant magique qui parcourt le monde
+      afin d’éviter des désastres arcaniques et combattre l’injustice.
+      <br>
+      En fait, vous n’avez aucune autorité pour agir de la sorte.
+      <br>
+      La police vous déteste et vous êtes recherché·e dans plusieurs pays
+      pour dommages collatéraux causés alors que vous sauviez le monde.
+    </blockquote>
+  materiel:
+  - Un dé à 6 faces
+  - 2 dés à 10 faces
+  - Une feuille de papier et un crayon pour chaque joueur·euse
+  documents:
+  - "Règle du jeu : une page"
+  images:
+  - Sexy-Battle-Wizards-VF.jpg
+  url: https://troplongpaslu.fr/jeux-de-role-court/sexy-battle-wizards-version-francaise/
+
+- nom: Dans la nuit longue et glaciale
+  joueurs: 2 à 4 joueur·euses
+  duree: 1h à 2h
+  specificites: "narration collective, sans scénario fourni : improvisation nécessaire"
+  description: |
+    <blockquote>
+      Après un crash d’hélicoptère sur un flanc de montagne, en plein hiver,
+      le protagoniste de l’histoire se retrouve perdu à quelques kilomètres du crash
+      et devra faire son maximum pour survivre à la nuit longue et glacée.
+    </blockquote>
+    Dans ce jeu de rôle, un·e seul·e des joueur·euses incarne le personnage principal,
+    tandis que les autres incarnent l'environnement hostile.
+  materiel:
+  - 2 dés à 6 faces
+  - Une feuille de papier et un crayon pour chaque joueur·euse
+  - "(optionnel) 20 jetons : idéalement de 2 couleurs différentes, 10 de chaque"
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  images:
+  - DLNLG_preview.jpg
+  url: https://troplongpaslu.fr/jeux-de-role-court/dans-la-nuit-longue-et-glaciale/
+
+- nom: CYBER//PUNK
+  joueurs: 1 MJ + 2 à 6 joueur·euses
+  duree: 1h à 2h
+  specificites: "sans scénario fourni : improvisation nécessaire"
+  description: |
+    <blockquote>
+      NOUS SOMMES EN 20X6.
+      Vous formez une équipe de Runners – des agents mercenaires dont l'expertise est à vendre, dans un crépuscule semi-légal entre les mégacorporations monolithiques, les gangs vicieux et les habitants opprimés de The Sprawl, un dédale urbain baigné de néons.
+      TON OBJECTIF : Termines la mission et restes en vie.
+    </blockquote>
+    Un jeu de rôle inspiré des univers de <em>Blade Runner</em>, <em>Neuromancer</em>, <em>Ghost in the Shell</em> et <em>Shadowrun</em>.
+    <br>
+    C'est un <em>hack</em> du JdR <em>Lasers & Feelings</em>, et les règles sont donc ultra simples.
+  materiel:
+  - Un dé à 6 faces
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  images:
+  - CyberPunk.jpg
+  url: https://lucas-c.itch.io/cyberpunk
+
+- nom: Queen-Killer
+  joueurs: 3 à 4 joueur·euses
+  duree: 1h à 2h
+  specificites: "drama, axé sur le <em>roleplay</em>, sans dés"
+  description: |
+    <blockquote>
+      La Reine est morte. L'un de nous l'a tué.
+      <br>
+      Personne ne s'est encore emparé de sa couronne. Mais l'un de nous mérite de la porter.
+      <br>
+      Nous devons nous décider et choisir un régent ou une régente, légitime ou non, ou nous périrons tous.
+    </blockquote>
+    Queen-Killer est un jeu d'intrigues, de trahison et de romance.
+    <br>
+    Combattez pour le trône ! Tombez amoureux ! Ou vengez vous dans le sang !
+  materiel:
+  - Un jeu de 32 ou 52 cartes
+  - Une feuille de papier et un crayon pour chaque joueur·euse
+  - Une pièce de monnaie
+  documents:
+  - "Règle du jeu : une page"
+  - Une aide de jeu par joueur·euse
+  images:
+  - Queen-Killer.png
+  url: https://matthieu-be.itch.io/queen-killer-vf
+
+- nom: Dungeon Heart
+  joueurs: 2 à 4 joueur·euses
+  duree: 1h à 2h
+  specificites: "<em>dungeon crawler</em>, sans MJ"
+  description: |
+    <blockquote>
+      “De temps en temps ils viennent. Ces vilaines créatures nommées Aventuriers.
+      Ils envahissent notre demeure sans aucun respect.
+      Ils viennent voler, tuer et détruire tout ce qui nous est cher.
+      Nous devons tout faire pour les arrêter, quitte à y laisser la vie.
+      Nous défendrons notre <b>cœur</b> de leur cupidité infâme et sans limite.
+      Car s’ils arrivent à l’atteindre et à le vaincre,
+      ce sera la fin pour nous et nous serons perdus à jamais...
+    </blockquote>
+    Incarnez les gardiens d’un donjon défendant leur demeure contre des aventuriers maléfiques.
+  materiel:
+  - au moins une douzaine de dés à 6 faces
+  - plusieurs feuilles de papier
+  - des crayons de bois et des gommes pour chaque joueur·euses
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  images:
+  - dungeon-heart.png
+  url: https://chezsoi.org/lucas/blog/dungeon-heart.html
+
+- nom: La Brigade du Chaos
+  joueurs: 1 MJ + 2 à 5 joueur·euses
+  duree: environ 2h
+  specificites: "fantasy, orcs débiles, sans scénario fourni : improvisation nécessaire"
+  description: |
+    <blockquote>
+      Incarnez la Brigade du Chaos, une escouade d'orcs chahuteurs en mission pour « infiltrer » une ville humaine afin de kidnapper l'ignoble prince Holstein.
+    </blockquote>
+    Un jeu de rôle qui ne se prend pas au sérieux, à base d'explosions, de grosses bastons, de vols de trucs, de panique générale et, surtout, de plans vraiment stupides! 
+  materiel:
+  - au moins une douzaine de dés à 6 faces
+  - des crayons de bois et des gommes pour chaque joueur·euses
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  - 7 feuilles de personnages
+  - carte de Freiberg
+  images:
+  - HavocBrigade-goblins.png
+  - HavocBrigade-cover.jpg
+  url: https://lucas-c.itch.io/la-brigade-du-chaos
+
+- nom: "2200 : Le jugement des dieux"
+  joueurs: 3 ou 4 joueur·euses
+  duree: 2h environ
+  specificites: sans MJ, sans dés, narration collective, règles à lire au fur et à mesure
+  description: |
+    <blockquote>
+      Dans ce jeu vous aller <b>incarner un dieu</b>, ancien ou moderne, ayant la charge de statuer du sort des mortels décédés en cette année 2200.
+      <br>
+      Vous avez chacun vos propres critères pour juger des actions des hommes, de leur karma et du destin de leur âme.
+    </blockquote>
+  materiel:
+  - 2 dés à 8 faces
+  - 3 jetons quelconques
+  documents:
+  - "Règle du jeu : une feuille recto-verso"
+  images:
+  - 2200-lJdD-cover.png
+  - 2200-lJdD-god.jpg
+  url: https://lucas-c.itch.io/2200-le-jugement-des-dieux
+
+- nom: Genius Loci
+  joueurs: 2 à 4 joueur·euses
+  duree: 1h à 2h
+  specificites: "sans MJ, narration collective, minimaliste, peu d'explications fournies : à vous d'improviser !"
+  description: |
+    <blockquote>
+      Incarnez un dieu mineur, un genius loci, dans un petit village calme du sud de l'Angleterre dans les années 60.
+    </blockquote>
+  materiel:
+  - 2 dés à 6 faces
+  - Une feuille de papier et un crayon pour chaque joueur·euse
+  documents:
+  - "Règle du jeu : une page"
+  images:
+  - genius-loci-church.png
+  - genius-loci-pub.png
+  url: https://chezsoi.org/lucas/blog/genie-domestique.html
+
+- nom: LA VENGEANCE DES PANDAS ROUX DE L'ESPACE !
+  joueurs: 3 à 6 joueur·euses
+  duree: environ 1h
+  specificites: "sans scénario fourni : improvisation nécessaire, minimaliste, peu d'explications fournies : à vous d'improviser !"
+  description: |
+    <blockquote>
+      Vous êtes une unité spéciale de Pandas roux ninjas de l’espace !
+      Vous avez été enlevés sur Terre.
+      Vous êtes très en colère, et vraiment, vraiment badass !!
+    </blockquote>
+    Vous vous réveillés dans un sous-sol de Las Vegas, vous avez quatre objectifs :
+    <ul>
+      <li>Trouver qui vous a amené sur Terre</li>
+      <li>Comprendre pourquoi</li>
+      <li>Trouver un moyen de vous venger</li>
+      <li>Trouver un moyen de rentrer chez vous</li>
+    </ul>
+  materiel:
+  - 2 dés à 6 faces
+  - Une feuille de papier et un crayon pour chaque joueur·euse
+  documents:
+  - "Règle du jeu : une page"
+  images:
+  - LaVengeanceDesPandasRouxDeLEspace.png
+  url: https://chezsoi.org/s/LVDLDDRDPR

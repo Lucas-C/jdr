@@ -33,10 +33,10 @@ jobs:
 
       - name: Install dependencies ⚙️
         run: |
+          sudo apt install graphviz libpoppler-cpp-dev
           npm install
           pip install -r requirements.txt
           wget -nv https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js
-          sudo apt install graphviz
 
       - name: Generate HTML pages & PDF docs 🏗️
         run: |
@@ -55,6 +55,14 @@ jobs:
           fi
           cd -
 
+          echo "Rendering Abducted Negociators"
+          cd AbductedNegociators
+          ./md2pdf.py
+          cd -
+          if [[ $GIT_TAG =~ ^AbductedNegociators ]]; then
+            mv AbductedNegociators/AbductedNegociators.pdf $GIT_TAG.pdf
+          fi
+
           echo "Rendering BladesInTheDark"
           cd BladesInTheDark
           if [[ $GIT_TAG =~ ^BladesInTheDark-Interrogatoires-v ]]; then
@@ -72,9 +80,9 @@ jobs:
           fi
           cd -
 
-          echo "Rendering CheatYourOwnAdventure"
-          cd CheatYourOwnAdventure
-          node ../md2html.js CheatYourOwnAdventure.md > index.html
+          echo "Rendering catalogue"
+          cd catalogue
+          ./gen.py
           cd -
 
           echo "Rendering ce-nest-pas-une-place-dhonneur"
@@ -83,6 +91,11 @@ jobs:
           if [[ $GIT_TAG =~ ^ce-nest-pas-une-place-dhonneur ]]; then
             node ../puppeteer-print.js index.html ../$GIT_TAG.pdf
           fi
+          cd -
+
+          echo "Rendering CheatYourOwnAdventure"
+          cd CheatYourOwnAdventure
+          node ../md2html.js CheatYourOwnAdventure.md > index.html
           cd -
 
           echo "Rendering chimera"
@@ -121,7 +134,7 @@ jobs:
 
           echo "Rendering genius-loci"
           cd genius-loci
-          node ../md2html.js genius-loci.md > index.html
+          ./gen_html.sh
           cd -
 
           echo "Rendering Girl Underground"
@@ -184,7 +197,7 @@ jobs:
 
           echo "Rendering plus-de-place-en-enfer"
           cd plus-de-place-en-enfer
-          node ../md2html.js plus-de-place-en-enfer.md > index.html
+          ./gen_html.sh
           cd -
 
           cd psirun/ReglesAdditionnelles/
@@ -297,10 +310,9 @@ jobs:
           # MaxPixel & PikRepo currently return 404 for all pages
           # Notepad++ website is OK but probably rate-limit GitHub
           # 4archive.org sometime fails
-          # electric-goat.net is currently KO
-          linksToSkip: 4archive.org,electric-goat.net,maxpixel.net,pikrepo.com,notepad-plus-plus.org
+          linksToSkip: 4archive.org,maxpixel.net,pikrepo.com,notepad-plus-plus.org,lucas-c.github.io
           # We ignore 403 HTTP errors:
-          statusCodes: '{"4xx": "error", "403": "ok", "5xx": "error"}'
+          statusCodes: '{"4xx": "error", "403": "ok", "429": "ok", "5xx": "error"}'
           verbosity: DEBUG
 
       - name: Deploy website 🚀

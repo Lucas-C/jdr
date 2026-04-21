@@ -2,6 +2,7 @@
 # Generate: https://lucas-c.github.io/jdr/all-fonts.pdf
 # USAGE: ./gen_pdf_with_all_fonts.py $(git ls-files | grep '\..tf$')
 import logging, sys
+from hashlib import md5
 from pathlib import Path
 
 logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
@@ -19,10 +20,18 @@ def main():
     if len(sys.argv) <= 1:
         raise RuntimeError("Some font files should be passed as arguments")
     css, html = "", ""
+    font_filepath_per_hash = {}
     for font_filepath in sys.argv[1:]:
         font_filepath = Path(font_filepath)
         css += f'@font-face {{ font-family: "{font_filepath.name}"; src: url("{font_filepath}"); }}\n'
         html += f'<p style="font-family: \'{font_filepath.name}\'">{font_filepath}</p>'
+        with font_filepath.open("rb") as font_file:
+            hash = md5(font_file.read())
+        existing_filepath = font_filepath_per_hash.get(hash)
+        if existing_filepath:
+            print(f"WARN: those fonts are identical - {font_filepath} & {existing_filepath}")
+        else:
+            font_filepath_per_hash[hash] = font_filepath
     with CSS_FILEPATH.open("w", encoding="utf8") as css_file:
         css_file.write(css)
     html = f"""<!doctype html>

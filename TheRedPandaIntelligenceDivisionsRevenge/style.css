@@ -1,0 +1,48 @@
+@font-face { font-family: "GunnyRewritten"; src: url("fonts/GunnyRewritten.ttf"); }
+
+@page {
+  margin: /*vertical=*/1.2cm /*horizontal=*/1.2cm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "GunnyRewritten";
+  font-size: 1rem;
+}
+
+h1, h2, h3, p, ol, ul { margin: 0; }
+h1, h2, h3 { text-decoration: underline #41403E solid 1px; }
+h3 { margin-top: .5rem; }
+hr { /* styled to look hand-drawn */
+  border-top-left-radius: 1000000px 10000px;
+  border-top-right-radius: 1000000px 10000px;
+  border-bottom-right-radius: 100000px 1000px;
+  border-bottom-left-radius: 1000000px 10000px;
+  border: solid 1px #41403E;
+  width: 80%;
+}
+
+h1 { font-size: 1.6rem; text-align: center; }
+a { color: #41403E; }
+
+ol { padding-left: 1.4rem; }
+ul { list-style: '>  '; }
+.skills ul { list-style: '○︎ '; padding-left: 1.2rem; }
+.get-things-done ul:first-of-type { list-style: '-  '; }
+
+.centered { text-align: center; }
+.game-pitch { padding: .5rem 0; }
+
+.side-by-side { display: flex; }
+.side-by-side > * { flex: 1 0; }
+
+.the-bad-guys { display: flex; align-items: center; }
+.the-bad-guys > p { flex: 0; text-align: center; }
+
+.copyright {
+  position: fixed;
+  transform: rotate(-90deg);
+  right: -7rem;
+  bottom: 7rem;
+}

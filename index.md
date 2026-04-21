@@ -5,6 +5,7 @@ ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
+- [Catalogue de JdRs courts](https://lucas-c.github.io/jdr/catalogue/CatalogueJdrCourts.pdf), conçu pour [le bar à JdRs du festival Meujeuteries & Merveilles 2026](https://laubergedesreveurs.fr/festival-meujeuteries-et-merveilles/)
 - [Sombre : Lab Escape (itch.io)](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour [SOMBRE Zéro de Johan Scipion](https://www.terresetranges.net/sombre.html) - [Article de blog](https://chezsoi.org/lucas/blog/sombre-lab-escape.html)
 - [La Brigade du Chaos (itch.io)](https://lucas-c.itch.io/la-brigade-du-chaos) - Traduction d'un excellent jeu de Grant Howitt, et mon aide de jeu maison : [Freiberg nid d’espions](https://lucas-c.itch.io/la-brigade-du-chaos-freiberg-nid-despions) - [(English version)](https://lucas-c.itch.io/havoc-brigade-freiberg-spy-nest)
 - [2200: Le Jugement Des Dieux (itch.io)](https://lucas-c.itch.io/2200-le-jugement-des-dieux) - [(English version)](2200_le_jugement_des_dieux/2200_the_gods_judgement.html) - Un court jeu de rôle narratif que j'ai créé - [Article de blog](https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html)
@@ -12,7 +13,7 @@ Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi
 - [La Tour](latour) ([version PDF](https://chezsoi.org/s/LaTourPDFDownload)) - Un jeu de rôle en une page (création originale) - [Article de blog](https://chezsoi.org/lucas/blog/la-tour-et-cheat-your-own-adventure.html)
 - [Amères Victoires & Glorieuses Défaites (itch.io)](https://lucas-c.itch.io/ameres-victoires-glorieuses-defaites) - Le premier jeu de rôle que j'ai publié en PDF - [Articles de blog](https://chezsoi.org/lucas/blog/tag/ameres-victoires-glorieuses-defaites.html)
 - [Les Non-morts (itch.io)](https://lucas-c.itch.io/les-non-morts) - Un jeu de société narratif avec des zombies
-- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - Extension d'un court jeu de rôle où l'on incarne les maîtres d'un donjon - [Articles de blog](https://chezsoi.org/lucas/blog/tag/dungeon-heart.html)
+- [Dungeon Heart : Heroes & Spells (FR)](DungeonHeartHeroesAndSpells) - [(English version)](DungeonHeartHeroesAndSpells/DungeonHeartHeroesAndSpells_en.html) - Extension d'un court jeu de rôle où l'on incarne les maîtres d'un donjon - [Articles de blog](https://chezsoi.org/lucas/blog/tag/dungeon-heart.html) - La traduction du jeu original est disponible plus bas
 - [Scavengers: Anomalies nauchoresques](scavengers) - Une aide de jeu pour [Scavengers, le jeu de rôle de Grégory Pogorzelski](http://awarestudios.blogspot.com/2014/01/scavengers.html) - [Article de blog](https://chezsoi.org/lucas/blog/scavengers-anomalies-nauchoresques.html)
 - [Vengeance Fatale 4D](VengeanceFatale4D) - _Unfinished_
 
@@ -52,7 +53,7 @@ voici quelques aides de jeu que j'ai créé :
 <!-- [PorteObjectifCartes](poc/PorteObjectifCartes.html) -->
 <!-- [Sous Terre](sous-terre) -->
 
-Pour me suivre, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
+Pour suivre mes actualités, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 
 <h3 id="translations">Traductions anglais → français</h3>
@@ -68,9 +69,12 @@ Pour me suivre, [rendez-vous sur mon blog](https://chezsoi.org/lucas/blog/).
 
 [Dungeon Heart](https://mare-baixa.itch.io/dungeon-heart) de Maré Baixa - [Articles de blog](https://chezsoi.org/lucas/blog/tag/dungeon-heart.html) :
 
-- [PDF 1.7 Mo](https://chezsoi.org/s/DungeonHeartHeroesAndSpells16DirectPDFdownload)
+- [Version française - PDF 1.7 Mo](https://chezsoi.org/s/DungeonHeartFr)
 - [LibreOffice flat document](DungeonHeartHeroesAndSpells/Dungeon%20Heart%20B%26W%20v1.6%20fr.fodg)
 
+[The Red Panda Intelligence Division’s Revenge!](https://troplongpaslu.fr/jeux-de-role-court/the-red-panda-intelligence-divisions-revenge/) de [Melville](https://melville.itch.io/) - [Article de blog](https://chezsoi.org/lucas/blog/the-red-panda-intelligence-divisions-revenge.html) :
+
+- [LaVengeanceDesPandasRouxDeLEspace.pdf (25 Ko)](https://lucas-c.github.io/jdr/TheRedPandaIntelligenceDivisionsRevenge/LaVengeanceDesPandasRouxDeLEspace.pdf)
 
 Jeux de Grant Howitt :
 

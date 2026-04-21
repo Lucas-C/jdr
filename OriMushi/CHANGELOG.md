@@ -1,3 +1,7 @@
+## Version v0.5 - Partie du 28 ars 2026
+* introduction de la mécanique des **Miracles**
+* suppressions de la section "Notes" sur les FPs de base
+
 ## Version v0.5 - Partie du 28 février 2026
 * rédaction d'un [pitch](./Pitch.pdf) du jeu, affiché sur la page d'accueil web
 * compétences :
