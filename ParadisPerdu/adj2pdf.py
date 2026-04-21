@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-import asyncio, logging, sys
+# USAGE: [FAST=1] ./adj2pdf.py [--watch]
+import asyncio, logging, os, sys
 from math import cos, pi, sin, sqrt
 from pathlib import Path
 from random import random
-from shutil import copyfile
 from time import perf_counter
 
 logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useless verbose logging
@@ -11,7 +11,6 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO  # avoid useles
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild
-copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "img" / "cc-by-nc-sa.png"))
 
 MD_FILEPATH = DIR / "ModulesDeSecours.md"
 CSS_FILEPATH = DIR / "style.css"
@@ -23,13 +22,14 @@ def build_pdf(target_md_file=None):
     start = perf_counter()
     with OUT_FILEPATH.open("wb") as out_pdf_file:
         out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
-    add_page_number_backgrounds(OUT_FILEPATH)
-    set_metadata(OUT_FILEPATH,
-        title="Paradis Perdu - Modules de secours",
-        lang="fr",
-        keywords=("jdr", "ttrpg", "aide-de-jeu", "sci-fi"),
-        description="Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original de Yno.",
-    )
+    if "FAST" not in os.environ:
+        add_page_number_backgrounds(OUT_FILEPATH)
+        set_metadata(OUT_FILEPATH,
+            title="Paradis Perdu - Modules de secours",
+            lang="fr",
+            keywords=("jdr", "ttrpg", "aide-de-jeu", "sci-fi"),
+            description="Une aide de jeu composée d'un ensemble de modules optionnels, pour ajouter des rebondissements supplémentaires au scénario original de Yno.",
+        )
     print(f"{OUT_FILEPATH} has been rebuilt in {perf_counter() - start:.1f}s")
 
 

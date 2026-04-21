@@ -1,0 +1,117 @@
+@font-face { font-family: "Candara"; src: url("fonts/Candara.ttf"); }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Bold.ttf"); font-weight: bold; }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Italic.ttf"); font-style: italic; }
+@font-face { font-family: "Candara"; src: url("fonts/Candara_Bold_Italic.ttf"); font-weight: bold; font-style: italic; }
+@font-face { font-family: "ImpactLabelReversed"; src: url("fonts/ImpactLabelReversed.ttf"); }
+
+@page {
+  margin: /*top=*/25mm /*lateral=*/20mm /*bottom=*/25mm;
+  counter-increment: page-count;
+  @bottom-center {
+    font-family: Candara;
+    content: counter(page-count);
+    font-size: .8rem;
+  }
+}
+
+.cards { page: cards; }
+@page cards {
+  margin: /*vertical=*/1.2cm /*horizontal=*/1.2cm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  max-width: 44rem;
+  margin: 0 auto;
+  font-family: "Candara";
+  font-size: .9rem;
+  line-height: 1.1rem;
+}
+
+h1, h2, h3 { font-family: "ImpactLabelReversed"; }
+h1 { font-size: 2.5rem; text-align: center; }
+p { text-align: justify; }
+blockquote { font-style: italic; }
+
+a { color: #555; }
+a:after { content: '🔗'; font-size: .5rem; }
+a.license:after { content: none; }
+
+.duration { font-family: "Candara"; font-size: 1rem; }
+
+.banner {
+  font-size: 1rem;
+  line-height: .3rem;
+  padding: 1px 0; /* necessary for weasyprint to not "squeeze" this element */
+  /* border: 1px solid black; */
+  border-radius: .5rem;
+  background-image: repeating-radial-gradient( circle at 0 0, transparent 0, #eee 10px ), repeating-linear-gradient( #ddd, #ccc );
+}
+.banner > p { text-align: center; }
+
+.cards {
+  display: grid;
+  grid-template-columns: 24% 24% 24% 24%;
+  gap: 1.333%;
+  margin-bottom: .666rem;
+}
+
+.card {
+  height: 15.5rem;
+  max-width: 20rem;
+  background: url('imgs/card-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.card.personality { background-size: 120%; }
+.card.legend { background: none; }
+.card.legend p { width: 100%; text-align: right; }
+.card.olivia { background-image: url('imgs/Lady_by_Dumaker_cc-by-nc-sa.png'); background-position: 10% 50%; }
+.card.contract { background-image: url('imgs/alien-contract-greyscale.jpg'); }
+.card.real-olivia { background-image: url('imgs/gobul__the_lantern_fish_wyvern_by_halycon450_cc-by-nc-sa-noBg.png'); border: 1px solid black; margin: 0 auto; }
+.card.alien-code { background: none; font-weight: bold; }
+.card.alien-code:before {
+  content: '';
+  position: absolute;
+  background: url('imgs/alien-manuscript-greyscale.jpg');
+  background-size: cover;
+  opacity: .333;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.card h3 {
+  width: 100%;
+  position: absolute;
+  top: 5%;
+  font-size: 1.4rem;
+  text-align: center;
+}
+.card p {
+  margin: 0 .8rem;
+  text-align: center;
+}
+.card.alien-code p { font-size: .7rem; text-align: justify; }
+
+.desc {
+  padding: 0 1.5rem;
+  margin-top: 1rem;
+}
+
+.illustrations {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.illustrations img { max-width: 61%; }
+
+.float-left { float: left; margin-right: .5rem; }
+.float-right { float: right; margin-left: .5rem; }
+
+.page-break-after { page-break-after: always; }

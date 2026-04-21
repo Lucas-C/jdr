@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import io, logging, sys
 from pathlib import Path
-from shutil import copyfile
 from time import perf_counter
 
 from fpdf import FPDF
@@ -11,8 +10,8 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, set_metadata, watch_xreload_and_serve
-copyfile(str(DIR / ".." / "cc-by-nc-sa.png"), str(DIR / "cc-by-nc-sa.png"))
+from pdf_utils import copy_files, markdown2pdf, set_metadata, watch_xreload_and_serve
+copy_files(DIR, "font:Candara")
 
 MD_FILEPATH = DIR / "Pathfinder.md"
 CSS_FILEPATH = DIR / "style.css"

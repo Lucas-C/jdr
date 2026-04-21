@@ -57,40 +57,6 @@ Ce guide se concentrera néanmoins sur l'expérience de jeu principalement imagi
 ### Bac à sable VS linéarité
 https://ptgptb.fr/linearite-contre-bac-a-sable
 
-### Conseils pour la "session zéro"
-* imprimez les _settings primers_ en double
-* efforcez-vous d'employer les noms des PJs
-* comment gérer les cas où deux joueurs incarnent des komusō sur la même Voie ?
-  -> détailler la situation pour les 4 Voies
-
-D'un point de vue ludique et narratif,
-cette contrainte sur la nature du groupe des personnages des joueurs
-offre plusieurs avantages :
-* ils n'ont pas le choix de travailler ensemble.
-* ils ont des objectifs communs, propices à générer de belles aventures.
-
-#### Liens initiaux entre komuso
-Leur rôle est de créer des liens entre les PJs dès le début de l'histoire,
-mais c'est aussi l'occasion de leur présenter
-les mécaniques narratives d'Ori Mushi pour la 1ère fois.
-Il est donc important de prendre un peu de temps pour que les joueurs
-se familiarisent avec cet exercice pas toujours simple pour eux.
-
-Enfin, ces liens initiaux sont prévus pour introduire des éléments de la campagne d'Ori Mushi.
-Voici en particulier quelques éléments à avoir en tête :
-1. les komusō reviendront dans le village de leur enfance durant le 2e acte
-1. les komusō reverront leur ancien maître durant le 2e acte
-3. les komusō découvriront la stèle funéraire de leur ancêtre durant la 3e aventure
-4. \-
-5. les komusō assisteront à nouveau à un banquet de mushis durant le 2e acte
-6. \-
-7. les komusō rencontreront à nouveau cet Oni durant le 2e acte
-8. \-
-9. \-
-10. \-
-11. \-
-12. \-
-
 ## Ori Mushi en table ouverte
 Façon "Les Marches de l'Ouest"
 
@@ -285,6 +251,63 @@ Ces secrets doivent "accompagner" la campagne principale.
 Idéalement, alterner l'objet de ces secret: les Temps Antiques / la Guerre de l'Oubli / etc.
 ? Est-ce que d6 est vraiment UTILE ? Est-ce que rêvéler les secrets un à un ne serait pas plus simple pour écrire la campagne ?
 -->
+
+
+## Conseils pour mener Ori Mushi
+
+### Préparation de partie
+J'ai pris l'habitude de préparer mes parties d'Ori Mushi en déroulant les étapes ci-dessous, tout en prenant en note par écrit sur une feuille les étapes de mon "plan de partie", c'est à dire ce que le déroulement de la session de jeu que je prévoie.
+
+<!-- Insérer ici une illustration d'une feuille manuscrite où est listé ceci :
+Plan de partie
+* introduction de Tom comme nouveau joueur
+* petit rappel sur le fonctionnement des Oris
+* résumé de la partie précédente -> donner le Livret d'Aventures aux joueurs
+* retour de Sophie qui était absente lors de la dernière partie -> "Pendant ce temps"
+* déroulé du scénario
+* ⚠️ le personnage de Yasuo étant absent, les komusō n'auront pas de véhicule
+* fin de partie : gains d'Oris, Mystika, Autour du feu
+* debrief : demander aux joueurs ce qu'ils ont pensé de la musique ?
+-->
+
+* si ce n'est pas la "session zéro", je commence par relire les dernières page du Livret d'Aventures de mon groupe de joueurs, pour me rappeler ce qu'ils ont fait lors des dernières parties
+* je fais le point sur les joueurs qui seront présents, et je vérifie si le total de leurs Oris dépasse le seuil pour passer au palier suivant : dans ce cas, je préparer cette phase
+* sinon, je me penche sur le scénario suivant proposé dans la campagne du jeu
+* je note quelques idées que je pourrais introduire durant la partie
+
+### Conseils pour la "session zéro"
+* imprimez les _settings primers_ en double
+* efforcez-vous d'employer les noms des PJs
+* comment gérer les cas où deux joueurs incarnent des komusō sur la même Voie ?
+  -> détailler la situation pour les 4 Voies
+
+D'un point de vue ludique et narratif,
+cette contrainte sur la nature du groupe des personnages des joueurs
+offre plusieurs avantages :
+* ils n'ont pas le choix de travailler ensemble.
+* ils ont des objectifs communs, propices à générer de belles aventures.
+
+#### Liens initiaux entre komuso
+Leur rôle est de créer des liens entre les PJs dès le début de l'histoire,
+mais c'est aussi l'occasion de leur présenter
+les mécaniques narratives d'Ori Mushi pour la 1ère fois.
+Il est donc important de prendre un peu de temps pour que les joueurs
+se familiarisent avec cet exercice pas toujours simple pour eux.
+
+Enfin, ces liens initiaux sont prévus pour introduire des éléments de la campagne d'Ori Mushi.
+Voici en particulier quelques éléments à avoir en tête :
+1. les komusō reviendront dans le village de leur enfance durant le 2e acte
+1. les komusō reverront leur ancien maître durant le 2e acte
+3. les komusō découvriront la stèle funéraire de leur ancêtre durant la 3e aventure
+4. \-
+5. les komusō assisteront à nouveau à un banquet de mushis durant le 2e acte
+6. \-
+7. les komusō rencontreront à nouveau cet Oni durant le 2e acte
+8. \-
+9. \-
+10. \-
+11. \-
+12. \-
 
 
 ## Concevoir des scénarios

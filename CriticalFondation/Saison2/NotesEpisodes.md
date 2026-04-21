@@ -495,14 +495,14 @@ Durant cette scène, "Charlotte" va "jouer cartes sur tables" et ainsi fournir u
 
 ## Licence & feedbacks
 <br>
-<a class="float-left license" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="imgs/cc-by-nc-sa.png">
+<a class="float-left license" rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">
+    <img alt="Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 Unported" src="../cc-by-nc-sa.png">
 </a>
 
-Cette aide de jeu de Lucas Cimon a été publiée en février 2026 et est placée sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International</a>.
+Cette aide de jeu de Lucas Cimon a été publiée en mars 2026 et est placée sous licence <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
 
 Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/CriticalFondation).
-Merci aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le logiciel de dessin Gimp](https://www.gimp.org/), [OpenStreetMap](https://www.openstreetmap.org/), [l'éditeur de texte Notepad++](https://notepad-plus-plus.org/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
+Merci aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le logiciel de dessin Gimp](https://www.gimp.org/), [OpenStreetMap](https://www.openstreetmap.org/), [l'éditeur de code VSCode](https://code.visualstudio.com/), [le lecteur de PDF Sumatra PDF](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
 
 Cette aide de jeu est diffusée gratuitement.
 Je serais ravi d'avoir vos retours si vous l'employez :
