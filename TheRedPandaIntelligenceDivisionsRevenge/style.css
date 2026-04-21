@@ -26,7 +26,7 @@ hr { /* styled to look hand-drawn */
 h1 { font-size: 1.6rem; text-align: center; }
 a { color: #41403E; }
 
-ol { padding-left: 1.4rem; }
+ol { padding-left: 1.5rem; }
 ul { list-style: '>  '; }
 .skills ul { list-style: '○︎ '; padding-left: 1.2rem; }
 .get-things-done ul:first-of-type { list-style: '-  '; }
