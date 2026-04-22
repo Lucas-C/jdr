@@ -136,5 +136,5 @@ Vous racontez ce qui se passe, mais le MJ peut vous infliger un REVERS dont vous
 ::::: <!-- end of .side-by-side -->
 
 ::: copyright
-© [Melville](https://melville.itch.io/) - 2017 - Traduit par [Lucas Cimon](https://chezsoi.org/lucas/blog/)
+© [Melville (melville.itch.io)](https://melville.itch.io/) - 2017 - Traduit par [Lucas Cimon (chezsoi.org)](https://chezsoi.org/lucas/blog/)
 :::

@@ -43,6 +43,6 @@ ul { list-style: '>  '; }
 .copyright {
   position: fixed;
   transform: rotate(-90deg);
-  right: -7rem;
-  bottom: 7rem;
+  right: -11.5rem;
+  bottom: 11.5rem;
 }
