@@ -1,5 +1,7 @@
 @font-face { font-family: "HACKED.ttf"; src: url("2200_le_jugement_des_dieux/fonts/HACKED.ttf"); }
-@font-face { font-family: "ImpactLabelReversed.ttf"; src: url("AbductedNegociators/fonts/ImpactLabelReversed.ttf"); }
+@font-face { font-family: "ImpactLabelReversed.ttf"; src: url("AbductedNegotiators/fonts/ImpactLabelReversed.ttf"); }
+@font-face { font-family: "Ovnis.ttf"; src: url("AbductedNegotiators/fonts/Ovnis.ttf"); }
+@font-face { font-family: "The-Orb-Report.ttf"; src: url("AbductedNegotiators/fonts/The-Orb-Report.ttf"); }
 @font-face { font-family: "Kirsty-bold-italics.otf"; src: url("BladesInTheDark/fonts/Kirsty-bold-italics.otf"); }
 @font-face { font-family: "Kirsty-bold.otf"; src: url("BladesInTheDark/fonts/Kirsty-bold.otf"); }
 @font-face { font-family: "Kirsty-italics.otf"; src: url("BladesInTheDark/fonts/Kirsty-italics.otf"); }
@@ -61,6 +63,10 @@
 @font-face { font-family: "gabriele-l.ttf"; src: url("latour/fonts/gabriele-l.ttf"); }
 @font-face { font-family: "Coves-Bold.otf"; src: url("psirun/fonts/Coves-Bold.otf"); }
 @font-face { font-family: "Coves-Light.otf"; src: url("psirun/fonts/Coves-Light.otf"); }
+@font-face { font-family: "DejaVuSerif-Bold.ttf"; src: url("psirun/fonts/DejaVuSerif-Bold.ttf"); }
+@font-face { font-family: "DejaVuSerif-BoldItalic.ttf"; src: url("psirun/fonts/DejaVuSerif-BoldItalic.ttf"); }
+@font-face { font-family: "DejaVuSerif-Italic.ttf"; src: url("psirun/fonts/DejaVuSerif-Italic.ttf"); }
+@font-face { font-family: "DejaVuSerif.ttf"; src: url("psirun/fonts/DejaVuSerif.ttf"); }
 @font-face { font-family: "KillTheNoise.otf"; src: url("psirun/fonts/KillTheNoise.otf"); }
 @font-face { font-family: "OutrunFuture-Bold.otf"; src: url("psirun/fonts/OutrunFuture-Bold.otf"); }
 @font-face { font-family: "OutrunFuture-BoldItalic.otf"; src: url("psirun/fonts/OutrunFuture-BoldItalic.otf"); }

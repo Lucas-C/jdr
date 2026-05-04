@@ -25,7 +25,7 @@ DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
 from pdf_utils import copy_files, markdown2pdf, set_metadata, start_watch_and_rebuild
 sys.path.append(str(DIR / ".."))  # make render_utils.py importable
-from render_utils import iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
+from render_utils import ensure_no_page_jump, iter_tile_pos, render_img_tile, LINE_HEIGHT, TILE_SIZE
 copy_files(DIR, "font:Candara")
 
 MD_FILEPATH = DIR / "README.md"
@@ -45,9 +45,10 @@ SCALE = .12  # mm / pixel
 def build_pdf(target_md_file=None):
     start = perf_counter()
     writer = PdfWriter()
-    writer.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH))
+    writer.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=12))
     writer.append(build_appendix_pdf())
     writer.write(OUT_FILEPATH)
+    assert len(writer.pages) == 21, "Broken since fpdf2==2.7.8"
     set_metadata(OUT_FILEPATH,
         title="Sombre - Lab Escape",
         lang="fr",
@@ -137,8 +138,10 @@ def render_tile_front(tpi, name, desc="", level=4):
 def render_tile_back(tpi, text):
     pdf, _, _ = next(tpi)
     pdf.set_font(size=9, style="")
-    pdf.multi_cell(text="\n" + text, markdown=True, align="C", border=1,
-                   h=TILE_SIZE, w=TILE_SIZE, max_line_height=LINE_HEIGHT)
+    with ensure_no_page_jump(pdf):
+        pdf.rect(pdf.x, pdf.y , w=TILE_SIZE, h=TILE_SIZE)
+        pdf.multi_cell(text="\n" + text, markdown=True, align="C",
+                    h=LINE_HEIGHT, w=TILE_SIZE, max_line_height=TILE_SIZE)
 
 
 def render_other_tiles(pdf):
