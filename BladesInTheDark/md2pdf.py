@@ -8,7 +8,8 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
-from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
+from pdf_utils import copy_files, markdown2pdf, set_metadata, start_watch_and_rebuild
+copy_files(DIR, "font:Candara")
 
 SRC_FILES = (
     __file__,
@@ -32,30 +33,36 @@ METADATA = {
         "lang": "fr",
         "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "roleplay", "aide-de-jeu", "interrogatoire"),
         "description": "Cette aide de jeu propose de développer les scènes d'interrogatoire du jeu de rôle Blades in the Dark, pour en faire des moments cruciaux, où les PJs sont mis sous pression par les Inspecteurs, où ils ont beaucoup à perdre, et où la situation se résoudra par des moments de roleplay mémorables.",
+        "expected_pages_count": 9,
     },
     INT_EN_MD_FILEPATH: {
         "title": "Blades in the Dark - Interrogation",
         "lang": "en",
         "keywords": ("ttrpg", "Blades-in-the-Dark", "roleplay", "module", "interrogation"),
         "description": "This game module develops the interrogation scenes of the tabletop roleplaying game Blades in the Dark, to make them crucial moments, where the PCs are put under pressure by the Inspectors, where they have a lot to lose, and where the situation will be resolved by memorable roleplay moments.",
+        "expected_pages_count": 9,
     },
     BdlCaL_MD_FILEPATH: {
         "title": "Blades in the Dark - Les bases de la chasse au Léviathan",
         "lang": "fr",
         "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "Léviathan"),
         "description": "Une description de comment se déroule la chasse au Léviathan dans l'univers de Blades in the Dark.",
+        "expected_pages_count": 3,
     },
     REGLES_MD_FILEPATH: {
         "title": "Blades in the Dark - Nouvelles règles issues de Deep Cuts",
         "lang": "fr",
         "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "règles"),
         "description": "Traduction de 3 pages de l'excellente extension pour Blades in the Dark de John Harper, Deeps Cuts.",
+        "expected_pages_count": 3,
+
     },
     PCsQS_MD_FILEPATH: {
         "title": "Blades in the Dark - PCs Quick Summary table",
         "lang": "en",
         "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "table", "characters"),
         "description": "A simple table to keep track of the main characteristics of the Player Characters in Blades in the Dark",
+        "expected_pages_count": 1,
     },
 }
 
@@ -73,8 +80,9 @@ def build_pdf(target_md_file=None):
 def build_single_pdf(md_filepath, metadata, lang):
     start = perf_counter()
     out_filepath = md_filepath.with_suffix(".pdf")
+    expected_pages_count = metadata.pop("expected_pages_count", None)
     with out_filepath.open("wb") as out_pdf_file:
-        pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata).getbuffer()
+        pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count, lang=lang, metadata=metadata).getbuffer()
         out_pdf_file.write(pdf)
     set_metadata(out_filepath, **metadata, lang=lang)
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")

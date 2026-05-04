@@ -28,6 +28,7 @@ METADATA = {
         "title": "Critical Fondation - Saison 1 - Diagramme et ajouts scénaristiques",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "diagramme"),
         "description": "Un diagramme reliant les principaux éléments de l'intrigue de la saison 1 du jeu de rôle Critical Fondation, et quelques suggestions d'ajouts au scénario",
+        "expected_pages_count": 2,
     },
     CARDS_MD_FILEPATH: {
         "lang": "fr",
@@ -35,6 +36,7 @@ METADATA = {
         "title": "Critical Fondation - Saison 1 - Cartes additionnelles",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu", "cartes"),
         "description": "Quelques cartes de jeu supplémentaires pour la saison 1 du jeu de rôle Critical Fondation",
+        "expected_pages_count": 2,
     },
     S1_NOTES_MD_FILEPATH: {
         "lang": "fr",
@@ -42,6 +44,7 @@ METADATA = {
         "title": "Critical Fondation - Saison 1 - Notes de MJ",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu"),
         "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison 1 du jeu de rôle Critical Fondation",
+        "expected_pages_count": 6,
     },
     S2_NOTES_MD_FILEPATH: {
         "lang": "fr",
@@ -49,6 +52,7 @@ METADATA = {
         "title": "Critical Fondation - Saison 2 - Notes de MJ",
         "keywords": ("jdr", "Critical-Fondation", "jeu-de-rôle", "aide-de-jeu"),
         "description": "Quelques notes de préparation comme MJ, épisode par épisode, de la saison 2 du jeu de rôle Critical Fondation",
+        "expected_pages_count": 11,
     },
     HIGHTENSION_MD_FILEPATH: { "lang": "fr", "pdf": False },  # TODO before publishing
     README_MD_FILEPATH: { "lang": "fr", "pdf": False },
@@ -72,11 +76,12 @@ def build_pdf(target_md_file=None):
 def build_single_pdf(md_filepath, metadata, lang):
     start = perf_counter()
     out_filepath = md_filepath.with_suffix(".pdf")
+    expected_pages_count = metadata.pop("expected_pages_count", None)
     prefix = metadata.pop("prefix", None)
     if prefix:
         out_filepath = out_filepath.with_name(prefix + out_filepath.name)
     with out_filepath.open("wb") as out_pdf_file:
-        pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata).getbuffer()
+        pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count, lang=lang, metadata=metadata).getbuffer()
         out_pdf_file.write(pdf)
     set_metadata(out_filepath, **metadata, lang=lang)
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")

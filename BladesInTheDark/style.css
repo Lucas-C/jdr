@@ -195,15 +195,18 @@ th:nth-child(2), td:nth-child(2) { padding-left: .5rem; }
   flex: 1 1;
 }
 .info::before {
+  content: '';
   display: block;
   width: 3rem;
+  height: 3rem;
   flex: 0 0 3rem;
+  background-size: cover;
 }
-.info.despair::before { content: url('img/despair.svg'); }
-.info.fingerprint::before { content: url('img/fingerprint.svg'); }
-.info.handcuffed::before { content: url('img/handcuffed.svg'); }
-.info.hound::before { content: url('img/hound.svg'); }
-.info.magnifying-glass::before { content: url('img/magnifying-glass.svg'); }
+.info.despair::before { background-image: url('img/despair.svg'); }
+.info.fingerprint::before { background-image: url('img/fingerprint.svg'); }
+.info.handcuffed::before { background-image: url('img/handcuffed.svg'); }
+.info.hound::before { background-image: url('img/hound.svg'); }
+.info.magnifying-glass::before { background-image: url('img/magnifying-glass.svg'); }
 
 .float-left { float: left; margin-right: 1rem; }
 .float-right { float: right; margin-left: 1rem; }
