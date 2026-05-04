@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Note:  currently does not work in GitHub Actions CI: 5 pages are generated
 # USAGE: ./md2pdf.py [--watch] [file.md]
 import asyncio, logging, sys
 from pathlib import Path
@@ -9,7 +8,7 @@ logging.getLogger("fontTools.ttLib.ttFont").level = logging.INFO
 
 DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".." / ".."))  # make pdf_utils.py importable
-from pdf_utils import add_pdf_annotations, add_to_every_page_dynamic, markdown2pdf, set_metadata, start_watch_and_rebuild
+from pdf_utils import add_pdf_annotations, markdown2pdf, set_metadata, start_watch_and_rebuild
 
 SRC_FILES = (
     __file__,
@@ -38,7 +37,7 @@ FR_ANNOTATIONS = {
     },
     1: {
         "text_annotations": (
-            dict(x=191, y=62, name="COMMENT",
+            dict(x=193, y=62, name="COMMENT",
                  text="Ah bah oui merde, j'ai crevé. Au moins je leur ai bien mis dans l'os !"),
             dict(x=12, y=146, name="COMMENT",
                  text="Madison est réglo. J'espère que sa voix sera entendue dans les médias pour dénonces les Implacables."),
@@ -46,13 +45,13 @@ FR_ANNOTATIONS = {
                  text="Je n'ai jamais pu y pénétrer, seule la présence de Doggy déclenche l'ouverture de ce bunker."),
             dict(x=12, y=240, name="COMMENT",
                  text="L'hypocrisie de la morale rigoriste de MegaScout est vraiment risible, surtout vu ses hobbys..."),
-            dict(x=191, y=220, name="COMMENT",
+            dict(x=193, y=220, name="COMMENT",
                  text="J'espère que Thorgal ne se laissera pas emporter par la colère pour me venger... Tel que je le connais, il voudra faire juger les Implacables par leurs victimes, puis appliquera la sentence lui-même."),
         ),
     },
     2: {
         "text_annotations": (
-            dict(x=190, y=40, name="COMMENT",
+            dict(x=193, y=40, name="COMMENT",
                  text="Ah mes chers freaks vengeurs ! Ces corrompus d'Implausibles vont trembler devant votre juste colère !"),
             dict(x=12, y=272, name="COMMENT",
                  text="Tu es intelligent, et intègre. Ne te laisse pas submerger par la rage. La justice doit triompher, et je ne veux pas que tu meures."),
@@ -142,7 +141,7 @@ def build_pdf(target_md_file=None):
 def build_single_pdf(md_filepath, out_filepath, annotations, metadata, lang):
     start = perf_counter()
     with out_filepath.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang).getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count=4, lang=lang))
     add_pdf_annotations(out_filepath, annotations)
     set_metadata(out_filepath, **metadata, lang=lang)
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")

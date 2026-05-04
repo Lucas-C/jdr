@@ -51,7 +51,7 @@ def build_pdf(target_md_file=None):
 def build_single_pdf(md_filepath, out_filepath, metadata, lang):
     start = perf_counter()
     with out_filepath.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count=2, lang=lang).getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count=2, lang=lang))
     set_metadata(out_filepath, **metadata, lang=lang)
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")
 

@@ -8,4 +8,5 @@ pillow==12.2.0
 pypdf==6.10.2
 python-poppler==0.4.1
 qrcode==8.2
+requests==2.33.1
 weasyprint==68.0

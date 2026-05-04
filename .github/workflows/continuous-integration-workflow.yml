@@ -34,6 +34,8 @@ jobs:
       - name: Install dependencies ⚙️
         run: |
           sudo apt install graphviz libpoppler-cpp-dev
+          echo "Listing fonts globally installed in the system:"
+          fc-list
           npm install
           pip install -r requirements.txt
           wget -nv https://raw.githubusercontent.com/Lucas-C/dotfiles_and_notes/master/bin/md2html.js

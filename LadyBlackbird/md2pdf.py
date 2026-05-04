@@ -15,7 +15,7 @@ OUT_FILEPATH = DIR / "LadyBlackbird-ContesDdeLIndomptableBleu.pdf"
 def build_pdf(target_md_file=None):
     start = perf_counter()
     with OUT_FILEPATH.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=None, lang="fr").getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=None, lang="fr"))
     set_metadata(OUT_FILEPATH,
         title="Lady Blackbird - Contes du Bleu Sauvage",
         lang="fr",

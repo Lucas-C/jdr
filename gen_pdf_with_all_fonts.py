@@ -49,9 +49,8 @@ def main():
     </html>"""
     with HTML_FILEPATH.open("w", encoding="utf8") as html_file:
         html_file.write(html)
-    bytesio = html2pdf(DIR, html, css_filepath=CSS_FILEPATH)
     with PDF_FILEPATH.open("wb") as pdf_file:
-        pdf_file.write(bytesio.getbuffer())
+        pdf_file.write(html2pdf(DIR, html, css_filepath=CSS_FILEPATH))
     print(f"{PDF_FILEPATH} generated")
 
 if __name__ == "__main__":
