@@ -1459,7 +1459,7 @@ Délectez-vous de vos aventures passées
 Lorsque vous déclenchez une manœuvre, lancez deux dés et additionnez-les pour obtenir votre résultat : 7 ou plus, ou 6 ou moins. Un résultat de 7 à 9 rajoute des complications.
 Lorsqu'une des Croyances de la Jeune Fille vous inspire, dites laquelle et lancez trois dés au lieu de deux. Additionnez les deux dés les plus élevés pour obtenir votre résultat.
 
-<br>
+<p class="half-break"></p>
 
 ::::: frame
 :::: title

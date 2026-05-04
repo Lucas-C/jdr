@@ -55,12 +55,12 @@ jobs:
           fi
           cd -
 
-          echo "Rendering Abducted Negociators"
-          cd AbductedNegociators
+          echo "Rendering Abducted Negotiators"
+          cd AbductedNegotiators
           ./md2pdf.py
           cd -
-          if [[ $GIT_TAG =~ ^AbductedNegociators ]]; then
-            mv AbductedNegociators/AbductedNegociators.pdf $GIT_TAG.pdf
+          if [[ $GIT_TAG =~ ^AbductedNegotiators ]]; then
+            mv AbductedNegotiators/AbductedNegotiators.pdf $GIT_TAG.pdf
           fi
 
           echo "Rendering BladesInTheDark"

@@ -59,17 +59,20 @@ logging.getLogger("weasyprint").addFilter(WeasyprintLogFilter())
 # logging.getLogger("weasyprint").setLevel(logging.DEBUG)
 
 
-def markdown2pdf(dir, md_filepath, css_filepath=None, lang=None, metadata=None, bookmarks=True):
+def markdown2pdf(dir, md_filepath, css_filepath=None, expected_pages_count=None, lang=None, metadata=None, bookmarks=True):
     with open(md_filepath, encoding="utf8") as md_file:
-        return md2pdf(dir, md_file.read(), css_filepath, lang, metadata, bookmarks)
+        return md2pdf(dir, md_file.read(), css_filepath, expected_pages_count, lang, metadata, bookmarks)
 
-def md2pdf(dir, md_content, css_filepath=None, lang=None, metadata=None, bookmarks=True):
+def md2pdf(dir, md_content, css_filepath=None, expected_pages_count=None, lang=None, metadata=None, bookmarks=True):
     html = md2html(dir, md_content, css_filepath, lang, metadata)
-    return html2pdf(dir, html, css_filepath, lang, metadata, bookmarks)
+    return html2pdf(dir, html, css_filepath, expected_pages_count, lang, metadata, bookmarks)
 
 def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
     if lang == "fr":
+        detect_incorrect_quotes(md_content, '“”', "“English quote signs” found on line {line_number} of Markdown file: French version should only contain « French quote signs »")
         md_content = fr_ponctuation_fixups(md_content)
+    elif lang == "en":
+        detect_incorrect_quotes(md_content, '«»', "« French quote signs » found on line {line_number} of Markdown file: English version should only contain “English quote signs”")
     html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
@@ -88,12 +91,25 @@ def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
         html_file.write(html_doc)
     return html
 
-def html2pdf(dir, html, css_filepath=None, lang=None, metadata=None, bookmarks=True):
+def detect_incorrect_quotes(md_content, characters, error_msg):
+    lines = md_content.splitlines()
+    line_index = -1
+    for char in characters:
+        if line_index < 0:
+            line_index = next((i for i, line in enumerate(lines) if char in line), -1)
+    if line_index >= 0:
+        raise RuntimeError(error_msg.format(line_number=line_index + 1))
+
+def html2pdf(dir, html, css_filepath=None, expected_pages_count=None, lang=None, metadata=None, bookmarks=True):
     start = perf_counter()
     font_config = FontConfiguration()
     css = CSS(filename=css_filepath, font_config=font_config)
     bytes_io = io.BytesIO()
     doc = HTML(base_url=str(dir), string=html).render(font_config=font_config, stylesheets=[css])
+    if expected_pages_count is not None:
+        pages_count = len(doc.pages)
+        if pages_count != expected_pages_count:
+            raise RuntimeError(f"Wrong page count in rendered document: {pages_count} whereas there should be {expected_pages_count}")
     if not bookmarks:
         for page in doc.pages:
             page.bookmarks = []

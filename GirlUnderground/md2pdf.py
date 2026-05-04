@@ -12,9 +12,7 @@ from pdf_utils import markdown2pdf, set_metadata, start_watch_and_rebuild
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
-    # The last one listed below will be rendered at https://lucas-c.github.io/jdr/GirlUnderground/
     MD_FILEPATH := DIR / "Livrets.md",
-    MD_FILEPATH := DIR / "README.md",
 )
 
 METADATA = {
@@ -28,7 +26,7 @@ def build_pdf(target_md_file=None):
     start = perf_counter()
     out_filepath = DIR / "GirlUnderground-FR.pdf"
     with out_filepath.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr").getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=20, lang="fr").getbuffer())
     set_metadata(out_filepath, **METADATA, lang="fr")
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")
 

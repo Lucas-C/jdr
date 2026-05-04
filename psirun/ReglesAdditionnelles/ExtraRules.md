@@ -69,7 +69,7 @@ Examples:
 
 ⇢ It's quite likely, let's say there's a **one chance in two**.
 
-➜ “Choose: even or odd? Then roll a die, and if you predicted correctly, your Runner finds a weapon. »
+➜ “Choose: even or odd? Then roll a die, and if you predicted correctly, your Runner finds a weapon.”
 
 <p class="half-break"></p>
 
@@ -77,7 +77,7 @@ Examples:
 
 ⇢ It's possible but **quite unlikely**.
 
-➜ “Roll a die, on a 6 you find the keys. »
+➜ “Roll a die, on a 6 you find the keys.”
 
 <p class="half-break"></p>
 
@@ -85,7 +85,7 @@ Examples:
 
 ⇢ Each Runner has **an equal chance** of being attacked.
 
-➜ “Each choose a number between 1 and 6, then the die will determine who will be targeted. »
+➜ “Each choose a number between 1 and 6, then the die will determine who will be targeted.”
 _(by re-rolling until a player's number is drawn)_
 
 <p class="half-break">

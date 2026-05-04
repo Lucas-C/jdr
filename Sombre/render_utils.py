@@ -1,3 +1,5 @@
+from contextlib import contextmanager
+
 LINE_HEIGHT = 5.25
 TILE_SIZE = 60
 
@@ -14,17 +16,24 @@ def render_img_tile(tpi, img, name="", desc="", border=False, w_ratio=1, h_ratio
     pdf, x, y = next(tpi)
     img_dx = TILE_SIZE * (1 - w_ratio) / 2
     img_dy = TILE_SIZE * (1 - h_ratio) / 2
-    pdf.image(img, x=x + img_dx, y=y + img_dy, w=TILE_SIZE * w_ratio, h=TILE_SIZE, keep_aspect_ratio=True)
-    if border:
-        pdf.rect(x, y , w=TILE_SIZE, h=TILE_SIZE)
-    if name or desc:
-        if name:
-            pdf.x = x + .5 * TILE_SIZE
-            pdf.y = y + .25 * TILE_SIZE
-            pdf.set_font(size=20, style="B")
-            pdf.cell(txt=name, h=LINE_HEIGHT, align="X")
-        if desc:
-            pdf.x = x + .5 * TILE_SIZE
-            pdf.y = y + .7 * TILE_SIZE
-            pdf.set_font(size=13, style="I")
-            pdf.cell(txt=desc, h=LINE_HEIGHT, align="X")
+    with ensure_no_page_jump(pdf):
+        pdf.image(img, x=x + img_dx, y=y + img_dy, w=TILE_SIZE * w_ratio, h=TILE_SIZE, keep_aspect_ratio=True)
+        if border:
+            pdf.rect(x, y , w=TILE_SIZE, h=TILE_SIZE)
+        if name or desc:
+            if name:
+                pdf.x = x + .5 * TILE_SIZE
+                pdf.y = y + .25 * TILE_SIZE
+                pdf.set_font(size=20, style="B")
+                pdf.cell(txt=name, h=LINE_HEIGHT, align="X")
+            if desc:
+                pdf.x = x + .5 * TILE_SIZE
+                pdf.y = y + .7 * TILE_SIZE
+                pdf.set_font(size=13, style="I")
+                pdf.cell(txt=desc, h=LINE_HEIGHT, align="X")
+
+@contextmanager
+def ensure_no_page_jump(pdf):
+    prev_page_count = len(pdf.pages)
+    yield
+    assert len(pdf.pages) == prev_page_count, f"Unexpected page jump: {len(pdf.pages)} > {prev_page_count}"

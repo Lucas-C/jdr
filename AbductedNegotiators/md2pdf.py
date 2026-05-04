@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# USAGE: [FAST=1] ./md2pdf.py [--watch] [file.md]
+# USAGE: [FAST=1] ./md2pdf.py [--watch]
 import asyncio, logging, os, sys
 from math import cos, pi, sin, sqrt
 from pathlib import Path
@@ -16,7 +16,7 @@ copy_files(DIR, "font:Candara")
 SRC_FILES = (
     __file__,
     CSS_FILEPATH := DIR / "style.css",
-    EN_MD_FILEPATH := DIR / "AbductedNegociators.md",
+    EN_MD_FILEPATH := DIR / "AbductedNegotiators.md",
     FR_MD_FILEPATH := DIR / "Abductes.md",
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/CriticalFondation/
     README_MD_FILEPATH := DIR / "README.md",
@@ -31,7 +31,7 @@ METADATA = {
     },
     EN_MD_FILEPATH: {
         "lang": "en",
-        "title": "Abducted Negociators",
+        "title": "Abducted Negotiators",
         "keywords": ("tabletop-roleplaying-game", "ttrpg", "roleplay", "abduction", "alien", "science-fiction", "negotiation", "timed", "cards"),
         "description": "A tabletop roleplaying game based on roleplay and some cards",
     },
@@ -58,7 +58,7 @@ def build_single_pdf(md_filepath, metadata, lang):
     prefix = metadata.pop("prefix", None)
     if prefix:
         out_filepath = out_filepath.with_name(prefix + out_filepath.name)
-    pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata).getbuffer()
+    pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count=11, lang=lang, metadata=metadata).getbuffer()
     with out_filepath.open("wb") as out_pdf_file:
         out_pdf_file.write(pdf)
     start = perf_counter()
@@ -69,7 +69,7 @@ def build_single_pdf(md_filepath, metadata, lang):
         cards_duration = 0
     else:
         start = perf_counter()
-        add_page_number_backgrounds(out_filepath)
+        add_page_number_backgrounds(out_filepath, except_pages=(8,))  # Pour éviter overlap avec cartes
         pages_bg_duration = perf_counter() - start
         cards_duration = export_img(out_filepath, (
             dict(page=8, suffix="-PersonalityCards", crop=(125, 610, 2355, 2220)),
@@ -77,7 +77,7 @@ def build_single_pdf(md_filepath, metadata, lang):
     print(f"{out_filepath} has been rebuilt: metadata={metadata_duration:.1f}s pages_bg={pages_bg_duration:.1f}s cards={cards_duration:.1f}s")
 
 
-def add_page_number_backgrounds(pdf_filepath):
+def add_page_number_backgrounds(pdf_filepath, except_pages=()):
     """
     Note: it is also possible to render a simple circle / image
     as background for page numbers using just CSS position: fixed
@@ -99,6 +99,8 @@ def add_page_number_backgrounds(pdf_filepath):
     center_y = y0 + h / 2
     half_diagonal = sqrt(w*w + h*h) / 2
     for i, pdf in enumerate(add_to_every_page_dynamic(pdf_filepath)):
+        if i in except_pages:
+            continue
         # Rendering particles:
         pdf.set_fill_color(0)  # black
         particles = []

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Note:  currently does not work in GitHub Actions CI: 5 pages are generated
 # USAGE: ./md2pdf.py [--watch] [file.md]
 import asyncio, logging, sys
 from pathlib import Path
