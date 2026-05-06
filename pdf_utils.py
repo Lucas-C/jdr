@@ -1,9 +1,9 @@
-import asyncio, io, logging, re
+import asyncio, io, logging, re, requests
 from contextlib import contextmanager
 from datetime import datetime
 from functools import partial
 from pathlib import Path
-from poppler import load_from_file, PageRenderer
+from poppler import load_from_data, load_from_file, PageRenderer
 from random import shuffle
 from traceback import print_exc
 from urllib.parse import quote
@@ -16,7 +16,7 @@ from fpdf import FPDF, FPDF_VERSION
 from fpdf.util import get_scale_factor
 from mistletoe import markdown, HtmlRenderer
 from mistletoe.block_token import tokenize, BlockToken
-from PIL import Image
+from PIL import Image, ImageDraw
 import pikepdf
 from pypdf import PageObject, PdfReader, PdfWriter
 from weasyprint import HTML, CSS, VERSION as WP_VERSION
@@ -109,6 +109,8 @@ def html2pdf(dir, html, css_filepath=None, expected_pages_count=None, lang=None,
     if expected_pages_count is not None:
         pages_count = len(doc.pages)
         if pages_count != expected_pages_count:
+            doc.write_pdf(bytes_io)
+            upload_pdf_img(bytes_io.getvalue())
             raise RuntimeError(f"Wrong page count in rendered document: {pages_count} whereas there should be {expected_pages_count}")
     if not bookmarks:
         for page in doc.pages:
@@ -131,7 +133,7 @@ def html2pdf(dir, html, css_filepath=None, expected_pages_count=None, lang=None,
             doc.metadata.keywords = keywords
     doc.write_pdf(bytes_io, pdf_variant="pdf/a-3u")
     print(f"WeasyPrint PDF building duration: {perf_counter() - start:.1f}s")
-    return bytes_io
+    return bytes_io.getbuffer()
 
 
 def fr_ponctuation_fixups(md_content):
@@ -386,6 +388,41 @@ def export_img(pdf_filepath, specs, dpi=300):
     return perf_counter() - start
 
 
+def upload_pdf_img(pdf_bytes, dpi=300):
+    pdf_doc = load_from_data(pdf_bytes)
+    imgs = []
+    for page_id in range(pdf_doc.pages):
+        page = pdf_doc.create_page(page_id)
+        page_img = PageRenderer().render_page(page, xres=dpi, yres=dpi)
+        img = Image.frombytes(
+            "RGBA",
+            (page_img.width, page_img.height),
+            page_img.data,
+            "raw",
+            str(page_img.format),
+        )
+        # Draw a red line on top of each page:
+        draw = ImageDraw.Draw(img)
+        draw.line((0, 0, img.width, 0), fill="red")
+        imgs.append(img)
+    merged_img = Image.new(imgs[0].mode, (imgs[0].width, sum(img.height for img in imgs)))
+    y = 0
+    for img in imgs:
+        merged_img.paste(img, (0, y))
+        y += img.height
+    bytes_io = io.BytesIO()
+    merged_img.save(bytes_io, format='PNG')
+    upload_img(bytes_io.getbuffer())
+
+def upload_img(img_bytes):
+    resp = requests.post("https://freeimage.host/api/1/upload?key=6d207e02198a847aa98d0a2a901485a5&action=upload&format=json",
+                         files={"source": img_bytes})
+    if resp.status_code >= 400:
+        print(resp.text())
+    resp.raise_for_status()
+    print("Image uploaded to:", resp.json()["image"]["url_short"])
+
+
 async def start_watch_and_rebuild(module, *files_to_watch):
     "Watch files and on change, reload Python modules & call build_pdf()"
     if not OPT_DEPS_LOADED:
@@ -508,3 +545,9 @@ class CustomStaticFileHandler(StaticFileHandler):
         if content_type == "text/html":
             content_type = "text/html; charset=utf-8"
         return content_type
+
+
+if __name__ == "__main__":
+    print("Testing PDF image upload...")
+    with open("psirun/Implacables/PsiRun-Implacables.pdf", "rb") as pdf_file:
+        upload_pdf_img(pdf_file.read())

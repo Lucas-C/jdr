@@ -1,4 +1,5 @@
 <!-- Com'
+* [x] https://old.reddit.com/r/RPGdesign/comments/1t4bzut/abducted_negotiators_looking_for_a_proofreader_on/
 * [ ] contacter le réalisateur du court-métrage
 * [ ] chercher des compétitions de TTRPG
 -->

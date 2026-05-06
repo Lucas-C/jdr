@@ -26,7 +26,7 @@ def build_pdf(target_md_file=None):
     start = perf_counter()
     out_filepath = DIR / "GirlUnderground-FR.pdf"
     with out_filepath.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=20, lang="fr").getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=20, lang="fr"))
     set_metadata(out_filepath, **METADATA, lang="fr")
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")
 

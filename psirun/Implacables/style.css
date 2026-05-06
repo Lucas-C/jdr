@@ -2,10 +2,8 @@
 @font-face { font-family: RoadRage; src: url("../fonts/RoadRage.otf"); }
 @font-face { font-family: OutrunFuture; src: url("../fonts/OutrunFuture.otf"); }
 @font-face { font-family: OutrunFuture; src: url("../fonts/OutrunFuture-Bold.otf"); font-weight: bold; }
-@font-face { font-family: "DejaVu Serif"; src: url("../fonts/DejaVuSerif.ttf"); }
-@font-face { font-family: "DejaVu Serif"; src: url("../fonts/DejaVuSerif-Bold.ttf"); font-weight: bold; }
-@font-face { font-family: "DejaVu Serif"; src: url("../fonts/DejaVuSerif-Italic.ttf"); font-style: italic; }
-@font-face { font-family: "DejaVu Serif"; src: url("../fonts/DejaVuSerif-BoldItalic.ttf"); font-weight: bold; font-style: italic; }
+
+@page { margin: /*top=*/18mm /*lateral=*/18mm; }
 
 h1 {
   text-align: center;

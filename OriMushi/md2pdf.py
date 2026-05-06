@@ -74,8 +74,7 @@ def build_single_pdf(md_filepath, metadata, extra_outline=None, bookmarks=False,
     with out_filepath.open("wb") as out_pdf_file:
         with open(md_filepath, encoding="utf8") as md_file:
             md_content = tmpl_subst(md_file.read())
-        pdf = md2pdf(DIR, md_content, CSS_FILEPATH, expected_pages_count, lang="fr", metadata=metadata, bookmarks=bookmarks).getbuffer()
-        out_pdf_file.write(pdf)
+        out_pdf_file.write(md2pdf(DIR, md_content, CSS_FILEPATH, expected_pages_count, lang="fr", metadata=metadata, bookmarks=bookmarks))
     set_metadata(out_filepath, **metadata)
     if extra_outline:
         add_outline_items(out_filepath, extra_outline)
