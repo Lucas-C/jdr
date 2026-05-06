@@ -21,7 +21,7 @@ OUT_FILEPATH = DIR / "ParadisPerdu-ModulesDeSecours.pdf"
 def build_pdf(target_md_file=None):
     start = perf_counter()
     with OUT_FILEPATH.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=34, lang="fr").getbuffer())
+        out_pdf_file.write(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=34, lang="fr"))
     if "FAST" not in os.environ:
         add_page_number_backgrounds(OUT_FILEPATH)
         set_metadata(OUT_FILEPATH,

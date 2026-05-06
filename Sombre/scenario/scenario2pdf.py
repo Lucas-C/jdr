@@ -45,7 +45,7 @@ SCALE = .12  # mm / pixel
 def build_pdf(target_md_file=None):
     start = perf_counter()
     writer = PdfWriter()
-    writer.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=12))
+    writer.append(io.BytesIO(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, expected_pages_count=12)))
     writer.append(build_appendix_pdf())
     writer.write(OUT_FILEPATH)
     assert len(writer.pages) == 21, "Broken since fpdf2==2.7.8"

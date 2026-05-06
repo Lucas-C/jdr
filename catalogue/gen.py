@@ -57,9 +57,8 @@ def build_pdf(target_file=None):
     html_doc = build_html_doc(jdrs_html)
     with open(DIR / "index.html", "w", encoding="utf8") as html_file:
         html_file.write(html_doc)
-    pdf = html2pdf(DIR, html_doc, CSS_FILEPATH, lang="fr", metadata=METADATA).getbuffer()
     with PDF_FILEPATH.open("wb") as out_pdf_file:
-        out_pdf_file.write(pdf)
+        out_pdf_file.write(html2pdf(DIR, html_doc, CSS_FILEPATH, lang="fr", metadata=METADATA))
     print(f"{PDF_FILEPATH.name} built")
     print("Materiel requis :")
     for matos, count in sorted(materiel.items(), key=lambda item: -item[1]):

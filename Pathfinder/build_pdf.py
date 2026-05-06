@@ -22,7 +22,7 @@ def build_pdf():
     start = perf_counter()
     writer = PdfWriter()
     writer.append(character_sheet_pdf())
-    writer.append(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr"))
+    writer.append(io.BytesIO(markdown2pdf(DIR, MD_FILEPATH, CSS_FILEPATH, lang="fr")))
     writer.write(OUT_FILEPATH)
     set_metadata(OUT_FILEPATH,
         title="Pathfinder - Total Conversion",
