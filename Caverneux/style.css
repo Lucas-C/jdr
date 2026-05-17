@@ -1,0 +1,152 @@
+@font-face { font-family: "FreckleFace"; src: url("fonts/FreckleFace-Regular.ttf"); }
+@font-face { font-family: "LoveYaLikeASister"; src: url("fonts/LoveYaLikeASister-Regular.ttf"); }
+@font-face { font-family: "LoveYaLikeASister"; src: url("fonts/LoveYaLikeASister-Bold.ttf"); font-weight: bold; }
+/* @font-face { font-family: "NotoColorEmoji"; src: url("fonts/NotoColorEmoji-Regular.ttf"); } */
+
+@page {
+  margin: /*vertical=*/18mm /*lateral=*/18mm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  max-width: 44rem;
+  margin: 0 auto;
+  font-family: LoveYaLikeASister, sans-serif;
+  font-size: .9rem;
+  line-height: 1.1rem;
+}
+/* b, strong { text-shadow: 1px 0 black; } /* Sadly, not supported by Weasyprint */
+b, strong { }
+em { }
+
+h1, h2, h3 { font-family: FreckleFace; }
+h1 { font-size: 5rem; text-align: center; }
+
+img { max-width: 100%; }
+
+p { margin: .5rem; }
+p.small { font-size: .7rem; margin: 0 .5rem; }
+p.center { text-align: center; }
+
+ul { margin: 0; list-style: none; }
+ul li::before {
+  content: '🦴';
+  font-size: .6rem;
+  line-height: .6rem;
+  vertical-align: top;
+  display: inline-block;
+  padding-left: .5rem;
+  transform: rotate(90deg);
+  /* border: 1px solid red; */
+}
+
+blockquote { font-style: italic; margin-left: 1rem; background: #eee; padding: .2rem; }
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: .5rem 1rem;
+  font-size: .8rem;
+}
+table {
+  margin: 0 auto;
+  page-break-inside: avoid;
+  border-style: hidden;
+  width: 30rem;
+}
+
+del, s {
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  padding: .2rem .3rem;
+  border-radius: .2rem;
+}
+
+.character-sheets p { margin-bottom: .2rem; }
+
+.float-right { float: right; width: 23rem; }
+.row { display: flex; justify-content: space-between; padding: 0 .5rem; clear: both; }
+.row p { margin: 0; }
+
+.placeholder {
+  display: inline-block;
+  border-bottom: 1px solid black;
+  height: 1rem;
+  width: 9rem;
+  vertical-align: middle;
+}
+.square {
+  display: inline-block;
+  border: 1px solid black;
+  height: 2rem;
+  width: 2rem;
+  vertical-align: middle;
+  border-radius: .2rem;
+}
+
+.wordlist ul {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  padding-left: 1.2rem;
+  min-width: 31rem;
+}
+.wordlist.x4 ul { grid-template-columns: 25% 25% 25% 25%; }
+.wordlist li { margin: .2rem 0; }
+.wordlist li::before { content: none; }
+.wordlist.with-ticks ul { list-style: '○ '; }
+.wordlist .placeholder {
+  border: 1px solid black;
+  height: 1.5rem;
+  width: 6.5rem;
+  border-radius: .2rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  margin-bottom: .666rem;
+}
+.card {
+  height: 14.5rem;
+  max-width: 20rem;
+  position: relative;
+  line-height: 1.25rem;
+  border: .5px solid black;
+}
+.card:before {
+  content: '';
+  position: absolute;
+  background: url('imgs/card-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: .2;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.card h3 { text-align: center; margin-bottom: .5rem; }
+.card.brilliant-idea ul {
+  font-size: .7rem;
+  padding: 0 .2rem; 
+  margin: 0;
+  text-align: center;
+}
+
+img.icon { display: block; margin: 0 auto; width: 2.5rem; }
+
+.banner {
+  font-size: 1rem;
+  line-height: .3rem;
+  padding: .5rem;
+  border-radius: .5rem;
+  background-image: repeating-radial-gradient( circle at 0 0, transparent 0, #eee 10px ), repeating-linear-gradient( #ddd, #ccc );
+  text-align: center;
+}
+
+.page-break-after { page-break-after: always; }
+.page-break-before { page-break-before: always; }
+.half-break { height: 1px; }

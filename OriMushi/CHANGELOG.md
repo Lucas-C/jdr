@@ -1,4 +1,4 @@
-## Version v0.5 - Partie du 28 ars 2026
+## Version v0.5 - Partie du 28 mars 2026
 * introduction de la mécanique des **Miracles**
 * suppressions de la section "Notes" sur les FPs de base
 
