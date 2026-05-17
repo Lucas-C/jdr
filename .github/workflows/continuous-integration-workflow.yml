@@ -87,6 +87,11 @@ jobs:
           ./gen.py
           cd -
 
+          echo "Rendering Caverneux"
+          cd Caverneux
+          ./md2pdf.py
+          cd -
+
           echo "Rendering ce-nest-pas-une-place-dhonneur"
           cd ce-nest-pas-une-place-dhonneur
           node ../md2html.js ce-nest-pas-une-place-dhonneur.md > index.html
