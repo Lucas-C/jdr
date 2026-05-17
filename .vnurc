@@ -3,3 +3,4 @@ A table row was .+ columns wide, which is less than the column count established
 A table row was .+ columns wide and exceeded the column count established by the first row .+
 .+ Property .+ doesn't exist in “CSS Level 3 \+ SVG” but exists in “\[css3\]”.
 .+ skipping . heading level.?.
+This document has heading elements but none of them has a computed heading level of 1.

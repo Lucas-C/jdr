@@ -35,11 +35,7 @@ def build_pdf(target_md_file=None):
         metadata = {**METADATA[md_src_file]}
         lang = metadata.pop("lang")
         if target_md_file is None or target_md_file == md_src_file:
-            if metadata.pop("pdf", None) is False:
-                with open(md_src_file, encoding="utf8") as md_file:
-                    md2html(DIR, md_file.read(), CSS_FILEPATH, lang=lang, metadata=metadata)
-            else:
-                build_single_pdf(md_src_file, metadata, lang)
+            build_single_pdf(md_src_file, metadata, lang)
 
 def build_single_pdf(md_filepath, metadata, lang):
     out_filepath = md_filepath.with_suffix(".pdf")

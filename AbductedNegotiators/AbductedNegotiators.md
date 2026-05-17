@@ -2,6 +2,13 @@
 * [x] https://old.reddit.com/r/RPGdesign/comments/1t4bzut/abducted_negotiators_looking_for_a_proofreader_on/
 * [ ] contacter le réalisateur du court-métrage
 * [ ] chercher des compétitions de TTRPG
+
+## Proof-reading
+There's what I'm looking for regarding proof-reading:
+* Feedback on the syntax, spelling, and grammar of the text, to make sure there are no mistakes.
+* Pointing out any unclear or awkward phrasing, and ideally offering suggestions.
+* And of course, general feedback on the game is absolutely welcome: what you like, what you don't like, what you feel is missing, suggestions... It's completely optional, and I won't take everything into account, but I would be very happy to have your feedback as one of the very first English-speaking reader for this game!
+If that's OK for you, I'll send you a link to the game right away.
 -->
 
 <img src="imgs/beams/pxfuel-alien-abduction-greyscale.png" class="top-right size10">
