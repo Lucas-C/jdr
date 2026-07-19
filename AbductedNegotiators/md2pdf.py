@@ -55,7 +55,7 @@ def build_pdf(target_md_file=None):
 
 def build_single_pdf(md_filepath, metadata, lang):
     out_filepath = md_filepath.with_suffix(".pdf")
-    pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count=11, lang=lang, metadata=metadata)
+    pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata)#, expected_pages_count=11)
     with out_filepath.open("wb") as out_pdf_file:
         out_pdf_file.write(pdf)
     start = perf_counter()

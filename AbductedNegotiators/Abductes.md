@@ -1,6 +1,15 @@
 <!-- Si distribution papier :
 -> remplacer crâne par QRCode sur version monopage
 
+Notes de relecture, 2 mois et demi après le 1er jet :
+* le flot du texte est trop ininterrompu, cela manque d'illustrations "latérales"
+* idée : permettre de jouer sans imprimer de matériel, via une mini web app permettant de distribuer les Personnalités et de donner accès au Code du Commerce Galactique
+
+Short URLs for songs :
+* https://chezsoi.org/s/abductes1 -> https://www.youtube.com/watch?v=CozLBYsIUAg Alien Abduction - Dark Sci-fi Ambient Drone Music
+* https://chezsoi.org/s/abductes2 -> https://www.youtube.com/playlist?list=OLAK5uy_mUNNnEMaCcbXmG70e8uJe9-FZHyinoghw Citizen Sleeper OST - Amos Roddy
+* playlist (watchée) : https://www.youtube.com/playlist?list=PLXqBczzY5Ivg
+
 Com'
 * [ ] https://lucas-c.itch.io/
 * [ ] https://chezsoi.org/lucas/blog/ & https://lucas-c.github.io/jdr/
@@ -20,23 +29,23 @@ Com'
 
 Un très court jeu de rôle cinématographique, pour **une Meneuse de Jeu et trois à quatre joueuses**, entièrement basé sur le _roleplay_, le plaisir d'improviser les dialogues et les réactions de son personnage.
 
-**Durée** : entre 1h30 et 2h30, selon le nombre de joueuses
+**Durée** : entre 1h30 et 2h30, selon le nombre de joueuses et votre rythme de jeu
 
 **Thèmes** : enlèvement, science-fiction, tension dramatique, négociation, temps limité
 
 **Synopsis** : les joueuses incarnent des humains sélectionnés pour représenter la planète Terre lors d'une négociation commerciale intergalactique. Durant l'introduction, leurs personnages sont victimes d'un enlèvement par _quelque chose_ d'extraterrestre, de manière horrifique et stéréotypée. Durant la scène centrale du jeu, ils vont représenter la planète durant une tractation commerciale, et réalisent l'enjeu de la négociation : l'achat des océans terrestres.
 
-**Présentation aux joueuses** : pour un scénario si court, il est intéressant de conserver un maximum de surprise pour vos joueuses, et donc de leur en révéler le minimum possible avant la partie.
-Néanmoins, expliquez-leur _a minima_ de quel style de jeu il s'agit (purement axé sur le _roleplay_, sans dés), ainsi que les thèmes majeurs listés ci-dessus.
+**Présentation aux joueuses** : pour que ce scénario « fonctionne », il faut conserver la surprise pour vos joueuses : révélez le minimum possible d'informations avant la partie.
+Indiquez-leur just de quel style de jeu il s'agit (purement axé sur le _roleplay_, sans dés), ainsi que les thèmes majeurs listés ci-dessus.
 
 **Matériel requis & préparatifs** :
-* un **minuteur** réglable, qui sera visible de toutes les joueuses
 * **imprimer** & découper quelques cartes, placées sur **trois feuilles A4** à la fin de ce document
-* du papier et des crayons peuvent être utiles
+* un **minuteur** réglable, visible de toutes les joueuses, par exemple sur un téléphone portable
 * ni dés ni autre source de hasard ne sont nécessaires
+* du papier et des crayons
 * prenez le temps de lire l'intégralité du scénario ainsi que les cartes de texte de loi galactique
 
-**Genre** : la convention d'écriture choisie pour ce jeu est de féminiser  le terme "joueur", mais de considérer par ailleurs leurs personnages comme masculins. Il s'agit là juste d'un parti-pris stylistique.
+**Genre** : la convention d'écriture choisie pour ce jeu est de féminiser  le terme "joueur", mais de considérer par ailleurs leurs personnages comme masculins. Il s'agit là seulement d'un choix stylistique.
 
 <p class="half-break"></p>
 
@@ -46,18 +55,17 @@ Néanmoins, expliquez-leur _a minima_ de quel style de jeu il s'agit (purement a
 
 ## Création des personnages <span class="duration">(~ 10min)</span>
 
+<img class="float-left size15" src="imgs/FACE-04-as-photo.png">
+
 Chaque joueuse **invente librement son personnage**,
 en se basant sur **deux cartes _Personnalité_**
 tirées au hasard comme point de départ.
 
 Suggérez aux joueuses de définir brièvement **leur apparence**, **leur activité**, et **leur personnalité**.
-<br>
-Le seul point commun pour ces personnages est qu'ils sont tous **anglophones**.
 
 À l'image du scénario, cette phase doit rester assez **courte** : pas besoin de rentrer dans le détail. Si vous disposez de papier et de crayons, proposez aux joueuses de les employer pour prendre des notes.
 
-Annoncez aux joueuses que la partie va débuter par une description de ce que font chacun de leurs personnages, durant un début soirée alors qu'ils sont seuls, et suggérez-leur de commencer à réfléchir à cela lorsqu'elles auront terminé d'imaginer leur _alter ego_.
-Cette première scène d'introduction servira d'**exposition** pour présenter leurs personnages.
+Annoncez aux joueuses que la partie va débuter par une description de ce que font chacun de leurs personnages, seuls durant un début soirée. Lorsqu'elles auront terminé d'imaginer leur _alter ego_, suggérez-leur de commencer à réfléchir à cette première scène d'introduction, qui servira d'**exposition** pour présenter leurs personnages.
 
 
 ## Introduction <span class="duration">(~ 10min par personnage)</span>
@@ -65,7 +73,7 @@ Cette première scène d'introduction servira d'**exposition** pour présenter l
 À tour de rôle, dans l'ordre qu'elles souhaitent, les joueuses vont présenter ce que font leurs personnages à cet instant précis, puis tout va basculer...
 
 ::: banner music
-🎶 Bande son suggérée : [_Alien Abduction - Dark Sci-fi Ambient Drone Music_ (YouTube)](https://www.youtube.com/watch?v=CozLBYsIUAg)
+🎶 Bande son suggérée : [_Alien Abduction - Ambient Music_ (YouTube)](https://chezsoi.org/s/abductes1)
 :::
 
 <br>
@@ -86,12 +94,12 @@ Des éléments de mystère peuvent subsister concernant les motivations des pers
 
 ---
 
-<p class="half-break"></p>
-
 ### L'enlèvement
 
 Immédiatement suite à sa scène d'exposition, le personnage de chaque joueuse se fait enlever de manière horrifique, par _quelque chose_ d'invisible.
 La Meneuse de Jeu décrit comment se déroule ce rapt :
+
+<img class="float-right size5" src="imgs/image-from-rawpixel-id-9766989.png">
 
 * choisissez un mode d'enlèvement horrifique **adapté au personnage et au lieu**. Quelques idées : obscurité qui envahit progressivement les lieux; attiré par d'étranges murmures qui finissent par se changer en rugissements; un inquiétant poursuivant qui se révèle sans visage; etc.
 
@@ -104,9 +112,12 @@ La Meneuse de Jeu décrit comment se déroule ce rapt :
 
 * au climax de la tension, **coupez** simplement la scène en décrivant comment le personnage se fait "happer" vers un lieu inconnu...
 
-Quoi que tentent les personnages, **leur enlèvement est inéluctable**.
+<img class="float-left size14" src="imgs/pxfuel-Pentagon-declassifies-UFO-footage-as-photo.png">
+
+Quoi qu'ils fassent, **l'enlèvement des personnages est inévitable**.
 
 Lors du premier enlèvement, les joueuses ne savent pas à quoi à s'attendre, donc soignez vos effets.
+<br>
 Vous pouvez mettre en scène les enlèvements suivants plus rapidement : la surprise est désormais éventée, et cette séquence ne constitue pas le cœur du jeu.
 
 <p class="page-break-after"></p>
@@ -114,7 +125,7 @@ Vous pouvez mettre en scène les enlèvements suivants plus rapidement : la surp
 ## Scène principale <span class="duration">(~ 40min)</span>
 
 ::: banner music
-🎶 Bande son suggérée : [_Citizen Sleeper OST_ - Amos Roddy (YouTube)](https://www.youtube.com/playlist?list=OLAK5uy_mUNNnEMaCcbXmG70e8uJe9-FZHyinoghw)
+🎶 Bande son suggérée : [_Citizen Sleeper OST_ - Amos Roddy (YouTube)](https://chezsoi.org/s/abductes2)
 :::
 
 <br>
@@ -128,11 +139,11 @@ Une fois tous les personnages capturés, débutez la scène suivante ainsi :
 
 Vous pouvez montrer aux joueuses l'illustration représentant la pièce & **Olivia**.
 
-Ne l'indiquez que si les joueuses s'en enquièrent, mais la pièce ne comporte aucune porte.
+Ne le précisez que si les joueuses s'interrogent : la pièce ne comporte **aucune porte**, et dans cet espace les personnages **se comprennent tous**, quelle que soit leur langue maternelle.
 
 Demandez aux joueuses de détailler les réactions de leurs personnages tandis qu'ils découvrent les lieux.
 
-Leur interlocutrice leur propose de s’installer confortablement dans les fauteuils, et leur demande s'ils ont soif. Si l'un d'eux répond par l'affirmative, elle leur proposera de se servir dans un petit compartiment bar assez chic, dissimulé à la base de la bibliothèque, qui contient de nombreux spiritueux ainsi que des sodas.
+Leur interlocutrice leur propose de s’installer confortablement dans les fauteuils. Puis, elle leur demande s'ils ont soif. Si c'est le cas, elle leur proposera de se servir dans un petit compartiment bar assez chic, dissimulé à la base de la bibliothèque, qui contient de nombreux spiritueux et sodas.
 
 Olivia prend le temps d'échanger avec chacun des personnages avant d'entrer dans « le vif du sujet ». Elle se soucie de leur bien-être mais reste évasive et fuyante si les joueuses l'interrogent. Des questions comme _« où sommes-nous ? »_ ou _« comment suis-je arrivé ici ? »_ sont esquivées et restent sans réponse.
 
@@ -151,6 +162,8 @@ Elle leur explique qu'elle représente un important client qui souhaite passer u
 Laissez les joueuses réagir si elles le souhaitent, et répondez à leurs commentaires, puis précisez qu'il s'agit _« probablement du plus important pacte commercial de l'histoire de votre planète »_.
 
 Laissez encore quelques instants aux joueuses pour digérer cela et éventuellement réagir, puis Olivia précise que **son client est intéressé par les océans de la planète**, et que les personnages sont chargés de représenter les intérêts des espèces vivantes qui y habitent durant cette négociation.
+
+<img class="float-right size8 law-book" src="imgs/freesvg-BookWithBookmarks.svg">
 
 Poursuivez rapidement en précisant que :
 * la durée de cette négociation est **limitée à 23 minutes** : étant donné le différentiel temporel existant entre les espèces peuplant cette galaxie, cette durée a été établie comme la plus équitable
@@ -180,6 +193,8 @@ Les personnages peuvent tenter toutes sortes d'attitudes et d'approches vis à v
 > « Oh vous envisagez un autre habitat ? Mon client peut vous proposer une solution d'hébergement pour vous, vos proches et quelques centaines de milliers d'autres humains. »
 
 > « Oui tout à fait, mon client peut regrouper toute l'eau douce de votre planète en un seul lac. Je rajoute tout de suite cela au contrat. »
+
+<img class="float-right size6 time" src="imgs/Time-by-LeticiaChamorro-with-transparent-bg-cc-by.png">
 
 Environ **5 minutes avant la fin du délai** de négociation, Olivia sollicite l'attention des personnages, et résume l'ensemble des clauses qu'elle a adossé au contrat.
 <br>
@@ -225,6 +240,8 @@ Enfin, **prenez le temps de _debriefer_** la partie avec les joueuses.
 
 ## Annexes
 
+<img class="float-right size9" src="imgs/image-from-rawpixel-id-24205264.png">
+
 ### Derrière le rideau de velours
 
 Si les personnages examinent la pièce, le seul élément d'intérêt se révélera être le rideau. S'ils glissent un œil derrière, indiquez leur d'abord qu'il semble y avoir **un grand aquarium**, plongé dans l'obscurité, et qu'il faudrait **ouvrir le rideau en grand** pour espérer distinguer quelque chose à l'intérieur.
@@ -245,7 +262,7 @@ _« Je comprends votre dégoût. Je fais cet effet à tout le monde. C'est pour 
 ### Olivia
 
 Comme dans [le court-métrage donc ce jeu est inspiré](https://www.youtube.com/watch?v=rv8kOzRZK8g),
-Olivia fait simplement son boulot, et celui-ci ne le passionne pas particulièrement.
+Olivia fait simplement son boulot, et celui-ci ne la passionne pas particulièrement.
 Bien qu'elle adopte une apparence humaine pour mettre à l'aise ses interlocuteurs, en réalité **elle ressemble à un gigantesque poisson-lanterne**. Toutefois sa personnalité et sa psychologie sont tout à fait semblables à celles d'un être humain.
 
 La Terre n'est pas la seule planète sur sa liste, et le processus est bien rôdé.
@@ -271,17 +288,23 @@ Voici quelques conseils pour gérer cela :
 
 * il est **inéluctable que les personnages se fassent enlever**, mais s'ils essaient activement d'échapper à leur destin, laissez-les réussir leur premières tentatives d'évasion
 
-* **« oui mais »** : si vous décrivez trop d'échecs répétés des actions des joueuses, cela peut avoir un effet frustrant. Mieux vaut faire preuve de souplesse : leurs actions peuvent réussir mais ne pas avoir l'effet escompté, ou ne faire que retarder l'inévitable
+* **« oui mais »** : si vous décrivez trop d'échecs répétés des actions des joueuses, cela peut devenir frustrant pour eux. Essayez de faire preuve de souplesse : leurs actions peuvent réussir mais ne pas avoir l'effet escompté, ou ne faire que retarder l'inévitable
 
-* une fois la scène principale lancée, **jouez sans anticiper**. Tout peut arriver, et c'est là l'un des grands plaisir à faire jouer ce scénario. Les personnages peuvent réussir à trouver une faille légale ou à prendre Olivia par les sentiments, ou encore refuser de "rentrer dans ce jeu", avec les terribles conséquences que cela peut impliquer.
+* une fois la scène principale lancée, **jouez sans anticiper**. Tout peut arriver, et c'est là l'un des grands plaisir à faire jouer ce scénario. Les personnages peuvent réussir à trouver une faille légale. Ou à prendre Olivia par les sentiments. Ou encore refuser de "rentrer dans ce jeu", avec les terribles conséquences que cela peut impliquer.
 <br>
 **Ne prenez une décision qu'au terme de la négociation**.
 
-* **sentez-vous libre de choisir la décision finale d'Olivia** : selon votre vision du scénario, votre humeur du jour et ce que vous appréciez en jeu de rôle, peut-être serez-vous tenté de faire plaisir aux joueuses, ou de tendre vers une fin tragique car cela rend l'histoire plus intéressante, ou bien encore d'essayer de prendre la décision la plus cohérente possible en fonction du _roleplay_ des joueuses et de votre interprétation d'Olivia.
+::: adjoining-bullet
+
+<img class="float-left size10 planet" src="imgs/image-from-rawpixel-id-15004990.jpg">
+
+* **sentez-vous libre de choisir la décision finale d'Olivia** : selon votre vision du scénario, ce que vous appréciez en jeu de rôle, et même votre humeur du jour, peut-être serez-vous tenté de faire plaisir aux joueuses, ou de tendre vers une fin tragique car cela rend l'histoire plus intéressante, ou bien encore d'essayer de prendre la décision la plus cohérente possible en fonction du _roleplay_ des joueuses et de votre interprétation d'Olivia.
 <br>
 Quelle que soit l'option que vous retenez, ce sera la bonne.
 
-<br>
+:::
+
+<br><br>
 
 ### Et si les personnages ne se contentent pas de parler ?
 
@@ -335,15 +358,10 @@ Le déroulement de cette seconde partie est identique, avec Olivia comme interlo
 ## Remerciements
 
 Ce jeu de rôle a été conçu, rédigé et mis en page par Lucas Cimon, entre mars & avril 2026.
-Les fichiers sources ayant permis de générer ce PDF sont disponibles [sur GitHub](https://github.com/Lucas-C/jdr/tree/master/AbductedNegotiators).
 
-<!--
-Merci aux illustrateurs qui ont placé leur travail sous licence _Creative Commons_ :
-* [Lady by Dumaker](https://www.deviantart.com/dumaker/art/Lady-849565091) - [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-* [Gobul, the Lantern Fish Wyvern by Halycon450](https://www.deviantart.com/halycon450/art/Gobul-the-Lantern-Fish-Wyvern-453833867) - [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
--->
+L'inspiration originale pour ce jeu est un court-métrage de science-fiction : **_Final Offer_ de Mark Slutsky**, visionnable (en anglais) : [ici sur la chaîne YouTube DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). J'ai également été inspiré par [les jeux _For The Story_](https://forthestory.fr/jeux/) ainsi que le court jeu de rôle [_The last coffee shop on the left_](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html) de Shane McLean. Merci à eux.
 
-L'inspiration originale pour ce jeu est un court-métrage de science-fiction : _Final Offer_ de Mark Slutsky, visionnable (en anglais) : [ici sur la chaîne YouTube DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). J'ai également été inspiré par [les jeux _For The Story_](https://forthestory.fr/jeux/) ainsi que le court jeu de rôle [_The last coffee shop on the left_](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html) de Shane McLean. Merci à eux.
+<p class="half-break"></p>
 
 Un grand merci aux playtesteurs & relecteurs de ce jeu : Aurélien, Matthieu, Olivier.
 
@@ -351,7 +369,10 @@ Merci aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Fre
 
 Merci aux créateurs des polices de caractères employées : [Impact Label par Michael Tension](https://www.dafont.com/fr/impact-label.font), [The Orb Report par Kris Derry](https://www.dafont.com/fr/the-orb-report.font) & [Ovnis par Carlos Matteoli](https://www.dafont.com/ovnis.font).
 
+<p class="half-break"></p>
+
 J'adorerais savoir comment s'est déroulée votre partie d'_Abductés_ !
+
 Vous pouvez me la raconter en laissant un commentaire sur [mon blog](https://chezsoi.org/lucas/) ou sur [la page itch.io du jeu](https://lucas-c.itch.io/abductes).
 
 Si cela vous inspire, je serais ravi de recevoir des suggestions d'ajouts de cartes pour le _Code du Commerce Galactique_ ci-dessous !
@@ -515,7 +536,7 @@ Pour tout questionnement des parties prenantes concernant des points de légalit
 :::: cards x3
 
 ::: card alien-code
-Au terme d'une négociation d'accord commercial pan-galactique, les représentants officiels présents doivent signer le contrat établi conjointement. À défaut de sceaux ou d'outils de signatures permettant leur identification univoque, une empreinte des appendices préhensibles des représentants officiels sera employée.
+Au terme d'une négociation d'accord commercial pan-galactique, les représentants officiels présents doivent signer le contrat établi. À défaut de sceaux ou d'outils de signatures permettant leur identification univoque, une empreinte des appendices préhensibles des représentants officiels sera employée.
 :::
 
 ::: card alien-code
@@ -523,7 +544,7 @@ En cas de non-unanimité des représentants officiels d'une partie prenante pré
 :::
 
 ::: card alien-code
-Les représentants officiels de la population d'une planète « en voie de développement » qui se jugerait lésée par une tractation insincère lors d'une négociation d'un accord commercial pan-galactique peuvent saisir le tribunal de commerce pan-galactique pour un arbitrage de circonstance, en réalisant une demande de rescrit calligraphiée.
+Les représentants officiels de la population d'une planète « en voie de développement » qui se jugerait lésée par une tractation insincère lors d'une négociation d'un accord commercial peuvent saisir le tribunal de commerce pan-galactique pour un arbitrage de circonstance, en réalisant une demande de rescrit calligraphiée.
 :::
 
 :::: <!-- end of .cards -->
@@ -546,13 +567,13 @@ En bonus, voici quelques illustrations générées avec Gemini, une IA générat
 
 ::: illustrations
 
-<img class="illustration" alt="" src="imgs/Abducted.png">
+<img class="illustration" alt="" src="imgs/gemini/Abducted.png">
 
-<img class="illustration" alt="" src="imgs/MeetingOlivia.png">
+<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia.png">
 
-<img class="illustration" alt="" src="imgs/MeetingOlivia2.png">
+<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia2.png">
 
-<img class="illustration" alt="" src="imgs/RealOlivia.png">
+<img class="illustration" alt="" src="imgs/gemini/RealOlivia.png">
 
 :::
 

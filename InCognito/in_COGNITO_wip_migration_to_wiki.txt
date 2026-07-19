@@ -1,0 +1,3112 @@
+
+======REGLES======
+
+======Règle optionnelle n°1 (historique) : le passé d’un Avatar peut être en partie conçu au cours du jeu. Lorsqu’une partie d’In Cognito débute, des personnages définis en détails par leurs caractéristiques se trouvent en un lieu et à un moment précis. Néanmoins, il peut être délicat pour les joueurs de définir l’intégralité de leur historique avant de se lancer dans l’aventure. Ils ont ainsi la possibilité de compléter leur passé au fur et à mesure de la partie. Au Conteur de limiter les excès et d’employer cette règle comme une source de rebondissements narratifs.======
+
+======Règle optionnelle n°2 (détail) : tout joueur a un pouvoir sur le décor d’une scène. Si le Conteur oublie de mentionner un détail (Avatar portant une ceinture, trajectoire d'une balle perdue, puissance du vent…) tout autre joueur peut le décrire. Bien sûr, le Conteur conserve le droit de refuser ces improvisations s'il considère que cela nuit à l’ambiance de la partie, au bon déroulement de son scénario ou qu'un joueur en abuse.======
+
+======Règle optionnelle n°3 (pseudoscience) : tout mécanisme technologique inventé par un Avatar suffisamment érudit - selon une logique évidente et des principes fondamentaux reconnus - a toutes les chances de fonctionner. La décision finale revient au Conteur mais il est encouragé à favoriser les réalisations faisant suite à une réflexion approfondie, créées avec des pièces de qualité ou en quantité, originales sans pour autant être invraisemblables, les œuvres enfin qui s'inscrivent pleinement dans l'esprit du jeu et du scénario. Si, de plus, la conception n'est pas contrainte par le temps, l'engin a de grandes chances de fonctionner…======
+
+======Règle optionnelle n°4 (ellipse) : sur décision du Conteur et/ou de tous les autres joueurs, une ellipse temporelle de durée déterminée en commun peut être provoquée. De préférence, ce "blanc" narratif doit avoir lieu entre deux séances espacées. A charge du Conteur d’inventer et de résumer aux autres les péripéties des Avatars sur le Noun durant cette période. Leurs actions doivent respecter l'esprit de chaque personnage mais peuvent parfaitement, en fonction des circonstances, entraîner leur mort. Aux joueurs éventuellement de préciser au Conteur quelle sera leur conduite générale durant l'ellipse.======
+
+============
+
+======	Conception======
+
+======***Passage avec questions pour savoir quel Avatar incarner + exemples======
+
+============
+
+======Si l’Avatar connaît son signe astrologique, il doit être choisi aléatoirement (cf. tableau ***).======
+
+============
+
+======Le vécu du personnage doit être résumé sur une feuille annexe.======
+
+======---> NON, points d'historique pour se le créer au fur et à mesure, éventuellement en déclenchant des "séquences souvenir" communes avec d'autres PJs======
+
+======s/Avatar/PJ/g======
+
+============
+
+======A moins d'une exception (à voir avec le Conteur) les Avatars commencent sans pêchés divins, à 0 en Ombre. Leur score de Volonté sera déterminé en tout dernier lieu par le Conteur.======
+|  **Tranche d'âge**  |  **Âme**  |
+|  Nouveau-né  |  10  |
+|  Enfant  |  9  |
+|  Adolescent  |  8  |
+|  Jeune adulte  |  7  |
+|  Adulte mûr  |  6  |
+|  Adulte âgé  |  5  |
+|  Vieil homme  |  4  |
+|  Très vieil homme  |  3  |
+
+
+======Les possessions d’un Avatar à la création sont au choix mais devront être cohérents avec sa Fortune et constituées avec l'accord du Conteur.======
+
+============
+
+======Il est obligatoire de trouver au moins trois défauts physiques (borgne, grand brûlé, myope, de petite taille…) ou sociaux (avarice, cauchemars, cleptomane, croyance en une chimère, ennemis rancuniers, phobie…) handicapant votre personnage et correspondant à ses caractéristiques. Malus aux Traits sélectifs possibles : -1 en ouïe, en vue, en Dextérité ou en Force à un bras…======
+
+============
+
+======	Traits======
+
+======Représentant les capacités d'un Avatar (un personnage du jeu), ils sont compris chez les humains entre 1 et 4, cette dernière valeur étant assez exceptionnelle. Certaines créatures peuvent en posséder à 5.======
+
+======Il existe 7 Traits, dont le total doit être de 16 :======
+
+======- l'Assurance représente le charisme et la maîtrise des émotions de l'Avatar. Ce Trait peut servir à baratiner quelqu'un ou s’adresser à une foule. Néanmoins le Talent comédien est nécessaire pour jouer un rôle, imiter quelqu’un ou se déguiser.======
+
+======- l'Agilité représente la souplesse de son corps. On l'utilise seule pour escalader une falaise.======
+
+======- la Constitution représente son endurance, sa résistance au sommeil (11 - valeur du Trait heures par nuit minimum), à la faim, à la douleur, aux températures extrêmes, aux maladies et aux poisons.======
+
+======De ce Trait dépend le nombre de blessures que peut supporter l'Avatar : à 5, rien ne change ; à 4, on retire (en noircissant la case) une mortelle ; à 3, on retire de plus une grave ; à 2, on retire encore une sérieuse ; à 1, enfin, on retire une légère.======
+
+======- la Dextérité représente la précision de ses doigts. On l'utilise seule pour lancer un projectile.======
+
+======- la Force représente sa puissance musculaire. On l'utilise seule pour soulever un lourd rocher. Une Force à 1 ne permettra que d'utiliser la dague ou la rapière comme arme tandis qu’à 5 une épée bâtarde peut se tenir d'une main.======
+
+======- la Perception représente la qualité de son audition ainsi que la portée de ses yeux, la netteté de ce qu'ils rapportent. On l'utilise seule pour écouter quelqu'un à travers une porte ou scruter une forêt à distance.======
+
+======- la Vivacité représente ses réflexes et sa rapidité de réaction. On l'utilise seule pour un sprint.======
+
+============
+
+======Un joueur dispose également de 60 points de connaissance à répartir dans sa Fortune, ses Talents & ses relations. Si la première règle optionnelle est employée, il peut également conserver des points pour les distribuer plus tard durant l’aventure. Un point de connaissance permet également de composer une botte (cf. Bottes ) ou de répartir 2 points de bonus entre elles avec la restriction suivante : le bonus ainsi obtenu par l'entraînement, pour affiner la technique, ne peut dépasser le bonus naturel.======
+
+======***80pc = 15 Talents x4 (ou 13 & une école) + 6 Fortune + 1 botte + 3 relations======
+
+============
+
+======Un Avatar non encore adulte peut échanger 10 points de connaissance contre un point de Trait avec une limite de 2 en Force et en Constitution. Un Avatar plutôt âgé peut faire l'inverse s'il ne possède de Trait à 4, Assurance exceptée. Deux échanges "dans le même sens" sont possibles.======
+
+============
+
+======	Talents======
+
+======A chaque Talent doit être attribué un degré de maîtrise. Ces compétences sont évaluées selon 5 rangs : à 0, l'Avatar n'y connaît rien ; à 1 (1 pc), l'Avatar n'est encore qu'un disciple et connaît les bases de la discipline ; à 2 (3 pc) l'Avatar a atteint un niveau moyen et sait se débrouiller ; à 3 (6 pc), l'Avatar est doué et a pratiqué régulièrement durant une longue période ; à 4 (10 pc), l'Avatar est un maître renommé dans la discipline. Le Conteur pourra autoriser à bas rang un Talent plus original : savoir quand quelqu'un ment, prévoir quand il va pleuvoir, pouvoir calmer les chiens, toujours retrouver son chemin, posséder une mémoire très précise, avoir quelques compétences d’opticien…======
+
+======Les Talents recouvrent un large champ d'actions et se recoupent parfois : paysan et marin pourront tous deux permettre de pêcher ; chasseur recouvre des connaissances en animaux et en herboristerie ; scribe permet de faire des recherches en bibliothèque. Fidèle du Temple vous permettra de connaître moult prières et légendes mais également le Temple lui-même et ses occupants. Cependant, un même Talent ne recouvrera pas le même champ d'actions chez deux Avatars : oppresseur servira chez l'un à intimider un marchand pour lui faire cracher la planque de son magot et chez l'autre à diriger une garnison de soldats. De même, les connaissances recouvertes par un Talent dépendent de l’origine de l’Avatar : sur l’Atoll, la plupart des mécaniciens sont des horlogers.======
+
+======Arts et Sciences : Généralement, un Avatar est capable de concevoir, avec le temps et les outils nécessaires, un objet de rang strictement inférieur au sien. Il peut réparer en un temps raisonnable des objets deux niveaux en dessous de son rang. Enfin, un maître pourra en un temps record bricoler un objet de rang I (par exemple il pourra suffisamment aiguiser et équilibrer une lame pour augmenter de +1 sa Réussite). A sa conception, on répartit le rang d’un objet entre bonus au seuil du jet (fiabilité, prise en main : minimise la marge d’erreur) et bonus à la Réussite (outil pour professionnel, ouvrage complexe aux propriétés remarquables : augmente la qualité d’une action réussie).======
+
+============
+
+======	Fortune======
+
+======On évalue le degré de richesse d’un Avatar sur l’Atoll sans avoir à lister en détail ses biens de valeur à l’aide de sa caractéristique de Fortune, évaluée de 1 à 8. Un Avatar peut se procurer rapidement n’importe quel objet de Coût inférieur ou égal en moins d’une heure s’il est sur Guito. Obtenir un objet d’un rang de richesse juste supérieur nécessite plus d’efforts et un jet de Marchand. Enfin, se procurer quelque chose deux rangs au-dessus de sa Fortune nécessite un jet identique avec un malus de 3.======
+
+======Dans certaines circonstances, par exemple si l’Avatar souhaite rassembler un grand nombre d’objets, le Conteur peut lui demander d’effectuer un jet sous sa Fortune.======
+
+======La Fortune s’achète en points de connaissance selon le barème : 2 pc pour 1, 6 pc pour 2, 12 pc pour 3, 20 pc pour 4 et 30 pc pour 5.======
+
+======Avec l’accord du Conteur, une grosse paye ou un butin conséquent peuvent sensiblement faire augmenter une petite Fortune : un trésor mirobolant peut au maximum faire franchir le pas jusqu’à 5. Cependant revendre des artefacts ou d’autres objets illégaux pour grossir ses économies entraîne un jet de Marchander avec un malus de -2 à -4 pour trouver un acquéreur sûr.======
+
+============
+
+======	Relations======
+
+======Il est toujours utile, lorsque l’on souhaite faire sortir quelqu’un du fort de la Noble garde après une bagarre d’auberge ou que l’on souhaite obtenir des informations sur un marchand, de posséder les bonnes relations. Il peut s’agir de parents, d’anciens compagnons de rapine, d’un gladiateur qui a une dette envers vous ou même d’un prêtre confident. En termes de règles, quelqu’un de votre entourage proche est définit par :======
+
+======- au moins deux adjectifs décrivant son caractère.======
+
+======- au moins deux indications sur son domaine d’activité, ses compétences. "Marchand de tapis" ou "gros bras" conviennent par exemple.======
+
+======- deux caractéristiques indiquant à quel point il vous est Redevable et est Influent évaluées entre 0 et 7. La première valeur traduit la loyauté, l’attachement de la personne envers l’Avatar ; la seconde indique la qualité des services qu’il pourra fournir : rareté des objets, qualité des informations…======
+
+======Un point de connaissance permet de répartir 8 points au même barème que les Talents dans les caractéristiques d’un nombre quelconque de relations.======
+
+======En général le Conteur effectuera un jet sous la somme de ces deux caractéristiques. Néanmoins, en cas d’échec par exemple, il peut tester la loyauté de l’individu envers l’Avatar du joueur en effectuant un test sous Redevable doublé : on est jamais à l’abris d’une dénonciation juteuse à la Noble garde… La Fortune d’un contact est au maximum égale à son score d’Influent.======
+
+======N’oubliez pas de rendre régulièrement visite à vos relations et à leur proposer votre aide en retour sans quoi les jets pour faire appel à leurs talents se verront octroyer des malus ou leur caractéristique Redevable diminuera. De même si vous les dérangez trop souvent ou que vous ne voulez pas les rémunérer pour certains services.======
+
+======Nous conseillons au Conteur de ne pas résoudre toute interaction d’un Avatar avec ses relations par un simple jet de dé : il peut être préférable d’improviser un court dialogue une fois le jet effectué.======
+
+======Le chapitre Professions regorge d’exemples de relations.======
+
+============
+
+======	Jets======
+
+======En général, il n'y aucune raison pour qu'un Avatar ne parvienne pas à ses fins : marcher ou déchiffrer une enseigne - si le personnage possède le Talent scribe - ne nécessiteront aucun jet.======
+
+======Cependant, dans des situations d'incertitude majeure, lorsque l'Avatar doit agir en temps limité ou doit accomplir une action complexe et inhabituelle, le joueur l’incarnant doit lancer un d8 qui, pour que l'action réussisse, ne devra pas dépasser un certain seuil. Ce seuil est calculé en additionnant deux Traits ou Talents choisis en fonction de la situation par le Conteur. Si un seul Trait ou Talent lui semble convenir, alors il sera doublé pour obtenir le seuil.======
+
+======Le bonus d'un Talent convenant partiellement peut être accepté réduit de un ou deux.======
+
+============
+
+======Ayant pris un tour de garde nocturne, Anagiros doit rester attentif. Aucun Talent n’étant nécessaire, le Conteur lui demande de réaliser un jet sous  sa Perception + Constitution afin de tester sa vigilance.======
+
+============
+
+======Poursuivi par des matelots mécontents, Apostolos tente de les semer à travers le marché de Neina. Cerné de toutes part, il s'adresse à la foule pour la prendre à partie face à ces "infâmes filous". Afin de se faire prendre en pitié par les badauds, le Conteur lui laisse le choix entre un jet sous son Assurance doublée ou son Assurance + son Talent comédien diminué de 1car il n’a pas l’allure d’une victime.======
+
+============
+
+======Si l'action présente une difficulté particulière - si par exemple si l'Avatar est blessé ou qu'il possède le Talent correspondant mais n'a encore jamais rencontré cette situation - le Conteur peut attribuer un malus de –2 (très difficile) ou –4 (tache surhumaine) au seuil.======
+
+======***tableau d’exemples de malus de perception sonore : vent, respiration, pas, battements de cœur…======
+
+============
+
+======Si le résultat du dé est inférieur ou égal au seuil, l'action est un succès. Le résultat du dé indique alors la Réussite, sur laquelle le Conteur se basera pour décrire l'action :======
+
+======	1	Réussite de justesse======
+
+======	2-3	Bonne réussite======
+
+======	4-6	Réussite parfaite======
+
+======	7-8	Réussite surnaturelle======
+
+============
+
+======Un Avatar soumit à aucune contrainte de temps et potentiellement libre de recommencer son action pour s’améliorer obtiendra, sans faire de jet, la Réussite maximum qu’il peut espérer.======
+
+============
+
+======Lorsque deux Avatars s'affrontent (bras de fer, échecs, tir à l'arc…), chacun d'eux doit effectuer un jet et celui obtenant la meilleure Réussite l'emporte. En cas d'égalité, aucun Avatar ne prend le dessus.======
+
+============
+
+======Lorsque plusieurs personnes contribuent au même effort (pousser un rocher, tirer quelqu'un hors d'un trou…), le Conteur estime une difficulté que devra au moins égaler le cumul des Réussites des Avatars.======
+
+============
+
+======Lorsqu’une action prend du temps à être réalisée (construire un radeau, escalader une montagne, dresser un animal…) c'est le temps qui devient le véritable enjeu. Le Conteur estime alors le délai (un certain nombre de minutes, d’heures, voir de jours) entre chaque jet (éventuellement assorti d'un malus) et le total de jets réussis nécessaire avant que l'action n'arrive à terme (une réussite parfaite comptant pour 2 et une surnaturelle pour 3). Par exemple traverser Jisa du Phare Nord aux Mines du Sud nécessiterait un jet sous la Constitution doublée par heure (en prenant en compte à chaque fois la plus petite Réussite du groupe) jusqu’à totaliser 30 (15 pour aller de Guito à la limite du Sanctuaire).  Mais il serait bien plus simple que le Conteur estime une durée approximative sans aucun jet.======
+
+======Le principe peut être adapté à d’autres actions. Ainsi retenir son souffle nécessitera un jet par minute avec un malus égal au nombre de minutes déjà écoulées.======
+
+============
+
+======	Volonté======
+
+======L’énergie des Avatars réside en leurs idéaux et ambitions. On en distingue deux types : les inaccessibles et les concrets. Eventuellement, dès la création de son Avatar, le joueur peut indiquer en marge de chaque rêve un I ou un C. Il n’y a pas de limitations au nombre des ambitions d’un Avatar, tant qu’elles sont en accord avec sa psychologie et qu’elles ne dépassent pas la demi-douzaine.======
+
+======Chaque fois que l’Avatar réalise une importante action dans le sens d’un de ses idéaux inaccessible, il gagne un point de Volonté. S’il parvient au terme d’une de ses ambitions concrètes, il en gagne deux.======
+
+============
+
+======Idir, un Prince voleur, a pour une ambition simple : s'enrichir. Constamment endetté, il n'hésite jamais à sauter sur la première occasion de se remplir les poches : chaque fois qu’il gagne une somme massive d'argent, il obtient un point de Volonté.======
+
+============
+
+======Apostolos, fils bâtard d’un Noble, a juré sur son honneur de rechercher et de révéler la vérité au peuple après avoir assisté en personne aux odieuses manigances des envoyés des Kamis. Chaque fois qu’il découvre des preuves d’un secret caché des Nobles ou qu’il permet de le diffuser – via les journaux – à la population, il gagne un point de Volonté.======
+
+============
+
+======D’autre part, les expériences vécues par les Avatars les amèneront peut-être à se découvrir de nouvelles ambitions, à concevoir une haine meurtrière envers quelqu’un ou même à changer d’idéaux. Suite à une réflexion reposée, un Avatar peut ainsi changer ou ajouter un rêve. Le Conteur doit limiter ces modifications à deux au maximum par aventure.======
+
+============
+
+======Dans une situation critique, un joueur peut dépenser un point de Volonté pour changer la face d’un dé qu’il vient de lancer.======
+
+======Un Avatar charismatique peut également en dépenser un après une oraison pleine de bravoure pour galvaniser ses camarades ou après une bravade particulière courageuse visant à déstabiliser ses opposants. Les conséquences du jet d’Assurance qui s’ensuivra sont à la discrétion du Conteur.======
+
+======Enfin, la cette caractéristique peut être considérée comme un Trait et un jet de Volonté s'effectuera sous le double de cette valeur.======
+
+============
+
+======Tous pensaient être faits comme des rats, acculés en bordure de falaise par la Noble garde. Pourtant, lorsque Timios brandit l’étendard rapiécé à l’effigie de Maât en hurlant "Justice", ils sentirent tous leurs forces renaître et les soldats, en face, trembler.======
+
+============
+
+======Si les Avatars disposent d’un laps de temps suffisant entre deux aventures (de l’ordre de quelques Roulis), un joueur souhaitant augmenter l’un de ses Talents peut tenter de négocier cette évolution avec le Conteur contre un point de Volonté et un entraînement acharné.======
+
+============
+
+====== 	Confrontations======
+
+======Toute arme maniée par un combattant averti se révélera mortelle sur un simple jet de dés si sa cible ne voit pas le coup venir et ne s’y attend pas. Lors d'une bataille rangée cependant, quand les guerriers se font face, leur sens tactique rentre en jeu et l'adoption d'un système de combat devient nécessaire.======
+
+======Dans une telle situation, au Conteur de scinder le combat en passes d'arme d'une durée approximative de 3 à 4 secondes. Il est seul juge de l'ordre d'action des protagonistes, variant en fonction de chaque situation. Cet ordre peut être symbolisé par des cartes à jouer mais l'essentiel est qu'à chaque passe d'arme tous les Avatars agissent une unique fois selon l'ordre le plus crédible, par exemple de Vivacité décroissante. Un Avatar peut toujours attendre avant d’agir mais s’il y a conflit entre deux combattants souhaitant agir en premier, le Conteur est seul juge et peut demander un jet de Vivacité opposé.======
+
+======Un Avatar peut se mouvoir de (son Agilité x sa Vivacité) mètres au maximum dans une passe d'arme.======
+
+======Les jets d’attaque s'effectuent sous la Force (poings, pieds, armes de corps à corps lourdes : épée, hache, masse d'arme…) ou la Dextérité (arbalète, arc, armes de tir ou de lancer, armes fines de corps à corps : rapière, dague…) plus un Talent correspondant à l’arme employée.======
+
+======En cas d'échec, le coup ripe sur la protection, se perd dans les tissus ou est évité sans difficulté par la cible.======
+
+======Au Conteur d’octroyer un bonus à l'Avatar faisant preuve de ruse, d’anticipation ou tentant de déstabiliser son adversaire.======
+
+======Coup critique : lorsque la Réussite d’une attaque est surnaturelle, celle-ci bénéficie d’un bonus de +1 dégâts.======
+
+======Esquiver : pour chaque attaque dont un Avatar est cible, il peut l'éviter en obtenant une Réussite sur un jet d’Agilité + Vivacité au moins égale à celle de l’assaillant. L’Avatar ciblé souffre de tous ses malus de blessure (cf. Dégâts ) ainsi que d'un malus de -2 par esquive précédente réussie. Si l'Avatar rate une esquive, il ne peut plus se défendre jusqu'à sa prochaine passe d'arme et donc choisir d'encaisser un coup mineur est parfois une bonne stratégie.======
+
+======Attaques supplémentaires : malus égal au nombre d'attaque supplémentaires à toutes les attaques et esquives/parades avant sa prochaine passe d'arme. Un Avatar ne peut effectuer plus de (sa Vivacité) attaques par passe d'arme. Lorsqu’un Avatar est la cible de plusieurs attaques d’un même adversaire, il peut lancer un d8 par attaque reçue puis seulement répartir ses bonus ou malus.======
+
+======Attendre : un Avatar peut se concentrer durant la passe d'arme pour viser ou évaluer ses adversaires et gagner un bonus de +(sa Vivacité) au seuil et +1 à la Réussite de son prochain jet d'attaque ou de sa première esquive/parade qui n'octroie alors pas de malus aux suivantes.======
+
+============
+
+======Une cible est exposée, ignorante de la position du tireur mais aux aguets : compte tenu de la vitesse d’une balle, le Conteur lui octroie un malus de -5 à tous ses jets d’esquive. A moins d’avoir d’excellents réflexes et une grande agilité, celle-ci n’a que peu de chances de s’en sortir…======
+
+============
+
+======		Parade======
+
+======Une alternative aux esquives existe : on peut effectuer une parade sous Vivacité plus le même Talent que celui employé par son assaillant. Encore une fois, seule une Réussite au moins égale à celle de l’assaillant permet d’éviter son attaque.======
+
+======Une parade procure le même malus de -2 qu'une esquive pour les parades/esquives suivantes.  Si elle est râtée, elle laisse l'Avatar tout aussi vulnérable jusqu'à sa prochaine passe d'arme.======
+
+======Si elle est couronnée de succès cependant, un joueur peut réclamer un nombre de jetons tactiques égal au Talent employé. Ces jetons peuvent être cumulés puis utilisés contre ce même adversaire. En rompant le corps à corps avec lui ou en choisissant d’obtenir des points tactiques d’une parade contre un autre opposant on perd définitivement cette réserve. Chaque jeton de celle-ci, dépensé avant une attaque ou une parade, augmente de +1 le seuil du jet.======
+
+======Il est également possible d'effectuer une contre-attaque lors d'une parade avec un malus supplémentaire de -2.L'Avatar ne gagne alors pas de jeton tactique et ne pourra plus effectuer d'autre esquive/parade avant sa prochaine passe d'arme.======
+
+======On ne peut parer une arme de tir. Un malus de –2 est octroyé pour une arme de lancer et –3 pour un carreau ou une flèche. Parer avec une arme non adaptée octroie un malus de -2 et tenter de bloquer une hache avec une rapière brisera probablement cette dernière en cas d’échec…======
+
+============
+
+======		Dégâts======
+
+======Une fois les dégâts connus, au joueur contrôlant l'attaquant de décrire son action en fonction (une blessure légère ne crèvera pas l'œil de son adversaire par exemple) :======
+
+======	1	Légère (faible saignement, muscles endoloris, mal de crâne…).======
+
+======	2	Sérieuse (entaille profonde, coup au visage ou ligament sectionné…).======
+
+======	3	Grave, entravant les mouvements (saignements importants, os cassé…).======
+
+======	4 et +	Mortelle (membre coupé, organe vital touché…). ======
+
+======Un Avatar subissant une blessure grave doit réussir un jet de Constitution doublée avec un malus égal au total de tous ses malus de blessure pour ne pas sombrer dans l'inconscience.======
+
+======La gravité et, à sa suite, la nature (origine et localisation) de la blessure doivent être indiqués dans la section correspondante de la feuille d'Avatar. Lorsqu'une rangée de blessures est remplie, toute nouvelle blessure de ce type est aggravée et déplacée à la rangée inférieure.======
+
+======Une blessure non soignée doit être cochée d'un unique trait (/). Lorsque des premiers soins ont été appliqués convenablement à une blessure, faites-en en une croix (X). En une nuit de repos un Avatar diminue une blessure soignée d'un cran : indiquez-la alors par un "plus" pour la différencier (†). Si la blessure n’est pas alors entièrement guérie, seul un très long repos ou un miracle pourront faire disparaître les lésions restantes. S'il n'y a plus de "place" pour décaler la blessure, une récupération naturelle est impossible.======
+
+======Le chiffre entre parenthèses indique le malus qu'elle occasionne aux jets de l'Avatar usant du membre endommagé. Un Avatar peut tenter temporairement d’ignorer les malus provoqués par ses blessures en réussissant un jet sous Volonté + Constitution avec le malus. Après Réussite minutes néanmoins, il sombrera dans un sommeil douloureux.======
+
+======Le terme "blessure" englobe tous les handicaps qui pourraient être infligés un Avatar, ainsi un important manque de sommeil peut être considéré comme une blessure Légère.======
+
+======Les dégâts d’une attaque peuvent être diminués par l’assaillant dans la limite de son niveau  de Talent.======
+
+============
+
+======		Attaques non létales======
+
+======On regroupe sous se terme les différents actions visant à blesser un membre de l’adversaire sans vouloir directement le tuer. Dans tous les cas, l’assaillant a un malus de –2 au seuil de son jet et la cible doit effectuer, si l’attaque est réussie, un test avec une Réussite meilleure que celle de l’agresseur. Voici quelques exemples :======
+|  **Manœuvre**  |  **Jet du défenseur**  |
+|  Faire lâcher une arme par la force  |  test de Dextérité + Constitution  |
+|  Désarmer de manière technique (avec rapière, bâton...)  |  test de Dextérité + compétence de l'arme en main  |
+|  Assommer  |  test de Vivacité + Constitution  |
+|  Déséquilibrer et faire tomber  |  test d'Agilité  |
+|  Immobiliser  |  test d'Agilité+Force  |
+
+
+======Le défenseur ne peut choisir de parer ou d’esquiver de manière classique.======
+
+============
+
+======	A distance======
+
+======La portée de base d’un Avatar sous laquelle il peut toucher à distance sans malus dépend du Talent correspondant à l’arme utilisée additionné à sa Force s'il s'agit d'une arme de lancer ou à sa Perception dans les autres cas (cf. tableau ci-dessous).======
+
+============
+
+============
+
+======Un Avatar possède une couverture complète par rapport à un ennemi lorsque l’intégralité de son corps est cachée aux yeux de ce dernier par un obstacle (rocher, table renversée...). L’Avatar caché est alors invulnérable à toute attaque de cet adversaire. Il peut dépenser un dé d’action pour en sortir au début d’une passe d’arme et s’y réfugier à la fin. Dans cette position, les tirs "au jugé" sans sortir du couvert se voient en général assortis d’un malus de -4.======
+
+======Un Avatar est partiellement couvert si une partie de son corps seulement est protégée. Il est alors invulnérable à toute attaque de réussite inférieure ou égale à une certaine valeur (entre 1 et 3) définie par le Conteur en fonction de l’efficacité de la cache.======
+
+============
+
+======	Bottes======
+
+======Afin d'obtenir l'avantage en combat, les plus fins guerriers savent préparer des stratégies à l'avance en fonction de leurs armes, leurs ennemis et un terrain qu'ils connaissent.======
+
+======En termes de règles, pour le prix d’un dé d’action, une botte définie par 2, 3 ou 4 contraintes permettra une attaque qui, si accomplie avec succès, verra sa Réussite augmentée de, respectivement, 2, 3 ou 4. De même, une botte défensive permettra d’améliorer une esquive ou parade.======
+
+======Le bonus d’une botte diminue d'un cran à chaque répétition sur un même adversaire. Le nombre de contraintes est limité par le degré de maîtrise de l’Avatar dans le Talent concerné.======
+
+======Il existe cinq types de contraintes :======
+
+======- d'équipement (une obligatoire) : l'Avatar emploie un type d’arme précis : bâtons, bouclier, sabre, couteau, mains nues… Il possède une pièce d'armure sur un membre en particulier, une cape…======
+
+======- d'adversaire : ennemi surpris, muni d'une arme précise, déjà blessé au bras…======
+
+======- de terrain : présence de graviers au sol, d'un escalier, d'un pilier… Soleil éclairant généreusement ou obscurité totale.======
+
+======- de situation : Avatar au-dessus de l'adversaire, ennemi en train de courir, second adversaire proche…======
+
+======- de difficulté : l’Avatar doit vaincre son adversaire sur une opposition de Force, situer un point vital de son ennemi (jet de Soigneur)… La stratégie principale des bottes Princes est ainsi de réaliser d’impressionnantes acrobaties avant de frapper.======
+
+======Le Conteur est seul juge de la gêne que représente une contrainte, il ne doit pas hésiter à refuser un handicap trop léger.======
+
+======Plutôt que d’octroyer un bonus à la Réussite, une botte peut avoir d’autres ambitions. Un point de bonus peut être échangé pour transformer l'action en attaque non létale sans malus (cf. paragraphe correspondant) ou effectuer une attaque supplémentaire dans l’enchaînement. Un jet doit être effectué pour chacune de ces attaques, plusieurs coups critiques pouvant ainsi être portés mais le moindre échec interrompant l'estocade. Cette option est également possible pour une botte défensive.======
+
+======Pour un création rapide, le Conteur peut autorisé de seulement indiquer le nombre bottes que connaît un Avatar, et il pourra les détailler plus tard, éventuellement durant le premier combat où il en aura besoin.======
+
+============
+
+======Apostolos, bagarreur émérite, a développé une grande expérience des affrontements impromptus en écumant les tavernes de Guito. Doté d'une Force de 4, il a compris qu'à mains nues l'important est d'infliger un maximum de coups à l'adversaire. Il a d'ailleurs développé une technique  lorsqu'un adversaire l'assaille dans le dos : il lui fait un croc en jambe (parade), se retourne et bascule tout son poids sur son autre genou afin de le faire tomber violemment au sol (attaque supplémentaire). Aguerri, il peut même lui lancer deux coups de poing dans la même passe d'arme. Enfin, son expérience lui a permis d'augmenter le bonus de cette botte de +3. Celui-ci est au final de +2.======
+
+======	======
+
+======Une botte classique de défense d’un épéiste est celle permettant de dévier aisément l’attaque d’un adversaire usant de la même arme mais entraîné par son élan. Bonus +3.======
+
+============
+
+======Une botte relativement répandue parmi les malfrats de Guito permet de tirer partie du lourd casque des Nobles gardes. Contre ces adversaires, leur stratégie est de les déstabiliser par un coup de pied (Force + bagarre) avant de se glisser dans leur dos, derrière leur champ de vision réduit, et de les frapper au poignard (attaque supplémentaire). Bonus de +1.======
+
+============
+
+======L’ATOLL======
+
+======L'archipel portant ce nom est constitué de quatre îles : Jisa, Neina, Guito et Keloun. Quelques milliers d'âmes en quête de pardon divin peuplent ces terres isolées au milieu du Noun, l'océan-mère.======
+
+======Tout se monnaie contre quelques sols (des petites allumettes d’or représentant les rayons lumineux). Le Temple possède sa propre monnaie, l’écu, rare, à la forme de petits boucliers de cuivre pour rétribuer les services qu’on lui rend. Depuis peu, dans les milieux troubles de Guito, une nouvelle monnaie d’échange à fait son apparition : la pistole - une balle de six-coups en vérité - assez précieuse. Enfin le nomisma, pièce d’argent des Nobles, est employé pour les plus importantes transactions.======
+
+======Correspondance des valeurs : 1 écu = 14 sols (peu être négocié avec tout autre îlien qu’un prêtre car c’est une monnaie peu courante que certains marchands refusent même); 1 pistole = 6 sols (très variable, +/- 4 sols) ; un nomisma = 100 sols (très peu d’îliens savent compter jusque là et donc, pour un pauvre éleveur de Jisa échanger un nomisma contre 60 sols est déjà extraordinaire). De plus, un obscur passage du livre des Kamis mentionne le fait qu’un nomisma correspond à 7 écus. Cette particularité a été source de bien des arnaques… parfois des prêtres eux-même.======
+
+======Nul ne sait ce qui existe par delà les étendues d'eau salée du Noun. Aucun des rares téméraires qui s'y sont aventurés, bravant l'interdiction divine, n'est jamais revenu. On dit qu'une chute sans fin attend les curieux qui s'approchent trop près du bord du monde. D'autres prétendent que la malédiction des Kamis frappent tous ceux qui s'éloignent de l'Atoll : leurs possessions se changent en rouille et ils finissent par se noyer.======
+
+======Récemment, un équipage entier de pêcheurs prit le risque de s'y aventurer pour échapper à la justice des Nobles, accusés de ne pas délivrer leur part de pêche au Temple. Durant tout un Roulis, le courant charia des restes calcinés du Beluga, leur bateau, et des corps brûlés, frappé par la colère divine.======
+
+======A travers le Nuage, deux soleils éclairent tour à tour l'Atoll : Osiris et Râ, disparaissant des cieux à la tombée de la nuit. Cette alternance rend la longueur des jours très variable : s'il fait toujours plein soleil à midi, il peut arriver que la nuit tombe dès sept heures et, le lendemain, pas avant dix heures.======
+
+======Aucune pleine lune ne fait jamais hurler les chiens de l'Atoll. En effet, un quart de Khonsou reste toujours sombre aux yeux des îliens.======
+
+======Le temps, force divine cyclique sur laquelle veille Khépri, ne doit pas être fractionné artificiellement par les hommes. Seul le Roulis échappe à ce tabou, quatre des cinq jours le composant portant le nom d’une des quatre grandes sorcières (dans l’ordre : Isis, Nout, Nephtys et Serket) le dernier, sain, étant voué à l’adoration de tous les Kamis. Ni mois, ni saisons, ni années ne viennent rythmer la vie sur l'Atoll. La légende parle de sorciers maléfiques, les Annalistes, qui en consignant chaque événement dans des livres magiques étaient capables de jouer avec le temps…======
+
+======Scribes donc pas très bien vus (Séchat, déesse de l'écriture, était l'épouse de Thot) mais sont requis pour coucher les prières sur papier : brûlées par la suite; elles sont ainsi amenées par Horus aux Kamis et entendues.======
+
+======Toute la terre est sous la responsabilité des Nobles : pas de propriétaire terrien mais + terrain grand + taxe======
+
+============
+
+======	Les origines======
+
+======Les hommes vivaient autrefois sur de gigantesques nefs cauchemardesques où, d’essence démoniaque, ils obéissaient servilement aux Kappas, démons de feu qui peuplent les eaux profondes. Thôt, seigneur des démons, régnait sur cette abominable flotte qui sans cesse échappait aux Kamis, les dieux.  Le soleil pourpre, Osiris, par sa lumière magique réussit à aveugler Thôt et ainsi l’amener à sa perte. Il détruisit ses nefs sacrilèges avec l’aide des autres dieux lors du Châtiment.======
+
+======Osiris sauva alors les plus sages des hommes, leur offrant une terre de salut, l’Atoll, où, grâce aux enseignements divins, les îliens commencèrent leur rédemption. Thôt fut lui enfermé dans Neina par les autres Kamis pour avoir tenté les hommes et Isis la magicienne devint son gardien. La fumée de bois béni par Osiris composant le Nuage le maintient incapable de s'échapper. On dit que seule la pleine lune pourrait vider l'étang de Neina et lui faire recouvrir assez de forces pour s'évader.======
+
+======En l'honneur des Kamis morts pour enfermer le traître, à chaque Roulis une partie de la production de l'Atoll est reversée à la mer (céréales, viande, minerai…). Lors de ce jour des Kamis, les prêtres du Temple embaument les morts et les livrent au Noun au milieu des offrandes rituelles. Le soir, une fête a lieu pour célébrer la mémoire des défunts.======
+
+======Les Nobles sont les fils d'Horus et les guides qu'ont imposé les Kamis aux hommes afin qu’un jour ils obtiennent le pardon pour leurs fautes. Régulièrement ils empruntent le dirigeable sur Neina pour se rendre dans le Séjour des Kamis, parmi les nues. Certains prétendent avoir aperçu ce vaisseau, volant par magie et dénué de tout équipage, quelque part sous le Nuage, au-delà de l’horizon en direction de Keloun.======
+
+============
+
+======	Les îles======
+
+======	Jisa======
+
+======En forme de croissant, c'est l'île la plus grande. Fortement pentue, l'ouest de l'île surplombe de 200 mètres l'est. Ses centaines d'hectares accueillent nombre d'élevages (bovins, moutons, chevaux..) et de plantations céréalières (blé, orge, maïs…) en son centre mais seulement quatre moulins dont un à aubes. Très rurale, ses habitants sont souvent considérés par les autres îliens comme des paysans incultes bien que l'alcool d'orange qu'ils produisent soit très apprécié et très coûteux.======
+
+======A l'extrémité nord du "croissant", on peut apercevoir les ruines d'un vieux manoir et de l’Usine : tuyauterie, tapis roulant, passerelle métallique et bureau. A la pointe, le Phare, un monument de pierre rouge haut de plus de 100 mètres et large de 20, guide les bateaux la nuit. Quelques invisibles ont installé leur campement à proximité. Nommés ainsi car sans leur croix les Kamis ne leur prêtent pas attention, ces barbares ont récemment pendu leur chef tyrannique. Toute cette côte est battue de puissantes rafales de vent et d'immenses vagues, ayant même réussi à creuser les larges rochers acérés qui constituent la plage.======
+
+======A l’extrémité sud, des montagnes se dressent. A leur pied, d’anciennes mines de charbon, de fer et d'or principalement utilisées comme bagnes pour criminels. On y trouve la fameuse mousse "bleue-sang" capable de rallonger la vie d'un mourrant de quelques dizaines de secondes. Parmi les nombreuses grottes qui percent les falaises de cette côte escarpée, peu nombreuses sont celles qui conduisent à la surface. On raconte qu’un trésor y est enterré : de redoutables araignées géantes auraient rassemblé de grandes quantités d’argent, métal divin dont elles sont friandes, depuis qu’elles ne sont plus employées dans les mines.======
+
+======L'ouest est une région conifère considérée comme sacrée, les Nobles veillant à la tranquillité de ce Sanctuaire, passage vers le royaume des morts. De la plaine, on aperçoit l’immense montagne enneigée que les âmes repentantes doivent gravir. C’est en ces lieux que jaillit l’eau de la source d’Apopis qui alimente le Lac au pied des pentes. L'accès par la mer est rendu impossible par la grande quantité de récifs. On raconte cependant que la barque d’Anubis y est parfois aperçue.======
+
+======Jisa regorge également de plantes aux propriétés étonnantes, comme ces bambous cultivés sur les bords du Lac pour leur sève très liquide servant de teinture pourpre, ces énormes oignons au jus capable de rendre aveugle, ces buissons-soupirs utilisés pour délimiter les prisons des mines, - leurs épines produisant un poison très soporifique - ou ces autres qui libèrent des spores obstruant les poumons. Une faune nombreuse peuple également cette île, un élevage d'imposant de vers à soie ayant même été installé à l'est du Lac.======
+
+======+vignes======
+
+======Juste à la périphérie du Sanctuaire, un peu au sud, se dressent les sinistres ruines de l’ancien Temple. Un torrent d’eau tombant du ciel vient s’abattre au cœur de ces décombres sur lesquels sont réputés veiller de terribles spectres. L’eau de cette source dédiée à Serket descend alors les plaines de Jisa jusqu'aux gouttières de Guito.======
+
+============
+
+======	Guito======
+
+======Petite île située à l'Est de Jisa, elle est alimentée en eau grâce à un immense aqueduc la reliant à sa grande sœur et sous lequel un train à vapeur circule. L’eau se déverse ensuite dans le Canal, large fosse rectiligne taillée par Geb dans la roche traversant l'île. Ainsi constamment arrosé, Guito se vide à l'aide d'un vaste réseau d'égouts, repère de nombreux trafiquants et criminels récidivistes marqués au fer du "K" du Kappa. En dehors de l'embouchure principale sous l'arche d’Anat, c’est finalement sous forme d’une boue spongieuse et puante que l’eau rejoint le Noun, serpentant entre les pilotis de quelques maisons surélevées.======
+
+======Guito abrite la moitié de la population de l'Atoll, les Nobles ne la quittant pour ainsi dire jamais. Toute l'île baigne dans une légère brume, produite par l'épaisse fumée bleutée des centaines de cheminées îliennes, dont la plus importante est celle du Temple. Cette fumée monte rapidement en altitude et forme le Nuage, enveloppant l'Atoll avant de retomber sur l'horizon. Les pins longeant le Sanctuaire sur Jisa fournissent ainsi le combustible nécessaire pour entretenir ce voile, conservant Thôt dans sa geôle.======
+
+======A tout moment de la nuit on peut apercevoir depuis Jisa les taches lumineuses de l’éclairage public de Guito. Beaucoup d’îliens encore ont vu de leurs yeux l’installation de ces innombrables lampions perchés à travers l’île. Les Princes ont la responsabilité de désigner des lanterniers chargés de leur entretien, leur allumage et leur extinction.======
+
+======Beaucoup d'artisans se sont installés sur l'île : potiers, tisserands, menuisiers, armuriers… et un verrier-joaillier. ======
+
+======Sous le pont qui mène à Jisa, chaque jour des Kamis, le Colisée voit se dérouler des affrontements : escrime traditionnelle à la rapière (une main dans le dos et masqués de céramique) opposant parfois des Nobles ; duels de Dents, les armes favorites des Princes ; combats de machettes typiques de Jisa… ======
+
+======Quelques journaux sont distribués illégalement aux coins des rues pavées, tous opposés aux Nobles. On y parle récemment de la bande d'hérétiques, pillant, violant et massacrant les paysans de Jisa la nuit.======
+
+======S'il y a bien un animal vénéré sur Guito, c'est le chat. Ce félin silencieux symbolisant Bastet est redouté et craint : on le dit magique, fourbe et susceptible.======
+
+======-plan- (allée reliant la place du soleil-Râ - avec l’Ellipse grande structure sphérique composée de tiges de métal - à la Demeure des Nobles)======
+
+============
+
+======	Neina======
+
+======Au milieu de la baie de Jisa, elle est parfaitement rectangulaire. Immense marché grouillant d'activité, c'est là que les bateaux de pêche accostent. En effet, les fonds marins autour de Guito étant jonchés de récifs, seules gondoles et péniches peuvent y transporter les marchandises. Ces dernières sont d'assez récente facture, le moteur à vapeur permettant de les mouvoir ayant été conçu récemment par un brillant ingénieur, Dokisios.======
+
+======A la fois hautains et discrets, les passeurs forment une caste à part imposants des prix de passage sans cesse changeants. ======
+
+======Ses longues allées d’étals et de tentes sont assidûment surveillées par la Noble garde, non pas tant dans l’espoir de capturer un fraudeur mais dans celui de lui faire cracher quelques sols pour sa liberté.======
+
+======Nombreux sont les marins parmi les îliens, du vieux pêcheur au docker robuste. Fumant souvent à la pipe - en ivoire pour les plus aisés - un tabac cultivé sur Jisa, ils sont injustement réputés colériques. En réalité, bien que parfois un peu bourrus, ces véritables puits de savoir marin cachent sous une carrure imposante un profond respect du Noun et une solidarité à toute épreuve. Vivant au rythme des lentes marées et de leurs oscillations sur trois mètres de fond, un grand événement interrompt parfois cette routine bien huilée : la chasse au Grand Rork, un gigantesque mammifère marin électrique (30m de long, 8 de large et 3 de haut) à la chair délicieuse, à la graisse for utile et aux os solides. Lors d’une capture, ces animaux sont dépecés sur Neina où les Nobles s’octroient toujours par l’intermédiaire de leurs Phlogisticiens la moelle épinière.======
+
+======La récolte en Jonque sacrée des denrées (balles de coton, bois, céramique, céréales inconnues, épices, tissus, pétrole, sucre, tabac, verres optiques…) délivrées par les Kamis par le Noun a lieu chaque jour des Kamis. Un impôt est d'abord prélevé par les Nobles puis par les prêtres qui officient alors au partage entre les plus gros donateurs du Temple et les marchands employant les marins qui ont repêché les offrandes. On a déjà vu des marchands se battre en duel au sabre pour un partage non équitable. Le plus souvent néanmoins, ils sont assez aisés pour  se payer des duellistes, combattants ayant légalement le droit de se battre à la place d’un îlien contre rétribution afin de demander réparation. Agresser à plusieurs un duelliste vous défiant est passible de mort. Un duelliste se contentera toujours d’estropier plus ou moins gravement son adversaire sans jamais le tuer et n’attaquera jamais quiconque moins riche que lui.======
+
+======Les deux seuls double-poupes encore en état, des bateaux reliés entre eux par des poutres et un filet, appartiennent au Temple et à Iacobos Alexiospais.======
+
+============
+
+======	Keloun======
+
+======Grâce à la science des courants développée par les marins, seuls les cadavres offerts à la mer par les prêtres du Temple sont emportés vers Keloun, au Sud-Est, amalgame de restes de bateaux échoués autour de récifs. Tous les morts de l'Atoll s'y déposent après la cérémonie funéraire. Les rumeurs prétendent que des damnés et des monstres y errent.======
+
+============
+
+======	Pantheon======
+
+======Dieux omnipotents et omniscients, en leur honneur tout îlien se doit de porter une petite ankh d'or, fournie par les Nobles, autour du cou.======
+
+======Un événement rare, espacé dans ses apparitions de plusieurs centaines de Roulis, survient lors d'une éclipse solaire. Les rues de Guito se remplissent alors d'un gigantesque défilé de fantômes, un carnaval de faces masquées fêtant le Cataclysme, évènement dont nul aujourd’hui ne se souvient.======
+
+======Autres Kamis : Dévoreuse (monstre mangeur d’hommes aussi nommé Kematef), Hou (personnifie la puissance de la parole, étoile associée à la langue de Ptah), Séchat (épouse de Thôt, déesse de l’écriture, des mathématiques)======
+
+======Phlox = feu endormi contenu en chaque chose permettant la combustion. Science (divine) du feu, de la poudre, de l'électricité = phlogistique======
+
+======plusieurs mondes à charge des Kamis======
+
+======+légende du Tupilak (behel)======
+
+======+ origine livre des Kamis (écrit en grec & sumérien = langue sacrée des dieux permettant de commander aux hommes -> sorciers peuvent abuser)======
+
+======+ prédestination par signe astro======
+
+============
+
+======	Amon-Râ======
+
+======e heure======
+
+======Père de Khonsou et Anat. Epoux de Bastet.======
+
+====== Apparence : cornes de bélier au-dessus des oreilles, tiare de plumes, pagne et fléau. Soleil.======
+
+======Etrange même aux yeux des siens, le dieu des vents a enterré son corps pour s’élever définitivement dans les cieux comme roi des Kamis, porteur du pschent Râ, la couronne sacrée. Son nom signifie "caché" et cela traduit tout autant la situation de son enveloppe charnelle que son caractère mystérieux. Juste et rusé, il règle les différents des Kamis et éclaire les hommes depuis les cieux. Il est le général des légions démoniaques au service des Kamis.======
+
+======On le nomme également Aqen, conducteur de la barque solaire, dieu des passeurs. Ces derniers, officiants entre Guito et Neina, l’imitent par leur aspect : enveloppés dans de grands manteaux noirs, ils cachent leurs visages sous de grandes capuches. Redoutables au maniement de la perche, on n’a jamais vu l’une de leurs gondoles à quai ce qui fait dire à certains qu’ils ne les quittent jamais.======
+
+======Vénéra par : marins, agriculteurs, voleurs, marchands…======
+
+============
+
+======	Anat======
+
+======e heure======
+
+======Fille d'Amon. Epouse de Seth.======
+
+======Apparence : mitre ornée de deux plumes, cornes de vache, massue, lance et bouclier.======
+
+======Déesse guerrière, protectrice des Nobles. Egalement déesse de la musique et de l’ivresse.======
+
+======Œil d’Amon-Râ sur l’Atoll, c’est elle qui traversa l’Eden avec Sekhmet en massacrant les hommes lors du Châtiment.======
+
+======Elle fixe à la naissance le destin des nouveaux-nés.======
+
+======Vénéré par : mères avant une naissance, Nobles gardes, musiciens, aubergistes…======
+
+============
+
+======	Anubis======
+
+======e heure======
+
+======Fils incestueux d'Osiris et de Nephtys. Elevé par Isis.======
+
+======Apparence : tête de chacal noir.======
+
+======Dieu des secrets et des morts, dirigeant traditionnellement la barque sacrée qui conduit leur âme jusqu'au jugement de Maât. Dieu des chiens errants.======
+
+======Il est également le seigneur des Loups, les esprits qui veillent sur Apopis la nuit afin que chaque jour le cycle se perpétue et que Seth protége la course de Râ dans le ciel.======
+
+======Vénéré par : après un décès ou par superstition, la nuit, sur Jisa…======
+
+============
+
+======	Apis======
+
+======e heure======
+
+======Apparence : taureau noir avec un triangle blanc sur le front======
+
+======Dieu de la fécondité. Il se réincarne régulièrement et un enclos sacré lui est consacré. Un prêtre spécifique nommé Sérapis s’occupe de son confort.======
+
+======Vénéré par : agriculteurs, éleveurs, épouses voulant un enfant, combattants du Colisée.======
+
+============
+
+======	Apopis======
+
+======e heure======
+
+======Apparence : dragon doré.======
+
+======Dieu du Chaos et du Mal, tentant chaque jour de dévorer Râ, le soleil d'or. Il se repose la nuit dans le Sanctuaire, parmis les âmes des morts. Le crépuscule voit son sang teinter les cieux : blessé par Seth, il abandonne la poursuite.======
+
+======Les larmes de ce serpent constituent la source du Sanctuaire.======
+
+======Vénéré par : seule la terrible secte des Naassènes vénérait autrefois ce terrible Kami…======
+
+============
+
+======	Bastet======
+
+======e heure======
+
+======Apparence : tête de chat.======
+
+======Déesse de la joie, des plaisirs et de la défense du foyer. Déesse guérisseuse pouvant prendre l’apparence de Sekhmet, déesse-lionne des épidémies et des guerres.======
+
+======Déesse tutélaire des Princes.======
+
+======Vénéré par : les Princes, tout îlien qui voit un chat noir, la famille des malades, les filles de bordel et les maîtresses de maison.======
+
+============
+
+======	Bes======
+
+======e heure======
+
+======Apparence : nain barbu, robuste et simiesque coiffé de grandes plumes. Vêtu d’une peau de fauve, il traîne une queue poilue.======
+
+======Dieu bienfaisant, protecteur du foyer et des femmes enceintes. Dieu de la danse.======
+
+======Il porte épées, couteaux et instruments de musique pour effrayer les démons. De nombreux masques le représentant la langue pendante peuvent être trouvés dans les chaumières de l’Atoll. Il veille sur les consommateurs de pâte de buisson-soupir : apposée sous le nez, elle plonge dans un demi-sommeil merveilleux.======
+
+======Vénéré par : les enfants, les mères, les femmes enceinte, les cuisiniers…======
+
+============
+
+======	Geb======
+
+======e heure======
+
+======Père d'Osiris, Seth, Isis et Nephtys. Epoux de Nout.======
+
+======Apparence : imposant humanoïde à la peau de pierre noire.======
+
+======Dieu de la terre, dieu arbitre. Ancien roi des Kamis ayant volontairement cédé sa place.======
+
+======Son rire est séisme.======
+
+======Vénéré par : les agriculteurs, les habitants des montagnes, les bâtisseurs…======
+
+============
+
+======	Horus======
+
+======e heure======
+
+======Apparence : tête de faucon.======
+
+======Dieu de la souveraineté et de l'ordre, seigneur du ciel.======
+
+======S'oppose à la brutalité de Seth.======
+
+======Vénéré par : les enfants, les îliens épris de droiture, tous ceux qui craignent les orages.======
+
+============
+
+======	Isis======
+
+======e heure======
+
+======Fille de Geb et de Nout. Sœur et épouse d'Osiris, mère d'Horus.======
+
+======Apparence : porte une coiffe de vautour.======
+
+======Grande magicienne et guérisseuse. Elle connaît le nom secret d’Amon-Râ. Elle veille sur Thôt dans sa prison.======
+
+======Vénéré par : les marchands de Neina, la famille des malades, les femmes rusées.======
+
+============
+
+======	Khépri======
+
+======e heure======
+
+======Apparence : tête de scarabée.======
+
+======Dieu des cycles, du renouvellement et de la métamorphose.======
+
+======Vénéré par : les agriculteurs, les îliens repentants, les malfaiteurs.======
+
+============
+
+======	Khonsou======
+
+======e heure======
+
+======Fils d'Amon.======
+
+======Apparence : enfant vêtu d'un suaire portant sur le côté une mèche tressée. Lune.======
+
+======Dieu guerrier et agressif mais aussi guérisseur. Furieux d'avoir été trahis par Thôt.======
+
+======Vénéré par : les mères, les enfants, les combattants, les guerriers blessés, les derviches.======
+
+============
+
+======	Maât======
+
+======e heure======
+
+======Apparence : humaine portant sur la tête une petite plume.======
+
+======Déesse de la justice, de la vérité et de l'harmonie. Agir selon Maât c’est agir en accord avec sa conscience, en respectant la loi et la morale. Symbole de la balance======
+
+======Vénéré par : tous les îliens épris de justice et de vérité.======
+
+============
+
+======	Nephtys======
+
+======e heure======
+
+======Fille de Geb et de Nout. Epouse de Seth. Mère d'Anubis.======
+
+======Apparence : corbeau.======
+
+======Déesse des tombeaux, protectrice du corps des défunts. Déesse des noyés.======
+
+======Vénéré par : les marins, les îliens passant près de l’Ancien Temple ou de Neina, lors d’un décès.======
+
+============
+
+======	Noun======
+
+======e heure======
+
+======Vénéré par : les marins.======
+
+============
+
+======	Nout======
+
+======e heure======
+
+======Mère d'Osiris, Seth, Isis et Nephtys. Epouse de Geb.======
+
+======Apparence : humaine nue. Araignée.======
+
+======Déesse de la voûte céleste. Egalement déesse archère de la chasse et du tissage.======
+
+======Avale chaque soir Râ et en accouche au matin. Son rire est le tonnerre, ses larmes la pluie. Son corps déployé au-dessus du Noun le protège ; ses quatre membres sont les quatre points cardinaux.======
+
+======Vénéré par : les chasseurs, les teinturiers, les marins, les agriculteurs, les mères enceintes.======
+
+============
+
+======		Osiris======
+
+======e heure======
+
+======Fils de Geb et de Nout. Père d'Anubis et d'Horus. Epoux d'Isis.======
+
+======Apparence : momie, étroite barbe tressée, couronne, crosse et fouet. Soleil.======
+
+======Dieu du soleil pourpre portant son nom. Dieu des plantes.======
+
+======Les piliers Djed dans le Temple symbolisent sa colonne vertébrale.======
+
+======Seth, jaloux de ses pouvoirs, le tue et enferme son corps dans un coffre qu'il jette dans le Noun. Isis retrouve son époux défunt qu'elle cache dans l’ombre de Râ. Seth le retrouve et, furieux, découpe son corps en morceaux qu'il disperse sur le Noun. Avec l'aide de Nephthys et Anubis, Isis reconstitue le corps de son époux. Elle parvient à lui redonner vie et donne naissance à Horus.======
+
+======Vénéré par : les agriculteurs, les îliens en voyage sur Jisa.======
+
+============
+
+======	Ptah======
+
+======e heure======
+
+======Père de Bastet.======
+
+======Apparence : momie au crâne rasé tenant une ankh======
+
+======Démiurge ayant créé, dans l’œuf originel sur son tour de potier et avec le limon du Noun, les êtres vivants. Dieu des artisans.======
+
+======Vénéré par : les artisans.======
+
+============
+
+======	Serket======
+
+======e heure======
+
+======Apparence : terrible scorpion à tête de femme protégeant les morts de ses ailes.======
+
+======Déesse de la respiration et donc du souffle des défunts. Capable de soigner du poison.======
+
+======Surveille Apopis dans le monde souterrain.======
+
+======Vénéré par : les îliens approchant du Sanctuaire ou pensant aux morts.======
+
+============
+
+======	Seth======
+
+======e heure======
+
+======Fils de Geb et de Nout.======
+
+======Apparence : tête d'oryx aux cornes coupées à mi-longueur et au museau effilé.======
+
+======Dieu rouge du désert aride, de la foudre et des tempêtes. Protecteur des lois et de Râ.======
+
+======Assassin, ambitieux et comploteur. Les roux sont potentiellement ses séides.======
+
+======Vénéré par : les gladiateurs.======
+
+============
+
+======	Sobek======
+
+======e heure======
+
+======Apparence : tête de crocodile.======
+
+======Seigneur des Kappas, rejetons d’Apopis bannis dans profondeurs par leur père. Capables de prendre n'importe quelle apparence, ces démons peuvent être confondus si longtemps immergés  : ils reprennent alors leur véritable apparence.======
+
+======Vénéré par : ont raconte que des fous lui vouait un culte il y a bien longtemps. N’a pas d’autel au Temple.======
+
+============
+
+======	Thôt======
+
+======e heure======
+
+======Epoux de Séchat, déesse de l'écriture, des calculs et des plans, qui mourut lors du Châtiment.======
+
+======Apparence : tête d'Ibis. Enchaîné par des liens magiques fixés en cercle et attachés à sa tête et ses mains.======
+
+======Dieu des sciences et des calendriers mais également dieu lunaire complémentaire de Khonsou.======
+
+======Vénéré par : personne. N’a pas d’autel au Temple.======
+
+============
+
+======	Le Temple======
+
+======Possèdent tous des noms à consonance grecque qui leur sera donné à la naissance par un prêtre du Temple, sauf les Princes pour lesquels la doyenne officie.======
+
+======http://www.la-grece.com/prenoms.htm======
+
+======grande construction soutenue par de larges colonnes, ======
+
+======Le Temple, chargé de vénérer les Kamis, se compose de diacres, fidèles apportant leur aide bénévolement ; de moines et de nonnes, îliens ayant fait leurs vœux (chasteté, silence, jeûne régulier et parfois même d’immobilité) ; de prêtres, des sages ayant voué leur existence à la vie monastique intronisés par un Père ; des sept Pères désignés par le Hiérophante parfois en raison d'une grosse donation de leur part. Les petits criminels se voient parfois offrir par un prêtre une alternative aux mines : devenir moine et servir le Temple le reste de sa vie.======
+
+======On s'adresse souvent à eux pour une mauvaise récolte mais aussi pour un accouchement difficile ou une blessure grave car ils possèdent de grandes connaissances médicales. De plus, bien que les prêtres n'en usent que sur les Nobles ou lors d'occasions exceptionnelles, le Temple possède une relique capable d'émettre un bourdonnement d'appel au Kami Khonsou, qui se déplace alors en personne, invisible, pour soigner le patient.======
+
+======Les portes du Temple ne se ferment jamais, les prêtres recueillant toutes les âmes en détresse : mendiants, malades, pêcheurs souhaitant se confesser… La confiance des îliens envers le Temple a toutefois été quelque peu fragilisée lors du massacre récent qui fut perpétré en son sein afin de limiter la progression du Mal Bleu, une épidémie désormais éteinte mais très vivace dans le souvenir des îliens. Se transmettant par absorption de liquide corporel d'une victime (sang, salive...), ce mal entraîne une allergie à l’eau provoquant une coloration bleue de la peau par simple contact et d'atroce souffrance si absorption. Les Princes semblent y être immunisés.======
+
+======Une des légendes favorites du Temple est celle des prêtre-juges ramenés par les Nobles dans leur dirigeable pour pourchasser les pêcheurs (ceux qui refondent les ankhs des morts, qui ne font pas de don, qui disséminent des idées parjures…). D'apparence humaine, on murmure qu'ils seraient en réalité des morts traquant les hérétiques pour le salut de leur âme. Il est à noter que le terme "pêcheur" désigne ceux enfreignant les commandements des Kamis depuis que, légende bien connue, un pauvre pêcheur aurait conclu un marché avec une puissance maligne des profondeurs du Noun, glacial océan source de vie et de mort peuplé de Kappas, de sirènes et d’autres Kraken.======
+
+======La pluie, eau bénite provenant des larmes de Nout, est utilisée dans de nombreuses cérémonies traditionnelles. Néanmoins, le Châtiment des Kamis pesant toujours sur les hommes, l’absorption de ce liquide en grande quantité peut se révéler mortelle, les îliens s’abreuvant exclusivement à la source sacrée de Serket dont l'eau sinue depuis l’Ancien Temple à Guito à l'aide de gouttières suspendues.======
+
+======Exceptionnellement, le Temple fait appel à un élément extérieur durant la cérémonie funéraire du rituel de séparation de l’âme et du corps du défunt, ceci afin de ne pas s’attirer la colère des Kamis par ce geste sacrilège. Le derviche qui accompli cette tâche à travers une danse sacrée tournoyante, armé d’une faux d’argent, fait en contrepartie voeux de mendicité pour expier son acte. Il doit de plus connaître par cœur les versets du livre des Kamis, principalement ceux des rites funéraires.======
+
+======définition d’un artefact======
+
+======Symboles sacrés (Sanctuaire, Ancien Temple, Tombeau d’Amon-Râ…)======
+
+======Légende Scories voleuses d’âme qu’il faut enfermer : monstres buveurs de sang ne présentant pas d'ombre à la lumière de Khonsou et se consumant dans l'obscurité totale : leur peau se met alors à peler et à se craqueler. Au fil du temps, la peau des Scories fini par tendre vers le gris cendreux.======
+
+======cuivre métal divin======
+
+======chants en sumérien ("rend-nous le pouvoir de guérir/châtier/d’appeler la pluie…")======
+
+======Ancien Temple======
+
+======rayons de lumière divins======
+
+======légende du texte caché dans le livre des Kamis révélant les mots de pouvoir qui ont permis l'assujettissement des Squelettes et des Jinns, les démons des légions divines======
+
+======légende du désert de sable + tour de Babel======
+
+======Nuage s'ouvre parfois au-dessus du Temple======
+
+======fée = très petite lueur rouge pouvant être mortelle======
+
+======Noun reflet du Nout : étoiles sous l'eau et Nyx, profondeurs où la Dévoreuse entraîne ses victimes, endroit où notre ombre (= pêchés) rejoint le magma maléfiques des abysses======
+
+======Ordre des Cercles gardien du Temple destitué à l'avènement du Hiérophante actuel (pq ? incident avec Jinns et depuis ils ne peuvent plus sortir du Temple ? + descrip. uniformes) : connaissances /Gisants======
+
+======-> devenus majoritairement les gladiateurs (tabous, reconnaissables à leurs tatouages, certains les payent pour former leurs fils au combat durant leur adolescence) mais certains ont également rejoints prêtres, fauconniers, Noble garde et parfois partis /Jisa======
+
+======Rôle du Colisée avant ? (première pierre posée sur Guito fut une de ce bâtiment)======
+
+======Hiérogrammate : prêtre-scribe interprétant les textes sacrés======
+
+======prêtres constituent le pouvoir judiciaire (justice expéditive et dangereuse à cause de superstitions comme celle selon laquelle corps d’une victime se remet à saigner en présence de son assassin)======
+
+======respiration considérée comme acte de *** (relation au divin, pas de notion "d'air" mais de vide)======
+
+======les Hyades, déesses de la pluie======
+
+======règle de conduite n’interdit pas explicitement de tuer======
+
+======processions régulièrement sur Guito où ***objet sacré appartenant à ensemble qui, si réunit, très puissant (armure ?)*** exhibé======
+
+============
+
+======	Nobles======
+
+======descrip de la valise type d'un Noble lorsqu'il se rend sur Jisa======
+
+======précèdent leur nom du titre de "Noble" ; le nom du père suit le leur.======
+
+======Le plus souvent détestés et crains par les autres îliens, leurs pouvoirs immenses sont héréditaires : ils contrôlent les pêches et possèdent le tiers de la richesse de l'Atoll grâce aux taxes qu'ils perçoivent. S'il est très rare qu'ils se marient avec les autres îliens, les bâtards sont courants et souvent reconnus.======
+
+======Actuellement au nombre de quatorze, les Nobles sont reconnaissables par l'ankh à double pied et en argent qu'ils portent le long d'une chaîne autour du cou. Ils élisent parmi eux les membres du Conseil, le pouvoir dirigeant l'Atoll constitué de 3 Ediles,======
+
+======On peut ainsi compter Alexendros Filippospais, en charge de la Noble garde, de la ligne de chemin de fer et des mines. Personnage de l’ombre à la réputation sinistre,  la bonté de sa femme, Noemi, envers les pêcheurs est pourtant renommée. Leur fils se nomme Markos. Eugenios Alexiospais, ensuite, est un vieil excentrique amateur de peinture ne quittant pas le Phare. Iacobos Alexiospais, frère du précédent, est le Hiérophante du Temple. Sa femme, très discrète, se nomme Elpida et leurs fils Pavlos et Titos. Raphaïl Siorpais veille sur le Sanctuaire, les éleveurs et les agriculteurs de Jisa. Sa regrettée femme, Vassilia, lui a donné une fille, Chrissa, atteinte du Mal Bleu, ainsi qu’un fils, Vito. Il possède une grande demeure sur Jisa, entre les mines et l’Ancien Temple, au pied des montagnes. Ioulia Siorpais, veuve, est entrée au Temple. Vassilis Georgiospais est un vieil érudit qui entretient le Hieratikos, l'unique bibliothèque de l'Atoll.======
+
+======Femmes Nobles filles d'Isis======
+
+======Tous les îliens de l'Atoll sont affiliés à une famille, elle-même rattachée à un Noble : lorsqu'un couple a un enfant et se marie, il forme une nouvelle famille que le Noble à qui le père est affilié prend en charge ; à chaque fois qu'un couple a un fils ou une fille qui se marie, il prend en charge l'un des parents du couple (mère de la femme, puis son père, la mère de l'homme et enfin son père). Il est de coutume qu'un jeune homme Noble, au retour de sa première pêche fructueuse en mer, reçoive de son père une famille à sa charge. Pour tester sa fidélité, un Noble a le droit de demander à un îlien d'une famille qu'il possède de se couper un orteil.======
+
+======La Noble garde, groupe de guerriers chargés de faire régner l'ordre sur l'Atoll et plus particulièrement sur Guito, est recrutée parmi les plus forts guerriers du Colisée. Douze sergents les commandent, dotées d'Abra, des gantelets de métal magique capables de projeter jusqu'à 3 carreaux grâce à un ressort. Leur Fort se dresse au Nord-Ouest de Guito mais les prisonniers sont enfermés au Colisée. Si un soldat seul est peu dangereux et parfois corrompu, un simple coup de sifflet de sa part sera répercuté dans tout Guito et aura tôt fait de ramener sergents et patrouilles.======
+
+======La garde rapprochée des Nobles est constituée des plus fines lames de l'Atoll : les Fauconniers, duellistes, tireurs d'élite et dresseur de faucons.======
+
+======Récemment, les Iacobospais aidés de Vassilis ont tenté l'exploit de s'élever dans les airs sans ballon. On a pu les observer plusieurs fois s'élancer du haut du Colisée au-dessus de la mer en deltaplane.======
+
+======Choisissant les premiers parmis les marchandises délivrées par le Noun, on les surnomme les "Rats" en raison de leur avarice notoire et du faible nombre d'occasions où ils quittent les murs de leur demeure.======
+
+======Se révolter contre la volonté d'un Noble est un délit Ubris, passible de mort.======
+
+======ont un goût très prononcé pour le "baroque"======
+
+======possèdent un orchestre======
+
+======vieille légende d’un Noble ayant fait disparaître son frère caché, enfermé quelque part======
+
+============
+
+======	Princes======
+
+======Fils de Bastet et d’Âmon à la peau d'ébène. Régnaient autrefois mais rabaissés par Kamis au rang d'humains pour avoir aidé Thôt, s’être opposés à Isis.======
+
+======Cette ethnie coexiste difficilement avec les îliens : surnommés amicalement Ifrit par les marins, ceux qui ne les apprécient pas les nomment Jinns. Ne dépendant pas des Nobles, c'est leur doyenne, Chinue, qui négocie avec eux pour garder de bons rapports entre les deux cultures.======
+
+======Une coutume veut que tous les Princes apprennent dès leur adolescence une danse, art martial particulier : la Râ-manda, enchaînement de sauts, de coups de pieds sautés et de clefs de bras. Une fois adultes, certains d'entre eux choisissent, afin de survivre, de se battre au Colisée. Les Nobles leur fournissent alors chacun une Dent : cette arme modulable est constituée d'une barre métallique coulissant dans un manche d'os. Parcourue par un courant électrique, cette tige rigide peut coulisser, donnant deux armes distinctes : un bâton d'environ 1m50 dont 30cm à chaque extrémité produisent un courant ou un sabre avec 90cm de garde et 90cm de "lame". Une Dent se manie traditionnellement avec un gantelet de parade en bois.======
+
+======Ces humains possèdent la particularité de naître avec une pierre noire translucide au front. Nommée tout simplement l'Emeraude, cette marque maudite est extraite (-> cicatrice) puis détruite par les Nobles.======
+
+======Les Princes sont reclus dans un quartier au Nord de Guito. Cette partie de la ville offre un contraste saisissant : les Princes préfèrent en effet vivre autour de grands feux, dans de larges trous surmontés d'une yourte ou dans des nids d’osier suspendus qu'ils s'aménagent dans un entrelacs de pilotis et de cordes surmontant la mer de plusieurs mètres. Ils sont la plupart du temps d'excellents funambules.======
+
+======Ils vénèrent quasi-uniquement Bastet, qui les prit en pitié et les sauva du Châtiment contre l'avis des autres Kamis en les extrayant des coques des bateaux dans lesquelles ils étaient enfermés. Très festifs, nombre de leurs veillées et autres concours de tir à l'arc sur cible flottante sont dédiés à la déesse-panthère. Ils prétendent même l'apercevoir danser au cœur des feux lorsque, au milieu de la nuit, leur danse a atteint un rythme hypnotique.======
+
+======Tradition chez les guerriers de la natte : coupée lorsque vaincu, sa longueur symbolise la force du combattant======
+
+======Dent -> traditionnelle (représente dents de Bastet)======
+
+======duels avec : face à face sur deux poutres, cachés l'un à l'autre par un drap opaque, les adversaires s'élancent au signal dans le vide en dessous, uniquement retenus par un pied à l'aide d'une corde attachée en hauteur en un même point======
+
+======Registre des morts (pas pour autres îliens ?)======
+
+======Une autre raison à la méfiance de certains îliens à leur égard est une rumeur prétendant qu’ils sont liés aux démons : leurs danses tracent dans le sable des motifs circulaires proches de ceux, dans le livre des Kamis, qui illustrent les Jinns.======
+
+======Princes brûlés sur bûchés flottants contrairement aux autres îliens======
+
+======Le Temple, reste impénétrable aux yeux des Princes, pour qui le lieu est tabou, les rendant ainsi très bavards à ce sujet. Fascinés par les chœurs de croyants dont les échos leur parviennent parfois, ils colportent rumeurs et mythes : on parle de reliques aux mécanismes incompréhensibles, de créatures magiques apparaissant sur ordre des prêtres, d'armes dorées, de fresques mouvantes...======
+
+======Anoukis est une Prince légendaire qui apprit la magie d’Isis elle-même. Elle portait une grande coiffure de plumes et pouvait dit-on provoquer les marées et se changer en gazelle, animal mythique. + obsédée par sa Pierre -> a mal fini======
+
+======Mode perles dans les cheveux et boucle métallique autour de l'oreille======
+
+============
+
+======	Bas-fonds======
+
+======Lentement, Idir fit glisser la scie longiligne dans sa manche. Autour de lui, dans l’effervescence du marché, nul ne faisait attention à ce Prince discrètement adossé contre un étal. Sans détourner le regard et du bout des doigts, il vérifia la précision de la découpe : une fine cicatrice parcourait le bois du présentoir à fruits, juste au-dessus d’un de ses pieds de métal.======
+
+======A quelques mètres, dans une étroite impasse, quelques gamins poussiéreux s’agglutinaient dans l’ombre, surveillant en chuchotant le voleur.======
+
+======D’un geste imperceptible, Idir déroba une pomme au marchand avant de traverser la rue. Sans perdre son sang froid, croquant à pleines dents dans le fruit, il fit mine de flâner autour des boutiques alentours. Il n’eut pas à attendre longtemps. Un fracas se fit entendre alors qu’un curieux s’était approché un peu trop près de l’étal aux fruits. Brusquement, le sol pavé fut recouvert d’un assortiment multicolore d’oranges, de melons et de raisin tandis que les jurons du marchand retentissaient. Le Prince avait déjà disparu. Plus vif qu’un chat, il avait profité de la distraction pour saisir l’armurier à travers la toile de sa tente, créant une fente dans le tissu d’un rapide coup de couteau – le même qu’il pressait maintenant sur la gorge du forgeron. Distraits par le raffut, ses deux sculpturaux fils n’avaient pas remarqué l’intrusion.======
+
+======«Le Crâne te salue, Taïos « chuchota le voleur. «On prétend que tu ne souhaites plus notre protection. Il ne peut s’agir que de rumeurs, n’est-ce pas ? » Promptement, sans relâcher l’armurier, il se saisit de la bourse de ce dernier et de la petite arbalète posée sur un établi proche. «Tu entends cette agitation dehors ? Heureusement, rien n’est arrivé à ta boutique. » D’une main, il plaça un carreau dans l’engin et l’arma tranquillement. D’un bras sûr, il visa la nuque d’un des fils du forgeron qui leur tournait le dos. Son prisonnier émit un gémissement, l’arbalète un claquement sec.»Ne soit plus jamais en retard » conclut Idir avant de disparaître dans la foule.======
+
+======En entrant dans l’impasse pour examiner son butin, le Prince chantonnait presque. Il ne vit que trop tard le fil tendu à ses pieds. Déjà, deux gamins se jetaient dans son dos et trois autres l’assommaient sous une pile de cordages. Déséquilibré, il tomba à la renverse. En un éclair, on l’avait détroussé et aspergé d’une substance qui rappelait le jus d’oignon. A moitié aveugle, se débattant avec les nœuds, le voleur ne put qu’assister, impuissant, à la fuite de ses assaillants par un soupirail.======
+
+======«Sales raclures de gouttière ! Le Crâne bouffera vos tripes ! Vous entendez les gavroches ? Je vous retrouverais et il bouffera vos tripes !«======
+
+============
+
+======L’Atoll n’est pas un lieu sûr pour les honnêtes gens. Et rares sont les honnêtes gens.======
+
+======Le Crâne - que l’on décrit comme un démon rouge - a repris en main l’organisation criminelle de l’Atoll. Seuls les anciens se souviennent de l’ancienne "famille" qui régnait sur la criminalité de l’Atoll. Dirigée par Orst, elle fut renversée par le Crâne – que l’on dit immortel. L’hypocrisie a laissé place à une cruauté sauvage. Le Crâne - qui s’abreuve du sang de ses victimes - est devenu le croque-mitaine local, un personnage que quelques rares fous prétendent imaginaire.======
+
+============
+
+======	La Toile======
+
+======Rares sont ceux qui connaissent l'Art secret. Ce savoir hérétique peut s'avérer très dangereux et ne s’enseigne toujours qu'à une personne de confiance.======
+
+======La première chose qu'apprend un Ishbar, tisserand de la Toile, c'est à percevoir celle-ci (jet de Perception + Ishbar, cf. Portées ). La tâche n’est pas aisée, les Fils qui la composent ne pouvant être perçus qu’à leur résonance. Aux oreilles de l’Ishbar se révèle alors le gigantesque ouvrage, pulsant et sifflant, recouvrant l’Atoll entier que constitue la Toile, traversant toute matière à l'exception des os humains.======
+
+======Il comprend que tout Fil est relié par l’une de ses extrémités à un homme : s’enroulant autour de sa tête et de sa cage thoracique, il forme ce qu’on nomme son Âme (la majuscule désigne le terme "technique" d'Ishbar) avant de s’extraire par sa paume et le centre de ses doigts. Semblable à une mélodie complexe au tempo changeant et aux sonorités multiples, tout être humain en possède une dès le ventre de sa mère où elle se forme. Solidement arrimé au squelette, le Fil s’en extrayant ne cesse de se tendre au gré des déplacements de l’individu et, très lentement, dévide son Âme. Lorsque l’usure du corps, par l’âge ou les blessures, entraîne le décès, l’Âme du défunt se dévide alors entièrement et le Fil est aspiré lentement par les cieux. Comme il n’existe aucune friction sur la Toile, un cadavre perd ainsi une toise d’Âme par heure.======
+
+======Nul ne sait à quoi est reliée l’autre extrémité d’un Fil dans l’infinité entrelacs de la Toile. Certains prétendent que les Fils relient deux êtres humains, liés à vie à leur insu. D’autres racontent que Ptah le tisserand se jouerait ainsi de la destinée des hommes comme de marionnettes.======
+
+======Un Ishbar mesure le Fil en toises (~ 3 mètres). ======
+
+============
+
+======Pour poursuivre son initiation, l'Ishbar apprend alors à récupérer le Fil. Naturellement indestructible, le scinder nécessite un Glyphe particulier réalisé avec une extrémité de Fil. La seule connue étant l’Âme humaine, un Ishbar prélève la source de son pouvoir sur des cadavres frais et des dormeurs. S'installant au-dessus du sujet choisi, il doit saisir l'extrémité libre du Fil constituant son Âme. Sur un cadavre, le Fil se resserre et une incision est nécessaire. Chez un sujet vivant, l’extrémité peut être prélevée au niveau de la nuque ou à l'intérieur de la bouche. S'ensuit alors un laborieux dévidage de Fil qui est lacé sur la propre Âme de l'Ishbar, le sujet ressentant durant toute l'opération comme une multitude d'aiguilles s'enfonçant dans son dos ou une sensation de froid intense. L'extraction est lente et délicate : (rang d’Ishbar) toises de Fil récupérées par minute.======
+
+======Prélever une importante quantité de Fil réduit l’espérance de vie d’un sujet vivant. Sans Âme, il se transforme en Scorie, une créature dangereuse sans ombre à la lueur de Khonsou.======
+
+======Seule la proximité de l'Âme de l'Ishbar empêche le Fil de s'effilocher et se désagréger.======
+
+============
+
+======Enfin, le plus complexe dans l'apprentissage de l'Ishbar est le tissage lui même. Il s'agit d’agencer le Fil dans l’espace selon la structure souhaitée puis de composer les nœuds lui permettant d’adopter une Nature particulière, c’est-à-dire de se changer en une matière tangente. Enfin, éventuellement, une modification d’Etat peut lui être apportée tant qu’il reste sous le contrôle de l'Ishbar : une fois tissée, elle peut être déclenché à n’importe quel moment d’une seule main. On appelle Glyphes ces nœuds qui s’appliquent, au choix, à l'ensemble ou une partie seulement des toises de Fil soudées. Un jet sous Dextérité + Ishbar est nécessaire pour chacun d’entre eux, la Réussite pouvant déterminer par exemple si le morceau de fer obtenu a le tranchant voulu… ou non. Composer un Glyphe prend (9 – Ishbar – sa Vivacité) minutes à un Ishbar. Le Fil composant un Glyphe raté peut être immédiatement récupéré en une durée équivalente. Chaque Glyphe appliqué au Fil en surplus du premier octroie un malus de -1 au jet de tissage. Séparer une toise de Fil de son Âme et, éventuellement, la lier bout à bout à une autre est l’essence même de l’Art Secret et ne nécessite pas de jet.======
+
+======Un Fil ne peut subsister sans contact d’une de ses extrémités à la Toile : il se dissipe, quelle que soit sa Nature, une à deux secondes au maximum après que l'Ishbar le lâche des mains.======
+
+======Un Avatar n'est capable de conserver que 5x(Dextérité + Ishbar) toises de Fil sur lui, tressé ou non. Pour chaque composition ou tranche de cinq toises de Fil transporté en sus, il écope d’un malus de -1 à tous ses jets d’Ishbar. A partir du second rang d'Ishbar, il devient possible de les maintenir d'une seule main. Un Ishbar peut donc tisser un Glyphe de matérialisation en eau puis un d’échauffement et, après plusieurs heures sans avoir bougé la main, lancer enfin sa boule de vapeur.======
+
+======La plupart des Ishbars savent que l'origine de l'Âme tressée influe sur le résultat d'une composition : une âme noire et une âme pure n'ont pas la même influence et il est crucial de savoir les distinguer pour devenir un maître Ishbar.======
+|  **Ordre de volume de la structure formée**  |  **Nombre de toises de Fil nécessaires**  |
+|  tasse, verre  |  1  |
+|  bouteille  |  2  |
+|  baquet, seau  |  3  |
+|  tonnelet, marmite  |  4  |
+|  tonneau, chèvre  |  5  |
+|  table, barque, armoire, cheval, statue  |  6  |
+|  grand arbre, grosse charrette  |  7  |
+
+
+======Si l'ouvrage comporte des détails, la durée de composition augmente de moitié ; si l'œuvre est finement travaillée, elle double.======
+
+============
+
+======Obtenir un Glyphe à la création nécessite un point de connaissance. Le joueur pourra choisir s'il provoque un changement de Nature ou d’Etat mais le Conteur le choisira ensuite au hasard dans la table correspondante.======
+
+============
+
+======Avec un bon enseignement, le Talent d’Ishbar regroupe également quelques connaissances d’optique nécessaires à la compréhension de Glyphes complexes.======
+
+============
+
+======	Les Naassènes======
+
+======Bien que le Temple soit l'unique lieu de culte autorisé par les Nobles sur l'Atoll, nombreux sont les Naassènes vivant dans l'illégalité car croyant au Wagyl (associé à Apopis), le dragon créateur des Kamis selon eux, grand serpent, dieu du savoir et des réponses. Leur culte est souvent confondu, à leur grande colère, avec celui de la mythique secte des Ophites, vénérant les Kappas.======
+
+======Très animistes, vénèrent les esprits filiformes présents en toute chose, les Mamu======
+
+======nomment les hommes anangus. Selon eux Altjira le Wagyl (Apopis) est la divinité unique créatrice de l'univers mais esprits errants qui ont modelés ce monde = Utukkus======
+
+======Equivalences :======
+
+======Amon = Mokoi======
+
+======Anat = Mamarogan (connaissent la légende selon laquelle son réveil signifierait la perte de nombreuses Âmes, enfermée dans les cieux)======
+
+======Ouroboros = Galeru======
+
+======Anubis = Bamapana======
+
+======Bastet  = Tjilpa======
+
+======Golem = Nargun======
+
+======Kappa = Katjara======
+
+======Khonsou = Bahloo======
+
+======Ernesto = Ngariman, l'arbre ailé======
+
+======Osiris = Lumaluma======
+
+======Ptah = Karora======
+
+======Râ = Wala======
+
+======Scorie = Bunyip======
+
+======Mangeurs de ciel = Tengu======
+
+======prières en grec avec chapelet -> composé d’os ou de morceaux d’écorces gravés de runes, ces dernières permettent de voir le futur en les jetant dans une flaque (système avec cartes tirées : xx runes, deux faces par rune pour deux orientations possibles des cartes, ***) ======
+
+======Savent apprivoiser les Wondjina (grands Rorks, très intelligents) grâce à leurs chants======
+
+======Chaman très savant sur la Toile======
+
+======Savent prélever l’Âme sur les morts et la conserver sur des éventails en os.======
+
+======Cérémonie funéraire : délivre corps au Noun et récupèrent os sur cadavres suffisamment décomposés======
+
+============
+
+======	Professions======
+
+======Pensées de différents îliens +liste d’expressions îliennes (relatives aux Kamis ou non)======
+
+======Passeur psychopathe signant d’un A|A (pour Aqen/Anubis)======
+
+======géomètre (personnage d'une nouvelle)======
+
+======comptable======
+
+======duelliste joueur de violon======
+
+======acupuncteur Naassène (a trouvé des disques de données et s'en sert comme projectiles)======
+
+======joueur de cartes (?)======
+
+======Prince fasciné par le Temple et possédant un Abra (peut déplacer objets métalliques, arrêter balles…)======
+
+======Vieux guerrier de l'Ordre des Cercles possède une technique pour frapper en sortant son sabre du fourreau (sabre + dans son fourreau + jet de Perception avec Soigneur réussi pour trouver point faible + entraînement double bonus)======
+
+======homme de foi attaché à un artefact (tige de métal) capable d'attirer la foudre !======
+
+======marchand possédant un papier officiel, signé des Nobles, pour exploiter le pétrole sous marin (+ a conçu une arnaque en vendant des papiers à prière…)======
+
+======-> hausse des demandes de ce liquide (pq ?) -> Nobles souhaitent racheter ce papier======
+
+======Oracle communiquant avec Anat======
+
+======Amos Prince magicien (use de son pouvoir pour enflammer de l'huile…)======
+
+======Louve voleuse======
+
+======le "voleur d'âmes" : possède un appareil photo et conçoit des flashs au magnésium pour voleurs======
+
+============
+
+======	Quelques rumeurs======
+
+======Une chasse au Grand Rork est bientôt prévue.======
+
+======Les Nobles vont ramener un prêtre –guerrier.======
+
+======Les brigands qui pillent Jisa viennent des mines, ce ne sont pas des paysans affamés.======
+
+======Les Princes trament quelque chose depuis que Taneti a été empalé.======
+
+======On a aperçu un cadavre dérivant sur le Noun, c’est mauvais signe qu’il n’ait pas été emporté sur Keloun (→ cf. scénar "Tout est gras dans l'verrat")======
+
+======Eugenios du phare prétend qu’il y aura bientôt une éclipse, c’est sa domestique qui me l’a dit.======
+
+======Des salamandres ont été aperçues au Nord-Ouest de Jisa.======
+
+======La Noble garde recrute.======
+
+======LA BORDURE======
+
+======Historiquement : une petite minorité de colons se sont installés dans montagnes puis exode massif de réfugiés des guerres et, plus récemment, de Naassènes puis de mercenaires ======
+
+============
+
+======Exploitations indépendantes (~texans) → accords avec marchands se déplaçant pour acheter leur production======
+
+======Chasse de Dame Blanche → gaz et viande ; existe UN unique élevage à l'est======
+
+======Mines avec biosphères : cultures au plafond avec treillis et passerelles suspendues======
+
+======→ légende d’un Utukku endormi dans une mine======
+
+======Chevaux, hovercraft → moyen de transport le plus rapide : glisseurs (~snowboards sur coussin d'air)======
+
+======les Glaces======
+
+======Quelques villages gérés par Nobles au Nord-Est, près du Marais======
+
+============
+
+======	Citées obscures	======
+
+======balayées par cendres ( ?)======
+
+======train magnétique HS vers Alchimistes======
+
+======antennes immenses et métalliques======
+
+======gazoducs======
+
+======Raffineries au milieu de fange polluée (nécessitent refroidissement énorme -> installées sur glace)======
+
+======sur le parcours de la racine d’Osiris → une fois par jour tout être vivant fuit devant son arrivée======
+
+======Veilleur : Scories se nourrissant de l'Âme des Thanocytes → contrôlent leur "élevage" ; ont une perception déplorable mais possèdent des ailes de Maât sur support d'os======
+
+======[revel]  Thanocytes ont appris à se multiplier en implantant le Styx à certaines de leurs proies======
+
+============
+
+======	Naassènes======
+
+======Servent Ptah======
+
+======Temple à l’aplomb de la tête du Wagyl (gardiens porteurs de Masques)======
+
+======-> dont blacks (peints en blancs)======
+
+======"antenne" gigantesque et sinueuse soutenue par des fils======
+
+======possèdent des Marionnettes sous forme de simple entrelac d'os et de fil relié au doigt momifié d'un pharaon, le plupart du temps en sommeil, capables de créer et mouvoir de l'air et de l'eau autour d'eux======
+
+======dolmens======
+
+======Loups : parfois l'esprit d'un mort traverse le Rêve, le Tjukurpa → renaissent  au pied de l'Uluru = grand schiste noir======
+
+======soins éméliorés sur ceux qui ont une Âme (peuvent faire diminuer d'un cran une blessure définitive au moins sérieuse)======
+
+======Connaissent les propriétés de leur bois-coquillage : au contact, tout objet fait de Fil retourne à cet état======
+
+======[revel] posent des chaînes d'argent aux Loups et les enferment dans leurs sous-sols (peur d'eux depuis Anubis) → s'enracinent lentement à chaque décès en surface======
+
+======Atoll : veillent sur la frontière du Sanctuaire (délimitée par une marque bien connue) et s'y réunissent ; Ioulia Naassène ; conservent épée d’argent======
+
+============
+
+======	Chevaliers======
+
+======Forteresse et ses grandes forges======
+
+======→ accès fluvial (embarcadère) dont l'accès se fait par tunnel depuis Forteresse======
+
+======emploient artefacts Gisants======
+
+======un commandant Jinn (Ulrich)======
+
+======au temps de leur gloire, ont su défendre la région contre les créatures Alchimistes de sable======
+
+======vénèrent Sainte Génova, une femme ayant pris les armes à la mort de son époux (~ Jeanne d’Arc)======
+
+======-> Utukku en réalité======
+
+======[revel] n'ont pas voulu éradiquer Thanocytes liés au Stryx par peur de perdre leur savoir======
+
+======→ pacte avec Scories (aidés par Naassènes) pour qu'elles surveillent Thanocytes dans Citées Obscures======
+
+======→ y envoient leurs opposants pas trop stupides à qui ils greffent un Styx======
+
+======→ une nuée s'est échappée d'un vaisseau colon dans les montagnes à l'Ouest======
+
+============
+
+======	Jungle======
+
+======barrage======
+
+======socles Kappas======
+
+======Tlaloc recherche Loups======
+
+======Dents du dragon lévitent car intérieur bourré d'air chaud======
+
+======→ y réside Wollunqua : unique Wondjina étudié par Osiris devenu Utukku======
+
+======île des Loups (Entrave partout) → javeau======
+
+============
+
+======	Cité d’argent======
+
+======Contribution d'Aurélien : au dessus nuages, terrasse, historiquement 2 biosphères dont une démontée, Remblais, ascenseur à poulies, escalier, krak des chevaliers, panneaux solaires et géothermie, condamnés accrochés au-dessus de l'abîme, Ubris, bidonville autour murs de la cité======
+
+======organisations illégales : lampiers, Ophites, Alchimiste======
+
+======sauf autorisation spéciale des chevaliers qui assurent sa sécurité, les armes sont interdites dans la cité======
+
+======Libellules, engins volants monoplace======
+
+======Dernier lieu de construction de vaisseaux : la plupart dits "spatiaux" nécessitent deux choses pour fonctionner : leur moteur fonctionne avec un pile magnétique et ils doivent également transporter suffisamment de gaz de propulsion. Ce dernier est extrait dans des exploitations spéciales sur la face privée d'atmosphère de la Bordure où l'ont peut trouver des gisements très riche et, dit-on, faire facilement fortune. Pour les piles, c'est une autre paire de manches : la Citée d'Argent doit comporter les derniers ingénieurs capables de les réparer et et les recharger (je ne parle même pas d'en produire !!) : le procédé est délicat et nécessite l'utilisation des Cercles. On peut trouver au Temple des Naassènes des versions légèrement moins stables et à l'espérance de vie plus courte. ======
+
+======protégée par Chevaliers======
+
+======Ediles représentent différentes forces politiques : les chantiers spatiaux, les chevaliers, les marchands…======
+
+======Quartiers Jinns======
+
+======Canons DCA======
+
+======Pleureuses======
+
+======L'HISTOIRE======
+
+======Du point de vue des Kappas======
+
+============
+
+======[revel] Œuf de dragon au milieu de l’espace infini : le Nout. Veille sur lui Osiris, astre de lumière, à l'aide des Fils qui les enveloppent tous les deux et les relient. Œuf de glace se réchauffe doucement -> apparition d’un océan + atmosphère créée par souffle du dragon.======
+
+============
+
+======Technologie [optique] : hologrammes, lasers, glace, obsidienne, vaisseaux camouflés…======
+
+======vaisseau humain de guerre Thôt fuit Kappas======
+
+======Technologie : drogues, armes à feu, vaisseaux, systèmes informatiques fonctionnant en sumérien (langue secrète à laquelle seuls les chefs de guerre n’étaient pas soumis – futurs Gisants) + détection du "sang de Gisant"======
+
+============
+
+======s'approche du système -> Osiris le fait se crasher sur Khonsou (Si Khonsou n'est jamais complet dans les cieux, c'est qu'un quart lui manque) = Cataclysme ; plusieurs dizaines humains absorbés par Osiris -> l'astre conserve leurs corps mais renvoie leurs Âmes sur le Noun -> deviennent Utukkus======
+
+======Technologie : Marionnettes, vaisseaux de verre ultra-rapides, pyramides de verre, (matériaux : or, papier, bois, acier), développement de la technologie sonique======
+
+======survivants se réfugient sur Noun où ils implantent végétaux et animaux (terre extrêmement fertile) -> Utukkus d'abord contrôlés par Gisants en sumérien puis lentement déifiés======
+
+======-> leurs sujets se voient offrir une Âme (en réalité lien pour que Utukkus usent de leur énergie vitale, diminuant ainsi de moitié l'espérance de vie des humains déjà élongée par les manipulations génétiques -> humains meurent au maximum de vieillesse à 60 ans)======
+
+======-> d'autres refusent (Alchimistes)======
+
+======sur l’Atoll, crash du vaisseau Jisa forme lac, colons construisent Ancien Temple puis, une fois sous l’influence des Utukkus, les îles dorées======
+
+============
+
+======Grande Guerre ou "guerre du langage" <-> Châtiment======
+
+======Utukkus déifiés lentement et baisse du savoir technologique de la majeure partie des humains. Ishbars confident des Utukkus apprennent l’Art Secret. Certains découvriront la nature du Noun et se feront Naassènnes.======
+
+======[revel] Seth joue le rôle des Alchimistes======
+
+======Technologie : bombes EMP, statues de sable mouvantes, vaisseaux de sable, développement de la technologie magnétique======
+
+============
+
+======environ 200 ans plus tard, bataille des réservistes : les Jinns libérés sur Khonsou et derniers containers contenant les Squelettes descendent sur Jisa======
+
+======-> l’un d’eux s’échoue sur l’Atoll. Certains Squelettes réveillés prennent le pouvoir sur les colons alors présents, menés par Amon (cf. Princes).======
+
+======-> 6 filsqui, adultes, renversent leurs pères (handicapés par le secret des mots de pouvoir). les Princes choisissent de rester neutre dans la guerre et dirigent pacifiquement l’Atoll mais enferment Anat======
+
+============
+
+======après 400 ans de dynastie Prince, Isis quitte l’Atoll pour devenir Gisant======
+
+======-> elle dompte des Scories et revient exterminer les Princes======
+
+======-> trahie par humains, elle est enfermée mais les Princes, grandement diminués, deviennent des esclaves======
+
+============
+
+======quelques 100ans plus tard, arrivée des Kappas (en réalité, descendants des Loups d'un autre Wagyl ?)======
+
+======pas d'agression d'Osiris mais certains Kappas refusent de repartir (…) -> conflit interne======
+
+======Utukkus déclenchent la guerre contre les Kappas qui se révèlent plus puissants grâce à leur armes laser et hydrostatiques======
+
+======tentative Kappa de section des liaisons de Fil Osiris-Noun -> Noun bouge -> Kappas arrêtent======
+
+======montée niveau d'eau due à chaleur Apopis augmentant à cause des explosions de la guerre ?======
+
+============
+
+======sur l’Atoll, Kappas établissent le régime Noble.======
+
+======-> conception du bouclier statique======
+
+======-> injectent une substance colorante et hyper magnétique – mais toxique - dans les pins de Jisa et ordonnent à travers les Nobles aux îliens de les brûler afin de limiter les pouvoirs des Princes======
+
+============
+
+======Récemment : des érudits se rassemblant à l’Usine réussissent à rassembler des écrits historiques et scientifiques et s’opposent au Temple et aux Nobles. S’ensuit une répression par des prêtres-juges, la destruction ou le rassemblement de tous les livres à la bibliothèque sous l’égide des Nobles. Eugenios encore gamin (a formé Dokisios).======
+
+======Usine comporte forge et gigantesque moteur (fonctionne au pétrole –source au Sud de Jisa – et réfrigération à l'eau de mer) à fonctions multiples : lieu de fabrication du train et de conception de nombreux autres projets======
+
+======Accident avec Ordre du Cercle -> dissous -> fauconniers formés======
+
+======-> Ernesto (un Prince, développe ses capacités après passage sous Neina), Matias (Loup enraciné) et Loas Siorpais (un Noble, ami d’Eugenios & grand frère de Raphaïl) libèrent le Crâne de Neina -> diffusion du Mal Bleu======
+
+======+ lien avec Naassènes======
+
+======Loas Siorpais enfermé par Nobles : il s’évadera et se cachera avec un arc de métal dans la verrière======
+
+============
+
+======	Kappas======
+
+======	Espèces & castes======
+
+======quantité de pc en est fonction======
+
+======Guerriers spécialisés en écoles======
+
+======langue Nahuatl======
+
+======ne peuvent PAS avoir d'Âme======
+
+======Tous les Kappas sont frileux : gel de leurs combinaisons chauffant.======
+
+======Hiérarchie pas famille -> fort lien prof/élève======
+
+======Principe de la conscience relayée (indiquer pour chaque espèce quelle est la part de cette conscience et de la conscience "humaine") au sein de l’arbre hiérarchique Kappa : "feuilles" modèlent conscience du nœud au-dessus d’elles et celui-ci ne peut rien leur cacher de sa volonté/ses ambitions (mais ne l’impose aucunement) -> schéma se répète aux nœuds supérieurs======
+
+======Copulation /saison======
+
+============
+
+======- Naja (mâles reproducteurs) : humanoïdes avec tentacules à la place des jambes. Ne peuvent pas vivre hors de l'eau. Aveugles/usent d'un sonar (sifflements produits par l'orifice ornant leur poitrine) qui leur sert de moyen de communication exclusif. Naturellement capable d’employer l’hydrostatisme.======
+
+======- Wivres (femelles) : accolées l’une contre l’autres, jambes forment queue de poisson. Grossesse => meurent et si fille : hérite de leur mémoire ; si fils : Naja.======
+
+======- Sphinges (asexués) : colosses, muent et perdent mémoire. Pondent des oeufs que Naja ensemencent et couvent pour donner naissances à une Wivre, un Sphinge ou un Shaytan. Vision thermique.======
+
+======- Shaytans (mâles stériles) : évolution orientée par Kappas à partir des Najas (cavité au torse l'indique). ======
+
+============
+
+======	Capacités======
+
+======Najas & Shaytans  : secrètent Ambre ou Teotl  → une perle pour projection rectiligne d’une dizaine de mètres dans une direction (si jet sous Ambre raté, direction aléatoire au d8 dans plan choisi par Kappa) : sentent le courant du "vent d'abysse" dans orifice pulmonaire. En apparence, le Kappa semble se diluer de l'air un instant, puis est soudainement happé dans une direction (une passe d’armes). Récup : sang de Yowie ***(ou méditation de jour sous l’eau)======
+
+======Shaytans : Si ***Huracan (seigneur du feu)/Huehueteotl*** portent leurs écailles à une température tellement élevée que peuvent traverser pierre, ne pas s’écraser lors d’une chute sur le Noun ou transformer le sable en verre sous ses pas (à quelques cm de l’épiderme, la chaleur est déjà dissipée). Brûle Toile alentour et gagnent un soleil d'Ombre par minute. + dans cet état, projection Teotl détruit tout sur passage======
+
+============
+
+======	Phagos======
+
+======parasites de cerveaux ; pousse à l’extrême capacités humaines ; naissent stupides mais peuvent devenir très intelligents. Bouffent humains. Si n’assimile pas complètement le cerveau de son porteur, phases d’éveil de ce dernier où il ne se souvient plus de ses actions "sous contrôle". Résister à un Phagos *** dur si pas sang de Yowie. Le Phagos forme un cocon sur sa victime avant la symbiose.======
+
+======Leur usage sur humains a été redécouvert sur le Noun (à l’origine, il y a très très longtemps, ont été conçus pour ces porteurs en particulier). Entre temps, utilisés sur… ? ***grosse bête + petit quadrupède======
+
+======Une bouture de Phagos sur un autre porteur partage une même conscience======
+
+======→ Stryx : greffe Phagos introduite par Kappas aux Chevaliers → connaissance commune énorme MAIS n'importe quel porteur peut éliminer n'importe quel autre → les autres sont immédiatement mis au courant======
+
+======→ grande quantité de colons en sommeil à qui on a implanté greffe → "pompe" connaissances======
+
+======→ se sont récemment libérés (?qui importe peu)======
+
+======→ Thanocytes : cannibales agissant en meute======
+
+======→ si éliminés, perte critique de connaissances======
+
+============
+
+======	Factions======
+
+======Coalition Fédérée : suivent directives édictées il y a plusieurs millénaires (plan actuel : capturer ou confectionner un vaisseau capable de traverser la galaxie pour appeler à l'aide l'empire Kappa). Chefs : Khépri, Huitzilopochtli, Tlaloc.======
+
+======Naja dirigeants======
+
+======Wivres prêtresses- guerrières======
+
+======calmecac, collège réservé à l’aristocratie======
+
+======capitale Coalition Fédérée : dôme Kappa recouvrant désert où température si haute qu'elle consume un homme en quelques secondes s'il ne porte pas de ***dispositif***. L'enjeu dans les combats devient alors de le détruire. Sable rouge======
+
+======Khépri possède corne Hurucan (connaît le secret des prêtres)======
+
+======VS======
+
+======Ouroboros (gigantesque vaisseau en forme d'anneau orbitant autour du Noun)======
+
+======Naja relégués au rang de serviteurs======
+
+======Wivres & Shaytans des deux sexes gouvernent (mais culte en faveur de la Coalition)======
+
+======démocratie : Tlacocan (Grand Conseil)======
+
+======ont renoué avec anciennes croyances : se considèrent comme organismes immunitaires du dragon======
+
+============
+
+======	Technologie======
+
+======explosifs à base de plancton======
+
+======Médaillon (communication sous l’eau + traduction)======
+
+======Orgues (basaltiques) : machines remplies de liquide avec données contenues dans microbulles de gaz lisibles grâce à lumière (commandes holographiques)======
+
+======vaisseaux d'Ouroboros pompent énergie de Râ grâce à fibres d'obsidienne tentaculaires======
+
+======vaisseaux avec épine dorsale captant énergie solaire (verticale car lumière latérale quand voyages dans système solaire)======
+
+======appareils détectent Fil (et donc Utukkus et humains avec Âme) : pas assez de masse pour leurs appareils sophistiqués -> détecteur d'une longueur d'onde particulière mais seulement à courte portée (environ …)======
+
+======armes lasers et hydrostatiques (eau hypervéloce)======
+
+======utilisent Emeraude noire pour alimenter leurs armures======
+
+======moteurs à propulsion hydrostatique======
+
+======guerriers hydrostatique contrôlés par Naja à travers interface======
+
+======vaisseaux en obsidienne (semi transparents) Kemi (pl.  Khemet), "la terre noire" ======
+
+======comptes à rebours à aiguilles de lumière======
+
+======Elèvent Yowies pour les Passages, capables de vivre dans l'espace,. Kappas très étonné que le Noun en soit peuplé avant leur arrivé. Ainsi, peuvent déplacer objets d’un Yowie à l’autre======
+
+======théorie : espace en mouvement hyper rapide mais prêtres Kappas savent user de la lumière afin de densifier leurs corps pour laisser l’espace se mouvoir autour de soi -> Passages à travers reflet non solide (donc, forcément, un liquide)======
+
+======-  luminosité du reflet importante (l’eau du Noun ne peut-être employée qu'à certains moment de la journée/de la nuit)======
+
+======-  Passage ouvert grâce à l’Ambre ou des cendres de Yowie, tous deux en quantité suffisante (taille du Passage en dépens)======
+
+======- angle incident de la lumière + diffraction par un prisme (ou le derme d’une Scorie usant de sa capacité mimétique) indiquent coordonnées du point d’arrivée (mouvement de l'espace étant autonome, certains endroits sont impossibles à atteindre)======
+
+============
+
+======	Croyances======
+
+======Les hommes du quatrième monde ont été transformés en poissons lors de sa destruction. Quetzacoatl descend aux enfers afin de récupérer leurs os et de s'en servir pour recréer des Kappas, mais Mictlan, le seigneur des lieux, n'est pas d'accord.======
+
+======Il impose mille épreuves à Quetzacoatl pour le faire échouer. Ce dernier tombe dans une fosse, où les ossements se brisent. Il les apporte tout de même à Cihuacoatl, une déesse-serpent. Celle-ci les broie, puis les dieux mêlent un peu de leur sang à cette farine : les humains sont nés.======
+
+======Mais les dieux ont encore un problème à résoudre. Comment nourrir cette humanité nouvelle ? Quetzacoatl aperçoit une fourmi qui transporte un grain de maïs. " Où l'as-tu trouvé ? " lui demande-t-il. ======
+
+======Et il se transforme en fourmi pour suivre l'insecte au cœur du mont Tonacatepetl. Il parvient dans une grotte où sont amassées des réserves et y prend quelques grains de maïs.======
+
+======Nanahuatzin, qui ne s'est pas encore transformé en Soleil, brise en deux la montagne, et les dieux du vent dispersent les grains dans le monde pour permettre aux hommes de les cultiver et de s'en nourrir.======
+
+====== (mythe aztèque)======
+
+======sens du sacrifice (littéral)======
+
+======prêtres possèdent le Chilam Balam, livre prophétique======
+
+======sorciers Naja maîtrisent une forme de tissage (peuvent condenser un cimetère de glace n’importe où) et connaissent secret de la combustion des Shaytans======
+
+======Quatre divinités principales :======
+
+======- Tezcatlipoca======
+
+======- Quetzalcoatl/Kukulcan : dieu des origines======
+
+======- Huitzilopochtli/Sobek : dieu des soleils (Naja)======
+
+======- Chac/Tlaloc : dieu de la pluie et du tonnerre (Shaytan)======
+
+======Xólotl : frère jumeau de Quetzalcoatl, guerrier protecteur de celui-ci dans le monde souterrain======
+
+======Atlaua : dieu des eaux======
+
+======Coatlicue : grand mère la terre, déesse des Naja, epouse de Mixcóatl, mère de Quetzalcoatl et Xólotl======
+
+======Mixcoatl/Camaxtli : dieu des pilotes de chasseurs======
+
+======Metztli : déesse de la nuit======
+
+======Zipacna : dieu des Sphinges, créateur des montagnes (vivantes)======
+
+======Itzamna : dieu de la sagesse======
+
+======Ek Chuah : dieu des marchands======
+
+======Xipe totec : dieu de la nature, de l'agriculture et des orfèvres======
+
+======Ix Chel : déesse maléfique des orages et des inondations, déesse tisserande======
+
+======espace composé de 13 strates (en haut : oiseau Muan)======
+
+======monde souterrain composé de 9 strates (dieu de la mort et seigneur de Metnal, le 9e niveau : Hun Hau, squelette orné de cloches aux dents protubérantes)======
+
+======Xibalba/Mictlan : royaume des morts======
+
+======Yaxche (= paradis) : grand arbre aux racines infinies======
+
+======Ometeotl (dieu duel, père des hommes, associé aux âmes et au paradis / au feu)======
+
+======Chantico (déesse associée à Hun Hau, guerrière Kappa revenue d’entre les morts, compagne de Huitzilopochtli avant qu'il devienne Utukku)======
+
+======Centzon Huitznaua (400 frères de Huitzilopochtli ; dieu du feu habitant un volcan temple de son culte -> respectés, protecteurs de la chaleur du monde)======
+
+======nomme Toile nagual======
+
+======double pyramide Templo Mayor contenant secrets de Quetzalcoatl======
+
+======Réincarnations des guerriers après un voyage jusqu’au soleil======
+
+======lorsque guerriers gagnent une certaine renommée, prêtres les embaument et les placent dans Socles honorifiques -> peuvent être ramenés à la vie temporairement avec du sang de Yowie======
+
+======Considèrent humains comme une sous-race descendant de leur espèce======
+
+============
+
+======	Keloun======
+
+======recouvert de cadavres humains qui nourrissent Thanocytes======
+
+======Dévoreuse immunisé à leurs armes lasers et hydrostatiques======
+
+======descrip. Prisons Kappas (cylindres de lumières pour empêcher emploi Teotl======
+
+============
+
+======	Ophites======
+
+======servent Kappas dans archipels Nobles mais certains ont fui et sont souvent devenus des assassins dans la Bordure======
+
+======Holographe (générateurs neuronaux d'hologrammes) : nécessitent un gaz particulier (provient d’animaux aériens amenés par les Kappas – type rongeur - et restituant sous certaines conditions le "fantôme" d’êtres avec lesquels il est rentré en symbiose : morsure ?) qu'ils maintiennent en une forme précise et dont ils modifient la coloration======
+
+======spécialité : répliquer visage======
+
+======-2 en Dextérité bras avec Holographe======
+
+======Quantité d’Hologaz pour hologramme : même échelle que Ishbar (50 stères au max)======
+
+======3 stères répandues par passe d’arme au max + problème si vent (mais pas si sous manteau) + en déplacement, une stère par mètre parcouru======
+
+======+ un soleil d’Ombre pour une minute======
+
+======- > un dé d’action si illusion usuelle, 9-Réussite d’un jet d’Illusioniste sinon (pas possible d'apprendre l'illusion d'invisibilité (explik) mais possible autre visage ou mur de brique typique de Guito)======
+
+============
+
+======	Atoll======
+
+======Ophites vénérant les Kappas se rassemblent sur une plage de Jisa proche de Guito (dirigés par Iacobos) → prêtres se voient confier Holographe + culte prône retour aux origines démoniaques des hommes======
+
+============
+
+======	Cité d'argent======
+
+======Pègre parfois employée par Kappas======
+
+======Possèdent un vaisseau invisible======
+
+============
+
+======	Scories======
+
+======Héritiers de Tezcatlipoca => comportement de Naja======
+
+======Paradoxalement, à partir d'un certain niveau d'Ombre (24), ne peuvent plus se déplacer dans l'eau : elles s'y dissolvent======
+
+======Peuvent prendre une aparence proche de l'homme======
+
+======-> contrôle des cellules -> les rend translucides sous longueur d’ondes de Khonsou -> traverse le corps (pas d’ombre et, si très intense, chair s'évapore pour laisser apparaître squelette) / tirent leur énergie de la lumière -> ne peuvent rester plus de (100 – leur Ombre) secondes en l'absence de toute lumière (étoiles suffisent) sans quoi elles corrompent un point d'Âme======
+
+======La Scorie contrôle ses pouvoirs de transformation en cendres et de création de serpent grâce à son Âme. ======
+
+======Il suffit à une Scorie d'un contact physique d'au moins deux secondes avec un porteur d'Âme (vivant ou un cadavre frai) pour la lui aspirer. Il lui est plus difficile de s'arrêter : jet sous Volonté + nombre de toises d'Âme déjà aspirées.======
+
+======Maximum d’Âme d’une Scorie : 10 + bonus de pouvoirs. A 5 toises et plus, la Scorie ignore le dernier malus de Corruption. A 10 toises et plus, elle en ignore deux, etc.======
+
+======zéro en Âme -> ont (100 – leur Ombre) secondes pour récupérer de l’Âme sans quoi elles gagnent un point d'Ombre======
+
+======Lames en argent détruisent autant de toises de Fil que de dégâts infligés.======
+
+======Se sentent mieux dans zones très habitées (Toile dense -> chaleur)======
+
+======Âme très aiguë et non reliée à la Toile======
+
+======insensible aux fortes chaleur======
+
+======Lorsque son Ombre atteint l’un des seuils suivants, une Scorie obtient la capacité et la corruption correspondantes. Ces particularités ne lui sont pas "révélées", la Scorie devra découvrir par elle-même ses dons et handicaps.======
+
+======pouvoirs évalués de 1 à 8 : jets sous cette valeur → si réussi, contrôle du résultat ; si de plus dé = valeur → ++ ; si échec mais inférieur à Volonté → résultat non contrôlé (permet de découvrir capacités ; octroyer bonus dans une situation critique)======
+
+======Pouvoirs utilisables dans l’obscurité, pas plein soleil (paradoxe du "ce qui me tue me donne mes pouvoirs")======
+|  **Seuil**  |  **Pouvoirs**  |  **Corruption**  |
+|  0  |  Les plaies de la Scorie se referment très rapidement : la gravité d'une blessure physique diminue naturellement d'un cran en en// (100 - son Ombre) //secondes, entraînant la corruption de// (sa gravité) //toises d'Âme. En cas de blessure mortelle, l'Avatar doit survivre durant la première moitié de la période de guérison avant que cette capacité ne garantisse son rétablissement.  |    |
+|  12  |  La Scorie, en se concentrant intensément sur les sifflements qu'elle entend continuellement, peut empêcher durant //(nombre de toises d'Âme corrompues volontairement)// x3 minutes tout son de circuler dans une zone circulaire peu éclairée de //(son Ombre /10) //mètres de rayon ayant pour centre la position de l'Avatar.\\  +peut faire sortir sa voix de n'importe où  |  L'Avatar se met à entendre continuellement des sifflements. Elle **perd 1 en Perception**.  |
+|  24  |  La Scorie peut volontairement changer l'un de ses membre en cendres volatiles durant //(nombre de toises d'Âme corrompues volontairement)// minutes. Cette partie du corps de la Scorie possède toujours une ombre dense dont l'Avatar peut choisir la forme. Pour tête, malus de -5. Tant qu'il est impossible à la Scorie de ré-assembler entièrement son membre, l'Avatar doit dépenser des points d'Âme ou se faire transpercer par l'objet gênant.  |  Des taches noires apparaissent et se développent peu à peu sur les paumes, les pieds, les bras, le ventre et enfin le visage de l'Avatar. Celui-ci **perd 1 en Constitution**.  |
+|  36  |  Les membres de la Scorie peuvent dégager un froid intense durant //(nombre de toises d'Âme corrompues volontairement) //minutes.  |  Les mains de l'Avatar s'engourdissent, **elle perd 1 en Dextérité**.  |
+|  48  |  La Scorie peut faire éclore de leur corps un serpent de 40cm de long et le diriger à moins de //(son Ombre /10) //mètres durant //(nombre de toises d'Âme corrompues volontairement)// minutes. L'Avatar peut repérer la chaleur à travers ses yeux…  |  Les sifflements qu'entendait l'Avatar deviennent une mélopée grinçante. **Elle perd 1 en Perception**.  |
+|  60  |  La Scorie peut fondre son corps en poussière et le mouvoir durant //(nombre de toises// //d'Âme corrompues volontairement)// minutes. Ce pouvoir rend la Scorie quasiment invulnérable, elle ne peut désormais être tuée par une blessure Mortelle. Impossible de contrôler nuée sous vent violent ou dans eau.  |  Les taches noires sur la peau de l'Avatar se muent en trous. Celui-ci **perd 1 en Constitution**.  |
+|  72  |  Tous les membres de la Scorie sont aussi saillants que des lames acérées. Sous forme de nuée, les cendres de l'Avatar sont tout aussi tranchantes ainsi que ses serpents.  |  L'Avatar ne peut plus effectuer de travail de haute précision, **elle perd 1 en Dextérité**.  |
+|  86  |  La Scorie peut former à partir de son corps autant de serpents qu'elle  souhaite. Elle peut également les assembler tels les maillons d'une chaîne et les rigidifier pour en faire une épée, un bâton ou un fouet. L'Ombre de la Scorie diminue d'un cran à chaque fois qu'elle réintègre en elle un serpent.  |  Au-delà de 10x(Constitution + 9), vaporisation en cendres, transmission aux Najas à proximité  |
+
+
+======Autre conséquence néfaste, les sifflements qui hantent la Scorie pourront l’empêcher de dormir si elle rate un jet de Volonté avec ses malus de Perception.======
+
+============
+
+======		Tezcatlipoca======
+
+======But : dieu des ténèbres miroitantes======
+
+======Naja devenu Utukku, il devint la première Scorie en employant ses dons pour le Passage======
+
+======Réside dans région nommée Erebe : profondeurs abyssales sans atmosphère ni eau où Kappas élèvent Yowies======
+
+======Autres noms : Nebedj======
+
+============
+
+======	La Toile======
+
+======Entre l’Âme contenue dans le corps humain et la Toile, le point de liaison au niveau des doigts constitue en réalité un Glyphe d’Essence extrêmement complexe. Impossible à reproduire – sauf pour Utukkus, chercher à le comprendre peut provoquer à sa dissolution et donc la perte définitive de son Âme. Ce Glyphe est comme un nœud coulant permettant le déroulement de l’Âme dans un unique sens.======
+
+======Seul le fait de posséder une Âme permet de percevoir la Toile. Un Prince ne peut ainsi s’Eveiller.======
+
+======Oter toute son Âme à quelqu’un ne le transformera pas en monstre, cela le rend seulement sourd à la Toile. Par contre, un Ishbar prélevant l’Âme d’une Scorie et la stockant au contact de la sienne verra celle-ci lentement muter -> nécessitée "d’amputer"======
+
+======4 matières intéragissent particulièrement avec le Fil:======
+
+======Un échantillon d’au moins 100 grammes d’argent, métal rare et précieux s’il en est, entraîne l’embrasement du Fil par contact. Les extrémités d’un Fil ainsi coupé ont tôt fait de se refondre dans la Toile si nul ne s’en préoccupe. Un objet en argent perce ainsi un objet constitué à partir de Fil comme du beurre======
+
+======Le sel, les os et la chitine Kappa bloquent la Toile. Ceci explique pourquoi les Kappas sont protégé sous l’eau, et pourquoi les Utukkus on dessalé mers======
+
+======    Certains Ishbars usent de supports en os pour conserver d'avantage de compositions sur eux. D'autres, par tradition, utilisent des baguettes d’os pour tisser.======
+
+======d’après Kappas, Fil = atomes soudés sans électrons, flux d'énergie nécessitant lui-même une petite quantité d'énergie pour se maintenir (capté par la lumière du soleil ou le corps d'un être humain) et dont les extrémités se désagrègent naturellement======
+
+======-> le replier sur lui-même le force à créer de nouvelles liaisons avec d'autres atomes, utilisant les électrons présents autour de lui pour prendre temporairement la forme d’une matière solide fonction du noeud======
+
+======effet d’amplification des quantités de Fil transformé dû à une grande densité de la Toile (population humaine porteuse d’Âme importante) : multiplicateur de /2 à x2 (x10 sur terrain de bataille) par rapport à l’Atoll======
+
+======Avec de l’entraînement, les propriétés spécifiques de conduction sonore de la Toile permettent d’étendre la perception auditive de l’Ishbar et de communiquer sur de très longues distances avec d’autres Eveillés MAIS bruit produit par la pluie = parasite.======
+
+======Possible de détruire un objet en se calquant sur sa fréquence à l'aide de la Toile.======
+
+============
+
+======	Glyphes======
+
+======Nature :======
+
+======- eau======
+
+======- fer======
+
+======- plomb (malléable, lourd)======
+
+======- cuivre (malléable, transporte très bien température et électricité)======
+
+======- platine (très solide, transporte très bien électricité et la transforme en force d’aimantation)======
+
+======- or======
+
+======- méthane======
+
+======- graphite======
+
+======- calcaire (un livre de la Bibliothèque indique comme animer des origamis de cette matière)======
+
+======- granite======
+
+======- argile======
+
+======- verre======
+
+======- bois======
+
+======- soie======
+
+======- huile,======
+
+============
+
+======Etat :======
+
+======- adopter une autre apparence (de nombreux nœuds permettent de moduler des propriétés de cet aspect comme la couleur, la brillance, les motifs… la Réussite détermine la qualité du rendu). La composition conserve toutefois les propriétés de la Nature originelle (souplesse, solidité…).======
+
+============
+
+======- changer la structure de la composition. Ne fonctionne que pour des Natures solides.======
+
+============
+
+======- attacher sur la Toile : la composition conserve alors sa Nature définitivement mais l'Ishbar perd alors tout contrôle sur elle (plus de changement d'Etat). Le nœud peut céder si la distance est trop grande. Possible d’attacher sur sa propre Âme mais attention aux tensions…======
+
+============
+
+======- produire de l’électricité (ne fonctionne que sur une Nature conductrice). Dégâts de 1 au contact.======
+
+============
+
+======- aspirer la chaleur : sensation de froid intense. Dégâts de 1 si contact prolongé.======
+
+============
+
+======- dégager de la chaleur : sensation de brûlure. Dégâts de 1 au contact.======
+
+============
+
+======- contracter : en un instant et jusqu'à la moitié du volume original, celui-ci pouvant être rétabli à n'importe quel moment.======
+
+============
+
+======- déplacer sur la Toile : le Glyphe constituent une espèce de ressort qui se propulsera en ligne droite sur un Fil de la Toile. Il est possible de tisser au dernier moment un parcours un peu plus complexe faisant prendre au Glyphe quelques intersections observées in situ → jet======
+
+======Très facilement létal (faire apparaître qqch dans le corps de quelqu’un peut être très dangereux).======
+
+============
+
+======	Compositions======
+
+======Sur le même principe que les bottes, les Avatars peuvent préparer des compositions sans les détailler, et décider seulement en situation d'urgence de quels glyphes elles étaient constituées. Pour chaque composition "anonyme" ainsi préparée, le nombre de glyphes tressés doit être indiqué sur la feuille d'Avatar, une fois le jet de tissage réussi.======
+
+======Exemples:======
+
+======traction avec flèche d'os======
+
+======canon au gaz======
+
+======souffle du Wagyl======
+
+======mur de fer======
+
+============
+
+======	Marionnettes======
+
+======Nom donné à tout pantin de Fil qui acquiert peu à peu une personnalité à force d’être dirigée par un Ishbar======
+
+======-> il existe une méthode générale pour les créer mais pas moyen de prévoir leur personnalité======
+
+======Capacité cognitive : approximativement les plus intelligents (= âgés) sont quelque part entre le chien et le dauphin======
+
+======Soldats des Utukkus : de calcaire et de métal - de verre dans l'ancien Temple. Presque invisibles grâce à un jeu de miroir interne camouflant leurs structure de métal (chacun de leurs membres ne peut supporter qu’une légère et une sérieuse). Nuées de papillons de calcaire. Autre exemple: élémentaires d'eau======
+
+============
+
+======	Utukkus======
+
+======créatures (hommes & Kappas) ayant été capturées par Osiris. Celui-ci a conservé en son sein leurs cerveaux (se nourrit de leur identité pour les comprendre) et a renvoyé leurs corps sur le Noun, véritables marionnettes de Fil. Les Utukkus ont ainsi acquis l'immortalité mais perdent toutes leurs facultés une fois isolés de la Toile (rare puisqu'ils habitent les zones où elle est la plus dense). Leurs corps entrelacés de Fil ont la particularité de posséder un Glyphe d'Essence, nœud inimitable, œuvre d'Osiris lui même mettant en résonance les cerveaux des Utukkus en orbite avec ces pantins. Les ennemis des Utukkus ont compris que la destruction du Glyphe d'Essence, entraînait alors des conséquences terribles (mort de l'Utukku -> souffrance d'Osiris -> Fil s'embrase ?). Aussi les corps des Utkuus sont enfermés dans des prisons d'argent (ce qui peut attirer des convoitises…).======
+
+======Utukkus se déplacent dans de gigantesques nuages chargés d'électricité afin de brouiller capteurs pouvant les localiser======
+
+======Ont eut des fils -> pharaons (don d’Osiris)======
+
+======ont été vaincus======
+
+======Uttukus ne peuvent plus se rassembler sans attirer les Kappas======
+
+======Très sensibles au son======
+
+======obéissent aux ordres en sumérien (sauf ***)======
+
+======Derniers Utukkus connus se sont réfugiés à la racine mobile de Fil qui relie Osiris au Noun======
+
+============
+
+======Cathédrales : citée volantes des Utukkus → sentiment lovecraftien de peur (+ archi vaisseau alien 1)======
+
+======Escalier transformant sable de la mer en verre pur su rendre======
+
+======-> possèdent l'Oeil de l'eau : longue tige de verre sous l'île dont la pointe monte de la surface du Noun jusqu'à son sommet et perçoit tout ce qui s'y reflète par transmission d'un courant électrique dirigé======
+
+============
+
+======usines d’ossements======
+
+============
+
+======très bon Ishbars (raison de leur "culture d'Âme" chez hommes).======
+
+======L’Âme des Utukkus se caractérise, pour ceux qui peuvent l’entendre, par une sonorité ***.======
+
+============
+
+======Décrire rituels en leur honneur : ***======
+
+============
+
+======Traits (total = décennies d’âge) : Science, Puissance, Rapidité, Ishbar, Connaissance Histoire, Voix (autorité, social…)======
+
+======7 pentagones décalés selon deux orientations différentes (opposées) et inscrits dans cercles dont chaque sommet correspond à un niveau de Trait======
+
+======Caractérisés également par leur vie antérieure et leur culte======
+
+============
+
+======Peuvent sentir mutuellement leur présence distants de plusieurs kilomètres (combien ?)======
+
+============
+
+======Anat, Nephtys, Nout, Ptah, Seth, Tezcatlipoca, Huitzilopochtli, Tlaloc, Wollunqua======
+
+============
+
+======http://www.sden.org/jdr/whitewolf/momie/noms.htm======
+
+======http://fr.wikipedia.org/wiki/Noms_et_pr%C3%A9noms_%C3%A9gyptiens_dans_l'Antiquit%C3%A9======
+
+============
+
+======	Alchimistes======
+
+======(lil diku en sumérien)======
+
+======Légende (croyance également des Kappas de rang inférieur)======
+
+======Guerre du langage : se sont battus pour accéder au sumérien → ne pouvaient pas à l'origine contrôler Jinns et Squelettes mais les ont finalement convaincu de les rejoindre (au début sourds puis réussirent à maîtriser le sumérien)======
+
+======ces sans-Âmes ont conclu un pacte avec les Kappas et travaillent comme Assassins à leur solde, leur haine envers les Utukkus les rapprochant======
+
+======leur marque est symbole de traîtrise (l’arborent encore mais en secret)======
+
+======bouchers modifiants leurs corps, usant de drogues d'armures filiaires======
+
+============
+
+======Vérité :======
+
+======n'ont JAMAIS existé, confondus avec Squelettes======
+
+======soldats de Seth jouent leur rôle statues de sables magnétique, créatures polyformes de sable maintenu par magnétisme (craignent l’eau ; inspi Pop 2) -> créées par Seth======
+
+======→ Seth & Khépri en négociation======
+
+======+ porteurs de greffe-Phagos======
+
+============
+
+======	Gisants======
+
+======rois des hommes mais serviteurs des Utukkus======
+
+======portent de tatouages de cuivre formant des Cercles -> rappel sur Gisante, "aspiration" d’une zone, envoi d’un objet…======
+
+======Il existait des codex listant des Cercles d'invocation – et les noms de Jinns associés – ainsi que des lieux et instruments de Gisante======
+
+============
+
+======	Gisante======
+
+======en apesanteur======
+
+======soins : par blessure → décalage d'un cran sans changer de type (/, X ou †) → gain en soleils d’Ombre égal à deux fois la gravité originellle======
+
+============
+
+======	Cercles======
+
+============
+
+======Cercles : trajets orbite-sol rapide grâce à accélération des particules======
+
+======Usage impossible si Cercle incliné (sauf si usage de miroirs)======
+
+======Ne coupe pas l'Âme car se contente de déplacer personnes très vite======
+
+======Gisante balaie sol du Noun pour repérer Cerces, en orbite de======
+
+======- Bordure : (6+1d4) h à (20+1d4) h.======
+
+======- Atoll : (9+1d4) h à (23+1d4) h======
+
+======Possibilités offertes selon niveau de maîtrise :======
+
+======1 - déplacer d’un Cercle à un autre  ;======
+
+======2 - vitesse du transfert (–> projection dans le futur => aucun des Cercles de départ/arrivée ne doit être modifié avant arrivée du contenu sans quoi il est définitivement perdu) ; recopier un Cercle======
+
+======3 - réglage altitude du transfert (transporter zone en-dessous, au-dessus -> délacer contenu Cercle verticalement, déplacer Cercle avec si très bon) ; Cercles de tailles différentes (agrandir zone de transfert) ; créer un Cercle======
+
+======4 - fusion matières inertes (attention au mélange orgas) ; notions de communication======
+
+======Si au moins deux Cercles existant et "complétion" d’un supplémentaire : comportement par défaut -> pas transfert. Possible d’indiquer ordre de priorité du transfert entre Cercles.======
+
+======Existe un artefact (dans citées obscures) avec pointeur laser permettant de créer un cercle sur la zone ciblée======
+
+======1 pc = une adresse sur Gisante/Thôt OU 2 sur le Noun======
+
+======Atoll : /Neina (sous étang) /Temple /ancien Temple /Demeure des Nobles (non mécanique, tracé par Markos sur le toit) + Ellipse en est un mais il manque son cœur======
+
+======Dans l'Ancien Temple, de nombreux livres détaillent le tracé de Cercles aux effets variés. L'un d'eax, particulièrement étrange, semble découpé en lambeaux. C'est en réalité un entrelac de bandelettes de papier, récouvertes de figures géométriques  à l'encre métalique, pliables et combinables en une infinité d'adresses.======
+
+======Quelques Cercles "utilitaires" :======
+
+======- fait tomber une pluie d'épées======
+
+======- provoque une attraction magnétique vers le ciel, suffisante pour désarmer n'importe qui ou faire léviter une grande plaque de métal======
+
+======- fait descendre un filin suspendu à quelques kilomètres de hauteur======
+
+======- fait pleuvoir / arrose======
+
+======- fait disparaître l'air → provoque une aspiration======
+
+======- fait apparaître des squelettes (le contenu de vieille cellules de prison)======
+
+============
+
+======	Mots de pouvoirs (sumérien)======
+
+======Jinns & Squelettes : tester connaissances en sumérien si ordres incongrus pour leur permettre de les interprêter à leur convenance. Ils ne peuvent donner d'ordres à un membre de leur race. Pour Squelettes, il existe un ordre pour qu'ils révèlent leur nom secret à voie haute & jets de Volonté pour résister aux ordres======
+
+======- impersonnels (nécessitent pas nom secret) : malus de -2======
+
+======- directs (avec nom secret) : malus de -4======
+
+============
+
+======Amulettes des Kamis permettent de commander aux îles dorées sur les divers archipels -> demandes doivent débuter par appel à Hou======
+
+======Sur l’Atoll : amulette confiée au Hiératikos (permet de communiquer avec Anat)======
+
+======-> communication à distance======
+
+======-> rayon lumineux concentré par télescope======
+
+======-> déclencher temps de tempête / écarter nuages======
+
+======-> cri strident/ grondement provenant du ciel======
+
+======-> émettre une puissance onde sonique vers le sol (de quoi détruire un mur)======
+
+======-> créer un champ de répulsion magnétique (objets métalliques flottent)======
+
+======Sur une autre île : île dorée forme Cercle et par jeu de miroirs peut diriger "l’échange" vers la position du porteur de l’amulette => déplacer individus / faire disparaître obstacle / apparaître Jinn / envoyer en chambre de soin (tjrs fonctionnelle ?) / projeter dans le futur…======
+
+============
+
+======	Jinns======
+
+======grand singe invocable grâce à Gisante depuis Khonsou avec Cercles tracés dans ou avec (poudre) du cuivre======
+
+======colliers d'or très solides et très sensibles au son : nom secret sumérien (tatoué sur torse & émis par micro sur simple ordre vocal) qui, si prononcé, entraîne leur mort + attaché au collier, une ankh d'or est capable de produire une décharge électrique dans le corps de son porteur empêchant le moindre de ses mouvements (celui-ci ne s'aperçoit même pas qu'un laps de temps s'est écoulé) + collier peut injecter des substances au Jinn sur ordres d'un humain en sumérien → gain de focus (ex: odorat ++)======
+
+======pas d’Âme======
+
+======identifiés par n° → se sont baptisés eux-mêm)e======
+
+======haïssent et craignent Gisants par dessus tout======
+
+======comme Squelettes : longévité de 0 à 200 ans (chaque soleil d’Ombre représente une année en moins environ ) & :======
+
+======- si moins de 40 ans : 20 + âge points de connaissance ; 24 points de Trait======
+
+======- si plus : 50 + âge /4 points de connaissance ; 26 – âge /20 points de Trait ======
+
+============
+
+======	Squelettes======
+
+======Exemple de mémoire d'un Squelette======
+
+======soldats stériles, clonés et "desséchés", (mangent deux fois moins et deux fois moins sensibles aux maladies/drogues/alcools). Peau très sensible au soleil car conçus dans l’obscurité -> devient rouge au soleil, doigts faméliques voir squelettiques qui les fait paraître longs (ce qui leur a valut leur surnom), muscles noueux, imberbes au réveil -> poils/cheveux en teintes de gris (du noir au blanc)======
+
+======Baignent dans cuves de liquide rongeant la kératine (agresse Rork → Dents + sel) les rendant imberbes======
+
+======portent tous un poignard solidement fixé par une cordelette d'acier d'un demi mètre à leur poignet======
+
+======3 points à répartir dans des voies martiales dès leur réveil (autres caractéristiques doivent respecter conditions)======
+
+======Sang universel, compatibles pour toute greffe======
+
+======pas d’Âme======
+
+======identifiés par n° → se sont baptisés eux-même======
+
+======inconscient programmé pour obéir à des ordres en sumérien (lus ou entendus) : autres voies peuvent être remémorrées ainsi (gain d'un point dOmbre par voie)======
+
+======+ nom secret sumérien (tatoué sur torse)======
+
+======comme Jinns : longévité de 0 à 200 ans (chaque soleil d’Ombre représente une année en moins environ ) & :======
+
+======- si moins de 40 ans : 20 + âge points de connaissance ; 24 points de Trait======
+
+======- si plus : 50 + âge /4 points de connaissance ; 26 – âge /20 points de Trait ======
+
+============
+
+======[revel] en vérité, corps d’humaines lobotomisés -> ont un Phagos dans le cerveau======
+
+======score d'Ombre dès le réveil car disfonctionnement de Neina======
+
+======facultés de communication des Phagos + Don du Tueur chez tous → formation d'une personnalité agressive dans leur inconscient collectif : Zagreus → peut s'incarner======
+
+======Mal Bleu : lorsqu’un Squelette prend du sang de Yowie (première expérimentations sur Atoll) -> perte soleils MAIS entraîne allergie à l'eau (au contact, peau se met à se colorer en bleu puis cheveux suintent du sang et, si contact prolongé, autres pores commencent à suinter), qu’une simple brume humide déclenche. Un échange de sang avec un Squelette suffit à y devenir sensible======
+
+============
+
+======	Princes======
+
+======pas d'âme======
+
+======descendants des 6 "fils" de Amon - chef des Squelettes, ayant échoué sur l'Atoll lors de la bataille des réservistes (Neina). Après de nombreuses aventures légendaires en dehors de l'Atoll, Path lui accorda une descendance avec Bastet, sa fille. Le hasard veut que sur l'Atoll, il n'y ait plus d'autres îliens à la peau brune.======
+
+======Amon avait le Don des Cercles -> l’a transmis à sa descendance + a permis ses expérimentations======
+
+======pas sensibles aux ordres sumériens -> interface Echo (-> langage en Cercles) contrôle et accélère acquisition des pouvoirs : 1 heure de méditation nécessaires pour une projection interne de 1 minute (tps de jeu)======
+
+======Emeraude noire permet Echo -> ? énergie ? limite Ombre ++======
+
+======se concentrer sur un métronome, se plonger dans de l'eau salée ou se tenir en équilibre (à l'envers au-dessus d'une grande hauteur, sur un pied et sur un fil…) aide à la transe======
+
+======Epreuves successives (façons click‘n play, aucune n'est nécessaire) durant transe avec monde intérieur (chute dans pilier Djed puis lente remontée depuis les pilotis aux galeries dans le bois avant le sommet) et créatures : certaines donnent énigmes, d'autres sont à combattre (avec 1 point faible)======
+
+======{ Etape 1 :  obtenir un bâton de verre en hauteur dans la salle pour ouvrir porte======
+
+======{ Etape 2 : poutre de bois doit être déplacée pour accéder à un escalier de verre à l’extérieur de la tour======
+
+======Monter à son sommet est très long (=> pouvoir d’accélération) et nécessite la bâton de verre du début pour franchir une "absence" temporaire de marches======
+
+======Remarque : dans l’ombre de l’escalier, dans l’eau, un autre descend dans les profondeurs -> aboutit à un socles pour bâtons}======
+
+======Nuage brouille Echo======
+
+======Le courant circule en eux jusqu’à de très importantes tensions sans les gêner le moins du monde======
+
+======-> genèse de courant électrique circulant par nerfs (aimantation solide permettant de marcher verticalement sur du métal, déplacement d'objets métalliques à distance, EMP, champ négatif pour repousser balles, ailes tranche-toile ( - sa dorsale émet exactement la bonne fréquence d'ondes électriques pour détruire la Toile, perception autres Princes avec Echo - sous quelles apparences ? – sur d'immenses piliers Djed flottant dans l’Ether, utilisation de tout système informatique à distance …)======
+
+============
+
+======manche Dents, fournies par Nobles, constitué de corne de Rork et fragments d'Emeraude plantés à l'intérieur en contact avec le métal. Idem Abras======
+
+======Léopards noirs (extrémistes) -> chef Axomander======
+
+======Bastet dans flammes lors Râ-manda -> Princes tracent dans le sable à forte teneur en métal le dessin d'un Cercle invoquant un enregistrement vidéo de Bastet porteur de révélations (image = chat car ***)======
+
+============
+
+======une dose de sang de Yowie : -1d4 soleils d'Ombre (une injection par jour sinon effets secondaires : ***)======
+
+============
+
+======	Loups======
+
+======Sortent d’œuf de soie dans un source d'eau chaude souterraine======
+
+======Noyés à qui Apopis permet de revenir pour un temps======
+
+======? meurent si une Scorie aspire toute leur Âme======
+
+======il n’est pas rare, au son de la voix d’un Loup, à sa démarche, au regard ou à un simple mouvement que l’image d’un loup s’impose à l’esprit de l’observateur======
+
+======sonorité grave de l’Âme======
+
+======os cerclés de bois + Âme anormale -> ne peuvent tisser======
+
+======Percevant  naturellement la Toile, ils possèdent également la capacité à l’utiliser pour changer la densité de l’air (permet d’assourdir, d’émettre des ultrasons, de léviter, de lacérer même à distance, de créer un mur d'air, des paliers flottants ou une targe d'air condensé) et sont les seuls créatures du Noun à pouvoir transformer leurs propres membres en Toile (dont Entrave néanmoins limitation de temps durant lequel ils restent complètement incorporels, ils peuvent alors se mouvoir sur la Toile sans contrainte de gravité sous forme lupine). Connaissent instinctivement la vraie nature du Fil qui "enregistre" tel l'ADN le plan d’organisation de l'humain qui le porte et peut le régénérer. Ils peuvent ainsi se soigner et, avec de l’entraînement, soigner autrui======
+
+======corps surpuissants (apnée énorme…) lorsque se soignent (Saiyen syndrome ?)======
+
+======Liés à Apopis -> permet de déclencher des séismes, d'ouvrir des failles======
+
+======pouvoirs évalués de 1 à 8 : jets sous cette valeur → si réussi, contrôle du résultat ; si de plus dé = valeur → ++ ; si échec mais inférieur à Volonté → résultat non contrôlé (permet de découvrir capacités ; octroyer bonus dans une situation critique)======
+
+======pas de limite des pouvoirs======
+
+======si n'ont pas d’Ombre (ne peuvent posséder de Don, artefacts fonctionnent pas sur eux...), attirent cependant Âmes des morts qui les entravent alors : gain d'Entrave (bois-coquillage): racines, en plaques d’écorce, en griffes de bois… A terme Const augmente mais Dextérité diminue.======
+
+======*** quelle échelle pour l'Entrave ? quelle conversion en toises ? quelle distance ?======
+
+======entre les racines des vieux arbres ou dans le Noun (+ froid), se sentent en paix et peuvent "ré-agencer" leur Entrave======
+
+======là où un Loup est enterré (dont Sanctuaire) :  "cimetière" de Vibrisses plantées dans le sol : plumes perdues par le dragon, croix de schiste bleu. Rougeoient à proximité d'un Utukku et sont capables de trancher le Fil… Loups peuvent les faire voler quand sont dans Toile======
+
+======les seuls canidés du Noun sont des chiens======
+
+======Atoll : trou béant sous l'écaille du dragon (grand rocher dans le Sanctuaire où les Âmes ne se rendent pas en réalité) = grand schiste noir======
+
+============
+
+======	L'Atoll======
+
+======La vérité, les Nobles font disparaître ceux qui la connaissent======
+
+============
+
+======Aube à la (4+1d4)eme heure.======
+
+======Crépuscule à la (18+1d4)eme heure.======
+
+============
+
+======Sanctuaire ne contient pas de montagne mais un immense nuage blanc (bizarre pour îliens, Nuage est bleu-gris !) créé par source chaude======
+
+======dirigeable constitué d'un Grand Rork vivant======
+
+======Relique = appareil technologique en réalité : génère en grande quantité chaleur, tension électrique, protéines, hormones, molécules et autres facteurs essentiels à la guérison d'un mal, quel qu'il soit, par l'organisme humain (-> gain de soleils d’Ombre)======
+
+======Artefact : chapeau de paille conique avec inscriptions de cuivre permettant de faire apparaître ou disparaître ce qu'il contient======
+
+============
+
+======En autarcie car contient au moins trois forces redoutables (Anat, Isis et Loups) -> pas contacts avec autres îles préférable======
+
+======parfois vaisseau Kappa furtif patrouille au-dessus de l'Atoll======
+
+============
+
+======	Neina======
+
+======Neina est en réalité une nacelle provenant du Thôt (conçu pour colonisation, mousse partout entre les parois métalliques pour amortir devenue béton) -> entrée interdite aux Kappas (sas frigide)======
+
+======Son cœur abrite une source d’énergie immense mais très instable, fusion à froid perdurant depuis des siècles dans une sphère d'anti-gravité. Les Kappas, s’ils ne savent la contrôler, en usent pour alimenter leur base et le bouclier.======
+
+======Isis (+Scories) vit à côté de cette source de lumière sans pouvoir s'en éloigner -> jetée ici dans temps anciens par le trou au-dessus de Neina bouché et devenu un étang======
+
+======salle de chirurgie pour greffes biomécaniques======
+
+======stocks de drogues pour ignorer la douleur======
+
+======Squelettes et équipement (tonfas...)======
+
+============
+
+======	L’Ancien Temple======
+
+======Vaisseau Jisa retourné======
+
+======A perdu un réacteur latéral dans le Noun et sa "tête" dans la montagne======
+
+======Bulles biosphères======
+
+======Salle des Cercles======
+
+======Ascenseur aérien permet accès aux îles dorées======
+
+======Immense salle remplie sur plusieurs niveaux de caissons pour colons======
+
+======Drones inséminateurs (créatrices d’univers)======
+
+======Salle d’exploration sous-marine======
+
+======Message radio passe en boucle======
+
+======Immenses fresques représentant des salamandres faisant exploser une planète ainsi qu'un grand dragon.======
+
+======tombeau d’Amon contient prothèse filiaire de bras -> si cadavre d’Amon vaincu, peut être réutilisée======
+
+======Scories + voilier possédant une voile capable à la fois de propulser l’embarcation et de recharger la batterie du moteur électrique======
+
+======Traits Amon : +1/pa (max 4)======
+
+======Une des famille fondatrice de l’Ordre des Cercles possède du sang de Gisant -> activation Ancien Temple (l’un des Nobles le sait et possède un flacon contenant du sang arraché à un membre de cette famille)======
+
+============
+
+======	Les îles dorées======
+
+======l'Atoll est enfermé par un immense écran magnétique presque invisible, embrasant tout ce qui le traverse et conçu par les Princes. Le centre de contrôle se situe dans le Nuage, au sein de la multitude d'îles d'or qui flottent et dansent au-dessus du centre de l'Atoll selon une chorégraphie très précise et complexe, créant des ponts pivotant et des portes donnant sur le vide… Le tout maintenu par un complexe entrelacs de filins, d'hélices et de cerfs-volants de verre capteurs solaires, gonflés par la vapeur provenant des capteurs solaires.======
+
+======mécanismes "à rouages" : roue en os entourant quelques toises de Fil tressées entraîne autres rouages======
+
+======Marionnettes======
+
+======système optique permettant de transmettre une vue de toute l'Atoll à la verrière des Nobles======
+
+======Eau chutant sur l’Ancien Temple provient d’une fuite dans les îles dorées alimentées par un énorme câble depuis le Lac======
+
+============
+
+======	Panthéon======
+
+======indiquer histoire et situation actuelle (où vivent-ils ?)======
+
+======-> http://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne======
+
+======Enlil vaincu par Marduk -> Babel ? Voie d'Enlil ?======
+
+======http://fr.wikipedia.org/wiki/D%C3%A9mon_%28esprit%29======
+
+============
+
+======	Amon-Râ======
+
+======Nature : Râ est le nom d'un soleil et Amon celui d'un Squelette de légende éveillé sur l'Atoll. Aqen ***?======
+
+======Autres noms : Khnoum, Aton======
+
+======Nature de la magie : les prêtres d’Amon-Râ usent de lentilles pour allumer des feux, font voler de petits planeurs, prédisent le temps et, privilégiés, disposent de beaucoup d’artefacts : …======
+
+============
+
+======	Anat======
+
+======Nature : Utukku enfermé dans les îles dorées ======
+
+======But : se venger des Princes======
+
+======Nature de la magie : pas de culte.======
+
+======7 Pères chargés d’attribuer signe astrologique emmènent bébé dans salle « des étoiles », lui présentent des objets (un avec Fil tissé pour Serket, etc.) et invoquent Anat : en fonction des réactions de l’enfant décident du signe.======
+
+============
+
+======	Anubis======
+
+======Nature : Loup solitaire et un peu fou ayant servi les Nassènes → remords ++ d'avoir enchaîné autres Loups. S’est noyé deux fois. Possède 6coups en bois======
+
+======But : à sa recherche justement.======
+
+======Nature de la magie : les prêtres d’Anubis sont des Naassènes spécialisés dans l’embaumement et les cérémonies funéraires. Ils font parfois visiter le Sanctuaire aux téméraires souhaitant s’entretenir avec les morts après leur avoir fait inhaler des vapeurs de buisson-soupir : l’expérience est souvent traumatisante.======
+
+============
+
+======	Apis======
+
+======Nature : croyance infondée======
+
+======Nature de la magie : ses fidèles savent préparer des potions aphrodisiaques et connaissent les meilleurs engrais.======
+
+============
+
+======	Apopis======
+
+======Nature : dragon, créature céleste d'ambre et de jade, organisme à l'échelle d'une planète…======
+
+======Nature de la magie : nul culte ne lui est consacré officiellement mais les Naassènes le vénèrent.======
+
+============
+
+======	Bastet======
+
+======Nature : mère des Princes & fille de Ptah, première a porter une Emeraude au front======
+
+======Nature de la magie : pas de culte. On appelle souvent les prostituées "filles des Bastet". Les Princes pensent détenir leurs pouvoirs d’elle.======
+
+============
+
+======	Bes======
+
+======Nature : légende======
+
+======Nature de la magie : ses prêtresses officient comme sages-femmes aux accouchements.======
+
+============
+
+======	Geb======
+
+======Nature : représentation d’un Golem======
+
+======Nature de la magie : acteur de nombreuses légendes du livre des Kamis, son culte reste mineure : il est le garant de la solidité d’un édifice. L’image populaire du vieux colosse bourru mais bienveillant reste toutefois très forte.======
+
+============
+
+======	Horus======
+
+======Nature : nom d’un terrible  Gisant qui se rebella contre les Utukkus, enferma Seth mais qu’Anat a vainquit======
+
+======Nature de la magie : les Nobles constituent son culte.======
+
+============
+
+======	Isis======
+
+======Nature : ancien Gisant momifié, contrôle un Mecnoïde drappé d'une peau de chat et réveillé par Crâne après son réveil======
+
+======Ambitions : manipuler les Princes en se faisant passer pour Bastet (? menace de les retenir en transe s’ils n'obéissent pas...)======
+
+======Nature de la magie : les prêtres d’Isis sont les plus savants en matières d’artefacts : …======
+
+============
+
+======	Khépri======
+
+======Nature : Kappa dirigeant de la Coalition, l'Atoll est un de ses fiefs======
+
+======Nature de la magie : ses prêtres sont des Ophites.======
+
+============
+
+======	Khonsou======
+
+======Nature : planète sur laquelle s'est écrasé Thôt.======
+
+======Nature de la magie : traditionnellement ce culte mineur se charge des Scories de l’Atoll.======
+
+============
+
+======	Maât======
+
+======Nature : historiquement, une Gisante qui a sus faire régner la justice sur l’Atoll======
+
+======Nature de la magie : ses prêtres rendent les jugements.======
+
+============
+
+======	Nephtys======
+
+======Nature : Utukku enfermée dans une mine avec Golems & vaisseau Yowie======
+
+======A crée araignées-marionnettes (en os, se déplacent sur Toile).======
+
+============
+
+======A créé les des corbeaux doués de parole munis d'un bec et de serres d'argent, leurs ailes sont composées de plumes autonomes aux poils de platine noir souple ayant la capacité, par magnétisme, de se rigidifier et d'être projetées. Possédant des pointes d'argent, ces plumes peuvent être récupérées par le corbeau par aimantation. Peuvent également absorber l’électricité jusqu'à un certain seuil ***. Peuvent nager. Si le corbeau de Nephtys meurt, peut fusionner avec un humain.======
+
+======Second corps : Golems. Conçus comme des armures d'Utukku et prévus pour survivre dans le vide sidéral, ils reposent pour la plupart dans les fonds marins. Armes et armures d'argent. Leur peau semble "normale" mais est en réalité constituée de sable et d'os. Chaque Golem possède une unique clef d'os qui, placée en son cœur, lui permet d'être possédé par son Utukku tutélaire: ce mécanisme était prévu pour empêcher un autre Utukku de voler le Golem d'un autre.======
+
+======Scission : certains "trahissent" et coulent leurs Golems dans le Noun ; d'autres, en contact avec Naassènes, souhaitent réveiller Nephtys → l'un d'eux au Temple Naassène  projette un hologramme d'homme (Esculape)======
+
+======Nature de la magie : pas de culte. Beaucoup de marins portent une amulette à son effigie dans l’hypothèse d’une mort par noyade.======
+
+============
+
+======	Noun======
+
+======Nature : la lune-océan de Khonsou.======
+
+======Nature de la magie : les prêtres du Noun ont pour tâche de calmer les tempêtes et de procéder au bon déroulement des cérémonies d’offre et de récupération des offrandes du Noun.======
+
+============
+
+======	Nout======
+
+======Nature : l'espace======
+
+======Nature de la magie : ses prêtres prétendent lire le monde dans les étoiles.======
+
+============
+
+======	Osiris======
+
+======Nature : nom du satellite veillant sur Noun et diffusant suffisamment de lumière pour sembler, aux yeux des Îliens, être un second soleil.======
+
+======Nature de la magie : pas de culte.======
+
+======Certains hommes le voient tel qu'il est lorsqu'ils fixent le soleil pourpre (influence leurs rêves ?)======
+
+======Vénéré par la secte Aton.======
+
+============
+
+======	Ptah======
+
+======Nature : Utukku, le Tisseur père de Bastet a qui il orna le front d'une Emeraude de Rork======
+
+======But : ***======
+
+======Nature de la magie : les doigts de fée des artisans. Pas de culte.======
+
+============
+
+======	Serket======
+
+======Nature : nom d’une Naassène célèbre de l’Atoll======
+
+======Nature de la magie : ses fidèles sont des Naassènes.======
+
+============
+
+======	Seth======
+
+======Nature : Utukku faisant perdurer le mythe des Alchimistes.======
+
+======But : *** ?======
+
+======Nature de la magie : pas de culte.======
+
+============
+
+======	Sobek======
+
+======Nature :  Huitzilopochtli======
+
+======But : *** ?======
+
+======Nature de la magie : pas de culte.======
+
+============
+
+======	Thôt======
+
+======Nature : nom du vaisseau qui s’est écrasé sur Khonsou.======
+
+======Nature de la magie : interdite, il s’agit en réalité de technologie. Pas de culte.======
+
+============
+
+======	Nobles======
+
+======emploient toujours Jinns (notamment médecins)======
+
+======Liaisons avec Kappas -> symbiote greffé sur leur colonne vertébrale (nommé Phagos) -> sang bleu et immunité au Mal Bleu. Chez Nobles, Phagos en léthargie grâce à du sang de Yowie, une substance qui leur est distribué au goutte à goutte par les Kappas ; sinon, déploie ses nerfs dans le corps de l’hôte et le contrôle -> Thanophages. Lorsque ceux des Kappas sont lâchés armés, un filin les relie leur permettant de coordonner leur attaque. Prêtres-juges en sont mais symbiote adulte======
+
+======Portent sous leurs riches habits un plastron générant un bouclier statique.======
+
+======Lorsqu'il est jugé adulte, un Noble reçoit des Kappas une ankh d'argent (avant quoi il possède la même que tout autre îlien, en or) capable de déclencher le mécanisme des ankh d'or de tous les îliens de l'Atoll (provenant à l'origine de Jinns → permet également arrêt temporaire fonctions vitales)======
+
+======leurs geôles sont proches de leur point de liaison avec les Kappas======
+
+======Eugenios communique de son phare avec Guito grâce à un ingénieux système : un tube de verre creux parfaitement aligné avec un cône situé à plusieurs kilomètres de là et faisant résonner ce dernier par ondes infrasonores -> connaît Loas======
+
+======Repèrent les porteurs du don du tueur (signe de Khonsou) et soit les éliminent soit en font des derviches dévoués corps et âme au Temple.======
+
+======Au sein du Hiératikos, la salle de réunion du Conseil reste interdite d'accès aux non-Nobles. Un grand globe représentant une sphère bleue peut apparaître sur la table centrale. Une simple pression de la main d’un Noble permet de faire coulisser un panneau secret et de laisser apparaître une cabine d'ascenseur. Celui-ci descend sur 50 mètres avant de conduire à une vaste grotte. Face à une immense porte d'or, les visiteurs devront cette fois passer un scanner rétinien. Derrière grottes Kappas======
+
+======Dirigeable permit aux Nobles par Kappas car très lent et susceptible d’exploser aisément======
+
+============
+
+======Phlogisticiens======
+
+======remettent Emeraude noire des Princes aux Kappas et extraient Emeraude de Grand Rork en toute discrétion======
+
+======réparent dirigeable, conçoivent Dents, Abras, manipulent artefacts======
+
+============
+
+======	Les bas-fonds======
+
+======Accords Crâne <-> Nobles :  Alexendros fournit du sang de Yowie au Crâne en échange de la paix et de menus services + Alexandros a aprivoisé une Scorie grâce aux écrits d'Isis======
+
+======Lieutenant : Fara,Tias (Oudjat), Debios (Prince)======
+
+======Oudjat, l'oeil d'Horus : artefact augmentant perceptions de son porteur (quelconque) mais ne pouvant être apposé que par un descendant de Gisant (4 points d’Ombre). Dans la mythologie, il avait été endommagé par Seth et guéri et complété par Thot. ***propriétés======
+
+============
+
+======	Les fils de Thôt======
+
+======Ce groupe de résistants a découvert que les Nobles entretiennent des relations avec les Kappas. Leur quartier général se situe au niveau souterrain supérieur de Neina auquel ils accèdent par une fissure sous-marine du tombeau. Possèdent objets technologiques : soins, objet baptisé Assassinateur …======
+
+======Eugenios -> ses découvertes en astronomie ***======
+
+======Membres :======
+
+======- Vito (s’intéresse au secret des ankhs, récemment implanté d’un Phagos) -> Meletios======
+
+======- Arkos (tireur d’élite, ex-lieutenant du Crâne)======
+
+======- Apostolos======
+
+======- Dokisios (horloger)======
+
+======- Sophia (traître)======
+
+======- Pavlos (sympathisant)======
+
+======- Ermos (mort)======
+
+======- Denwall (prince gladiateur, mort)======
+
+======- Agapi (Scorie, mort)======
+
+======cf. FP Apostolos======
+
+============
+
+======	Volatiles======
+
+======grandes falaises à l'est entre les archipels Nobles et la Bordure======
+
+======humains, Squelettes, Jinns, et même qlqs Kappas (→ contacts à Eaux-Claires & Observatoire) vivant dans le réseau souterrain du Sidh======
+
+======Buts :======
+
+======# luttent contre oppression Kappa======
+
+======# veulent quitter planète======
+
+======hoovercraft/plate-forme======
+
+======possèdent ailes de Maât associées à des illusions Ophites répliquant des ailes démoniaques======
+
+======Kiros (père Kazen)======
+
+======Coatlicue (possède Âme qui lui a été offerte par Ptah)======
+
+======# Guerrier hydrostatique bardé de Fil ayant obtenu la personnalité d’une Marionnette : Silhouette======
+
+============
+
+======	Mangeurs de ciel======
+
+======dans Jungle, Mictlan & montagnes de la Bordure (exploitations de gaz)======
+
+======quelques Squelettes et Jinns Naassènes auxquels Ptah a offert une Âme======
+
+======Buts :======
+
+======# révèrent Wollunqua (a peur de devenir une Dame Blanche et de devenir stupide)======
+
+======# vivent en autarcie avec leur culture propre======
+
+======# rancœur envers Naasènes : souhaitent libérer Loups et détruire les Thanocytes + retrouver Anubis======
+
+======nomades du désert + pilotes de barques solaires & vaisseaux-Marionnettes en ossements de Rork (Behemoth vaisseau spatial avec bois coquillage en +) + dresseurs de Dames Blanches======
+
+======très discrets, portent masques en bois-coquillage ou en métal======
+
+======culture du silence======
+
+======Ishbars archers (usent de flèche à amplification vibratoire : accélèrent lorsque tirées avec un vent en sens opposé) dans leurs rang qui se suspendent aux vaisseaux par des fils de soie pour éviter les effets du bouclier magnétique.======
+
+======Meneur Yaxche, un Loup - arbre (dans Jungle), ancien membre d'une confrérie ancienne légendaire qui servait Ptah dont plusieurs membres ont créé des clans : se sont partagés le collier de perles de Bastet qui succomba tragiquement avant leur séparation → dont Coatlicue, Amon, Ulrich, ...======
+
+======NOUN & NOUT======
+
+======	Le Noun======
+
+======L'Atoll n'est pas le seul archipel sur le Noun. Cette planète, recouverte en majeure partie d'eau, n'en est pas une. Ce n'est en réalité que le satellite de Khonsou, astre sans atmosphère (24 Roulis pour en faire le tour), gravitant elle-même autour du soleil Râ. Seule la moitié de la planète est dotée d’une atmosphère.======
+
+======installations aux pôles installées par colons pour réguler le climat -> peuvent être trafiquées pour inverser polarité de la planète. Non utilisées, ces bases symétriques ont provoqué le lent réchauffement d’une face du Noun (vapeurs brûlantes insupportables + failles) et peuvent déclencher le réveil d’Apopis======
+
+======Epaulé par Osiris, les mouvements célestes de ces deux corps lumineux conservent néanmoins une parité jour / nuit chaotique sur Noun. Volonté d'Osiris?======
+
+============
+
+======Au Nord : Mictlan : terre peuplée de hordes de Thanocytes======
+
+============
+
+======A l’est : fausse maritime avec profondeurs sans atmosphère ni eau pour élevage de Yowies (Erebe), créatures osseuses recouvertes de longs cheveux======
+
+============
+
+======Rork : cycle de vie en deux étapes======
+
+======→ une sorte de gigantesque mille-pattes marin très intelligent avec une Emeraude dans la tête (roche translucide génératrice de magnétisme) → se fige sur une source de gaz sous-marin, une extrémité hors de l'eau, et laisse s'extraire de son enveloppe (qui conserve l'Emeraude)...======
+
+======→ une dame blanche, méduse gonflée de gaz flottant au vent comme un gigantesque drap et à l'intelligence d'une vache → se regonfle régulièrement aux sources de gaz derrière la Bordure et pond le long de l'océan======
+
+============
+
+======+table de rencontres maritimes (pirates…)======
+
+============
+
+======	Les archipels nobles======
+
+======anciennement sous influence Utukkus, désormais dirigés par les Kappas======
+
+======Conseil des Nobles======
+
+============
+
+======île avec prison d'argent contenant Nout======
+
+======île où Jinns employés couramment======
+
+======autre île avec Temple employant esclaves (hiérodules)======
+
+======deux îles opposés dans une guerre antédiluvienne======
+
+======clientela : soutien juridique et pécunier à un citoyen plus pauvre. tradition nécessaire pour faire partie d’une certaine élite======
+
+============
+
+======Temple grec à colonnades isolé sur l’eau======
+
+======→ en dessous très profondément, Utukku enfermé : dans île proche, autochtones (les Ekimmus) portent Glyphe d'Essence particulier se transmettant de génération en génération qui permettrai à cet Utukku, si jamais complété, de prendre possession d'un de leurs corps +  imposer des visions → eux sont habitués à résister à un son influence diffuse mais pas étrangers...======
+
+============
+
+======temple protégé par Cercles toujours actifs → mur infranchissable======
+
+============
+
+======batraciens géants utilisés par un clan pour se déplacer sur le Noun ; chair toxique n'attire pas les prédateurs marins======
+
+============
+
+======île avec tours de pierre et bcp Scories vénérant Osiris (secte Aton, pharaons usent du don d’Osiris) +1-2 autres cultes======
+
+======- 6 buildings en ruine, en cercle, émergeants de l’eau======
+
+======- une petite population au pied de l’un d’entre eux écope et colmate pour s’enfoncer sous le niveau de la mer======
+
+======- Des pilotis ont été installés à leurs pieds ainsi que des passerelles aériennes======
+
+======- Une autre petite population ne souhaite pas quitter ses jardins suspendus : a la phobie du sol. Botanistes ont une grande influence======
+
+======- Tout le monde peut tenter de d’introduire dans *** et tenter de *** afin de "devenir le plus heureux des hommes" ( ?) ou mourir======
+
+============
+
+======une unique île avec Squelettes : chant sacré est émis à intervalles (ir ?)réguliers et rend fou Squelettes (ordre en sumérien de tuer). Ceux-ci accomplissent un rituel pour maîtriser cette pulsion (impossible d'y résister s'y on s'en approche cependant)======
+
+============
+
+======éoliennes======
+
+============
+
+======pluie tellement acide que ronge quasiment tout ("l'eau qui brûle")======
+
+============
+
+======gigantesque mur rouillé======
+
+======coque de cuirassée échouée ( ?) servant de refuge======
+
+============
+
+======traces de combats titanesques (falaises découpées, épée d'un Golem…)======
+
+============
+
+======Princes descendants du 7e fils d'Amon (pas black) : Aménophis (titre) Orta ; une Prince porteuse de Masque et de gant statique (Anoukis) ; axes magnétiques entre îles dorées des différents archipels permettent guidage de vaisseaux (insipi maître des sortilèges) dont tapis volants + réseau au sein de l'Atoll (Phare relais) + pierres sensibles aux magnétisme lévitent dans une région du Noun (plates mais aussi étroites et flottant verticalement) : Princes les ont relié pour faire des ponts de corde ; parfois résonnent d’un message (automatique ?) diffusé sur ce réseau électrocinétique (chant des pierres)======
+
+============
+
+======fidèles de ? organisent le transport féroviaire : le train et leur temple, lieu de prière et d'obole======
+
+============
+
+======	Le Nout======
+
+======végétation se développe sur Khonsou (qui y-a-t’il en son cœur ?)======
+
+======ceinture d'astéroïdes sur sa trajectoire gravitationnelle======
+
+======vortexs à proximité du Noun/Khonsou======
+
+======Thôt : entre autres, zone agricole & observatoire & Nef : lieu de commerce======
+
+======Annexes======
+
+======***diagramme des relations inter-factions======
+
+======***index======
+
+============
+|  **Trait à 5**  |  **Capacités**  |
+|  //Assurance//  |    |
+|  //Agilité//  |  Bonds de 5 mètres  |
+|  //Constitution//  |    |
+|  //Dextérité//  |    |
+|  //Force//  |    |
+|  //Perception//  |  Vision détaillé à un kilomètre, détails microscopiques de l'ordre du centième de millimètre, reconnaissance d'un individu à son odeur  |
+|  //Vivacité//  |  Peu attraper une flèche en plein vol  |
+
+
+============
+
+======	Résonance======
+
+======Affecte seulement possesseurs d’Âme. Si jet d’Assurance réussit (ne pas oublier bonus si objet brandis, bon RP ou réputation), Réussite = bonus à tous les partisans et malus à tous les opposants (diminue de 1 par tour). Il est possible (mais chut) d’utiliser deux points de Volonté pour faire la meilleure Réussite possible.======
+
+======-> magie des prêtres + invulnérabilité des leaders (se croire invulnérable c’est l’être réellement)======
+
+======A la création, le Conteur doit octroyer entre 2 et 4 points de Volonté à chaque Avatar en considérant que plus il est jeune, ambitieux, combatif et pauvre, plus ce nombre doit être grand.======
+
+======Pas de points de Volonté pour PNJ mais encourager à "tricher" avec PNJ majeurs======
+
+======+ système Anecdotes======
+
+============
+
+======	Talents singuliers======
+
+======- Mécanicien : des poulies aux moteurs à combustion======
+
+======- Electronicien : Emeraude amplifie propriétés de tout appareil quand utilisé à bon escient -> bottes d’Horus permettent de voler !======
+
+======- Magnétiseur : le platine est souvent utilisé pour sa propriété, sous forme d'une fine feuille souple, de se rigidifier en rétrécissant si on lui applique un fort courant électrique : le métal aborde alors une solidité remarquable======
+
+======- Biogénéticien : nature de l’Ombre : corruption du corps due à l’utilisation d’appareils entraînant une restructuration cellulaire, souillure lente de l’ADN et maintient cellulaire s’amenuisant : au delà de Const+9 -> hommes meurent d'une tumeur au cerveau======
+
+======- Illusionniste (Ophite)======
+
+======- Bureaucrate (Kappa) : hiérarchie, étiquette en société, lois, utilisation des Orgues======
+
+======- Ethnologue (Kappa) : connaissances sur les sociétés humaines, leurs us et coutumes, leurs croyances======
+
+======- Interfacé (Kappa) : commande des guerriers holostatiques======
+
+======- Hydrostaticien (Kappa)======
+
+============
+
+======	Vaisseaux======
+
+======On distingue 8 zones sur tout vaisseau, indicées telle que en 1 se situe la partie la moins sensible et en 7 la plus fragile (moteurs / stabilisateurs...). La zone 8 représente le cockpit / l'équipage. Pour chaque vaisseau ces zones sont placées sensiblement différement.======
+
+======En dehors de cette géometrie, différentes quantités caractérisent un vaisseau :======
+
+======- vitesse : évaluée sur trois niveaux. A 1 correspond correpond un cheval au galop ou un hovercraft. A 2 correpond un moteur à explosion à pleine vitesse. A 3 on approche la barrière du mur du son. Durant une passe d'arme un vaisseau peut s'éloigner de vitesse unités de distance d'un autre (cumul : lorsque >5 → hors de vue + écart ↔ malus).======
+
+======- maniabilité : bonus de +0 à +3 applicable pour toute esquive ou manoeuvre (pilote se donne un malus → sui tente de le suivre a le même).======
+
+======- solidité : nombre de dégâts pouvant être encaissés, dépend de sa résustance aux chocs, de qualité de sa construction (géometrie, armature...). Répartie entre les 7 premières zones de manière décroissante. Un total de 20 est plutôt faible tandis que 100 est très élevé.======
+
+======- blindage : 1 → tôle ; 2 → léger ; 3→ robuste ; 4 → lourd.======
+
+======- propulsion : carburant utiliséé, consommation, taille du reservoir.======
+
+======- armes : mitrailleuses ; missiles guidés (vitesse) ; leurres (chance de fonctionner /8).======
+
+======- équipement : radar (augmente distance de repérage vaisseaux) ; retrofreins (évite malus pour manoeuvre) ; accélération ; bouclier magnétique (~ blindage lourd ; attention à ce qu'il ne soit pas arraché du vaisseau par un choc trop violent !) ; blindage localement renforcé ; aide à la visée ; soute ; treuils...======
+
+======Une confrontation se déroule avec les règles standard et donc la possibilité de constituer une derobade néanmoins toutes les jets se font avec la Dextérité comme Trait..======
+
+======Plateau peut éventuellemnt symboliser de manière abstraite la distance au vaisseau de tête.======
+
+============
+
+======	Écoles martiales======
+
+======Bonus de +1 à +3 à la Réussite. Il faut que les deux caractéristiques entre parenthèses soient strictement supérieures au bonus. Confèrent également un dimension spectaculaire aux actions de l'Avatar.======
+
+======Voie de l’acrobate (agilité / danseur Râ-manda ou bagarreur) : démonstration de voltige et attaques en résultant.======
+
+======Voie de l’assassin (furtif coquin ou voleur / as du couteau ou bagarreur ou tirailleur) : actions de dissimulation ou de neutralisation par surprise.======
+
+======Voie du duelliste (vivacité / as du couteau ou épéiste ou escrimeur ou tirailleur) : attaques de la première passe d’arme.======
+
+======Voie de l’éclaireur (furtif coquin / chasseur ou guide ou voleur) : reconnaissance discrète en solitaire ou en tête de groupe, esquives suite à une attaque par surprise.======
+
+======Voie de la gâchette facile (dextérité  / tirailleur) : tirs de barrages et tirs au jugé lorsque couvert.======
+
+======Voie du protecteur (vivacité / agilité ou bagarreur) : actions visant à couvrir quelqu’un ou à s’interposer devant lui. En théorie, lors d’une "escorte au corps", il est possible de parer avant la cible une attaque de mêlée la visant avec un malus de –3. Le bonus d’école s’applique également pour amoindrir ce handicap.======
+
+======Voie du scorpion (dextérité / as du couteau ou épéiste ou escrimeur) :  seconde attaque de la passe d’arme avec une main différente sur un même ennemi.======
+
+======Voie du soldat : actions réalisées en groupe et sous les ordres directs d’un coordinateur.======
+
+======Voie du solitaire (vivacité / bagarreur) : attaques lors d’une passe d’arme où plusieurs ennemis sont ciblés et actions visant à retourner l’attaque d’un adversaire sur un autre ennemi.======
+
+======Voie du tireur d’élite (dextérité / tirailleur) : tirs hors situations de combat déclarées.======
+
+============
+
+======	Étranges artefacts======
+
+======Il existe de nombreux mécanismes étranges à la surface du Noun qui peuvent dérouter même le plus expert des ingénieurs de la cité d'argent. Lorsqu'un Avatar souhaite comprendre le fonctionnement d'un de ces artefacts, et ce même après un jet de Talent raté, le système suivant peut être employé. Il importe peu que le joueur devine de quel objet il s'agit, il faut que son personnage assimile le fonctionnement de l'objet.======
+
+======Ce système permet également de comprendre (et d'apprendre) un Glyphe ; l'Avatar doit alors disposer de Fil pour tenter de la copier.======
+
+======Cette étude est simulée par des lancers de d8 : le joueur doit réussir un carré ou une suite avec quatre dés. La première tentative permet un unique lancer. La seconde permet un lancer puis de relancer une fois un nombre quelconque de dés. La troisième tentative permet deux relances, etc. En fonction de la complexité du support, le Conteur estime le délai entre deux tentatives :======
+
+======- facile : 5-Talent minutes ;======
+
+======- coriace : 5-Talent heures ;======
+
+======- très difficile : 5-Talent jours.======
+
+============
+
+======	Dons======
+
+======(génétique)======
+
+======Lors d'un jet concernant le domaine du Don, pour un soleil d'Ombre l'Avatar gagne 2 focus  : lors du jet, on lance (nbr de focus) dés supplémentaires et on ajoute à la meilleure Réussite +1 pour chaque autre jet réussit. 8 soleils octroient un point d'Ombre à l'Avatar.======
+
+======De plus, pour un soleil d'Ombre, possibilité de "booster" délai entre deux "relances" lors de l'étude d'un objet lié au don :======
+
+======- facile : 5-Talent passes d’armes ;======
+
+======- coriace : 5-Talent minutes ;======
+
+======- très difficile : 5-Talent heures.======
+
+======12 heures d'enseignement avec professeur ou support (livre, artefact pour le don des sciences, nouveau vaisseau pour le don du pèlerin, nouveau Glyphe…) nécessaires pour passer rang 1, 24 pour passer du 1 au 2, 36 pour passer du 2 au 3 et 48 pour passer du 3 au 4.======
+
+======Don du tueur======
+
+======- si suit son instinct, au corps à corps toute tentative d'attaque ou de parade inflige, indépendement de tout Talent, 1d4 dégâts et fait perdre autant de soleils d'Ombre. Jet sous Volonté + Talent martial pour éviter ça.======
+
+======Don de mémoire======
+
+======- un soleil pour se souvenir de n'importe quel détail → en toute circonstance, bonus de tout livre lu======
+
+======- jet sous Ombre avec d8+2 : si en-dessous → Avatar perdu dans ses souvenirs pendant (son Ombre) minutes → impossible de ramener son esprit au temps présent======
+
+======Don de précognition======
+
+======- Avatar peut anticiper un événement : retour en arrière de deux passes d'arme par soleil d'Ombre - au max sa Const doublée. Pour un pilote, permet également d'emprunter des vortex sans être broyé.======
+
+======- après 11-consommés minutes il subit un contrecoup de 10xconsommésx(son Ombre) secondes le laissant totalement vulnérable et en prise à un mal de tête atroce où il ne cesse de voir le Noun se réveiller, sans comprendre ce qu'il voit======
+
+======***(au maximum, inspi de NEXT : dédoublement + esquive à la matrix)======
+
+======Don de balistique======
+
+======- capacité à prévoir toute chute, à calculer les ricochets, à visualiser la courbe d'un projectile… + un soleil pour éviter/se protéger d’une balle======
+
+======- fascinés par phénomènes composés de multiples trajectoires (étoiles filantes, feuilles mortes tombant, pluie…) ; jet sous Ombre avec 1d8+2 : si en-dessous → crise de panique – impression que tout ralenti autout de lui et se fige – qui ne peut être enrayée que par l'observation d'un tel phénomène (allumettes qui chutent...)======
+
+======Don d’Osiris (pharaons)======
+
+======- durée de composition : minutes → passes d'armes & jet sous Volonté + Ishbar pour transformer toute matière (créatures vivantes comprises) en Fil -> gain de  X (valeur au choix si réussite suffisante) soleils d'Ombre et Xd8 toises de Fil (X+1 sur porteurs d'Âme) : prend autant de temps que de composer un Glyphe======
+
+======- son corps absorbe le Fil : par tranche d'1h complète dans le noir il transforme une toise de Fil transporté en soleil d’Ombre ; jet sous Ombre avec 1d8+2 : si en-dessous → se met à transformer tout ce qu'il touche en Fil jusqu'à ce que jet sous Volonté + Ishbar réussit avec malus égal à son Ombre/2======
+
+======Don des sciences======
+
+======- curiosité maladive envers la technologie ; jet sous Ombre avec 1d8+2 : si en-dessous → perd un point de Talent non scientifique choisi par le Conteur======
+
+============
+
+======	Armes & artefacts======
+
+======Livres : utilisables pour remplacer (ou compléter après un échec) un jet de connaissance -> une chance sur 8======
+
+============
+
+======	Atoll======
+
+======Dent (0) :  arme traditionnelle des Princes, une décharge provoque la tétanie des membres de la cible durant sa prochaine passe d’arme.======
+
+======Coupe-coupe (1) : ce large canif s'ouvrant sur le côté, à la lame en deux parties coulissantes, est l'arme favorite des marins.======
+
+======Machette/dague (1) : portée /4.======
+
+======Sagaie (1) : arme favorite des pêcheurs. Portée /2 si lancée.======
+
+======Arc (1) : portée x3 pour les arcs courts, x5 pour les arcs longs. Seuls les Princes usent de ces derniers lors de leurs concours, ils nécessitent une Force minimum de 3. La qualité de la flèche peut augmenter la Réussite jusqu’à +2.======
+
+======Arc lourd (2) : en métal ou en bois très rigide, cette arme possède les même propriétés qu'un arc court normal mais nécessite une Force à 3. Des poulies peuvent réduire ce minimum.======
+
+======Arbalète (2) : portée /2.======
+
+======Epée/sabre (2) : l'épée bâtarde fait 3 dégâts, se tient à deux mains et nécessite une Force de 4.======
+
+======Rapière (2) : relativement solide (incassable à mains nues), la lame ne pourra néanmoins pas résister à une trop forte pression.======
+
+======Armure : seule la Noble garde en porte une couramment. Lourde et encombrante, elle restreint la Vivacité de son porteur à 2. En combat cependant, les attaques bien réussies ou réussies de justesse ricochent et ne font aucun dégât à son porteur. En plaques de métal et lanières de cuir, les jonctions entre ses morceaux sont protégées par des mailles d’acier.======
+
+======Cotte de mailles : alternative courante à l’armure. Les attaques réussies de justesse ricochent et ne font aucun dégât.======
+
+======Casque : les attaques réussies de justesse ricochent et ne font aucun dégât. Malus de -1 en Perception pour l’Avatar. ======
+
+======Bouclier : augmente de +3 la Réussite d'une parade avec le Talent épéiste.======
+
+======Targe : augmente de +2 la Réussite d'une parade avec le Talent épéiste.======
+
+======Mousquet /six-coups (2) : les armes à feu ou "percecoqs" les plus courantes sont les mousquets bien que, récemment, des six-coups aient été repêchés. Le seul armurier compétent dans ce domaine, depuis que son confrère a été envoyé aux mines, tient un magasin près du Hiératikos. Portée standard.======
+
+======Les mousquets à deux cannons sont rares mais permettent de tirer simultanément (un seul jet de tir est à effectuer, l’adversaire recevant en cas de réussite deux blessures identiques) ou successivement ses balles sans recharger.======
+
+======Abra (1 au contact/2 par carreau) : armes des sergents de la Noble Garde, ces gantelets métalliques aident également à parer (bonus d'une targe). Ils ne peuvent contenir simultanément que 3 carreaux. En contact prolongé, l’électricité qu’ils produisent inflige 1 dégât par passe d’arme. Portée /2.======
+
+======Vase canope (2) : ces jarres contiennent le Souffle de Serket, un gaz sous haute pression datant de la colonisation.======
+
+============
+
+======	Technologie Thôt======
+
+======Une arme capable de tirer en rafale ne nécessite pas de dé d’action supplémentaire pour tirer sur deux cibles proches : le tireur répartit à sa guise sa Réussite entre elles. Les cibles n’effectuent qu’une unique esquive par rafale.======
+
+======Tir de barrage : un tir en rafale est possible sur un personnage complètement couvert par un élément du décor : les réussites sont alors conservées. Si le personnage visé sort de sa couverture avant la prochaine passe d’arme du tireur, il recevra les tirs avec les réussites correspondantes.======
+
+======Bouclier statique : crée un champ magnétique capable d’arrêter tout objet conducteur (métaux sauf aluminium) véloce : balles, aiguilles, couteaux, carreaux et flèches aux pointes d’acier…======
+
+======Tonfa : cette arme creuse peut diffuser un décharge électrique (provoque la tétanie des membres de la cible durant sa prochaine passe d’arme) ou projeter une bille métallique par accélération magnétique (2 dégâts, portée /2). Une lame rétractile coulisse sur le flanc.======
+
+======Fusil magnétique (2) : nommés fusils dzêta en raison de la double cassure qu'on leur impose pour créer un afflux d'énergie, ils expulsent une courte onde magnétique brûlante et chuintante. Traverse bouclier statique. D’autre part, un tir dévie toute balle traversant l’arc magnétique (parade possible sous Dextérité + Fusil). Longs d'environ un mètre, en platine, ils prennent trois fois moins de place une fois pliés. Portée 5 mètres.======
+
+======Crachefeu (2) : munies de chargeurs de, respectivement, 30 et 60 balles, ces armes sont capables de tirer des rafales de 5 balles dont 1 + Réussite /2 (arrondi en dessous) atteindront leur cible. Ces armes expulsent leurs douilles. Portée standard.======
+
+======Percetronc (4) : bien que les douilles de cet imposant colt s’éjectent seules, les 8 balles qu’il peut contenir au maximum doivent être rangées une à une ; elles contiennent de la nitroglycérine et provoquent donc une explosion à l’impact. Portée standard.======
+
+======Lance-pieux (3) : en plus d’infliger de sérieux dégâts, la décharge électrique provoque la tétanie des membres de la cible durant sa prochaine passe d’arme. Prévu pour percer les blindages, cette arme n’inflige en traversant ces protections que 2 dégâts à leur porteur. Un tel fusil contient 6 pieux propulsés par accélération magnétique. Portée standard.======
+
+======Flashbang : lancée avec force, elle s’élève verticalement après être retombée au sol avant d’exploser, rendant sourd et aveugle durant 10 secondes toute personne à proximité.======
+
+======Grenade (4 dégâts dans une zone de 2 mètres de rayon autour du point d'impact, 3 jusqu'à 4 mètres, 2 jusqu'à 8 et 1 jusqu'à 12)======
+
+======Mine magnétique : d’apparence cylindrique, sa paroi latérale est constituée d’un champ de force. Une fois écrasée du talon au sol, seul un fin anneau doré peut attester de sa présence. Néanmoins, la moindre pression suffit à déclencher, suivant l’engin, une explosion, un souffle magnétique, un coussin d’air ne laissant aucune prise pour se déplacer une fois en lévitation ou un autre clouant au sol par aimantation. Ces deux derniers modèles se maintiennent moins de 5 minutes.======
+
+======Il suffit d’une simple torsion du cylindre chez le second et le dernier modèles pour que, à l’activation, la zone juste au-dessus de l’arme soit immunisée de ses effets.======
+
+======Anneau de soin : cylindre de métal de la largeur d’une cuisse permettent de régénérer les tissus (aiguilles plantées + drogues injectées). Diminue de un rang une blessure déjà au stade "croix" (rajoutez un bâton) + rang final de la blessure soleils d’Ombre.======
+
+======Talkie-walkies======
+
+======Pointeur laser (qualité d’arme de rang I) : Réussite augmentée +1.======
+
+======Ecran de visée (qualité d’arme de rang II) : se déploie sur le côté du fusil et permet d'avoir un affichage thermique, infrarouge, de détecter les mouvements, ou encore de zoomer. Bonus de +2 aux jets de tir.======
+
+======Armures filiaires : (bras armé d’Amon) utilisés par soldats de Seth, ces artefacts possèdent des tentacules métalliques se logeant sous le peau pour se relier aux nerfs de l’hôte. → gain Ombre======
+
+======Injection : effectif pendant Constitution minutes. Jet de Constitution avec malus égal au nombre d'injections précédentes → si réussi, perte d'un soleil d'Ombre ; sinon, blessure légère et perte de 4 soleils. Différentes versions (difficiles à distinguer) :======
+
+======- adrénaline : diminue temporairement toutes les blessures d'un cran (pratique pour réanimer un blessé)======
+
+======- +1 focus en Agilité/Force/Dextérité. ======
+
+======- augmentent la vitesse du métabolisme : Vivacité +1======
+
+======- améliore la vue, l'ouïe ou l'odorat spécifiquement.======
+
+============
+
+======	Technologie Gisants======
+
+======Larme : épée de verre incrustée de Glyphes très complexes permettant, sur manipulation du manche d'os, d'étendre la lame, de projeter une langue de feu, un souffle violent, de faire apparaître un pieu de métal... Arrachent l'Âme de leur victimes pour renouveler leur Fil.======
+
+======Harpons extensibles (2) : reliques appartenant au Temple, elles sont prêtées aux marins les plus croyants et les plus doués. Pouvant être utilisées comme des sagaies, ces armes possèdent un manche composé de solides anneaux de platine capable de s'allonger d'environ 10 mètres d'une simple torsion de poignet. Les marins expérimentés s'en servent de perches pour se déplacer en eau peu profonde entre les bateaux.======
+
+======Hache de lancer à géométrie variable (2) : principalement usées par les chasseurs de Jisa, leur utilisation requiert un certain doigté mais permet de tracer des courbes parfaitement contrôlées. Portée /2.======
+
+======Flèche métalique volante intelligente (2) : (à la Yondu dans Guardians of the Galaxy) dirigée à la voix et ne réagit qu'à celle de son maître. Ordres basiques du type: [tuer tout animal à moins de 5/10 mètres], [avancer], [tourner selon un des 3 axes spatiaux]...======
+
+======Bolas dépliable : semblable à un épais disque de cuivre, une multitude de filins s'extraient de cette arme une fois propulsée pour se planter dans la chair de la cible (les crochets provoquent 1 dégât aux jambes si le bola est retiré brutalement). Portée /2.======
+
+======Fusil à impulsions (0) : projète l'adversaire en provoquant un souffle et un fort. Aux munitions illimités, cette arme se recharge d'un simple mouvement du bras en provoquant une rotation complète et verticale du canon autour du manche, légèrement décentré. Portée 5 mètres/standard.======
+
+======Bouclier sonique : cet artefact, une fois activé, crée un bouclier invisible. En combat rapproché il peut cependant devenir une gêne mais, inactif, il confère toujours le bonus d'une targe.======
+
+======Certains modèles ont intégré un fusil à impulsion. Après une traction sur le déclencheur, le souffle est expulsé du centre de l'artefact. Détail important, un tel tir désactive automatiquement et pour un très court instant le bouclier sonique.======
+
+======Fusil subsonique (3) : ignore toute armure. Portée x10.======
+
+======Ceinture anti-chute : génère un coussin d’air d’intensité dégressive à l’approche du sol. Des grenades soniques y sont parfois attachés.======
+
+======Bottes d’Horus : générant un coussin d'air comme semelle, ces chausses métalliques permettent de glisser sur toute surface solide ou liquide.======
+
+======Scarabé d’or : ce petit artefact se fixe à la peau au niveau du torse et sert de communicateur / balise / réceptacle de données.======
+
+======Poulie autotractante : s'appose sur un ou plusieurs câbles et permet ou force leur déroulement dans le ou les sens souhaités.======
+
+======Chapeau à Cercles : un au-dessus, un au-dessous. Apparition / disparition du contenu.======
+
+============
+
+======	Kappas======
+
+======Bracelet Ophite : jet de Dextérité + Talent pour déterminer qualité hologramme, 1 soleil d'Ombre pour une illusion de taille humaine durant une minute. Instantané si illusion déjà réalisée récemment, (10-Vivacité) passes d'armes sinon.======
+
+======Talwar Kappa (2) : comme une épée.======
+
+======Fouet : leur sifflement permet d’affaiblir les Utukkus.======
+
+======Sceptre (4) : capable de produire un laser invisible (impossible à parer, inefficace contre une armure Nacre) long de 30 mètres et de haut indice thermique, sa forme de long bâton est due à la nécessité d'une chambre de concentration élongée dans le processus de concentration du faisceau. 30 secondes d’autonomie, 3 dégâts par coup de 2 secondes.======
+
+======Le sommet du bâton peut s’ouvrir et, disposé face aux soleils, recharger la batterie de l’arme : deux secondes d’autonomie pour une heure d’attente.======
+
+======Crématoire : destinée à combattre les humains, cette mitrailleuse rotative de poignet (Portée 50 mètres) peut projeter en grand nombre de minuscules aiguilles crématoires (3) inefficace sur un Kappa) ou paralysantes (la première paralyse un membre, la seconde paralyse tout le corps et la troisième fait tomber dans l'inconscience). Leurs chargeurs en contiennent 50 de chaque type et les tirent par rafales de 5 (Réussite totale des jets /2 – arrondi au-dessus - d'entre elles trouveront leur cible).======
+
+======Fusil hydrostatique (3) : cette arme de tir Kappa la plus commune permet de projeter de l’eau à très haute vélocité. Porté x2.======
+
+======Grenade hydrostatique : cette arme est prévue pour répandre de la glace sur une zone de 5 mètres de diamètre, immobilisant tout membre à moins de 50cm du sol. Cette "glace" particulière peut s’embraser sur un simple tir de fusil hydrostatique (peu utile sur un Kappa, très sur un humain).======
+
+======Nacre : l’armure d’un guerrier Shaytan est constituée d’un ensemble de coquillages blancs très résistants. Elle ne s’abîme qu’avec des dégâts supérieur à 1 : le cumul de chaque point de dommage au-delà de cette limite peut atteindre jusqu’à 10 avant que l’armure ne se désagrège. Viser une faille de l’armure octroie un malus de 3. L’armure peut se régénérer d’elle même d’un point par tranche de 6 heures laissée dans l’eau de mer.======
+
+======Les casques possèdent un sonar intégré.======
+
+======Armure d'Emeraude : portée comme plastron, cette armure en alliage noir ultra solide  peut se déplier pour recouvrir jusqu’aux extrémités des membres de son porteur et ne plus ainsi présenter aucun faille. Seuls des dégâts supérieur à 2 l’entaillent : le cumul de chaque point de dommage au-delà de cette limite peut atteindre jusqu’à 20 et l’armure continuer à être fonctionnelle. Seule l’Emeraude, essentielle à son fonctionnement, est visible au torse du guerrier (malus de -4 pour la toucher).======
+
+============
+
+======	Naassènes======
+
+======En os humains, la complexité du mécanisme pour composant les Glyphes peut les faire sembler à des casse-tête. Tant qu'ils contiennent du Fil, peuvent fonctionner in indéfiniment. Ont une pointe en argent rétractable déployée après "danse sacrée" pour récupérer Fil.======
+
+======Epée os-argent======
+
+======Epée de plume de Dragon : ne blesse jamais======
+
+======Torche======
+
+======Tige de métal infinie======
+
+======Ailes de Maât : générent un courant d'air chaud entre deux ailes de papier======
+
+======Grenade======
+
+======Bouclier de verre / vitrail : doublé d'une armature de métal, peut exploser en une multitude de morceaux propulsé en avant.======
+
+======Corde infinie======
+
+======Bracelet générateur de poignards======
+
+============
+
+======	Princes======
+
+======Ceintures de platine : peuvent être rigidifiées ou assouplies d’une simple décharge d’un Prince pour ainsi se métamorphoser en fouet tranchant ou en arc, une fois les deux extrémités de la ceinture reliées par le filin qu’elle contient.======
+
+======armures complètes d’écailles de métal qu’ils maintiennent par magnétisme.======
+
+======épée Ivy======
+
+======Souffleur : ce long tube de métal renferme un mélange d'huile et de poudre qui, au contact de la poigne brûlante des Princes, se transforme en jet de vapeur bouillante (jusqu’à 2 dégâts si jet au contact). Ils peuvent également s'en servir pour projeter des billes de métal (2 dégâts, portée /2) et des fléchettes paralysantes (attachés en bracelets).======
+
+======Gants statiques : ces entrelacs permettent de diriger jusqu’à une dizaine de mètres des galets de métal. Une fois activés ceux-ci produisent une telle force d’aimantation que toute substance en partie métallique s'y agglutine. D’une autonomie courte (dix minutes par kilogramme de matière transportée), l'énorme quantité d'énergie qu'ils dégagent leur permet de se mouvoir en chauffant l'air entre eux et le sol s'ils ne sont pas trop lourdement "chargés" ou, s'ils sont rassemblés en quantité importante, à mouvoir le "corps" qu'ils constituent (nuage de poussières métalliques, amas de clous…).======
+
+======Un gant permet également de les décharger complètement, infligeant un dégât par galet à toute créature à leur contact. Pour chaque galet un jet de Constitution doit alors également être effectué pour résister à la tétanie.======
+
+============
+
+======***tableau de plantes (nom + apparence + particularités) : pâte à mâcher avec caféine + cf. paragraphe Jisa======
+
+============
+
+======	Personnages======
+
+======Crâne======
+
+======Hait les chats (→ émissaire d'Isis).Possède un crachefeu soudé avec une épée.======
+
+============
+
+======Noble garde======
+
+======Agi. 3 Ass. 3 Con. 2 Dex. 2 For. 3 Per. 2 Viv. 3======
+
+============
+
+======Tarkos, gladiateur======
+
+======Tarkos, il est plus du genre à défoncer la porte qu’à tourner la poignée.======
+
+======Agi. 2 Ass. 3 Con. 4 Dex. 1 For. 4 Per. 1 Viv. 3======
+
+======Botte : charge hurlante +3 (épée bâtarde, un dé d’action de déplacement, jet d’Assurance des cibles qui doivent perdre leur sang-froid pour que Tarkos bénéficie du bonus, deux attaques)======
+
+============
+
+======Akba, gavroche======
+
+======Agi. 4 Ass. 2 Con. 2 Dex. 3 For. 1 Per. 2 Viv. 4======
+
+============
+
+======Gestion Talents PNJ communs : ======
+
+============
+
+======	La Légende======
+
+======REGLE D'OR d'un bon scénar : prévoir un déroulement linéaire dans l'optique où les joueurs n'interviennent pas MAIS encourager leur prise d'initiative======
+
+======narrée par Herodotos======
+
+======Intro : persos sont de la Noble Garde et assistent à une scène qui les " retourne " (Fauconnier se rebellant aux ordres injustes condamné à mort par Noble)======
+
+======Attaque de bandits sur les gouttières avec chars à voile======
+
+======Raphaïl envoie PJ sous Neina pour récupérer *** -> rencontre Fils de Thôt======
+
+======Un étranger arrive par les Cercles sur Jisa======
+
+======Récupération titres officiels plate-forme pétrolière (-> mines)======
+
+======Elimination chef bagnards révoltés======
+
+======Ondes magnétiques se répercutent très loin dans l’atmosphère : émissions de très très TRES loin reçues sur l’Atoll======
+
+======Feux dans quartier prince ; insurrection des mines (organisé par Iacobos puis reprise en main par Markos) ; émissaire félin d’Isis ; médaillon d’Anat sur le marché ; bras armé d’Amon-Râ ; arrivée de prêtre-juge sur l'Atoll; menace des Kappas (têtes empalées sur pieux) ; cendres balaient la ville (dues à un bateau/vaisseau ayant rencontré le bouclier) ;======
+
+======si Rork employé, Kappas le tuent avec harpon géant ; livre de Thôt dans valise (liste des noms de Jinns : dates composées de trois nombres : deux pour les coordonnées dans la voûte céleste de Khonsou et une pour la distance séparant les deux soleils. A l'aide de ces informations et de quelques calculs mathématiques on pouvait retrouver précisément la date - il était difficile de compter les jours avant que la planète ne soit en phase avec Osiris et Râ) ; Gisante s'écrase ; secret de la transformation Fil en argent ; Markos (possède le don d’Osiris et contrôle principalement le calcaire) tente de contrôler Scories d'Isis et devient une aberration ; lieutenant Volatile précog tue espion avant qu’il ne prononce le nom secret d’un Jinn hôte en ces lieux alors qu’il était présenté ;======
+
+============
+
+======Motivations de personnages :======
+
+======- quelqu'un a saigné à mort son père (cf. Noble / flacon / sang de Gisant)======
+
+============
+
+======Situation en fin de première campagne :======
+
+======- les Kappas préfèrent assister de loin au désastre, sans intervenir, surtout que les Princes sont désormais dispersés et que le contact avec les Nobles a été rompus. Un escouade lourde surveille les îles dorées où Anat est toujours enfermé. Peu d’îliens ont tentés de s’échapper – le dirigeable e toutefois dû être abattu - mais l’exhumation du tombeau d’Amon a adjoint l’Atoll au réseau magnétique, se qui pourrait se révéler problématique, surtout au niveau des communications. Amos et quelques Princes y sont réfugiés.======
+
+======- Naassènes reclus dans le Sanctuaire (autour de la Source), tentent de préparer les Loups nouvellement réveillés et envisagent de les envoyer dans un autre archipel======
+
+======- Guito isolé de Jisa sous le contrôle du Temple soutenu par les Jinns et des Nobles survivants. Relations tendues avec…======
+
+======- Neina : les Squelettes se sont reveillés======
+
+======- Jisa : des Thanocytes ont été libérés pour lutter contre les Scories. Les îliens survivants se sont réfugiés pour la plupart dans la montagne, pour le reste avec Loas dans l’ancien Temple.======
+
+======- les Princes se sont réfugiés sur la plate-forme pétrolière ils découvrent leurs capacités…======
+
+======- Isis-Markos a pris le large et a laissé une cicatrice en souvenir à Khépri.======
+
+======- le Crâne a été tué en essayant d’arrêter les Princes. Tulia de même.======
+
+============
+
+======Campagne suivante : le bout du monde======
+
+======projet Héritage -> machine capable de faire ressurgir le passé génétique / d'implanter le Don -> gain Ombre. Si Ombre > double Volonté de l’Avatar, celui-ci se met à obéir aux ordres en sumérien.======
+
+======Osiris tente d’attirer Apopis sur Râ (le réveiller ? éliminer la vermine ?)======
+
+============
+
+============
+
+======Inspirations tirées des mythologies aborigènes, orphiques, égyptiennes, grecques et mayas/aztèques + Tengus/Kamis======
+
+======Merci aux heures de cours de philosophie !======
+
+======supplément avec Cd représentant une ville (style HL²) ?======
+
+======Utiliser The Triumph Of Time pour batailles stratégiques======
+
+============
+
+======Sauver l’humanité et être oublié ?======
+
+======Plutôt marquer l’histoire !======
+
