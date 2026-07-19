@@ -1,0 +1,15 @@
+système -> PJ simples : score de combat = valeur /8 (avec éventuellement +++ incrémentant réussite dûs à arme/école martiale) => étendre principe pour par exemple PNJ compagnons d'aventure => estimer score TOTAL /8 de pilote/soigneur/guide et la NOTER pour réutilsation cohérente possible
+suppr Kamis + Tengus +ref orphiques et trop exotiques (garder abo+dieux egypte sumerien+mayas)
+ajouter "Blessures", (+? "Bottes" & "Ecoles martiales") sur FP
+Echelle prix
+? FP vaisseaux / Scribus
+musique
+forum (img + texte)
+affiner personnalite second couteaux
+
+Espece artificielle ~ petite forme animale -> espions dans le monde entier / peuvent etre manipules (~ elementaires)
+
+princepte
+pétron & charbol
+fouillage
+stratafuge

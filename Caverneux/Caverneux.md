@@ -4,7 +4,7 @@
 * ? create an italics variant of the LoveYaLikeASister font
 * ? ajouter pour chaque Rôle une liste de noms de Caverneux au choix
 * FP finale : ajouter une section "Membres de la tribu" avec noms / rôles / joueurs
-* inspis : Prehystoria, jeu Dadada, BD Euy, la série animée Primal
+* inspis : JdRs Og & Prehystoria, jeu Dadada, BD Euy, la série animée Primal
 * comics sources:
     + https://comicbookplus.com/?dlid=19163
     + https://comicbookplus.com/?cid=1111 -> continue selection at https://comicbookplus.com/?dlid=19170

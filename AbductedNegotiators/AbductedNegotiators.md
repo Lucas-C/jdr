@@ -27,14 +27,14 @@ A very short cinematic role-playing game for **one Game Master and three to four
 
 **Pitching the game to your players:** For such a short scenario, it's important to maintain as much surprise as possible for your players, so reveal as little as you can before the game.
 <br>
-However, explain to them at least the basics of the game style - improvisation without dice - as well as the major themes listed above. _“It plays on the alien abduction trope with a twist!”_
+However, explain to them the basics of the game style - improvisation without dice - as well as the major themes listed above. _“It plays on the alien abduction trope with a twist!”_
 
 **What you need to prepare:**
 
-* An adjustable **timer**, visible to all players
 * **Print** and cut the _Personality_ & _Galactic Trade Code_ cards at the end of this document
-* Paper and pencils may be useful
+* An adjustable **timer**, visible to all players, for example on a smartphone
 * No dice or other cards are necessary
+* Paper and pencils may be useful
 * Take the time to read the entire scenario and the _Galactic Trade Code_ cards
 
 <br>
@@ -45,29 +45,25 @@ However, explain to them at least the basics of the game style - improvisation w
 
 ## Character Creation <span class="duration">(~ 10min)</span>
 
+<img class="float-left size15" src="imgs/FACE-04-as-photo.png">
+
 Each player **creates their character** based on **two _Personality_ cards** drawn randomly.
 
 Based on them, players can freely define **their character appearance, activity and personality**.
 
-The only requirement for these characters is that they must all **speak English**.
-
 This phase should remain relatively **short**: no need to go into details.
-
 If you have paper and pencils available, suggest to your players that they use them to take notes.
 
 Inform the players that the game will begin with a short scene for each character, where they go about their business, alone, early in the evening.
-Suggest that they start picturing this scene once they have finished imagining their _alter ego_.
+Once they have finished imagining their _alter ego_, suggest that they start picturing this first introductory scene, that will serve as **exposition** to present their characters.
 
-This first introductory scene will serve as **exposition** to present their characters.
-
-<p class="page-break-after"></p>
 
 ## Introduction <span class="duration">(~ 10min par personnage)</span>
 
 Taking turns, the players present what their character is doing at this precise moment, and then...
 
 ::: banner music
-🎶 Suggested soundtrack: [_Alien Abduction - Dark Sci-fi Ambient Drone Music_ (YouTube)](https://www.youtube.com/watch?v=CozLBYsIUAg)
+🎶 Suggested soundtrack: [_Alien Abduction - Ambient Music_ (YouTube)](https://chezsoi.org/s/abductes1)
 :::
 
 <br>
@@ -94,6 +90,8 @@ Some elements of mystery can remain regarding the characters' motivations, but t
 Immediately following their exposition scene, each player's character is abducted in a horrific way by _something_ invisible.
 The Game Master describe how they are seized by this _mysterious and terrifying thing_:
 
+<img class="float-right size5" src="imgs/image-from-rawpixel-id-9766989.png">
+
 * Choose a horrific abduction method **appropriate for this character and location**. Some ideas: unstoppable darkness gradually engulfing the room; a stalker which turns out to be faceless; drawn by strange whispers that eventually turn into horrid roars; etc.
 
 * Start by introducing **sensations**, taking the time to describe them in detail, to engage the players' imaginations. Some ideas: strange, half-organic, half-mechanical noises; a feeling of presence; acidic and swampy smells;s the impression that time has stood still…
@@ -103,6 +101,8 @@ The Game Master describe how they are seized by this _mysterious and terrifying 
 * Invite the players to describe **their character's reactions** in detail, and how they try to react. Play **in real time**: if a player hesitates, assume their character is hesitating.
 
 * At the climax of the tension, simply **cut** the scene by describing how the character is _snatched_ to an unknown location...
+
+<img class="float-left size14" src="imgs/pxfuel-Pentagon-declassifies-UFO-footage-as-photo.png">
 
 Whatever the characters try, **their abduction is inevitable**.
 
@@ -114,7 +114,7 @@ You can stage subsequent abductions more quickly: the surprise is now gone, and 
 ## Main Scene <span class="duration">(~ 40min)</span>
 
 ::: banner music
-🎶 Suggested soundtrack: [_Citizen Sleeper OST_ - Amos Roddy (YouTube)](https://www.youtube.com/playlist?list=OLAK5uy_mUNNnEMaCcbXmG70e8uJe9-FZHyinoghw)
+🎶 Suggested soundtrack: [_Citizen Sleeper OST_ - Amos Roddy (YouTube)](https://chezsoi.org/s/abductes2)
 :::
 
 <br>
@@ -128,7 +128,7 @@ Once all characters have been captured, begin the next scene as follows:
 
 You can show the players the illustration depicting the room and **Olivia**.
 
-Only mention it if the players ask, but the room has **no doors**.
+Only mention it if the players ask: the room has **no doors**, and in this space the characters can all **understand each other**, regardless of their native language.
 
 Ask the players to describe their characters' reactions as they explore the room.
 
@@ -150,6 +150,8 @@ Olivia begins by candidly and cheerfully announcing to the characters that they 
 Allow the players to react if they wish, and respond to their comments, then specify that this is _“probably the most important trade agreement in the history of your planet.”_
 
 Give the players a few more moments to process this and perhaps react, then Olivia clarifies that **her client is interested in the planet's oceans**, and that the characters are tasked with representing the interests of the living species that inhabit Earth during this negotiation.
+
+<img class="float-right size8 law-book" src="imgs/freesvg-BookWithBookmarks.svg">
 
 Continue quickly by specifying that:
 * the duration of this negotiation is **limited to 23 minutes**: given the time difference between the species inhabiting this galaxy, this duration has been established as the fairest.
@@ -178,6 +180,8 @@ The characters can try all sorts of attitudes and approaches with Olivia, who is
 > “Oh, you are considering another habitat? My client can offer you a housing solution in an orbital station for you, your loved ones, and several hundred thousand other humans.”
 
 > “Yes, absolutely, my client can gather all the fresh water on your planet into a single lake. I'll add that to the contract right away.”
+
+<img class="float-right size6 time" src="imgs/Time-by-LeticiaChamorro-with-transparent-bg-cc-by.png">
 
 Approximately **5 minutes before the end of the negotiation period**, Olivia gets the characters' attention and summarizes all the clauses she has added to the contract.
 
@@ -224,6 +228,8 @@ Finally, **take the time to debrief** the game session with the players.
 
 ## Appendices
 
+<img class="float-right size9" src="imgs/image-from-rawpixel-id-24205264.png">
+
 ### Behind the Velvet Curtain
 
 If the characters examine the room, the only point of interest will be the curtain. If they peek behind it, first tell them that there appears to be **a large aquarium**, plunged in darkness, and that they would have to **open the curtain wide** to have any hope of seeing anything inside.
@@ -264,17 +270,23 @@ Here are some tips to manage this:
 
 * Ultimately, **the abduction of the characters is inevitable**. But if they try to escape their fate, let them succeed in their first escape attempts.
 
-* **“Yes, but”**: If you describe too many repeated failures of the players' actions, it can be frustrating. It's better to be flexible: their actions may succeed but not have the desired effect, or may only delay the inevitable.
+* **“Yes, but”**: If you describe too many repeated failures of the players' actions, it could become frustrating for them. Try to be flexible: their actions may succeed but not have the desired effect, or may only delay the inevitable.
 
 * Once the main scene begins, **play without anticipating**. Anything can happen, and that's one of the great pleasures of running this scenario. The characters can find a legal loophole, appeal to Olivia's emotions, or refuse to “play along”, with potentially dire consequences.
 <br>
 **Only make a decision after the negotiation is complete.**
 
-* **Feel free to choose Olivia's final decision.** Depending on your perspective on the scenario, your mood that day, and what you enjoy in role-playing games, you might be tempted to please the players, or lean towards a tragic ending because it makes the story more compelling, or perhaps try to make the most coherent decision based on your interpretation of Olivia and how the players' role-played the negotiation.
+::: adjoining-bullet
+
+<img class="float-left size10 planet" src="imgs/image-from-rawpixel-id-15004990.jpg">
+
+* **Feel free to choose Olivia's final decision.** Depending on your perspective on the scenario, what you enjoy in role-playing games, and even your current mood, you might be tempted to please the players. Or lean towards a tragic ending because it makes the story more compelling. Or perhaps try to make the most coherent decision based on your interpretation of Olivia and how the players' role-played the negotiation.
 <br>
 Whatever option you choose, it will be the right one.
 
-<br>
+:::
+
+<br><br>
 
 ### What if the characters do more than just talk?
 
@@ -320,20 +332,23 @@ The gameplay of this second round is identical, with Olivia as the negotiator.
 
 ---
 
-<br>
+<br><br>
 
 ## Acknowledgements
 
 This role-playing game was designed, written and laid out by Lucas Cimon between March and April 2026.
-The source files used to generate this PDF are available [on GitHub](https://github.com/Lucas-C/jdr/tree/master/AbductedNegotiators).
 
-The original inspiration for this game is a science fiction short film: _Final Offer_ by Mark Slutsky, which can be viewed: [there on the DUST YouTube channel DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). I was also inspired by the game [_For The Queen_](https://en.wikipedia.org/wiki/For_the_Queen_(game)) and the short TTRPG _The Last Coffee Shop on the Left_ by Shane McLean. Many thanks to them.
+The original inspiration for this game is a science fiction short film: **_Final Offer_ by Mark Slutsky**, which can be viewed: [there on the DUST YouTube channel DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). I was also inspired by the game [_For The Queen_](https://en.wikipedia.org/wiki/For_the_Queen_(game)) and the short TTRPG _The Last Coffee Shop on the Left_ by Shane McLean. Many thanks to them.
+
+<br>
 
 A big shout out to the playtesters and proofreaders of this game: Aurélien, Matthieu, and Olivier.
 
 Thanks to the developers of the free and open-source software used: [GIMP](https://www.gimp.org/), [VSCode](https://code.visualstudio.com/), [Sumatra PDF reader](https://www.sumatrapdfreader.org), [the Python programming language](https://www.python.org/), an the code libraries [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
 
 Thanks to the creators of the fonts used: [Impact Label by Michael Tension](https://www.dafont.com/fr/impact-label.font), [The Orb Report by Kris Derry](https://www.dafont.com/fr/the-orb-report.font) & [UFOs by Carlos Matteoli](https://www.dafont.com/ovnis.font).
+
+<br>
 
 I'd love to hear about your experience of playing _Abducted Negotiators_!
 
@@ -520,12 +535,12 @@ As a bonus, there are some illustrations generated with Gemini, a generative AI:
 
 ::: illustrations
 
-<img class="illustration" alt="" src="imgs/Abducted.png">
+<img class="illustration" alt="" src="imgs/gemini/Abducted.png">
 
-<img class="illustration" alt="" src="imgs/MeetingOlivia.png">
+<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia.png">
 
-<img class="illustration" alt="" src="imgs/MeetingOlivia2.png">
+<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia2.png">
 
-<img class="illustration" alt="" src="imgs/RealOlivia.png">
+<img class="illustration" alt="" src="imgs/gemini/RealOlivia.png">
 
 :::

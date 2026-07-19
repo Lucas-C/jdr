@@ -1,0 +1,187 @@
+ #lang:fr_FR 
+ #license:GPL-3+ 
+
+InCogito Project
+
+Donc voila, je rappel que j'ai pour projet de faire jouer une partie dans l'univers d'IC sans que les joueurs le sachent, du moins pas avant la fin.
+
+
+SYNOPSIS :
+
+On joue sur le Thôt, bien avant les évenements des campagnes d'IC.
+C'est le seul environnement assez inconnu pour les joueurs.
+
+Le  souci de les faire jouer dans le Thôt c'est qu'il faudra éviter de leur  montrer de la techno déjà connue (armes, équipement...)
+
+Tomber sur l'avant-garde Kappa hein ? Hmmm pq pas... encore une fois il faut pas qu'ils reconnaissent la techno.
+
+A  la limite je pensais que tu pourrais leur dire que tu t'étais inspiré  d'un autre univers connu (DeadSpace, Firefy, Mass Effect...) pour qu'ils  n'aient aucun doute au début.
+
+Si je les fait pas jouer dans le Thôt, je les fais jouer où ?
+ * Une Ile est on est parti pour du "C'est drole on dirait la 1ere campagne de IC"
+ * Le thôt, c'est jouable, à condition de leur fournir de la techno originale
+ * un lieu exotique non approfondie dans la campagne (je répense à la Faille avec les Yowies par exemple)
+
+Yes sous l'eauuuuu !
+
+Peut-être que le lieu sera à décider une fois la trame du scénar établie aussi...
+
+Un truc sympa peut-être, pour reprendre ton idée première, serait que l'avant-garde Kappa que les joueurs découvriraient soit un genre de monolithe aztèque/maya
+Ca aurait un petit côté "space-Cthulhu"
+
+Ca peut se faire ...
+Le coup de la sonde automatisé permet de faire un peu d'ambiance avec les couloirs vides, et l'IA malfaisantes (du moins du pt de vue des joueurs), puis une scène d'action avec l'IA, avant le reveil des occupants, et la possibles fuite.
+
+Ouais mais la techno Kappa c'est pas trop "sonde électronique en métal avec IA robot" justement...
+C'est plus bioorganique
+
+Justement, je vais les paumés dans des dédales mi-metalliques par portions, avec des courbes, et des murs qui palpitent ...
+Tres Alien le 8ème passager dans l'ambiance du coup.
+
+Hmm... Pq pas. Le trip c'est quand même zero électronique
+(j'avoue je préfère mon monolithe ;P)
+
+Moi je veux bien le monilithe, mais dans ce cas ca s'eloigne pas mal du kappas ... apres peut etre que les vaisseaux ont evolués (Ca se passe loin dans le passé).
+
+Non mais la symbolique maya/aztèque fait le lien, et DANS le monolithe tu peux balancer de la coursive organique à la Escher !
+
+
+je viens de retrouver une idée marante : les squelettes à la base c'est des clones de volontaires terriens. C'est-à-dire qu'à leur 1er éveil ils ont juste la mémoire de mecs lambdas.
+-> ça pourrait être fun à jouer un soldat qui réalise en court de mission qu'il est un *** de clone !
+Bon par contre pas vraiment moyen de jouer un Squelette sans qu'ils se doutent de qqch...
+
+
+Eléments "clins d'oeil" :
+- Les armures filaires peut-être ? (comme le bras armé d'Amon)
+- anneaux de soin ?
+- injecteurs de drogues ?
+- boucliers statiques ?
+- techno magnétique ? -> gadget-outil polymorphe (mais pas statues -> too much) : peut se changer en tournevis/pelle/couteau etc.
+Ca pourrait faire partie du barda des joueurs
+
+marque de la caste scientifique == celle des Alchimistes
+
+Un moment clef de l'univers sympa à jouer : les Squelettes ont tous un Phagos dans le crâne, ce sont des clones "greffés". Cela implique que les humains avaient déjà un Phagos en leur possession avant l'arrivée des Kappas ! Cela peut dater d'une rencontre du Thôt avec un vaisseau-monolithe Kappa avant l'arrivée du Thôt dans les système Osiris-Nout-Khonsou...
+
+Le must (mais ça veut dire PAS tuer TOUS les joueurs) serait qu'en fin de scénario ils ramènent la "chose" (un bout de Phagos prélevé dans le monolithe) à leurs supérieurs et aux scientifiques... et qu'ils voient le symbole Alchimiste et entendent leurs supérieurs murmurer des trucs à propos d'expériences sur les soldats-clones et de baptiser la chose "Phagos"...
+Tadaaaa ! Méga-grosse révélation si t'as réussi à garder le suspens jusque là :)
+
+... Je garde !!!
+Ca m'envoie du reve ...
+Bon je recapitule :
+    Le Thôt fuit la flotte Kappa, et avant qu'elle n'ateigne le syteme Osiris, tombe sur un monolithe dérivant dans un petit sytème. Monolithe envoyé par les Kappas pour retrouver le Thôt après une manoeuvre d'évasion risqué.
+    (oui mais attention à ne pas mentionner les Kappas ! et puis le Thôt était un vaisseau colon, peut-être qu'à ce stade il n'a pas encore rencontré de Kappas)
+    Les joueurs (Des Numains, ou Num1s, du coup) sont envoyé pour eclairer la situation : A qui appartient-il ? ami ou ennemi ? Est-il occupé ? Où se dirige-t-il ?
+    A partir de là, la partie commence dans la navette qui abordera le monolithe. Il se connaissent depuis peu, ont été rassemblé pour la mission, et ignore ce qu'ils vont y trouver ... ou en ramener.
+    Donc mission typique "Alien" : exploration d'OVNI ! Ca veut dire badass + scientifiques !
+    C'est même "combo-able" avec l'histoire des clones ! A un moment on trouve une astuce pour qu'ils comprennent que qqch coince, qu'ils sont pas partis il y a 3 ans de la Terre mais que le Thôt vogue depuis des centaines d'année ! (ou un truc du genre) et donc -> ce sont des clones avec la mémoire de personnes mortes
+
+Dans la navettes, ils se reveillent, et une machine leur dicte leur mission. On les a choisi pour leur compétences, et on espère qu'ils sauront faire front contre l'adversité éventuelle.
+(Du coup, là on case les souvenirs récents, qui sont arrivés il y a deja si longtemps). 
+
+Le truc mégamoche (et cool) serait par exemple que leur supérieur pour la mission (genre qui leur fait le topo et reste dans la navette ... oui j'aime pas les IA désolé, c'est trop facile :) a le visage caché tout du long et la voix seulement entendue par radio mais qu'à un moment on s'aperçoit que c'est un clone identique à un des persos ! Sauf que lui est gradé et donc connait le secret
+(Je pensais à une simple liaison radio Vaisseau mère <-> navettes, du coup les gradés ont les pieds aux chaud avec une tasse de café, et les joueurs sont tout seul.)
+Nan mais ok, c'est parfaitement logique, mais 1) vaut mieux UN type sûr sur place pour ramener la navette-qui-vaut-bien-plus-que-la-chair-à-cannon & 2) se faire acceuillir au réveil par une machine c'est inhumain !! :) Et ça met pas en confiance pour la mission
+Oki, mais va falloir que j'ai des joueurs martiaux dans l'assemblée, qui suivent bien les ordres eux ... et pas des scientifiques qui râlent tous le temps (Kev ... Auré ...)
+Mwahahah ^^
+Si tu veux je joues une bidasse conne !
+Ah ouiiii ! Le gradé planqué !
+je note une tendeance à la fouine, j'aime ^^
+J'ai une idée à la con : Et  si, vu qu'ils jouent des clones de volontaires, et donc possède leurs  souvenirs du volontaire, deux joueurs avaient les même souvenirs car  deux clones du même type à la base, mais qu'il l'ignore. Du coup  suffirait d'une réplique mal placée in-game pour déclencher la paranoïa  totale.
+
+Donc, je disais :
+Le Thôt fuit la flotte  Kappa, et avant qu'elle n'ateigne le syteme Osiris, tombe sur un  monolithe dérivant dans un petit sytème. Monolithe envoyé par les Kappas  pour retrouver le Thôt après une manoeuvre d'évasion risqué.
+Les  joueurs (Des Numains, ou Num1s) sont envoyés pour eclairer la  situation : A qui appartient-il ? ami ou ennemi ? Est-il occupé ? Où se  dirige-t-il ?
+A partir de là, la partie commence dans la navette qui abordera le  monolithe. Il se connaissent depuis peu, ont été rassemblé pour la  mission, et ignore ce qu'ils vont y trouver ... ou en ramener.
+Les joueurs se reveillent dans la navettes, petit à petit, reprenant leur esprits, se rappellant leurs souvenirs passés respectifs. Une fois droit dans leurs bottes, une porte s'ouvre, et une salle de meeting se découvre devant eux. Ils sont alors accueilli par un humain, en combinaison totale lui, et donc masqué. S'il ôte son masque les joueurs pourraient s'percevoir qu'il s'agit d'un clone comme eux.
+Le briefing est simple et concis. Il s'agit d'explorer une carcasse dérivant dans ce système, avant que la base ne soit hors de portée, et de découvrir ses spécificités, en essayant de ramener des sujets (Technologie, devices, echantillons, tissus vivant, ...) pour l'étude.
+Une fois le briefing expédié, la phase d'abordage va commencer à proprement parlé. Les joueurs sont libre de discuter avant, sur leur souvenir, leur impressions de la mission.
+
+*Description du Monolithe*
+Gigantesque, imposant, froid. Il erre dans ce secteur du système soliare. L'architecture est incertaine. On a devant les yeux un enorme monolithe, une structure pyramidale à quatre face, dans une matière inconnue. Les arretes sont saillantes, et à première vu aussi menacante qu'acérées. Ca ressemble à de la simple pierre, mais de la pierre ne suffirait pas à maintenir un semblant d'atmosphère à l'intérieur. De plus, la surface est lisse et noire, et elle éblouie les joueurs en reflétant le oleil lointain (obsidienne). Une fois plus près on remarque des motifs taillés sur de large portions à première vue lisse.
+La navette va alors tenter de créer un pont, une jonction, vers ces motifs après avoir remarqué qu'il s'agit surement d'un sas. La jonction précaire  semble vacillé, mais le contigent parviens à rentrer. Avant de s'infiltrer dans le monolithe, si l'un des scientifique est curieux, il pourra jeter un coup d'oeil à la surface encore geler du monolithe. La surface apparante dans la jonction revèle de la roche lisse et sombre, dans laquelle des marques apparaissent pour signaler des fonctionnalités, et des méchanisme caché sous la surface. L'apparence lisse de la roche est fluctuent. Avec le bon jeux de lumière, l'apparence lisse laisse apparaitre des motifs. Une histoire gigantesque, dans une écriture inconnue, qui doit surement courir tout le long de la surface du Monolithe.
+
+*Premier pas à l'intérieur*
+La porte du sas réagie à la pression, ou une décharge éléctrique bien placée. Les contours d'éclairent légérement avant de laisser la porte coulisser lourdement. Un appel d'air puissant se crée, et remue la troupe. Il devront garder leur casque face au manque d'air. ils se trouvent alors dans un large couloir, dans le noir complet. Leurs pas resonnent de pars en pars dans le monolithe. Les murs sont givrés, du fait de l'absence d'atmosphère depuis trop longtemps. L'ambiance est pesante, et ils n'entendent que la lourde respiration de leurs voisins, et leurs pas étouffés. Le monolithe est menacant, les couloir de forme triangulaire ne laissent pas beaucoup de place à hauteur de tête.
+
+*Architecture et Agencement*
+le Monolithe comprends un large puit central, directement vers la section Propulsion, à la base de ce dernier. Depuis le puit central, et ceux sur chaque niveaux, des coursives surgissent vers la surface extérieur du Monolithe. Peu avant de rejoindre la surface du Monolithe, ces dernières donnent dans des coursives perpendiculaires qui longent la longent la surface intérieur de la structure.
+ * Propulsion : A la base du Monolithe, les sytèmes de propulsions ont l'air en état, mais aucun joueur n'arriverait à faire fonctionner la propulsion, condamnant le Monolithe à errer dans le vide.
+ * Poste de commandement : Sur l'axe central, situé entre la pointe, et la partie centrale. La pièce est exigüe et cilyndrique. Les joueurs devront slalomer entre les excroissances et leurs ecrans d'affichage éteints, et les alcôves présentes de manières régulières au sol et sur les murs, et qui contiennet des console surement dédié au pilotage.
+ * Soute : 
+ * Armement :
+ * Quartiers : Secteur devasté par une explosion interne au Monolithe. On suppose, de par l'agencement du vaisseaux, que la soute à proximité des quartiers, qui contenaient les zones d'hibernation, devait contenir un explosif qui a mal supporté le trajet.
+ * Ateliers :
+ * Infirmerie :
+
+*Reveil du vaisseau*
+Au cours de leur exploration du Monolithe, la troupe va reveiller des système de survie, qui vont petit à petit rendre le vaisseau viable. Il faut donc s'attendre à une atmosphère qui apparait, bien que toxique pour les joueurs, le givre qui disparait à mesure que la structure se réchauffe. Plus spéctactulaire, de par la nature étrange du vaisseau, des pans de couloirs détruit peuvent commencer à se reconstruire, selon les plans d'origine.
+(Je pense que les joueurs accueilleront les mesures comme amicales, mais qui dit atmosphère et chaleur, dit saloperie présente qui peuvent agir)
+
+*note*
+Je note avant que j'oublie : Les kappas sont principalement des créature aquatique (du moins, le milieu aquatique ne les gene pas outre mesure). Je pense à innonder des parties du vaisseau, du moins les faire progresser en milieu aquatique. Je ne pense pas que ca sera de l'eau ordinaire, mais plutôt une espece liquide semi-consciente. Il existerait une genre de symbiose entre els Kappas et ce liquide, et pourrais en vouloir à mes joueurs. Je les vois bien se faire poursuivre par une créature en non-dit qui innonderais les couloirs, et chercherait s'infiltrer coute que coute.
+Question subsidiaire : Est-ce que la gravité est présente dans le Monolithe ? Est-ce que les Pj ont un moyen de la ré-activer ?
+
+*note* : Yowie dans monolithe ?
+
+JOUEURS :
+
+moi comme tu veux, pas grave si je peux pas
+si Elliot dispo, ce serait cool de lui proposer par contre ! Je lui laisse ma place :)
+
+Je liste les joueurs potentiels, et leur positionnements (changements envisageables)
+
+ * Chef d'équipe : Lucas
+ * Grunts : Skills Combat / Protection / Survie
+   * Quentin
+   * Eliott
+   * Michael
+ * Scientifiques : Connaissances Techniques / Bio / Electro / Debrouil / Débrouillardise
+   * Kevin
+   * Aurélien
+   * gaetan
+
+
+SYSTEME :
+
+A la rigueur le système de RE JDR peut faire l'affaire :
+ * 6 caracs entre 1 et 6 (Force, Constitution, Agilité, Charisme, Esprit, Perception)
+ * Quelques compétences libres qui viennent fournir un bonus lors des jets
+ * Marge de réussite considérée dans le résultat de l'action
+ * 2 D6
+
+
+CHRONOLOGIE:
+
+planète Nout sur qui veille Osiris, astre de lumière, à l'aide des Fils qui les enveloppent tous les deux et les relient. Œuf de glace se réchauffe doucement -> apparition d’un océan
+
+vaisseau humain de guerre Thôt fuit Kappas
+Technologie Kappa [optique] : hologrammes, lasers, glace, obsidienne, vaisseaux camouflés…
+Technologie humaine : drogues, armes à feu, vaisseaux, systèmes informatiques fonctionnant en sumérien (langue secrète à laquelle seuls les chefs de guerre n’étaient pas soumis – futurs Gisants) + détection du "sang de Gisant"
+
+s'approche du système -> Osiris le fait se crasher sur Khonsou (Si Khonsou n'est jamais complet dans les cieux, c'est qu'un quart lui manque) = Cataclysme ; plusieurs dizaines humains absorbés par Osiris -> l'astre conserve leurs corps mais renvoie leurs Âmes sur le Noun -> deviennent Utukkus
+Technologie : Marionnettes, vaisseaux de verre ultra-rapides, pyramides de verre, (matériaux : or, papier, bois, acier), développement de la technologie sonique
+
+survivants se réfugient sur Noun où ils implantent végétaux et animaux (terre extrêmement fertile) -> Utukkus d'abord contrôlés par Gisants en sumérien puis lentement déifiés
+-> leurs sujets se voient offrir une Âme (en réalité lien pour que Utukkus usent de leur énergie vitale, diminuant ainsi de moitié l'espérance de vie des humains déjà élongée par les manipulations génétiques -> humains meurent au maximum de vieillesse à 60 ans)
+-> d'autres refusent (Alchimistes)
+sur l’Atoll, crash du vaisseau Jisa forme lac, colons construisent Ancien Temple puis, une fois sous l’influence des Utukkus, les îles dorées
+
+Grande Guerre ou "guerre du langage" <-> Châtiment
+Utukkus déifiés lentement et baisse du savoir technologique de la majeure partie des humains. Ishbars confident des Utukkus apprennent l’Art Secret. Certains découvriront la nature du Noun et se feront Naassènnes.
+Technologie : bombes EMP, statues de sable mouvantes, vaisseaux de sable, développement de la technologie magnétique
+
+environ 200 ans plus tard, bataille des réservistes : les Jinns libérés sur Khonsou et derniers containers contenant les Squelettes descendent sur Jisa
+-> l’un d’eux s’échoue sur l’Atoll. Certains Squelettes réveillés prennent le pouvoir sur les colons alors présents, menés par Amon (cf. Princes).
+-> 6 fils qui, adultes, renversent leurs pères (handicapés par le secret des mots de pouvoir). les Princes choisissent de rester neutre dans la guerre et dirigent pacifiquement l’Atoll mais enferment Anat
+
+après 400 ans de dynastie Prince, Isis quitte l’Atoll pour devenir Gisant
+-> elle dompte des Scories et revient exterminer les Princes
+-> trahie par humains, elle est enfermée mais les Princes, grandement diminués, deviennent des esclaves
+
+quelques 100ans plus tard, arrivée des Kappas
+pas d'agression d'Osiris mais certains Kappas refusent de repartir (…) -> conflit interne
+Utukkus déclenchent la guerre contre les Kappas qui se révèlent plus puissants grâce à leur armes laser et hydrostatiques
+tentative Kappa de section des liaisons de Fil Osiris-Noun -> Noun bouge -> Kappas arrêtent
+montée niveau d'eau cause des explosions de la guerre ?
+
