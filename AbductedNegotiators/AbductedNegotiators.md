@@ -1,5 +1,6 @@
 <!-- Com'
 * [x] https://old.reddit.com/r/RPGdesign/comments/1t4bzut/abducted_negotiators_looking_for_a_proofreader_on/
+* [ ] https://lucas-c.itch.io/abducted-negotiators
 * [ ] contacter le réalisateur du court-métrage
 * [ ] chercher des compétitions de TTRPG
 
@@ -102,7 +103,8 @@ The Game Master describe how they are seized by this _mysterious and terrifying 
 
 * At the climax of the tension, simply **cut** the scene by describing how the character is _snatched_ to an unknown location...
 
-<img class="float-left size14" src="imgs/pxfuel-Pentagon-declassifies-UFO-footage-as-photo.png">
+<img class="float-left size9" src="imgs/beams/abduction.png">
+<p class="half-break"></p>
 
 Whatever the characters try, **their abduction is inevitable**.
 
@@ -278,7 +280,7 @@ Here are some tips to manage this:
 
 ::: adjoining-bullet
 
-<img class="float-left size10 planet" src="imgs/image-from-rawpixel-id-15004990.jpg">
+<img class="float-left size10 planet" src="imgs/image-from-rawpixel-id-15004990.png">
 
 * **Feel free to choose Olivia's final decision.** Depending on your perspective on the scenario, what you enjoy in role-playing games, and even your current mood, you might be tempted to please the players. Or lean towards a tragic ending because it makes the story more compelling. Or perhaps try to make the most coherent decision based on your interpretation of Olivia and how the players' role-played the negotiation.
 <br>
@@ -360,14 +362,11 @@ I also would be happy to receive suggestions for adding cards to the _Galactic T
 
 :::: cards
 
-## Cards
-
-<p class="desc" style="grid-column: 1 / 5">
-The following three pages contain the <em>Personality</em> cards, as well as the translated pages of the legal text of the <em>Galactic Commerce Code</em>.
-<br><br>
+::: desc
+<h2 id="cards">Personality cards</h2>
 These cards must be printed and cut out before the game:
 <br><br>
-</p>
+:::
 
 ::: card personality
 ### Misanthrope
@@ -436,6 +435,12 @@ a finger:
 
 :::: cards x3
 
+::: desc
+<h2>Galactic Trade Code cards</h2>
+These cards must be printed and cut out before the game:
+<br><br>
+:::
+
 ::: card alien-code
 Inhabited planets not actively participating in pan-galactic free trade are represented during trade negotiations concerning their habitat by a panel of official representatives composed of at least three natives, whose selection is at their discretion.
 :::
@@ -482,6 +487,8 @@ An acceptable method for resolving disagreements during negotiations aimed at co
 
 :::: <!-- end of .cards -->
 
+<p class="page-break-after"></p>
+
 :::: cards x3
 
 ::: card alien-code
@@ -497,8 +504,6 @@ For any questions from stakeholders regarding legal issues, the relevant pan-gal
 :::
 
 :::: <!-- end of .cards -->
-
-<p class="page-break-after"></p>
 
 :::: cards x3
 
@@ -527,20 +532,3 @@ The clauses of pan-galactic commercial law concerning association and acquisitio
 :::
 
 :::: <!-- end of .cards -->
-
-<p class="page-break-after"></p>
-
-## Illustrations
-As a bonus, there are some illustrations generated with Gemini, a generative AI:
-
-::: illustrations
-
-<img class="illustration" alt="" src="imgs/gemini/Abducted.png">
-
-<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia.png">
-
-<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia2.png">
-
-<img class="illustration" alt="" src="imgs/gemini/RealOlivia.png">
-
-:::

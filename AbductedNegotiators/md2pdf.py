@@ -18,6 +18,7 @@ SRC_FILES = (
     CSS_FILEPATH := DIR / "style.css",
     EN_MD_FILEPATH := DIR / "AbductedNegotiators.md",
     FR_MD_FILEPATH := DIR / "Abductes.md",
+    BANNER_CARDS_MD_FILEPATH := DIR / "banner-cards.md",
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/CriticalFondation/
     README_MD_FILEPATH := DIR / "README.md",
 )
@@ -35,7 +36,8 @@ METADATA = {
         "keywords": ("tabletop-roleplaying-game", "ttrpg", "roleplay", "abduction", "alien", "science-fiction", "negotiation", "timed", "cards"),
         "description": "A tabletop roleplaying game based on roleplay and some cards",
     },
-    README_MD_FILEPATH: { "lang": "fr", "pdf": False },
+    BANNER_CARDS_MD_FILEPATH: { "bookmarks": False },
+    README_MD_FILEPATH: { "pdf": False },
 }
 
 def build_pdf(target_md_file=None):
@@ -45,7 +47,7 @@ def build_pdf(target_md_file=None):
         target_md_file = Path(DIR / sys.argv[-1])
     for md_src_file in SRC_FILES[2:]:
         metadata = {**METADATA[md_src_file]}
-        lang = metadata.pop("lang")
+        lang = metadata.pop("lang", "fr")
         if target_md_file is None or target_md_file == md_src_file:
             if metadata.pop("pdf", None) is False:
                 with open(md_src_file, encoding="utf8") as md_file:
@@ -55,21 +57,23 @@ def build_pdf(target_md_file=None):
 
 def build_single_pdf(md_filepath, metadata, lang):
     out_filepath = md_filepath.with_suffix(".pdf")
-    pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata)#, expected_pages_count=11)
+    expected_pages_count = 2 if md_filepath.name == BANNER_CARDS_MD_FILEPATH.name else 10
+    bookmarks = metadata.pop("bookmarks", True)
+    pdf = markdown2pdf(DIR, md_filepath, CSS_FILEPATH, lang=lang, metadata=metadata, bookmarks=bookmarks, expected_pages_count=expected_pages_count)
     with out_filepath.open("wb") as out_pdf_file:
         out_pdf_file.write(pdf)
     start = perf_counter()
     set_metadata(out_filepath, **metadata, lang=lang)
     metadata_duration = perf_counter() - start
-    if "FAST" in os.environ:
+    if "FAST" in os.environ or md_filepath.name == BANNER_CARDS_MD_FILEPATH.name:
         pages_bg_duration = 0
         cards_duration = 0
     else:
         start = perf_counter()
-        add_page_number_backgrounds(out_filepath, except_pages=(8,))  # Pour éviter overlap avec cartes
+        add_page_number_backgrounds(out_filepath)
         pages_bg_duration = perf_counter() - start
         cards_duration = export_img(out_filepath, (
-            dict(page=8, suffix="-PersonalityCards", crop=(125, 610, 2355, 2220)),
+            dict(page=8, suffix="-PersonalityCards", crop=(125, 450, 2355, 2070)),
         ))
     print(f"{out_filepath} has been rebuilt: metadata={metadata_duration:.1f}s pages_bg={pages_bg_duration:.1f}s cards={cards_duration:.1f}s")
 

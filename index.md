@@ -4,6 +4,7 @@ La plupart sont présentées sur [ma page itch.io](https://lucas-c.itch.io/)
 ou sur [mon blog](https://chezsoi.org/lucas/blog/pages/jeux-de-role.html).
 Cette page liste mes jeux en développement : [Projets en cours](https://chezsoi.org/lucas/blog/pages/projets-en-cours.html).
 
+- [Abductés (FR) @ itch.io](https://lucas-c.itch.io/abductes) - [Abducted Negotiatiors (EN) @ itch.io](https://lucas-c.itch.io/abducted-negotiators)
 - [Ori Mushi](OriMushi) - [projet en cours](https://chezsoi.org/lucas/blog/projets-en-cours.html)
 - [Catalogue de JdRs courts](https://lucas-c.github.io/jdr/catalogue/CatalogueJdrCourts.pdf), conçu pour [le bar à JdRs du festival Meujeuteries & Merveilles 2026](https://laubergedesreveurs.fr/festival-meujeuteries-et-merveilles/)
 - [Sombre : Lab Escape (itch.io)](https://lucas-c.itch.io/sombre-lab-escape) - PDF 21 pages, 8 Mo - Un court scénario pour [SOMBRE Zéro de Johan Scipion](https://www.terresetranges.net/sombre.html) - [Article de blog](https://chezsoi.org/lucas/blog/sombre-lab-escape.html)

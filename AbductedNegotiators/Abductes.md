@@ -1,23 +1,21 @@
 <!-- Si distribution papier :
 -> remplacer crâne par QRCode sur version monopage
 
-Notes de relecture, 2 mois et demi après le 1er jet :
-* le flot du texte est trop ininterrompu, cela manque d'illustrations "latérales"
-* idée : permettre de jouer sans imprimer de matériel, via une mini web app permettant de distribuer les Personnalités et de donner accès au Code du Commerce Galactique
-
 Short URLs for songs :
 * https://chezsoi.org/s/abductes1 -> https://www.youtube.com/watch?v=CozLBYsIUAg Alien Abduction - Dark Sci-fi Ambient Drone Music
 * https://chezsoi.org/s/abductes2 -> https://www.youtube.com/playlist?list=OLAK5uy_mUNNnEMaCcbXmG70e8uJe9-FZHyinoghw Citizen Sleeper OST - Amos Roddy
 * playlist (watchée) : https://www.youtube.com/playlist?list=PLXqBczzY5Ivg
 
+Short URLs for single-page PDFs :
+* https://chezsoi.org/s/Abductesmonopage -> Abductes-monopage.pdf
+* https://chezsoi.org/s/AbductedNegotiatorssinglePage -> AbductedNegotiators-singlePage.pdf
+
 Com'
-* [ ] https://lucas-c.itch.io/
-* [ ] https://chezsoi.org/lucas/blog/ & https://lucas-c.github.io/jdr/
-* [ ] http://troplongpaslu.fr/
+* [x] https://lucas-c.itch.io/abductes
+* [x] https://lucas-c.github.io/jdr/
+* [ ] https://chezsoi.org/lucas/blog/ & https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
 * [ ] https://www.casusno.fr
 * [ ] https://www.reddit.com/r/jdr
-* [ ] https://forums.ffjdr.org/c/jdr/jdr-gratuit/30
-* [ ] https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
 * [ ] serveurs Discord : CestPadDuJdr, PTGPTB
 -->
 
@@ -112,7 +110,8 @@ La Meneuse de Jeu décrit comment se déroule ce rapt :
 
 * au climax de la tension, **coupez** simplement la scène en décrivant comment le personnage se fait "happer" vers un lieu inconnu...
 
-<img class="float-left size14" src="imgs/pxfuel-Pentagon-declassifies-UFO-footage-as-photo.png">
+<img class="float-left size9" src="imgs/beams/abduction.png">
+<p class="half-break"></p>
 
 Quoi qu'ils fassent, **l'enlèvement des personnages est inévitable**.
 
@@ -296,7 +295,7 @@ Voici quelques conseils pour gérer cela :
 
 ::: adjoining-bullet
 
-<img class="float-left size10 planet" src="imgs/image-from-rawpixel-id-15004990.jpg">
+<img class="float-left size10 planet" src="imgs/image-from-rawpixel-id-15004990.png">
 
 * **sentez-vous libre de choisir la décision finale d'Olivia** : selon votre vision du scénario, ce que vous appréciez en jeu de rôle, et même votre humeur du jour, peut-être serez-vous tenté de faire plaisir aux joueuses, ou de tendre vers une fin tragique car cela rend l'histoire plus intéressante, ou bien encore d'essayer de prendre la décision la plus cohérente possible en fonction du _roleplay_ des joueuses et de votre interprétation d'Olivia.
 <br>
@@ -324,10 +323,6 @@ Les personnages se réveillent alors à nouveau allongés sur le sol de la pièc
 Ce scénario n'a pas été pensé pour cela à l'origine, mais il est tout à possible de le faire jouer à distance.
 
 Lors d'une partie via internet, les échanges vocaux sont moins fluides et rapides : **augmentez donc la durée** dont disposent les joueuses pour la négociation, à 43 minutes par exemple.
-
-<!--
-J'ai commencé à mettre le jeu en ligne sur [screentop.gg](https://screentop.gg), mais ils n'est pas encore tout à fait jouable.
--->
 
 ### Seconde négociation
 
@@ -381,14 +376,11 @@ Si cela vous inspire, je serais ravi de recevoir des suggestions d'ajouts de car
 
 :::: cards
 
-## Cartes
-
-<p class="desc" style="grid-column: 1 / 5">
-Les trois pages suivantes comportent les cartes <em>Personnalité</em>, ainsi que les pages traduites du texte de loi du <em>Code du Commerce Galactique</em>.
-<br><br>
+::: desc
+<h2 id="cards">Cartes Personnalité</h2>
 Ces cartes doivent être imprimées & découpées avant la partie :
 <br><br>
-</p>
+:::
 
 ::: card personality
 ### Misanthrope
@@ -470,6 +462,12 @@ Olivia :
 
 :::: cards x3
 
+::: desc
+<h2>Cartes du Code du Commerce Galactique</h2>
+Ces cartes doivent être imprimées & découpées avant la partie :
+<br><br>
+:::
+
 ::: card alien-code
 Les planètes habitées non actives dans le libre commerce pan-galactique sont représentées durant les négociations commerciales concernant leur habitat par un panel de représentants officiels composé d'au moins trois autochtones, dont la sélection est libre.
 :::
@@ -499,6 +497,7 @@ Sont notamment listées comme « vitales » par l'organisation pan-galactique de
 :::
 
 :::: <!-- end of .cards -->
+
 :::: cards x3
 
 ::: card alien-code
@@ -514,6 +513,9 @@ Une méthode acceptable de résolution de divergence au cours d'une négociation
 :::
 
 :::: <!-- end of .cards -->
+
+<p class="page-break-after"></p>
+
 :::: cards x3
 
 ::: card alien-code
@@ -531,8 +533,6 @@ Pour tout questionnement des parties prenantes concernant des points de légalit
 
 :::: <!-- end of .cards -->
 
-<p class="page-break-after"></p>
-
 :::: cards x3
 
 ::: card alien-code
@@ -548,6 +548,7 @@ Les représentants officiels de la population d'une planète « en voie de déve
 :::
 
 :::: <!-- end of .cards -->
+
 :::: cards x3
 
 ::: card alien-code
@@ -559,23 +560,6 @@ Les clauses du droit du commerce pan-galactique concernant les contrats d'associ
 :::
 
 :::: <!-- end of .cards -->
-
-<p class="page-break-after"></p>
-
-## Illustrations
-En bonus, voici quelques illustrations générées avec Gemini, une IA générative :
-
-::: illustrations
-
-<img class="illustration" alt="" src="imgs/gemini/Abducted.png">
-
-<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia.png">
-
-<img class="illustration" alt="" src="imgs/gemini/MeetingOlivia2.png">
-
-<img class="illustration" alt="" src="imgs/gemini/RealOlivia.png">
-
-:::
 
 <!--
 <img class="illustration" alt="" src="imgs/BureauLoiGalactiqueEtMinuteur.png">
