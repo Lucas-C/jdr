@@ -15,7 +15,7 @@ DIR = Path(__file__).parent
 sys.path.append(str(DIR / ".."))  # make pdf_utils.py importable
 from pdf_utils import copy_files, html2pdf, modify_html, start_watch_and_rebuild
 copy_files(DIR, "font:Candara", imgs={
-    "2200_le_jugement_des_dieux/img/cover.png": "2200-lJdD-cover.png",
+    "2200_le_jugement_des_dieux/img/cover-FR.png": "2200-lJdD-cover.png",
     "2200_le_jugement_des_dieux/img/d11iblu-a1bec916-ba47-4975-8b6a-1db61470c40e-2.jpg": "2200-lJdD-god.jpg",
     "CyberPunk/big-title.jpg": "CyberPunk.jpg",
     "genius-loci/img/church.png": "genius-loci-church.png",

@@ -31,6 +31,9 @@ Mes jeux les plus récents emploient [WeasyPrint](https://weasyprint.org/) et qu
     pip install -r requirements.txt livereload xreload
     # exécuter ensuite le script *pdf.py dans le sous-dossier
 
+## Upgrade dependencies
+
+    pip-upgrade -p all requirements.txt && pip install -r requirements.txt
 
 ## Notes
 Emojis utiles : ⚅ ⚠️ 💡 ✏ ❤️ 💔 💋 🍺 ⚗ 🧪 🔬📡 💉 💊 🚪 📜 📘 🏷 🎫 💬 👁️‍🗨️ 👁 💀 ☠ ⚰ 👻 🐉 🐲 🔮 🧙 🕵️ 🔍 🗝 🔓

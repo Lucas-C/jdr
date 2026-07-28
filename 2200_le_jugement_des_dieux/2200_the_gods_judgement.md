@@ -9,8 +9,7 @@ A narrative role-playing game for 3 to 4 players, requiring no game master nor p
 Few rolls will be made but you will need two 8-sided dice (d8), three tokens, and optionally a timer.
 
 ::: web-only
-- [PDF version (1 Mo)](https://chezsoi.org/s/2200TGJ11DirectPDFDownload)
-- [itch.io page](https://lucas-c.itch.io/2200-le-jugement-des-dieux)
+* [PDF version : on itch.io](https://lucas-c.itch.io/2200-the-gods-judgement)
 :::
 
 :::: bicolumned

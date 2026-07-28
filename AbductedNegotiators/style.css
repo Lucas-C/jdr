@@ -68,7 +68,7 @@ h3:nth-of-type(5):after { content: 'f'; }
 h2:nth-of-type(4):after { content: 'd'; top: 1rem; }
 h3:nth-of-type(8):after { content: 'h'; }
 h2:nth-of-type(6):after { content: 'r'; top: 1rem; }
-#cartes:after, #cards:after { content: none; }
+#cards:after { content: none; }
 
 #annexes, #appendices { margin-bottom: 1.1rem; }
 
@@ -152,6 +152,7 @@ hr:before {
 .card.alien-code p { text-align: justify; }
 
 .desc {
+  grid-column: 1 / 5;
   padding: 0 1.5rem;
   margin-top: 1rem;
 }
@@ -165,6 +166,31 @@ hr:before {
 
 .float-left { float: left; margin-right: .5rem; }
 .float-right { float: right; margin-left: .5rem; }
+
+.banner-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 33.5rem;
+  height: 26rem;
+  margin: 0 auto;
+  padding: 3rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
+.banner-card.large {
+  height: auto;
+  padding: 1rem 3rem;
+}
+.banner-card h1 { font-size: 3.5rem; position: relative; }
+.banner-card h1 .shadow {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+.banner-card.en h1 { font-size: 3rem; line-height: 4rem; }
+.banner-card.en.large { line-height: 3rem; }
 
 /* Using this on a <p> element introduce some extra vertical spacing at the top of the next page: */
 .page-break-after { page-break-after: always; }

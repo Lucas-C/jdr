@@ -1,12 +1,15 @@
-beautifulsoup4==4.12.3
-fpdf2==2.8.5
+beautifulsoup4==4.15.0
+fpdf2==2.8.7
 jinja2==3.1.6
-mistletoe==1.3.0
-pdfly==0.4.0
-pikepdf==8.15.1
-pillow==12.2.0
-pypdf==6.13.3
+mistletoe==1.6.0
+pdfly==0.5.1
+pikepdf==10.10.0
+pillow==12.3.0
+pip-upgrader==2.4.5
+pypdf==6.14.2
 python-poppler==0.4.1
+PyYAML==6.0.3
 qrcode==8.2
-requests==2.33.1
+requests==2.34.2
+# [WARN] weasyprint==69.0 "breaks" this CSS style used in AbductedNegotiators & CriticalFondation : background-image: repeating-radial-gradient
 weasyprint==68.0

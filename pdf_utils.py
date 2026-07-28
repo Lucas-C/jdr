@@ -73,6 +73,7 @@ def md2html(dir, md_content, css_filepath=None, lang=None, metadata=None):
         md_content = fr_ponctuation_fixups(md_content)
     elif lang == "en":
         detect_incorrect_quotes(md_content, '«»', "« French quote signs » found on line {line_number} of Markdown file: English version should only contain “English quote signs”")
+    md_content = subst_vars(md_content)
     html = markdown(md_content, renderer=CustomHtmlRenderer)
     html = modify_html(html)
     lang_attr = f' lang="{lang}"' if lang else ''
@@ -226,6 +227,12 @@ def add_table_of_contents(soup):
             a = soup.new_tag("a", href="#" + heading["id"])
             a.string = heading.get_text()
             curr_li.append(a)
+
+
+def subst_vars(md_content):
+    # No need for jinja2 for now:
+    md_content = md_content.replace("{{ day }}", datetime.today().strftime("%Y/%m/%d"))
+    return md_content
 
 
 @contextmanager
