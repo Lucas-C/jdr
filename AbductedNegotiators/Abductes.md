@@ -1,7 +1,4 @@
-<!-- Si distribution papier :
--> remplacer crâne par QRCode sur version monopage
-
-Short URLs for songs :
+<!-- Short URLs for songs :
 * https://chezsoi.org/s/abductes1 -> https://www.youtube.com/watch?v=CozLBYsIUAg Alien Abduction - Dark Sci-fi Ambient Drone Music
 * https://chezsoi.org/s/abductes2 -> https://www.youtube.com/playlist?list=OLAK5uy_mUNNnEMaCcbXmG70e8uJe9-FZHyinoghw Citizen Sleeper OST - Amos Roddy
 * playlist (watchée) : https://www.youtube.com/playlist?list=PLXqBczzY5Ivg
@@ -12,8 +9,10 @@ Short URLs for single-page PDFs :
 
 Com'
 * [x] https://lucas-c.itch.io/abductes
+    https://itch.io/docs/creators/getting-indexed
 * [x] https://lucas-c.github.io/jdr/
-* [ ] https://chezsoi.org/lucas/blog/ & https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+* [x] https://chezsoi.org/lucas/blog/ & https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
+* [x] https://www.drivethrurpg.com/fr/product/577661
 * [ ] https://www.casusno.fr
 * [ ] https://www.reddit.com/r/jdr
 * [ ] serveurs Discord : CestPadDuJdr, PTGPTB
@@ -352,7 +351,7 @@ Le déroulement de cette seconde partie est identique, avec Olivia comme interlo
 
 ## Remerciements
 
-Ce jeu de rôle a été conçu, rédigé et mis en page par Lucas Cimon, entre mars & avril 2026.
+Ce jeu de rôle a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/) au printemps 2026. Ce PDF a été généré le {{ day }}.
 
 L'inspiration originale pour ce jeu est un court-métrage de science-fiction : **_Final Offer_ de Mark Slutsky**, visionnable (en anglais) : [ici sur la chaîne YouTube DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). J'ai également été inspiré par [les jeux _For The Story_](https://forthestory.fr/jeux/) ainsi que le court jeu de rôle [_The last coffee shop on the left_](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html) de Shane McLean. Merci à eux.
 

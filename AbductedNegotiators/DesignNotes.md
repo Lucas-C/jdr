@@ -27,3 +27,7 @@ Mots clefs pour trouver des images :
 ## Illustration de background
 * _greyscale beam_ : trop "basique", je ne trouve pas le rendu suffisamment intéressant / joli
 * je laisse tomber pour le moment : je ne suis pas inspiré, et je préfère publier le jeu "tel quel"
+
+# Distribution papier
+* adapter mise en page pour format A5x2, notamment en agrandissant les cartes
+* remplacer crâne par QRCode sur version monopage

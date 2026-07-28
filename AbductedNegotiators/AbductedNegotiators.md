@@ -1,6 +1,8 @@
 <!-- Com'
 * [x] https://old.reddit.com/r/RPGdesign/comments/1t4bzut/abducted_negotiators_looking_for_a_proofreader_on/
-* [ ] https://lucas-c.itch.io/abducted-negotiators
+* [x] https://lucas-c.itch.io/abducted-negotiators
+* [x] https://www.drivethrurpg.com/en/product/577659
+* [ ] itch.io : publish on https://itch.io/board/10022/release-announcements & add devlogs
 * [ ] contacter le réalisateur du court-métrage
 * [ ] chercher des compétitions de TTRPG
 
@@ -334,11 +336,13 @@ The gameplay of this second round is identical, with Olivia as the negotiator.
 
 ---
 
-<br><br>
+<br>
 
 ## Acknowledgements
 
-This role-playing game was designed, written and laid out by Lucas Cimon between March and April 2026.
+This role-playing game was designed, written and laid out by [Lucas Cimon](https://chezsoi.org/lucas/) in spring 2026.
+<br>
+This PDF document was produced on {{ day }}.
 
 The original inspiration for this game is a science fiction short film: **_Final Offer_ by Mark Slutsky**, which can be viewed: [there on the DUST YouTube channel DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). I was also inspired by the game [_For The Queen_](https://en.wikipedia.org/wiki/For_the_Queen_(game)) and the short TTRPG _The Last Coffee Shop on the Left_ by Shane McLean. Many thanks to them.
 

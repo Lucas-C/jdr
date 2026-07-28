@@ -39,7 +39,7 @@ Il comporte très peu de jets mais nécessite deux dés à 8 faces (d8), trois j
 et optionnellement un chronomètre.
 
 ::: web-only
-- [Version PDF @itch.io](https://lucas-c.itch.io/2200-le-jugement-des-dieux)
+- [Version PDF : sur itch.io](https://lucas-c.itch.io/2200-le-jugement-des-dieux)
 
 - Article de blog présentant le jeu : <https://chezsoi.org/lucas/blog/2200-le-jugement-des-dieux.html>
 :::

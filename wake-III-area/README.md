@@ -22,6 +22,7 @@ French driver loaded.
 * https://en.wikipedia.org/wiki/Operation_Bayshield & quake-III-based machinima
 
 ## Maps
+* PROMISING: https://probabletrain.itch.io/dungeon-scrawl : different styles, use Two Minute Tabletop assets, isometric maps, etc.
 * Trilemma one-page-dungeon Dissolution : http://blog.trilemma.com/2016/05/there-is-no-god-but-dissolution.html
 * Tiled + Kenney isometric dungeon: https://www.kenney.nl/assets/isometric-miniature-dungeon
 * https://danifm.itch.io/dnd-map-sketcher (not updated since 2020)
@@ -82,3 +83,6 @@ French driver loaded.
 * [fernand0fc](https://www.deviantart.com/fernand0fc/) weapons
 * [Quake III arena characters](https://quake.fandom.com/wiki/Category:Quake_III_Arena_characters):
   Anarki Angel Biker Bitterman Bones Cadaver Crash Daemia Doom Gorre Grunt Hossman Hunter Keel Klesk Lucy Major Mynx Orbb Patriot Phobos Ranger Razor Sarge Slash Sorlag Stripe Tank Jr. Uriel Visor Wrack Xaero
+
+## Visual effets
+* nice filter: https://captain4lk.itch.io/slk-img2pixel
