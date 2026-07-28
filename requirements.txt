@@ -8,6 +8,7 @@ pillow==12.3.0
 pip-upgrader==2.4.5
 pypdf==6.14.2
 python-poppler==0.4.1
+PyYAML==6.0.3
 qrcode==8.2
 requests==2.34.2
 # [WARN] weasyprint==69.0 "breaks" this CSS style used in AbductedNegotiators & CriticalFondation : background-image: repeating-radial-gradient
