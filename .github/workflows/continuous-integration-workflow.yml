@@ -26,6 +26,11 @@ jobs:
         id: tag
         uses: battila7/get-version-action@v2
 
+      - name: Set up Python 🔧
+        uses: actions/setup-python@v7
+        with:
+          python-version: 3.13
+
       - name: Set up NodeJS 🔧
         uses: actions/setup-node@v2
         with:

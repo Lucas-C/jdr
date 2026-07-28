@@ -358,7 +358,7 @@ Thanks to the creators of the fonts used: [Impact Label by Michael Tension](http
 
 I'd love to hear about your experience of playing _Abducted Negotiators_!
 
-You can tell me about it by leaving a comment on [my blog](https://chezsoi.org/lucas/) or on [the game's itch.io page](https://lucas-c.itch.io/abducted-negotiators).
+You can tell me about it by leaving a comment on [my blog](https://chezsoi.org/lucas/blog/abducted-negotiators-abductes.html) or on [the game's itch.io page](https://lucas-c.itch.io/abducted-negotiators).
 
 I also would be happy to receive suggestions for adding cards to the _Galactic Trade Code_ below!
 

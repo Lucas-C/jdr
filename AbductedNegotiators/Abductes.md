@@ -367,7 +367,7 @@ Merci aux créateurs des polices de caractères employées : [Impact Label par M
 
 J'adorerais savoir comment s'est déroulée votre partie d'_Abductés_ !
 
-Vous pouvez me la raconter en laissant un commentaire sur [mon blog](https://chezsoi.org/lucas/) ou sur [la page itch.io du jeu](https://lucas-c.itch.io/abductes).
+Vous pouvez me la raconter en laissant un commentaire sur [mon blog](https://chezsoi.org/lucas/blog/abducted-negotiators-abductes.html) ou sur [la page itch.io du jeu](https://lucas-c.itch.io/abductes).
 
 Si cela vous inspire, je serais ravi de recevoir des suggestions d'ajouts de cartes pour le _Code du Commerce Galactique_ ci-dessous !
 
