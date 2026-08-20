@@ -22,7 +22,7 @@ French driver loaded.
 * https://en.wikipedia.org/wiki/Operation_Bayshield & quake-III-based machinima
 
 ## Maps
-* PROMISING: https://probabletrain.itch.io/dungeon-scrawl : different styles, use Two Minute Tabletop assets, isometric maps, etc.
+* PROMISING: https://probabletrain.itch.io/dungeon-scrawl / https://www.dungeonscrawl.com/fr : different styles, use Two Minute Tabletop assets, isometric maps, etc. -> 7€/mois
 * Trilemma one-page-dungeon Dissolution : http://blog.trilemma.com/2016/05/there-is-no-god-but-dissolution.html
 * Tiled + Kenney isometric dungeon: https://www.kenney.nl/assets/isometric-miniature-dungeon
 * https://danifm.itch.io/dnd-map-sketcher (not updated since 2020)

@@ -1,4 +1,11 @@
-<!-- Short URLs for songs :
+<!-- New version:
+* ajouter watermarks
+* fournir ADJ séparées dans 1 PDF
+* partager capture ecran 1ere page du PDF sur itch.io
+
+Fancy typographics: ДвĐυ𝖼тéѕ
+
+Short URLs for songs :
 * https://chezsoi.org/s/abductes1 -> https://www.youtube.com/watch?v=CozLBYsIUAg Alien Abduction - Dark Sci-fi Ambient Drone Music
 * https://chezsoi.org/s/abductes2 -> https://www.youtube.com/playlist?list=OLAK5uy_mUNNnEMaCcbXmG70e8uJe9-FZHyinoghw Citizen Sleeper OST - Amos Roddy
 * playlist (watchée) : https://www.youtube.com/playlist?list=PLXqBczzY5Ivg
@@ -9,13 +16,21 @@ Short URLs for single-page PDFs :
 
 Com'
 * [x] https://lucas-c.itch.io/abductes
-    https://itch.io/docs/creators/getting-indexed
+      & https://lucas-c.itch.io/abductes/devlog/1619125/-cration-et-publication-d
 * [x] https://lucas-c.github.io/jdr/
 * [x] https://chezsoi.org/lucas/blog/ & https://chezsoi.org/lucas/blog/pages/jeux-de-role.html
-* [x] https://www.drivethrurpg.com/fr/product/577661
-* [ ] https://www.casusno.fr
-* [ ] https://www.reddit.com/r/jdr
-* [ ] serveurs Discord : CestPadDuJdr, PTGPTB
+* [x] https://www.drivethrurpg.com/fr/product/577661/Abductes?affiliate_id=637718
+* [x] https://old.reddit.com/r/jdr/comments/1v9usoo/jai_publié_mon_premier_jdr_à_prix_fixe_двđυ𝖼тéѕ/
+* [x] Scénarurgien : https://lascenarurgie.com/pages/contact
+* [x] Gulix par email le 6/08
+* [x] https://ludotheque-imaginaire.fr/jeu/abduct-s
+* [x] https://forum.cwowd.com/t/jai-publie-mon-premier-jdr-a-prix-fixe-d-e/82350
+* [x] https://forums.ffjdr.org/t/j-ai-publie-mon-premier-jdr-a-prix-fixe-d-e/3543
+* [x] GROG
+* [x] https://www.casusno.fr/viewtopic.php?t=45570
+* [HS] https://forum.trictrac.net/c/discutons-jeux-de-role/27
+* [ ] serveurs Discord : Auberge des rêveurs, CestPadDuJdr, PTGPTB
+* [ ] chercher d'autres subreddits
 -->
 
 <img src="imgs/beams/pxfuel-alien-abduction-greyscale.png" class="top-right size10">
@@ -351,7 +366,7 @@ Le déroulement de cette seconde partie est identique, avec Olivia comme interlo
 
 ## Remerciements
 
-Ce jeu de rôle a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/) au printemps 2026. Ce PDF a été généré le {{ day }}.
+Ce jeu de rôle a été conçu par [Lucas Cimon](https://chezsoi.org/lucas/?https://chezsoi.org/lucas/?19441e82-eb10-4078-9c5c-3fb2a9ef8fe4) au printemps 2026. Ce PDF a été généré le {{ day }}.
 
 L'inspiration originale pour ce jeu est un court-métrage de science-fiction : **_Final Offer_ de Mark Slutsky**, visionnable (en anglais) : [ici sur la chaîne YouTube DUST](https://www.youtube.com/watch?v=rv8kOzRZK8g). J'ai également été inspiré par [les jeux _For The Story_](https://forthestory.fr/jeux/) ainsi que le court jeu de rôle [_The last coffee shop on the left_](https://chezsoi.org/lucas/blog/ldcslg-et-l-ile-mysterieuse.html) de Shane McLean. Merci à eux.
 
@@ -360,8 +375,8 @@ L'inspiration originale pour ce jeu est un court-métrage de science-fiction : *
 Un grand merci aux playtesteurs & relecteurs de ce jeu : Aurélien, Matthieu, Olivier.
 
 Merci aux développeurs des [logiciels libres](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) employés : [le logiciel de dessin Gimp](https://www.gimp.org/), [l'éditeur de code VSCode](https://code.visualstudio.com/), [le lecteur de PDF Sumatra](https://www.sumatrapdfreader.org), [le language de programmation Python](https://www.python.org/), et les bibliothèques de code [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
-
 Merci aux créateurs des polices de caractères employées : [Impact Label par Michael Tension](https://www.dafont.com/fr/impact-label.font), [The Orb Report par Kris Derry](https://www.dafont.com/fr/the-orb-report.font) & [Ovnis par Carlos Matteoli](https://www.dafont.com/ovnis.font).
+Afin d'éviter les pubs sur YouTube (et ailleurs), je vous recommande l'extension de navigateur web [uBlock Origin](https://ublockorigin.com/fr).
 
 <p class="half-break"></p>
 

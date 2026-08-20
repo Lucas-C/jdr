@@ -5,5 +5,5 @@ Pages `itch.io` dédiées au jeu :
 
 Pages _DriveThruRPG_ dédiées au jeu :
 
-* [Abductés (FR)](https://www.drivethrurpg.com/fr/product/577661)
-* [Abducted Negotiatiors (EN)](https://www.drivethrurpg.com/en/product/577659)
+* [Abductés (FR)](https://www.drivethrurpg.com/fr/product/577661/Abductes?affiliate_id=637718)
+* [Abducted Negotiatiors (EN)](https://www.drivethrurpg.com/en/product/577659/Abducted-Negotiators?affiliate_id=637718)
