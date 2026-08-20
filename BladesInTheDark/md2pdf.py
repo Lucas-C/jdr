@@ -16,18 +16,24 @@ SRC_FILES = (
     CSS_FILEPATH := DIR / "style.css",
     # Uncomment one of those lines if you only want to --watch/re-build a single PDF :
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/BladesInTheDark/
-    DEMON_MD_FILEPATH   := DIR / "BitD-DemonSheet.md",
-    RITUELS_MD_FILEPATH := DIR / "BitD-Rituels.md",
-    BdlCaL_MD_FILEPATH  := DIR / "BitD-LesBasesDeLaChasseAuLeviathan.md",
-    REGLES_MD_FILEPATH  := DIR / "BitD-DeepCuts-NouvellesRegles.md",
-    PCsQS_MD_FILEPATH   := DIR / "BitD-PCsQuickSummary.md",
-    INT_EN_MD_FILEPATH  := DIR / "BitD-Interrogation.md",
-    INT_FR_MD_FILEPATH  := DIR / "BitD-Interrogatoires.md",
+    DEMON_MD_FILEPATH         := DIR / "BitD-DemonSheet.md",
+    RITUELS_MD_FILEPATH       := DIR / "BitD-Rituels.md",
+    BdlCaL_MD_FILEPATH        := DIR / "BitD-LesBasesDeLaChasseAuLeviathan.md",
+    REGLES_MD_FILEPATH        := DIR / "BitD-DeepCuts-NouvellesRegles.md",
+    PCsQS_MD_FILEPATH         := DIR / "BitD-PCsQuickSummary.md",
+    AFFLICTIONS_MD_FILEPATH   := DIR / "BitD-Afflictions.md",
+    ETHNOS_POWERS_MD_FILEPATH := DIR / "BitD-PouvoirsEthnos.md",
+    RECAP_S17_MD_FILEPATH     := DIR / "BitD-RecapDebutDeSession17.md",
+    INT_EN_MD_FILEPATH        := DIR / "BitD-Interrogation.md",
+    INT_FR_MD_FILEPATH        := DIR / "BitD-Interrogatoires.md",
 )
 
 METADATA = {
-    DEMON_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
-    RITUELS_MD_FILEPATH: { "lang": "fr" },  # TODO before publishing
+    ETHNOS_POWERS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },
+    AFFLICTIONS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 4 },
+    RECAP_S17_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },
+    DEMON_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },  # TODO before publishing
+    RITUELS_MD_FILEPATH: { "lang": "fr", "expected_pages_count": 1 },  # TODO before publishing
     INT_FR_MD_FILEPATH: {
         "title": "Blades in the Dark - Interrogatoires",
         "lang": "fr",
@@ -62,6 +68,7 @@ METADATA = {
         "lang": "en",
         "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "aide-de-jeu", "table", "characters"),
         "description": "A simple table to keep track of the main characteristics of the Player Characters in Blades in the Dark",
+        "bookmarks": False,
         "expected_pages_count": 1,
     },
 }
@@ -72,7 +79,7 @@ def build_pdf(target_md_file=None):
     if target_md_file is None and len(sys.argv) > 1 and sys.argv[-1].endswith(".md"):
         target_md_file = Path(DIR / sys.argv[-1])
     for md_src_file in SRC_FILES[2:]:
-        metadata = METADATA[md_src_file]
+        metadata = {**METADATA[md_src_file]}
         lang = metadata.pop("lang")
         if target_md_file is None or target_md_file == md_src_file:
             build_single_pdf(md_src_file, metadata, lang)
@@ -80,9 +87,10 @@ def build_pdf(target_md_file=None):
 def build_single_pdf(md_filepath, metadata, lang):
     start = perf_counter()
     out_filepath = md_filepath.with_suffix(".pdf")
+    bookmarks = metadata.pop("bookmarks", True)
     expected_pages_count = metadata.pop("expected_pages_count", None)
     with out_filepath.open("wb") as out_pdf_file:
-        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count, lang=lang, metadata=metadata))
+        out_pdf_file.write(markdown2pdf(DIR, md_filepath, CSS_FILEPATH, expected_pages_count, lang=lang, metadata=metadata, bookmarks=bookmarks))
     set_metadata(out_filepath, **metadata, lang=lang)
     print(f"{out_filepath} has been rebuilt in {perf_counter() - start:.1f}s")
 

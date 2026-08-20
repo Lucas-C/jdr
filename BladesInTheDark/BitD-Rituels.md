@@ -21,6 +21,7 @@
 
 * [10 Rituals I've made up @ reddit.com](https://reddit.com/r/bladesinthedark/comments/1h5f75k/10_rituals_ive_made_up/)
 * [Ritual ideas? @ reddit.com](https://reddit.com/r/bladesinthedark/comments/1aeu1wj/ritual_ideas/)
+* [Krenshaw’s Grimoire](https://will-rider.itch.io/krenshaws-grimoire): 30+ weird, powerful, and terrifying rituals ($10)
 
 <style>
 body { font-size: 1.2rem; }

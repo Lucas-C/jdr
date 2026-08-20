@@ -5,8 +5,8 @@ Pages `itch.io` dédiées au jeu :
 
 Pages _DriveThruRPG_ dédiées au jeu :
 
-* [2200 : Le jugement des dieux (FR)](https://www.drivethrurpg.com/fr/product/578027)
-* [2200 : The gods judgement (EN)](https://www.drivethrurpg.com/en/product/578026)
+* [2200 : Le jugement des dieux (FR)](https://www.drivethrurpg.com/product/578027/2200--Le-jugement-des-dieux?affiliate_id=637718)
+* [2200 : The gods judgement (EN))](https://www.drivethrurpg.com/en/product/578026/2200-The-gods-judgement?affiliate_id=637718)
 
 <!-- Direct download links:
 * https://chezsoi.org/s/2200LJDD11DirectPDFDownload (FR)
