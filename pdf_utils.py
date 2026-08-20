@@ -1,4 +1,4 @@
-import asyncio, io, logging, re, requests
+import asyncio, io, logging, os, re, requests
 from contextlib import contextmanager
 from datetime import datetime
 from functools import partial
@@ -110,8 +110,9 @@ def html2pdf(dir, html, css_filepath=None, expected_pages_count=None, lang=None,
     if expected_pages_count is not None:
         pages_count = len(doc.pages)
         if pages_count != expected_pages_count:
-            doc.write_pdf(bytes_io)
-            upload_pdf_img(bytes_io.getvalue())
+            if "CI" in os.environ:
+                doc.write_pdf(bytes_io)
+                upload_pdf_img(bytes_io.getvalue())
             raise RuntimeError(f"Wrong page count in rendered document: {pages_count} whereas there should be {expected_pages_count}")
     if not bookmarks:
         for page in doc.pages:
@@ -448,7 +449,8 @@ async def watch_periodically(module, watcher, delay_secs=.8):
     except Exception:
         print_exc()
     await asyncio.sleep(delay_secs)
-    xreload(module, new_annotations={"XRELOADED": True})
+    # Lucas (2025/08/16) : disabling xreload for now due to https://github.com/Lucas-C/xreload/issues/13
+    # xreload(module, new_annotations={"XRELOADED": True})
     await asyncio.create_task(watch_periodically(module, watcher, delay_secs))
 
 

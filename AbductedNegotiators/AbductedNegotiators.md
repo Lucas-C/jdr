@@ -1,10 +1,16 @@
-<!-- Com'
+<!-- Fancy typographics: ДвĐυ𝖼тvεĐ ηε𝔤⊕тᎥαт๏Ʀѕ
+
+Com'
 * [x] https://old.reddit.com/r/RPGdesign/comments/1t4bzut/abducted_negotiators_looking_for_a_proofreader_on/
 * [x] https://lucas-c.itch.io/abducted-negotiators
-* [x] https://www.drivethrurpg.com/en/product/577659
-* [ ] itch.io : publish on https://itch.io/board/10022/release-announcements & add devlogs
-* [ ] contacter le réalisateur du court-métrage
-* [ ] chercher des compétitions de TTRPG
+* [x] https://www.drivethrurpg.com/en/product/577659/Abducted-Negotiators?affiliate_id=637718
+* [x] email envoyé au réalisateur du court-métrage, Mark Slutsky, le 29 juillet 2026
+* [x] https://lucas-c.itch.io/abducted-negotiators/devlog/1619179/-creation-and-release-of-
+* [x] itch.io release announcement: https://itch.io/t/6755361/-release-of-ttrpg-one-shot
+* [x] https://old.reddit.com/r/RPGcreation/comments/1vh7ls9/ive_published_my_first_fixedprice_rpg_abducted/?
+* [x] DUST : email + YouTube comment
+* [x] https://rpggeek.com/rpgitem/476517/abducted-negotiators
+* [ ] https://boardgamegeek.com/forum/31/bgg/press-releases
 
 ## Proof-reading
 There's what I'm looking for regarding proof-reading:
@@ -340,7 +346,7 @@ The gameplay of this second round is identical, with Olivia as the negotiator.
 
 ## Acknowledgements
 
-This role-playing game was designed, written and laid out by [Lucas Cimon](https://chezsoi.org/lucas/) in spring 2026.
+This role-playing game was designed, written and laid out by [Lucas Cimon](https://chezsoi.org/lucas/?c4170fb5-b53b-4345-8a64-abe28791d755) in spring 2026.
 <br>
 This PDF document was produced on {{ day }}.
 
@@ -351,8 +357,8 @@ The original inspiration for this game is a science fiction short film: **_Final
 A big shout out to the playtesters and proofreaders of this game: Aurélien, Matthieu, and Olivier.
 
 Thanks to the developers of the free and open-source software used: [GIMP](https://www.gimp.org/), [VSCode](https://code.visualstudio.com/), [Sumatra PDF reader](https://www.sumatrapdfreader.org), [the Python programming language](https://www.python.org/), an the code libraries [mistletoe](https://pypi.org/project/mistletoe/) & [weasyprint](https://weasyprint.org/).
-
 Thanks to the creators of the fonts used: [Impact Label by Michael Tension](https://www.dafont.com/fr/impact-label.font), [The Orb Report by Kris Derry](https://www.dafont.com/fr/the-orb-report.font) & [UFOs by Carlos Matteoli](https://www.dafont.com/ovnis.font).
+In order to avoid ads on YouTube (and elsewhere), I strongly recommend the web browser addon [uBlock Origin](https://ublockorigin.com/fr).
 
 <br>
 
