@@ -37,7 +37,11 @@ jobs:
           node-version: 18
 
       - name: Install dependencies ⚙️
+        # Constraining swig version as a workaround for: https://github.com/py-pdf/fpdf2/issues/1928 / https://github.com/LudovicRousseau/PyKCS11/issues/167
+        env:
+          PIP_BUILD_CONSTRAINT: constraints.txt
         run: |
+          echo 'swig<4.5' > "$PIP_BUILD_CONSTRAINT"
           sudo apt install graphviz libpoppler-cpp-dev
           echo "Listing fonts globally installed in the system:"
           fc-list
