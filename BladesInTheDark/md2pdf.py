@@ -27,9 +27,11 @@ SRC_FILES = (
     BdlCaL_MD_FILEPATH        := DIR / "BitD-LesBasesDeLaChasseAuLeviathan.md",
     ETHNOS_POWERS_MD_FILEPATH := DIR / "BitD-PouvoirsEthnos.md",
     RECAP_S17_MD_FILEPATH     := DIR / "BitD-RecapDebutDeSession17.md",
+    README_MD_FILEPATH        := DIR / "README.md",
 )
 
 METADATA = {
+    README_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },
     ETHNOS_POWERS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },
     RECAP_S17_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 2 },
     AFFLICTIONS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 4 },  # TODO before publishing
