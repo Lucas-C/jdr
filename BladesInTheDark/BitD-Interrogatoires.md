@@ -430,7 +430,7 @@ Il peut être utile de t'éclipser au bon moment, pour laisser place à ces conf
 ## Remerciements
 Merci aux auteurs du [Petit manuel d'autodéfense en interrogatoire, aux éditions du commun](https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire), qui m'a servi d'inspiration pour cette aide de jeu.
 
-Merci à [Elliot Jolivet aka Tenseï](https://www.artstation.com/ej_tensei) pour les illustrations employées dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé sur le _thread_ [Reddit r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
+Merci à [Elliot Jolivet aka Tenseï](https://www.artstation.com/ej_tensei) pour les illustrations employées dans cette aide de jeu, qu'il a réalisé spécialement pour _Blades in the Dark_. Vous pouvez retrouvez quelques autres illustrations qu'il a réalisé pour ce jeu sur [r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/search?q=author%3Alucas-c&restrict_sr=on).
 
 L'illustration de l'automate provient de la collection [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) de [Jeff Preston](http://team-preston.com) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)),
 les icônes de [game-icons.net](https://game-icons.net),

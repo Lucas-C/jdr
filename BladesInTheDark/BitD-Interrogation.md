@@ -436,7 +436,7 @@ It may be useful to slip away at the right time, to make room for confessions...
 ## Acknowledgments
 Many thanks to the authors of [Small manual of self-defense in interrogation](https://www.editionsducommun.org/products/petit-manuel-dautodefense-en-interrogatoire), which served as inspiration for me for this game module.
 
-Thanks to [Elliot Jolivet aka Tensei](https://www.artstation.com/ej_tensei) for the illustrations used in this game module, which he created especially for _Blades in the Dark_. You can find some other illustrations he created on the [Reddit thread r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/comments/16quv7u/comment/k1z9cz6/).
+Thanks to [Elliot Jolivet aka Tensei](https://www.artstation.com/ej_tensei) for the illustrations used in this game module, which he created especially for _Blades in the Dark_. You can find some other illustrations he created on the [Reddit: r/bladesinthedark](https://www.reddit.com/r/bladesinthedark/search?q=author%3Alucas-c&restrict_sr=on).
 
 The illustration of the automaton comes from the collection [108 Terrible Character Portraits](https://www.drivethrurpg.com/product/91360/108-Terrible-Character-Portraits) by [Jeff Preston](http://team-preston.com) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)),
 the icons from [game-icons.net](https://game-icons.net),

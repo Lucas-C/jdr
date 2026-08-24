@@ -54,4 +54,7 @@ ________________________________________
   Une blessure sévère / fatale ou plusieurs modérées auront en général raison d'un démon.
 * la Qualité du pacte indique à quel point il est solide / il sera difficile pour le démon d'en abuser
 * on raconte qu'il existe de très anciens pactes démoniaques, sous formes de parchemins, encore valides et qui permettent d'imposer sa volonté à de très puissants démons...
+* générateurs de noms de démons :
+  + nom : https://www.fantasynamegenerators.com/demon-names.php
+  + nom secret : https://www.fantasynamegenerators.com/lamia-names.php
 -->

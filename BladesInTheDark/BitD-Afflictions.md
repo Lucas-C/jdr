@@ -43,8 +43,10 @@ saoûl | pétrifié
 
 <br>
 
-Ce module pour _Blades in the Dark_ est une création de Lucas Cimon - [ludochaordic @ chezsoi.org](https://chezsoi.org/lucas/blog/) - [jeux sur itch.io](https://lucas-c.itch.io/).
-Les illustrations proviennent du jeu [Battle for Wesnoth (github.com)](https://github.com/wesnoth/resources) et du [Chao's Art Pack (itch.io)](https://chaoclypse.itch.io/chaos-art-pack-pwyw).
+Ce module pour _Blades in the Dark_ a été conçu en 2026 par Lucas Cimon.
+Retrouvez moi sur [Ludochaordic @ chezsoi.org](https://chezsoi.org/lucas/blog/) et [mes jeux sur itch.io](https://lucas-c.itch.io/).
+<br>
+Les illustrations proviennent du jeu [Battle for Wesnoth (github.com)](https://github.com/wesnoth/resources), de [game-icons.net (skoll - CC-BY)](https://game-icons.net/1x1/skoll/knockout.html) et du [Chao's Art Pack (itch.io)](https://chaoclypse.itch.io/chaos-art-pack-pwyw).
 
 <p class="page-break"></p>
 
@@ -334,3 +336,41 @@ Ne prends pas en compte ce dé pour déterminer le résultat de ton jet.
 ::: <!-- end of .affliction -->
 
 :::: <!-- end of .afflictions -->
+
+<style>
+.afflictions-rules { font-size: 1.2rem; }
+.afflictions-rules td, .afflictions-rules th { padding: .5rem; }
+
+.afflictions {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 1rem;
+  row-gap: 1rem;
+}
+.affliction {
+  height: 20rem;
+  background-image: url(img/BitD_bg-transparent-vertical.png);
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: contain;
+  /* border: green 1px solid; */
+}
+.affliction h2 { font-size: 1rem; text-align: center; margin-top: 1rem; }
+.affliction h1 { font-size: 1.7rem; margin: .5rem; }
+.affliction.small-title h1 { font-size: 1.5rem; }
+.affliction hr { width: 50%; margin: 3rem auto; }
+.affliction img {
+  background: none;
+  width:  8rem;
+  height: 8rem;
+  border-radius: 4rem;
+}
+.affliction img.no-circle { border-radius: .01rem; }
+.affliction img.picto { width: 4rem; height: 4rem; margin-bottom: 2rem; }
+.affliction p {
+  font-size: .75rem;
+  line-height: .8rem;
+  width: 58%;
+  margin: .5rem auto 0;
+}
+</style>
