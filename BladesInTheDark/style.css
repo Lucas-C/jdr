@@ -182,6 +182,7 @@ th:nth-child(2), td:nth-child(2) { padding-left: .5rem; }
 }
 .insert p { margin-bottom: .5rem; }
 .insert ul { margin-top: initial; margin-bottom: 0; }
+.insert ol li::after { background-color: #d6dfdf; }
 
 .info {
   clear: both;

@@ -16,13 +16,13 @@ SRC_FILES = (
     CSS_FILEPATH := DIR / "style.css",
     # The last one listed below will be rendered at https://lucas-c.github.io/jdr/BladesInTheDark/
     AFFLICTIONS_MD_FILEPATH   := DIR / "BitD-Afflictions.md",
-    DEMON_MD_FILEPATH         := DIR / "BitD-DemonSheet.md",
+    DEMON_EN_MD_FILEPATH      := DIR / "BitD-DemonSheet.md",
+    DEMON_FR_MD_FILEPATH      := DIR / "BitD-FeuilleDeDemon.md",
     INT_EN_MD_FILEPATH        := DIR / "BitD-Interrogation.md",
     INT_FR_MD_FILEPATH        := DIR / "BitD-Interrogatoires.md",
     PCsQS_MD_FILEPATH         := DIR / "BitD-PCsQuickSummary.md",
     RITUELS_MD_FILEPATH       := DIR / "BitD-Rituels.md",
     ITEMS_MD_FILEPATH         := DIR / "BitD-SpecialItems.md",
-    # Own use only:
     REGLES_MD_FILEPATH        := DIR / "BitD-DeepCuts-NouvellesRegles.md",
     BdlCaL_MD_FILEPATH        := DIR / "BitD-LesBasesDeLaChasseAuLeviathan.md",
     ETHNOS_POWERS_MD_FILEPATH := DIR / "BitD-PouvoirsEthnos.md",
@@ -35,9 +35,24 @@ METADATA = {
     ETHNOS_POWERS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },
     RECAP_S17_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 2 },
     AFFLICTIONS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 4 },  # TODO before publishing
-    DEMON_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 1 },  # TODO before publishing
     ITEMS_MD_FILEPATH: { "lang": "fr", "bookmarks": False },  # TODO before publishing
     RITUELS_MD_FILEPATH: { "lang": "fr", "bookmarks": False, "expected_pages_count": 2 },  # TODO before publishing
+    DEMON_FR_MD_FILEPATH: {
+        "title": "Blades in the Dark - Feuille de démon",
+        "lang": "fr",
+        "keywords": ("jdr", "ttrpg", "Blades-in-the-Dark", "roleplay", "aide-de-jeu", "démon"),
+        "description": "Une feuille de démon pour le jeu de rôle Blades in the Dark",
+        "bookmarks": False,
+        "expected_pages_count": 1
+    },
+    DEMON_EN_MD_FILEPATH: {
+        "title": "Blades in the Dark - Demon sheet",
+        "lang": "en",
+        "keywords": ("ttrpg", "Blades-in-the-Dark", "roleplay", "module", "demon"),
+        "description": "A demon sheet for the tabletop roleplaying game Blades in the Dark",
+        "bookmarks": False,
+        "expected_pages_count": 1
+    },
     INT_FR_MD_FILEPATH: {
         "title": "Blades in the Dark - Interrogatoires",
         "lang": "fr",

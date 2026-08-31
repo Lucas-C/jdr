@@ -83,6 +83,7 @@ jobs:
             sed -i "s/Version: [0-9].[0-9]/Version: ${GIT_TAG/BladesInTheDark-v/}/" BitD-Interrogation.md
           fi
           ./md2pdf.py
+          ./build-2up-pdf.sh
           if [[ $GIT_TAG =~ ^BladesInTheDark-Interrogatoires-v ]]; then
             mv BitD-Interrogatoires.pdf ../$GIT_TAG.pdf
           fi
@@ -157,10 +158,12 @@ jobs:
           cd GirlUnderground
           if [[ $GIT_TAG =~ ^girl-underground- ]]; then
             sed -i "s/v[0-9]\.[0-9.]\+/${GIT_TAG/girl-underground-/}/" README.md
-            ./md2pdf.py && ./build-2up-pdf.sh
+            ./md2pdf.py
+            ./build-2up-pdf.sh
             mv GirlUnderground-FR-2up.pdf ../$GIT_TAG.pdf
           else
-            ./md2pdf.py && ./build-2up-pdf.sh
+            ./md2pdf.py
+            ./build-2up-pdf.sh
           fi
           cd -
 
