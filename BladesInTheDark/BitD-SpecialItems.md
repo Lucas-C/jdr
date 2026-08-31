@@ -1,6 +1,3 @@
-<!-- à ajouter :
-* huge bombe
--->
 <img src="img/BitD-logo.png" alt="Blades in the Dark" class="size20">
 <br><br>
 
@@ -165,6 +162,18 @@ Casser une branche permet de remonter dans le temps
 ## Masque aux Milles Visages
 
 Permet de changer d'apparence à volonté.
+
+:::
+
+<!-- à partir d'ici je n'ai pas encore imprimé les cartes
+
+::: item
+
+![](img/HugeBomb-noBg.png)
+
+## Huge bomb
+
+Tier V
 
 :::
 

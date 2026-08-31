@@ -4,22 +4,22 @@
 
 <br>
 
-## Nom
+## Name
 ________________________________________
 
 <br><br>
 
-## Nom secret
+## Secret name
 ________________________________________
 
 <br><br>
 
-## Affinité
+## Affinity
 ________________________________________
 
 <br><br>
 
-## Apparence
+## Appearance
 ________________________________________
 <br>
 
@@ -29,32 +29,22 @@ ________________________________________
 ________________________________________
 <br><br>
 
-## Sombre désir
+## Dark desire
 ________________________________________
 
 <br><br>
 
-## Qualité du pacte
+## Pact quality
 ________________________________________
 
 <br><br><br>
 
 :::: insert large big
-## Rappels
-* **un pacte**, un contrat écrit, détermine toujours les conditions selon lesquelles un démon se met au service d'un humain
-* un démon est généralement plus fort et rapide qu'un humain
-* un démon n'a pas d'écho dans le _Ghost Field_
-* lorsqu'un démon meurt physiquement, il est ramené... ailleurs. "Dans son plan".
-* un démon peut se téléporter d'un lieu lié à son affinité à un autre
-* de même, un démon peut voir à distance, sa perception portant à travers les matières liées à son affinité
+## Reminders
+* A **pact**, a written contract, always determines the conditions under which a demon enters the service of a human.
+* Demons are generally stronger and faster than humans.
+* A demon has no echo in the _Ghost Field_.
+* When a demon physically dies, it is brought back... elsewhere, in their “original plane”.
+* A demon can teleport from one location related to its affinity to another.
+* Similarly, a demon can see at a distance; its perception extends through matter related to its affinity.
 ::::
-
-<!-- Notes
-* par souci de simplicité, pas de gestion des blessures / armure...
-  Une blessure sévère / fatale ou plusieurs modérées auront en général raison d'un démon.
-* la Qualité du pacte indique à quel point il est solide / il sera difficile pour le démon d'en abuser
-* on raconte qu'il existe de très anciens pactes démoniaques, sous formes de parchemins, encore valides et qui permettent d'imposer sa volonté à de très puissants démons...
-* générateurs de noms de démons :
-  + nom : https://www.fantasynamegenerators.com/demon-names.php
-  + nom secret : https://www.fantasynamegenerators.com/lamia-names.php
--->
