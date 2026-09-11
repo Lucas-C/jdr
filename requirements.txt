@@ -12,4 +12,4 @@ PyYAML==6.0.3
 qrcode==8.2
 requests==2.34.2
 # [WARN] weasyprint==69.0 "breaks" this CSS style used in AbductedNegotiators & CriticalFondation : background-image: repeating-radial-gradient
-weasyprint==68.0
+weasyprint==70.0
